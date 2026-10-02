@@ -9,6 +9,7 @@
   members:
   - solad
   partOfSpeech: n
+  source: 'LSG, Wisteria: solad'
 13883265-n:
   definition:
   - confidence: 0.0
@@ -19,6 +20,7 @@
   members:
   - plána
   partOfSpeech: n
+  source: 'LSG, Wisteria: plána'
 13886392-n:
   definition:
   - confidence: 0.0
@@ -30,6 +32,7 @@
   members:
   - líne
   partOfSpeech: n
+  source: 'LSG, Wisteria: líne'
 13893319-n:
   definition:
   - confidence: 0.0
@@ -40,6 +43,7 @@
   members:
   - ingear
   partOfSpeech: n
+  source: 'LSG, Wisteria: ingear'
 13893574-n:
   definition:
   - confidence: 0.0
@@ -51,6 +55,7 @@
   members:
   - asamtóit
   partOfSpeech: n
+  source: 'LSG, Wikidata: asamtóit'
 13895231-n:
   definition:
   - confidence: 0.0
@@ -61,6 +66,7 @@
   members:
   - cón
   partOfSpeech: n
+  source: 'LSG, Wikidata: cón'
 13896141-n:
   definition:
   - confidence: 0.0
@@ -72,6 +78,7 @@
   members:
   - ciorcal
   partOfSpeech: n
+  source: 'LSG, Wisteria: ciorcal'
 13897824-n:
   definition:
   - confidence: 0.0
@@ -82,6 +89,7 @@
   members:
   - diosca
   partOfSpeech: n
+  source: 'LSG, Wisteria: diosca'
 13898031-n:
   definition:
   - confidence: 0.0
@@ -92,6 +100,7 @@
   members:
   - fáinne
   partOfSpeech: n
+  source: 'LSG, Wisteria: fáinne'
 13901273-n:
   definition:
   - confidence: 0.0
@@ -103,6 +112,7 @@
   members:
   - cearnóg
   partOfSpeech: n
+  source: 'LSG, Wisteria: cearnóg'
 13901783-n:
   definition:
   - confidence: 0.0
@@ -113,6 +123,7 @@
   members:
   - ceathairshleasán
   partOfSpeech: n
+  source: 'LSG, Wikidata: ceathairshleasán'
 13901977-n:
   definition:
   - confidence: 0.0
@@ -123,6 +134,7 @@
   members:
   - triantán
   partOfSpeech: n
+  source: 'LSG, Wisteria: triantán'
 13903832-n:
   definition:
   - confidence: 0.0
@@ -133,6 +145,7 @@
   members:
   - comhthreomharán
   partOfSpeech: n
+  source: 'LSG, Wikidata: comhthreomharán'
 13904933-n:
   definition:
   - confidence: 0.0
@@ -143,6 +156,7 @@
   members:
   - heicseagán
   partOfSpeech: n
+  source: 'LSG, Wikidata: heicseagán'
 13905144-n:
   definition:
   - confidence: 0.0
@@ -153,6 +167,7 @@
   members:
   - heipteagán
   partOfSpeech: n
+  source: 'LSG, Wikidata: heipteagán'
 13905220-n:
   definition:
   - confidence: 0.0
@@ -163,6 +178,7 @@
   members:
   - ochtagán
   partOfSpeech: n
+  source: 'LSG, Wikidata: ochtagán'
 13905618-n:
   definition:
   - confidence: 0.0
@@ -173,6 +189,7 @@
   members:
   - rombas
   partOfSpeech: n
+  source: 'LSG, Wikidata: rombas'
 13906003-n:
   definition:
   - confidence: 0.0
@@ -183,6 +200,7 @@
   members:
   - dronuilleog
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: dronuilleog'
 13907168-n:
   definition:
   - confidence: 0.0
@@ -194,6 +212,7 @@
   members:
   - priosma
   partOfSpeech: n
+  source: 'LSG, Wikidata: priosma'
 13909064-n:
   definition:
   - confidence: 0.0
@@ -205,6 +224,7 @@
   members:
   - parabóil
   partOfSpeech: n
+  source: 'LSG, Wikidata: parabóil'
 13910202-n:
   definition:
   - confidence: 0.0
@@ -216,6 +236,7 @@
   members:
   - uillinn
   partOfSpeech: n
+  source: 'LSG, Wisteria: uillinn'
 13917127-n:
   definition:
   - confidence: 0.0
@@ -226,6 +247,7 @@
   members:
   - easbhrú
   partOfSpeech: n
+  source: 'LSG, Wisteria: easbhrú'
 13918679-n:
   definition:
   - confidence: 0.0
@@ -236,6 +258,7 @@
   members:
   - nód
   partOfSpeech: n
+  source: 'LSG, Wisteria: nód'
 13918910-n:
   definition:
   - confidence: 0.0
@@ -246,6 +269,7 @@
   members:
   - corrán
   partOfSpeech: n
+  source: 'LSG, Wisteria: corrán'
 13922097-n:
   definition:
   - confidence: 0.0
@@ -257,6 +281,7 @@
   - grán
   - liathróid
   partOfSpeech: n
+  source: 'LSG, Wisteria: grán, liathróid'
 13924116-n:
   definition:
   - confidence: 0.0
@@ -267,6 +292,7 @@
   members:
   - millín
   partOfSpeech: n
+  source: 'LSG, Wisteria: millín'
 13924278-n:
   definition:
   - confidence: 0.0
@@ -277,6 +303,7 @@
   members:
   - braon
   partOfSpeech: n
+  source: 'LSG, Wisteria: braon'
 13926085-n:
   definition:
   - confidence: 0.0
@@ -287,6 +314,7 @@
   members:
   - teorainn
   partOfSpeech: n
+  source: 'LSG, Wisteria: teorainn'
 13926582-n:
   definition:
   - confidence: 0.0
@@ -297,6 +325,7 @@
   members:
   - imeall
   partOfSpeech: n
+  source: 'LSG, Wisteria: imeall'
 13933399-n:
   definition:
   - confidence: 0.0
@@ -307,6 +336,7 @@
   members:
   - spás
   partOfSpeech: n
+  source: 'LSG, Wisteria: spás'
 13934060-n:
   definition:
   - confidence: 0.0
@@ -317,6 +347,7 @@
   members:
   - nód
   partOfSpeech: n
+  source: 'LSG, Wisteria: nód'
 13934887-n:
   definition:
   - confidence: 0.0
@@ -327,6 +358,7 @@
   members:
   - pointe
   partOfSpeech: n
+  source: 'LSG, Wisteria: pointe'
 13936007-n:
   definition:
   - confidence: 0.0
@@ -337,6 +369,7 @@
   members:
   - scrogall
   partOfSpeech: n
+  source: 'LSG, Wisteria: scrogall'
 13937870-n:
   definition:
   - confidence: 0.0
@@ -348,6 +381,7 @@
   members:
   - pirimid
   partOfSpeech: n
+  source: 'LSG, Wisteria: pirimid'
 13938146-n:
   definition:
   - confidence: 0.0
@@ -358,3 +392,4 @@
   members:
   - teitrihéadrán
   partOfSpeech: n
+  source: 'LSG, Wikidata: teitrihéadrán'

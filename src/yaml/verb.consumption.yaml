@@ -14,6 +14,7 @@
   - ith
   - tomhail
   partOfSpeech: v
+  source: 'Horizon: tóg, slog; Horizon, LSG: ionghabh; LSG, Wisteria: caith, ith, tomhail'
 01159815-v:
   definition:
   - confidence: 0.0
@@ -24,6 +25,7 @@
   members:
   - ídigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: ídigh'
 01161188-v:
   definition:
   - leas a bhaint; úsáid a bhaint as chun críche ar leith nó chun a chríche dúchasaí
@@ -38,6 +40,8 @@
   - bain úsáid as
   - bain feidhm as
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: úsáid; Horizon, LSG: cuir i bhfeidhm, bain úsáid as,
+    bain feidhm as'
 01164741-v:
   definition:
   - confidence: 0.0
@@ -49,6 +53,7 @@
   - athchúrsáil
   - athúsáid
   partOfSpeech: v
+  source: 'LSG, Wisteria: athchúrsáil, athúsáid'
 01165070-v:
   definition:
   - confidence: 0.0
@@ -59,6 +64,7 @@
   members:
   - saothraigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: saothraigh'
 01168409-v:
   definition:
   - cuir in úsáid
@@ -71,6 +77,7 @@
   - feidhmigh
   - cuir i bhfeidhm
   partOfSpeech: v
+  source: 'Horizon, Wisteria: feidhmigh; Horizon: cuir i bhfeidhm'
 01170802-v:
   definition:
   - bia soladach a ghlacadh isteach
@@ -82,6 +89,7 @@
   members:
   - ith
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: ith'
 01172332-v:
   definition:
   - glac isteach leachtanna
@@ -93,6 +101,7 @@
   members:
   - ól
   partOfSpeech: v
+  source: 'Horizon, LSG: ól'
 01183463-v:
   definition:
   - confidence: 0.0
@@ -103,6 +112,7 @@
   members:
   - cothaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: cothaigh'
 01184318-v:
   definition:
   - cuir ar fáil mar bia
@@ -115,6 +125,7 @@
   - cothaigh
   - beathaigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: cothaigh; LSG, Wisteria: beathaigh'
 01185006-v:
   definition:
   - tabhair a bhfuil ag teastáil nó a theastaíonn, go háirithe tacaíocht, bia nó cothú
@@ -127,6 +138,7 @@
   - soláthair
   - freastail
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: soláthair; Horizon, Wisteria: freastail'
 01185870-v:
   definition:
   - líon, sásaigh nó riachtanas nó coinníoll nó srian a chomhlíonadh
@@ -143,6 +155,7 @@
   - sásaigh
   - comhlíon
   partOfSpeech: v
+  source: 'Horizon: líon, oiriúnach, cloí le, le chéile; Horizon, Wisteria: sásaigh, comhlíon'
 01191258-v:
   definition:
   - gá a bheith ag
@@ -154,6 +167,7 @@
   members:
   - teastaigh ó
   partOfSpeech: v
+  source: 'Horizon: teastaigh ó'
 01191646-v:
   definition:
   - a bhfuil nó a bhraitheann go bhfuil gá le
@@ -165,6 +179,7 @@
   members:
   - riachtanas
   partOfSpeech: v
+  source: 'Horizon: riachtanas'
 01195161-v:
   definition:
   - bheith in ann spáráil nó a thabhairt suas
@@ -176,3 +191,4 @@
   members:
   - bheith ar acmhainn ag
   partOfSpeech: v
+  source: 'Horizon: bheith ar acmhainn ag'

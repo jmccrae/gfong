@@ -8,6 +8,7 @@
   members:
   - análaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: análaigh'
 00010428-v:
   definition:
   - iompair ar bhealach áirithe, iompar áirithe a thaispeáint, iompair
@@ -23,6 +24,7 @@
   - éigiontaigh
   - gníomhaigh
   partOfSpeech: v
+  source: 'Horizon: iompar, díbirt, éigiontaigh; Horizon, LSG: déan, gníomhaigh'
 00014735-v:
   definition:
   - a bheith i do chodladh
@@ -33,6 +35,7 @@
   - codail
   - bí i do chodladh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: codail; Horizon: bí i do chodladh'
 00018806-v:
   definition:
   - confidence: 0.0
@@ -43,6 +46,7 @@
   members:
   - dúisigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: dúisigh'
 00028558-v:
   definition:
   - gotha gnúise a athrú faoi na beola a shíneadh, go minic chun pléisiúr a chur in
@@ -54,6 +58,7 @@
   - déan miongháire
   - déan meangadh gáire
   partOfSpeech: v
+  source: 'Horizon, LSG: déan miongháire; Horizon: déan meangadh gáire'
 00031813-v:
   definition:
   - gáire a dhéanamh
@@ -66,6 +71,7 @@
   - léirigh áthas
   - taispeáin greann
   partOfSpeech: v
+  source: 'Horizon: bí ag gáire, léirigh áthas, taispeáin greann; Horizon, LSG: déan gáire'
 00035769-v:
   definition:
   - confidence: 0.0
@@ -76,6 +82,7 @@
   members:
   - glan
   partOfSpeech: v
+  source: 'LSG, Wisteria: glan'
 00052091-v:
   definition:
   - a bheith gléasta i
@@ -88,6 +95,7 @@
   - caith
   - bí ar
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: caith; Horizon: bí ar'
 00054856-v:
   definition:
   - confidence: 0.0
@@ -98,6 +106,7 @@
   members:
   - atáirg
   partOfSpeech: v
+  source: 'LSG, Wisteria: atáirg'
 00056076-v:
   definition:
   - confidence: 0.0
@@ -108,6 +117,7 @@
   members:
   - póraigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: póraigh'
 00063866-v:
   definition:
   - confidence: 0.0
@@ -118,6 +128,7 @@
   members:
   - maolaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: maolaigh'
 00064414-v:
   definition:
   - confidence: 0.0
@@ -128,6 +139,7 @@
   members:
   - gortaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: gortaigh'
 00064841-v:
   definition:
   - confidence: 0.0
@@ -138,6 +150,7 @@
   members:
   - fulaing
   partOfSpeech: v
+  source: 'LSG, Wisteria: fulaing'
 00065141-v:
   definition:
   - a bheith ag fulaingt mar gheall ar, a bheith tinn
@@ -150,6 +163,7 @@
   - ag
   - roimh
   partOfSpeech: v
+  source: 'Horizon: ag, roimh'
 00065410-v:
   definition:
   - dul faoi (mar ghortuithe agus tinnis)
@@ -163,6 +177,7 @@
   - fulaing
   - a bheith ag
   partOfSpeech: v
+  source: 'Horizon: faigh, a bheith ag; Horizon, LSG: fulaing'
 00065962-v:
   definition:
   - deora a chaillfidh mar gheall ar bhrón, buile nó pian
@@ -174,6 +189,7 @@
   members:
   - caoin
   partOfSpeech: v
+  source: 'Horizon, LSG: caoin'
 00069650-v:
   definition:
   - confidence: 0.0
@@ -184,6 +200,7 @@
   members:
   - gortaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: gortaigh'
 00070949-v:
   definition:
   - confidence: 0.0
@@ -194,6 +211,7 @@
   members:
   - céas
   partOfSpeech: v
+  source: 'LSG, Wisteria: céas'
 00081834-v:
   definition:
   - feabhas a chur ar riocht na
@@ -205,6 +223,7 @@
   members:
   - cuidigh le
   partOfSpeech: v
+  source: 'Horizon: cuidigh le'
 00082316-v:
   definition:
   - confidence: 0.0
@@ -215,6 +234,7 @@
   members:
   - leigheas
   partOfSpeech: v
+  source: 'LSG, Wisteria: leigheas'
 00086072-v:
   definition:
   - confidence: 0.0
@@ -225,6 +245,7 @@
   members:
   - insteall
   partOfSpeech: v
+  source: 'LSG, Wisteria: insteall'
 00094214-v:
   definition:
   - teacht chun (gnéithe agus tréithe fisiceacha) a athrú nó dul faoi
@@ -239,6 +260,7 @@
   - forbair
   - gin
   partOfSpeech: v
+  source: 'Horizon: faigh, fás, gin; Horizon, Wisteria: forbair'
 00105712-v:
   definition:
   - bheith feasach ar staid fhisiciúil, mheabhrach nó mhothúnach
@@ -250,3 +272,4 @@
   members:
   - mothaigh
   partOfSpeech: v
+  source: 'Horizon, Wisteria: mothaigh'

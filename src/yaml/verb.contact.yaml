@@ -10,6 +10,7 @@
   - buail
   - teagmhaigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: buail; LSG, Wisteria: teagmhaigh'
 01210571-v:
   definition:
   - confidence: 0.0
@@ -20,6 +21,7 @@
   members:
   - clúdaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: clúdaigh'
 01216829-v:
   definition:
   - a fháil i lámha duine, tóg go fisiceach
@@ -33,6 +35,7 @@
   - faigh greim ar
   - glac
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: tóg; Horizon: faigh greim ar; LSG, Wisteria: glac'
 01217701-v:
   definition:
   - glac i gcoimeád
@@ -48,6 +51,7 @@
   - sáinnigh
   - gabh
   partOfSpeech: v
+  source: 'Horizon: pioc suas, gabháil, beir ar, sáinnigh; Horizon, LSG, Wisteria: gabh'
 01217985-v:
   definition:
   - confidence: 0.0
@@ -58,6 +62,7 @@
   members:
   - gabh
   partOfSpeech: v
+  source: 'LSG, Wisteria: gabh'
 01219234-v:
   definition:
   - a bheith i lámha duine nó a bheith i ngreim duine
@@ -70,6 +75,7 @@
   - beir ar
   - coinnigh
   partOfSpeech: v
+  source: 'Horizon, LSG: beir ar; LSG, Wisteria: coinnigh'
 01219607-v:
   definition:
   - tacaíocht fhisiciúil a bheith acu; iompar meáchan na
@@ -84,6 +90,7 @@
   - déan
   - iompair
   partOfSpeech: v
+  source: 'Horizon: cothaigh, coinnigh, déan; Horizon, LSG: iompair'
 01227308-v:
   definition:
   - confidence: 0.0
@@ -94,6 +101,7 @@
   members:
   - rialaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: rialaigh'
 01238728-v:
   definition:
   - buail in aghaidh,téigh i dteagmháil tobann le
@@ -107,6 +115,7 @@
   - téigh i bhfeidhm ar
   - buail in aghaidh
   partOfSpeech: v
+  source: 'Horizon, Wisteria: buail; Horizon: téigh i bhfeidhm ar, buail in aghaidh'
 01241204-v:
   definition:
   - confidence: 0.0
@@ -117,6 +126,7 @@
   members:
   - buail
   partOfSpeech: v
+  source: 'LSG, Wisteria: buail'
 01265500-v:
   definition:
   - confidence: 0.0
@@ -127,6 +137,7 @@
   members:
   - scamh
   partOfSpeech: v
+  source: 'LSG, Wisteria: scamh'
 01275580-v:
   definition:
   - confidence: 0.0
@@ -137,6 +148,7 @@
   members:
   - stampáil
   partOfSpeech: v
+  source: 'LSG, Wisteria: stampáil'
 01276378-v:
   definition:
   - confidence: 0.0
@@ -147,6 +159,7 @@
   members:
   - stampáil
   partOfSpeech: v
+  source: 'LSG, Wisteria: stampáil'
 01280538-v:
   definition:
   - confidence: 0.0
@@ -157,6 +170,7 @@
   members:
   - fill
   partOfSpeech: v
+  source: 'LSG, Wisteria: fill'
 01297878-v:
   definition:
   - confidence: 0.0
@@ -167,6 +181,7 @@
   members:
   - ceangail
   partOfSpeech: v
+  source: 'LSG, Wisteria: ceangail'
 01299048-v:
   definition:
   - confidence: 0.0
@@ -177,6 +192,7 @@
   members:
   - ceangail
   partOfSpeech: v
+  source: 'LSG, Wisteria: ceangail'
 01318273-v:
   definition:
   - déan iarracht a aimsiú, nó déan iarracht beithsine de a dheimhniú
@@ -192,6 +208,8 @@
   - bí ar thóir
   - iarr
   partOfSpeech: v
+  source: 'Horizon, LSG: cuardaigh; Horizon, LSG, Wisteria: lorg; Horizon: bí ag tóraíocht,
+    bí ar thóir; LSG, Wisteria: iarr'
 01322669-v:
   definition:
   - confidence: 0.0
@@ -203,6 +221,7 @@
   - bain
   - buain
   partOfSpeech: v
+  source: 'LSG, Wisteria: bain, buain'
 01325518-v:
   definition:
   - confidence: 0.0
@@ -213,6 +232,7 @@
   members:
   - maraigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: maraigh'
 01326622-v:
   definition:
   - a chur faoi deara a bhású; a chur chun báis, de ghnáth d'aon ghnó nó go feasach
@@ -224,6 +244,7 @@
   members:
   - maraigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: maraigh'
 01335412-v:
   definition:
   - clúdach a sholáthar nó a chur faoi deara a chumhdach
@@ -236,6 +257,7 @@
   - clúdaigh
   - cumhdaigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: clúdaigh; LSG, Wisteria: cumhdaigh'
 01343121-v:
   definition:
   - confidence: 0.0
@@ -247,6 +269,7 @@
   - greamaigh
   - socraigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: greamaigh, socraigh'
 01347791-v:
   definition:
   - bogadh ionas go gcuirtear bac ar oscailt nó ar phasáiste; druid
@@ -258,6 +281,7 @@
   members:
   - dún
   partOfSpeech: v
+  source: 'Horizon, LSG: dún'
 01348685-v:
   definition:
   - a chur faoi deara a oscailt nó a bheith oscailte
@@ -269,6 +293,7 @@
   members:
   - oscail
   partOfSpeech: v
+  source: 'Horizon, LSG: oscail'
 01353852-v:
   definition:
   - confidence: 0.0
@@ -279,6 +304,7 @@
   members:
   - bain
   partOfSpeech: v
+  source: 'LSG, Wisteria: bain'
 01356108-v:
   definition:
   - confidence: 0.0
@@ -289,6 +315,7 @@
   members:
   - séalaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: séalaigh'
 01357376-v:
   definition:
   - confidence: 0.0
@@ -300,6 +327,7 @@
   - ceangail
   - nasc
   partOfSpeech: v
+  source: 'LSG, Wisteria: ceangail, nasc'
 01376509-v:
   definition:
   - confidence: 0.0
@@ -310,6 +338,7 @@
   members:
   - spraeáil
   partOfSpeech: v
+  source: 'LSG, Wisteria: spraeáil'
 01381221-v:
   definition:
   - dáil nó scaip go forleathan
@@ -322,6 +351,7 @@
   - scaip
   - leath
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: scaip; LSG, Wisteria: leath'
 01382469-v:
   definition:
   - confidence: 0.0
@@ -332,6 +362,7 @@
   members:
   - athdháil
   partOfSpeech: v
+  source: 'LSG, Wisteria: athdháil'
 01382630-v:
   definition:
   - confidence: 0.0
@@ -342,6 +373,7 @@
   members:
   - athdháil
   partOfSpeech: v
+  source: 'LSG, Wisteria: athdháil'
 01382787-v:
   definition:
   - confidence: 0.0
@@ -353,6 +385,7 @@
   - leath
   - scaip
   partOfSpeech: v
+  source: 'LSG, Wisteria: leath, scaip'
 01383303-v:
   definition:
   - tabhair le chéile nó tar le chéile
@@ -364,6 +397,7 @@
   members:
   - bailigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: bailigh'
 01384737-v:
   definition:
   - confidence: 0.0
@@ -374,6 +408,7 @@
   members:
   - pioc
   partOfSpeech: v
+  source: 'LSG, Wisteria: pioc'
 01407698-v:
   definition:
   - cúis le bogadh trí bhualadh
@@ -385,6 +420,7 @@
   members:
   - buail
   partOfSpeech: v
+  source: 'Horizon, LSG: buail'
 01422127-v:
   definition:
   - confidence: 0.0
@@ -395,6 +431,7 @@
   members:
   - suaith
   partOfSpeech: v
+  source: 'LSG, Wisteria: suaith'
 01424276-v:
   definition:
   - confidence: 0.0
@@ -405,6 +442,7 @@
   members:
   - cuir isteach
   partOfSpeech: v
+  source: 'LSG, Wisteria: cuir isteach'
 01433863-v:
   definition:
   - confidence: 0.0
@@ -416,6 +454,7 @@
   members:
   - póg
   partOfSpeech: v
+  source: 'LSG, Wisteria: póg'
 01435927-v:
   definition:
   - téigh nó tar sa tóir ar agus tabhair nó tóg ar ais
@@ -429,6 +468,7 @@
   - faigh
   - téigh
   partOfSpeech: v
+  source: 'Horizon: tabhair le; Horizon, LSG, Wisteria: faigh; Horizon, Wisteria: téigh'
 01439891-v:
   definition:
   - a chur faoi deara nó a ordú a thógáil, a dhíriú, nó a tharchur go dtí áit eile
@@ -442,6 +482,7 @@
   - seol
   - seol amach
   partOfSpeech: v
+  source: 'Horizon, Wisteria: seol; Horizon: seol amach'
 01440941-v:
   definition:
   - confidence: 0.0
@@ -453,6 +494,7 @@
   - seachaid
   - tabhair
   partOfSpeech: v
+  source: 'LSG, Wisteria: seachaid, tabhair'
 01441539-v:
   definition:
   - a chur faoi deara a bheith i staid nó coinníoll áirithe
@@ -464,6 +506,7 @@
   members:
   - tabhair
   partOfSpeech: v
+  source: 'Horizon, Wisteria: tabhair'
 01441809-v:
   definition:
   - greim a fháil ar an ngluaisne a urghabháil nó a shrianadh nó stop a chur leis
@@ -477,6 +520,7 @@
   - beir
   - gabh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: beir; LSG, Wisteria: gabh'
 01442758-v:
   definition:
   - bog ar aghaidh nó suas chun teagmhaigh le, sa chiall mheafarach freisin
@@ -489,6 +533,7 @@
   - sín
   - téigh i dteagmháil le
   partOfSpeech: v
+  source: 'Horizon, LSG: sín; Horizon: téigh i dteagmháil le'
 01445640-v:
   definition:
   - poll a dhéanamh, go háirithe le cumhacht pointeáilte nó uirlis láimhe
@@ -501,6 +546,7 @@
   - druileáil
   - toll
   partOfSpeech: v
+  source: 'Horizon, LSG: druileáil, toll'
 01449876-v:
   definition:
   - brú nó fórsa a chur ar
@@ -512,6 +558,7 @@
   members:
   - brúigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: brúigh'
 01450719-v:
   definition:
   - a chur faoi deara a bhogadh faoi tharraingt
@@ -523,6 +570,7 @@
   members:
   - tarraing
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: tarraing'
 01452567-v:
   definition:
   - a bhogadh agus a thacú, i bhfeithicil nó i lámha duine nó ar chorp duine
@@ -535,6 +583,7 @@
   - iompair
   - aistrigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: iompair; Horizon, Wisteria: aistrigh'
 01457042-v:
   definition:
   - confidence: 0.0
@@ -545,6 +594,7 @@
   members:
   - tarraing
   partOfSpeech: v
+  source: 'LSG, Wisteria: tarraing'
 01457421-v:
   definition:
   - confidence: 0.0
@@ -555,6 +605,7 @@
   members:
   - tarlaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: tarlaigh'
 01464634-v:
   definition:
   - confidence: 0.0
@@ -565,6 +616,7 @@
   members:
   - measc
   partOfSpeech: v
+  source: 'LSG, Wisteria: measc'
 01466592-v:
   definition:
   - confidence: 0.0
@@ -575,6 +627,7 @@
   members:
   - socraigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: socraigh'
 01469999-v:
   definition:
   - confidence: 0.0
@@ -585,6 +638,7 @@
   members:
   - timpeallaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: timpeallaigh'
 01476839-v:
   definition:
   - confidence: 0.0
@@ -595,6 +649,7 @@
   members:
   - leag amach
   partOfSpeech: v
+  source: 'LSG, Wisteria: leag amach'
 01477180-v:
   definition:
   - confidence: 0.0
@@ -605,6 +660,7 @@
   members:
   - scaoil
   partOfSpeech: v
+  source: 'LSG, Wisteria: scaoil'
 01484705-v:
   definition:
   - a bheith ar fionraí nó a chrochadh
@@ -616,6 +672,7 @@
   members:
   - croch
   partOfSpeech: v
+  source: 'Horizon, Wisteria: croch'
 01487784-v:
   definition:
   - confidence: 0.0
@@ -626,6 +683,7 @@
   members:
   - pacáistigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: pacáistigh'
 01489634-v:
   definition:
   - confidence: 0.0
@@ -636,6 +694,7 @@
   members:
   - cuach
   partOfSpeech: v
+  source: 'LSG, Wisteria: cuach'
 01490749-v:
   definition:
   - confidence: 0.0
@@ -646,6 +705,7 @@
   members:
   - díluchtaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: díluchtaigh'
 01492094-v:
   definition:
   - confidence: 0.0
@@ -656,6 +716,7 @@
   members:
   - díluchtaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: díluchtaigh'
 01492646-v:
   definition:
   - confidence: 0.0
@@ -666,6 +727,7 @@
   members:
   - luchtaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: luchtaigh'
 01493229-v:
   definition:
   - confidence: 0.0
@@ -676,6 +738,7 @@
   members:
   - athlódáil
   partOfSpeech: v
+  source: 'LSG, Wisteria: athlódáil'
 01493347-v:
   definition:
   - confidence: 0.0
@@ -686,6 +749,7 @@
   members:
   - athluchtaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: athluchtaigh'
 01495891-v:
   definition:
   - confidence: 0.0
@@ -696,6 +760,7 @@
   members:
   - stuáil
   partOfSpeech: v
+  source: 'LSG, Wisteria: stuáil'
 01496398-v:
   definition:
   - a chur faoi deara a bheith i staid áirithe; a chur faoi deara rud a bheith i gceangal
@@ -708,6 +773,7 @@
   members:
   - cuir
   partOfSpeech: v
+  source: 'Horizon, Wisteria: cuir'
 01496967-v:
   definition:
   - a chur in áit áirithe nó i láthair theibí
@@ -724,6 +790,8 @@
   - feistigh
   - suigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: leag, cuir; Horizon: socraigh, leabaigh, feistigh; Horizon,
+    LSG: suigh'
 01507886-v:
   definition:
   - dírigh i dtreo duine de bharr na cumhachta síceolaíche nó na buanna fisiceach
@@ -737,6 +805,7 @@
   - tarraing
   - meall
   partOfSpeech: v
+  source: 'Horizon, LSG: tarraing; LSG, Wisteria: meall'
 01508590-v:
   definition:
   - confidence: 0.0
@@ -747,6 +816,7 @@
   members:
   - tarraing
   partOfSpeech: v
+  source: 'LSG, Wisteria: tarraing'
 01511000-v:
   definition:
   - teilg tríd an aer
@@ -758,6 +828,7 @@
   members:
   - caith
   partOfSpeech: v
+  source: 'Horizon, Wisteria: caith'
 01514891-v:
   definition:
   - confidence: 0.0
@@ -768,6 +839,7 @@
   members:
   - tiomáin
   partOfSpeech: v
+  source: 'LSG, Wisteria: tiomáin'
 01528454-v:
   definition:
   - feidhmigh mar a bhfuiltear ag súil leis nuair a úsáidtear é
@@ -782,6 +854,7 @@
   - bí ar siúl
   - bí ag gabháil
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: oibrigh, feidhmigh; Horizon: bí ar siúl, bí ag gabháil'
 01545905-v:
   definition:
   - a bheith i suíomh ina bhfuil uachtar coir duine ingearach agus é tacaithe ag tóin
@@ -793,6 +866,7 @@
   - suigh
   - suigh síos
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: suigh; Horizon: suigh síos'
 01548893-v:
   definition:
   - a bheith i do sheasamh; a bheith ingearach
@@ -807,6 +881,8 @@
   - éirigh i do sheasamh
   - seas suas
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: seas; Horizon: bí i do sheasamh, éirigh i do sheasamh,
+    seas suas'
 01549783-v:
   definition:
   - a bheith ag luí, a bheith sínte; a bheith i suíomh cothrománach
@@ -818,6 +894,7 @@
   members:
   - luigh
   partOfSpeech: v
+  source: 'Horizon, LSG: luigh'
 01552202-v:
   definition:
   - confidence: 0.0
@@ -828,6 +905,7 @@
   members:
   - bain
   partOfSpeech: v
+  source: 'LSG, Wisteria: bain'
 01555301-v:
   definition:
   - scaradh le huirlise nó amhail is go bhfuil uirlis ann
@@ -839,6 +917,7 @@
   members:
   - gearr
   partOfSpeech: v
+  source: 'Horizon, LSG: gearr'
 01566925-v:
   definition:
   - scrios go hiomlán, damáistiú go deo
@@ -850,6 +929,7 @@
   members:
   - scrios
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: scrios'
 01572394-v:
   definition:
   - socruithe le húsáid
@@ -863,6 +943,7 @@
   - cuir isteach
   - suiteáil
   partOfSpeech: v
+  source: 'Horizon: bunaigh; Horizon, LSG: cuir isteach; Horizon, LSG, Wisteria: suiteáil'
 01576107-v:
   definition:
   - confidence: 0.0
@@ -873,6 +954,7 @@
   members:
   - srac
   partOfSpeech: v
+  source: 'LSG, Wisteria: srac'
 01576346-v:
   definition:
   - scar nó a chur faoi deara scar go tobann
@@ -886,6 +968,7 @@
   - stróic
   - réab
   partOfSpeech: v
+  source: 'Horizon: bris; Horizon, LSG: stróic, réab'
 01585566-v:
   definition:
   - confidence: 0.0
@@ -896,6 +979,7 @@
   members:
   - tarraing
   partOfSpeech: v
+  source: 'LSG, Wisteria: tarraing'
 01591414-v:
   definition:
   - confidence: 0.0
@@ -906,3 +990,4 @@
   members:
   - lipéadaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: lipéadaigh'

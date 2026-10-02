@@ -11,6 +11,7 @@
   - spreag
   - meall
   partOfSpeech: v
+  source: 'Horizon, LSG: múscail; Horizon, LSG, Wisteria: spreag; Horizon: meall'
 01763987-v:
   definition:
   - confidence: 0.0
@@ -21,6 +22,7 @@
   members:
   - iarr
   partOfSpeech: v
+  source: 'LSG, Wisteria: iarr'
 01771015-v:
   definition:
   - bheith buartha, imníoch nó míshuaimhneas
@@ -33,6 +35,7 @@
   - bheith buartha
   - bheith imníoch
   partOfSpeech: v
+  source: 'Horizon: bheith buartha, bheith imníoch'
 01771801-v:
   definition:
   - tionchar mothúchánach nó cognaíocha a dul i bhfeidhm ar
@@ -47,6 +50,8 @@
   - téigh i bhfeidhm ar
   - téigh i gcion ar
   partOfSpeech: v
+  source: 'Horizon: goill ar; Horizon, LSG: corraigh, téigh i bhfeidhm ar, téigh i gcion
+    ar'
 01775456-v:
   definition:
   - mothú a bhrath nó meon aigne ar leith a bheith ag
@@ -59,6 +64,7 @@
   - mothaigh
   - braith
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: mothaigh, braith'
 01778057-v:
   definition:
   - ní maith le go dian, mothaigh fuath nó col le
@@ -70,6 +76,7 @@
   members:
   - gráinigh
   partOfSpeech: v
+  source: 'Horizon, LSG: gráinigh'
 01779085-v:
   definition:
   - bíodh gean nó grá mór agat ar
@@ -81,6 +88,7 @@
   members:
   - grá
   partOfSpeech: v
+  source: 'Horizon: grá'
 01781131-v:
   definition:
   - taitneamh nó pléisiúr a bhaint as
@@ -92,6 +100,7 @@
   members:
   - is maith le
   partOfSpeech: v
+  source: 'Horizon, LSG: is maith le'
 01784999-v:
   definition:
   - confidence: 0.0
@@ -102,6 +111,7 @@
   members:
   - imeaglaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: imeaglaigh'
 01793315-v:
   definition:
   - confidence: 0.0
@@ -112,6 +122,7 @@
   members:
   - ciap
   partOfSpeech: v
+  source: 'LSG, Wisteria: ciap'
 01797206-v:
   definition:
   - confidence: 0.0
@@ -122,6 +133,7 @@
   members:
   - gortaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: gortaigh'
 01809490-v:
   definition:
   - confidence: 0.0
@@ -132,6 +144,7 @@
   members:
   - caill
   partOfSpeech: v
+  source: 'LSG, Wisteria: caill'
 01815408-v:
   definition:
   - bí dóchasach; bí lán de dhóchas, bheith ag súil le
@@ -143,6 +156,7 @@
   members:
   - dóchas
   partOfSpeech: v
+  source: 'Horizon: dóchas'
 01816687-v:
   definition:
   - confidence: 0.0
@@ -153,6 +167,7 @@
   members:
   - spreag
   partOfSpeech: v
+  source: 'LSG, Wisteria: spreag'
 01822202-v:
   definition:
   - confidence: 0.0
@@ -163,6 +178,7 @@
   members:
   - spreag
   partOfSpeech: v
+  source: 'LSG, Wisteria: spreag'
 01824240-v:
   definition:
   - pléisiúr a bhaint as nó pléisiúr a fháil ó;
@@ -176,6 +192,7 @@
   - bain sult as
   - bain sásamh as
   partOfSpeech: v
+  source: 'Horizon, LSG: bain taitneamh as, bain sult as, bain sásamh as'
 01826886-v:
   definition:
   - spéis nó ceangal a bheith ag
@@ -187,6 +204,7 @@
   members:
   - bí aireach ar
   partOfSpeech: v
+  source: 'Horizon: bí aireach ar'
 01828678-v:
   definition:
   - súil a bheith agat rud a fháil nó santaigh rud a fháil nó tús áite a thabhairt
@@ -200,6 +218,7 @@
   - maith
   - mian
   partOfSpeech: v
+  source: 'Horizon: maith, mian'
 01829179-v:
   definition:
   - fonn a bheith ar dhuine le haghaidh; bheith ag iarraidh rud éigin go láidir
@@ -211,6 +230,7 @@
   members:
   - bí ag iarraidh
   partOfSpeech: v
+  source: 'Horizon: bí ag iarraidh'
 01830665-v:
   definition:
   - a bheith ag súil le agus a bheith ag dúil le
@@ -225,6 +245,7 @@
   - santaigh
   - mian
   partOfSpeech: v
+  source: 'Horizon: glac le, súil a bheith ag, santaigh, mian'
 01832678-v:
   definition:
   - taitneamh a bhaint as
@@ -237,3 +258,4 @@
   - taitneamh a bhaint as
   - grá
   partOfSpeech: v
+  source: 'Horizon: taitneamh a bhaint as, grá'

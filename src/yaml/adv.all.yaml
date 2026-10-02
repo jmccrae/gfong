@@ -10,6 +10,7 @@
   - ar éigean
   - ach
   partOfSpeech: r
+  source: 'Horizon: gann, tearc, ach; Horizon, LSG: ar éigean'
 00003864-r:
   definition:
   - dáiríre, ag bun nó ag duine (nó a) nádúr féin
@@ -20,6 +21,7 @@
   - go bunúsach
   - dáiríre
   partOfSpeech: r
+  source: 'Horizon: go bunúsach, dáiríre'
 00005103-r:
   definition:
   - agus ní rud ar bith eile
@@ -32,6 +34,7 @@
   - aonair
   - amháin
   partOfSpeech: r
+  source: 'Horizon: go simplí, aonair, amháin; Horizon, LSG: ach'
 00006486-r:
   definition:
   - ar an mórgóir go príomha
@@ -42,6 +45,7 @@
   - don chuid is mó
   - den chuid is mó
   partOfSpeech: r
+  source: 'Horizon: don chuid is mó; Horizon, LSG: den chuid is mó'
 00007414-r:
   definition:
   - (de chainníochtaí) neamhbheacht ach sách ceart
@@ -59,6 +63,9 @@
   - nó mar sin
   - beagnach
   partOfSpeech: r
+  source: 'Horizon: thart ar, a bheag nó a mhór, go garbh, a bheagán nó a mhórán, gar do,
+    nó mar sin, beagnach; Horizon, LSG, Wisteria: timpeall; Horizon, LSG: tuairim
+    is'
 00008102-r:
   definition:
   - go pointe áirithe, go pointe áirithe, ní go hiomlán
@@ -71,6 +78,7 @@
   - páirt-
   - go pointe áirithe
   partOfSpeech: r
+  source: 'Horizon: i bpáirt, cuid, páirt-, go pointe áirithe'
 00008423-r:
   definition:
   - go staid iomlán nó go pointe iomlán; go hiomlán
@@ -83,6 +91,7 @@
   - ar fad
   - amach is amach
   partOfSpeech: r
+  source: 'Horizon: go huile agus go hiomlán, go hiomlán, ar fad, amach is amach'
 00009062-r:
   definition:
   - gan ghníomhaí ar bith a bheith páirteach nó san áireamh
@@ -96,6 +105,7 @@
   - go hiomlán
   - ar fad
   partOfSpeech: r
+  source: 'Horizon: an t-aon, aonair, go hiomlán, ar fad; Horizon, LSG: amháin'
 00009459-r:
   definition:
   - go hiomlán agus gan cháilíocht; úsáidtear go neamhfhoirmiúil mar mhíreanna threise
@@ -107,6 +117,7 @@
   - ar fad
   - go hiomlán
   partOfSpeech: r
+  source: 'Horizon: díreach, ar fad; Horizon, LSG: go hiomlán'
 00010928-r:
   definition:
   - a mhéid; go hiomlán, ar fad nó go huile is go hiomlán; (úsáidtear 'lán' sa chiall
@@ -118,6 +129,7 @@
   - go hiomlán
   - iomlán
   partOfSpeech: r
+  source: 'Horizon: go hiomlán, iomlán'
 00011555-r:
   definition:
   - (úsáidte go minic mar fhoirm comhcheangail) ar bhealach maith nó cuí nó sásúil
@@ -129,6 +141,7 @@
   - maith
   - dea-
   partOfSpeech: r
+  source: 'Horizon: maith, dea-'
 00013241-r:
   definition:
   - 'go críochnúil nó go hiomlán; go hiomlán: á úsáidtear go minic mar fhoirm chomhcheangail'
@@ -138,6 +151,7 @@
   members:
   - go maith
   partOfSpeech: r
+  source: 'Horizon: go maith'
 00014747-r:
   definition:
   - a bheag nó a mhór
@@ -148,6 +162,7 @@
   - go mór
   - go maith
   partOfSpeech: r
+  source: 'Horizon, LSG: go mór; Horizon: go maith'
 00017907-r:
   definition:
   - úsáidtear mar threiseach, go háirithe chun rud nach bhfuiltear ag súil leis a
@@ -158,6 +173,7 @@
   members:
   - fiú
   partOfSpeech: r
+  source: 'Horizon, LSG: fiú'
 00018101-r:
   definition:
   - a bheagán, úsáidtear le comparáidí
@@ -168,6 +184,7 @@
   - fós
   - fiú
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: fós; Horizon: fiú'
 00018764-r:
   definition:
   - go pointe ar leith (mór nó beag)
@@ -179,6 +196,7 @@
   - sách
   - mós
   partOfSpeech: r
+  source: 'Horizon, LSG: cineál; Horizon: sách, mós'
 00019039-r:
   definition:
   - a mhéid, go hiomlán, ar fad
@@ -188,6 +206,7 @@
   members:
   - sách
   partOfSpeech: r
+  source: 'Horizon: sách'
 00019243-r:
   definition:
   - go pointe (ní úsáidtear sa diúltach)
@@ -197,6 +216,7 @@
   members:
   - cineál
   partOfSpeech: r
+  source: 'Horizon: cineál'
 00019801-r:
   definition:
   - i gcónaí; an t-am ar fad agus ag gach ócáid
@@ -210,6 +230,8 @@
   - i dtólamh
   - an t-am ar fad
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: riamh; Horizon: in am ar bith, an t-am ar fad; Horizon,
+    LSG: i gcónaí, i dtólamh'
 00021214-r:
   definition:
   - ar chor ar bith, ní ar aon chúis, ní ag aon phointe san am atá thart nó an todhchaí
@@ -220,6 +242,7 @@
   - riamh
   - choíche
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: riamh; LSG, Wisteria: choíche'
 00021667-r:
   definition:
   - anois is arís agus go hannamh
@@ -234,6 +257,8 @@
   - uaireanta
   - scaití
   partOfSpeech: r
+  source: 'Horizon, LSG: ó am go ham, anois agus arís, corruair, uaireanta, scaití; Horizon:
+    ó am go chéile'
 00022332-r:
   definition:
   - ar ócáidí áirithe nó i gcásanna áirithe ach ní i gcónaí
@@ -245,6 +270,7 @@
   - in amanna
   - scaití
   partOfSpeech: r
+  source: 'Horizon, LSG: uaireanta, scaití; Horizon: in amanna'
 00022585-r:
   definition:
   - go dtí an chéim chéanna (go minic ina dhiadh 'mar')
@@ -257,6 +283,7 @@
   - gach giotán
   - chomh
   partOfSpeech: r
+  source: 'Horizon: mar, go gcothrom, gach giotán; LSG, Wisteria: chomh'
 00022855-r:
   definition:
   - confidence: 0.0
@@ -265,6 +292,7 @@
   members:
   - fadó
   partOfSpeech: r
+  source: 'LSG, Wisteria: fadó'
 00024432-r:
   definition:
   - leagan diúltach d'fhocal nó grúpa focal
@@ -275,6 +303,7 @@
   - ní
   - neamh
   partOfSpeech: r
+  source: 'Horizon: ní, neamh'
 00025968-r:
   definition:
   - i nó ag nó go dtí áit éigin
@@ -284,6 +313,7 @@
   members:
   - áit éigin
   partOfSpeech: r
+  source: 'Horizon, LSG: áit éigin'
 00026948-r:
   definition:
   - úsáidtear chun a chur in iúl go dtugann ráiteas míniú nó tacaíocht do ráiteas
@@ -296,6 +326,7 @@
   - ar aon nós
   - ar aon ráta
   partOfSpeech: r
+  source: 'Horizon: in aon chás, ar aon ráta; Horizon, LSG: ar aon nós'
 00027761-r:
   definition:
   - d'ainneoin a mhalairt (de ghnáth téitear roimh admháil)
@@ -314,6 +345,9 @@
   - ar a shon sin is uile
   - áfach
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: fós; Horizon: fós féin, é sin ráite, áfach ámh, ina ainneoin
+    sin, d''ainneoin, ar a shon sin is uile; Horizon, LSG: mar sin féin, ina dhiaidh
+    sin féin; LSG, Wisteria: áfach'
 00028314-r:
   definition:
   - úsáidtear i ráiteas diúltach chun cur síos a dhéanamh ar chás a bhí ann go dtí
@@ -325,6 +359,7 @@
   - go fóill
   - go dtí seo
   partOfSpeech: r
+  source: 'Horizon: go fóill; Horizon, LSG: go dtí seo'
 00029763-r:
   definition:
   - ag cur eolas breise in iúl
@@ -340,6 +375,8 @@
   - lena chois sin
   - ar a bharr sin
   partOfSpeech: r
+  source: 'Horizon, LSG: chomh maith leis sin, ina theannta sin, lena chois sin; Horizon,
+    Wisteria: freisin; Horizon: fosta, ar a bharr sin'
 00030381-r:
   definition:
   - go dtí nó ag céim níos airde nó ag céim níos forbartha (úsáidtear 'níos faide'
@@ -351,6 +388,7 @@
   - níos faide
   - tuilleadh
   partOfSpeech: r
+  source: 'Horizon: níos faide, tuilleadh'
 00031700-r:
   definition:
   - ag déanamh tagairt do ghníomh nó coinníoll; gan athrú, cur isteach nó stad
@@ -361,6 +399,7 @@
   - fós
   - go fóill
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: fós; Horizon, LSG: go fóill'
 00031911-r:
   definition:
   - ní anois
@@ -371,6 +410,7 @@
   - ní níos mó
   - ní
   partOfSpeech: r
+  source: 'Horizon: ní níos mó, ní'
 00032194-r:
   definition:
   - roimh am sonraithe nó intuigthe
@@ -381,6 +421,7 @@
   - cheana féin
   - cheana
   partOfSpeech: r
+  source: 'Horizon: cheana féin; Horizon, LSG: cheana'
 00032295-r:
   definition:
   - úsáidte chun béim a chur in iúl
@@ -397,6 +438,7 @@
   - iontach
   - go mór
   partOfSpeech: r
+  source: 'Horizon: an-, rí-, go hiomlán, fíor-, sár-, go mór; Horizon, Wisteria: iontach'
 00033250-r:
   definition:
   - confidence: 0.0
@@ -405,6 +447,7 @@
   members:
   - feasta
   partOfSpeech: r
+  source: 'LSG, Wisteria: feasta'
 00033695-r:
   definition:
   - ní rabhthas ach bomaite ó shin
@@ -415,6 +458,7 @@
   - díreach
   - díreach anois
   partOfSpeech: r
+  source: 'Horizon: díreach, díreach anois'
 00034050-r:
   definition:
   - go pointe teoranta; cineál
@@ -430,6 +474,7 @@
   - ábhairín
   - giota beag
   partOfSpeech: r
+  source: 'Horizon: beagán, beagáinín, sórt, cineál, saghas, ábhairín, giota beag'
 00034309-r:
   definition:
   - ar ball beag
@@ -446,6 +491,8 @@
   - roimh i bhfad
   - tar éis tamaill
   partOfSpeech: r
+  source: 'Horizon, LSG: gan mhoill, go gairid, ar ball beag, go luath, ar ball, sula i
+    bhfad, roimh i bhfad; Horizon: tar éis tamaill'
 00035445-r:
   definition:
   - go leor uaireanta agus go rialta
@@ -456,6 +503,7 @@
   - go minic
   - go mion agus go minic
   partOfSpeech: r
+  source: 'Horizon, LSG: go minic; Horizon: go mion agus go minic'
 00035772-r:
   definition:
   - ní minic
@@ -466,6 +514,7 @@
   - go hannamh
   - go fánach
   partOfSpeech: r
+  source: 'Horizon, LSG: go hannamh; Horizon: go fánach'
 00036138-r:
   definition:
   - go pointe nó méid áirithe
@@ -481,6 +530,8 @@
   - sách
   - cuibheasach
   partOfSpeech: r
+  source: 'Horizon: rud beag, beagáinín, measartha, sách, cuibheasach; Horizon, LSG: ábhairín,
+    réasúnta'
 00036695-r:
   definition:
   - go staid nó pointe teoranta
@@ -496,6 +547,8 @@
   - a bheag nó a mhór
   - nach mór
   partOfSpeech: r
+  source: 'Horizon, LSG: beagán, ábhairín; Horizon: beagáinín, rud beag, de bheagán, a bheag
+    nó a mhór, nach mór'
 00037620-r:
   definition:
   - i gcomhréir le fírinne nó fíric nó an saol mar atá
@@ -507,6 +560,7 @@
   - fíor-
   - an-
   partOfSpeech: r
+  source: 'Horizon, LSG: dáiríre; Horizon: fíor-, an-'
 00038035-r:
   definition:
   - go fíorúil (úsáidte go minic chun críche géaraithe)
@@ -519,6 +573,7 @@
   - gan amhras
   - mar sin
   partOfSpeech: r
+  source: 'Horizon, LSG: go deimhin; Horizon: gan dabht, gan amhras, mar sin'
 00039019-r:
   definition:
   - mar a bhfuiltear ag súil le
@@ -530,6 +585,7 @@
   - ar ndóigh
   - dar ndóigh
   partOfSpeech: r
+  source: 'Horizon: cinnte, dar ndóigh; Horizon, LSG: ar ndóigh'
 00039452-r:
   definition:
   - gan dabht ná ceist
@@ -539,6 +595,7 @@
   members:
   - is léir
   partOfSpeech: r
+  source: 'Horizon: is léir'
 00039730-r:
   definition:
   - gan aon amhras
@@ -553,6 +610,8 @@
   - de réir dealraimh
   - de réir cosúlachta
   partOfSpeech: r
+  source: 'Horizon: ar ndóigh, amach is amach, go soiléir, de réir dealraimh, de réir cosúlachta;
+    Horizon, LSG: go follasach'
 00040353-r:
   definition:
   - ag breathnú ar chumaí amháin
@@ -566,6 +625,7 @@
   - mar dhea
   - is cosúil
   partOfSpeech: r
+  source: 'Horizon, LSG: de réir dealraimh, de réir cosúlachta, mar dhea; Horizon: is cosúil'
 00040777-r:
   definition:
   - as an nua
@@ -579,6 +639,8 @@
   - arís eile
   - athuair
   partOfSpeech: r
+  source: 'Horizon, LSG: uair amháin eile, athuair; Horizon, LSG, Wisteria: arís; Horizon:
+    arís ar ais, arís eile'
 00042364-r:
   definition:
   - gan idirdhealú a dhéanamh idir ceann amháin agus daoine eile
@@ -590,6 +652,7 @@
   - go ginearálta
   - den chuid is mó
   partOfSpeech: r
+  source: 'Horizon, LSG: de ghnáth; Horizon: go ginearálta, den chuid is mó'
 00043413-r:
   definition:
   - (úsáidte chun conclúid loighciúil a chur i láthair) mar gheall ar fhíric nó cúis
@@ -605,6 +668,8 @@
   - ar an gcaoi sin
   - mar sin de
   partOfSpeech: r
+  source: 'Horizon, LSG: mar sin, dá bhrí sin, mar sin de; Horizon: dá réir sin, dá bharr
+    sin, ar an gcaoi sin'
 00046442-r:
   definition:
   - ar slite nó ar bhealaí eile
@@ -614,6 +679,7 @@
   members:
   - seachas sin
   partOfSpeech: r
+  source: 'Horizon: seachas sin'
 00047930-r:
   definition:
   - gabh thar teorainneacha normálta nó cuí
@@ -627,6 +693,7 @@
   - go neamh-mheasartha
   - as cuimse
   partOfSpeech: r
+  source: 'Horizon: ró-, go hiomarcach, go hainmheasartha, go neamh-mheasartha, as cuimse'
 00048072-r:
   definition:
   - le cois
@@ -641,6 +708,8 @@
   - mar an gcéanna
   - mar a chéile
   partOfSpeech: r
+  source: 'Horizon, LSG: chomh maith; Horizon, LSG, Wisteria: freisin, fosta; Horizon: le,
+    mar an gcéanna, mar a chéile'
 00048441-r:
   definition:
   - mar thoradh deireadh ar chomharbas nó ar phróiseas
@@ -653,6 +722,8 @@
   - ar deireadh thiar thall
   - sa deireadh
   partOfSpeech: r
+  source: 'Horizon, LSG: ar deireadh, faoi dheireadh; Horizon: ar deireadh thiar thall,
+    sa deireadh'
 00048676-r:
   definition:
   - tar éis tréimhse ama neamhshonraithe nó moille an-fhada
@@ -662,6 +733,7 @@
   - sa deireadh
   - ar deireadh thiar
   partOfSpeech: r
+  source: 'Horizon, LSG: faoi dheireadh; Horizon: sa deireadh, ar deireadh thiar'
 00049013-r:
   definition:
   - sa saol seo
@@ -678,6 +750,8 @@
   - san am i láthair
   - i láthair na huaire
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: inniu; Horizon, Wisteria: anois; Horizon: na laethanta
+    seo, sa lá atá inniu ann, faoi láthair, san am i láthair, i láthair na huaire'
 00049277-r:
   definition:
   - gan mhoill nó gan leisce; gan aon idirthréimhse
@@ -694,6 +768,8 @@
   - ar an bpointe boise
   - anois
   partOfSpeech: r
+  source: 'Horizon, LSG: láithreach, láithreach bonn, ar an toirt, ar an bpointe; Horizon:
+    díreach, go tobann, ar an bpointe boise; Horizon, Wisteria: anois'
 00049640-r:
   definition:
   - úsáidtear chun ordú nó casaoid nó iarratas
@@ -705,6 +781,7 @@
   - faoi láthair
   - i láthair na huaire
   partOfSpeech: r
+  source: 'Horizon, Wisteria: anois; Horizon: faoi láthair, i láthair na huaire'
 00049758-r:
   definition:
   - confidence: 0.0
@@ -713,6 +790,7 @@
   members:
   - anois
   partOfSpeech: r
+  source: 'LSG, Wisteria: anois'
 00049971-r:
   definition:
   - san aimsir láithreach stairiúil; ag pointe seo na tráchtaireachta ar shraith nó
@@ -725,6 +803,7 @@
   - faoi láthair
   - i láthair na huaire
   partOfSpeech: r
+  source: 'Horizon, Wisteria: anois; Horizon: faoi láthair, i láthair na huaire'
 00051219-r:
   definition:
   - ag déanamh tagairt dá oiread atá cáilíocht ar leith i gceist
@@ -735,6 +814,7 @@
   - ní
   - ní níos mó
   partOfSpeech: r
+  source: 'Horizon: ní, ní níos mó'
 00052386-r:
   definition:
   - gan diall
@@ -744,6 +824,7 @@
   members:
   - díreach
   partOfSpeech: r
+  source: 'Horizon: díreach'
 00053542-r:
   definition:
   - léiriú comhaontaithe a tharlaíonn ag tús abairte de ghnáth
@@ -751,6 +832,7 @@
   members:
   - ceart go leor
   partOfSpeech: r
+  source: 'Horizon, Wisteria: ceart go leor'
 00054282-r:
   definition:
   - beagnach
@@ -760,6 +842,7 @@
   members:
   - chóir a bheith
   partOfSpeech: r
+  source: 'Horizon: chóir a bheith'
 00057267-r:
   definition:
   - ar aon bhealach
@@ -771,6 +854,7 @@
   - beag ná mór
   - in aon chor
   partOfSpeech: r
+  source: 'Horizon, LSG: ar chor ar bith; Horizon: beag ná mór, in aon chor'
 00059624-r:
   definition:
   - go pointe nó méid mór
@@ -780,6 +864,7 @@
   members:
   - i bhfad
   partOfSpeech: r
+  source: 'Horizon, LSG: i bhfad'
 00060145-r:
   definition:
   - comparáideach de 'go maith', ar bhealach níos fearr nó ar bhealach níos tairbhí
@@ -790,6 +875,7 @@
   members:
   - níos fearr
   partOfSpeech: r
+  source: 'Horizon: níos fearr'
 00060392-r:
   definition:
   - ag dul chun cinn i méid nó déine
@@ -801,6 +887,7 @@
   - de réir a chéile
   - níos mó agus níos mó
   partOfSpeech: r
+  source: 'Horizon: níos mó, de réir a chéile, níos mó agus níos mó'
 00061170-r:
   definition:
   - tráth níos luaithe nó roimhe sin
@@ -811,6 +898,7 @@
   - roimhe sin
   - réamh-
   partOfSpeech: r
+  source: 'Horizon: roimhe sin, réamh-'
 00061477-r:
   definition:
   - níos luaithe ó thaobh ama de; roimhe sin
@@ -822,6 +910,7 @@
   - roimhe
   - níos luaithe
   partOfSpeech: r
+  source: 'Horizon: roimh, níos luaithe; Horizon, LSG: roimhe'
 00061741-r:
   definition:
   - ag tarlú ag am i ndiaidh ama thagartha
@@ -837,6 +926,8 @@
   - níos deireanaí
   - níos moille
   partOfSpeech: r
+  source: 'Horizon, LSG: ina dhiaidh sin, tar éis sin; Horizon: tar éis, níos déanaí, ar
+    ball, níos deireanaí, níos moille'
 00063395-r:
   definition:
   - confidence: 0.0
@@ -845,6 +936,7 @@
   members:
   - dá réir sin
   partOfSpeech: r
+  source: 'LSG, Wisteria: dá réir sin'
 00063710-r:
   definition:
   - in ionad nó mar mhalairt ar
@@ -856,6 +948,7 @@
   - é sin nó
   - de rogha air sin
   partOfSpeech: r
+  source: 'Horizon: ina ionad sin, é sin nó, de rogha air sin'
 00067181-r:
   definition:
   - ag nó i dtosaigh
@@ -867,6 +960,7 @@
   - roimh
   - romhainn
   partOfSpeech: r
+  source: 'Horizon: os comhair, roimh, romhainn'
 00071565-r:
   definition:
   - sa cheantar nó sa chomharsanacht
@@ -876,6 +970,7 @@
   members:
   - timpeall
   partOfSpeech: r
+  source: 'Horizon, Wisteria: timpeall'
 00071856-r:
   definition:
   - confidence: 0.0
@@ -884,6 +979,7 @@
   members:
   - timpeall
   partOfSpeech: r
+  source: 'LSG, Wisteria: timpeall'
 00073433-r:
   definition:
   - (maidir le gníomhaíochtaí nó staideanna) a bheith beagán gann nó níor baineadh
@@ -900,6 +996,8 @@
   - nach mór
   - chóir a bheith
   partOfSpeech: r
+  source: 'Horizon: faoi, a bheag nó a mhór; Horizon, LSG, Wisteria: beagnach; Horizon,
+    LSG: geall le, ionann is, nach mór, chóir a bheith'
 00074163-r:
   definition:
   - don chuid is mó
@@ -909,6 +1007,7 @@
   members:
   - go príomha
   partOfSpeech: r
+  source: 'Horizon: go príomha'
 00074361-r:
   definition:
   - san am atá thart
@@ -918,6 +1017,7 @@
   members:
   - ó shin
   partOfSpeech: r
+  source: 'Horizon, LSG: ó shin'
 00074467-r:
   definition:
   - confidence: 0.0
@@ -926,6 +1026,7 @@
   members:
   - siar
   partOfSpeech: r
+  source: 'LSG, Wisteria: siar'
 00074673-r:
   definition:
   - ar chúl nó ar aghaidh nó i dtreo
@@ -938,6 +1039,7 @@
   - ar gcúl
   - i ndiadh
   partOfSpeech: r
+  source: 'Horizon: cúl, i ndiadh; Horizon, LSG, Wisteria: siar; Horizon, LSG: ar gcúl'
 00075427-r:
   definition:
   - i nó go dtí nó i dtreo suímh a luadh cheana féin
@@ -947,6 +1049,7 @@
   members:
   - ar ais
   partOfSpeech: r
+  source: 'Horizon, LSG: ar ais'
 00079765-r:
   definition:
   - le linn oíche an lae inniu
@@ -957,6 +1060,7 @@
   - tráthnóna
   - anocht
   partOfSpeech: r
+  source: 'Horizon: tráthnóna; Horizon, LSG: anocht'
 00080266-r:
   definition:
   - (i scríbhinn) ag áit níos luaithe
@@ -968,6 +1072,7 @@
   - taobh thuas de
   - thuas
   partOfSpeech: r
+  source: 'Horizon: os cionn, taobh thuas de; LSG, Wisteria: thuas'
 00080519-r:
   definition:
   - confidence: 0.0
@@ -976,6 +1081,7 @@
   members:
   - thuas
   partOfSpeech: r
+  source: 'LSG, Wisteria: thuas'
 00081836-r:
   definition:
   - gach lá, gan cailleadh lá
@@ -985,6 +1091,7 @@
   members:
   - laethúil
   partOfSpeech: r
+  source: 'Horizon: laethúil'
 00084573-r:
   definition:
   - go pointe nó méid níos mó mar atá coitianta
@@ -998,6 +1105,8 @@
   - thar a bheith
   - iontach
   partOfSpeech: r
+  source: 'Horizon, LSG: go háirithe, go mór mór, go speisialta; Horizon: thar a bheith,
+    iontach'
 00086161-r:
   definition:
   - le luas
@@ -1013,6 +1122,8 @@
   - go sciobtha
   - go mear
   partOfSpeech: r
+  source: 'Horizon: gan aon mhoill, caol díreach, ar an toirt, go tapa, go gasta, go sciobtha,
+    go mear'
 00089896-r:
   definition:
   - go pointe nó méid ard; go fabhrach nó ag cur meas in iúl
@@ -1027,6 +1138,7 @@
   - go hard
   - go mór
   partOfSpeech: r
+  source: 'Horizon, LSG: thar a bheith; Horizon: rí-, fíor-, sár, go hard, go mór'
 00095870-r:
   definition:
   - de réir brí spáis nó brí meafaraí, ó leibhéal nó suíomh ard go leibhéal nó suíomh
@@ -1038,6 +1150,7 @@
   - síos
   - anuas
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: síos, anuas'
 00096391-r:
   definition:
   - confidence: 0.0
@@ -1046,6 +1159,7 @@
   members:
   - síos
   partOfSpeech: r
+  source: 'LSG, Wisteria: síos'
 00096883-r:
   definition:
   - de réir brí spáis nó brí meafaraí, ó shuíomh níos ísle go suíomh níos airde
@@ -1057,6 +1171,7 @@
   - aníos
   - in airde
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: suas; Horizon, LSG: aníos, in airde'
 00098390-r:
   definition:
   - ag nó go dtí nó i dtreo teach duine nó clainne
@@ -1067,6 +1182,7 @@
   - baile
   - abhaile
   partOfSpeech: r
+  source: 'Horizon: baile; LSG, Wisteria: abhaile'
 00099264-r:
   definition:
   - a mhalairt
@@ -1077,6 +1193,7 @@
   - in áit
   - in ionad
   partOfSpeech: r
+  source: 'Horizon: in áit, in ionad'
 00099891-r:
   definition:
   - úsáidtear chun breischéim aidiachtaí agus dobhriathra áirithe a dhéanamh, ag tabhairt
@@ -1090,6 +1207,7 @@
   - níos
   - tuilleadh
   partOfSpeech: r
+  source: 'Horizon: a mhór, a mhórán, tuilleadh; Horizon, LSG: níos'
 00100077-r:
   definition:
   - úsáidtear chun breischéim aidiachtaí agus dobhriathair áirithe a dhéanamh, tugtar
@@ -1101,6 +1219,7 @@
   - a bheag nó a mhór
   - níos lú
   partOfSpeech: r
+  source: 'Horizon: a bheag nó a mhór, níos lú'
 00100262-r:
   definition:
   - i gcomparáid le mórán, a bheag nó a mhór
@@ -1110,6 +1229,7 @@
   members:
   - níos mó
   partOfSpeech: r
+  source: 'Horizon: níos mó'
 00101601-r:
   definition:
   - ag nó go dtí nó achar mór sa spás
@@ -1119,6 +1239,7 @@
   members:
   - i bhfad
   partOfSpeech: r
+  source: 'Horizon: i bhfad'
 00101873-r:
   definition:
   - go pointe suntasach
@@ -1128,6 +1249,7 @@
   members:
   - i bhfad
   partOfSpeech: r
+  source: 'Horizon: i bhfad'
 00103286-r:
   definition:
   - roimh aon rud eile
@@ -1138,6 +1260,7 @@
   - ar dtús
   - ar an gcéad dul síos
   partOfSpeech: r
+  source: 'Horizon, LSG: ar dtús, ar an gcéad dul síos'
 00104262-r:
   definition:
   - an t-am tosaigh
@@ -1147,6 +1270,7 @@
   members:
   - céad
   partOfSpeech: r
+  source: 'Horizon: céad'
 00104546-r:
   definition:
   - confidence: 0.0
@@ -1155,6 +1279,7 @@
   members:
   - amach
   partOfSpeech: r
+  source: 'LSG, Wisteria: amach'
 00105032-r:
   definition:
   - ní níos lú ná
@@ -1164,6 +1289,7 @@
   members:
   - ar a laghad
   partOfSpeech: r
+  source: 'Horizon, LSG: ar a laghad'
 00105348-r:
   definition:
   - mura mbeadh ann ach é sin
@@ -1176,6 +1302,7 @@
   - ar scor ar bith
   - pé scéal é
   partOfSpeech: r
+  source: 'Horizon: ar aon nós, ar aon chuma, ar scor ar bith, pé scéal é'
 00107608-r:
   definition:
   - faoi ghnáth-choinníollacha
@@ -1189,6 +1316,8 @@
   - go coitianta
   - go forleathan
   partOfSpeech: r
+  source: 'Horizon, LSG: de ghnáth, go hiondúil, go coitianta; Horizon: go neamhshuntasach,
+    go forleathan'
 00108184-r:
   definition:
   - san am fíordhéanaí atá thart
@@ -1200,6 +1329,7 @@
   - le déanaí
   - déanach
   partOfSpeech: r
+  source: 'Horizon: de déanach, déanach; Horizon, LSG: le déanaí'
 00109247-r:
   definition:
   - san áit seo nó ag an áit seo; an áit ina bhfuil an cainteoir nó an scríbhneoir
@@ -1209,6 +1339,7 @@
   members:
   - anseo
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: anseo'
 00109541-r:
   definition:
   - sa chás seo nó ar an bpointe nó sonra seo
@@ -1218,6 +1349,7 @@
   members:
   - anseo
   partOfSpeech: r
+  source: 'Horizon, Wisteria: anseo'
 00109681-r:
   definition:
   - confidence: 0.0
@@ -1226,6 +1358,7 @@
   members:
   - anseo
   partOfSpeech: r
+  source: 'LSG, Wisteria: anseo'
 00109919-r:
   definition:
   - san áit nó láthair sin nó ag an áit nó láthair sin
@@ -1236,6 +1369,7 @@
   - ansin
   - ann
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: ansin; Horizon, LSG: ann'
 00111276-r:
   definition:
   - confidence: 0.0
@@ -1245,6 +1379,7 @@
   - istigh
   - laistigh
   partOfSpeech: r
+  source: 'LSG, Wisteria: istigh, laistigh'
 00111402-r:
   definition:
   - confidence: 0.0
@@ -1254,6 +1389,7 @@
   - amuigh
   - lasmuigh
   partOfSpeech: r
+  source: 'LSG, Wisteria: amuigh, lasmuigh'
 00111558-r:
   definition:
   - confidence: 0.0
@@ -1263,6 +1399,7 @@
   - istigh
   - laistigh
   partOfSpeech: r
+  source: 'LSG, Wisteria: istigh, laistigh'
 00112352-r:
   definition:
   - úsáidtear chun an sárchéim a dhéanamh, a bheith is mó ó thaobh tomhais nó méid
@@ -1273,6 +1410,7 @@
   members:
   - is mó
   partOfSpeech: r
+  source: 'Horizon: is mó'
 00118527-r:
   definition:
   - ina dhiaidh nó tamall ina dhiaidh (úsáidte go minic mar nascóirí abairte)
@@ -1283,6 +1421,7 @@
   - mar sin
   - ansin
   partOfSpeech: r
+  source: 'Horizon: mar sin; Horizon, LSG, Wisteria: ansin'
 00118799-r:
   definition:
   - ag an am sin
@@ -1296,6 +1435,7 @@
   - ag an am sin
   - ansin
   partOfSpeech: r
+  source: 'Horizon: an uair úd, an tráth úd, ag an am úd, ag an am sin; LSG, Wisteria: ansin'
 00118928-r:
   definition:
   - más amhlaidh an cás nó mar thoradh
@@ -1305,6 +1445,7 @@
   members:
   - mar sin
   partOfSpeech: r
+  source: 'Horizon: mar sin'
 00119259-r:
   definition:
   - ar bhealach a éascaíonn
@@ -1314,6 +1455,7 @@
   members:
   - ionas
   partOfSpeech: r
+  source: 'Horizon: ionas'
 00119765-r:
   definition:
   - ar ócáid amháin
@@ -1326,6 +1468,7 @@
   - trá dá raibh
   - tráth
   partOfSpeech: r
+  source: 'Horizon, LSG: uair amháin; Horizon: geábh amháin, trá dá raibh, tráth'
 00119861-r:
   definition:
   - tráth roimhe sin
@@ -1338,6 +1481,7 @@
   - tráth dá raibh
   - sean
   partOfSpeech: r
+  source: 'Horizon, LSG: uair amháin, tráth; Horizon: tráth dá raibh, sean'
 00120034-r:
   definition:
   - (deafach) áfach
@@ -1349,6 +1493,7 @@
   - ámh
   - mar sin féin
   partOfSpeech: r
+  source: 'Horizon, Wisteria: áfach; Horizon: ámh; Horizon, LSG: mar sin féin'
 00120473-r:
   definition:
   - (codarsnach) ó thaobh eile de
@@ -1359,6 +1504,7 @@
   - ar an lámh eile
   - ansin arís
   partOfSpeech: r
+  source: 'Horizon: ar an lámh eile, ansin arís'
 00120979-r:
   definition:
   - ag an tóirt céanna
@@ -1368,6 +1514,7 @@
   members:
   - ag an am céanna
   partOfSpeech: r
+  source: 'Horizon, LSG: ag an am céanna'
 00122019-r:
   definition:
   - ar an mbealach léirithe
@@ -1379,6 +1526,7 @@
   - dá bhrí sin
   - amhlaidh
   partOfSpeech: r
+  source: 'Horizon, LSG: mar sin; Horizon: dá bhrí sin; LSG, Wisteria: amhlaidh'
 00138870-r:
   definition:
   - ar nós nó ar bhealach comhchosúil
@@ -1390,6 +1538,7 @@
   - mar a chéile
   - amhlaidh
   partOfSpeech: r
+  source: 'Horizon, LSG: mar an gcéanna; Horizon: mar a chéile; LSG, Wisteria: amhlaidh'
 00139421-r:
   definition:
   - le deimhneacht shuntasach; gan mórán amhrais
@@ -1402,6 +1551,8 @@
   - gach seans
   - is dócha
   partOfSpeech: r
+  source: 'Horizon: is dóichí ná a mhalairt, gach seans, is dócha; Horizon, LSG: de réir
+    cosúlachta'
 00145758-r:
   definition:
   - go cinnte nó go dearfach
@@ -1418,6 +1569,8 @@
   - gan amhras
   - gan aon agó
   partOfSpeech: r
+  source: 'Horizon: cinnte, cinnte dearfa, siúráilte, siúráilte glan, gan dabht, gan amhras,
+    gan aon agó; Horizon, LSG: go deimhin'
 00146749-r:
   definition:
   - a oiread agus is gá
@@ -1429,6 +1582,7 @@
   - go leor
   - fuílleach
   partOfSpeech: r
+  source: 'Horizon: neart, fuílleach; Horizon, LSG: go leor'
 00147423-r:
   definition:
   - ag aon am
@@ -1438,6 +1592,7 @@
   members:
   - riamh
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: riamh'
 00147630-r:
   definition:
   - go pointe an-mhór
@@ -1447,6 +1602,7 @@
   members:
   - chomh
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: chomh'
 00147962-r:
   definition:
   - i staid nó slí amhlaidh, go háirithe mar a léiríodh nó mar a cuireadh in iúl
@@ -1457,6 +1613,7 @@
   - amhlaidh
   - mar sin
   partOfSpeech: r
+  source: 'Horizon, Wisteria: amhlaidh; Horizon: mar sin'
 00148422-r:
   definition:
   - go céim chomh mór sin
@@ -1468,6 +1625,7 @@
   - chomh
   - an oiread sin
   partOfSpeech: r
+  source: 'Horizon: a leithéid de, chomh, an oiread sin'
 00148912-r:
   definition:
   - gan stró (úsáidtear 'éasca' uaireanta go neamhfhoirmiúil le haghaidh 'go héasca')
@@ -1478,6 +1636,7 @@
   - go héasca
   - éasca
   partOfSpeech: r
+  source: 'Horizon, LSG: go héasca; Horizon: éasca'
 00149927-r:
   definition:
   - i ndáiríre, le fírinne
@@ -1489,6 +1648,8 @@
   - le bheith cruinn faoi
   - is é fírinne an scéil go
   partOfSpeech: r
+  source: 'Horizon, LSG: déanta na fírinne; Horizon: le bheith cruinn faoi, is é fírinne
+    an scéil go'
 00150568-r:
   definition:
   - is é fírinne an scéil
@@ -1499,6 +1660,7 @@
   - an-
   - dáiríre
   partOfSpeech: r
+  source: 'Horizon: an-, dáiríre'
 00151192-r:
   definition:
   - admhaigh
@@ -1510,6 +1672,7 @@
   - gan amhras
   - gan dabht
   partOfSpeech: r
+  source: 'Horizon: a bheith cinnte, gan amhras, gan dabht'
 00154701-r:
   definition:
   - ag tabhairt aire nó ag tabhairt airde
@@ -1519,6 +1682,7 @@
   members:
   - go cúramach
   partOfSpeech: r
+  source: 'Horizon: go cúramach'
 00156754-r:
   definition:
   - de ghnáth, mar riail
@@ -1530,6 +1694,7 @@
   - den chuid is mó
   - níos minice ná a mhalairt
   partOfSpeech: r
+  source: 'Horizon: go ginearálta, den chuid is mó, níos minice ná a mhalairt'
 00159090-r:
   definition:
   - gan éinne eile nó rud ar bith eile
@@ -1541,6 +1706,7 @@
   - ina aonar
   - gan tionlacan
   partOfSpeech: r
+  source: 'Horizon: aonair, ina aonar, gan tionlacan'
 00159432-r:
   definition:
   - beaichte a chur in iúl
@@ -1556,6 +1722,8 @@
   - go cruinn díreach
   - go pointeáilte
   partOfSpeech: r
+  source: 'Horizon: díreach, go díreach, go beacht, go cruinn, go baileach, go cruinn díreach,
+    go pointeáilte'
 00160239-r:
   definition:
   - mar shampla
@@ -1568,6 +1736,7 @@
   - abraimis
   - m.s
   partOfSpeech: r
+  source: 'Horizon, LSG: mar shampla; Horizon: cuir i gcás, abraimis, m.s'
 00162033-r:
   definition:
   - ar mhodh coibhneasta, trí chomparáid le rud éigin eile
@@ -1578,6 +1747,7 @@
   - measartha
   - réasúnta
   partOfSpeech: r
+  source: 'Horizon: measartha; Horizon, LSG: réasúnta'
 00162829-r:
   definition:
   - gan luas
@@ -1590,6 +1760,7 @@
   - go héasca
   - go furasta
   partOfSpeech: r
+  source: 'Horizon, Wisteria: mall; Horizon: go mall, go héasca, go furasta'
 00167240-r:
   definition:
   - ar feadh tréimhse sínte nó i bhfad i gcéin
@@ -1599,6 +1770,7 @@
   members:
   - fada
   partOfSpeech: r
+  source: 'Horizon: fada'
 00228167-r:
   definition:
   - confidence: 0.0
@@ -1608,6 +1780,7 @@
   - anonn
   - thall
   partOfSpeech: r
+  source: 'LSG, Wisteria: anonn, thall'
 00234593-r:
   definition:
   - as baile
@@ -1617,6 +1790,7 @@
   members:
   - amuigh
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: amuigh'
 00234667-r:
   definition:
   - ó rud nó áit nó suíomh áirithe
@@ -1627,6 +1801,7 @@
   - ar shiúl
   - chun bealaigh
   partOfSpeech: r
+  source: 'Horizon: ar shiúl, chun bealaigh'
 00235026-r:
   definition:
   - confidence: 0.0
@@ -1635,6 +1810,7 @@
   members:
   - amach
   partOfSpeech: r
+  source: 'LSG, Wisteria: amach'
 00235144-r:
   definition:
   - ag bogadh sa treo eile ó áit, go háirithe áit atá foriata nó faoi cheilt
@@ -1644,6 +1820,7 @@
   members:
   - amach
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: amach'
 00245502-r:
   definition:
   - confidence: 0.0
@@ -1652,6 +1829,7 @@
   members:
   - thuaidh
   partOfSpeech: r
+  source: 'LSG, Wisteria: thuaidh'
 00247755-r:
   definition:
   - úsáidtear le haghaidh béime
@@ -1661,6 +1839,7 @@
   members:
   - go díreach
   partOfSpeech: r
+  source: 'Horizon: go díreach'
 00301501-r:
   definition:
   - trí sheans
@@ -1671,6 +1850,7 @@
   - b'fhéidir
   - seans
   partOfSpeech: r
+  source: 'Horizon, LSG: b''fhéidir; Horizon: seans'
 00325301-r:
   definition:
   - confidence: 0.0
@@ -1680,6 +1860,7 @@
   - siar
   - thiar
   partOfSpeech: r
+  source: 'LSG, Wisteria: siar, thiar'
 00325415-r:
   definition:
   - confidence: 0.0
@@ -1688,6 +1869,7 @@
   members:
   - siar
   partOfSpeech: r
+  source: 'LSG, Wisteria: siar'
 00417873-r:
   definition:
   - níos mó ná mar is gá
@@ -1697,6 +1879,7 @@
   members:
   - an iomarca
   partOfSpeech: r
+  source: 'Horizon: an iomarca'
 00504204-r:
   definition:
   - chuig nó i dtreo an taobh istigh de
@@ -1706,3 +1889,4 @@
   members:
   - isteach
   partOfSpeech: r
+  source: 'Horizon, LSG, Wisteria: isteach'

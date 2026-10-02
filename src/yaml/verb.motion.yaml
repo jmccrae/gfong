@@ -9,6 +9,7 @@
   members:
   - bog
   partOfSpeech: v
+  source: 'Horizon: bog'
 01839438-v:
   definition:
   - láthair a athrú, bog, taisteal, nó lean, go meafarach freisin
@@ -24,6 +25,8 @@
   - gabh
   - gluais
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: bog, téigh; Horizon: taisteal; Horizon, LSG: gabh; LSG,
+    Wisteria: gluais'
 01846632-v:
   definition:
   - taistil nó téigh trí chineál áirithe iompair, nó bealach áirithe
@@ -35,6 +38,7 @@
   members:
   - tóg
   partOfSpeech: v
+  source: 'Horizon: tóg'
 01847631-v:
   definition:
   - téigh go áiteanna áirithe mar do fhámaireacht
@@ -46,6 +50,7 @@
   members:
   - cuairt a thabhairt ar
   partOfSpeech: v
+  source: 'Horizon: cuairt a thabhairt ar'
 01850600-v:
   definition:
   - confidence: 0.0
@@ -56,6 +61,7 @@
   members:
   - seol
   partOfSpeech: v
+  source: 'LSG, Wisteria: seol'
 01852660-v:
   definition:
   - bogadh ar shúil ó áit i dtreo eile
@@ -70,6 +76,7 @@
   - bailigh le
   - fág
   partOfSpeech: v
+  source: 'Horizon, Wisteria: téigh; Horizon, LSG: imigh, fág; Horizon: bailigh le'
 01853188-v:
   definition:
   - bog i dtreo, taisteal i dtreo ruda nó duine éigin nó tar i ngiorracht ruda nó
@@ -84,6 +91,7 @@
   - tar aníos
   - tar suas
   partOfSpeech: v
+  source: 'Horizon, Wisteria: tar; Horizon: tar aníos, tar suas'
 01854282-v:
   definition:
   - de réir brí nithiúla agus teibí, a chur faoi deara a bhogadh nó a aistriú go suíomh
@@ -100,6 +108,8 @@
   - athraigh
   - gluais
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: bog; Horizon: cuir as áit; LSG, Wisteria: aistrigh, athraigh,
+    gluais'
 01859141-v:
   definition:
   - confidence: 0.0
@@ -110,6 +120,7 @@
   members:
   - aistrigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: aistrigh'
 01859592-v:
   definition:
   - confidence: 0.0
@@ -120,6 +131,7 @@
   members:
   - bog
   partOfSpeech: v
+  source: 'LSG, Wisteria: bog'
 01860612-v:
   definition:
   - confidence: 0.0
@@ -130,6 +142,7 @@
   members:
   - imirc
   partOfSpeech: v
+  source: 'LSG, Wisteria: imirc'
 01861378-v:
   definition:
   - a bheith in áit áirithe agus gan a fhágáil
@@ -141,6 +154,7 @@
   members:
   - fan
   partOfSpeech: v
+  source: 'Horizon, Wisteria: fan'
 01861703-v:
   definition:
   - confidence: 0.0
@@ -151,6 +165,7 @@
   members:
   - tosaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: tosaigh'
 01864781-v:
   definition:
   - stopadh, stopadh ag bogadh
@@ -164,6 +179,7 @@
   - cuir stop le
   - stad
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: stop, stad; Horizon: cuir stop le'
 01870178-v:
   definition:
   - confidence: 0.0
@@ -174,6 +190,7 @@
   members:
   - roll
   partOfSpeech: v
+  source: 'LSG, Wisteria: roll'
 01875972-v:
   definition:
   - bogadh le fórsa
@@ -186,6 +203,7 @@
   - brúigh
   - cuir brú ar
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: brúigh; Horizon: cuir brú ar'
 01885173-v:
   definition:
   - bog thart gan aidhm nó gan aon cheann scríbe, go minic ar thóir bia nó fostaíochta
@@ -206,6 +224,8 @@
   - bheith ag fánaíocht
   - fánaí
   partOfSpeech: v
+  source: 'Horizon: caith, caith amach, scaip, bheith ag fálróid thart, téigh ar strae,
+    trampáil, téigh ar shiúlóid, bheith ag fánaíocht, fánaí; Horizon, LSG: siúil'
 01889838-v:
   definition:
   - bog go mall, i gcás daoine nó ainmhithe a bhfuil a corp in aice leis an talamh
@@ -217,6 +237,7 @@
   members:
   - bog go mall
   partOfSpeech: v
+  source: 'Horizon: bog go mall'
 01892288-v:
   definition:
   - confidence: 0.0
@@ -227,6 +248,7 @@
   members:
   - sleamhnaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: sleamhnaigh'
 01893603-v:
   definition:
   - bogadh nó a chur faoi deara bogadh anonn is anall
@@ -239,6 +261,7 @@
   - croith
   - corraigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: croith; Horizon: corraigh'
 01908923-v:
   definition:
   - úsáid na gcos chun bogadh chun tosaigh; gluais chun tosaigh faoi chéimeanna a
@@ -252,6 +275,7 @@
   - siúl
   - siúil
   partOfSpeech: v
+  source: 'Horizon: siúl; LSG, Wisteria: siúil'
 01911251-v:
   definition:
   - treoshuíomh nó air a athrú
@@ -265,6 +289,7 @@
   - iompaigh
   - tiontaigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: cas; Horizon, LSG: iompaigh, tiontaigh'
 01916152-v:
   definition:
   - taistil trasna nó téigh thar
@@ -281,6 +306,8 @@
   - téigh trasna
   - gearr trasna
   partOfSpeech: v
+  source: 'Horizon: clúdaigh, cumhdaigh, tar anonn, gearr trasna; Horizon, LSG, Wisteria:
+    trasnaigh; Horizon, LSG: téigh trasna'
 01925957-v:
   definition:
   - dul in airde le dul chun cinn de réir a chéile nó leanúnach
@@ -294,6 +321,7 @@
   - dreap
   - téigh suas
   partOfSpeech: v
+  source: 'Horizon: méadaigh; Horizon, LSG: dreap, téigh suas'
 01930264-v:
   definition:
   - bogadh go tapa faoi úsáid na gcos, le cos amháin ar an talamh ag aon am amháin
@@ -305,6 +333,7 @@
   members:
   - rith
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: rith'
 01934070-v:
   definition:
   - taisteal nó a iompar i bhfeithicil
@@ -317,6 +346,7 @@
   members:
   - tiomáin
   partOfSpeech: v
+  source: 'Horizon: tiomáin'
 01934845-v:
   definition:
   - feithicil a oibriú nó a stiúradh
@@ -328,6 +358,7 @@
   members:
   - tiomáin
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: tiomáin'
 01935739-v:
   definition:
   - an cúrsa a stiúradh; an treo taistil a chinneadh
@@ -341,6 +372,7 @@
   - stiúir
   - bheith i gceannas ar
   partOfSpeech: v
+  source: 'Horizon: treoraigh, ainligh, stiúir, bheith i gceannas ar; Horizon, LSG: ionramháil'
 01939092-v:
   definition:
   - dul nó taisteal i dtreo
@@ -352,6 +384,7 @@
   members:
   - téigh
   partOfSpeech: v
+  source: 'Horizon: téigh'
 01944262-v:
   definition:
   - taisteal tríd an aer, bí san aer
@@ -363,6 +396,7 @@
   members:
   - eitil
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: eitil'
 01944952-v:
   definition:
   - confidence: 0.0
@@ -373,6 +407,7 @@
   members:
   - eitil
   partOfSpeech: v
+  source: 'LSG, Wisteria: eitil'
 01954657-v:
   definition:
   - confidence: 0.0
@@ -383,6 +418,7 @@
   members:
   - seol
   partOfSpeech: v
+  source: 'LSG, Wisteria: seol'
 01955339-v:
   definition:
   - a chur faoi deara a dhul go háit éigin
@@ -396,6 +432,7 @@
   - dírigh
   - cuir
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: seol, cuir; Horizon, Wisteria: dírigh'
 01956757-v:
   definition:
   - confidence: 0.0
@@ -406,6 +443,7 @@
   members:
   - tarchuir
   partOfSpeech: v
+  source: 'LSG, Wisteria: tarchuir'
 01958986-v:
   definition:
   - confidence: 0.0
@@ -416,6 +454,7 @@
   members:
   - seol
   partOfSpeech: v
+  source: 'LSG, Wisteria: seol'
 01959843-v:
   definition:
   - a iompar nó taisteal ar fheithicil nó i bhfeithicil
@@ -427,6 +466,7 @@
   members:
   - taistil ar
   partOfSpeech: v
+  source: 'Horizon: taistil ar'
 01961388-v:
   definition:
   - suí agus taistil ar droim ainmhí, agus a ghluaisne a smachtú, de ghnáth
@@ -439,6 +479,7 @@
   - marcaíocht
   - suí
   partOfSpeech: v
+  source: 'Horizon: marcaíocht, suí'
 01967949-v:
   definition:
   - bog ar aghaidh as cuimse
@@ -452,6 +493,7 @@
   - pocléim a thabhairt
   - leim
   partOfSpeech: v
+  source: 'Horizon, LSG: léim; Horizon: pocléim a thabhairt, leim'
 01972576-v:
   definition:
   - bog aníos
@@ -468,6 +510,7 @@
   - tar aníos
   - bog suas
   partOfSpeech: v
+  source: 'Horizon, LSG: éirigh, ardaigh, tar aníos, bog suas; Horizon: éirigh amach, méadaigh'
 01974840-v:
   definition:
   - bogadh anuas agus níos ísle, ní i gcónaí an bealach ar fad
@@ -483,6 +526,8 @@
   - ísligh
   - laghdaigh
   partOfSpeech: v
+  source: 'Horizon, LSG: tar anuas, téigh síos, ísligh; Horizon, LSG, Wisteria: tit; Horizon:
+    laghdaigh'
 01976312-v:
   definition:
   - téigh síos i dtitim gan choinne faoi thionchar domhantarraingthe
@@ -494,6 +539,7 @@
   members:
   - tit
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: tit'
 01977139-v:
   definition:
   - bog rud éigin nó duine éigin go dtí suíomh níos ísle
@@ -508,6 +554,7 @@
   - ísligh
   - lig síos
   partOfSpeech: v
+  source: 'Horizon: téigh síos; Horizon, LSG: tóg anuas, ísligh, lig síos'
 01978076-v:
   definition:
   - ardaigh ó shuíomh níos ísle go suíomh níos airde
@@ -523,6 +570,8 @@
   - cuir ina sheasamh
   - tóg suas
   partOfSpeech: v
+  source: 'Horizon: éirigh, cuir in airde, tóg suas; Horizon, LSG, Wisteria: ardaigh; Horizon,
+    LSG: cuir ina sheasamh'
 01980103-v:
   definition:
   - tóg agus ardaigh
@@ -534,6 +583,7 @@
   - ardaigh
   - bailigh
   partOfSpeech: v
+  source: 'Horizon, LSG: pioc suas, bailigh; Horizon: ardaigh'
 01981715-v:
   definition:
   - lig don talamh
@@ -545,6 +595,7 @@
   members:
   - scaoil
   partOfSpeech: v
+  source: 'Horizon: scaoil'
 01987278-v:
   definition:
   - a bheith ina sheasamh
@@ -558,6 +609,7 @@
   - seas
   - seas suas
   partOfSpeech: v
+  source: 'Horizon, LSG: éirigh, seas; Horizon: seas suas'
 01988916-v:
   definition:
   - bí i do shuí
@@ -568,6 +620,7 @@
   - suigh
   - suigh síos
   partOfSpeech: v
+  source: 'Horizon, Wisteria: suigh; Horizon: suigh síos'
 01995963-v:
   definition:
   - confidence: 0.0
@@ -578,6 +631,7 @@
   members:
   - lean
   partOfSpeech: v
+  source: 'LSG, Wisteria: lean'
 01996535-v:
   definition:
   - bog ar aghaidh, sa chiall meafarach freisin
@@ -591,6 +645,7 @@
   - téigh chun cinn
   - bog ar aghaidh
   partOfSpeech: v
+  source: 'Horizon: téigh ar aghaidh, téigh chun cinn, bog ar aghaidh'
 01998474-v:
   definition:
   - tarraing siar nó bog ar shiúl nó ar gcúl
@@ -605,6 +660,8 @@
   - tarraing siar
   - bog amach
   partOfSpeech: v
+  source: 'Horizon, LSG: cúlaigh; Horizon: tarraing amach, bog amach; Horizon, LSG, Wisteria:
+    tarraing siar'
 01999243-v:
   definition:
   - confidence: 0.0
@@ -615,6 +672,7 @@
   members:
   - tarraing
   partOfSpeech: v
+  source: 'LSG, Wisteria: tarraing'
 01999581-v:
   definition:
   - confidence: 0.0
@@ -625,6 +683,7 @@
   members:
   - téigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: téigh'
 02002464-v:
   definition:
   - téigh taobh thiar de, téigh i ndiaidh, tar sa tóir ar
@@ -637,6 +696,7 @@
   - lean
   - bí
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: lean; Horizon: bí'
 02003830-v:
   definition:
   - tabhair duine éigin go dtí áit éigin
@@ -652,6 +712,8 @@
   - tionlaic
   - tabhair
   partOfSpeech: v
+  source: 'Horizon, Wisteria: tóg; Horizon, LSG, Wisteria: treoraigh; Horizon: tabhair le;
+    Horizon, LSG: tionlaic; LSG, Wisteria: tabhair'
 02008888-v:
   definition:
   - téigh nó tar ar ais go háit, staid, nó gníomhaíocht ina raibh té roimhe
@@ -663,6 +725,7 @@
   members:
   - fill
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: fill'
 02009962-v:
   definition:
   - sroich ar cheann scríbe; teacht ar láthair mar gheall ar ghluaiseacht nó forás
@@ -676,6 +739,7 @@
   - sroich
   - bain amach
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: tar, sroich; Horizon, LSG: bain amach'
 02010848-v:
   definition:
   - pointe amach a bhaint amach, nó staid nó leibhéal áirithe a bhaint amach
@@ -689,6 +753,7 @@
   - sroic
   - bain amach
   partOfSpeech: v
+  source: 'Horizon: buail, sroic, bain amach'
 02013448-v:
   definition:
   - imigh ó áit
@@ -703,6 +768,7 @@
   - fág
   - téigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: imigh, fág; Horizon: bailigh leat, téigh'
 02018017-v:
   definition:
   - imigh go áit éigin
@@ -719,6 +785,8 @@
   - scar
   - imigh
   partOfSpeech: v
+  source: 'Horizon: éirí as, leag amach, tús, tosú amach, scar; Horizon, LSG, Wisteria:
+    imigh'
 02019450-v:
   definition:
   - bogadh amach nó imigh ó
@@ -732,6 +800,7 @@
   - fág
   - imigh
   partOfSpeech: v
+  source: 'Horizon: téigh amach; Horizon, LSG: fág; Horizon, Wisteria: imigh'
 02020375-v:
   definition:
   - tar nó téigh isteach
@@ -747,6 +816,8 @@
   - bog isteach
   - iontráil
   partOfSpeech: v
+  source: 'Horizon: téigh isteach, bog isteach; Horizon, LSG: gabh isteach; Horizon, LSG,
+    Wisteria: tar isteach; LSG, Wisteria: iontráil'
 02024442-v:
   definition:
   - ceann scríbe a shroicheadh, de réir brí réadúla nó teibí
@@ -762,6 +833,8 @@
   - tar ar
   - bain amach
   partOfSpeech: v
+  source: 'Horizon: gnóthaigh; Horizon, LSG: déan, tar ar, bain amach; Horizon, LSG, Wisteria:
+    sroich'
 02026014-v:
   definition:
   - sprioc a bhaint amach
@@ -776,6 +849,7 @@
   - bain amach
   - forchéimnigh
   partOfSpeech: v
+  source: 'Horizon: déan faigh, téigh i bhfeidhm ar, bain amach, forchéimnigh'
 02026953-v:
   definition:
   - teacht le chéile
@@ -791,6 +865,8 @@
   - cas ar
   - cas le
   partOfSpeech: v
+  source: 'Horizon, Wisteria: feic; Horizon, LSG: tar ar, buail le, cas ar; Horizon: cas
+    le'
 02028720-v:
   definition:
   - confidence: 0.0
@@ -801,6 +877,7 @@
   members:
   - suigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: suigh'
 02034269-v:
   definition:
   - confidence: 0.0
@@ -811,6 +888,7 @@
   members:
   - scaip
   partOfSpeech: v
+  source: 'LSG, Wisteria: scaip'
 02042202-v:
   definition:
   - claon nó lúb ó shuíomh ingearach
@@ -825,6 +903,7 @@
   - crom
   - fiar
   partOfSpeech: v
+  source: 'Horizon, LSG: claon, crom; Horizon: tiontaigh, fiar'
 02055618-v:
   definition:
   - bogadh anuas
@@ -841,6 +920,8 @@
   - taisteal trí
   - téigh thar bráid
   partOfSpeech: v
+  source: 'Horizon, LSG: téigh thar, sáraigh; Horizon: dul thar, dul anuas, taisteal trí,
+    téigh thar bráid'
 02057865-v:
   definition:
   - bog i dtreo
@@ -856,6 +937,8 @@
   - tar chuig
   - bí ag druidim
   partOfSpeech: v
+  source: 'Horizon: tar i dtreo, tar i ngiorracht, tar i bhfoisceacht, tar chuig, bí ag
+    druidim'
 02059573-v:
   definition:
   - bog an-tapa
@@ -870,6 +953,7 @@
   - rop
   - taisteal go tapa
   partOfSpeech: v
+  source: 'Horizon, LSG: brostaigh, deifrigh; Horizon: rop, taisteal go tapa'
 02062918-v:
   definition:
   - bog anuas
@@ -884,6 +968,7 @@
   - luas a ghéarú
   - téigh ar luas
   partOfSpeech: v
+  source: 'Horizon, LSG: brostaigh; Horizon: rásáil, luas a ghéarú, téigh ar luas'
 02076777-v:
   definition:
   - le haghaidh ama chun bogadh ar aghaidh
@@ -898,6 +983,7 @@
   - sleamhnaigh thart
   - sleamhnaigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: caith, imigh; Horizon: sleamhnaigh thart, sleamhnaigh'
 02078906-v:
   definition:
   - imigh ó ghéibheann
@@ -910,6 +996,7 @@
   - bris scaoilte
   - éalaigh
   partOfSpeech: v
+  source: 'Horizon: bris scaoilte; Horizon, LSG, Wisteria: éalaigh'
 02079296-v:
   definition:
   - teith, tabhairt do na boinn, na boinn a bhaint as
@@ -930,6 +1017,9 @@
   - iompaigh thart
   - an nead a fhágáil
   partOfSpeech: v
+  source: 'Horizon, Wisteria: rith; Horizon: éalaigh, bheith ar do theitheadh, imigh de
+    ruathar, imigh, éalaigh le, tabhair aghaidh ar na sléibhte, tabhair aghaidh ar
+    na coillte, iompaigh thart, an nead a fhágáil'
 02079709-v:
   definition:
   - confidence: 0.0
@@ -940,6 +1030,7 @@
   members:
   - teith
   partOfSpeech: v
+  source: 'LSG, Wisteria: teith'
 02081903-v:
   definition:
   - rud nó duine a thógáil leat féin go háit éigin
@@ -955,6 +1046,8 @@
   - beir le
   - tabhair
   partOfSpeech: v
+  source: 'Horizon, Wisteria: tóg; Horizon: tabhair le, tabhair chuig, beir le; LSG, Wisteria:
+    tabhair'
 02082838-v:
   definition:
   - duine nó réad nua a thabhairt isteach i dtimpeallacht aithnidiúil
@@ -966,6 +1059,7 @@
   members:
   - tabhair isteach
   partOfSpeech: v
+  source: 'Horizon, Wisteria: tabhair isteach'
 02092012-v:
   definition:
   - bog i gcuar nó stua, de ghnáth le hintinn bualadh
@@ -977,3 +1071,4 @@
   members:
   - tarraing
   partOfSpeech: v
+  source: 'Horizon: tarraing'

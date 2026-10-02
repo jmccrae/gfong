@@ -10,6 +10,7 @@
   - fáth
   - réasún
   partOfSpeech: n
+  source: 'LSG, Wisteria: cúis, fáth, réasún'
 09202673-n:
   definition:
   - confidence: 0.0
@@ -20,6 +21,7 @@
   members:
   - dreasacht
   partOfSpeech: n
+  source: 'LSG, Wisteria: dreasacht'
 09203015-n:
   definition:
   - confidence: 0.0
@@ -30,6 +32,7 @@
   members:
   - dídhreasacht
   partOfSpeech: n
+  source: 'LSG, Wisteria: dídhreasacht'
 09207033-n:
   definition:
   - confidence: 0.0
@@ -41,3 +44,4 @@
   members:
   - coinsias
   partOfSpeech: n
+  source: 'LSG, Wisteria: coinsias'

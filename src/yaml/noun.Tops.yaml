@@ -7,6 +7,7 @@
   - aonán
   - eintiteas
   partOfSpeech: n
+  source: 'LSG, Wisteria: aonán, eintiteas'
 00002684-n:
   definition:
   - eintiteas atá inláimhsithe agus infheicthe; eintiteas atá in ann scáth a chaitheamh
@@ -19,6 +20,7 @@
   - réad
   - ábhar
   partOfSpeech: n
+  source: 'LSG, Wisteria: ní, rud, réad, ábhar'
 00004475-n:
   definition:
   - ní beo a bhfuil ar a chumas (nó a fhorbraíonn an cumas) gníomhú nó feidhmiú go
@@ -29,6 +31,7 @@
   members:
   - orgánach
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: orgánach'
 00006484-n:
   definition:
   - (bitheolaíocht) an bunaonad struchtúrach agus feidhmeach de gach orgánach; is
@@ -41,6 +44,7 @@
   members:
   - cill
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: cill'
 00007846-n:
   definition:
   - neach daonna; ball den chine daonna
@@ -52,6 +56,7 @@
   - neach
   - pearsa
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: duine, pearsa; LSG, Wikidata: neach'
 00015568-n:
   definition:
   - orgánach beo arb é is tréith ann an ghluaiseacht dheonach
@@ -61,6 +66,7 @@
   members:
   - ainmhí
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: ainmhí'
 00017402-n:
   definition:
   - (luibheolaíocht) orgánach beo gan cumas gluaiseachta
@@ -70,6 +76,7 @@
   members:
   - planda
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: planda'
 00019793-n:
   definition:
   - an t-ábhar nithiúil a bhaineann le nádúr an duine nó rud
@@ -80,6 +87,7 @@
   members:
   - substaint
   partOfSpeech: n
+  source: 'LSG, Wisteria: substaint'
 00021007-n:
   definition:
   - an ní a bhfuil mais aige agus a líonann spás
@@ -89,6 +97,7 @@
   members:
   - ábhar
   partOfSpeech: n
+  source: 'LSG, Wisteria: ábhar'
 00021445-n:
   definition:
   - substaint ar bith ar féidir le hainmhí a mheitibiliú le haghaidh fuinnimh agus
@@ -100,6 +109,7 @@
   - bia
   - cothaitheach
   partOfSpeech: n
+  source: 'LSG, Wisteria: bia, cothaitheach'
 00022119-n:
   definition:
   - réad iomlán de dhéantús an duine
@@ -109,6 +119,7 @@
   members:
   - déantán
   partOfSpeech: n
+  source: 'LSG, Wisteria: déantán'
 00023083-n:
   definition:
   - ceann d'aicme déantán
@@ -119,6 +130,7 @@
   - airteagal
   - earra
   partOfSpeech: n
+  source: 'LSG, Wisteria: airteagal, earra'
 00023451-n:
   definition:
   - an toradh síceolaíoch a eascraíonn as tuiscint, foghlaim agus réasúnaíocht
@@ -130,6 +142,7 @@
   - fios
   - iúl
   partOfSpeech: n
+  source: 'LSG, Wisteria: eolas, fios, iúl'
 00024900-n:
   definition:
   - an chaoi ina bhfuil ní éigin i ndáil lena imthosca agus lena phríomhthréithe
@@ -140,6 +153,7 @@
   - riocht
   - staid
   partOfSpeech: n
+  source: 'LSG, Wisteria: riocht, staid'
 00026390-n:
   definition:
   - a bheith ag aireachtáil staideanna mothachtálacha agus mothúchánacha
@@ -149,6 +163,7 @@
   members:
   - mothúchán
   partOfSpeech: n
+  source: 'LSG, Wisteria: mothúchán'
 00027365-n:
   definition:
   - pointe nó achar i spás
@@ -158,6 +173,7 @@
   members:
   - suíomh
   partOfSpeech: n
+  source: 'LSG, Wisteria: suíomh'
 00028468-n:
   definition:
   - contanam ina mbraitear imeachtaí ag aistriú ón todhchaí go dtí an aimsir láithreach
@@ -168,6 +184,7 @@
   members:
   - am
   partOfSpeech: n
+  source: 'LSG, Wisteria: am'
 00028950-n:
   definition:
   - an fhairsinge neamhtheoranta ina bhfuil gach ní; an réigiún spéire éigríochta
@@ -178,6 +195,7 @@
   members:
   - spás
   partOfSpeech: n
+  source: 'LSG, Wisteria: spás'
 00029677-n:
   definition:
   - teagmhas éigin a tharlaíonn ag áit agus ag am áirithe
@@ -189,6 +207,7 @@
   - imeacht
   - teagmhas
   partOfSpeech: n
+  source: 'LSG, Wisteria: cás, imeacht, teagmhas'
 00030657-n:
   definition:
   - gníomh a dhéanann duine nó a chuireann duine faoi deara go ndéanfar é; gníomhaíocht
@@ -199,6 +218,7 @@
   members:
   - gníomh
   partOfSpeech: n
+  source: 'LSG, Wisteria: gníomh'
 00031563-n:
   definition:
   - aon líon d'aonáin (baill) a ghlactar mar aonad
@@ -208,6 +228,7 @@
   members:
   - grúpa
   partOfSpeech: n
+  source: 'LSG, Wisteria: grúpa'
 00032220-n:
   definition:
   - ceangal nó coibhneas a bheith idir rud amháin agus rud eile
@@ -217,6 +238,7 @@
   members:
   - coibhneas
   partOfSpeech: n
+  source: 'LSG, Wisteria: coibhneas'
 00033319-n:
   definition:
   - ní éigin a chuirtear in iúl ó nó chuig daoine nó grúpaí, nó eatarthu
@@ -226,6 +248,7 @@
   members:
   - teachtaireacht
   partOfSpeech: n
+  source: 'LSG, Wisteria: teachtaireacht'
 00033914-n:
   definition:
   - an méid atá ann, nó an oiread nithe atá ann, ar féidir leat a thomhas
@@ -237,6 +260,7 @@
   - líon
   - méid
   partOfSpeech: n
+  source: 'LSG, Wisteria: cainníocht, líon, méid'
 00034512-n:
   definition:
   - aon staid nó próiseas a bhfuil eolas air trí na céadfaí seachas trí imfhios no
@@ -247,3 +271,4 @@
   members:
   - feiniméan
   partOfSpeech: n
+  source: 'LSG, Wisteria: feiniméan'

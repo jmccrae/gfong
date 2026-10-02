@@ -9,6 +9,7 @@
   - pléisiúr
   - sult
   partOfSpeech: n
+  source: 'LSG, Wisteria: pléisiúr, sult'
 07508420-n:
   definition:
   - confidence: 0.0
@@ -19,6 +20,7 @@
   members:
   - faoiseamh
   partOfSpeech: n
+  source: 'LSG, Wisteria: faoiseamh'
 07519582-n:
   definition:
   - confidence: 0.0
@@ -29,6 +31,7 @@
   members:
   - buíochas
   partOfSpeech: n
+  source: 'LSG, Wisteria: buíochas'
 07526319-n:
   definition:
   - confidence: 0.0
@@ -39,6 +42,7 @@
   members:
   - súil
   partOfSpeech: n
+  source: 'review: súil'
 07527704-n:
   definition:
   - confidence: 0.0
@@ -49,6 +53,7 @@
   members:
   - íogaireacht
   partOfSpeech: n
+  source: 'LSG, Wisteria: íogaireacht'
 07534492-n:
   definition:
   - confidence: 0.0
@@ -60,6 +65,7 @@
   members:
   - eagla
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: eagla'
 07539768-n:
   definition:
   - confidence: 0.0
@@ -70,6 +76,7 @@
   members:
   - imní
   partOfSpeech: n
+  source: 'LSG, Wisteria: imní'
 07545205-n:
   definition:
   - confidence: 0.0
@@ -80,6 +87,7 @@
   members:
   - giuirléid
   partOfSpeech: n
+  source: 'LSG, Wisteria: giuirléid'
 07546643-n:
   definition:
   - confidence: 0.0
@@ -91,6 +99,7 @@
   - sásamh
   - sástacht
   partOfSpeech: n
+  source: 'LSG, Wisteria: sásamh, sástacht'
 07550398-n:
   definition:
   - confidence: 0.0
@@ -101,6 +110,7 @@
   members:
   - brón
   partOfSpeech: n
+  source: 'LSG, Wisteria: brón'
 07554899-n:
   definition:
   - confidence: 0.0
@@ -111,6 +121,7 @@
   members:
   - míshástacht
   partOfSpeech: n
+  source: 'LSG, Wisteria: míshástacht'
 07555990-n:
   definition:
   - confidence: 0.0
@@ -122,6 +133,7 @@
   members:
   - díomá
   partOfSpeech: n
+  source: 'LSG, Wisteria: díomá'
 07556254-n:
   definition:
   - confidence: 0.0
@@ -133,6 +145,7 @@
   members:
   - frustrachas
   partOfSpeech: n
+  source: 'LSG, Wisteria: frustrachas'
 07558592-n:
   definition:
   - confidence: 0.0
@@ -143,6 +156,7 @@
   members:
   - ciniceas
   partOfSpeech: n
+  source: 'LSG, Wikidata: ciniceas'
 07558676-n:
   definition:
   - confidence: 0.0
@@ -153,6 +167,7 @@
   members:
   - grá
   partOfSpeech: n
+  source: 'LSG, Wikidata: grá'
 07560531-n:
   definition:
   - confidence: 0.0
@@ -163,6 +178,7 @@
   members:
   - cion
   partOfSpeech: n
+  source: 'LSG, Wisteria: cion'
 07561835-n:
   definition:
   - confidence: 0.0
@@ -174,3 +190,4 @@
   members:
   - fuath
   partOfSpeech: n
+  source: 'LSG, Wisteria: fuath'

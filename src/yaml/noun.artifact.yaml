@@ -8,6 +8,7 @@
   members:
   - seamlas
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: seamlas'
 02673692-n:
   definition:
   - confidence: 0.0
@@ -19,6 +20,7 @@
   - bealach
   - rochtain
   partOfSpeech: n
+  source: 'LSG, Wisteria: bealach, rochtain'
 02673854-n:
   definition:
   - confidence: 0.0
@@ -29,6 +31,7 @@
   members:
   - rochtain
   partOfSpeech: n
+  source: 'LSG, Wisteria: rochtain'
 02674051-n:
   definition:
   - confidence: 0.0
@@ -39,6 +42,7 @@
   members:
   - gabhálas
   partOfSpeech: n
+  source: 'LSG, Wisteria: gabhálas'
 02674410-n:
   definition:
   - confidence: 0.0
@@ -49,6 +53,7 @@
   members:
   - oiriúint
   partOfSpeech: n
+  source: 'LSG, Wisteria: oiriúint'
 02675001-n:
   definition:
   - confidence: 0.0
@@ -60,6 +65,7 @@
   - iostas
   - lóistín
   partOfSpeech: n
+  source: 'LSG, Wisteria: iostas, lóistín'
 02681238-n:
   definition:
   - confidence: 0.0
@@ -70,6 +76,7 @@
   members:
   - gníomhróir
   partOfSpeech: n
+  source: 'Wikidata, Wisteria: gníomhróir'
 02681751-n:
   definition:
   - confidence: 0.0
@@ -81,6 +88,7 @@
   members:
   - cuibheoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: cuibheoir'
 02682642-n:
   definition:
   - confidence: 0.0
@@ -91,6 +99,7 @@
   members:
   - breiseán
   partOfSpeech: n
+  source: 'LSG, Wisteria: breiseán'
 02685165-n:
   definition:
   - confidence: 0.0
@@ -101,6 +110,7 @@
   members:
   - tál
   partOfSpeech: n
+  source: 'LSG, Wikidata: tál'
 02689238-n:
   definition:
   - confidence: 0.0
@@ -111,6 +121,7 @@
   members:
   - aerchóiriú
   partOfSpeech: n
+  source: 'LSG, Wisteria: aerchóiriú'
 02689427-n:
   definition:
   - confidence: 0.0
@@ -121,6 +132,7 @@
   members:
   - aerárthach
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: aerárthach'
 02690031-n:
   definition:
   - confidence: 0.0
@@ -132,6 +144,7 @@
   members:
   - iompróir aerárthaí
   partOfSpeech: n
+  source: 'LSG, Wikidata: iompróir aerárthaí'
 02690851-n:
   definition:
   - confidence: 0.0
@@ -142,6 +155,7 @@
   members:
   - aerpháirc
   partOfSpeech: n
+  source: 'LSG, Wisteria: aerpháirc'
 02692940-n:
   definition:
   - confidence: 0.0
@@ -152,6 +166,7 @@
   members:
   - aerlíne
   partOfSpeech: n
+  source: 'LSG, Wisteria: aerlíne'
 02694015-n:
   definition:
   - confidence: 0.0
@@ -162,6 +177,7 @@
   members:
   - eitleán
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: eitleán'
 02695091-n:
   definition:
   - confidence: 0.0
@@ -174,6 +190,7 @@
   - aeradróm
   - aerfort
   partOfSpeech: n
+  source: 'LSG, Wisteria: aeradróm, aerfort'
 02695736-n:
   definition:
   - confidence: 0.0
@@ -184,6 +201,7 @@
   members:
   - aerlong
   partOfSpeech: n
+  source: 'LSG, Wisteria: aerlong'
 02702629-n:
   definition:
   - confidence: 0.0
@@ -195,6 +213,7 @@
   members:
   - cúlscáthlán
   partOfSpeech: n
+  source: 'LSG, Wikidata: cúlscáthlán'
 02702923-n:
   definition:
   - confidence: 0.0
@@ -206,6 +225,7 @@
   members:
   - ailtéarnóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: ailtéarnóir'
 02703117-n:
   definition:
   - confidence: 0.0
@@ -216,6 +236,7 @@
   members:
   - airdemhéadar
   partOfSpeech: n
+  source: 'LSG, Wikidata: airdemhéadar'
 02703861-n:
   definition:
   - confidence: 0.0
@@ -226,6 +247,7 @@
   members:
   - otharcharr
   partOfSpeech: n
+  source: 'LSG, Wisteria: otharcharr'
 02706134-n:
   definition:
   - confidence: 0.0
@@ -236,6 +258,7 @@
   members:
   - armlón
   partOfSpeech: n
+  source: 'LSG, Wisteria: armlón'
 02708803-n:
   definition:
   - confidence: 0.0
@@ -246,6 +269,7 @@
   members:
   - aimplitheoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: aimplitheoir'
 02709445-n:
   definition:
   - confidence: 0.0
@@ -257,6 +281,7 @@
   members:
   - briocht
   partOfSpeech: n
+  source: 'LSG, Wikidata: briocht'
 02710542-n:
   definition:
   - confidence: 0.0
@@ -268,6 +293,7 @@
   - anailgéiseach
   - pianmhúchán
   partOfSpeech: n
+  source: 'LSG, Wikidata: anailgéiseach, pianmhúchán'
 02711570-n:
   definition:
   - confidence: 0.0
@@ -278,6 +304,7 @@
   members:
   - anailíseoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: anailíseoir'
 02713288-n:
   definition:
   - confidence: 0.0
@@ -288,6 +315,7 @@
   members:
   - ainéimiméadar
   partOfSpeech: n
+  source: 'LSG, Wikidata: ainéimiméadar'
 02717226-n:
   definition:
   - confidence: 0.0
@@ -298,6 +326,7 @@
   members:
   - anóid
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: anóid'
 02718140-n:
   definition:
   - confidence: 0.0
@@ -308,6 +337,7 @@
   members:
   - aeróg
   partOfSpeech: n
+  source: 'LSG, Wikidata: aeróg'
 02718424-n:
   definition:
   - confidence: 0.0
@@ -319,6 +349,7 @@
   - forsheomra
   - halla
   partOfSpeech: n
+  source: 'LSG, Wikidata: forsheomra; LSG, Wisteria: halla'
 02719777-n:
   definition:
   - confidence: 0.0
@@ -330,6 +361,7 @@
   members:
   - antaibheathach
   partOfSpeech: n
+  source: 'LSG, Wisteria: antaibheathach'
 02722499-n:
   definition:
   - confidence: 0.0
@@ -340,6 +372,7 @@
   members:
   - frithnimh
   partOfSpeech: n
+  source: 'LSG, Wisteria: frithnimh'
 02723112-n:
   definition:
   - confidence: 0.0
@@ -350,6 +383,7 @@
   members:
   - fungaicíd
   partOfSpeech: n
+  source: 'LSG, Wisteria: fungaicíd'
 02726679-n:
   definition:
   - confidence: 0.0
@@ -361,6 +395,7 @@
   members:
   - seandacht
   partOfSpeech: n
+  source: 'LSG, Wisteria: seandacht'
 02726951-n:
   definition:
   - confidence: 0.0
@@ -371,6 +406,7 @@
   members:
   - seaniarsma
   partOfSpeech: n
+  source: 'LSG, Wisteria: seaniarsma'
 02729230-n:
   definition:
   - confidence: 0.0
@@ -381,6 +417,7 @@
   members:
   - árasán
   partOfSpeech: n
+  source: 'LSG, Wisteria: árasán'
 02730206-n:
   definition:
   - confidence: 0.0
@@ -391,6 +428,7 @@
   members:
   - afraidíseach
   partOfSpeech: n
+  source: 'LSG, Wikidata: afraidíseach'
 02730351-n:
   definition:
   - confidence: 0.0
@@ -401,6 +439,7 @@
   members:
   - beachlann
   partOfSpeech: n
+  source: 'LSG, Wisteria: beachlann'
 02730750-n:
   definition:
   - confidence: 0.0
@@ -413,6 +452,7 @@
   - gaireas
   - gléas
   partOfSpeech: n
+  source: 'LSG, Wisteria: fearas, gaireas, gléas'
 02731365-n:
   definition:
   - confidence: 0.0
@@ -423,6 +463,7 @@
   members:
   - éadach
   partOfSpeech: n
+  source: 'LSG, Wisteria: éadach'
 02732963-n:
   definition:
   - confidence: 0.0
@@ -433,6 +474,7 @@
   members:
   - fearas
   partOfSpeech: n
+  source: 'LSG, Wisteria: fearas'
 02733935-n:
   definition:
   - confidence: 0.0
@@ -444,6 +486,7 @@
   members:
   - naprún
   partOfSpeech: n
+  source: 'LSG, Wikidata: naprún'
 02736080-n:
   definition:
   - confidence: 0.0
@@ -454,6 +497,7 @@
   members:
   - crannlann
   partOfSpeech: n
+  source: 'LSG, Wikidata: crannlann'
 02737730-n:
   definition:
   - confidence: 0.0
@@ -464,6 +508,7 @@
   members:
   - ailtireacht
   partOfSpeech: n
+  source: 'LSG, Wisteria: ailtireacht'
 02738091-n:
   definition:
   - confidence: 0.0
@@ -474,6 +519,7 @@
   members:
   - cartlann
   partOfSpeech: n
+  source: 'LSG, Wisteria: cartlann'
 02742673-n:
   definition:
   - confidence: 0.0
@@ -484,6 +530,7 @@
   members:
   - armúr
   partOfSpeech: n
+  source: 'LSG, Wisteria: armúr'
 02745758-n:
   definition:
   - confidence: 0.0
@@ -495,6 +542,7 @@
   members:
   - saighead
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: saighead'
 02746552-n:
   definition:
   - confidence: 0.0
@@ -505,6 +553,7 @@
   members:
   - ealaín
   partOfSpeech: n
+  source: 'LSG, Wisteria: ealaín'
 02759103-n:
   definition:
   - confidence: 0.0
@@ -515,6 +564,7 @@
   members:
   - feisteas
   partOfSpeech: n
+  source: 'LSG, Wisteria: feisteas'
 02766477-n:
   definition:
   - confidence: 0.0
@@ -525,6 +575,7 @@
   members:
   - aibhinne
   partOfSpeech: n
+  source: 'LSG, Wikidata: aibhinne'
 02767049-n:
   definition:
   - confidence: 0.0
@@ -535,6 +586,7 @@
   members:
   - tua
   partOfSpeech: n
+  source: 'LSG, Wikidata: tua'
 02767784-n:
   definition:
   - confidence: 0.0
@@ -545,6 +597,7 @@
   members:
   - acastóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: acastóir'
 02772753-n:
   definition:
   - confidence: 0.0
@@ -555,6 +608,7 @@
   members:
   - mála droma
   partOfSpeech: n
+  source: 'LSG, Wikidata: mála droma'
 02776042-n:
   definition:
   - confidence: 0.0
@@ -565,6 +619,7 @@
   members:
   - mála
   partOfSpeech: n
+  source: 'LSG, Wisteria: mála'
 02777157-n:
   definition:
   - confidence: 0.0
@@ -576,6 +631,7 @@
   members:
   - mála láimhe
   partOfSpeech: n
+  source: 'LSG, Wikidata: mála láimhe'
 02777635-n:
   definition:
   - confidence: 0.0
@@ -586,6 +642,7 @@
   members:
   - bagáiste
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: bagáiste'
 02779210-n:
   definition:
   - confidence: 0.0
@@ -597,6 +654,7 @@
   members:
   - baoite
   partOfSpeech: n
+  source: 'LSG, Wisteria: baoite'
 02779636-n:
   definition:
   - confidence: 0.0
@@ -609,6 +667,7 @@
   members:
   - bácús
   partOfSpeech: n
+  source: 'LSG, Wikidata: bácús'
 02780105-n:
   definition:
   - confidence: 0.0
@@ -619,6 +678,7 @@
   members:
   - meá
   partOfSpeech: n
+  source: 'LSG, Wisteria: meá'
 02785116-n:
   definition:
   - confidence: 0.0
@@ -629,6 +689,7 @@
   members:
   - balún
   partOfSpeech: n
+  source: 'LSG, Wisteria: balún'
 02786347-n:
   definition:
   - confidence: 0.0
@@ -639,6 +700,7 @@
   members:
   - bálseomra
   partOfSpeech: n
+  source: 'LSG, Wikidata: bálseomra'
 02790645-n:
   definition:
   - confidence: 0.0
@@ -650,6 +712,7 @@
   members:
   - bainseó
   partOfSpeech: n
+  source: 'LSG, Wikidata: bainseó'
 02791171-n:
   definition:
   - confidence: 0.0
@@ -660,6 +723,7 @@
   members:
   - lámhráille
   partOfSpeech: n
+  source: 'LSG, Wisteria: lámhráille'
 02791712-n:
   definition:
   - confidence: 0.0
@@ -671,6 +735,7 @@
   members:
   - barra
   partOfSpeech: n
+  source: 'LSG, Wisteria: barra'
 02795575-n:
   definition:
   - confidence: 0.0
@@ -681,6 +746,7 @@
   members:
   - báirse
   partOfSpeech: n
+  source: 'LSG, Wisteria: báirse'
 02796222-n:
   definition:
   - confidence: 0.0
@@ -691,6 +757,7 @@
   members:
   - bárc
   partOfSpeech: n
+  source: 'LSG, Wikidata: bárc'
 02797179-n:
   definition:
   - confidence: 0.0
@@ -701,6 +768,7 @@
   members:
   - baraiméadar
   partOfSpeech: n
+  source: 'LSG, Wikidata: baraiméadar'
 02797802-n:
   definition:
   - confidence: 0.0
@@ -711,6 +779,7 @@
   members:
   - beairic
   partOfSpeech: n
+  source: 'LSG, Wisteria: beairic'
 02798192-n:
   definition:
   - confidence: 0.0
@@ -721,6 +790,7 @@
   members:
   - bairille
   partOfSpeech: n
+  source: 'LSG, Wisteria: bairille'
 02798551-n:
   definition:
   - confidence: 0.0
@@ -731,6 +801,7 @@
   members:
   - bairille
   partOfSpeech: n
+  source: 'LSG, Wisteria: bairille'
 02799782-n:
   definition:
   - confidence: 0.0
@@ -742,6 +813,7 @@
   - bac
   - bacainn
   partOfSpeech: n
+  source: 'LSG, Wisteria: bac, bacainn'
 02800851-n:
   definition:
   - confidence: 0.0
@@ -753,6 +825,7 @@
   - bonn
   - seastán
   partOfSpeech: n
+  source: 'LSG, Wisteria: bonn, seastán'
 02803656-n:
   definition:
   - confidence: 0.0
@@ -765,6 +838,7 @@
   - siléar
   - íoslach
   partOfSpeech: n
+  source: 'LSG, Wisteria: siléar, íoslach'
 02805104-n:
   definition:
   - confidence: 0.0
@@ -775,6 +849,7 @@
   members:
   - ciseán
   partOfSpeech: n
+  source: 'LSG, Wisteria: ciseán'
 02807100-n:
   definition:
   - confidence: 0.0
@@ -785,6 +860,7 @@
   members:
   - olldord
   partOfSpeech: n
+  source: 'LSG, Wikidata: olldord'
 02810916-n:
   definition:
   - confidence: 0.0
@@ -796,6 +872,7 @@
   members:
   - seomra folctha
   partOfSpeech: n
+  source: 'LSG, Wisteria: seomra folctha'
 02811600-n:
   definition:
   - confidence: 0.0
@@ -807,6 +884,7 @@
   members:
   - folcadán
   partOfSpeech: n
+  source: 'LSG, Wikidata: folcadán'
 02813143-n:
   definition:
   - confidence: 0.0
@@ -817,6 +895,7 @@
   members:
   - bráicín
   partOfSpeech: n
+  source: 'LSG, Wisteria: bráicín'
 02813606-n:
   definition:
   - confidence: 0.0
@@ -829,6 +908,7 @@
   - cadhnra
   - ceallra
   partOfSpeech: n
+  source: 'LSG, Wisteria: cadhnra, ceallra'
 02817995-n:
   definition:
   - confidence: 0.0
@@ -839,6 +919,7 @@
   members:
   - rabhchán
   partOfSpeech: n
+  source: 'LSG, Wisteria: rabhchán'
 02818969-n:
   definition:
   - confidence: 0.0
@@ -849,6 +930,7 @@
   members:
   - eascra
   partOfSpeech: n
+  source: 'LSG, Wisteria: eascra'
 02819085-n:
   definition:
   - confidence: 0.0
@@ -860,6 +942,7 @@
   members:
   - bíoma
   partOfSpeech: n
+  source: 'LSG, Wisteria: bíoma'
 02821967-n:
   definition:
   - confidence: 0.0
@@ -870,6 +953,7 @@
   members:
   - leaba
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: leaba'
 02822609-n:
   definition:
   - confidence: 0.0
@@ -881,6 +965,7 @@
   - ceapach
   - leaba
   partOfSpeech: n
+  source: 'LSG, Wisteria: ceapach, leaba'
 02823567-n:
   definition:
   - confidence: 0.0
@@ -891,6 +976,7 @@
   members:
   - easair
   partOfSpeech: n
+  source: 'LSG, Wisteria: easair'
 02824337-n:
   definition:
   - confidence: 0.0
@@ -901,6 +987,7 @@
   members:
   - soitheach leapa
   partOfSpeech: n
+  source: 'LSG, Wikidata: soitheach leapa'
 02824762-n:
   definition:
   - confidence: 0.0
@@ -911,6 +998,7 @@
   members:
   - seomra leapa
   partOfSpeech: n
+  source: 'LSG, Wikidata: seomra leapa'
 02830790-n:
   definition:
   - confidence: 0.0
@@ -921,6 +1009,7 @@
   members:
   - crios
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: crios'
 02831067-n:
   definition:
   - confidence: 0.0
@@ -931,6 +1020,7 @@
   members:
   - crios
   partOfSpeech: n
+  source: 'LSG, Wisteria: crios'
 02832068-n:
   definition:
   - confidence: 0.0
@@ -941,6 +1031,7 @@
   members:
   - binse
   partOfSpeech: n
+  source: 'LSG, Wisteria: binse'
 02837983-n:
   definition:
   - confidence: 0.0
@@ -951,6 +1042,7 @@
   members:
   - rothar
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: rothar'
 02841963-n:
   definition:
   - confidence: 0.0
@@ -961,6 +1053,7 @@
   members:
   - scáthlán
   partOfSpeech: n
+  source: 'LSG, Wisteria: scáthlán'
 02842429-n:
   definition:
   - confidence: 0.0
@@ -971,6 +1064,7 @@
   members:
   - billéad
   partOfSpeech: n
+  source: 'LSG, Wisteria: billéad'
 02843848-n:
   definition:
   - confidence: 0.0
@@ -982,6 +1076,7 @@
   - clúdach
   - cumhdach
   partOfSpeech: n
+  source: 'LSG, Wisteria: clúdach, cumhdach'
 02847294-n:
   definition:
   - confidence: 0.0
@@ -993,6 +1088,7 @@
   members:
   - easpag
   partOfSpeech: n
+  source: 'LSG, Wikidata: easpag'
 02851454-n:
   definition:
   - confidence: 0.0
@@ -1003,6 +1099,7 @@
   members:
   - lann
   partOfSpeech: n
+  source: 'LSG, Wisteria: lann'
 02851761-n:
   definition:
   - confidence: 0.0
@@ -1013,6 +1110,7 @@
   members:
   - lann
   partOfSpeech: n
+  source: 'LSG, Wisteria: lann'
 02852392-n:
   definition:
   - confidence: 0.0
@@ -1024,6 +1122,7 @@
   - blaincéad
   - pluid
   partOfSpeech: n
+  source: 'LSG, Wisteria: blaincéad, pluid'
 02853596-n:
   definition:
   - confidence: 0.0
@@ -1035,6 +1134,7 @@
   members:
   - bléasar
   partOfSpeech: n
+  source: 'LSG, Wisteria: bléasar'
 02855782-n:
   definition:
   - confidence: 0.0
@@ -1046,6 +1146,7 @@
   - bloc
   - blocán
   partOfSpeech: n
+  source: 'LSG, Wisteria: bloc, blocán'
 02858206-n:
   definition:
   - confidence: 0.0
@@ -1056,6 +1157,7 @@
   members:
   - blús
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: blús'
 02858369-n:
   definition:
   - confidence: 0.0
@@ -1066,6 +1168,7 @@
   members:
   - séidire
   partOfSpeech: n
+  source: 'LSG, Wisteria: séidire'
 02861626-n:
   definition:
   - confidence: 0.0
@@ -1076,6 +1179,7 @@
   members:
   - bád
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: bád'
 02863755-n:
   definition:
   - confidence: 0.0
@@ -1087,6 +1191,7 @@
   members:
   - eiteán
   partOfSpeech: n
+  source: 'LSG, Wisteria: eiteán'
 02865226-n:
   definition:
   - confidence: 0.0
@@ -1097,6 +1202,7 @@
   members:
   - cabhail
   partOfSpeech: n
+  source: 'LSG, Wisteria: cabhail'
 02867090-n:
   definition:
   - confidence: 0.0
@@ -1107,6 +1213,7 @@
   members:
   - coire
   partOfSpeech: n
+  source: 'LSG, Wisteria: coire'
 02873453-n:
   definition:
   - confidence: 0.0
@@ -1118,6 +1225,7 @@
   - imleabhar
   - leabhar
   partOfSpeech: n
+  source: 'LSG, Wisteria: imleabhar, leabhar'
 02874241-n:
   definition:
   - confidence: 0.0
@@ -1128,6 +1236,7 @@
   members:
   - leabhragán
   partOfSpeech: n
+  source: 'LSG, Wikidata: leabhragán'
 02874886-n:
   definition:
   - confidence: 0.0
@@ -1138,6 +1247,7 @@
   members:
   - siopa leabhar
   partOfSpeech: n
+  source: 'LSG, Wisteria: siopa leabhar'
 02876113-n:
   definition:
   - confidence: 0.0
@@ -1148,6 +1258,7 @@
   members:
   - buatais
   partOfSpeech: n
+  source: 'LSG, Wisteria: buatais'
 02879899-n:
   definition:
   - confidence: 0.0
@@ -1159,6 +1270,7 @@
   members:
   - buidéal
   partOfSpeech: n
+  source: 'LSG, Wisteria: buidéal'
 02882329-n:
   definition:
   - confidence: 0.0
@@ -1170,6 +1282,7 @@
   members:
   - crobhaing
   partOfSpeech: n
+  source: 'LSG, Wisteria: crobhaing'
 02882960-n:
   definition:
   - confidence: 0.0
@@ -1181,6 +1294,7 @@
   members:
   - bogha
   partOfSpeech: n
+  source: 'LSG, Wisteria: bogha'
 02886446-n:
   definition:
   - confidence: 0.0
@@ -1191,6 +1305,7 @@
   members:
   - carbhat cuachóige
   partOfSpeech: n
+  source: 'LSG, Wikidata: carbhat cuachóige'
 02886585-n:
   definition:
   - confidence: 0.0
@@ -1201,6 +1316,7 @@
   members:
   - bosca
   partOfSpeech: n
+  source: 'LSG, Wisteria: bosca'
 02891211-n:
   definition:
   - confidence: 0.0
@@ -1211,6 +1327,7 @@
   members:
   - bráisléad
   partOfSpeech: n
+  source: 'LSG, Wisteria: bráisléad'
 02891810-n:
   definition:
   - confidence: 0.0
@@ -1221,6 +1338,7 @@
   members:
   - brac
   partOfSpeech: n
+  source: 'LSG, Wisteria: brac'
 02892666-n:
   definition:
   - confidence: 0.0
@@ -1231,6 +1349,7 @@
   members:
   - coscán
   partOfSpeech: n
+  source: 'LSG, Wisteria: coscán'
 02895442-n:
   definition:
   - confidence: 0.0
@@ -1241,6 +1360,7 @@
   members:
   - plaic
   partOfSpeech: n
+  source: 'LSG, Wisteria: plaic'
 02901103-n:
   definition:
   - confidence: 0.0
@@ -1252,6 +1372,7 @@
   members:
   - bríce
   partOfSpeech: n
+  source: 'LSG, Wisteria: bríce'
 02901994-n:
   definition:
   - confidence: 0.0
@@ -1263,6 +1384,7 @@
   members:
   - droichead
   partOfSpeech: n
+  source: 'LSG, Wisteria: droichead'
 02905715-n:
   definition:
   - confidence: 0.0
@@ -1273,6 +1395,7 @@
   members:
   - brícín
   partOfSpeech: n
+  source: 'LSG, Wisteria: brícín'
 02913195-n:
   definition:
   - confidence: 0.0
@@ -1283,6 +1406,7 @@
   members:
   - buicéad
   partOfSpeech: n
+  source: 'LSG, Wisteria: buicéad'
 02913867-n:
   definition:
   - confidence: 0.0
@@ -1294,6 +1418,7 @@
   members:
   - bucram
   partOfSpeech: n
+  source: 'LSG, Wisteria: bucram'
 02916498-n:
   definition:
   - confidence: 0.0
@@ -1305,6 +1430,7 @@
   members:
   - foirgneamh
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: foirgneamh'
 02919021-n:
   definition:
   - confidence: 0.0
@@ -1315,6 +1441,7 @@
   members:
   - bulcaid
   partOfSpeech: n
+  source: 'LSG, Wisteria: bulcaid'
 02919525-n:
   definition:
   - confidence: 0.0
@@ -1325,6 +1452,7 @@
   members:
   - ollscartaire
   partOfSpeech: n
+  source: 'LSG, Wisteria: ollscartaire'
 02919696-n:
   definition:
   - confidence: 0.0
@@ -1335,6 +1463,7 @@
   members:
   - piléar
   partOfSpeech: n
+  source: 'LSG, Wisteria: piléar'
 02921979-n:
   definition:
   - confidence: 0.0
@@ -1346,6 +1475,7 @@
   members:
   - tuairteoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: tuairteoir'
 02923176-n:
   definition:
   - confidence: 0.0
@@ -1356,6 +1486,7 @@
   members:
   - teachín
   partOfSpeech: n
+  source: 'LSG, Wisteria: teachín'
 02923887-n:
   definition:
   - confidence: 0.0
@@ -1366,6 +1497,7 @@
   members:
   - buncar
   partOfSpeech: n
+  source: 'LSG, Wisteria: buncar'
 02924042-n:
   definition:
   - confidence: 0.0
@@ -1376,6 +1508,7 @@
   members:
   - buncar
   partOfSpeech: n
+  source: 'LSG, Wisteria: buncar'
 02925676-n:
   definition:
   - confidence: 0.0
@@ -1386,6 +1519,7 @@
   members:
   - tulach
   partOfSpeech: n
+  source: 'LSG, Wikidata: tulach'
 02925845-n:
   definition:
   - confidence: 0.0
@@ -1396,6 +1530,7 @@
   members:
   - bior greanta
   partOfSpeech: n
+  source: 'LSG, Wikidata: bior greanta'
 02926513-n:
   definition:
   - confidence: 0.0
@@ -1406,6 +1541,7 @@
   members:
   - dóire
   partOfSpeech: n
+  source: 'LSG, Wisteria: dóire'
 02927500-n:
   definition:
   - confidence: 0.0
@@ -1416,6 +1552,7 @@
   members:
   - bus
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: bus'
 02928097-n:
   definition:
   - confidence: 0.0
@@ -1426,6 +1563,7 @@
   members:
   - bus
   partOfSpeech: n
+  source: 'LSG, Wisteria: bus'
 02931992-n:
   definition:
   - confidence: 0.0
@@ -1436,6 +1574,7 @@
   members:
   - cnaipe
   partOfSpeech: n
+  source: 'LSG, Wisteria: cnaipe'
 02933876-n:
   definition:
   - confidence: 0.0
@@ -1447,6 +1586,7 @@
   - fotháirge
   - seachtháirge
   partOfSpeech: n
+  source: 'LSG, Wisteria: fotháirge, seachtháirge'
 02934150-n:
   definition:
   - confidence: 0.0
@@ -1458,6 +1598,7 @@
   members:
   - tacsaí
   partOfSpeech: n
+  source: 'LSG, Wisteria: tacsaí'
 02934532-n:
   definition:
   - confidence: 0.0
@@ -1469,6 +1610,7 @@
   members:
   - cábán
   partOfSpeech: n
+  source: 'LSG, Wisteria: cábán'
 02934801-n:
   definition:
   - confidence: 0.0
@@ -1480,6 +1622,7 @@
   members:
   - club oíche
   partOfSpeech: n
+  source: 'LSG, Wikidata: club oíche'
 02935403-n:
   definition:
   - confidence: 0.0
@@ -1491,6 +1634,7 @@
   members:
   - cábán
   partOfSpeech: n
+  source: 'LSG, Wisteria: cábán'
 02936496-n:
   definition:
   - confidence: 0.0
@@ -1502,6 +1646,7 @@
   members:
   - caibinéad
   partOfSpeech: n
+  source: 'LSG, Wisteria: caibinéad'
 02937226-n:
   definition:
   - confidence: 0.0
@@ -1512,6 +1657,7 @@
   members:
   - cábla
   partOfSpeech: n
+  source: 'LSG, Wisteria: cábla'
 02937552-n:
   definition:
   - confidence: 0.0
@@ -1523,6 +1669,7 @@
   - líne
   - sreang
   partOfSpeech: n
+  source: 'LSG, Wisteria: líne, sreang'
 02939042-n:
   definition:
   - confidence: 0.0
@@ -1533,6 +1680,7 @@
   members:
   - caifé
   partOfSpeech: n
+  source: 'LSG, Wikidata: caifé'
 02940098-n:
   definition:
   - confidence: 0.0
@@ -1545,6 +1693,7 @@
   - caighean
   - cás
   partOfSpeech: n
+  source: 'LSG, Wisteria: caighean, cás'
 02940477-n:
   definition:
   - confidence: 0.0
@@ -1555,6 +1704,7 @@
   members:
   - hiodrachás
   partOfSpeech: n
+  source: 'LSG, Wikidata: hiodrachás'
 02942270-n:
   definition:
   - confidence: 0.0
@@ -1566,6 +1716,7 @@
   members:
   - áireamhán
   partOfSpeech: n
+  source: 'LSG, Wisteria: áireamhán'
 02942602-n:
   definition:
   - confidence: 0.0
@@ -1576,6 +1727,7 @@
   members:
   - coire
   partOfSpeech: n
+  source: 'LSG, Wikidata: coire'
 02946154-n:
   definition:
   - confidence: 0.0
@@ -1587,6 +1739,7 @@
   members:
   - ceamara
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: ceamara'
 02950393-n:
   definition:
   - confidence: 0.0
@@ -1597,6 +1750,7 @@
   members:
   - canna
   partOfSpeech: n
+  source: 'LSG, Wisteria: canna'
 02950684-n:
   definition:
   - confidence: 0.0
@@ -1607,6 +1761,7 @@
   members:
   - canáil
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: canáil'
 02951508-n:
   definition:
   - confidence: 0.0
@@ -1617,6 +1772,7 @@
   members:
   - coinneal
   partOfSpeech: n
+  source: 'LSG, Wisteria: coinneal'
 02953127-n:
   definition:
   - confidence: 0.0
@@ -1629,6 +1785,7 @@
   - cannabas
   - marachuan
   partOfSpeech: n
+  source: 'LSG, Wisteria: cannabas; LSG, Wikidata: marachuan'
 02954794-n:
   definition:
   - confidence: 0.0
@@ -1640,6 +1797,7 @@
   - canú
   - curach
   partOfSpeech: n
+  source: 'LSG, Wikidata: canú, curach'
 02955921-n:
   definition:
   - confidence: 0.0
@@ -1650,6 +1808,7 @@
   members:
   - ceaintín
   partOfSpeech: n
+  source: 'LSG, Wisteria: ceaintín'
 02956492-n:
   definition:
   - confidence: 0.0
@@ -1660,6 +1819,7 @@
   members:
   - starrmhaide
   partOfSpeech: n
+  source: 'LSG, Wikidata: starrmhaide'
 02958374-n:
   definition:
   - confidence: 0.0
@@ -1671,6 +1831,7 @@
   - caipín
   - claibín
   partOfSpeech: n
+  source: 'LSG, Wisteria: caipín, claibín'
 02958683-n:
   definition:
   - confidence: 0.0
@@ -1682,6 +1843,7 @@
   members:
   - toilleoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: toilleoir'
 02961022-n:
   definition:
   - confidence: 0.0
@@ -1693,6 +1855,7 @@
   members:
   - capsúl
   partOfSpeech: n
+  source: 'LSG, Wisteria: capsúl'
 02961779-n:
   definition:
   - confidence: 0.0
@@ -1705,6 +1868,7 @@
   - carr
   - gluaisteán
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: carr, gluaisteán'
 02965636-n:
   definition:
   - confidence: 0.0
@@ -1715,6 +1879,7 @@
   members:
   - carbradóir
   partOfSpeech: n
+  source: 'LSG, Wikidata: carbradóir'
 02965981-n:
   definition:
   - confidence: 0.0
@@ -1726,6 +1891,7 @@
   members:
   - cárta
   partOfSpeech: n
+  source: 'LSG, Wisteria: cárta'
 02967841-n:
   definition:
   - confidence: 0.0
@@ -1739,6 +1905,7 @@
   - lastas
   - lucht
   partOfSpeech: n
+  source: 'LSG, Wisteria: coinsíneacht, lucht; LSG, Wikidata, Wisteria: lasta, lastas'
 02968086-n:
   definition:
   - confidence: 0.0
@@ -1749,6 +1916,7 @@
   members:
   - bolg
   partOfSpeech: n
+  source: 'LSG, Wisteria: bolg'
 02975150-n:
   definition:
   - confidence: 0.0
@@ -1760,6 +1928,7 @@
   members:
   - cartús
   partOfSpeech: n
+  source: 'LSG, Wisteria: cartús'
 02976476-n:
   definition:
   - confidence: 0.0
@@ -1771,6 +1940,7 @@
   members:
   - piléarlann
   partOfSpeech: n
+  source: 'LSG, Wisteria: piléarlann'
 02978156-n:
   definition:
   - confidence: 0.0
@@ -1781,6 +1951,7 @@
   members:
   - cás
   partOfSpeech: n
+  source: 'LSG, Wisteria: cás'
 02980517-n:
   definition:
   - confidence: 0.0
@@ -1793,6 +1964,7 @@
   - dáileoir airgid
   - ATM
   partOfSpeech: n
+  source: 'LSG, Wikidata: dáileoir airgid; Wikidata, Wisteria: ATM'
 02980789-n:
   definition:
   - confidence: 0.0
@@ -1803,6 +1975,7 @@
   members:
   - caismír
   partOfSpeech: n
+  source: 'LSG, Wikidata: caismír'
 02982340-n:
   definition:
   - confidence: 0.0
@@ -1814,6 +1987,7 @@
   members:
   - caiséad
   partOfSpeech: n
+  source: 'LSG, Wisteria: caiséad'
 02984084-n:
   definition:
   - confidence: 0.0
@@ -1825,6 +1999,7 @@
   members:
   - caiseal
   partOfSpeech: n
+  source: 'LSG, Wikidata: caiseal'
 02985251-n:
   definition:
   - confidence: 0.0
@@ -1835,6 +2010,7 @@
   members:
   - catamarán
   partOfSpeech: n
+  source: 'LSG, Wikidata: catamarán'
 02987196-n:
   definition:
   - confidence: 0.0
@@ -1845,6 +2021,7 @@
   members:
   - caolán
   partOfSpeech: n
+  source: 'LSG, Wikidata: caolán'
 02993828-n:
   definition:
   - confidence: 0.0
@@ -1855,6 +2032,7 @@
   members:
   - síleáil
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: síleáil'
 02994503-n:
   definition:
   - confidence: 0.0
@@ -1865,6 +2043,7 @@
   members:
   - cill
   partOfSpeech: n
+  source: 'LSG, Wisteria: cill'
 02995666-n:
   definition:
   - confidence: 0.0
@@ -1875,6 +2054,7 @@
   members:
   - dordveidhil
   partOfSpeech: n
+  source: 'LSG, Wikidata: dordveidhil'
 02995984-n:
   definition:
   - confidence: 0.0
@@ -1886,6 +2066,7 @@
   members:
   - fón póca
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: fón póca'
 02997001-n:
   definition:
   - confidence: 0.0
@@ -1897,6 +2078,7 @@
   - ionad
   - lárionad
   partOfSpeech: n
+  source: 'LSG, Wisteria: ionad, lárionad'
 02998952-n:
   definition:
   - confidence: 0.0
@@ -1910,6 +2092,7 @@
   - láraonad próiseála
   - próiseálaí
   partOfSpeech: n
+  source: 'LSG, Wikidata: láraonad próiseála; LSG, Wisteria: próiseálaí'
 02999605-n:
   definition:
   - confidence: 0.0
@@ -1920,6 +2103,7 @@
   members:
   - deighilteoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: deighilteoir'
 03003017-n:
   definition:
   - confidence: 0.0
@@ -1931,6 +2115,7 @@
   members:
   - slabhra
   partOfSpeech: n
+  source: 'LSG, Wisteria: slabhra'
 03005231-n:
   definition:
   - confidence: 0.0
@@ -1941,6 +2126,7 @@
   members:
   - cathaoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: cathaoir'
 03007334-n:
   definition:
   - confidence: 0.0
@@ -1951,6 +2137,7 @@
   members:
   - seomra
   partOfSpeech: n
+  source: 'LSG, Wisteria: seomra'
 03009709-n:
   definition:
   - confidence: 0.0
@@ -1961,6 +2148,7 @@
   members:
   - cainéal
   partOfSpeech: n
+  source: 'LSG, Wisteria: cainéal'
 03010002-n:
   definition:
   - confidence: 0.0
@@ -1972,6 +2160,7 @@
   - bealach
   - cainéal
   partOfSpeech: n
+  source: 'LSG, Wisteria: bealach, cainéal'
 03011879-n:
   definition:
   - confidence: 0.0
@@ -1982,6 +2171,7 @@
   members:
   - lánán
   partOfSpeech: n
+  source: 'LSG, Wisteria: lánán'
 03012923-n:
   definition:
   - confidence: 0.0
@@ -1993,6 +2183,7 @@
   members:
   - carbad
   partOfSpeech: n
+  source: 'LSG, Wikidata: carbad'
 03013574-n:
   definition:
   - confidence: 0.0
@@ -2003,6 +2194,7 @@
   members:
   - cairt
   partOfSpeech: n
+  source: 'LSG, Wisteria: cairt'
 03014127-n:
   definition:
   - confidence: 0.0
@@ -2014,6 +2206,7 @@
   members:
   - fonnadh
   partOfSpeech: n
+  source: 'LSG, Wisteria: fonnadh'
 03017773-n:
   definition:
   - confidence: 0.0
@@ -2024,6 +2217,7 @@
   members:
   - seiriút
   partOfSpeech: n
+  source: 'LSG, Wisteria: seiriút'
 03017971-n:
   definition:
   - confidence: 0.0
@@ -2034,6 +2228,7 @@
   members:
   - clár fichille
   partOfSpeech: n
+  source: 'LSG, Wikidata: clár fichille'
 03023717-n:
   definition:
   - confidence: 0.0
@@ -2045,6 +2240,7 @@
   members:
   - slis
   partOfSpeech: n
+  source: 'LSG, Wisteria: slis'
 03027747-n:
   definition:
   - confidence: 0.0
@@ -2056,6 +2252,7 @@
   members:
   - córlann
   partOfSpeech: n
+  source: 'LSG, Wikidata: córlann'
 03031762-n:
   definition:
   - confidence: 0.0
@@ -2066,6 +2263,7 @@
   members:
   - eaglais
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: eaglais'
 03034020-n:
   definition:
   - confidence: 0.0
@@ -2076,6 +2274,7 @@
   members:
   - todóg
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: todóg'
 03034648-n:
   definition:
   - confidence: 0.0
@@ -2086,6 +2285,7 @@
   members:
   - toitín
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: toitín'
 03035291-n:
   definition:
   - confidence: 0.0
@@ -2096,6 +2296,7 @@
   members:
   - todóigín
   partOfSpeech: n
+  source: 'LSG, Wisteria: todóigín'
 03036237-n:
   definition:
   - confidence: 0.0
@@ -2106,6 +2307,7 @@
   members:
   - pictiúrlann
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: pictiúrlann'
 03037347-n:
   definition:
   - confidence: 0.0
@@ -2116,6 +2318,7 @@
   members:
   - ciorcad
   partOfSpeech: n
+  source: 'LSG, Wisteria: ciorcad'
 03037971-n:
   definition:
   - confidence: 0.0
@@ -2127,6 +2330,7 @@
   members:
   - cárta
   partOfSpeech: n
+  source: 'LSG, Wisteria: cárta'
 03038390-n:
   definition:
   - confidence: 0.0
@@ -2137,6 +2341,7 @@
   members:
   - ciorcadra
   partOfSpeech: n
+  source: 'LSG, Wisteria: ciorcadra'
 03039074-n:
   definition:
   - confidence: 0.0
@@ -2147,6 +2352,7 @@
   members:
   - sorcas
   partOfSpeech: n
+  source: 'LSG, Wikidata: sorcas'
 03040851-n:
   definition:
   - confidence: 0.0
@@ -2157,6 +2363,7 @@
   members:
   - clampa
   partOfSpeech: n
+  source: 'LSG, Wisteria: clampa'
 03042670-n:
   definition:
   - confidence: 0.0
@@ -2167,6 +2374,7 @@
   members:
   - seomra ranga
   partOfSpeech: n
+  source: 'LSG, Wikidata: seomra ranga'
 03042855-n:
   definition:
   - confidence: 0.0
@@ -2177,6 +2385,7 @@
   members:
   - clabhchorda
   partOfSpeech: n
+  source: 'LSG, Wikidata: clabhchorda'
 03044572-n:
   definition:
   - confidence: 0.0
@@ -2187,6 +2396,7 @@
   members:
   - glantóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: glantóir'
 03047943-n:
   definition:
   - confidence: 0.0
@@ -2197,6 +2407,7 @@
   members:
   - fáiscín
   partOfSpeech: n
+  source: 'LSG, Wisteria: fáiscín'
 03049322-n:
   definition:
   - confidence: 0.0
@@ -2207,6 +2418,7 @@
   members:
   - clóca
   partOfSpeech: n
+  source: 'LSG, Wisteria: clóca'
 03050242-n:
   definition:
   - confidence: 0.0
@@ -2217,6 +2429,7 @@
   members:
   - clog
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: clog'
 03055525-n:
   definition:
   - confidence: 0.0
@@ -2228,6 +2441,7 @@
   members:
   - éadach
   partOfSpeech: n
+  source: 'LSG, Wisteria: éadach'
 03061006-n:
   definition:
   - confidence: 0.0
@@ -2239,6 +2453,7 @@
   members:
   - cóta
   partOfSpeech: n
+  source: 'LSG, Wisteria: cóta'
 03064297-n:
   definition:
   - confidence: 0.0
@@ -2250,6 +2465,7 @@
   members:
   - cócaon
   partOfSpeech: n
+  source: 'LSG, Wisteria: cócaon'
 03068762-n:
   definition:
   - confidence: 0.0
@@ -2260,6 +2476,7 @@
   members:
   - cónra
   partOfSpeech: n
+  source: 'LSG, Wikidata: cónra'
 03069428-n:
   definition:
   - confidence: 0.0
@@ -2270,6 +2487,7 @@
   members:
   - corna
   partOfSpeech: n
+  source: 'LSG, Wisteria: corna'
 03077981-n:
   definition:
   - confidence: 0.0
@@ -2281,6 +2499,7 @@
   members:
   - colún
   partOfSpeech: n
+  source: 'LSG, Wisteria: colún'
 03080712-n:
   definition:
   - confidence: 0.0
@@ -2293,6 +2512,7 @@
   - earra
   - tráchtearra
   partOfSpeech: n
+  source: 'LSG, Wisteria: earra, tráchtearra'
 03082510-n:
   definition:
   - confidence: 0.0
@@ -2304,6 +2524,7 @@
   members:
   - ionad pobail
   partOfSpeech: n
+  source: 'LSG, Wikidata: ionad pobail'
 03083234-n:
   definition:
   - confidence: 0.0
@@ -2316,6 +2537,7 @@
   - dlúthdhiosca
   - CD
   partOfSpeech: n
+  source: 'LSG, Wikidata: dlúthdhiosca; Wikidata, Wisteria: CD'
 03084313-n:
   definition:
   - confidence: 0.0
@@ -2326,6 +2548,7 @@
   members:
   - urrann
   partOfSpeech: n
+  source: 'LSG, Wisteria: urrann'
 03084501-n:
   definition:
   - confidence: 0.0
@@ -2336,6 +2559,7 @@
   members:
   - compás
   partOfSpeech: n
+  source: 'LSG, Wikidata: compás'
 03084637-n:
   definition:
   - confidence: 0.0
@@ -2346,6 +2570,7 @@
   members:
   - compás
   partOfSpeech: n
+  source: 'LSG, Wikidata: compás'
 03085025-n:
   definition:
   - confidence: 0.0
@@ -2359,6 +2584,7 @@
   - comhpháirt
   - comhábhar
   partOfSpeech: n
+  source: 'LSG, Wisteria: comhchuid, comhpháirt, comhábhar'
 03086811-n:
   definition:
   - confidence: 0.0
@@ -2369,6 +2595,7 @@
   members:
   - comhbhrúiteoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: comhbhrúiteoir'
 03086983-n:
   definition:
   - confidence: 0.0
@@ -2379,6 +2606,7 @@
   members:
   - ríomhaire
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: ríomhaire'
 03092065-n:
   definition:
   - confidence: 0.0
@@ -2389,6 +2617,7 @@
   members:
   - comhdhlúthadán
   partOfSpeech: n
+  source: 'LSG, Wisteria: comhdhlúthadán'
 03092620-n:
   definition:
   - confidence: 0.0
@@ -2400,6 +2629,7 @@
   members:
   - coiscín
   partOfSpeech: n
+  source: 'LSG, Wikidata: coiscín'
 03097883-n:
   definition:
   - confidence: 0.0
@@ -2410,6 +2640,7 @@
   members:
   - consalacht
   partOfSpeech: n
+  source: 'LSG, Wisteria: consalacht'
 03098615-n:
   definition:
   - confidence: 0.0
@@ -2421,6 +2652,7 @@
   members:
   - lionsa tadhaill
   partOfSpeech: n
+  source: 'LSG, Wikidata: lionsa tadhaill'
 03099154-n:
   definition:
   - confidence: 0.0
@@ -2434,6 +2666,7 @@
   - coimeádán
   - gabhdán
   partOfSpeech: n
+  source: 'LSG, Wisteria: coimeádán, gabhdán'
 03101611-n:
   definition:
   - confidence: 0.0
@@ -2445,6 +2678,7 @@
   - rialaitheoir
   - rialtán
   partOfSpeech: n
+  source: 'LSG, Wisteria: rialaitheoir, rialtán'
 03104596-n:
   definition:
   - confidence: 0.0
@@ -2455,6 +2689,7 @@
   members:
   - tiontaire
   partOfSpeech: n
+  source: 'LSG, Wisteria: tiontaire'
 03109245-n:
   definition:
   - confidence: 0.0
@@ -2465,6 +2700,7 @@
   members:
   - cóip
   partOfSpeech: n
+  source: 'LSG, Wisteria: cóip'
 03110761-n:
   definition:
   - confidence: 0.0
@@ -2475,6 +2711,7 @@
   members:
   - corda
   partOfSpeech: n
+  source: 'LSG, Wisteria: corda'
 03112367-n:
   definition:
   - confidence: 0.0
@@ -2486,6 +2723,7 @@
   members:
   - croí
   partOfSpeech: n
+  source: 'LSG, Wisteria: croí'
 03114137-n:
   definition:
   - confidence: 0.0
@@ -2496,6 +2734,7 @@
   members:
   - coirnéal
   partOfSpeech: n
+  source: 'LSG, Wisteria: coirnéal'
 03116750-n:
   definition:
   - confidence: 0.0
@@ -2506,6 +2745,7 @@
   members:
   - dorchla
   partOfSpeech: n
+  source: 'LSG, Wisteria: dorchla'
 03117520-n:
   definition:
   - confidence: 0.0
@@ -2516,6 +2756,7 @@
   members:
   - cóirséad
   partOfSpeech: n
+  source: 'LSG, Wisteria: cóirséad'
 03117803-n:
   definition:
   - confidence: 0.0
@@ -2526,6 +2767,7 @@
   members:
   - cosmaid
   partOfSpeech: n
+  source: 'LSG, Wisteria: cosmaid'
 03121181-n:
   definition:
   - confidence: 0.0
@@ -2536,6 +2778,7 @@
   members:
   - cuntar
   partOfSpeech: n
+  source: 'LSG, Wisteria: cuntar'
 03121418-n:
   definition:
   - confidence: 0.0
@@ -2546,6 +2789,7 @@
   members:
   - áiritheoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: áiritheoir'
 03124441-n:
   definition:
   - confidence: 0.0
@@ -2557,6 +2801,7 @@
   members:
   - cúrsa
   partOfSpeech: n
+  source: 'LSG, Wisteria: cúrsa'
 03125142-n:
   definition:
   - confidence: 0.0
@@ -2567,6 +2812,7 @@
   members:
   - cúirt
   partOfSpeech: n
+  source: 'LSG, Wisteria: cúirt'
 03125691-n:
   definition:
   - confidence: 0.0
@@ -2577,6 +2823,7 @@
   members:
   - cúirt
   partOfSpeech: n
+  source: 'LSG, Wikidata: cúirt'
 03127399-n:
   definition:
   - confidence: 0.0
@@ -2588,6 +2835,7 @@
   members:
   - clúdach
   partOfSpeech: n
+  source: 'LSG, Wisteria: clúdach'
 03130521-n:
   definition:
   - confidence: 0.0
@@ -2599,6 +2847,7 @@
   members:
   - árthach
   partOfSpeech: n
+  source: 'LSG, Wisteria: árthach'
 03131358-n:
   definition:
   - confidence: 0.0
@@ -2610,6 +2859,7 @@
   members:
   - craein
   partOfSpeech: n
+  source: 'LSG, Wisteria: craein'
 03132059-n:
   definition:
   - confidence: 0.0
@@ -2620,6 +2870,7 @@
   members:
   - cromfhearsaid
   partOfSpeech: n
+  source: 'LSG, Wisteria: cromfhearsaid'
 03132576-n:
   definition:
   - confidence: 0.0
@@ -2630,6 +2881,7 @@
   members:
   - cliathbhosca
   partOfSpeech: n
+  source: 'LSG, Wisteria: cliathbhosca'
 03132899-n:
   definition:
   - confidence: 0.0
@@ -2641,6 +2893,7 @@
   members:
   - crián
   partOfSpeech: n
+  source: 'LSG, Wikidata: crián'
 03134499-n:
   definition:
   - confidence: 0.0
@@ -2651,6 +2904,7 @@
   members:
   - cliabh
   partOfSpeech: n
+  source: 'LSG, Wisteria: cliabh'
 03141879-n:
   definition:
   - confidence: 0.0
@@ -2662,6 +2916,7 @@
   members:
   - crosaire
   partOfSpeech: n
+  source: 'LSG, Wisteria: crosaire'
 03143320-n:
   definition:
   - confidence: 0.0
@@ -2673,6 +2928,7 @@
   members:
   - coróin
   partOfSpeech: n
+  source: 'LSG, Wisteria: coróin'
 03144649-n:
   definition:
   - confidence: 0.0
@@ -2683,6 +2939,7 @@
   members:
   - crannóg
   partOfSpeech: n
+  source: 'LSG, Wikidata: crannóg'
 03145551-n:
   definition:
   - confidence: 0.0
@@ -2693,6 +2950,7 @@
   members:
   - cúrsóir
   partOfSpeech: n
+  source: 'LSG, Wikidata: cúrsóir'
 03147082-n:
   definition:
   - confidence: 0.0
@@ -2705,6 +2963,7 @@
   - lusca
   - uaimh
   partOfSpeech: n
+  source: 'LSG, Wikidata: lusca, uaimh'
 03150509-n:
   definition:
   - confidence: 0.0
@@ -2716,6 +2975,7 @@
   members:
   - cufa
   partOfSpeech: n
+  source: 'LSG, Wisteria: cufa'
 03151946-n:
   definition:
   - confidence: 0.0
@@ -2726,6 +2986,7 @@
   members:
   - lintéar
   partOfSpeech: n
+  source: 'LSG, Wisteria: lintéar'
 03152175-n:
   definition:
   - confidence: 0.0
@@ -2737,6 +2998,7 @@
   members:
   - cupán
   partOfSpeech: n
+  source: 'LSG, Wisteria: cupán'
 03155743-n:
   definition:
   - confidence: 0.0
@@ -2747,6 +3009,7 @@
   members:
   - cuirtín
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: cuirtín'
 03158739-n:
   definition:
   - confidence: 0.0
@@ -2757,6 +3020,7 @@
   members:
   - gearrthóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: gearrthóir'
 03161071-n:
   definition:
   - confidence: 0.0
@@ -2767,6 +3031,7 @@
   members:
   - sorcóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: sorcóir'
 03164975-n:
   definition:
   - confidence: 0.0
@@ -2777,6 +3042,7 @@
   members:
   - damba
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: damba'
 03166116-n:
   definition:
   - confidence: 0.0
@@ -2788,6 +3054,7 @@
   members:
   - maolaire
   partOfSpeech: n
+  source: 'LSG, Wisteria: maolaire'
 03173729-n:
   definition:
   - confidence: 0.0
@@ -2798,6 +3065,7 @@
   members:
   - díchódóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: díchódóir'
 03174056-n:
   definition:
   - confidence: 0.0
@@ -2809,6 +3077,7 @@
   - maisiúchán
   - ornáid
   partOfSpeech: n
+  source: 'LSG, Wisteria: maisiúchán; LSG, Wikidata: ornáid'
 03175301-n:
   definition:
   - confidence: 0.0
@@ -2820,6 +3089,7 @@
   members:
   - reoiteoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: reoiteoir'
 03176301-n:
   definition:
   - confidence: 0.0
@@ -2832,6 +3102,7 @@
   members:
   - dífhibrileoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: dífhibrileoir'
 03181260-n:
   definition:
   - confidence: 0.0
@@ -2842,6 +3113,7 @@
   members:
   - díbholaíoch
   partOfSpeech: n
+  source: 'LSG, Wikidata: díbholaíoch'
 03182015-n:
   definition:
   - confidence: 0.0
@@ -2853,6 +3125,7 @@
   - stór
   - stóras
   partOfSpeech: n
+  source: 'LSG, Wisteria: stór, stóras'
 03183448-n:
   definition:
   - confidence: 0.0
@@ -2863,6 +3136,7 @@
   members:
   - patrún
   partOfSpeech: n
+  source: 'LSG, Wisteria: patrún'
 03184367-n:
   definition:
   - confidence: 0.0
@@ -2874,6 +3148,7 @@
   members:
   - deasc
   partOfSpeech: n
+  source: 'LSG, Wisteria: deasc'
 03185635-n:
   definition:
   - confidence: 0.0
@@ -2886,6 +3161,7 @@
   - braiteoir
   - brathadóir
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: braiteoir; LSG, Wisteria: brathadóir'
 03186898-n:
   definition:
   - confidence: 0.0
@@ -2897,6 +3173,7 @@
   members:
   - maidhmitheoir
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: maidhmitheoir'
 03187746-n:
   definition:
   - confidence: 0.0
@@ -2909,6 +3186,7 @@
   - gaireas
   - gléas
   partOfSpeech: n
+  source: 'LSG, Wisteria: feiste, gaireas, gléas'
 03191083-n:
   definition:
   - confidence: 0.0
@@ -2920,6 +3198,7 @@
   members:
   - léaráid
   partOfSpeech: n
+  source: 'LSG, Wisteria: léaráid'
 03195713-n:
   definition:
   - confidence: 0.0
@@ -2931,6 +3210,7 @@
   members:
   - dísle
   partOfSpeech: n
+  source: 'LSG, Wikidata: dísle'
 03197791-n:
   definition:
   - confidence: 0.0
@@ -2941,6 +3221,7 @@
   members:
   - díosal
   partOfSpeech: n
+  source: 'LSG, Wisteria: díosal'
 03198981-n:
   definition:
   - confidence: 0.0
@@ -2953,6 +3234,7 @@
   members:
   - difreálach
   partOfSpeech: n
+  source: 'LSG, Wisteria: difreálach'
 03211629-n:
   definition:
   - confidence: 0.0
@@ -2965,6 +3247,7 @@
   members:
   - mias
   partOfSpeech: n
+  source: 'LSG, Wisteria: mias'
 03212662-n:
   definition:
   - confidence: 0.0
@@ -2975,6 +3258,7 @@
   members:
   - miasniteoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: miasniteoir'
 03212950-n:
   definition:
   - confidence: 0.0
@@ -2986,6 +3270,7 @@
   members:
   - díghalrán
   partOfSpeech: n
+  source: 'LSG, Wisteria: díghalrán'
 03215404-n:
   definition:
   - confidence: 0.0
@@ -2996,6 +3281,7 @@
   members:
   - rannóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: rannóir'
 03215838-n:
   definition:
   - confidence: 0.0
@@ -3007,6 +3293,7 @@
   - scáileán
   - taispeáint
   partOfSpeech: n
+  source: 'LSG, Wisteria: scáileán, taispeáint'
 03217532-n:
   definition:
   - confidence: 0.0
@@ -3017,6 +3304,7 @@
   members:
   - drioglann
   partOfSpeech: n
+  source: 'LSG, Wisteria: drioglann'
 03223838-n:
   definition:
   - confidence: 0.0
@@ -3027,6 +3315,7 @@
   members:
   - bábóg
   partOfSpeech: n
+  source: 'LSG, Wikidata: bábóg'
 03224940-n:
   definition:
   - confidence: 0.0
@@ -3039,6 +3328,7 @@
   - cromleac
   - dolmain
   partOfSpeech: n
+  source: 'LSG, Wikidata: cromleac, dolmain'
 03225216-n:
   definition:
   - confidence: 0.0
@@ -3049,6 +3339,7 @@
   members:
   - cruinneachán
   partOfSpeech: n
+  source: 'LSG, Wisteria: cruinneachán'
 03226423-n:
   definition:
   - confidence: 0.0
@@ -3060,6 +3351,7 @@
   members:
   - doras
   partOfSpeech: n
+  source: 'LSG, Wisteria: doras'
 03228735-n:
   definition:
   - confidence: 0.0
@@ -3071,6 +3363,7 @@
   members:
   - doras
   partOfSpeech: n
+  source: 'LSG, Wisteria: doras'
 03229596-n:
   definition:
   - confidence: 0.0
@@ -3083,6 +3376,7 @@
   - dórtúr
   - suanlios
   partOfSpeech: n
+  source: 'LSG, Wikidata: dórtúr; LSG, Wikidata, Wisteria: suanlios'
 03229941-n:
   definition:
   - confidence: 0.0
@@ -3093,6 +3387,7 @@
   members:
   - dáileog
   partOfSpeech: n
+  source: 'LSG, Wisteria: dáileog'
 03236615-n:
   definition:
   - confidence: 0.0
@@ -3103,6 +3398,7 @@
   members:
   - draein
   partOfSpeech: n
+  source: 'LSG, Wisteria: draein'
 03238126-n:
   definition:
   - confidence: 0.0
@@ -3113,6 +3409,7 @@
   members:
   - crannchur
   partOfSpeech: n
+  source: 'LSG, Wisteria: crannchur'
 03240920-n:
   definition:
   - confidence: 0.0
@@ -3123,6 +3420,7 @@
   members:
   - dreidire
   partOfSpeech: n
+  source: 'LSG, Wisteria: dreidire'
 03241126-n:
   definition:
   - confidence: 0.0
@@ -3133,6 +3431,7 @@
   members:
   - dreidire
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: dreidire'
 03241438-n:
   definition:
   - confidence: 0.0
@@ -3143,6 +3442,7 @@
   members:
   - gúna
   partOfSpeech: n
+  source: 'LSG, Wisteria: gúna'
 03244429-n:
   definition:
   - confidence: 0.0
@@ -3155,6 +3455,7 @@
   - druil
   - druilire
   partOfSpeech: n
+  source: 'LSG, Wisteria: druil; LSG, Wikidata: druilire'
 03247698-n:
   definition:
   - confidence: 0.0
@@ -3165,6 +3466,7 @@
   members:
   - tiomáint
   partOfSpeech: n
+  source: 'LSG, Wisteria: tiomáint'
 03252323-n:
   definition:
   - confidence: 0.0
@@ -3175,6 +3477,7 @@
   members:
   - druga
   partOfSpeech: n
+  source: 'LSG, Wisteria: druga'
 03254045-n:
   definition:
   - confidence: 0.0
@@ -3185,6 +3488,7 @@
   members:
   - cógaslann
   partOfSpeech: n
+  source: 'LSG, Wisteria: cógaslann'
 03254272-n:
   definition:
   - confidence: 0.0
@@ -3196,6 +3500,7 @@
   members:
   - druma
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: druma'
 03254659-n:
   definition:
   - confidence: 0.0
@@ -3207,6 +3512,7 @@
   members:
   - druma
   partOfSpeech: n
+  source: 'LSG, Wisteria: druma'
 03256469-n:
   definition:
   - confidence: 0.0
@@ -3217,6 +3523,7 @@
   members:
   - triomadóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: triomadóir'
 03257662-n:
   definition:
   - confidence: 0.0
@@ -3227,6 +3534,7 @@
   members:
   - dubáil
   partOfSpeech: n
+  source: 'LSG, Wikidata: dubáil'
 03262046-n:
   definition:
   - confidence: 0.0
@@ -3237,6 +3545,7 @@
   members:
   - dúblach
   partOfSpeech: n
+  source: 'LSG, Wisteria: dúblach'
 03264208-n:
   definition:
   - confidence: 0.0
@@ -3250,6 +3559,8 @@
   - teaghais
   - áitreabh
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: teach; LSG, Wikidata: teach cónaithe, áitreabh; LSG,
+    Wisteria: teaghais'
 03279707-n:
   definition:
   - confidence: 0.0
@@ -3260,6 +3571,7 @@
   members:
   - leictreoid
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: leictreoid'
 03285127-n:
   definition:
   - confidence: 0.0
@@ -3271,6 +3583,7 @@
   members:
   - leictreascóp
   partOfSpeech: n
+  source: 'Wikidata, Wisteria: leictreascóp'
 03286056-n:
   definition:
   - confidence: 0.0
@@ -3283,6 +3596,7 @@
   members:
   - ardaitheoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: ardaitheoir'
 03287206-n:
   definition:
   - confidence: 0.0
@@ -3293,6 +3607,7 @@
   members:
   - ambasáid
   partOfSpeech: n
+  source: 'LSG, Wisteria: ambasáid'
 03287502-n:
   definition:
   - confidence: 0.0
@@ -3303,6 +3618,7 @@
   members:
   - feathal
   partOfSpeech: n
+  source: 'LSG, Wisteria: feathal'
 03287844-n:
   definition:
   - confidence: 0.0
@@ -3313,6 +3629,7 @@
   members:
   - bróidnéireacht
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: bróidnéireacht'
 03288738-n:
   definition:
   - confidence: 0.0
@@ -3323,6 +3640,7 @@
   members:
   - astaíre
   partOfSpeech: n
+  source: 'LSG, Wisteria: astaíre'
 03292644-n:
   definition:
   - confidence: 0.0
@@ -3333,6 +3651,7 @@
   members:
   - inneall
   partOfSpeech: n
+  source: 'LSG, Wisteria: inneall'
 03296652-n:
   definition:
   - confidence: 0.0
@@ -3343,6 +3662,7 @@
   members:
   - clúdach
   partOfSpeech: n
+  source: 'LSG, Wisteria: clúdach'
 03296730-n:
   definition:
   - confidence: 0.0
@@ -3353,6 +3673,7 @@
   members:
   - clúdach litreach
   partOfSpeech: n
+  source: 'LSG, Wikidata: clúdach litreach'
 03298959-n:
   definition:
   - confidence: 0.0
@@ -3364,6 +3685,7 @@
   - fearas
   - trealamh
   partOfSpeech: n
+  source: 'LSG, Wisteria: fearas, trealamh'
 03300702-n:
   definition:
   - confidence: 0.0
@@ -3375,6 +3697,7 @@
   - staighre beo
   - staighre creasa
   partOfSpeech: n
+  source: 'LSG, Wikidata: staighre beo, staighre creasa'
 03307432-n:
   definition:
   - confidence: 0.0
@@ -3385,6 +3708,7 @@
   members:
   - malartán
   partOfSpeech: n
+  source: 'LSG, Wisteria: malartán'
 03309675-n:
   definition:
   - confidence: 0.0
@@ -3396,6 +3720,7 @@
   members:
   - pléascán
   partOfSpeech: n
+  source: 'LSG, Wisteria: pléascán'
 03311152-n:
   definition:
   - confidence: 0.0
@@ -3406,6 +3731,7 @@
   members:
   - onnmhaire
   partOfSpeech: n
+  source: 'LSG, Wisteria: onnmhaire'
 03311555-n:
   definition:
   - confidence: 0.0
@@ -3416,6 +3742,7 @@
   members:
   - mótarbhealach
   partOfSpeech: n
+  source: 'LSG, Wisteria: mótarbhealach'
 03314753-n:
   definition:
   - confidence: 0.0
@@ -3429,6 +3756,7 @@
   - teicstíl
   - éadach
   partOfSpeech: n
+  source: 'LSG, Wisteria: fabraic; LSG, Wikidata, Wisteria: teicstíl; LSG, Wikidata: éadach'
 03318278-n:
   definition:
   - confidence: 0.0
@@ -3439,6 +3767,7 @@
   members:
   - aghaidh
   partOfSpeech: n
+  source: 'LSG, Wikidata: aghaidh'
 03321351-n:
   definition:
   - confidence: 0.0
@@ -3450,6 +3779,7 @@
   - monarcha
   - muileann
   partOfSpeech: n
+  source: 'LSG, Wisteria: monarcha, muileann'
 03324991-n:
   definition:
   - confidence: 0.0
@@ -3461,6 +3791,7 @@
   - fean
   - gaothrán
   partOfSpeech: n
+  source: 'LSG, Wisteria: fean, gaothrán'
 03327044-n:
   definition:
   - confidence: 0.0
@@ -3471,6 +3802,7 @@
   members:
   - feirm
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: feirm'
 03328648-n:
   definition:
   - confidence: 0.0
@@ -3481,6 +3813,7 @@
   members:
   - ceanglóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: ceanglóir'
 03331740-n:
   definition:
   - confidence: 0.0
@@ -3491,6 +3824,7 @@
   members:
   - feilt
   partOfSpeech: n
+  source: 'LSG, Wisteria: feilt'
 03332179-n:
   definition:
   - confidence: 0.0
@@ -3502,6 +3836,7 @@
   - claí
   - fál
   partOfSpeech: n
+  source: 'LSG, Wisteria: claí, fál'
 03339975-n:
   definition:
   - confidence: 0.0
@@ -3513,6 +3848,7 @@
   members:
   - eitleán troda
   partOfSpeech: n
+  source: 'LSG, Wikidata: eitleán troda'
 03341520-n:
   definition:
   - confidence: 0.0
@@ -3524,6 +3860,7 @@
   members:
   - filiméad
   partOfSpeech: n
+  source: 'LSG, Wisteria: filiméad'
 03343766-n:
   definition:
   - confidence: 0.0
@@ -3535,6 +3872,7 @@
   members:
   - scannán
   partOfSpeech: n
+  source: 'LSG, Wisteria: scannán'
 03344588-n:
   definition:
   - confidence: 0.0
@@ -3545,6 +3883,7 @@
   members:
   - scagaire
   partOfSpeech: n
+  source: 'LSG, Wisteria: scagaire'
 03348200-n:
   definition:
   - confidence: 0.0
@@ -3555,6 +3894,7 @@
   members:
   - fliúit Shasanach
   partOfSpeech: n
+  source: 'LSG, Wikidata: fliúit Shasanach'
 03348699-n:
   definition:
   - confidence: 0.0
@@ -3565,6 +3905,7 @@
   members:
   - arm tine
   partOfSpeech: n
+  source: 'LSG, Wisteria: arm tine'
 03351301-n:
   definition:
   - confidence: 0.0
@@ -3575,6 +3916,7 @@
   members:
   - teallach
   partOfSpeech: n
+  source: 'LSG, Wisteria: teallach'
 03358462-n:
   definition:
   - confidence: 0.0
@@ -3586,6 +3928,7 @@
   - fearas
   - feisteas
   partOfSpeech: n
+  source: 'LSG, Wisteria: fearas, feisteas'
 03359459-n:
   definition:
   - confidence: 0.0
@@ -3596,6 +3939,7 @@
   members:
   - daingneán
   partOfSpeech: n
+  source: 'LSG, Wisteria: daingneán'
 03359749-n:
   definition:
   - confidence: 0.0
@@ -3607,6 +3951,7 @@
   members:
   - bratach
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: bratach'
 03362222-n:
   definition:
   - confidence: 0.0
@@ -3618,6 +3963,7 @@
   members:
   - flapa
   partOfSpeech: n
+  source: 'LSG, Wisteria: flapa'
 03364412-n:
   definition:
   - confidence: 0.0
@@ -3628,6 +3974,7 @@
   members:
   - fleascán
   partOfSpeech: n
+  source: 'LSG, Wisteria: fleascán'
 03369186-n:
   definition:
   - confidence: 0.0
@@ -3638,6 +3985,7 @@
   members:
   - snámhán
   partOfSpeech: n
+  source: 'LSG, Wisteria: snámhán'
 03370438-n:
   definition:
   - confidence: 0.0
@@ -3649,6 +3997,7 @@
   members:
   - urlár
   partOfSpeech: n
+  source: 'LSG, Wisteria: urlár'
 03370837-n:
   definition:
   - confidence: 0.0
@@ -3661,6 +4010,7 @@
   - stór
   - urlár
   partOfSpeech: n
+  source: 'LSG, Wikidata: stór, urlár'
 03373724-n:
   definition:
   - confidence: 0.0
@@ -3671,6 +4021,7 @@
   members:
   - múchán
   partOfSpeech: n
+  source: 'LSG, Wisteria: múchán'
 03380540-n:
   definition:
   - confidence: 0.0
@@ -3681,6 +4032,7 @@
   members:
   - scragall
   partOfSpeech: n
+  source: 'LSG, Wisteria: scragall'
 03381125-n:
   definition:
   - confidence: 0.0
@@ -3691,6 +4043,7 @@
   members:
   - fillteán
   partOfSpeech: n
+  source: 'LSG, Wisteria: fillteán'
 03385972-n:
   definition:
   - confidence: 0.0
@@ -3701,6 +4054,7 @@
   members:
   - coisbheart
   partOfSpeech: n
+  source: 'Wikidata, Wisteria: coisbheart'
 03388794-n:
   definition:
   - confidence: 0.0
@@ -3711,6 +4065,7 @@
   members:
   - forc
   partOfSpeech: n
+  source: 'LSG, Wisteria: forc'
 03389198-n:
   definition:
   - confidence: 0.0
@@ -3722,6 +4077,7 @@
   members:
   - forcardaitheoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: forcardaitheoir'
 03390857-n:
   definition:
   - confidence: 0.0
@@ -3733,6 +4089,7 @@
   - daingean
   - dún
   partOfSpeech: n
+  source: 'LSG, Wisteria: daingean, dún'
 03391862-n:
   definition:
   - confidence: 0.0
@@ -3744,6 +4101,7 @@
   - bonn
   - bunsraith
   partOfSpeech: n
+  source: 'LSG, Wisteria: bonn, bunsraith'
 03392499-n:
   definition:
   - confidence: 0.0
@@ -3754,6 +4112,7 @@
   members:
   - teilgcheárta
   partOfSpeech: n
+  source: 'LSG, Wisteria: teilgcheárta'
 03396310-n:
   definition:
   - confidence: 0.0
@@ -3765,6 +4124,7 @@
   members:
   - fráma
   partOfSpeech: n
+  source: 'LSG, Wisteria: fráma'
 03408558-n:
   definition:
   - confidence: 0.0
@@ -3776,6 +4136,7 @@
   members:
   - tonnadóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: tonnadóir'
 03409359-n:
   definition:
   - confidence: 0.0
@@ -3787,6 +4148,7 @@
   members:
   - foirnéis
   partOfSpeech: n
+  source: 'LSG, Wisteria: foirnéis'
 03410635-n:
   definition:
   - confidence: 0.0
@@ -3797,6 +4159,7 @@
   members:
   - troscán
   partOfSpeech: n
+  source: 'LSG, Wisteria: troscán'
 03413631-n:
   definition:
   - confidence: 0.0
@@ -3808,6 +4171,7 @@
   members:
   - todhchaíocht
   partOfSpeech: n
+  source: 'LSG, Wisteria: todhchaíocht'
 03421399-n:
   definition:
   - confidence: 0.0
@@ -3818,6 +4182,7 @@
   members:
   - garáiste
   partOfSpeech: n
+  source: 'LSG, Wikidata: garáiste'
 03422659-n:
   definition:
   - confidence: 0.0
@@ -3828,6 +4193,7 @@
   members:
   - gairdín
   partOfSpeech: n
+  source: 'LSG, Wisteria: gairdín'
 03423924-n:
   definition:
   - confidence: 0.0
@@ -3838,6 +4204,7 @@
   members:
   - éadaí
   partOfSpeech: n
+  source: 'Wikidata, Wisteria: éadaí'
 03432206-n:
   definition:
   - confidence: 0.0
@@ -3848,6 +4215,7 @@
   members:
   - geata
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: geata'
 03432566-n:
   definition:
   - confidence: 0.0
@@ -3859,6 +4227,7 @@
   members:
   - geata
   partOfSpeech: n
+  source: 'LSG, Wisteria: geata'
 03432819-n:
   definition:
   - confidence: 0.0
@@ -3869,6 +4238,7 @@
   members:
   - geata
   partOfSpeech: n
+  source: 'LSG, Wisteria: geata'
 03433387-n:
   definition:
   - confidence: 0.0
@@ -3879,6 +4249,7 @@
   members:
   - geata
   partOfSpeech: n
+  source: 'LSG, Wisteria: geata'
 03434198-n:
   definition:
   - confidence: 0.0
@@ -3890,6 +4261,7 @@
   members:
   - tomhsaire
   partOfSpeech: n
+  source: 'LSG, Wisteria: tomhsaire'
 03435461-n:
   definition:
   - confidence: 0.0
@@ -3901,6 +4273,7 @@
   members:
   - giar
   partOfSpeech: n
+  source: 'LSG, Wisteria: giar'
 03435869-n:
   definition:
   - confidence: 0.0
@@ -3914,6 +4287,7 @@
   - feisteas
   - trealamh
   partOfSpeech: n
+  source: 'LSG, Wisteria: fearas, feisteas, trealamh'
 03436480-n:
   definition:
   - confidence: 0.0
@@ -3924,6 +4298,7 @@
   members:
   - giarbhosca
   partOfSpeech: n
+  source: 'LSG, Wisteria: giarbhosca'
 03438787-n:
   definition:
   - confidence: 0.0
@@ -3935,6 +4310,7 @@
   members:
   - gineadóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: gineadóir'
 03443167-n:
   definition:
   - confidence: 0.0
@@ -3945,6 +4321,7 @@
   members:
   - gloine
   partOfSpeech: n
+  source: 'LSG, Wisteria: gloine'
 03444738-n:
   definition:
   - confidence: 0.0
@@ -3955,6 +4332,7 @@
   members:
   - faoileoir
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: faoileoir'
 03445140-n:
   definition:
   - confidence: 0.0
@@ -3967,6 +4345,7 @@
   members:
   - córas suite domhanda
   partOfSpeech: n
+  source: 'LSG, Wikidata: córas suite domhanda'
 03446036-n:
   definition:
   - confidence: 0.0
@@ -3977,6 +4356,7 @@
   members:
   - lámhainn
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: lámhainn'
 03454962-n:
   definition:
   - confidence: 0.0
@@ -3988,6 +4368,7 @@
   members:
   - rialtóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: rialtóir'
 03459977-n:
   definition:
   - confidence: 0.0
@@ -4000,6 +4381,7 @@
   - tuama
   - uaigh
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: tuama; LSG, Wisteria: uaigh'
 03460432-n:
   definition:
   - confidence: 0.0
@@ -4011,6 +4393,7 @@
   - leac thuama
   - leac uaighe
   partOfSpeech: n
+  source: 'LSG, Wikidata: leac thuama, leac uaighe'
 03461607-n:
   definition:
   - confidence: 0.0
@@ -4021,6 +4404,7 @@
   members:
   - cóta mór
   partOfSpeech: n
+  source: 'LSG, Wikidata: cóta mór'
 03462844-n:
   definition:
   - confidence: 0.0
@@ -4033,6 +4417,7 @@
   - plandlann
   - teach gloine
   partOfSpeech: n
+  source: 'LSG, Wikidata: plandlann, teach gloine'
 03463203-n:
   definition:
   - confidence: 0.0
@@ -4044,6 +4429,7 @@
   members:
   - gránáid
   partOfSpeech: n
+  source: 'LSG, Wisteria: gránáid'
 03466317-n:
   definition:
   - confidence: 0.0
@@ -4054,6 +4440,7 @@
   members:
   - margadh
   partOfSpeech: n
+  source: 'LSG, Wisteria: margadh'
 03468764-n:
   definition:
   - confidence: 0.0
@@ -4064,6 +4451,7 @@
   members:
   - úllord
   partOfSpeech: n
+  source: 'LSG, Wisteria: úllord'
 03469399-n:
   definition:
   - confidence: 0.0
@@ -4074,6 +4462,7 @@
   members:
   - garda
   partOfSpeech: n
+  source: 'LSG, Wisteria: garda'
 03472000-n:
   definition:
   - confidence: 0.0
@@ -4085,6 +4474,7 @@
   members:
   - gilitín
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: gilitín'
 03472449-n:
   definition:
   - confidence: 0.0
@@ -4096,6 +4486,7 @@
   members:
   - giotár
   partOfSpeech: n
+  source: 'LSG, Wikidata: giotár'
 03472916-n:
   definition:
   - confidence: 0.0
@@ -4107,6 +4498,7 @@
   members:
   - gunna
   partOfSpeech: n
+  source: 'LSG, Wisteria: gunna'
 03475752-n:
   definition:
   - confidence: 0.0
@@ -4117,6 +4509,7 @@
   members:
   - truicear
   partOfSpeech: n
+  source: 'LSG, Wisteria: truicear'
 03477235-n:
   definition:
   - confidence: 0.0
@@ -4128,6 +4521,7 @@
   - giomnáisiam
   - spórtlann
   partOfSpeech: n
+  source: 'LSG, Wikidata: giomnáisiam; LSG, Wisteria: spórtlann'
 03479902-n:
   definition:
   - confidence: 0.0
@@ -4138,6 +4532,7 @@
   members:
   - sábh miotail
   partOfSpeech: n
+  source: 'LSG, Wikidata: sábh miotail'
 03483839-n:
   definition:
   - confidence: 0.0
@@ -4148,6 +4543,7 @@
   members:
   - halla
   partOfSpeech: n
+  source: 'LSG, Wisteria: halla'
 03483990-n:
   definition:
   - confidence: 0.0
@@ -4158,6 +4554,7 @@
   members:
   - halla
   partOfSpeech: n
+  source: 'LSG, Wisteria: halla'
 03485035-n:
   definition:
   - confidence: 0.0
@@ -4168,6 +4565,7 @@
   members:
   - halla
   partOfSpeech: n
+  source: 'LSG, Wisteria: halla'
 03486255-n:
   definition:
   - confidence: 0.0
@@ -4179,6 +4577,7 @@
   members:
   - casúr
   partOfSpeech: n
+  source: 'LSG, Wisteria: casúr'
 03490658-n:
   definition:
   - confidence: 0.0
@@ -4189,6 +4588,7 @@
   members:
   - greamán
   partOfSpeech: n
+  source: 'LSG, Wisteria: greamán'
 03490877-n:
   definition:
   - confidence: 0.0
@@ -4201,6 +4601,7 @@
   members:
   - ciarsúr
   partOfSpeech: n
+  source: 'LSG, Wisteria: ciarsúr'
 03497492-n:
   definition:
   - confidence: 0.0
@@ -4211,6 +4612,7 @@
   members:
   - clúdach crua
   partOfSpeech: n
+  source: 'LSG, Wikidata: clúdach crua'
 03498434-n:
   definition:
   - confidence: 0.0
@@ -4222,6 +4624,7 @@
   members:
   - crua-earra
   partOfSpeech: n
+  source: 'LSG, Wisteria: crua-earra'
 03498893-n:
   definition:
   - confidence: 0.0
@@ -4232,6 +4635,7 @@
   members:
   - crua-earra
   partOfSpeech: n
+  source: 'LSG, Wisteria: crua-earra'
 03499379-n:
   definition:
   - confidence: 0.0
@@ -4244,6 +4648,7 @@
   - armónach
   - orgán béil
   partOfSpeech: n
+  source: 'LSG, Wikidata: armónach, orgán béil'
 03500796-n:
   definition:
   - confidence: 0.0
@@ -4255,6 +4660,7 @@
   members:
   - harpún
   partOfSpeech: n
+  source: 'LSG, Wisteria: harpún'
 03501421-n:
   definition:
   - confidence: 0.0
@@ -4266,6 +4672,7 @@
   - clárchruit
   - cruitchorda
   partOfSpeech: n
+  source: 'LSG, Wikidata: clárchruit, cruitchorda'
 03502782-n:
   definition:
   - confidence: 0.0
@@ -4277,6 +4684,7 @@
   members:
   - hata
   partOfSpeech: n
+  source: 'LSG, Wisteria: hata'
 03507653-n:
   definition:
   - confidence: 0.0
@@ -4287,6 +4695,7 @@
   members:
   - ceannbheart
   partOfSpeech: n
+  source: 'LSG, Wisteria: ceannbheart'
 03509141-n:
   definition:
   - confidence: 0.0
@@ -4298,6 +4707,7 @@
   members:
   - ceannsolas
   partOfSpeech: n
+  source: 'LSG, Wisteria: ceannsolas'
 03509867-n:
   definition:
   - confidence: 0.0
@@ -4310,6 +4720,7 @@
   - ceanncheathrú
   - lároifig
   partOfSpeech: n
+  source: 'LSG, Wisteria: ceanncheathrú, lároifig'
 03511514-n:
   definition:
   - confidence: 0.0
@@ -4321,6 +4732,7 @@
   members:
   - spá
   partOfSpeech: n
+  source: 'LSG, Wisteria: spá'
 03512024-n:
   definition:
   - confidence: 0.0
@@ -4332,6 +4744,7 @@
   members:
   - eileatram
   partOfSpeech: n
+  source: 'LSG, Wisteria: eileatram'
 03513245-n:
   definition:
   - confidence: 0.0
@@ -4342,6 +4755,7 @@
   members:
   - téitheoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: téitheoir'
 03514752-n:
   definition:
   - confidence: 0.0
@@ -4354,6 +4768,7 @@
   members:
   - teaschaidéal
   partOfSpeech: n
+  source: 'LSG, Wisteria: teaschaidéal'
 03517291-n:
   definition:
   - confidence: 0.0
@@ -4366,6 +4781,7 @@
   - héileacaptar
   - ingearán
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: héileacaptar; LSG, Wikidata: ingearán'
 03526239-n:
   definition:
   - confidence: 0.0
@@ -4377,6 +4793,7 @@
   members:
   - inse
   partOfSpeech: n
+  source: 'LSG, Wisteria: inse'
 03530254-n:
   definition:
   - confidence: 0.0
@@ -4387,6 +4804,7 @@
   members:
   - ardaitheoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: ardaitheoir'
 03530634-n:
   definition:
   - confidence: 0.0
@@ -4397,6 +4815,7 @@
   members:
   - coimeádán
   partOfSpeech: n
+  source: 'LSG, Wisteria: coimeádán'
 03532423-n:
   definition:
   - confidence: 0.0
@@ -4408,6 +4827,7 @@
   members:
   - holagram
   partOfSpeech: n
+  source: 'LSG, Wisteria: holagram'
 03536461-n:
   definition:
   - confidence: 0.0
@@ -4418,6 +4838,7 @@
   members:
   - cochall
   partOfSpeech: n
+  source: 'LSG, Wisteria: cochall'
 03537522-n:
   definition:
   - confidence: 0.0
@@ -4428,6 +4849,7 @@
   members:
   - duán
   partOfSpeech: n
+  source: 'LSG, Wisteria: duán'
 03539152-n:
   definition:
   - confidence: 0.0
@@ -4440,6 +4862,7 @@
   - fonsa
   - fáinne
   partOfSpeech: n
+  source: 'LSG, Wisteria: fonsa, fáinne'
 03545055-n:
   definition:
   - confidence: 0.0
@@ -4450,6 +4873,7 @@
   members:
   - píobán
   partOfSpeech: n
+  source: 'LSG, Wisteria: píobán'
 03545447-n:
   definition:
   - confidence: 0.0
@@ -4460,6 +4884,7 @@
   members:
   - góiséireacht
   partOfSpeech: n
+  source: 'LSG, Wisteria: góiséireacht'
 03545775-n:
   definition:
   - confidence: 0.0
@@ -4470,6 +4895,7 @@
   members:
   - ospidéal
   partOfSpeech: n
+  source: 'LSG, Wisteria: ospidéal'
 03546876-n:
   definition:
   - confidence: 0.0
@@ -4480,6 +4906,7 @@
   members:
   - teach ósta
   partOfSpeech: n
+  source: 'LSG, Wisteria: teach ósta'
 03547513-n:
   definition:
   - confidence: 0.0
@@ -4490,6 +4917,7 @@
   members:
   - óstán
   partOfSpeech: n
+  source: 'LSG, Wisteria: óstán'
 03549540-n:
   definition:
   - confidence: 0.0
@@ -4501,6 +4929,7 @@
   members:
   - teach
   partOfSpeech: n
+  source: 'LSG, Wisteria: teach'
 03551520-n:
   definition:
   - confidence: 0.0
@@ -4512,6 +4941,7 @@
   - lóistín
   - tithíocht
   partOfSpeech: n
+  source: 'LSG, Wisteria: lóistín, tithíocht'
 03551946-n:
   definition:
   - confidence: 0.0
@@ -4522,6 +4952,7 @@
   members:
   - cásáil
   partOfSpeech: n
+  source: 'LSG, Wisteria: cásáil'
 03552838-n:
   definition:
   - confidence: 0.0
@@ -4533,6 +4964,7 @@
   members:
   - mol
   partOfSpeech: n
+  source: 'LSG, Wisteria: mol'
 03553806-n:
   definition:
   - confidence: 0.0
@@ -4543,6 +4975,7 @@
   members:
   - cabhail
   partOfSpeech: n
+  source: 'LSG, Wisteria: cabhail'
 03559640-n:
   definition:
   - confidence: 0.0
@@ -4553,6 +4986,7 @@
   members:
   - taismhéadar
   partOfSpeech: n
+  source: 'Wikidata, Wisteria: taismhéadar'
 03564151-n:
   definition:
   - confidence: 0.0
@@ -4564,6 +4998,7 @@
   members:
   - íocón
   partOfSpeech: n
+  source: 'Wikidata, Wisteria: íocón'
 03565747-n:
   definition:
   - confidence: 0.0
@@ -4574,6 +5009,7 @@
   members:
   - adhaint
   partOfSpeech: n
+  source: 'LSG, Wisteria: adhaint'
 03569847-n:
   definition:
   - confidence: 0.0
@@ -4584,6 +5020,7 @@
   members:
   - allmhaire
   partOfSpeech: n
+  source: 'LSG, Wisteria: allmhaire'
 03573297-n:
   definition:
   - confidence: 0.0
@@ -4594,6 +5031,7 @@
   members:
   - táscaire
   partOfSpeech: n
+  source: 'LSG, Wisteria: táscaire'
 03575144-n:
   definition:
   - confidence: 0.0
@@ -4606,6 +5044,7 @@
   - bonneagar
   - infreastruchtúr
   partOfSpeech: n
+  source: 'LSG, Wisteria: bonneagar, infreastruchtúr'
 03575552-n:
   definition:
   - confidence: 0.0
@@ -4617,6 +5056,7 @@
   - bonneagar
   - infreastruchtúr
   partOfSpeech: n
+  source: 'LSG, Wisteria: bonneagar, infreastruchtúr'
 03575860-n:
   definition:
   - confidence: 0.0
@@ -4627,6 +5067,7 @@
   members:
   - comhábhar
   partOfSpeech: n
+  source: 'LSG, Wisteria: comhábhar'
 03576431-n:
   definition:
   - confidence: 0.0
@@ -4638,6 +5079,7 @@
   members:
   - análóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: análóir'
 03578305-n:
   definition:
   - confidence: 0.0
@@ -4648,6 +5090,7 @@
   members:
   - ionchur
   partOfSpeech: n
+  source: 'LSG, Wisteria: ionchur'
 03579967-n:
   definition:
   - confidence: 0.0
@@ -4659,6 +5102,7 @@
   - ionstraim
   - uirlis
   partOfSpeech: n
+  source: 'LSG, Wisteria: ionstraim, uirlis'
 03583825-n:
   definition:
   - confidence: 0.0
@@ -4671,6 +5115,7 @@
   members:
   - port
   partOfSpeech: n
+  source: 'LSG, Wisteria: port'
 03585784-n:
   definition:
   - confidence: 0.0
@@ -4682,6 +5127,7 @@
   members:
   - idirlíon
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: idirlíon'
 03586294-n:
   definition:
   - confidence: 0.0
@@ -4692,6 +5138,7 @@
   members:
   - trasnú
   partOfSpeech: n
+  source: 'LSG, Wisteria: trasnú'
 03586925-n:
   definition:
   - confidence: 0.0
@@ -4703,6 +5150,7 @@
   members:
   - inlíon
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: inlíon'
 03587827-n:
   definition:
   - confidence: 0.0
@@ -4715,6 +5163,7 @@
   - nuáil
   - nuálaíocht
   partOfSpeech: n
+  source: 'LSG, Wisteria: aireagán, nuáil, nuálaíocht'
 03594978-n:
   definition:
   - confidence: 0.0
@@ -4725,6 +5174,7 @@
   members:
   - seaicéad
   partOfSpeech: n
+  source: 'LSG, Wisteria: seaicéad'
 03598713-n:
   definition:
   - confidence: 0.0
@@ -4735,6 +5185,7 @@
   members:
   - crúsca
   partOfSpeech: n
+  source: 'LSG, Wisteria: crúsca'
 03599921-n:
   definition:
   - confidence: 0.0
@@ -4747,6 +5198,7 @@
   members:
   - jíons
   partOfSpeech: n
+  source: 'LSG, Wikidata: jíons'
 03601478-n:
   definition:
   - confidence: 0.0
@@ -4758,6 +5210,7 @@
   members:
   - scairdinneall
   partOfSpeech: n
+  source: 'LSG, Wikidata: scairdinneall'
 03601980-n:
   definition:
   - confidence: 0.0
@@ -4768,6 +5221,7 @@
   members:
   - seoid
   partOfSpeech: n
+  source: 'LSG, Wisteria: seoid'
 03602662-n:
   definition:
   - confidence: 0.0
@@ -4779,6 +5233,7 @@
   members:
   - seodra
   partOfSpeech: n
+  source: 'LSG, Wisteria: seodra'
 03606190-n:
   definition:
   - confidence: 0.0
@@ -4789,6 +5244,7 @@
   members:
   - alt
   partOfSpeech: n
+  source: 'LSG, Wisteria: alt'
 03614448-n:
   definition:
   - confidence: 0.0
@@ -4800,6 +5256,7 @@
   members:
   - cadhc
   partOfSpeech: n
+  source: 'LSG, Wikidata: cadhc'
 03615483-n:
   definition:
   - confidence: 0.0
@@ -4810,6 +5267,7 @@
   members:
   - cuimhneachán
   partOfSpeech: n
+  source: 'LSG, Wisteria: cuimhneachán'
 03618174-n:
   definition:
   - confidence: 0.0
@@ -4821,6 +5279,7 @@
   members:
   - tiompán
   partOfSpeech: n
+  source: 'LSG, Wikidata: tiompán'
 03618503-n:
   definition:
   - confidence: 0.0
@@ -4832,6 +5291,7 @@
   members:
   - eochair
   partOfSpeech: n
+  source: 'LSG, Wisteria: eochair'
 03619216-n:
   definition:
   - confidence: 0.0
@@ -4843,6 +5303,7 @@
   members:
   - méarchlár
   partOfSpeech: n
+  source: 'LSG, Wisteria: méarchlár'
 03623310-n:
   definition:
   - confidence: 0.0
@@ -4853,6 +5314,7 @@
   members:
   - rí
   partOfSpeech: n
+  source: 'LSG, Wikidata: rí'
 03624859-n:
   definition:
   - confidence: 0.0
@@ -4863,6 +5325,7 @@
   members:
   - fearas
   partOfSpeech: n
+  source: 'LSG, Wisteria: fearas'
 03625099-n:
   definition:
   - confidence: 0.0
@@ -4873,6 +5336,7 @@
   members:
   - cistin
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: cistin'
 03628765-n:
   definition:
   - confidence: 0.0
@@ -4884,6 +5348,7 @@
   members:
   - scian
   partOfSpeech: n
+  source: 'LSG, Wisteria: scian'
 03629976-n:
   definition:
   - confidence: 0.0
@@ -4895,6 +5360,7 @@
   members:
   - ridire
   partOfSpeech: n
+  source: 'LSG, Wikidata: ridire'
 03630937-n:
   definition:
   - confidence: 0.0
@@ -4905,6 +5371,7 @@
   members:
   - biorán cniotála
   partOfSpeech: n
+  source: 'LSG, Wikidata: biorán cniotála'
 03632523-n:
   definition:
   - confidence: 0.0
@@ -4916,6 +5383,7 @@
   members:
   - snaidhm
   partOfSpeech: n
+  source: 'LSG, Wisteria: snaidhm'
 03635277-n:
   definition:
   - confidence: 0.0
@@ -4926,6 +5394,7 @@
   members:
   - saotharlann
   partOfSpeech: n
+  source: 'LSG, Wisteria: saotharlann'
 03636468-n:
   definition:
   - confidence: 0.0
@@ -4936,6 +5405,7 @@
   members:
   - lása
   partOfSpeech: n
+  source: 'LSG, Wisteria: lása'
 03637480-n:
   definition:
   - confidence: 0.0
@@ -4946,6 +5416,7 @@
   members:
   - bearna
   partOfSpeech: n
+  source: 'LSG, Wisteria: bearna'
 03637568-n:
   definition:
   - confidence: 0.0
@@ -4957,6 +5428,7 @@
   members:
   - dréimire
   partOfSpeech: n
+  source: 'LSG, Wikidata: dréimire'
 03641539-n:
   definition:
   - confidence: 0.0
@@ -4967,6 +5439,7 @@
   members:
   - lampa
   partOfSpeech: n
+  source: 'LSG, Wisteria: lampa'
 03648120-n:
   definition:
   - confidence: 0.0
@@ -4977,6 +5450,7 @@
   members:
   - ríomhaire glúine
   partOfSpeech: n
+  source: 'LSG, Wikidata: ríomhaire glúine'
 03648242-n:
   definition:
   - confidence: 0.0
@@ -4988,6 +5462,7 @@
   members:
   - clébhord
   partOfSpeech: n
+  source: 'LSG, Wisteria: clébhord'
 03648567-n:
   definition:
   - confidence: 0.0
@@ -4999,6 +5474,7 @@
   members:
   - léasar
   partOfSpeech: n
+  source: 'LSG, Wisteria: léasar'
 03650172-n:
   definition:
   - confidence: 0.0
@@ -5010,6 +5486,7 @@
   members:
   - laiste
   partOfSpeech: n
+  source: 'LSG, Wisteria: laiste'
 03652422-n:
   definition:
   - confidence: 0.0
@@ -5021,6 +5498,7 @@
   members:
   - ládanam
   partOfSpeech: n
+  source: 'LSG, Wikidata: ládanam'
 03653533-n:
   definition:
   - confidence: 0.0
@@ -5031,6 +5509,7 @@
   members:
   - níochán
   partOfSpeech: n
+  source: 'LSG, Wisteria: níochán'
 03655499-n:
   definition:
   - confidence: 0.0
@@ -5042,6 +5521,7 @@
   - ciseal
   - sraith
   partOfSpeech: n
+  source: 'LSG, Wisteria: ciseal, sraith'
 03661810-n:
   definition:
   - confidence: 0.0
@@ -5053,6 +5533,7 @@
   members:
   - lionsa
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: lionsa'
 03664448-n:
   definition:
   - confidence: 0.0
@@ -5064,6 +5545,7 @@
   members:
   - crosaire comhréidh
   partOfSpeech: n
+  source: 'Wikidata, Wisteria: crosaire comhréidh'
 03666666-n:
   definition:
   - confidence: 0.0
@@ -5075,6 +5557,7 @@
   members:
   - claibín
   partOfSpeech: n
+  source: 'LSG, Wisteria: claibín'
 03670692-n:
   definition:
   - confidence: 0.0
@@ -5085,6 +5568,7 @@
   members:
   - solas
   partOfSpeech: n
+  source: 'LSG, Wisteria: solas'
 03671917-n:
   definition:
   - confidence: 0.0
@@ -5095,6 +5579,7 @@
   members:
   - adhainteoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: adhainteoir'
 03676175-n:
   definition:
   - confidence: 0.0
@@ -5106,6 +5591,7 @@
   - dorú
   - líne
   partOfSpeech: n
+  source: 'LSG, Wisteria: dorú, líne'
 03676598-n:
   definition:
   - confidence: 0.0
@@ -5116,6 +5602,7 @@
   members:
   - líne
   partOfSpeech: n
+  source: 'LSG, Wisteria: líne'
 03677847-n:
   definition:
   - confidence: 0.0
@@ -5126,6 +5613,7 @@
   members:
   - línéadach
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: línéadach'
 03679297-n:
   definition:
   - confidence: 0.0
@@ -5137,6 +5625,7 @@
   - ceangal
   - nasc
   partOfSpeech: n
+  source: 'LSG, Wisteria: ceangal, nasc'
 03685312-n:
   definition:
   - confidence: 0.0
@@ -5148,6 +5637,7 @@
   - lód
   - ualach
   partOfSpeech: n
+  source: 'LSG, Wisteria: lód, ualach'
 03686803-n:
   definition:
   - confidence: 0.0
@@ -5160,6 +5650,7 @@
   members:
   - líonra achair logánta
   partOfSpeech: n
+  source: 'LSG, Wikidata: líonra achair logánta'
 03687813-n:
   definition:
   - confidence: 0.0
@@ -5170,6 +5661,7 @@
   members:
   - glas
   partOfSpeech: n
+  source: 'LSG, Wisteria: glas'
 03688405-n:
   definition:
   - confidence: 0.0
@@ -5181,6 +5673,7 @@
   members:
   - loc
   partOfSpeech: n
+  source: 'LSG, Wisteria: loc'
 03690149-n:
   definition:
   - confidence: 0.0
@@ -5192,6 +5685,7 @@
   members:
   - inneall traenach
   partOfSpeech: n
+  source: 'LSG, Wikidata: inneall traenach'
 03694483-n:
   definition:
   - confidence: 0.0
@@ -5202,6 +5696,7 @@
   members:
   - seol
   partOfSpeech: n
+  source: 'LSG, Wikidata: seol'
 03695799-n:
   definition:
   - confidence: 0.0
@@ -5212,6 +5707,7 @@
   members:
   - leoraí
   partOfSpeech: n
+  source: 'LSG, Wisteria: leoraí'
 03696785-n:
   definition:
   - confidence: 0.0
@@ -5223,6 +5719,7 @@
   members:
   - callaire
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: callaire'
 03700942-n:
   definition:
   - confidence: 0.0
@@ -5233,6 +5730,7 @@
   members:
   - cluaisín
   partOfSpeech: n
+  source: 'LSG, Wisteria: cluaisín'
 03705309-n:
   definition:
   - confidence: 0.0
@@ -5245,6 +5743,7 @@
   - inneall
   - meaisín
   partOfSpeech: n
+  source: 'LSG, Wisteria: inneall, meaisín'
 03706725-n:
   definition:
   - confidence: 0.0
@@ -5255,6 +5754,7 @@
   members:
   - meaisínghunna
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: meaisínghunna'
 03706974-n:
   definition:
   - confidence: 0.0
@@ -5265,6 +5765,7 @@
   members:
   - innealra
   partOfSpeech: n
+  source: 'LSG, Wisteria: innealra'
 03709269-n:
   definition:
   - confidence: 0.0
@@ -5275,6 +5776,7 @@
   members:
   - macraime
   partOfSpeech: n
+  source: 'LSG, Wikidata: macraime'
 03710918-n:
   definition:
   - confidence: 0.0
@@ -5285,6 +5787,7 @@
   members:
   - maighnéad
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: maighnéad'
 03722986-n:
   definition:
   - confidence: 0.0
@@ -5296,6 +5799,7 @@
   members:
   - dúnpholl
   partOfSpeech: n
+  source: 'LSG, Wisteria: dúnpholl'
 03723289-n:
   definition:
   - confidence: 0.0
@@ -5306,6 +5810,7 @@
   members:
   - ilphíobán
   partOfSpeech: n
+  source: 'LSG, Wisteria: ilphíobán'
 03723460-n:
   definition:
   - confidence: 0.0
@@ -5317,6 +5822,7 @@
   - mainicín
   - riochtán
   partOfSpeech: n
+  source: 'LSG, Wikidata: mainicín; LSG, Wisteria: riochtán'
 03723997-n:
   definition:
   - confidence: 0.0
@@ -5327,6 +5833,7 @@
   members:
   - mainéar
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: mainéar'
 03724592-n:
   definition:
   - confidence: 0.0
@@ -5337,6 +5844,7 @@
   members:
   - teach mór
   partOfSpeech: n
+  source: 'LSG, Wikidata: teach mór'
 03725654-n:
   definition:
   - confidence: 0.0
@@ -5348,6 +5856,7 @@
   - léarscáil
   - mapa
   partOfSpeech: n
+  source: 'LSG, Wisteria: léarscáil, mapa'
 03726875-n:
   definition:
   - confidence: 0.0
@@ -5360,6 +5869,7 @@
   - mairimbe
   - xileafón
   partOfSpeech: n
+  source: 'LSG, Wikidata: mairimbe, xileafón'
 03727498-n:
   definition:
   - confidence: 0.0
@@ -5370,6 +5880,7 @@
   members:
   - marcóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: marcóir'
 03727779-n:
   definition:
   - confidence: 0.0
@@ -5380,6 +5891,7 @@
   members:
   - margadh
   partOfSpeech: n
+  source: 'LSG, Wikidata: margadh'
 03730361-n:
   definition:
   - confidence: 0.0
@@ -5390,6 +5902,7 @@
   members:
   - masc
   partOfSpeech: n
+  source: 'LSG, Wisteria: masc'
 03732765-n:
   definition:
   - confidence: 0.0
@@ -5401,6 +5914,7 @@
   members:
   - bunchóip
   partOfSpeech: n
+  source: 'LSG, Wisteria: bunchóip'
 03733328-n:
   definition:
   - confidence: 0.0
@@ -5411,6 +5925,7 @@
   members:
   - mata
   partOfSpeech: n
+  source: 'LSG, Wisteria: mata'
 03733928-n:
   definition:
   - confidence: 0.0
@@ -5422,6 +5937,7 @@
   members:
   - meaits
   partOfSpeech: n
+  source: 'LSG, Wisteria: meaits'
 03736655-n:
   definition:
   - confidence: 0.0
@@ -5433,6 +5949,7 @@
   members:
   - tocht
   partOfSpeech: n
+  source: 'LSG, Wisteria: tocht'
 03737605-n:
   definition:
   - confidence: 0.0
@@ -5444,6 +5961,7 @@
   members:
   - másailéam
   partOfSpeech: n
+  source: 'LSG, Wikidata: másailéam'
 03743963-n:
   definition:
   - confidence: 0.0
@@ -5456,6 +5974,7 @@
   - meicníocht
   - sásra
   partOfSpeech: n
+  source: 'LSG, Wisteria: meicníocht, sásra'
 03745652-n:
   definition:
   - confidence: 0.0
@@ -5467,6 +5986,7 @@
   members:
   - cógas
   partOfSpeech: n
+  source: 'LSG, Wisteria: cógas'
 03748507-n:
   definition:
   - confidence: 0.0
@@ -5478,6 +5998,7 @@
   members:
   - meigilit
   partOfSpeech: n
+  source: 'LSG, Wikidata: meigilit'
 03749393-n:
   definition:
   - confidence: 0.0
@@ -5488,6 +6009,7 @@
   members:
   - séadchomhartha
   partOfSpeech: n
+  source: 'LSG, Wisteria: séadchomhartha'
 03749767-n:
   definition:
   - confidence: 0.0
@@ -5499,6 +6021,7 @@
   members:
   - stóráil
   partOfSpeech: n
+  source: 'LSG, Wisteria: stóráil'
 03750637-n:
   definition:
   - confidence: 0.0
@@ -5509,6 +6032,7 @@
   members:
   - zú
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: zú'
 03753653-n:
   definition:
   - confidence: 0.0
@@ -5519,6 +6043,7 @@
   members:
   - asraon
   partOfSpeech: n
+  source: 'LSG, Wisteria: asraon'
 03754377-n:
   definition:
   - confidence: 0.0
@@ -5529,6 +6054,7 @@
   members:
   - táirge
   partOfSpeech: n
+  source: 'LSG, Wisteria: táirge'
 03758568-n:
   definition:
   - confidence: 0.0
@@ -5539,6 +6065,7 @@
   members:
   - méadar
   partOfSpeech: n
+  source: 'LSG, Wisteria: méadar'
 03765845-n:
   definition:
   - confidence: 0.0
@@ -5550,6 +6077,7 @@
   members:
   - micreaphróiseálaí
   partOfSpeech: n
+  source: 'LSG, Wikidata: micreaphróiseálaí'
 03766619-n:
   definition:
   - confidence: 0.0
@@ -5562,6 +6090,7 @@
   members:
   - micreathonnán
   partOfSpeech: n
+  source: 'LSG, Wikidata: micreathonnán'
 03768938-n:
   definition:
   - confidence: 0.0
@@ -5572,6 +6101,7 @@
   members:
   - post
   partOfSpeech: n
+  source: 'LSG, Wisteria: post'
 03771096-n:
   definition:
   - confidence: 0.0
@@ -5583,6 +6113,7 @@
   - brómhuileann
   - muileann
   partOfSpeech: n
+  source: 'LSG, Wikidata: brómhuileann, muileann'
 03772135-n:
   definition:
   - confidence: 0.0
@@ -5595,6 +6126,7 @@
   - muilleoireacht
   - muilleáil
   partOfSpeech: n
+  source: 'LSG, Wisteria: meilt, muilleoireacht, muilleáil'
 03773881-n:
   definition:
   - confidence: 0.0
@@ -5605,6 +6137,7 @@
   members:
   - mianach
   partOfSpeech: n
+  source: 'LSG, Wisteria: mianach'
 03777802-n:
   definition:
   - confidence: 0.0
@@ -5615,6 +6148,7 @@
   members:
   - mionta
   partOfSpeech: n
+  source: 'LSG, Wisteria: mionta'
 03778568-n:
   definition:
   - confidence: 0.0
@@ -5625,6 +6159,7 @@
   members:
   - scáthán
   partOfSpeech: n
+  source: 'LSG, Wisteria: scáthán'
 03779037-n:
   definition:
   - confidence: 0.0
@@ -5637,6 +6172,7 @@
   members:
   - diúracán
   partOfSpeech: n
+  source: 'LSG, Wisteria: diúracán'
 03780604-n:
   definition:
   - confidence: 0.0
@@ -5647,6 +6183,7 @@
   members:
   - mitín
   partOfSpeech: n
+  source: 'LSG, Wisteria: mitín'
 03780732-n:
   definition:
   - confidence: 0.0
@@ -5657,6 +6194,7 @@
   members:
   - meascthóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: meascthóir'
 03780921-n:
   definition:
   - confidence: 0.0
@@ -5668,6 +6206,7 @@
   members:
   - meascthóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: meascthóir'
 03781583-n:
   definition:
   - confidence: 0.0
@@ -5678,6 +6217,7 @@
   members:
   - móta
   partOfSpeech: n
+  source: 'LSG, Wikidata: móta'
 03782410-n:
   definition:
   - confidence: 0.0
@@ -5688,6 +6228,7 @@
   members:
   - mocaisín
   partOfSpeech: n
+  source: 'LSG, Wikidata: mocaisín'
 03783287-n:
   definition:
   - confidence: 0.0
@@ -5699,6 +6240,7 @@
   members:
   - móideim
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: móideim'
 03784133-n:
   definition:
   - confidence: 0.0
@@ -5710,6 +6252,7 @@
   members:
   - modúl
   partOfSpeech: n
+  source: 'LSG, Wisteria: modúl'
 03784350-n:
   definition:
   - confidence: 0.0
@@ -5721,6 +6264,7 @@
   members:
   - modúl
   partOfSpeech: n
+  source: 'LSG, Wisteria: modúl'
 03785780-n:
   definition:
   - confidence: 0.0
@@ -5731,6 +6275,7 @@
   members:
   - múnláil
   partOfSpeech: n
+  source: 'LSG, Wisteria: múnláil'
 03787723-n:
   definition:
   - confidence: 0.0
@@ -5742,6 +6287,7 @@
   members:
   - monatóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: monatóir'
 03790549-n:
   definition:
   - confidence: 0.0
@@ -5752,6 +6298,7 @@
   members:
   - móipéid
   partOfSpeech: n
+  source: 'LSG, Wisteria: móipéid'
 03792248-n:
   definition:
   - confidence: 0.0
@@ -5764,6 +6311,7 @@
   - habhatsar
   - moirtéar
   partOfSpeech: n
+  source: 'LSG, Wikidata: habhatsar; LSG, Wikidata, Wisteria: moirtéar'
 03793292-n:
   definition:
   - confidence: 0.0
@@ -5774,6 +6322,7 @@
   members:
   - mósáic
   partOfSpeech: n
+  source: 'LSG, Wikidata: mósáic'
 03793728-n:
   definition:
   - confidence: 0.0
@@ -5784,6 +6333,7 @@
   members:
   - mosc
   partOfSpeech: n
+  source: 'LSG, Wikidata: mosc'
 03794547-n:
   definition:
   - confidence: 0.0
@@ -5795,6 +6345,7 @@
   members:
   - móitíf
   partOfSpeech: n
+  source: 'LSG, Wisteria: móitíf'
 03795479-n:
   definition:
   - confidence: 0.0
@@ -5806,6 +6357,7 @@
   members:
   - mótar
   partOfSpeech: n
+  source: 'LSG, Wisteria: mótar'
 03796045-n:
   definition:
   - confidence: 0.0
@@ -5816,6 +6368,7 @@
   members:
   - gluaisrothar
   partOfSpeech: n
+  source: 'LSG, Wisteria: gluaisrothar'
 03796768-n:
   definition:
   - confidence: 0.0
@@ -5826,6 +6379,7 @@
   members:
   - mótarfheithicil
   partOfSpeech: n
+  source: 'LSG, Wisteria: mótarfheithicil'
 03799022-n:
   definition:
   - confidence: 0.0
@@ -5839,6 +6393,7 @@
   - luch
   - luchóg
   partOfSpeech: n
+  source: 'LSG, Wikidata: luch, luchóg'
 03802127-n:
   definition:
   - confidence: 0.0
@@ -5850,6 +6405,7 @@
   members:
   - pludgharda
   partOfSpeech: n
+  source: 'LSG, Wisteria: pludgharda'
 03805232-n:
   definition:
   - confidence: 0.0
@@ -5860,6 +6416,7 @@
   members:
   - múrmhaisiú
   partOfSpeech: n
+  source: 'LSG, Wikidata: múrmhaisiú'
 03806085-n:
   definition:
   - confidence: 0.0
@@ -5872,6 +6429,7 @@
   - iarsmalann
   - músaem
   partOfSpeech: n
+  source: 'LSG, Wisteria: iarsmalann, músaem'
 03810284-n:
   definition:
   - confidence: 0.0
@@ -5882,6 +6440,7 @@
   members:
   - tairne
   partOfSpeech: n
+  source: 'LSG, Wikidata: tairne'
 03813077-n:
   definition:
   - confidence: 0.0
@@ -5893,6 +6452,7 @@
   members:
   - naipcín
   partOfSpeech: n
+  source: 'LSG, Wisteria: naipcín'
 03814104-n:
   definition:
   - confidence: 0.0
@@ -5904,6 +6464,7 @@
   members:
   - támhshuanach
   partOfSpeech: n
+  source: 'LSG, Wikidata: támhshuanach'
 03821155-n:
   definition:
   - confidence: 0.0
@@ -5915,6 +6476,7 @@
   members:
   - carbhat
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: carbhat'
 03821676-n:
   definition:
   - confidence: 0.0
@@ -5925,6 +6487,7 @@
   members:
   - snáthaid
   partOfSpeech: n
+  source: 'LSG, Wikidata: snáthaid'
 03825135-n:
   definition:
   - confidence: 0.0
@@ -5936,6 +6499,7 @@
   - líon
   - líontán
   partOfSpeech: n
+  source: 'LSG, Wisteria: líon, líontán'
 03832647-n:
   definition:
   - confidence: 0.0
@@ -5947,6 +6511,7 @@
   - cliant
   - nód
   partOfSpeech: n
+  source: 'LSG, Wisteria: cliant, nód'
 03839104-n:
   definition:
   - confidence: 0.0
@@ -5958,6 +6523,7 @@
   - buinne
   - soc
   partOfSpeech: n
+  source: 'LSG, Wisteria: buinne, soc'
 03839580-n:
   definition:
   - confidence: 0.0
@@ -5969,6 +6535,7 @@
   members:
   - imoibreoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: imoibreoir'
 03841711-n:
   definition:
   - confidence: 0.0
@@ -5980,6 +6547,7 @@
   members:
   - cnó
   partOfSpeech: n
+  source: 'LSG, Wisteria: cnó'
 03843818-n:
   definition:
   - confidence: 0.0
@@ -5991,6 +6559,7 @@
   members:
   - réadlionsa
   partOfSpeech: n
+  source: 'LSG, Wisteria: réadlionsa'
 03844419-n:
   definition:
   - confidence: 0.0
@@ -6002,6 +6571,7 @@
   members:
   - óbó
   partOfSpeech: n
+  source: 'LSG, Wikidata: óbó'
 03845315-n:
   definition:
   - confidence: 0.0
@@ -6015,6 +6585,7 @@
   - bacainn
   - constaic
   partOfSpeech: n
+  source: 'LSG, Wisteria: bac, bacainn, constaic'
 03846663-n:
   definition:
   - confidence: 0.0
@@ -6025,6 +6596,7 @@
   members:
   - odaiméadar
   partOfSpeech: n
+  source: 'LSG, Wisteria: odaiméadar'
 03847186-n:
   definition:
   - confidence: 0.0
@@ -6035,6 +6607,7 @@
   members:
   - oifig
   partOfSpeech: n
+  source: 'LSG, Wisteria: oifig'
 03850710-n:
   definition:
   - confidence: 0.0
@@ -6045,6 +6618,7 @@
   members:
   - tancaer
   partOfSpeech: n
+  source: 'LSG, Wisteria: tancaer'
 03856266-n:
   definition:
   - confidence: 0.0
@@ -6055,6 +6629,7 @@
   members:
   - codlaidíneach
   partOfSpeech: n
+  source: 'LSG, Wikidata: codlaidíneach'
 03859585-n:
   definition:
   - confidence: 0.0
@@ -6067,6 +6642,7 @@
   members:
   - píborgán
   partOfSpeech: n
+  source: 'LSG, Wikidata: píborgán'
 03861532-n:
   definition:
   - confidence: 0.0
@@ -6077,6 +6653,7 @@
   members:
   - dílleachtlann
   partOfSpeech: n
+  source: 'LSG, Wikidata: dílleachtlann'
 03868196-n:
   definition:
   - confidence: 0.0
@@ -6087,6 +6664,7 @@
   members:
   - oigheann
   partOfSpeech: n
+  source: 'LSG, Wisteria: oigheann'
 03876224-n:
   definition:
   - confidence: 0.0
@@ -6097,6 +6675,7 @@
   members:
   - paca
   partOfSpeech: n
+  source: 'LSG, Wisteria: paca'
 03877202-n:
   definition:
   - confidence: 0.0
@@ -6107,6 +6686,7 @@
   members:
   - pacáistíocht
   partOfSpeech: n
+  source: 'LSG, Wisteria: pacáistíocht'
 03880896-n:
   definition:
   - confidence: 0.0
@@ -6119,6 +6699,7 @@
   members:
   - péint
   partOfSpeech: n
+  source: 'LSG, Wisteria: péint'
 03882197-n:
   definition:
   - confidence: 0.0
@@ -6130,6 +6711,7 @@
   members:
   - pictiúr
   partOfSpeech: n
+  source: 'LSG, Wisteria: pictiúr'
 03883763-n:
   definition:
   - confidence: 0.0
@@ -6140,6 +6722,7 @@
   members:
   - pálás
   partOfSpeech: n
+  source: 'LSG, Wisteria: pálás'
 03884660-n:
   definition:
   - confidence: 0.0
@@ -6151,6 +6734,7 @@
   members:
   - sonnach
   partOfSpeech: n
+  source: 'LSG, Wikidata: sonnach'
 03885279-n:
   definition:
   - confidence: 0.0
@@ -6161,6 +6745,7 @@
   members:
   - pailléad
   partOfSpeech: n
+  source: 'LSG, Wisteria: pailléad'
 03887755-n:
   definition:
   - confidence: 0.0
@@ -6172,6 +6757,7 @@
   members:
   - painéal
   partOfSpeech: n
+  source: 'LSG, Wisteria: painéal'
 03891107-n:
   definition:
   - confidence: 0.0
@@ -6182,6 +6768,7 @@
   members:
   - pantagraf
   partOfSpeech: n
+  source: 'LSG, Wisteria: pantagraf'
 03892129-n:
   definition:
   - confidence: 0.0
@@ -6192,6 +6779,7 @@
   members:
   - clúdach bog
   partOfSpeech: n
+  source: 'LSG, Wikidata: clúdach bog'
 03892459-n:
   definition:
   - confidence: 0.0
@@ -6202,6 +6790,7 @@
   members:
   - fáiscín páipéir
   partOfSpeech: n
+  source: 'LSG, Wikidata: fáiscín páipéir'
 03900990-n:
   definition:
   - confidence: 0.0
@@ -6212,6 +6801,7 @@
   members:
   - pasáiste
   partOfSpeech: n
+  source: 'LSG, Wisteria: pasáiste'
 03905025-n:
   definition:
   - confidence: 0.0
@@ -6224,6 +6814,7 @@
   - conair
   - cosán
   partOfSpeech: n
+  source: 'LSG, Wisteria: bealach, conair, cosán'
 03905230-n:
   definition:
   - confidence: 0.0
@@ -6236,6 +6827,7 @@
   - conair
   - cosán
   partOfSpeech: n
+  source: 'LSG, Wisteria: bealach, conair, cosán'
 03907828-n:
   definition:
   - confidence: 0.0
@@ -6249,6 +6841,7 @@
   - ceithearnach
   - fichillín
   partOfSpeech: n
+  source: 'LSG, Wikidata: ceithearnach, fichillín'
 03909502-n:
   definition:
   - confidence: 0.0
@@ -6259,6 +6852,7 @@
   members:
   - troitheán
   partOfSpeech: n
+  source: 'LSG, Wisteria: troitheán'
 03913116-n:
   definition:
   - confidence: 0.0
@@ -6269,6 +6863,7 @@
   members:
   - peann
   partOfSpeech: n
+  source: 'LSG, Wikidata: peann'
 03913346-n:
   definition:
   - confidence: 0.0
@@ -6279,6 +6874,7 @@
   members:
   - pionna
   partOfSpeech: n
+  source: 'LSG, Wisteria: pionna'
 03916152-n:
   definition:
   - confidence: 0.0
@@ -6290,6 +6886,7 @@
   members:
   - peinicillin
   partOfSpeech: n
+  source: 'LSG, Wikidata: peinicillin'
 03918337-n:
   definition:
   - confidence: 0.0
@@ -6300,6 +6897,7 @@
   members:
   - feadóg stáin
   partOfSpeech: n
+  source: 'LSG, Wikidata: feadóg stáin'
 03922150-n:
   definition:
   - confidence: 0.0
@@ -6310,6 +6908,7 @@
   members:
   - cumhrán
   partOfSpeech: n
+  source: 'LSG, Wisteria: cumhrán'
 03922839-n:
   definition:
   - confidence: 0.0
@@ -6321,6 +6920,7 @@
   members:
   - forimeallach
   partOfSpeech: n
+  source: 'LSG, Wikidata: forimeallach'
 03926859-n:
   definition:
   - confidence: 0.0
@@ -6334,6 +6934,7 @@
   - fosciorta
   - peireacót
   partOfSpeech: n
+  source: 'LSG, Wikidata: cóitín, fosciorta, peireacót; LSG, Wikidata, Wisteria: fo-ghúna'
 03929501-n:
   definition:
   - confidence: 0.0
@@ -6345,6 +6946,7 @@
   members:
   - fial
   partOfSpeech: n
+  source: 'LSG, Wisteria: fial'
 03930191-n:
   definition:
   - confidence: 0.0
@@ -6356,6 +6958,7 @@
   members:
   - ceirnín
   partOfSpeech: n
+  source: 'LSG, Wisteria: ceirnín'
 03930801-n:
   definition:
   - confidence: 0.0
@@ -6366,6 +6969,7 @@
   members:
   - fótachóipire
   partOfSpeech: n
+  source: 'LSG, Wikidata: fótachóipire'
 03930933-n:
   definition:
   - confidence: 0.0
@@ -6377,6 +6981,7 @@
   members:
   - fótachóip
   partOfSpeech: n
+  source: 'LSG, Wisteria: fótachóip'
 03931348-n:
   definition:
   - confidence: 0.0
@@ -6389,6 +6994,7 @@
   - grianghraf
   - pictiúr
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: grianghraf; LSG, Wisteria: pictiúr'
 03934354-n:
   definition:
   - confidence: 0.0
@@ -6400,6 +7006,7 @@
   members:
   - pianó
   partOfSpeech: n
+  source: 'LSG, Wikidata: pianó'
 03935329-n:
   definition:
   - confidence: 0.0
@@ -6410,6 +7017,7 @@
   members:
   - fliúiteog
   partOfSpeech: n
+  source: 'LSG, Wikidata: fliúiteog'
 03935898-n:
   definition:
   - confidence: 0.0
@@ -6421,6 +7029,7 @@
   members:
   - figín
   partOfSpeech: n
+  source: 'LSG, Wikidata: figín'
 03937282-n:
   definition:
   - confidence: 0.0
@@ -6432,6 +7041,7 @@
   members:
   - íomhá
   partOfSpeech: n
+  source: 'LSG, Wisteria: íomhá'
 03938441-n:
   definition:
   - confidence: 0.0
@@ -6442,6 +7052,7 @@
   members:
   - píosa
   partOfSpeech: n
+  source: 'LSG, Wisteria: píosa'
 03939805-n:
   definition:
   - confidence: 0.0
@@ -6453,6 +7064,7 @@
   members:
   - cé
   partOfSpeech: n
+  source: 'LSG, Wisteria: cé'
 03942844-n:
   definition:
   - confidence: 0.0
@@ -6464,6 +7076,7 @@
   - piollaire
   - táibléad
   partOfSpeech: n
+  source: 'LSG, Wikidata: piollaire, táibléad'
 03944520-n:
   definition:
   - confidence: 0.0
@@ -6474,6 +7087,7 @@
   members:
   - piliúr
   partOfSpeech: n
+  source: 'LSG, Wikidata: piliúr'
 03946532-n:
   definition:
   - confidence: 0.0
@@ -6485,6 +7099,7 @@
   members:
   - biorán
   partOfSpeech: n
+  source: 'LSG, Wisteria: biorán'
 03948402-n:
   definition:
   - confidence: 0.0
@@ -6495,6 +7110,7 @@
   members:
   - pioncás
   partOfSpeech: n
+  source: 'LSG, Wikidata: pioncás'
 03949391-n:
   definition:
   - confidence: 0.0
@@ -6506,6 +7122,7 @@
   members:
   - pinniún
   partOfSpeech: n
+  source: 'LSG, Wisteria: pinniún'
 03950948-n:
   definition:
   - confidence: 0.0
@@ -6517,6 +7134,7 @@
   members:
   - píopa
   partOfSpeech: n
+  source: 'LSG, Wisteria: píopa'
 03951443-n:
   definition:
   - confidence: 0.0
@@ -6527,6 +7145,7 @@
   members:
   - píopa
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: píopa'
 03952601-n:
   definition:
   - confidence: 0.0
@@ -6537,6 +7156,7 @@
   members:
   - píblíne
   partOfSpeech: n
+  source: 'LSG, Wisteria: píblíne'
 03955226-n:
   definition:
   - confidence: 0.0
@@ -6547,6 +7167,7 @@
   members:
   - loine
   partOfSpeech: n
+  source: 'LSG, Wisteria: loine'
 03955718-n:
   definition:
   - confidence: 0.0
@@ -6557,6 +7178,7 @@
   members:
   - cairéal
   partOfSpeech: n
+  source: 'LSG, Wisteria: cairéal'
 03958553-n:
   definition:
   - confidence: 0.0
@@ -6568,6 +7190,7 @@
   members:
   - picteilín
   partOfSpeech: n
+  source: 'LSG, Wisteria: picteilín'
 03960475-n:
   definition:
   - confidence: 0.0
@@ -6578,6 +7201,7 @@
   members:
   - plean
   partOfSpeech: n
+  source: 'LSG, Wisteria: plean'
 03961007-n:
   definition:
   - confidence: 0.0
@@ -6589,6 +7213,7 @@
   members:
   - plána
   partOfSpeech: n
+  source: 'LSG, Wikidata: plána'
 03963198-n:
   definition:
   - confidence: 0.0
@@ -6599,6 +7224,7 @@
   members:
   - gléasra
   partOfSpeech: n
+  source: 'LSG, Wisteria: gléasra'
 03965779-n:
   definition:
   - confidence: 0.0
@@ -6609,6 +7235,7 @@
   members:
   - pláta
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: pláta'
 03967077-n:
   definition:
   - confidence: 0.0
@@ -6619,6 +7246,7 @@
   members:
   - pláta
   partOfSpeech: n
+  source: 'LSG, Wisteria: pláta'
 03967364-n:
   definition:
   - confidence: 0.0
@@ -6629,6 +7257,7 @@
   members:
   - plátghloine
   partOfSpeech: n
+  source: 'LSG, Wisteria: plátghloine'
 03968233-n:
   definition:
   - confidence: 0.0
@@ -6639,6 +7268,7 @@
   members:
   - ardán
   partOfSpeech: n
+  source: 'LSG, Wisteria: ardán'
 03968979-n:
   definition:
   - confidence: 0.0
@@ -6649,6 +7279,7 @@
   members:
   - ardán
   partOfSpeech: n
+  source: 'LSG, Wisteria: ardán'
 03970276-n:
   definition:
   - confidence: 0.0
@@ -6659,6 +7290,7 @@
   members:
   - cárta imeartha
   partOfSpeech: n
+  source: 'LSG, Wikidata: cárta imeartha'
 03971038-n:
   definition:
   - confidence: 0.0
@@ -6669,6 +7301,7 @@
   members:
   - bréagán
   partOfSpeech: n
+  source: 'LSG, Wisteria: bréagán'
 03973894-n:
   definition:
   - confidence: 0.0
@@ -6680,6 +7313,7 @@
   members:
   - céachta
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: céachta'
 03974274-n:
   definition:
   - confidence: 0.0
@@ -6690,6 +7324,7 @@
   members:
   - stopallán
   partOfSpeech: n
+  source: 'LSG, Wisteria: stopallán'
 03977576-n:
   definition:
   - confidence: 0.0
@@ -6700,6 +7335,7 @@
   members:
   - sraithadhmad
   partOfSpeech: n
+  source: 'LSG, Wisteria: sraithadhmad'
 03978882-n:
   definition:
   - confidence: 0.0
@@ -6710,6 +7346,7 @@
   members:
   - póca
   partOfSpeech: n
+  source: 'LSG, Wisteria: póca'
 03980573-n:
   definition:
   - confidence: 0.0
@@ -6720,6 +7357,7 @@
   members:
   - pointe
   partOfSpeech: n
+  source: 'LSG, Wisteria: pointe'
 03985735-n:
   definition:
   - confidence: 0.0
@@ -6730,6 +7368,7 @@
   members:
   - poileistear
   partOfSpeech: n
+  source: 'LSG, Wisteria: poileistear'
 03993437-n:
   definition:
   - confidence: 0.0
@@ -6740,6 +7379,7 @@
   members:
   - portráid
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: portráid'
 03996383-n:
   definition:
   - confidence: 0.0
@@ -6751,6 +7391,7 @@
   members:
   - iar-nua-aoiseachas
   partOfSpeech: n
+  source: 'LSG, Wikidata: iar-nua-aoiseachas'
 03996832-n:
   definition:
   - confidence: 0.0
@@ -6763,6 +7404,7 @@
   members:
   - pota
   partOfSpeech: n
+  source: 'LSG, Wisteria: pota'
 04003385-n:
   definition:
   - confidence: 0.0
@@ -6774,6 +7416,7 @@
   members:
   - eangach
   partOfSpeech: n
+  source: 'LSG, Wisteria: eangach'
 04003842-n:
   definition:
   - confidence: 0.0
@@ -6785,6 +7428,7 @@
   members:
   - uirlis chumhachta
   partOfSpeech: n
+  source: 'LSG, Wikidata: uirlis chumhachta'
 04005638-n:
   definition:
   - confidence: 0.0
@@ -6796,6 +7440,7 @@
   members:
   - oideas
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: oideas'
 04006669-n:
   definition:
   - confidence: 0.0
@@ -6806,6 +7451,7 @@
   members:
   - clóphreas
   partOfSpeech: n
+  source: 'LSG, Wikidata: clóphreas'
 04010851-n:
   definition:
   - confidence: 0.0
@@ -6817,6 +7463,7 @@
   - clódóir
   - printéir
   partOfSpeech: n
+  source: 'LSG, Wisteria: clódóir, printéir'
 04011716-n:
   definition:
   - confidence: 0.0
@@ -6828,6 +7475,7 @@
   members:
   - priosma
   partOfSpeech: n
+  source: 'LSG, Wisteria: priosma'
 04012006-n:
   definition:
   - confidence: 0.0
@@ -6839,6 +7487,7 @@
   members:
   - príosún
   partOfSpeech: n
+  source: 'LSG, Wisteria: príosún'
 04015010-n:
   definition:
   - confidence: 0.0
@@ -6849,6 +7498,7 @@
   members:
   - teilgeán
   partOfSpeech: n
+  source: 'LSG, Wisteria: teilgeán'
 04015928-n:
   definition:
   - confidence: 0.0
@@ -6859,6 +7509,7 @@
   members:
   - teilgeoir
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: teilgeoir'
 04018203-n:
   definition:
   - confidence: 0.0
@@ -6869,6 +7520,7 @@
   members:
   - lián
   partOfSpeech: n
+  source: 'LSG, Wisteria: lián'
 04020105-n:
   definition:
   - confidence: 0.0
@@ -6879,6 +7531,7 @@
   members:
   - próistéis
   partOfSpeech: n
+  source: 'LSG, Wikidata: próistéis'
 04025495-n:
   definition:
   - confidence: 0.0
@@ -6889,6 +7542,7 @@
   members:
   - iompar poiblí
   partOfSpeech: n
+  source: 'LSG, Wikidata: iompar poiblí'
 04026692-n:
   definition:
   - confidence: 0.0
@@ -6902,6 +7556,7 @@
   - puilín
   - ulóg
   partOfSpeech: n
+  source: 'LSG, Wikidata: puilín; LSG, Wikidata, Wisteria: ulóg'
 04027422-n:
   definition:
   - confidence: 0.0
@@ -6912,6 +7567,7 @@
   members:
   - geansaí
   partOfSpeech: n
+  source: 'LSG, Wisteria: geansaí'
 04028192-n:
   definition:
   - confidence: 0.0
@@ -6922,6 +7578,7 @@
   members:
   - caidéal
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: caidéal'
 04030202-n:
   definition:
   - confidence: 0.0
@@ -6932,6 +7589,7 @@
   members:
   - pollchárta
   partOfSpeech: n
+  source: 'LSG, Wikidata: pollchárta'
 04033499-n:
   definition:
   - confidence: 0.0
@@ -6942,6 +7600,7 @@
   members:
   - cnaipe
   partOfSpeech: n
+  source: 'LSG, Wisteria: cnaipe'
 04044916-n:
   definition:
   - confidence: 0.0
@@ -6952,6 +7611,7 @@
   members:
   - seastán
   partOfSpeech: n
+  source: 'LSG, Wisteria: seastán'
 04046324-n:
   definition:
   - confidence: 0.0
@@ -6963,6 +7623,7 @@
   members:
   - radar
   partOfSpeech: n
+  source: 'LSG, Wisteria: radar'
 04049010-n:
   definition:
   - confidence: 0.0
@@ -6973,6 +7634,7 @@
   members:
   - rabhchán
   partOfSpeech: n
+  source: 'LSG, Wisteria: rabhchán'
 04050813-n:
   definition:
   - confidence: 0.0
@@ -6985,6 +7647,7 @@
   - raidió
   - tiúnóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: raidió, tiúnóir'
 04053903-n:
   definition:
   - confidence: 0.0
@@ -6995,6 +7658,7 @@
   members:
   - iarnród
   partOfSpeech: n
+  source: 'LSG, Wisteria: iarnród'
 04054513-n:
   definition:
   - confidence: 0.0
@@ -7005,6 +7669,7 @@
   members:
   - ráille
   partOfSpeech: n
+  source: 'LSG, Wisteria: ráille'
 04055680-n:
   definition:
   - confidence: 0.0
@@ -7016,6 +7681,7 @@
   members:
   - iarnród
   partOfSpeech: n
+  source: 'LSG, Wisteria: iarnród'
 04058661-n:
   definition:
   - confidence: 0.0
@@ -7026,6 +7692,7 @@
   members:
   - rampa
   partOfSpeech: n
+  source: 'LSG, Wisteria: rampa'
 04059869-n:
   definition:
   - confidence: 0.0
@@ -7039,6 +7706,7 @@
   members:
   - cuimhne randamrochtana
   partOfSpeech: n
+  source: 'LSG, Wikidata: cuimhne randamrochtana'
 04066813-n:
   definition:
   - confidence: 0.0
@@ -7049,6 +7717,7 @@
   members:
   - cúl
   partOfSpeech: n
+  source: 'LSG, Wisteria: cúl'
 04067759-n:
   definition:
   - confidence: 0.0
@@ -7059,6 +7728,7 @@
   members:
   - glacadóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: glacadóir'
 04068016-n:
   definition:
   - confidence: 0.0
@@ -7069,6 +7739,7 @@
   members:
   - gabhdán
   partOfSpeech: n
+  source: 'LSG, Wisteria: gabhdán'
 04069081-n:
   definition:
   - confidence: 0.0
@@ -7079,6 +7750,7 @@
   members:
   - cuas
   partOfSpeech: n
+  source: 'LSG, Wisteria: cuas'
 04070485-n:
   definition:
   - confidence: 0.0
@@ -7089,6 +7761,7 @@
   members:
   - taifeadán
   partOfSpeech: n
+  source: 'LSG, Wisteria: taifeadán'
 04075553-n:
   definition:
   - confidence: 0.0
@@ -7099,6 +7772,7 @@
   members:
   - scaglann
   partOfSpeech: n
+  source: 'LSG, Wisteria: scaglann'
 04076388-n:
   definition:
   - confidence: 0.0
@@ -7109,6 +7783,7 @@
   members:
   - frithchaiteoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: frithchaiteoir'
 04077839-n:
   definition:
   - confidence: 0.0
@@ -7119,6 +7794,7 @@
   members:
   - cuisneoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: cuisneoir'
 04078214-n:
   definition:
   - confidence: 0.0
@@ -7129,6 +7805,7 @@
   members:
   - tearmann
   partOfSpeech: n
+  source: 'LSG, Wisteria: tearmann'
 04080072-n:
   definition:
   - confidence: 0.0
@@ -7140,6 +7817,7 @@
   members:
   - athsheachadán
   partOfSpeech: n
+  source: 'LSG, Wisteria: athsheachadán'
 04080659-n:
   definition:
   - confidence: 0.0
@@ -7150,6 +7828,7 @@
   members:
   - iarsma
   partOfSpeech: n
+  source: 'LSG, Wisteria: iarsma'
 04080781-n:
   definition:
   - confidence: 0.0
@@ -7161,6 +7840,7 @@
   members:
   - rilíf
   partOfSpeech: n
+  source: 'LSG, Wisteria: rilíf'
 04081594-n:
   definition:
   - confidence: 0.0
@@ -7171,6 +7851,7 @@
   members:
   - leigheas
   partOfSpeech: n
+  source: 'LSG, Wisteria: leigheas'
 04083645-n:
   definition:
   - confidence: 0.0
@@ -7181,6 +7862,7 @@
   members:
   - macasamhail
   partOfSpeech: n
+  source: 'LSG, Wisteria: macasamhail'
 04085686-n:
   definition:
   - confidence: 0.0
@@ -7191,6 +7873,7 @@
   members:
   - taiscumar
   partOfSpeech: n
+  source: 'LSG, Wisteria: taiscumar'
 04087045-n:
   definition:
   - confidence: 0.0
@@ -7201,6 +7884,7 @@
   members:
   - friotóir
   partOfSpeech: n
+  source: 'LSG, Wikidata: friotóir'
 04088393-n:
   definition:
   - confidence: 0.0
@@ -7211,6 +7895,7 @@
   members:
   - bialann
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: bialann'
 04092293-n:
   definition:
   - confidence: 0.0
@@ -7221,6 +7906,7 @@
   members:
   - cúl
   partOfSpeech: n
+  source: 'LSG, Wisteria: cúl'
 04094238-n:
   definition:
   - confidence: 0.0
@@ -7231,6 +7917,7 @@
   members:
   - easna
   partOfSpeech: n
+  source: 'LSG, Wisteria: easna'
 04097375-n:
   definition:
   - confidence: 0.0
@@ -7241,6 +7928,7 @@
   members:
   - raidhfil
   partOfSpeech: n
+  source: 'LSG, Wikidata: raidhfil'
 04099721-n:
   definition:
   - confidence: 0.0
@@ -7252,6 +7940,7 @@
   members:
   - fáinne
   partOfSpeech: n
+  source: 'LSG, Wisteria: fáinne'
 04100053-n:
   definition:
   - confidence: 0.0
@@ -7262,6 +7951,7 @@
   members:
   - fáinne
   partOfSpeech: n
+  source: 'LSG, Wisteria: fáinne'
 04103160-n:
   definition:
   - confidence: 0.0
@@ -7272,6 +7962,7 @@
   members:
   - bóthar
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: bóthar'
 04106523-n:
   definition:
   - confidence: 0.0
@@ -7282,6 +7973,7 @@
   members:
   - roicéad
   partOfSpeech: n
+  source: 'LSG, Wisteria: roicéad'
 04107268-n:
   definition:
   - confidence: 0.0
@@ -7292,6 +7984,7 @@
   members:
   - slat
   partOfSpeech: n
+  source: 'LSG, Wisteria: slat'
 04108326-n:
   definition:
   - confidence: 0.0
@@ -7302,6 +7995,7 @@
   members:
   - rolla
   partOfSpeech: n
+  source: 'LSG, Wisteria: rolla'
 04112162-n:
   definition:
   - confidence: 0.0
@@ -7312,6 +8006,7 @@
   members:
   - díon
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: díon'
 04112987-n:
   definition:
   - confidence: 0.0
@@ -7322,6 +8017,7 @@
   members:
   - seomra
   partOfSpeech: n
+  source: 'LSG, Wisteria: seomra'
 04115362-n:
   definition:
   - confidence: 0.0
@@ -7333,6 +8029,7 @@
   - rópa
   - téad
   partOfSpeech: n
+  source: 'LSG, Wisteria: rópa, téad'
 04118284-n:
   definition:
   - confidence: 0.0
@@ -7343,6 +8040,7 @@
   members:
   - seafta
   partOfSpeech: n
+  source: 'LSG, Wisteria: seafta'
 04119056-n:
   definition:
   - confidence: 0.0
@@ -7353,6 +8051,7 @@
   members:
   - rótar
   partOfSpeech: n
+  source: 'LSG, Wisteria: rótar'
 04120735-n:
   definition:
   - confidence: 0.0
@@ -7363,6 +8062,7 @@
   members:
   - urchar
   partOfSpeech: n
+  source: 'LSG, Wisteria: urchar'
 04121938-n:
   definition:
   - confidence: 0.0
@@ -7374,6 +8074,7 @@
   members:
   - ródaire
   partOfSpeech: n
+  source: 'LSG, Wisteria: ródaire'
 04125115-n:
   definition:
   - confidence: 0.0
@@ -7386,6 +8087,7 @@
   - cairpéad
   - ruga
   partOfSpeech: n
+  source: 'LSG, Wisteria: cairpéad, ruga'
 04125729-n:
   definition:
   - confidence: 0.0
@@ -7396,6 +8098,7 @@
   members:
   - fothrach
   partOfSpeech: n
+  source: 'LSG, Wisteria: fothrach'
 04127936-n:
   definition:
   - confidence: 0.0
@@ -7406,6 +8109,7 @@
   members:
   - rúidbhealach
   partOfSpeech: n
+  source: 'LSG, Wisteria: rúidbhealach'
 04129919-n:
   definition:
   - confidence: 0.0
@@ -7416,6 +8120,7 @@
   members:
   - sac
   partOfSpeech: n
+  source: 'LSG, Wisteria: sac'
 04144527-n:
   definition:
   - confidence: 0.0
@@ -7426,6 +8131,7 @@
   members:
   - satailít
   partOfSpeech: n
+  source: 'LSG, Wisteria: satailít'
 04148141-n:
   definition:
   - confidence: 0.0
@@ -7436,6 +8142,7 @@
   members:
   - sacsafón
   partOfSpeech: n
+  source: 'LSG, Wikidata: sacsafón'
 04149040-n:
   definition:
   - confidence: 0.0
@@ -7446,6 +8153,7 @@
   members:
   - scála
   partOfSpeech: n
+  source: 'LSG, Wisteria: scála'
 04150205-n:
   definition:
   - confidence: 0.0
@@ -7458,6 +8166,7 @@
   members:
   - scanóir
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: scanóir'
 04156878-n:
   definition:
   - confidence: 0.0
@@ -7468,6 +8177,7 @@
   members:
   - scórchlár
   partOfSpeech: n
+  source: 'LSG, Wisteria: scórchlár'
 04159023-n:
   definition:
   - confidence: 0.0
@@ -7478,6 +8188,7 @@
   members:
   - cumhdach
   partOfSpeech: n
+  source: 'LSG, Wisteria: cumhdach'
 04159676-n:
   definition:
   - confidence: 0.0
@@ -7489,6 +8200,7 @@
   members:
   - scáileán
   partOfSpeech: n
+  source: 'LSG, Wisteria: scáileán'
 04159912-n:
   definition:
   - confidence: 0.0
@@ -7499,6 +8211,7 @@
   members:
   - scáileán
   partOfSpeech: n
+  source: 'LSG, Wisteria: scáileán'
 04160812-n:
   definition:
   - confidence: 0.0
@@ -7509,6 +8222,7 @@
   members:
   - bís
   partOfSpeech: n
+  source: 'LSG, Wisteria: bís'
 04161626-n:
   definition:
   - confidence: 0.0
@@ -7519,6 +8233,7 @@
   members:
   - scriúire
   partOfSpeech: n
+  source: 'LSG, Wisteria: scriúire'
 04166119-n:
   definition:
   - confidence: 0.0
@@ -7530,6 +8245,7 @@
   members:
   - séala
   partOfSpeech: n
+  source: 'LSG, Wisteria: séala'
 04167097-n:
   definition:
   - confidence: 0.0
@@ -7541,6 +8257,7 @@
   members:
   - séala
   partOfSpeech: n
+  source: 'LSG, Wisteria: séala'
 04172050-n:
   definition:
   - confidence: 0.0
@@ -7553,6 +8270,7 @@
   - deighleog
   - teascán
   partOfSpeech: n
+  source: 'LSG, Wisteria: deighleog, teascán'
 04173614-n:
   definition:
   - confidence: 0.0
@@ -7563,6 +8281,7 @@
   members:
   - támhachán
   partOfSpeech: n
+  source: 'LSG, Wisteria: támhachán'
 04175602-n:
   definition:
   - confidence: 0.0
@@ -7574,6 +8293,7 @@
   members:
   - saighean
   partOfSpeech: n
+  source: 'LSG, Wisteria: saighean'
 04175901-n:
   definition:
   - confidence: 0.0
@@ -7585,6 +8305,7 @@
   members:
   - seismeagraf
   partOfSpeech: n
+  source: 'LSG, Wikidata: seismeagraf'
 04182208-n:
   definition:
   - confidence: 0.0
@@ -7596,6 +8317,7 @@
   members:
   - freastalaí
   partOfSpeech: n
+  source: 'LSG, Wisteria: freastalaí'
 04186187-n:
   definition:
   - confidence: 0.0
@@ -7606,6 +8328,7 @@
   members:
   - séarachas
   partOfSpeech: n
+  source: 'LSG, Wisteria: séarachas'
 04195686-n:
   definition:
   - confidence: 0.0
@@ -7616,6 +8339,7 @@
   members:
   - leathán
   partOfSpeech: n
+  source: 'LSG, Wisteria: leathán'
 04197095-n:
   definition:
   - confidence: 0.0
@@ -7626,6 +8350,7 @@
   members:
   - seilf
   partOfSpeech: n
+  source: 'LSG, Wisteria: seilf'
 04199741-n:
   definition:
   - confidence: 0.0
@@ -7636,6 +8361,7 @@
   members:
   - sciath
   partOfSpeech: n
+  source: 'LSG, Wisteria: sciath'
 04201332-n:
   definition:
   - confidence: 0.0
@@ -7647,6 +8373,7 @@
   - loingeas
   - long
   partOfSpeech: n
+  source: 'LSG, Wisteria: loingeas, long'
 04204153-n:
   definition:
   - confidence: 0.0
@@ -7657,6 +8384,7 @@
   members:
   - long bhriste
   partOfSpeech: n
+  source: 'LSG, Wikidata: long bhriste'
 04204278-n:
   definition:
   - confidence: 0.0
@@ -7667,6 +8395,7 @@
   members:
   - longchlós
   partOfSpeech: n
+  source: 'LSG, Wisteria: longchlós'
 04204434-n:
   definition:
   - confidence: 0.0
@@ -7677,6 +8406,7 @@
   members:
   - léine
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: léine'
 04206070-n:
   definition:
   - confidence: 0.0
@@ -7688,6 +8418,7 @@
   members:
   - bróg
   partOfSpeech: n
+  source: 'LSG, Wisteria: bróg'
 04209460-n:
   definition:
   - confidence: 0.0
@@ -7698,6 +8429,7 @@
   members:
   - siopa
   partOfSpeech: n
+  source: 'LSG, Wisteria: siopa'
 04212826-n:
   definition:
   - confidence: 0.0
@@ -7708,6 +8440,7 @@
   members:
   - millín
   partOfSpeech: n
+  source: 'LSG, Wisteria: millín'
 04217457-n:
   definition:
   - confidence: 0.0
@@ -7718,6 +8451,7 @@
   members:
   - scrín
   partOfSpeech: n
+  source: 'LSG, Wikidata: scrín'
 04219349-n:
   definition:
   - confidence: 0.0
@@ -7729,6 +8463,7 @@
   members:
   - eiteán
   partOfSpeech: n
+  source: 'LSG, Wikidata: eiteán'
 04223173-n:
   definition:
   - confidence: 0.0
@@ -7740,6 +8475,7 @@
   members:
   - taobhlach
   partOfSpeech: n
+  source: 'LSG, Wisteria: taobhlach'
 04223701-n:
   definition:
   - confidence: 0.0
@@ -7750,6 +8486,7 @@
   members:
   - criathar
   partOfSpeech: n
+  source: 'LSG, Wisteria: criathar'
 04225631-n:
   definition:
   - confidence: 0.0
@@ -7761,6 +8498,7 @@
   members:
   - tostóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: tostóir'
 04226491-n:
   definition:
   - confidence: 0.0
@@ -7771,6 +8509,7 @@
   members:
   - síoda
   partOfSpeech: n
+  source: 'LSG, Wisteria: síoda'
 04230374-n:
   definition:
   - confidence: 0.0
@@ -7781,6 +8520,7 @@
   members:
   - singléad
   partOfSpeech: n
+  source: 'LSG, Wisteria: singléad'
 04231230-n:
   definition:
   - confidence: 0.0
@@ -7792,6 +8532,7 @@
   members:
   - siofón
   partOfSpeech: n
+  source: 'LSG, Wikidata: siofón'
 04233599-n:
   definition:
   - confidence: 0.0
@@ -7802,6 +8543,7 @@
   members:
   - fráma
   partOfSpeech: n
+  source: 'LSG, Wisteria: fráma'
 04234206-n:
   definition:
   - confidence: 0.0
@@ -7812,6 +8554,7 @@
   members:
   - sceitse
   partOfSpeech: n
+  source: 'LSG, Wisteria: sceitse'
 04235116-n:
   definition:
   - confidence: 0.0
@@ -7822,6 +8565,7 @@
   members:
   - scí
   partOfSpeech: n
+  source: 'LSG, Wisteria: scí'
 04237870-n:
   definition:
   - confidence: 0.0
@@ -7832,6 +8576,7 @@
   members:
   - sciorta
   partOfSpeech: n
+  source: 'LSG, Wisteria: sciorta'
 04238755-n:
   definition:
   - confidence: 0.0
@@ -7842,6 +8587,7 @@
   members:
   - ardaitheoir sciála
   partOfSpeech: n
+  source: 'LSG, Wikidata: ardaitheoir sciála'
 04240233-n:
   definition:
   - confidence: 0.0
@@ -7852,6 +8598,7 @@
   members:
   - ilstórach
   partOfSpeech: n
+  source: 'LSG, Wikidata: ilstórach'
 04240514-n:
   definition:
   - confidence: 0.0
@@ -7862,6 +8609,7 @@
   members:
   - leac
   partOfSpeech: n
+  source: 'LSG, Wisteria: leac'
 04242397-n:
   definition:
   - confidence: 0.0
@@ -7873,6 +8621,7 @@
   members:
   - carr sleamhnáin
   partOfSpeech: n
+  source: 'LSG, Wikidata: carr sleamhnáin'
 04243483-n:
   definition:
   - confidence: 0.0
@@ -7884,6 +8633,7 @@
   members:
   - muinchille
   partOfSpeech: n
+  source: 'LSG, Wisteria: muinchille'
 04244879-n:
   definition:
   - confidence: 0.0
@@ -7894,6 +8644,7 @@
   members:
   - sleamhnán
   partOfSpeech: n
+  source: 'LSG, Wisteria: sleamhnán'
 04245030-n:
   definition:
   - confidence: 0.0
@@ -7905,6 +8656,7 @@
   members:
   - sleamhnán
   partOfSpeech: n
+  source: 'LSG, Wisteria: sleamhnán'
 04245234-n:
   definition:
   - confidence: 0.0
@@ -7915,6 +8667,7 @@
   members:
   - sleamhnán
   partOfSpeech: n
+  source: 'LSG, Wisteria: sleamhnán'
 04249536-n:
   definition:
   - confidence: 0.0
@@ -7926,6 +8679,7 @@
   members:
   - slúpa
   partOfSpeech: n
+  source: 'LSG, Wikidata: slúpa'
 04250855-n:
   definition:
   - confidence: 0.0
@@ -7937,6 +8691,7 @@
   members:
   - sliotán
   partOfSpeech: n
+  source: 'LSG, Wisteria: sliotán'
 04253284-n:
   definition:
   - confidence: 0.0
@@ -7947,6 +8702,7 @@
   members:
   - bruithneoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: bruithneoir'
 04260547-n:
   definition:
   - confidence: 0.0
@@ -7958,6 +8714,7 @@
   - gallúnach
   - sópa
   partOfSpeech: n
+  source: 'LSG, Wikidata: gallúnach, sópa'
 04261887-n:
   definition:
   - confidence: 0.0
@@ -7969,6 +8726,7 @@
   members:
   - stoca
   partOfSpeech: n
+  source: 'LSG, Wisteria: stoca'
 04262144-n:
   definition:
   - confidence: 0.0
@@ -7979,6 +8737,7 @@
   members:
   - soicéad
   partOfSpeech: n
+  source: 'LSG, Wisteria: soicéad'
 04266881-n:
   definition:
   - confidence: 0.0
@@ -7990,6 +8749,7 @@
   members:
   - sonóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: sonóir'
 04268044-n:
   definition:
   - confidence: 0.0
@@ -8000,6 +8760,7 @@
   members:
   - suanchógas
   partOfSpeech: n
+  source: 'LSG, Wikidata: suanchógas'
 04272024-n:
   definition:
   - confidence: 0.0
@@ -8012,6 +8773,7 @@
   members:
   - spásárthach
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: spásárthach'
 04273485-n:
   definition:
   - confidence: 0.0
@@ -8022,6 +8784,7 @@
   members:
   - culaith spáis
   partOfSpeech: n
+  source: 'LSG, Wikidata: culaith spáis'
 04280915-n:
   definition:
   - confidence: 0.0
@@ -8032,6 +8795,7 @@
   members:
   - luasmhéadar
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: luasmhéadar'
 04281649-n:
   definition:
   - confidence: 0.0
@@ -8042,6 +8806,7 @@
   members:
   - sféar
   partOfSpeech: n
+  source: 'LSG, Wisteria: sféar'
 04282104-n:
   definition:
   - confidence: 0.0
@@ -8052,6 +8817,7 @@
   members:
   - sfigmeamanaiméadar
   partOfSpeech: n
+  source: 'LSG, Wikidata: sfigmeamanaiméadar'
 04291140-n:
   definition:
   - confidence: 0.0
@@ -8064,6 +8830,7 @@
   members:
   - spúnóg
   partOfSpeech: n
+  source: 'LSG, Wisteria: spúnóg'
 04291710-n:
   definition:
   - confidence: 0.0
@@ -8075,6 +8842,7 @@
   members:
   - sparán
   partOfSpeech: n
+  source: 'LSG, Wikidata: sparán'
 04295410-n:
   definition:
   - confidence: 0.0
@@ -8086,6 +8854,7 @@
   members:
   - sprionga
   partOfSpeech: n
+  source: 'LSG, Wisteria: sprionga'
 04296165-n:
   definition:
   - confidence: 0.0
@@ -8096,6 +8865,7 @@
   members:
   - aisréadóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: aisréadóir'
 04301350-n:
   definition:
   - confidence: 0.0
@@ -8106,6 +8876,7 @@
   members:
   - cobhsaitheoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: cobhsaitheoir'
 04305446-n:
   definition:
   - confidence: 0.0
@@ -8116,6 +8887,7 @@
   members:
   - staighre
   partOfSpeech: n
+  source: 'LSG, Wisteria: staighre'
 04310635-n:
   definition:
   - confidence: 0.0
@@ -8127,6 +8899,7 @@
   members:
   - stáplóir
   partOfSpeech: n
+  source: 'LSG, Wikidata: stáplóir'
 04310810-n:
   definition:
   - confidence: 0.0
@@ -8138,6 +8911,7 @@
   members:
   - deasbhord
   partOfSpeech: n
+  source: 'LSG, Wisteria: deasbhord'
 04313218-n:
   definition:
   - confidence: 0.0
@@ -8149,6 +8923,7 @@
   members:
   - stáisiún
   partOfSpeech: n
+  source: 'LSG, Wisteria: stáisiún'
 04313985-n:
   definition:
   - confidence: 0.0
@@ -8159,6 +8934,7 @@
   members:
   - dealbh
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: dealbh'
 04320641-n:
   definition:
   - confidence: 0.0
@@ -8169,6 +8945,7 @@
   members:
   - roth
   partOfSpeech: n
+  source: 'LSG, Wisteria: roth'
 04322052-n:
   definition:
   - confidence: 0.0
@@ -8180,6 +8957,7 @@
   members:
   - céim
   partOfSpeech: n
+  source: 'LSG, Wisteria: céim'
 04324313-n:
   definition:
   - confidence: 0.0
@@ -8190,6 +8968,7 @@
   members:
   - steiteascóp
   partOfSpeech: n
+  source: 'LSG, Wikidata: steiteascóp'
 04324971-n:
   definition:
   - confidence: 0.0
@@ -8200,6 +8979,7 @@
   members:
   - maide
   partOfSpeech: n
+  source: 'LSG, Wisteria: maide'
 04328009-n:
   definition:
   - confidence: 0.0
@@ -8210,6 +8990,7 @@
   members:
   - meascthóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: meascthóir'
 04328672-n:
   definition:
   - confidence: 0.0
@@ -8221,6 +9002,7 @@
   - fardal
   - stoc
   partOfSpeech: n
+  source: 'LSG, Wisteria: fardal, stoc'
 04330164-n:
   definition:
   - confidence: 0.0
@@ -8231,6 +9013,7 @@
   members:
   - stocmhalartán
   partOfSpeech: n
+  source: 'LSG, Wisteria: stocmhalartán'
 04330957-n:
   definition:
   - confidence: 0.0
@@ -8242,6 +9025,7 @@
   members:
   - stoca
   partOfSpeech: n
+  source: 'LSG, Wisteria: stoca'
 04340267-n:
   definition:
   - confidence: 0.0
@@ -8253,6 +9037,7 @@
   members:
   - strapa
   partOfSpeech: n
+  source: 'LSG, Wisteria: strapa'
 04341737-n:
   definition:
   - confidence: 0.0
@@ -8263,6 +9048,7 @@
   members:
   - sráid
   partOfSpeech: n
+  source: 'Wikidata, Wisteria: sráid'
 04342573-n:
   definition:
   - confidence: 0.0
@@ -8273,6 +9059,7 @@
   members:
   - tram
   partOfSpeech: n
+  source: 'LSG, Wisteria: tram'
 04343930-n:
   definition:
   - confidence: 0.0
@@ -8284,6 +9071,7 @@
   members:
   - sínteán
   partOfSpeech: n
+  source: 'LSG, Wisteria: sínteán'
 04345112-n:
   definition:
   - confidence: 0.0
@@ -8296,6 +9084,7 @@
   - sreangán
   - téad
   partOfSpeech: n
+  source: 'LSG, Wisteria: sreang, sreangán, téad'
 04348013-n:
   definition:
   - confidence: 0.0
@@ -8306,6 +9095,7 @@
   members:
   - daingean
   partOfSpeech: n
+  source: 'LSG, Wisteria: daingean'
 04351324-n:
   definition:
   - confidence: 0.0
@@ -8316,6 +9106,7 @@
   members:
   - stiúideo
   partOfSpeech: n
+  source: 'LSG, Wisteria: stiúideo'
 04353406-n:
   definition:
   - confidence: 0.0
@@ -8326,6 +9117,7 @@
   members:
   - gearrthóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: gearrthóir'
 04353589-n:
   definition:
   - confidence: 0.0
@@ -8336,6 +9128,7 @@
   members:
   - stíleas
   partOfSpeech: n
+  source: 'LSG, Wisteria: stíleas'
 04354832-n:
   definition:
   - confidence: 0.0
@@ -8346,6 +9139,7 @@
   members:
   - fomhuireán
   partOfSpeech: n
+  source: 'LSG, Wisteria: fomhuireán'
 04355626-n:
   definition:
   - confidence: 0.0
@@ -8357,6 +9151,7 @@
   members:
   - foroinn
   partOfSpeech: n
+  source: 'LSG, Wisteria: foroinn'
 04357983-n:
   definition:
   - confidence: 0.0
@@ -8368,6 +9163,7 @@
   members:
   - culaith
   partOfSpeech: n
+  source: 'LSG, Wisteria: culaith'
 04360881-n:
   definition:
   - confidence: 0.0
@@ -8380,6 +9176,7 @@
   - iomlán
   - suim
   partOfSpeech: n
+  source: 'LSG, Wisteria: comhiomlán, iomlán, suim'
 04362416-n:
   definition:
   - confidence: 0.0
@@ -8391,6 +9188,7 @@
   members:
   - clog gréine
   partOfSpeech: n
+  source: 'LSG, Wikidata: clog gréine'
 04365794-n:
   definition:
   - confidence: 0.0
@@ -8402,6 +9200,7 @@
   members:
   - ollmhargadh
   partOfSpeech: n
+  source: 'LSG, Wisteria: ollmhargadh'
 04367588-n:
   definition:
   - confidence: 0.0
@@ -8412,6 +9211,7 @@
   members:
   - taca
   partOfSpeech: n
+  source: 'LSG, Wisteria: taca'
 04373454-n:
   definition:
   - confidence: 0.0
@@ -8423,6 +9223,7 @@
   members:
   - droichead crochta
   partOfSpeech: n
+  source: 'LSG, Wikidata: droichead crochta'
 04377135-n:
   definition:
   - confidence: 0.0
@@ -8433,6 +9234,7 @@
   members:
   - geansaí
   partOfSpeech: n
+  source: 'LSG, Wikidata: geansaí'
 04378650-n:
   definition:
   - confidence: 0.0
@@ -8443,6 +9245,7 @@
   members:
   - culaith shnámha
   partOfSpeech: n
+  source: 'LSG, Wikidata: culaith shnámha'
 04379457-n:
   definition:
   - confidence: 0.0
@@ -8454,6 +9257,7 @@
   members:
   - lasc
   partOfSpeech: n
+  source: 'LSG, Wisteria: lasc'
 04380650-n:
   definition:
   - confidence: 0.0
@@ -8464,6 +9268,7 @@
   members:
   - sclóin
   partOfSpeech: n
+  source: 'LSG, Wisteria: sclóin'
 04380981-n:
   definition:
   - confidence: 0.0
@@ -8476,6 +9281,7 @@
   - claíomh
   - lann
   partOfSpeech: n
+  source: 'LSG, Wisteria: claíomh, lann'
 04383487-n:
   definition:
   - confidence: 0.0
@@ -8488,6 +9294,7 @@
   members:
   - sintéiseoir
   partOfSpeech: n
+  source: 'LSG, Wikidata: sintéiseoir'
 04384144-n:
   definition:
   - confidence: 0.0
@@ -8499,6 +9306,7 @@
   members:
   - córas
   partOfSpeech: n
+  source: 'LSG, Wisteria: córas'
 04386330-n:
   definition:
   - confidence: 0.0
@@ -8511,6 +9319,7 @@
   - bord
   - tábla
   partOfSpeech: n
+  source: 'LSG, Wisteria: bord; LSG, Wikidata, Wisteria: tábla'
 04389782-n:
   definition:
   - confidence: 0.0
@@ -8522,6 +9331,7 @@
   members:
   - tacagraf
   partOfSpeech: n
+  source: 'LSG, Wisteria: tacagraf'
 04392623-n:
   definition:
   - confidence: 0.0
@@ -8532,6 +9342,7 @@
   members:
   - sceithphíopa
   partOfSpeech: n
+  source: 'LSG, Wisteria: sceithphíopa'
 04394487-n:
   definition:
   - confidence: 0.0
@@ -8542,6 +9353,7 @@
   members:
   - tambóirín
   partOfSpeech: n
+  source: 'LSG, Wikidata: tambóirín'
 04395830-n:
   definition:
   - confidence: 0.0
@@ -8553,6 +9365,7 @@
   - taiscumar
   - umar
   partOfSpeech: n
+  source: 'LSG, Wikidata: taiscumar; LSG, Wisteria: umar'
 04398656-n:
   definition:
   - confidence: 0.0
@@ -8563,6 +9376,7 @@
   members:
   - téip
   partOfSpeech: n
+  source: 'LSG, Wisteria: téip'
 04400182-n:
   definition:
   - confidence: 0.0
@@ -8573,6 +9387,7 @@
   members:
   - téipthaifeadán
   partOfSpeech: n
+  source: 'LSG, Wikidata: téipthaifeadán'
 04401124-n:
   definition:
   - confidence: 0.0
@@ -8585,6 +9400,7 @@
   members:
   - táir
   partOfSpeech: n
+  source: 'LSG, Wisteria: táir'
 04402159-n:
   definition:
   - confidence: 0.0
@@ -8595,6 +9411,7 @@
   members:
   - tarpól
   partOfSpeech: n
+  source: 'LSG, Wisteria: tarpól'
 04402786-n:
   definition:
   - confidence: 0.0
@@ -8605,6 +9422,7 @@
   members:
   - tatú
   partOfSpeech: n
+  source: 'LSG, Wisteria: tatú'
 04408223-n:
   definition:
   - confidence: 0.0
@@ -8618,6 +9436,7 @@
   - guthán
   - teileafón
   partOfSpeech: n
+  source: 'LSG, Wisteria: fón, guthán, teileafón'
 04410773-n:
   definition:
   - confidence: 0.0
@@ -8628,6 +9447,7 @@
   members:
   - teileascóp
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: teileascóp'
 04413042-n:
   definition:
   - confidence: 0.0
@@ -8639,6 +9459,7 @@
   members:
   - teilifíseán
   partOfSpeech: n
+  source: 'LSG, Wisteria: teilifíseán'
 04418399-n:
   definition:
   - confidence: 0.0
@@ -8650,6 +9471,7 @@
   members:
   - puball
   partOfSpeech: n
+  source: 'LSG, Wisteria: puball'
 04420036-n:
   definition:
   - confidence: 0.0
@@ -8660,6 +9482,7 @@
   members:
   - críochfort
   partOfSpeech: n
+  source: 'LSG, Wisteria: críochfort'
 04420286-n:
   definition:
   - confidence: 0.0
@@ -8671,6 +9494,7 @@
   members:
   - teirminéal
   partOfSpeech: n
+  source: 'LSG, Wisteria: teirminéal'
 04420554-n:
   definition:
   - confidence: 0.0
@@ -8682,6 +9506,7 @@
   members:
   - teirminéal
   partOfSpeech: n
+  source: 'LSG, Wisteria: teirminéal'
 04421236-n:
   definition:
   - confidence: 0.0
@@ -8692,6 +9517,7 @@
   members:
   - cré bhruite
   partOfSpeech: n
+  source: 'LSG, Wikidata: cré bhruite'
 04424944-n:
   definition:
   - confidence: 0.0
@@ -8703,6 +9529,7 @@
   members:
   - amharclann
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: amharclann'
 04427341-n:
   definition:
   - confidence: 0.0
@@ -8715,6 +9542,7 @@
   members:
   - teirmeastar
   partOfSpeech: n
+  source: 'LSG, Wikidata: teirmeastar'
 04429007-n:
   definition:
   - confidence: 0.0
@@ -8725,6 +9553,7 @@
   members:
   - teirmiméadar
   partOfSpeech: n
+  source: 'LSG, Wikidata: teirmiméadar'
 04430010-n:
   definition:
   - confidence: 0.0
@@ -8736,6 +9565,7 @@
   members:
   - teirmeastat
   partOfSpeech: n
+  source: 'LSG, Wikidata: teirmeastat'
 04433923-n:
   definition:
   - confidence: 0.0
@@ -8749,6 +9579,7 @@
   - snáithe
   - snáth
   partOfSpeech: n
+  source: 'LSG, Wisteria: abhras, snáithe, snáth'
 04436510-n:
   definition:
   - confidence: 0.0
@@ -8759,6 +9590,7 @@
   members:
   - ríchathaoir
   partOfSpeech: n
+  source: 'LSG, Wisteria: ríchathaoir'
 04436890-n:
   definition:
   - confidence: 0.0
@@ -8770,6 +9602,7 @@
   members:
   - tréchur
   partOfSpeech: n
+  source: 'LSG, Wisteria: tréchur'
 04440719-n:
   definition:
   - confidence: 0.0
@@ -8780,6 +9613,7 @@
   members:
   - trasnán
   partOfSpeech: n
+  source: 'LSG, Wikidata: trasnán'
 04442314-n:
   definition:
   - confidence: 0.0
@@ -8791,6 +9625,7 @@
   members:
   - tíl
   partOfSpeech: n
+  source: 'LSG, Wisteria: tíl'
 04447883-n:
   definition:
   - confidence: 0.0
@@ -8801,6 +9636,7 @@
   members:
   - bonn
   partOfSpeech: n
+  source: 'LSG, Wisteria: bonn'
 04449965-n:
   definition:
   - confidence: 0.0
@@ -8812,6 +9648,7 @@
   members:
   - tobac
   partOfSpeech: n
+  source: 'LSG, Wisteria: tobac'
 04453410-n:
   definition:
   - confidence: 0.0
@@ -8822,6 +9659,7 @@
   members:
   - leithreas
   partOfSpeech: n
+  source: 'LSG, Wisteria: leithreas'
 04455132-n:
   definition:
   - confidence: 0.0
@@ -8832,6 +9670,7 @@
   members:
   - clár leithris
   partOfSpeech: n
+  source: 'LSG, Wikidata: clár leithris'
 04459089-n:
   definition:
   - confidence: 0.0
@@ -8842,6 +9681,7 @@
   members:
   - uirlis
   partOfSpeech: n
+  source: 'LSG, Wisteria: uirlis'
 04461181-n:
   definition:
   - confidence: 0.0
@@ -8853,6 +9693,7 @@
   - clúdach
   - cumhdach
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: clúdach; LSG, Wisteria: cumhdach'
 04463386-n:
   definition:
   - confidence: 0.0
@@ -8863,6 +9704,7 @@
   members:
   - tóirse
   partOfSpeech: n
+  source: 'LSG, Wisteria: tóirse'
 04463707-n:
   definition:
   - confidence: 0.0
@@ -8874,6 +9716,7 @@
   members:
   - toirpéad
   partOfSpeech: n
+  source: 'LSG, Wikidata: toirpéad'
 04465644-n:
   definition:
   - confidence: 0.0
@@ -8885,6 +9728,7 @@
   members:
   - tótam
   partOfSpeech: n
+  source: 'LSG, Wikidata: tótam'
 04467365-n:
   definition:
   - confidence: 0.0
@@ -8896,6 +9740,7 @@
   members:
   - túr
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: túr'
 04470070-n:
   definition:
   - confidence: 0.0
@@ -8907,6 +9752,7 @@
   members:
   - rianaire
   partOfSpeech: n
+  source: 'LSG, Wisteria: rianaire'
 04470914-n:
   definition:
   - confidence: 0.0
@@ -8918,6 +9764,7 @@
   members:
   - ráille
   partOfSpeech: n
+  source: 'LSG, Wisteria: ráille'
 04471218-n:
   definition:
   - confidence: 0.0
@@ -8929,6 +9776,7 @@
   - rian
   - ráille
   partOfSpeech: n
+  source: 'LSG, Wisteria: rian, ráille'
 04472736-n:
   definition:
   - confidence: 0.0
@@ -8939,6 +9787,7 @@
   members:
   - tarracóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: tarracóir'
 04473168-n:
   definition:
   - confidence: 0.0
@@ -8949,6 +9798,7 @@
   members:
   - timpeallán
   partOfSpeech: n
+  source: 'LSG, Wisteria: timpeallán'
 04474542-n:
   definition:
   - confidence: 0.0
@@ -8959,6 +9809,7 @@
   members:
   - leantóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: leantóir'
 04475240-n:
   definition:
   - confidence: 0.0
@@ -8970,6 +9821,7 @@
   members:
   - traein
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: traein'
 04476580-n:
   definition:
   - confidence: 0.0
@@ -8981,6 +9833,7 @@
   members:
   - traimil
   partOfSpeech: n
+  source: 'LSG, Wisteria: traimil'
 04478188-n:
   definition:
   - confidence: 0.0
@@ -8991,6 +9844,7 @@
   members:
   - trasduchtóir
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: trasduchtóir'
 04478550-n:
   definition:
   - confidence: 0.0
@@ -9002,6 +9856,7 @@
   members:
   - claochladán
   partOfSpeech: n
+  source: 'LSG, Wisteria: claochladán'
 04478867-n:
   definition:
   - confidence: 0.0
@@ -9012,6 +9867,7 @@
   members:
   - trasraitheoir
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: trasraitheoir'
 04479478-n:
   definition:
   - confidence: 0.0
@@ -9023,6 +9879,7 @@
   members:
   - traiseoladh
   partOfSpeech: n
+  source: 'LSG, Wisteria: traiseoladh'
 04479961-n:
   definition:
   - confidence: 0.0
@@ -9033,6 +9890,7 @@
   members:
   - tarchuradóir
   partOfSpeech: n
+  source: 'LSG, Wisteria: tarchuradóir'
 04480510-n:
   definition:
   - confidence: 0.0
@@ -9044,6 +9902,7 @@
   members:
   - trasfhreagróir
   partOfSpeech: n
+  source: 'LSG, Wisteria: trasfhreagróir'
 04481701-n:
   definition:
   - confidence: 0.0
@@ -9054,6 +9913,7 @@
   members:
   - gaiste
   partOfSpeech: n
+  source: 'LSG, Wisteria: gaiste'
 04482984-n:
   definition:
   - confidence: 0.0
@@ -9064,6 +9924,7 @@
   members:
   - trál
   partOfSpeech: n
+  source: 'LSG, Wisteria: trál'
 04483351-n:
   definition:
   - confidence: 0.0
@@ -9074,6 +9935,7 @@
   members:
   - trálaer
   partOfSpeech: n
+  source: 'LSG, Wisteria: trálaer'
 04483494-n:
   definition:
   - confidence: 0.0
@@ -9084,6 +9946,7 @@
   members:
   - tráidire
   partOfSpeech: n
+  source: 'LSG, Wisteria: tráidire'
 04484326-n:
   definition:
   - confidence: 0.0
@@ -9094,6 +9957,7 @@
   members:
   - trácht
   partOfSpeech: n
+  source: 'LSG, Wisteria: trácht'
 04489649-n:
   definition:
   - confidence: 0.0
@@ -9104,6 +9968,7 @@
   members:
   - trírothach
   partOfSpeech: n
+  source: 'LSG, Wisteria: trírothach'
 04493006-n:
   definition:
   - confidence: 0.0
@@ -9115,6 +9980,7 @@
   members:
   - tríréim
   partOfSpeech: n
+  source: 'LSG, Wikidata: tríréim'
 04494650-n:
   definition:
   - confidence: 0.0
@@ -9126,6 +9992,7 @@
   members:
   - trombón
   partOfSpeech: n
+  source: 'LSG, Wikidata: trombón'
 04497112-n:
   definition:
   - confidence: 0.0
@@ -9137,6 +10004,7 @@
   members:
   - lián
   partOfSpeech: n
+  source: 'LSG, Wikidata: lián'
 04497386-n:
   definition:
   - confidence: 0.0
@@ -9148,6 +10016,7 @@
   - leoraí
   - trucail
   partOfSpeech: n
+  source: 'LSG, Wisteria: leoraí, trucail'
 04498683-n:
   definition:
   - confidence: 0.0
@@ -9158,6 +10027,7 @@
   members:
   - smachtín
   partOfSpeech: n
+  source: 'LSG, Wisteria: smachtín'
 04500800-n:
   definition:
   - confidence: 0.0
@@ -9170,6 +10040,7 @@
   - feadán
   - píobán
   partOfSpeech: n
+  source: 'LSG, Wisteria: feadán, píobán'
 04503138-n:
   definition:
   - confidence: 0.0
@@ -9180,6 +10051,7 @@
   members:
   - tuga
   partOfSpeech: n
+  source: 'LSG, Wisteria: tuga'
 04505257-n:
   definition:
   - confidence: 0.0
@@ -9191,6 +10063,7 @@
   members:
   - tollán
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: tollán'
 04505818-n:
   definition:
   - confidence: 0.0
@@ -9202,6 +10075,7 @@
   members:
   - tuirbín
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: tuirbín'
 04515458-n:
   definition:
   - confidence: 0.0
@@ -9212,6 +10086,7 @@
   members:
   - fo-éadach
   partOfSpeech: n
+  source: 'LSG, Wikidata: fo-éadach'
 04516887-n:
   definition:
   - confidence: 0.0
@@ -9223,6 +10098,7 @@
   members:
   - éide
   partOfSpeech: n
+  source: 'LSG, Wisteria: éide'
 04521654-n:
   definition:
   - confidence: 0.0
@@ -9235,6 +10111,7 @@
   members:
   - uachtar
   partOfSpeech: n
+  source: 'LSG, Wisteria: uachtar'
 04523967-n:
   definition:
   - confidence: 0.0
@@ -9246,6 +10123,7 @@
   - gléas
   - uirlis
   partOfSpeech: n
+  source: 'LSG, Wisteria: gléas, uirlis'
 04524830-n:
   definition:
   - confidence: 0.0
@@ -9257,6 +10135,7 @@
   members:
   - vacsaín
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: vacsaín'
 04525118-n:
   definition:
   - confidence: 0.0
@@ -9267,6 +10146,7 @@
   members:
   - folúsghlantóir
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: folúsghlantóir'
 04526448-n:
   definition:
   - confidence: 0.0
@@ -9278,6 +10158,7 @@
   members:
   - comhla
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: comhla'
 04527465-n:
   definition:
   - confidence: 0.0
@@ -9288,6 +10169,7 @@
   members:
   - veain
   partOfSpeech: n
+  source: 'LSG, Wisteria: veain'
 04529282-n:
   definition:
   - confidence: 0.0
@@ -9298,6 +10180,7 @@
   members:
   - vearnais
   partOfSpeech: n
+  source: 'LSG, Wisteria: vearnais'
 04531608-n:
   definition:
   - confidence: 0.0
@@ -9308,6 +10191,7 @@
   members:
   - feithicil
   partOfSpeech: n
+  source: 'LSG, Wisteria: feithicil'
 04533536-n:
   definition:
   - confidence: 0.0
@@ -9318,6 +10202,7 @@
   members:
   - gaothaire
   partOfSpeech: n
+  source: 'LSG, Wisteria: gaothaire'
 04537861-n:
   definition:
   - confidence: 0.0
@@ -9330,6 +10215,7 @@
   - soitheach
   - árthach
   partOfSpeech: n
+  source: 'LSG, Wisteria: long, soitheach, árthach'
 04538393-n:
   definition:
   - confidence: 0.0
@@ -9341,6 +10227,7 @@
   - soitheach
   - árthach
   partOfSpeech: n
+  source: 'LSG, Wisteria: soitheach, árthach'
 04539401-n:
   definition:
   - confidence: 0.0
@@ -9351,6 +10238,7 @@
   members:
   - éide
   partOfSpeech: n
+  source: 'LSG, Wikidata: éide'
 04539799-n:
   definition:
   - confidence: 0.0
@@ -9362,6 +10250,7 @@
   members:
   - sacraistí
   partOfSpeech: n
+  source: 'LSG, Wikidata: sacraistí'
 04539965-n:
   definition:
   - confidence: 0.0
@@ -9373,6 +10262,7 @@
   members:
   - tarbhealach
   partOfSpeech: n
+  source: 'LSG, Wikidata: tarbhealach'
 04541422-n:
   definition:
   - confidence: 0.0
@@ -9384,6 +10274,7 @@
   members:
   - físeán
   partOfSpeech: n
+  source: 'LSG, Wisteria: físeán'
 04543333-n:
   definition:
   - confidence: 0.0
@@ -9394,6 +10285,7 @@
   members:
   - fíonghort
   partOfSpeech: n
+  source: 'LSG, Wisteria: fíonghort'
 04543448-n:
   definition:
   - confidence: 0.0
@@ -9404,6 +10296,7 @@
   members:
   - bíol
   partOfSpeech: n
+  source: 'LSG, Wikidata: bíol'
 04544161-n:
   definition:
   - confidence: 0.0
@@ -9417,6 +10310,7 @@
   - fidil
   - veidhlín
   partOfSpeech: n
+  source: 'LSG, Wikidata: fidil, veidhlín'
 04550444-n:
   definition:
   - confidence: 0.0
@@ -9427,6 +10321,7 @@
   members:
   - vaigín
   partOfSpeech: n
+  source: 'LSG, Wisteria: vaigín'
 04554141-n:
   definition:
   - confidence: 0.0
@@ -9438,6 +10333,7 @@
   members:
   - balla
   partOfSpeech: n
+  source: 'LSG, Wisteria: balla'
 04555648-n:
   definition:
   - confidence: 0.0
@@ -9448,6 +10344,7 @@
   members:
   - tiachóg
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: tiachóg'
 04558341-n:
   definition:
   - confidence: 0.0
@@ -9458,6 +10355,7 @@
   members:
   - trádstóras
   partOfSpeech: n
+  source: 'LSG, Wisteria: trádstóras'
 04561970-n:
   definition:
   - confidence: 0.0
@@ -9469,6 +10367,7 @@
   - meaisín níocháin
   - niteoir
   partOfSpeech: n
+  source: 'LSG, Wikidata: meaisín níocháin; LSG, Wisteria: niteoir'
 04563183-n:
   definition:
   - confidence: 0.0
@@ -9479,6 +10378,7 @@
   members:
   - uaireadóir
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: uaireadóir'
 04566737-n:
   definition:
   - confidence: 0.0
@@ -9490,6 +10390,7 @@
   members:
   - buacaire
   partOfSpeech: n
+  source: 'LSG, Wisteria: buacaire'
 04567578-n:
   definition:
   - confidence: 0.0
@@ -9501,6 +10402,7 @@
   members:
   - fraschanna
   partOfSpeech: n
+  source: 'LSG, Wikidata: fraschanna'
 04571984-n:
   definition:
   - confidence: 0.0
@@ -9512,6 +10414,7 @@
   members:
   - bealach
   partOfSpeech: n
+  source: 'LSG, Wisteria: bealach'
 04572661-n:
   definition:
   - confidence: 0.0
@@ -9524,6 +10427,7 @@
   - armán
   - gléas troda
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: arm, armán; LSG, Wikidata: gléas troda'
 04573543-n:
   definition:
   - confidence: 0.0
@@ -9534,6 +10438,7 @@
   members:
   - arm
   partOfSpeech: n
+  source: 'LSG, Wisteria: arm'
 04578374-n:
   definition:
   - confidence: 0.0
@@ -9544,6 +10449,7 @@
   members:
   - meáchan
   partOfSpeech: n
+  source: 'LSG, Wisteria: meáchan'
 04579630-n:
   definition:
   - confidence: 0.0
@@ -9554,6 +10460,7 @@
   members:
   - tobar
   partOfSpeech: n
+  source: 'LSG, Wisteria: tobar'
 04582285-n:
   definition:
   - confidence: 0.0
@@ -9565,6 +10472,7 @@
   members:
   - roth
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: roth'
 04585055-n:
   definition:
   - confidence: 0.0
@@ -9575,6 +10483,7 @@
   members:
   - fuip
   partOfSpeech: n
+  source: 'LSG, Wisteria: fuip'
 04594218-n:
   definition:
   - confidence: 0.0
@@ -9586,6 +10495,7 @@
   members:
   - gaothuirlis
   partOfSpeech: n
+  source: 'LSG, Wikidata: gaothuirlis'
 04594862-n:
   definition:
   - confidence: 0.0
@@ -9596,6 +10506,7 @@
   members:
   - muileann gaoithe
   partOfSpeech: n
+  source: 'LSG, Wikidata: muileann gaoithe'
 04594951-n:
   definition:
   - confidence: 0.0
@@ -9607,6 +10518,7 @@
   members:
   - fuinneog
   partOfSpeech: n
+  source: 'LSG, Wisteria: fuinneog'
 04596042-n:
   definition:
   - confidence: 0.0
@@ -9618,6 +10530,7 @@
   members:
   - fuinneog
   partOfSpeech: n
+  source: 'LSG, Wisteria: fuinneog'
 04597856-n:
   definition:
   - confidence: 0.0
@@ -9628,6 +10541,7 @@
   members:
   - gaothscáth
   partOfSpeech: n
+  source: 'LSG, Wikidata, Wisteria: gaothscáth'
 04601545-n:
   definition:
   - confidence: 0.0
@@ -9639,6 +10553,7 @@
   members:
   - sreang
   partOfSpeech: n
+  source: 'LSG, Wisteria: sreang'
 04601816-n:
   definition:
   - confidence: 0.0
@@ -9649,6 +10564,7 @@
   members:
   - sreang
   partOfSpeech: n
+  source: 'LSG, Wisteria: sreang'
 04606562-n:
   definition:
   - confidence: 0.0
@@ -9659,6 +10575,7 @@
   members:
   - olann
   partOfSpeech: n
+  source: 'LSG, Wisteria: olann'
 04606723-n:
   definition:
   - confidence: 0.0
@@ -9671,6 +10588,7 @@
   - obair
   - saothar
   partOfSpeech: n
+  source: 'LSG, Wisteria: obair, saothar'
 04607813-n:
   definition:
   - confidence: 0.0
@@ -9681,6 +10599,7 @@
   members:
   - binse
   partOfSpeech: n
+  source: 'LSG, Wisteria: binse'
 04609402-n:
   definition:
   - confidence: 0.0
@@ -9691,6 +10610,7 @@
   members:
   - ionad oibre
   partOfSpeech: n
+  source: 'LSG, Wikidata: ionad oibre'
 04610439-n:
   definition:
   - confidence: 0.0
@@ -9701,6 +10621,7 @@
   members:
   - ceardlann
   partOfSpeech: n
+  source: 'LSG, Wisteria: ceardlann'
 04611634-n:
   definition:
   - confidence: 0.0
@@ -9713,6 +10634,7 @@
   members:
   - gréasán
   partOfSpeech: n
+  source: 'LSG, Wisteria: gréasán'
 04612679-n:
   definition:
   - confidence: 0.0
@@ -9723,6 +10645,7 @@
   members:
   - mustairt
   partOfSpeech: n
+  source: 'LSG, Wikidata: mustairt'
 04613084-n:
   definition:
   - confidence: 0.0
@@ -9733,6 +10656,7 @@
   members:
   - cumhdach
   partOfSpeech: n
+  source: 'LSG, Wisteria: cumhdach'
 04613932-n:
   definition:
   - confidence: 0.0
@@ -9743,6 +10667,7 @@
   members:
   - castaire
   partOfSpeech: n
+  source: 'LSG, Wikidata: castaire'
 04618236-n:
   definition:
   - confidence: 0.0
@@ -9753,6 +10678,7 @@
   members:
   - clós
   partOfSpeech: n
+  source: 'LSG, Wisteria: clós'
 04620515-n:
   definition:
   - confidence: 0.0
@@ -9763,6 +10689,7 @@
   members:
   - cúplán
   partOfSpeech: n
+  source: 'LSG, Wisteria: cúplán'
 04622583-n:
   definition:
   - confidence: 0.0
@@ -9774,3 +10701,4 @@
   members:
   - siotar
   partOfSpeech: n
+  source: 'LSG, Wikidata: siotar'

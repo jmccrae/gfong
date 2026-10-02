@@ -10,6 +10,7 @@
   - braith
   - mothaigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: braith; LSG, Wisteria: mothaigh'
 02110960-v:
   definition:
   - confidence: 0.0
@@ -20,6 +21,7 @@
   members:
   - braith
   partOfSpeech: v
+  source: 'LSG, Wisteria: braith'
 02111702-v:
   definition:
   - confidence: 0.0
@@ -30,6 +32,7 @@
   members:
   - faigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: faigh'
 02112480-v:
   definition:
   - gabh trí (gabh trí ríochtaí meabhracha nó fisiceacha nó taithí a bheith agat)
@@ -42,6 +45,7 @@
   - téigh trí
   - gabh trí
   partOfSpeech: v
+  source: 'Horizon: téigh trí, gabh trí'
 02114674-v:
   definition:
   - téigh faoi nó mair trí taithí dheacair
@@ -55,6 +59,7 @@
   - feic
   - téigh trí
   partOfSpeech: v
+  source: 'Horizon: braith, feic; Horizon, LSG: téigh trí'
 02122959-v:
   definition:
   - tabhair faoi deara nó braith
@@ -66,6 +71,7 @@
   members:
   - tabhair faoi deara
   partOfSpeech: v
+  source: 'Horizon, LSG: tabhair faoi deara'
 02123398-v:
   definition:
   - breathnú go cúramach nó aird a thabhairt ar
@@ -77,6 +83,7 @@
   members:
   - tabhair faoi deara
   partOfSpeech: v
+  source: 'Horizon: tabhair faoi deara'
 02132751-v:
   definition:
   - confidence: 0.0
@@ -87,6 +94,7 @@
   members:
   - feic
   partOfSpeech: v
+  source: 'LSG, Wisteria: feic'
 02133338-v:
   definition:
   - braith nó a bheith comhaimseartha le
@@ -100,6 +108,7 @@
   - tabhair faoi deara
   - aithin
   partOfSpeech: v
+  source: 'Horizon, Wisteria: feic; Horizon: tabhair faoi deara, aithin'
 02133754-v:
   definition:
   - léirstean a bheith agat nó ábaltacht léirstean a bheith agat trí amharc
@@ -112,6 +121,7 @@
   - feic
   - féach
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: feic; LSG, Wisteria: féach'
 02134989-v:
   definition:
   - braith le haird; stánadh a threorú; breathnaigh
@@ -125,6 +135,7 @@
   - féach
   - amharc
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: breathnaigh, féach, amharc'
 02137210-v:
   definition:
   - a bheith ag breathnú le súile géara
@@ -139,6 +150,7 @@
   - breathnaigh
   - amharc
   partOfSpeech: v
+  source: 'Horizon, LSG: stán; Horizon: féach, breathnaigh, amharc'
 02137900-v:
   definition:
   - tabhair le tuiscint gur rud áirithe atá ann nó go bhfuil gné áirithe i gceist
@@ -155,6 +167,8 @@
   - cosúlacht a bheith ar
   - dealraigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: breathnaigh, féach; Horizon: cuma a bheith ar, cosúlacht
+    a bheith ar; LSG, Wisteria: dealraigh'
 02139137-v:
   definition:
   - (de thairiscint) is cosúil a bheith fíor, dóchúil nó soiléir
@@ -169,6 +183,7 @@
   - is cosúil
   - cuma a bheith ar
   partOfSpeech: v
+  source: 'Horizon: is léir, is dóigh, is cosúil, cuma a bheith ar'
 02139392-v:
   definition:
   - breathnaigh ar bhealach cinnte
@@ -180,6 +195,7 @@
   members:
   - fuaimnigh
   partOfSpeech: v
+  source: 'Horizon: fuaimnigh'
 02141357-v:
   definition:
   - léirigh nó tabhair ar ais
@@ -191,6 +207,7 @@
   members:
   - machnaigh
   partOfSpeech: v
+  source: 'Horizon: machnaigh'
 02141597-v:
   definition:
   - infheicthe nó faoi deara a dhéanamh
@@ -202,6 +219,7 @@
   members:
   - taispeáint
   partOfSpeech: v
+  source: 'Horizon: taispeáint'
 02144506-v:
   definition:
   - taispeáin, a dhéanamh infheicthe nó soiléir
@@ -213,6 +231,7 @@
   members:
   - taispeáin
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: taispeáin'
 02147756-v:
   definition:
   - rud a shoiléiriú
@@ -226,6 +245,7 @@
   - tóg amach
   - nocht
   partOfSpeech: v
+  source: 'Horizon: bain amach, tóg amach; Horizon, LSG, Wisteria: nocht'
 02149298-v:
   definition:
   - cosc a fheiceáil nó a fháil amach
@@ -237,6 +257,7 @@
   members:
   - ceilt
   partOfSpeech: v
+  source: 'Horizon: ceilt'
 02153218-v:
   definition:
   - cuir pictiúr i láthair ag taispeántas
@@ -250,6 +271,7 @@
   - léirigh
   - cuir i láthair
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: taispeáin, léirigh; Horizon: cuir i láthair'
 02154940-v:
   definition:
   - a bheith ag breathnú go haireach
@@ -266,6 +288,8 @@
   - coimhéad ar
   - féach
   partOfSpeech: v
+  source: 'Horizon, LSG: féach ar; Horizon: breathnaigh ar, amharc ar, fair ar, coimhéad
+    ar; LSG, Wisteria: féach'
 02155378-v:
   definition:
   - feic nó féach
@@ -280,6 +304,7 @@
   - amharc ar
   - breathnaigh ar
   partOfSpeech: v
+  source: 'Horizon: féach ar, amharc ar, breathnaigh ar; Horizon, Wisteria: feic'
 02158139-v:
   definition:
   - confidence: 0.0
@@ -290,6 +315,7 @@
   members:
   - cuardaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: cuardaigh'
 02158938-v:
   definition:
   - rialaigh nó tar ar bheithsine, láithreacht nó fíric faoi aireachtáil amhairc
@@ -305,6 +331,8 @@
   - fair
   - braith
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: aimsigh; Horizon, LSG: tabhair faoi deara; Horizon: tar
+    ar, fair; LSG, Wisteria: braith'
 02167732-v:
   definition:
   - confidence: 0.0
@@ -315,6 +343,7 @@
   members:
   - déan faireachán
   partOfSpeech: v
+  source: 'LSG, Wisteria: déan faireachán'
 02168177-v:
   definition:
   - confidence: 0.0
@@ -325,6 +354,7 @@
   members:
   - feic
   partOfSpeech: v
+  source: 'LSG, Wisteria: feic'
 02169748-v:
   definition:
   - caith súil ar, breathnaigh gairid ar
@@ -336,6 +366,7 @@
   members:
   - súil a thabhairt de
   partOfSpeech: v
+  source: 'Horizon: súil a thabhairt de'
 02169987-v:
   definition:
   - confidence: 0.0
@@ -347,6 +378,7 @@
   - iniúch
   - scrúdaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: iniúch, scrúdaigh'
 02170904-v:
   definition:
   - machnamh cúramach ar
@@ -361,6 +393,8 @@
   - déan staidéar ar
   - meas
   partOfSpeech: v
+  source: 'Horizon, LSG: smaoinigh ar, cuimhnigh ar; Horizon: déan staidéar ar; LSG, Wisteria:
+    meas'
 02174146-v:
   definition:
   - fuaim a bhrath trí na céadfa éisteachta
@@ -371,6 +405,7 @@
   - clois
   - cluin
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: clois; LSG, Wisteria: cluin'
 02174335-v:
   definition:
   - clois le cuspóir
@@ -382,6 +417,7 @@
   members:
   - éist
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: éist'
 02175483-v:
   definition:
   - éist agus aird a thabhairt
@@ -394,6 +430,7 @@
   - éist
   - tabhair aire
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: éist; Horizon: tabhair aire'
 02197640-v:
   definition:
   - brath leis na gcéadfaí
@@ -411,6 +448,8 @@
   - déan amach
   - sainaithin
   partOfSpeech: v
+  source: 'Horizon, LSG: feic, aithin, déan amach; Horizon: idirdhealaigh, inis óna chéile,
+    pioc amach, sainaithin'
 02199916-v:
   definition:
   - confidence: 0.0
@@ -421,3 +460,4 @@
   members:
   - milsigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: milsigh'

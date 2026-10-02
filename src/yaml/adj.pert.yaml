@@ -6,6 +6,7 @@
   members:
   - acadúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: acadúil'
 02623070-a:
   definition:
   - confidence: 0.0
@@ -14,6 +15,7 @@
   members:
   - ailléirgeach
   partOfSpeech: a
+  source: 'LSG, Wisteria: ailléirgeach'
 02624611-a:
   definition:
   - confidence: 0.0
@@ -22,6 +24,7 @@
   members:
   - aibítreach
   partOfSpeech: a
+  source: 'LSG, Wisteria: aibítreach'
 02624996-a:
   definition:
   - confidence: 0.0
@@ -30,6 +33,7 @@
   members:
   - alfa-uimhriúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: alfa-uimhriúil'
 02639718-a:
   definition:
   - confidence: 0.0
@@ -38,6 +42,7 @@
   members:
   - antaibheathach
   partOfSpeech: a
+  source: 'LSG, Wisteria: antaibheathach'
 02652029-a:
   definition:
   - confidence: 0.0
@@ -46,6 +51,7 @@
   members:
   - aramatach
   partOfSpeech: a
+  source: 'LSG, Wisteria: aramatach'
 02668893-a:
   definition:
   - confidence: 0.0
@@ -55,6 +61,7 @@
   members:
   - balaistíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: balaistíoch'
 02675637-a:
   definition:
   - confidence: 0.0
@@ -63,6 +70,7 @@
   members:
   - bithcheimiceach
   partOfSpeech: a
+  source: 'LSG, Wisteria: bithcheimiceach'
 02676508-a:
   definition:
   - confidence: 0.0
@@ -71,6 +79,7 @@
   members:
   - bitheolaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: bitheolaíoch'
 02678963-a:
   definition:
   - confidence: 0.0
@@ -79,6 +88,7 @@
   members:
   - luibheolaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: luibheolaíoch'
 02684706-a:
   definition:
   - confidence: 0.0
@@ -88,6 +98,7 @@
   members:
   - cailceach
   partOfSpeech: a
+  source: 'LSG, Wisteria: cailceach'
 02690595-a:
   definition:
   - confidence: 0.0
@@ -96,6 +107,7 @@
   members:
   - carcanaigineach
   partOfSpeech: a
+  source: 'LSG, Wisteria: carcanaigineach'
 02699711-a:
   definition:
   - confidence: 0.0
@@ -104,6 +116,7 @@
   members:
   - ceirbreach
   partOfSpeech: a
+  source: 'LSG, Wisteria: ceirbreach'
 02703361-a:
   definition:
   - confidence: 0.0
@@ -112,6 +125,7 @@
   members:
   - ceimiceach
   partOfSpeech: a
+  source: 'LSG, Wisteria: ceimiceach'
 02708189-a:
   definition:
   - confidence: 0.0
@@ -120,6 +134,7 @@
   members:
   - bardasach
   partOfSpeech: a
+  source: 'LSG, Wisteria: bardasach'
 02713392-a:
   definition:
   - confidence: 0.0
@@ -128,6 +143,7 @@
   members:
   - conarthach
   partOfSpeech: a
+  source: 'LSG, Wisteria: conarthach'
 02721174-a:
   definition:
   - confidence: 0.0
@@ -136,6 +152,7 @@
   members:
   - inseachadta
   partOfSpeech: a
+  source: 'LSG, Wisteria: inseachadta'
 02727475-a:
   definition:
   - fás eacnamaíoch
@@ -144,6 +161,7 @@
   - eacnamaíoch
   - geilleagrach
   partOfSpeech: a
+  source: 'Horizon, LSG, Wisteria: eacnamaíoch; LSG, Wisteria: geilleagrach'
 02727757-a:
   definition:
   - confidence: 0.0
@@ -152,6 +170,7 @@
   members:
   - socheacnamaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: socheacnamaíoch'
 02728274-a:
   definition:
   - confidence: 0.0
@@ -160,6 +179,7 @@
   members:
   - toghchánach
   partOfSpeech: a
+  source: 'LSG, Wisteria: toghchánach'
 02729233-a:
   definition:
   - confidence: 0.0
@@ -169,6 +189,7 @@
   members:
   - leictreonach
   partOfSpeech: a
+  source: 'LSG, Wisteria: leictreonach'
 02730131-a:
   definition:
   - confidence: 0.0
@@ -177,6 +198,7 @@
   members:
   - eiliminteach
   partOfSpeech: a
+  source: 'LSG, Wisteria: eiliminteach'
 02732613-a:
   definition:
   - confidence: 0.0
@@ -185,6 +207,7 @@
   members:
   - eirgeanamaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: eirgeanamaíoch'
 02734299-a:
   definition:
   - confidence: 0.0
@@ -193,6 +216,7 @@
   members:
   - eiticiúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: eiticiúil'
 02745280-a:
   definition:
   - confidence: 0.0
@@ -201,6 +225,7 @@
   members:
   - géiniteach
   partOfSpeech: a
+  source: 'LSG, Wisteria: géiniteach'
 02745944-a:
   definition:
   - confidence: 0.0
@@ -209,6 +234,7 @@
   members:
   - geoiméadrach
   partOfSpeech: a
+  source: 'LSG, Wisteria: geoiméadrach'
 02746405-a:
   definition:
   - confidence: 0.0
@@ -217,6 +243,7 @@
   members:
   - geoiteirmeach
   partOfSpeech: a
+  source: 'LSG, Wisteria: geoiteirmeach'
 02747544-a:
   definition:
   - confidence: 0.0
@@ -225,6 +252,7 @@
   members:
   - grafach
   partOfSpeech: a
+  source: 'LSG, Wisteria: grafach'
 02747937-a:
   definition:
   - confidence: 0.0
@@ -233,6 +261,7 @@
   members:
   - imtharraingteach
   partOfSpeech: a
+  source: 'LSG, Wisteria: imtharraingteach'
 02754015-a:
   definition:
   - saintréith na daonnachta
@@ -243,6 +272,7 @@
   - duine
   - daonna
   partOfSpeech: a
+  source: 'Horizon: duine; LSG, Wisteria: daonna'
 02754145-a:
   definition:
   - confidence: 0.0
@@ -251,6 +281,7 @@
   members:
   - daonna
   partOfSpeech: a
+  source: 'LSG, Wisteria: daonna'
 02759407-a:
   definition:
   - confidence: 0.0
@@ -259,6 +290,7 @@
   members:
   - tionsclaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: tionsclaíoch'
 02760550-a:
   definition:
   - confidence: 0.0
@@ -267,6 +299,7 @@
   members:
   - institiúideach
   partOfSpeech: a
+  source: 'LSG, Wisteria: institiúideach'
 02761255-a:
   definition:
   - confidence: 0.0
@@ -275,6 +308,7 @@
   members:
   - oileánach
   partOfSpeech: a
+  source: 'LSG, Wisteria: oileánach'
 02764868-a:
   definition:
   - confidence: 0.0
@@ -283,6 +317,7 @@
   members:
   - dlíthiúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: dlíthiúil'
 02765962-a:
   definition:
   - confidence: 0.0
@@ -291,6 +326,7 @@
   members:
   - léagúmach
   partOfSpeech: a
+  source: 'LSG, Wisteria: léagúmach'
 02769272-a:
   definition:
   - confidence: 0.0
@@ -299,6 +335,7 @@
   members:
   - maicreacnamaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: maicreacnamaíoch'
 02770888-a:
   definition:
   - a bhaineann le staidéar nó cleachtadh na míochaine
@@ -308,6 +345,7 @@
   members:
   - leighis
   partOfSpeech: a
+  source: 'Horizon: leighis'
 02775023-a:
   definition:
   - de nó a bhaineann le staidéar ar phrionsabail na cogaíochta
@@ -317,6 +355,7 @@
   members:
   - míleata
   partOfSpeech: a
+  source: 'Horizon, Wisteria: míleata'
 02785218-a:
   definition:
   - confidence: 0.0
@@ -325,6 +364,7 @@
   members:
   - parlaiminteach
   partOfSpeech: a
+  source: 'LSG, Wisteria: parlaiminteach'
 02790581-a:
   definition:
   - confidence: 0.0
@@ -333,6 +373,7 @@
   members:
   - fisiceach
   partOfSpeech: a
+  source: 'LSG, Wisteria: fisiceach'
 02796680-a:
   definition:
   - confidence: 0.0
@@ -341,6 +382,7 @@
   members:
   - cúigeach
   partOfSpeech: a
+  source: 'LSG, Wisteria: cúigeach'
 02797568-a:
   definition:
   - confidence: 0.0
@@ -349,6 +391,7 @@
   members:
   - raideolaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: raideolaíoch'
 02804097-a:
   definition:
   - confidence: 0.0
@@ -357,6 +400,7 @@
   members:
   - eolaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: eolaíoch'
 02805366-a:
   definition:
   - confidence: 0.0
@@ -365,6 +409,7 @@
   members:
   - earnálach
   partOfSpeech: a
+  source: 'LSG, Wisteria: earnálach'
 02809193-a:
   definition:
   - ag baint le sochaí daonna agus dá gcuid baill
@@ -375,6 +420,7 @@
   - sóisialta
   - sochaíoch
   partOfSpeech: a
+  source: 'Horizon, LSG, Wisteria: sóisialta, sochaíoch'
 02810955-a:
   definition:
   - confidence: 0.0
@@ -383,6 +429,7 @@
   members:
   - speictreach
   partOfSpeech: a
+  source: 'LSG, Wisteria: speictreach'
 02813671-a:
   definition:
   - confidence: 0.0
@@ -391,6 +438,7 @@
   members:
   - reachtúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: reachtúil'
 02815413-a:
   definition:
   - confidence: 0.0
@@ -399,6 +447,7 @@
   members:
   - fo-uirbeach
   partOfSpeech: a
+  source: 'LSG, Wisteria: fo-uirbeach'
 02817084-a:
   definition:
   - confidence: 0.0
@@ -407,6 +456,7 @@
   members:
   - inbhuanaithe
   partOfSpeech: a
+  source: 'LSG, Wisteria: inbhuanaithe'
 02819653-a:
   definition:
   - confidence: 0.0
@@ -415,6 +465,7 @@
   members:
   - tadhlaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: tadhlaíoch'
 02820043-a:
   definition:
   - de nó a bhaineann le teicníc nó inniúlacht i scil phraiticiúil
@@ -425,6 +476,7 @@
   - teicniúil
   - cumasach
   partOfSpeech: a
+  source: 'Horizon, Wisteria: teicniúil; Horizon: cumasach'
 02820431-a:
   definition:
   - confidence: 0.0
@@ -435,6 +487,7 @@
   - teicneolaíoch
   - teicniúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: teicneolaíoch, teicniúil'
 02823421-a:
   definition:
   - confidence: 0.0
@@ -443,6 +496,7 @@
   members:
   - críochach
   partOfSpeech: a
+  source: 'LSG, Wisteria: críochach'
 02824619-a:
   definition:
   - confidence: 0.0
@@ -451,6 +505,7 @@
   members:
   - téamach
   partOfSpeech: a
+  source: 'LSG, Wisteria: téamach'
 02825392-a:
   definition:
   - a bhaineann le nó i gcomhcheangal le teas
@@ -461,6 +516,7 @@
   - teirmeach
   - calrach
   partOfSpeech: a
+  source: 'Horizon, LSG, Wisteria: teirmeach; Horizon: calrach'
 02837586-a:
   definition:
   - confidence: 0.0
@@ -469,6 +525,7 @@
   members:
   - leictreach
   partOfSpeech: a
+  source: 'LSG, Wisteria: leictreach'
 02837762-a:
   definition:
   - confidence: 0.0
@@ -477,6 +534,7 @@
   members:
   - leictreach
   partOfSpeech: a
+  source: 'LSG, Wisteria: leictreach'
 02839367-a:
   definition:
   - confidence: 0.0
@@ -485,6 +543,7 @@
   members:
   - idirbhreitheach
   partOfSpeech: a
+  source: 'LSG, Wisteria: idirbhreitheach'
 02840307-a:
   definition:
   - confidence: 0.0
@@ -493,6 +552,7 @@
   members:
   - reachtach
   partOfSpeech: a
+  source: 'LSG, Wisteria: reachtach'
 02840450-a:
   definition:
   - confidence: 0.0
@@ -501,6 +561,7 @@
   members:
   - reachtach
   partOfSpeech: a
+  source: 'LSG, Wisteria: reachtach'
 02841386-a:
   definition:
   - a bhaineann le nó tréith na litríochta
@@ -511,6 +572,7 @@
   - litríochta
   - liteartha
   partOfSpeech: a
+  source: 'Horizon: litríochta; LSG, Wisteria: liteartha'
 02842621-a:
   definition:
   - confidence: 0.0
@@ -519,6 +581,7 @@
   members:
   - atmaisféarach
   partOfSpeech: a
+  source: 'LSG, Wisteria: atmaisféarach'
 02842864-a:
   definition:
   - confidence: 0.0
@@ -527,6 +590,7 @@
   members:
   - amfaibiach
   partOfSpeech: a
+  source: 'LSG, Wisteria: amfaibiach'
 02844429-a:
   definition:
   - confidence: 0.0
@@ -535,6 +599,7 @@
   members:
   - baictéarach
   partOfSpeech: a
+  source: 'LSG, Wisteria: baictéarach'
 02846539-a:
   definition:
   - confidence: 0.0
@@ -543,6 +608,7 @@
   members:
   - iarmharach
   partOfSpeech: a
+  source: 'LSG, Wisteria: iarmharach'
 02849477-a:
   definition:
   - confidence: 0.0
@@ -551,6 +617,7 @@
   members:
   - fótagrafach
   partOfSpeech: a
+  source: 'LSG, Wisteria: fótagrafach'
 02849779-a:
   definition:
   - confidence: 0.0
@@ -559,6 +626,7 @@
   members:
   - neomatach
   partOfSpeech: a
+  source: 'LSG, Wisteria: neomatach'
 02850580-a:
   definition:
   - confidence: 0.0
@@ -568,6 +636,7 @@
   - gairmiúil
   - proifisiúnta
   partOfSpeech: a
+  source: 'LSG, Wisteria: gairmiúil, proifisiúnta'
 02851363-a:
   definition:
   - a bheith ag baint le gairm nó slí bheatha; go háirithe ceann ag baint le soláthar
@@ -579,6 +648,7 @@
   - gairme
   - gairmiúil
   partOfSpeech: a
+  source: 'Horizon: gairme; LSG, Wisteria: gairmiúil'
 02851951-a:
   definition:
   - confidence: 0.0
@@ -587,6 +657,7 @@
   members:
   - spásúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: spásúil'
 02853070-a:
   definition:
   - confidence: 0.0
@@ -595,6 +666,7 @@
   members:
   - buaibheach
   partOfSpeech: a
+  source: 'LSG, Wisteria: buaibheach'
 02853330-a:
   definition:
   - confidence: 0.0
@@ -603,6 +675,7 @@
   members:
   - teangeolaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: teangeolaíoch'
 02854844-a:
   definition:
   - confidence: 0.0
@@ -611,6 +684,7 @@
   members:
   - cugasach
   partOfSpeech: a
+  source: 'LSG, Wisteria: cugasach'
 02858779-a:
   definition:
   - a bhaineann le cúrsaí airgeadais
@@ -621,6 +695,7 @@
   - airgeadais
   - fioscach
   partOfSpeech: a
+  source: 'Horizon: airgeadais; Horizon, LSG, Wisteria: fioscach'
 02859543-a:
   definition:
   - confidence: 0.0
@@ -629,6 +704,7 @@
   members:
   - cáblach
   partOfSpeech: a
+  source: 'LSG, Wisteria: cáblach'
 02863805-a:
   definition:
   - confidence: 0.0
@@ -637,6 +713,7 @@
   members:
   - pósta
   partOfSpeech: a
+  source: 'LSG, Wisteria: pósta'
 02869320-a:
   definition:
   - confidence: 0.0
@@ -645,6 +722,7 @@
   members:
   - fealsúnach
   partOfSpeech: a
+  source: 'LSG, Wisteria: fealsúnach'
 02872706-a:
   definition:
   - confidence: 0.0
@@ -653,6 +731,7 @@
   members:
   - pictiúrtha
   partOfSpeech: a
+  source: 'LSG, Wisteria: pictiúrtha'
 02872948-a:
   definition:
   - confidence: 0.0
@@ -661,6 +740,7 @@
   members:
   - optúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: optúil'
 02873726-a:
   definition:
   - confidence: 0.0
@@ -669,6 +749,7 @@
   members:
   - núicléach
   partOfSpeech: a
+  source: 'LSG, Wisteria: núicléach'
 02876454-a:
   definition:
   - confidence: 0.0
@@ -677,6 +758,7 @@
   members:
   - uirbeach
   partOfSpeech: a
+  source: 'LSG, Wisteria: uirbeach'
 02876761-a:
   definition:
   - confidence: 0.0
@@ -686,6 +768,7 @@
   members:
   - meitéareolaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: meitéareolaíoch'
 02879771-a:
   definition:
   - confidence: 0.0
@@ -694,6 +777,7 @@
   members:
   - fuaimiúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: fuaimiúil'
 02880845-a:
   definition:
   - a bhaineann le nó le húsáid radharc
@@ -706,6 +790,7 @@
   - optach
   - súl
   partOfSpeech: a
+  source: 'Horizon: súil-lionsa, radhairc, súl; Horizon, LSG: optach'
 02883162-a:
   definition:
   - confidence: 0.0
@@ -714,6 +799,7 @@
   members:
   - réigiúnach
   partOfSpeech: a
+  source: 'LSG, Wisteria: réigiúnach'
 02884080-a:
   definition:
   - confidence: 0.0
@@ -722,6 +808,7 @@
   members:
   - ilchultúrtha
   partOfSpeech: a
+  source: 'LSG, Wisteria: ilchultúrtha'
 02885434-a:
   definition:
   - confidence: 0.0
@@ -730,6 +817,7 @@
   members:
   - cardashoithíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: cardashoithíoch'
 02886180-a:
   definition:
   - confidence: 0.0
@@ -738,6 +826,7 @@
   members:
   - cumannach
   partOfSpeech: a
+  source: 'LSG, Wisteria: cumannach'
 02891505-a:
   definition:
   - confidence: 0.0
@@ -746,6 +835,7 @@
   members:
   - víreasach
   partOfSpeech: a
+  source: 'LSG, Wisteria: víreasach'
 02895923-a:
   definition:
   - confidence: 0.0
@@ -754,6 +844,7 @@
   members:
   - adamhach
   partOfSpeech: a
+  source: 'LSG, Wisteria: adamhach'
 02896833-a:
   definition:
   - confidence: 0.0
@@ -763,6 +854,7 @@
   members:
   - cliniciúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: cliniciúil'
 02905079-a:
   definition:
   - confidence: 0.0
@@ -771,6 +863,7 @@
   members:
   - cinéiteach
   partOfSpeech: a
+  source: 'LSG, Wisteria: cinéiteach'
 02908041-a:
   definition:
   - confidence: 0.0
@@ -779,6 +872,7 @@
   members:
   - doiciméadach
   partOfSpeech: a
+  source: 'LSG, Wisteria: doiciméadach'
 02908587-a:
   definition:
   - confidence: 0.0
@@ -788,6 +882,7 @@
   - déanmhasach
   - struchtúrach
   partOfSpeech: a
+  source: 'LSG, Wisteria: déanmhasach, struchtúrach'
 02909528-a:
   definition:
   - confidence: 0.0
@@ -796,6 +891,7 @@
   members:
   - eagraíochtúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: eagraíochtúil'
 02909836-a:
   definition:
   - confidence: 0.0
@@ -804,6 +900,7 @@
   members:
   - cognaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: cognaíoch'
 02910364-a:
   definition:
   - confidence: 0.0
@@ -812,6 +909,7 @@
   members:
   - fíorasach
   partOfSpeech: a
+  source: 'LSG, Wisteria: fíorasach'
 02911952-a:
   definition:
   - confidence: 0.0
@@ -820,6 +918,7 @@
   members:
   - móilíneach
   partOfSpeech: a
+  source: 'LSG, Wisteria: móilíneach'
 02913783-a:
   definition:
   - confidence: 0.0
@@ -828,6 +927,7 @@
   members:
   - iseatópach
   partOfSpeech: a
+  source: 'LSG, Wisteria: iseatópach'
 02915381-a:
   definition:
   - confidence: 0.0
@@ -836,6 +936,7 @@
   members:
   - riarthach
   partOfSpeech: a
+  source: 'LSG, Wisteria: riarthach'
 02916904-a:
   definition:
   - confidence: 0.0
@@ -844,6 +945,7 @@
   members:
   - geolaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: geolaíoch'
 02917664-a:
   definition:
   - confidence: 0.0
@@ -852,6 +954,7 @@
   members:
   - déimeagrafach
   partOfSpeech: a
+  source: 'LSG, Wisteria: déimeagrafach'
 02918091-a:
   definition:
   - confidence: 0.0
@@ -860,6 +963,7 @@
   members:
   - éiceolaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: éiceolaíoch'
 02918786-a:
   definition:
   - confidence: 0.0
@@ -868,6 +972,7 @@
   members:
   - ríomhaireachtúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: ríomhaireachtúil'
 02919248-a:
   definition:
   - confidence: 0.0
@@ -876,6 +981,7 @@
   members:
   - geopholaitiúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: geopholaitiúil'
 02920481-a:
   definition:
   - confidence: 0.0
@@ -884,6 +990,7 @@
   members:
   - difreálach
   partOfSpeech: a
+  source: 'LSG, Wisteria: difreálach'
 02922659-a:
   definition:
   - confidence: 0.0
@@ -892,6 +999,7 @@
   members:
   - paraiméadrach
   partOfSpeech: a
+  source: 'LSG, Wisteria: paraiméadrach'
 02922940-a:
   definition:
   - confidence: 0.0
@@ -900,6 +1008,7 @@
   members:
   - staitistiúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: staitistiúil'
 02925526-a:
   definition:
   - confidence: 0.0
@@ -908,6 +1017,7 @@
   members:
   - teiripeach
   partOfSpeech: a
+  source: 'LSG, Wisteria: teiripeach'
 02930157-a:
   definition:
   - confidence: 0.0
@@ -916,6 +1026,7 @@
   members:
   - micreascópach
   partOfSpeech: a
+  source: 'LSG, Wisteria: micreascópach'
 02932264-a:
   definition:
   - den Chaitliceachas nó a bhaineann leis nó a thacaíonn leis
@@ -925,6 +1036,7 @@
   members:
   - Caitliceach
   partOfSpeech: a
+  source: 'Horizon, LSG: Caitliceach'
 02933576-a:
   definition:
   - a bheith nó a bheith ag baint le Giúdaigh nó dá gcuid cultúir nó creidimh
@@ -935,6 +1047,7 @@
   - Giúdach
   - de chuid na nGiúdach
   partOfSpeech: a
+  source: 'Horizon, LSG: Giúdach; Horizon: de chuid na nGiúdach'
 02934823-a:
   definition:
   - confidence: 0.0
@@ -943,6 +1056,7 @@
   members:
   - Moslamach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Moslamach'
 02937501-a:
   definition:
   - confidence: 0.0
@@ -951,6 +1065,7 @@
   members:
   - maighnéadach
   partOfSpeech: a
+  source: 'LSG, Wisteria: maighnéadach'
 02937633-a:
   definition:
   - confidence: 0.0
@@ -959,6 +1074,7 @@
   members:
   - leictreamaighnéadach
   partOfSpeech: a
+  source: 'LSG, Wisteria: leictreamaighnéadach'
 02938825-a:
   definition:
   - ag baint le Stáit Aontaithe Mheiriceá nó dá gcuid muintire nó teanga nó cultúir
@@ -968,6 +1084,7 @@
   members:
   - Meiriceánach
   partOfSpeech: a
+  source: 'Horizon, LSG: Meiriceánach'
 02939660-a:
   definition:
   - confidence: 0.0
@@ -977,6 +1094,7 @@
   members:
   - Indiach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Indiach'
 02946081-a:
   definition:
   - confidence: 0.0
@@ -985,6 +1103,7 @@
   members:
   - hormónach
   partOfSpeech: a
+  source: 'LSG, Wisteria: hormónach'
 02946867-a:
   definition:
   - confidence: 0.0
@@ -993,6 +1112,7 @@
   members:
   - stéigeach
   partOfSpeech: a
+  source: 'LSG, Wisteria: stéigeach'
 02949213-a:
   definition:
   - confidence: 0.0
@@ -1001,6 +1121,7 @@
   members:
   - matamaiticiúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: matamaiticiúil'
 02953127-a:
   definition:
   - confidence: 0.0
@@ -1009,6 +1130,7 @@
   members:
   - Afracach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Afracach'
 02956031-a:
   definition:
   - confidence: 0.0
@@ -1017,6 +1139,7 @@
   members:
   - idirthréimhseach
   partOfSpeech: a
+  source: 'LSG, Wisteria: idirthréimhseach'
 02957558-a:
   definition:
   - confidence: 0.0
@@ -1025,6 +1148,7 @@
   members:
   - oideachasúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: oideachasúil'
 02958814-a:
   definition:
   - confidence: 0.0
@@ -1033,6 +1157,7 @@
   members:
   - iolraíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: iolraíoch'
 02962048-a:
   definition:
   - confidence: 0.0
@@ -1041,6 +1166,7 @@
   members:
   - straitéiseach
   partOfSpeech: a
+  source: 'LSG, Wisteria: straitéiseach'
 02963612-a:
   definition:
   - a bhaineann leis an gCríostaíocht nó tréithe na Críostaíochta
@@ -1050,6 +1176,7 @@
   members:
   - Críostaí
   partOfSpeech: a
+  source: 'Horizon, LSG: Críostaí'
 02963959-a:
   definition:
   - de Phrotastúnaigh nó Protastúnachas nó a bhaineann leo
@@ -1059,6 +1186,7 @@
   members:
   - Protastúnach
   partOfSpeech: a
+  source: 'Horizon, LSG: Protastúnach'
 02968612-a:
   definition:
   - confidence: 0.0
@@ -1068,6 +1196,7 @@
   members:
   - Iodálach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Iodálach'
 02968822-a:
   definition:
   - confidence: 0.0
@@ -1077,6 +1206,7 @@
   members:
   - rúiseach
   partOfSpeech: a
+  source: 'LSG, Wisteria: rúiseach'
 02969015-a:
   definition:
   - confidence: 0.0
@@ -1085,6 +1215,7 @@
   members:
   - gearmánach
   partOfSpeech: a
+  source: 'LSG, Wisteria: gearmánach'
 02969938-a:
   definition:
   - confidence: 0.0
@@ -1093,6 +1224,7 @@
   members:
   - francach
   partOfSpeech: a
+  source: 'LSG, Wisteria: francach'
 02970122-a:
   definition:
   - confidence: 0.0
@@ -1101,6 +1233,7 @@
   members:
   - Spáinneach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Spáinneach'
 02970952-a:
   definition:
   - den iar-Aontais Shóivéadaigh nó a bhaineann le nó saintréith de chuid an Aontais
@@ -1111,6 +1244,7 @@
   members:
   - Sóivéadach
   partOfSpeech: a
+  source: 'Horizon, LSG: Sóivéadach'
 02971099-a:
   definition:
   - confidence: 0.0
@@ -1119,6 +1253,7 @@
   members:
   - fionlannach
   partOfSpeech: a
+  source: 'LSG, Wisteria: fionlannach'
 02971266-a:
   definition:
   - confidence: 0.0
@@ -1128,6 +1263,7 @@
   members:
   - sualannach
   partOfSpeech: a
+  source: 'LSG, Wisteria: sualannach'
 02971458-a:
   definition:
   - confidence: 0.0
@@ -1136,6 +1272,7 @@
   members:
   - Ioruach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Ioruach'
 02971676-a:
   definition:
   - confidence: 0.0
@@ -1144,6 +1281,7 @@
   members:
   - Lochlannach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Lochlannach'
 02972052-a:
   definition:
   - confidence: 0.0
@@ -1152,6 +1290,7 @@
   members:
   - beilgeach
   partOfSpeech: a
+  source: 'LSG, Wisteria: beilgeach'
 02972644-a:
   definition:
   - confidence: 0.0
@@ -1160,6 +1299,7 @@
   members:
   - ostarach
   partOfSpeech: a
+  source: 'LSG, Wisteria: ostarach'
 02972803-a:
   definition:
   - confidence: 0.0
@@ -1168,6 +1308,7 @@
   members:
   - polannach
   partOfSpeech: a
+  source: 'LSG, Wisteria: polannach'
 02975210-a:
   definition:
   - confidence: 0.0
@@ -1176,6 +1317,7 @@
   members:
   - Úcránach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Úcránach'
 02976327-a:
   definition:
   - confidence: 0.0
@@ -1184,6 +1326,7 @@
   members:
   - síneach
   partOfSpeech: a
+  source: 'LSG, Wisteria: síneach'
 02976588-a:
   definition:
   - confidence: 0.0
@@ -1193,6 +1336,7 @@
   members:
   - Seapánach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Seapánach'
 02979870-a:
   definition:
   - confidence: 0.0
@@ -1201,6 +1345,7 @@
   members:
   - eorpach
   partOfSpeech: a
+  source: 'LSG, Wisteria: eorpach'
 02983739-a:
   definition:
   - confidence: 0.0
@@ -1209,6 +1354,7 @@
   members:
   - Indinéiseach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Indinéiseach'
 02984470-a:
   definition:
   - confidence: 0.0
@@ -1217,6 +1363,7 @@
   members:
   - Iosraelach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Iosraelach'
 02986160-a:
   definition:
   - confidence: 0.0
@@ -1225,6 +1372,7 @@
   members:
   - palaistíneach
   partOfSpeech: a
+  source: 'LSG, Wisteria: palaistíneach'
 02987083-a:
   definition:
   - confidence: 0.0
@@ -1233,6 +1381,7 @@
   members:
   - diagnóiseach
   partOfSpeech: a
+  source: 'LSG, Wisteria: diagnóiseach'
 02990830-a:
   definition:
   - confidence: 0.0
@@ -1241,6 +1390,7 @@
   members:
   - fithiseach
   partOfSpeech: a
+  source: 'LSG, Wisteria: fithiseach'
 02994161-a:
   definition:
   - den coirtéis nó a bhaineann leis
@@ -1248,6 +1398,7 @@
   members:
   - coirtéiseach
   partOfSpeech: a
+  source: 'Horizon: coirtéiseach'
 02996213-a:
   definition:
   - confidence: 0.0
@@ -1256,6 +1407,7 @@
   members:
   - corparáideach
   partOfSpeech: a
+  source: 'LSG, Wisteria: corparáideach'
 02999528-a:
   definition:
   - de chuid nó a bhaineann le náisiún nó tíre
@@ -1265,6 +1417,7 @@
   members:
   - náisiúnach
   partOfSpeech: a
+  source: 'Horizon, Wisteria: náisiúnach'
 03002422-a:
   definition:
   - confidence: 0.0
@@ -1273,6 +1426,7 @@
   members:
   - comparáideach
   partOfSpeech: a
+  source: 'LSG, Wisteria: comparáideach'
 03005210-a:
   definition:
   - confidence: 0.0
@@ -1281,6 +1435,7 @@
   members:
   - daonnúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: daonnúil'
 03007144-a:
   definition:
   - confidence: 0.0
@@ -1289,6 +1444,7 @@
   members:
   - méadrach
   partOfSpeech: a
+  source: 'LSG, Wisteria: méadrach'
 03009554-a:
   definition:
   - confidence: 0.0
@@ -1297,6 +1453,7 @@
   members:
   - ráithiúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: ráithiúil'
 03014852-a:
   definition:
   - de Shasana nó a chultúr nó a mhuintir nó a bhaineann le nó saintréith de chuid
@@ -1307,6 +1464,7 @@
   members:
   - Sasanach
   partOfSpeech: a
+  source: 'Horizon, LSG: Sasanach'
 03015252-a:
   definition:
   - confidence: 0.0
@@ -1315,6 +1473,7 @@
   members:
   - Éireannach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Éireannach'
 03025801-a:
   definition:
   - confidence: 0.0
@@ -1323,6 +1482,7 @@
   members:
   - oibríochtúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: oibríochtúil'
 03026954-a:
   definition:
   - confidence: 0.0
@@ -1331,6 +1491,7 @@
   members:
   - ceirmeach
   partOfSpeech: a
+  source: 'LSG, Wisteria: ceirmeach'
 03027318-a:
   definition:
   - confidence: 0.0
@@ -1339,6 +1500,7 @@
   members:
   - Heilléanach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Heilléanach'
 03028672-a:
   definition:
   - confidence: 0.0
@@ -1347,6 +1509,7 @@
   members:
   - Aeigéach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Aeigéach'
 03029625-a:
   definition:
   - confidence: 0.0
@@ -1355,6 +1518,7 @@
   members:
   - topagrafach
   partOfSpeech: a
+  source: 'LSG, Wisteria: topagrafach'
 03033057-a:
   definition:
   - confidence: 0.0
@@ -1364,6 +1528,7 @@
   - geografach
   - tíreolaíoch
   partOfSpeech: a
+  source: 'LSG, Wisteria: geografach, tíreolaíoch'
 03033691-a:
   definition:
   - confidence: 0.0
@@ -1372,6 +1537,7 @@
   members:
   - briotanach
   partOfSpeech: a
+  source: 'LSG, Wisteria: briotanach'
 03034107-a:
   definition:
   - confidence: 0.0
@@ -1380,6 +1546,7 @@
   members:
   - buiséadach
   partOfSpeech: a
+  source: 'LSG, Wisteria: buiséadach'
 03035366-a:
   definition:
   - confidence: 0.0
@@ -1388,6 +1555,7 @@
   members:
   - Turcach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Turcach'
 03051421-a:
   definition:
   - confidence: 0.0
@@ -1396,6 +1564,7 @@
   members:
   - aicéiteach
   partOfSpeech: a
+  source: 'LSG, Wisteria: aicéiteach'
 03056383-a:
   definition:
   - confidence: 0.0
@@ -1404,6 +1573,7 @@
   members:
   - uimhríochtúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: uimhríochtúil'
 03059944-a:
   definition:
   - de nó a bhaineann le nó comhdhéanta de dhá théarma
@@ -1413,6 +1583,7 @@
   members:
   - déthéarmach
   partOfSpeech: a
+  source: 'Horizon, LSG: déthéarmach'
 03060085-a:
   definition:
   - confidence: 0.0
@@ -1421,6 +1592,7 @@
   members:
   - beathaisnéiseach
   partOfSpeech: a
+  source: 'LSG, Wisteria: beathaisnéiseach'
 03060250-a:
   definition:
   - confidence: 0.0
@@ -1429,6 +1601,7 @@
   members:
   - biotúmanach
   partOfSpeech: a
+  source: 'LSG, Wisteria: biotúmanach'
 03062712-a:
   definition:
   - confidence: 0.0
@@ -1437,6 +1610,7 @@
   members:
   - bulgárach
   partOfSpeech: a
+  source: 'LSG, Wisteria: bulgárach'
 03066383-a:
   definition:
   - confidence: 0.0
@@ -1445,6 +1619,7 @@
   members:
   - citreach
   partOfSpeech: a
+  source: 'LSG, Wisteria: citreach'
 03067709-a:
   definition:
   - confidence: 0.0
@@ -1453,6 +1628,7 @@
   members:
   - consalach
   partOfSpeech: a
+  source: 'LSG, Wisteria: consalach'
 03072655-a:
   definition:
   - confidence: 0.0
@@ -1462,6 +1638,7 @@
   members:
   - idirdhisciplíneach
   partOfSpeech: a
+  source: 'LSG, Wisteria: idirdhisciplíneach'
 03084394-a:
   definition:
   - confidence: 0.0
@@ -1470,6 +1647,7 @@
   members:
   - hoiméapatach
   partOfSpeech: a
+  source: 'LSG, Wisteria: hoiméapatach'
 03085316-a:
   definition:
   - confidence: 0.0
@@ -1478,6 +1656,7 @@
   members:
   - hiodrálach
   partOfSpeech: a
+  source: 'LSG, Wisteria: hiodrálach'
 03086898-a:
   definition:
   - confidence: 0.0
@@ -1486,6 +1665,7 @@
   members:
   - Iarácach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Iarácach'
 03088663-a:
   definition:
   - confidence: 0.0
@@ -1494,6 +1674,7 @@
   members:
   - Iordánach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Iordánach'
 03090260-a:
   definition:
   - confidence: 0.0
@@ -1502,6 +1683,7 @@
   members:
   - coirdíneach
   partOfSpeech: a
+  source: 'LSG, Wisteria: coirdíneach'
 03095270-a:
   definition:
   - confidence: 0.0
@@ -1510,6 +1692,7 @@
   members:
   - máltach
   partOfSpeech: a
+  source: 'LSG, Wisteria: máltach'
 03098402-a:
   definition:
   - confidence: 0.0
@@ -1518,6 +1701,7 @@
   members:
   - mianrach
   partOfSpeech: a
+  source: 'LSG, Wisteria: mianrach'
 03103454-a:
   definition:
   - confidence: 0.0
@@ -1527,6 +1711,7 @@
   - nítreach
   - nítriúil
   partOfSpeech: a
+  source: 'LSG, Wisteria: nítreach, nítriúil'
 03124047-a:
   definition:
   - confidence: 0.0
@@ -1535,6 +1720,7 @@
   members:
   - rothlach
   partOfSpeech: a
+  source: 'LSG, Wisteria: rothlach'
 03133062-a:
   definition:
   - confidence: 0.0
@@ -1543,6 +1729,7 @@
   members:
   - sulfarach
   partOfSpeech: a
+  source: 'LSG, Wisteria: sulfarach'
 03138698-a:
   definition:
   - confidence: 0.0
@@ -1551,3 +1738,4 @@
   members:
   - Túinéiseach
   partOfSpeech: a
+  source: 'LSG, Wisteria: Túinéiseach'

@@ -9,6 +9,7 @@
   - áitigh
   - téigh in iomaíocht
   partOfSpeech: v
+  source: 'Horizon: áitigh, téigh in iomaíocht'
 01075360-v:
   definition:
   - páirt a ghlacadh i gcluichí nó spórt
@@ -20,6 +21,7 @@
   members:
   - imir
   partOfSpeech: v
+  source: 'Horizon, LSG: imir'
 01081176-v:
   definition:
   - cuir i gcoinne, ar bhealach naimhdeach nó i gcomórtas
@@ -31,6 +33,7 @@
   members:
   - tabhair aghaidh ar
   partOfSpeech: v
+  source: 'Horizon, LSG: tabhair aghaidh ar'
 01084999-v:
   definition:
   - bheith ina rannpháirtí; bheith páirteach i
@@ -43,6 +46,7 @@
   - téigh i
   - páirt a ghlacadh i
   partOfSpeech: v
+  source: 'Horizon: téigh i, páirt a ghlacadh i'
 01092746-v:
   definition:
   - bheith i mbun babhta; lean le babhta
@@ -56,6 +60,7 @@
   - bheith ag streachailt
   - troid
   partOfSpeech: v
+  source: 'Horizon: maígh, bheith ag streachailt; Horizon, LSG, Wisteria: troid'
 01093838-v:
   definition:
   - troid in aghaidh nó cuir in éadan go láidir
@@ -72,6 +77,8 @@
   - troid síos
   - comhraic
   partOfSpeech: v
+  source: 'Horizon: troid in aghaidh, cosain, troid ar ais, troid síos; Horizon, LSG: troid;
+    LSG, Wisteria: comhraic'
 01094777-v:
   definition:
   - confidence: 0.0
@@ -82,6 +89,7 @@
   members:
   - comhraic
   partOfSpeech: v
+  source: 'LSG, Wisteria: comhraic'
 01097629-v:
   definition:
   - déan dualgas nó bí ina airí nó ina hairí, fóin i bhfeidhm ar leith
@@ -93,6 +101,7 @@
   members:
   - bí
   partOfSpeech: v
+  source: 'Horizon, Wisteria: bí'
 01102003-v:
   definition:
   - confidence: 0.0
@@ -103,6 +112,7 @@
   members:
   - caill
   partOfSpeech: v
+  source: 'LSG, Wisteria: caill'
 01102556-v:
   definition:
   - a bheith i do bhuaiteoir i gcomórtas; a bheith buacach
@@ -114,6 +124,7 @@
   members:
   - buaigh
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: buaigh'
 01110559-v:
   definition:
   - buaigh thar
@@ -127,6 +138,7 @@
   - cloígh
   - an bua a fháil ar
   partOfSpeech: v
+  source: 'Horizon: an ceann is fearr a fháil ar, an bua a fháil ar; Horizon, LSG: cloígh'
 01111038-v:
   definition:
   - confidence: 0.0
@@ -137,6 +149,7 @@
   members:
   - sáraigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: sáraigh'
 01118003-v:
   definition:
   - confidence: 0.0
@@ -147,6 +160,7 @@
   members:
   - géill
   partOfSpeech: v
+  source: 'LSG, Wisteria: géill'
 01121587-v:
   definition:
   - confidence: 0.0
@@ -157,6 +171,7 @@
   members:
   - ionsaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: ionsaigh'
 01122487-v:
   definition:
   - confidence: 0.0
@@ -167,6 +182,7 @@
   members:
   - ionsaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: ionsaigh'
 01130619-v:
   definition:
   - sciath ó chontúirt, gortú, scrios nó damáiste
@@ -178,6 +194,7 @@
   members:
   - cosain
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: cosain'
 01137207-v:
   definition:
   - confidence: 0.0
@@ -188,6 +205,7 @@
   members:
   - lámhach
   partOfSpeech: v
+  source: 'LSG, Wisteria: lámhach'
 01138209-v:
   definition:
   - tús ag scaoileadh airm
@@ -198,6 +216,7 @@
   - scaoil
   - tosaigh ag scaoileadh
   partOfSpeech: v
+  source: 'Horizon: scaoil, tosaigh ag scaoileadh'
 01140528-v:
   definition:
   - confidence: 0.0
@@ -209,6 +228,7 @@
   - coimircigh
   - cosain
   partOfSpeech: v
+  source: 'LSG, Wisteria: coimircigh, cosain'
 01143220-v:
   definition:
   - confidence: 0.0
@@ -219,3 +239,4 @@
   members:
   - iasc
   partOfSpeech: v
+  source: 'LSG, Wisteria: iasc'

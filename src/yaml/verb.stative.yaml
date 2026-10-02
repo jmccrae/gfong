@@ -8,6 +8,7 @@
   - bí
   - bí ann
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: bí; Horizon: bí ann'
 02614382-v:
   definition:
   - tús a bheith le rud, de réir brí ama, spáis nó meastóireachta
@@ -19,6 +20,7 @@
   members:
   - tosaigh
   partOfSpeech: v
+  source: 'Horizon, Wisteria: tosaigh'
 02615799-v:
   definition:
   - deireadh a bheith le rud, de réir brí ama, spáis nó cainníochta; de réir brí spáis
@@ -33,6 +35,7 @@
   - tar chun deiridh
   - stad
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: críochnaigh; Horizon, LSG: tar chun deiridh, stad'
 02617408-v:
   definition:
   - bheith i riocht sonraithe
@@ -42,6 +45,7 @@
   members:
   - seasamh
   partOfSpeech: v
+  source: 'Horizon: seasamh'
 02617665-v:
   definition:
   - confidence: 0.0
@@ -53,6 +57,7 @@
   - sainigh
   - sonraigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: sainigh, sonraigh'
 02618797-v:
   definition:
   - a bheith láithreach ag (cruinnithe, seirbhísí eaglasta, ollscoil), srl.
@@ -67,6 +72,7 @@
   - gabh go dtí
   - freastail
   partOfSpeech: v
+  source: 'Horizon: freastal ar, téigh go dtí, gabh go dtí; LSG, Wisteria: freastail'
 02619707-v:
   definition:
   - confidence: 0.0
@@ -77,6 +83,7 @@
   members:
   - caill
   partOfSpeech: v
+  source: 'LSG, Wisteria: caill'
 02620422-v:
   definition:
   - cineál saoil áirithe a chaitheamh, slí beatha a choimeád
@@ -89,6 +96,7 @@
   - bí
   - mair
   partOfSpeech: v
+  source: 'Horizon: bí; LSG, Wisteria: mair'
 02622766-v:
   definition:
   - tacaigh leat féin
@@ -100,6 +108,7 @@
   members:
   - mair
   partOfSpeech: v
+  source: 'Horizon, LSG: mair'
 02623620-v:
   definition:
   - téigh chun cinn nó ag déanamh chun cinn
@@ -112,6 +121,7 @@
   - déan
   - éirigh le
   partOfSpeech: v
+  source: 'Horizon, Wisteria: déan; Horizon, LSG: éirigh le'
 02624202-v:
   definition:
   - leanúint ar aghaidh a mhaireachtáil agus bás a sheachaint
@@ -129,6 +139,8 @@
   - tar slán
   - bí beo
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: mair; Horizon: téigh, coinnigh, fulaing, tar i dtír,
+    bí beo; Horizon, LSG: tar slán'
 02626667-v:
   definition:
   - a bheith ina chuid lárnach de rud éigin
@@ -143,6 +155,7 @@
   - bí
   - ionadaigh
   partOfSpeech: v
+  source: 'Horizon: áirigh, cuimsigh, ionadaigh; Horizon, Wisteria: bí'
 02627475-v:
   definition:
   - cum nó léirigh
@@ -156,6 +169,7 @@
   - cruthaigh
   - bunaigh
   partOfSpeech: v
+  source: 'Horizon: déan, cruthaigh; Horizon, Wisteria: bunaigh'
 02629987-v:
   definition:
   - forbair ina aonán sainiúil
@@ -171,6 +185,7 @@
   - teacht i gcruth
   - foirmigh
   partOfSpeech: v
+  source: 'Horizon: léim, déan, teacht chun cinn, teacht i gcruth; LSG, Wisteria: foirmigh'
 02630344-v:
   definition:
   - tar ann; cuma nó cruth ruda a ghlacadh
@@ -187,6 +202,8 @@
   - tar
   - tar ar an bhfód
   partOfSpeech: v
+  source: 'Horizon: fás, forbair, tar chun cinn, tar ar an bhfód; Horizon, Wisteria: éirigh;
+    Horizon, LSG, Wisteria: tar'
 02631420-v:
   definition:
   - a bheith ar an táirge nó ar an toradh
@@ -199,6 +216,7 @@
   - lean
   - tar
   partOfSpeech: v
+  source: 'Horizon, Wisteria: lean, tar'
 02632685-v:
   definition:
   - ag athrú nó ag forbairt
@@ -213,6 +231,7 @@
   - iompaigh
   - athraigh
   partOfSpeech: v
+  source: 'Horizon: déan de, éirigh; Horizon, LSG, Wisteria: iompaigh; Horizon, LSG: athraigh'
 02634015-v:
   definition:
   - iarr de réir mar atá rud éigin úsáideach, cóir, nó cuí
@@ -229,6 +248,8 @@
   - iarr
   - gair
   partOfSpeech: v
+  source: 'Horizon: gá, cuimsigh, gair; Horizon, LSG, Wisteria: teastaigh, éiligh; Horizon,
+    LSG: iarr'
 02635616-v:
   definition:
   - cuir san áireamh nó coinnigh; a bheith ann mar chomhpháirt
@@ -243,6 +264,7 @@
   - cuir san áireamh
   - cuimsigh
   partOfSpeech: v
+  source: 'Horizon: glac isteach, tabhair isteach, cuir san áireamh; LSG, Wisteria: cuimsigh'
 02635874-v:
   definition:
   - confidence: 0.0
@@ -254,6 +276,7 @@
   members:
   - cuimsigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: cuimsigh'
 02636270-v:
   definition:
   - rud éigin a bheith ann mar thréith
@@ -266,6 +289,7 @@
   - ag
   - sa
   partOfSpeech: v
+  source: 'Horizon: ag, sa'
 02638248-v:
   definition:
   - mar thréith, eolas nó scil ag
@@ -277,6 +301,7 @@
   members:
   - seilbh
   partOfSpeech: v
+  source: 'Horizon: seilbh'
 02638434-v:
   definition:
   - bheith gan
@@ -286,6 +311,7 @@
   members:
   - easpa
   partOfSpeech: v
+  source: 'Horizon: easpa'
 02639021-v:
   definition:
   - a bheith ann mar chuid, a bheith déanta de
@@ -300,6 +326,8 @@
   - cuimsigh
   - folaigh
   partOfSpeech: v
+  source: 'Horizon: bí san áireamh; Horizon, Wisteria: áirigh; Horizon, LSG, Wisteria: cuimsigh;
+    LSG, Wisteria: folaigh'
 02639962-v:
   definition:
   - a bheith léirithe nó a bheith aimsithe a bheith
@@ -314,6 +342,7 @@
   - tar ann
   - bí ann
   partOfSpeech: v
+  source: 'Horizon, Wisteria: cruthaigh; Horizon: tarlaigh, tar ann, bí ann'
 02640346-v:
   definition:
   - tabhair chun críche (ar bhealach, staid, srl. sonraithe); críochnaigh
@@ -327,6 +356,7 @@
   - mar gheall ar
   - lean
   partOfSpeech: v
+  source: 'Horizon: de bharr, mar gheall ar; LSG, Wisteria: lean'
 02640648-v:
   definition:
   - bheith mar thoradh ar
@@ -337,6 +367,7 @@
   - méid
   - eascair as
   partOfSpeech: v
+  source: 'Horizon: méid, eascair as'
 02641114-v:
   definition:
   - bheith mar chúis nó míniú
@@ -348,6 +379,7 @@
   members:
   - bheith ina chúis le
   partOfSpeech: v
+  source: 'Horizon: bheith ina chúis le'
 02641270-v:
   definition:
   - a bheith ann mar thoradh loighciúil
@@ -361,6 +393,7 @@
   - bí i gceist le
   - bí ag baint le
   partOfSpeech: v
+  source: 'Horizon, Wisteria: ciallaigh; Horizon: bí i gceist le, bí ag baint le'
 02641740-v:
   definition:
   - tarlaigh mar thoradh
@@ -372,6 +405,7 @@
   members:
   - fág
   partOfSpeech: v
+  source: 'Horizon: fág'
 02642040-v:
   definition:
   - aire a thabhairt do nó bheith de thoradh ar
@@ -383,6 +417,7 @@
   members:
   - treoraigh
   partOfSpeech: v
+  source: 'Horizon: treoraigh'
 02643286-v:
   definition:
   - cónaigh
@@ -395,6 +430,7 @@
   - fan
   - mair
   partOfSpeech: v
+  source: 'Horizon, Wisteria: fan; Horizon: mair'
 02643676-v:
   definition:
   - fágtar, daoine, ceisteanna, fadhbanna, torthaí, fianaise, etc.
@@ -406,6 +442,7 @@
   members:
   - fan
   partOfSpeech: v
+  source: 'Horizon, Wisteria: fan'
 02644022-v:
   definition:
   - fan in áit amháin nó a bheith ag súil le rud
@@ -418,6 +455,7 @@
   members:
   - fan
   partOfSpeech: v
+  source: 'Horizon, Wisteria: fan'
 02647119-v:
   definition:
   - bris isteach ar ghníomhaíocht go sealadach roimh leanúint ar aghaidh
@@ -430,6 +468,7 @@
   - stop
   - bheith ag braiteoireacht
   partOfSpeech: v
+  source: 'Horizon: stop, bheith ag braiteoireacht'
 02647547-v:
   definition:
   - fan roimh gníomhú
@@ -443,6 +482,7 @@
   - coinnigh siar
   - fan
   partOfSpeech: v
+  source: 'Horizon: coinnigh siar; Horizon, Wisteria: fan'
 02651091-v:
   definition:
   - suimiú i líon nó i gcainníocht
@@ -458,6 +498,7 @@
   - suimigh
   - méid
   partOfSpeech: v
+  source: 'Horizon: iomlán, teacht, uimhrigh, suimigh, méid'
 02651923-v:
   definition:
   - meáchan a bheith ag,tábhacht a bheith ag, meáchan a iompar
@@ -469,6 +510,7 @@
   members:
   - bheith tábhachtach
   partOfSpeech: v
+  source: 'Horizon: bheith tábhachtach'
 02652462-v:
   definition:
   - bheith fiúntach nó tuillte
@@ -480,6 +522,7 @@
   members:
   - tuill
   partOfSpeech: v
+  source: 'Horizon, LSG: tuill'
 02654741-v:
   definition:
   - confidence: 0.0
@@ -490,6 +533,7 @@
   members:
   - áitigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: áitigh'
 02655932-v:
   definition:
   - a bheith i d'áitritheoir de nó a bheith i do chónaí i
@@ -506,6 +550,8 @@
   - bí i do chónaí
   - mair i
   partOfSpeech: v
+  source: 'Horizon: lonnaigh i, cuir fút i, áitrigh i, mair i; Horizon, LSG, Wisteria: cónaigh;
+    Horizon, LSG: bí i do chónaí'
 02656647-v:
   definition:
   - confidence: 0.0
@@ -516,6 +562,7 @@
   members:
   - cónaigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: cónaigh'
 02659476-v:
   definition:
   - ceap i
@@ -530,6 +577,7 @@
   - luí
   - comhdhéanamh
   partOfSpeech: v
+  source: 'Horizon: luí isteach, mair, luí, comhdhéanamh'
 02661230-v:
   definition:
   - a bheith lonnaithe i suíomh nó áit áirithe; a bheith in áit éigin
@@ -541,6 +589,7 @@
   members:
   - bí
   partOfSpeech: v
+  source: 'Horizon, Wisteria: bí'
 02663315-v:
   definition:
   - bheith comhoiriúnach, comhchosúil nó comhsheasmhach, bheith ina saintréithe ag
@@ -562,6 +611,8 @@
   - comhfhreagair
   - freagair
   partOfSpeech: v
+  source: 'Horizon, Wisteria: oir; Horizon: seiceáil, gibe, scóir, aontú, comhfhreagas,
+    magadh; Horizon, LSG: meaitseáil; LSG, Wisteria: comhfhreagair, freagair'
 02667330-v:
   definition:
   - bheith ar aon athrú le, bheith as líne de
@@ -573,6 +624,7 @@
   - imigh
   - claon
   partOfSpeech: v
+  source: 'Horizon: athraigh; Horizon, Wisteria: imigh; Horizon, LSG, Wisteria: claon'
 02670846-v:
   definition:
   - a bheith comhionann nó mar an gcéanna
@@ -584,6 +636,7 @@
   members:
   - is ionann
   partOfSpeech: v
+  source: 'Horizon: is ionann'
 02671694-v:
   definition:
   - cosúlacht fhisiceach a fháil le
@@ -595,6 +648,7 @@
   members:
   - bí cosúil le
   partOfSpeech: v
+  source: 'Horizon: bí cosúil le'
 02674870-v:
   definition:
   - confidence: 0.0
@@ -605,6 +659,7 @@
   members:
   - sáraigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: sáraigh'
 02675266-v:
   definition:
   - bheith níos mó i raon feidhme nó méid ná caighdeán éigin
@@ -616,6 +671,7 @@
   members:
   - sáraigh
   partOfSpeech: v
+  source: 'Horizon, Wisteria: sáraigh'
 02676187-v:
   definition:
   - cur le cúis nó neartaigh éigin
@@ -627,6 +683,7 @@
   members:
   - seirbheáil
   partOfSpeech: v
+  source: 'Horizon: seirbheáil'
 02676679-v:
   definition:
   - feidhm nó ról a bheith le
@@ -640,6 +697,7 @@
   - feidhmigh
   - comhlíon
   partOfSpeech: v
+  source: 'Horizon: freastail ar; Horizon, Wisteria: feidhmigh; LSG, Wisteria: comhlíon'
 02677402-v:
   definition:
   - feidhmigh mar nó gníomhaigh mar
@@ -651,6 +709,7 @@
   members:
   - feidhmigh
   partOfSpeech: v
+  source: 'Horizon: feidhmigh'
 02677669-v:
   definition:
   - confidence: 0.0
@@ -661,6 +720,7 @@
   members:
   - comhlíon
   partOfSpeech: v
+  source: 'LSG, Wisteria: comhlíon'
 02681865-v:
   definition:
   - a bheith ábhartha i dtaobh
@@ -674,6 +734,7 @@
   - bí bainteach le
   - bí faoi
   partOfSpeech: v
+  source: 'Horizon: bain le, déan tagairt do, trácht ar, bí bainteach le, bí faoi'
 02682306-v:
   definition:
   - dírigh ar
@@ -688,6 +749,7 @@
   - rothlaigh faoi
   - dírigh ar
   partOfSpeech: v
+  source: 'Horizon: dírigh, rothlaigh thart, rothlaigh faoi, dírigh ar'
 02682599-v:
   definition:
   - a bheith ábhartha nó ábhartha nó infheidhme
@@ -703,6 +765,7 @@
   - bain
   - feidhmigh
   partOfSpeech: v
+  source: 'Horizon: sealbhaigh, dul chun, iarratas a dhéanamh; LSG, Wisteria: bain, feidhmigh'
 02682907-v:
   definition:
   - a bheith nasctha go mion agus go minic go hionchoiritheach
@@ -716,6 +779,7 @@
   - téigh i gcion ar
   - bain
   partOfSpeech: v
+  source: 'Horizon: téigh i bhfeidhm ar, téigh i gcion ar; Horizon, Wisteria: bain'
 02684248-v:
   definition:
   - bheith ar intinn
@@ -729,6 +793,7 @@
   - imní a chur ar
   - meall
   partOfSpeech: v
+  source: 'Horizon: áitigh, imní a chur ar, meall'
 02684822-v:
   definition:
   - confidence: 0.0
@@ -739,6 +804,7 @@
   members:
   - cáiligh
   partOfSpeech: v
+  source: 'LSG, Wisteria: cáiligh'
 02685709-v:
   definition:
   - a choinneáil nó a chaomhnú i staid neamhathraithe; a chur faoi deara a bheith
@@ -755,6 +821,8 @@
   - cloígh le
   - coinnigh ar
   partOfSpeech: v
+  source: 'Horizon: coinnigh greim ar, cloígh le, coinnigh ar; Horizon, Wisteria: caomhnaigh;
+    Horizon, LSG, Wisteria: lean'
 02686624-v:
   definition:
   - deireadh a chur le staid nó gníomhaíocht
@@ -777,6 +845,9 @@
   - scaoil le
   - scoir
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: stop, stad; Horizon, LSG: éirigh as, scoir de, leag as;
+    Horizon: coisc, bac, tabhair isteach, géill, tabhair suas, scaoil le; LSG, Wisteria:
+    scoir'
 02687605-v:
   definition:
   - a chur faoi deara staid, suíomh nó gníomh áirithe a leanúint
@@ -789,6 +860,7 @@
   - coinnigh
   - coimeád
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: coinnigh, coimeád'
 02690747-v:
   definition:
   - staid, dóigh nó gníomhaíocht ar leith a leanúint
@@ -803,6 +875,7 @@
   - coimeád
   - fan
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: lean, coinnigh, coimeád; LSG, Wisteria: fan'
 02691775-v:
   definition:
   - a tharlú thar fhad, spás, am nó scóip; a tharlú idir dhá áit taobh thall d'áit
@@ -819,6 +892,8 @@
   - sín
   - rith
   partOfSpeech: v
+  source: 'Horizon: cuir ar fáil, leath; Horizon, LSG, Wisteria: téigh, sín; LSG, Wisteria:
+    rith'
 02693758-v:
   definition:
   - eatramh achair, spáis nó ama a bheith i gceist
@@ -832,6 +907,7 @@
   - cuir le
   - lean ar aghaidh
   partOfSpeech: v
+  source: 'Horizon, Wisteria: clúdaigh; Horizon: cuir le, lean ar aghaidh'
 02696550-v:
   definition:
   - a bheith lonnaithe nó suite in áit éigin; lonnú ar shuíomh ar leith
@@ -843,6 +919,7 @@
   - bí suite
   - luigh
   partOfSpeech: v
+  source: 'Horizon, Wisteria: bí; Horizon: bí suite; LSG, Wisteria: luigh'
 02698724-v:
   definition:
   - bheith thart, go minic go díomhaoin nó go fánach
@@ -855,6 +932,7 @@
   - suigh
   - suigh thart
   partOfSpeech: v
+  source: 'Horizon: suigh, suigh thart'
 02702962-v:
   definition:
   - bagairt ar; contúirt do
@@ -867,6 +945,7 @@
   - bagair ar
   - cuir i mbaol
   partOfSpeech: v
+  source: 'Horizon: bagair ar; Horizon, LSG: cuir i mbaol'
 02703567-v:
   definition:
   - ionadaíocht a dhéanamh, i bhfoirm carachtair ar stáitse
@@ -881,6 +960,7 @@
   - pearsantaigh
   - bí
   partOfSpeech: v
+  source: 'Horizon: bí i do shamhail de, bí i do léiriú ar, pearsantaigh, bí'
 02705339-v:
   definition:
   - ionad a ghlacadh nó a bheith comhthreomhar nó coibhéiseach le
@@ -895,6 +975,7 @@
   - seas do
   - comhfhreagair
   partOfSpeech: v
+  source: 'Horizon, Wisteria: léirigh; Horizon: seas do, comhfhreagair'
 02706727-v:
   definition:
   - coinnigh nó beir ar; bí laistigh
@@ -907,6 +988,7 @@
   - iompair
   - coinnigh
   partOfSpeech: v
+  source: 'Horizon: iompair; Horizon, LSG, Wisteria: coinnigh'
 02707488-v:
   definition:
   - confidence: 0.0
@@ -917,6 +999,7 @@
   members:
   - coinnigh
   partOfSpeech: v
+  source: 'LSG, Wisteria: coinnigh'
 02708368-v:
   definition:
   - bheith ar phraghas
@@ -928,6 +1011,7 @@
   members:
   - cosain
   partOfSpeech: v
+  source: 'Horizon, LSG: cosain'
 02708690-v:
   definition:
   - bheith caoithiúil nó sásúil do
@@ -943,6 +1027,7 @@
   - feil
   - oir
   partOfSpeech: v
+  source: 'Horizon: freastail do, réitigh le, oir do; LSG, Wisteria: feil, oir'
 02710788-v:
   definition:
   - confidence: 0.0
@@ -953,6 +1038,7 @@
   members:
   - mair
   partOfSpeech: v
+  source: 'LSG, Wisteria: mair'
 02712676-v:
   definition:
   - confidence: 0.0
@@ -963,6 +1049,7 @@
   members:
   - seas
   partOfSpeech: v
+  source: 'LSG, Wisteria: seas'
 02714280-v:
   definition:
   - tréimhse ama a úsáid ar bhealach áirithe
@@ -974,6 +1061,7 @@
   members:
   - caith
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: caith'
 02716276-v:
   definition:
   - bí cóngarach nó teacht le chéile
@@ -985,6 +1073,7 @@
   members:
   - buail le chéile
   partOfSpeech: v
+  source: 'Horizon: buail le chéile'
 02717862-v:
   definition:
   - a bheith ag brath ar rud
@@ -998,6 +1087,7 @@
   - tit ar
   - cuir ar
   partOfSpeech: v
+  source: 'Horizon: braith ar, tit ar, cuir ar'
 02718647-v:
   definition:
   - bí níos déanaí in am
@@ -1010,6 +1100,7 @@
   - iardhátaigh
   - lean
   partOfSpeech: v
+  source: 'Horizon: iardhátaigh; Horizon, LSG, Wisteria: lean'
 02719247-v:
   definition:
   - confidence: 0.0
@@ -1020,6 +1111,7 @@
   members:
   - gob
   partOfSpeech: v
+  source: 'LSG, Wisteria: gob'
 02722040-v:
   definition:
   - bheith i láthair nó bainteach le himeacht nó eintiteas
@@ -1033,6 +1125,7 @@
   - dul le
   - teacht le
   partOfSpeech: v
+  source: 'Horizon: gabháil le, dul le, teacht le'
 02722977-v:
   definition:
   - a bheith leis féin, a bheith ar an duine
@@ -1045,6 +1138,7 @@
   - tóg
   - iompair
   partOfSpeech: v
+  source: 'Horizon: tóg, iompair'
 02724053-v:
   definition:
   - confidence: 0.0
@@ -1055,6 +1149,7 @@
   members:
   - cloígh
   partOfSpeech: v
+  source: 'LSG, Wisteria: cloígh'
 02724184-v:
   definition:
   - bheith i bpáirt ag
@@ -1066,6 +1161,7 @@
   members:
   - roinn
   partOfSpeech: v
+  source: 'Horizon, Wisteria: roinn'
 02725274-v:
   definition:
   - claonadh a bheith ag duine a dhéanamh nó a bheith
@@ -1080,6 +1176,7 @@
   - tabhair ar
   - claon
   partOfSpeech: v
+  source: 'Horizon: claonadh a bheith ag, nós a bheith ag, tabhair ar; LSG, Wisteria: claon'
 02725805-v:
   definition:
   - bheith ina chuid nó fochuid
@@ -1091,6 +1188,7 @@
   members:
   - bain le
   partOfSpeech: v
+  source: 'Horizon: bain le'
 02726024-v:
   definition:
   - tar mar iarmhairt loighciúil; lean go loighciúil
@@ -1102,6 +1200,7 @@
   members:
   - lean
   partOfSpeech: v
+  source: 'Horizon, Wisteria: lean'
 02727313-v:
   definition:
   - féidearthacht a dhéanamh nó deis a sholáthar do; cead a bheith insroichte nó a
@@ -1117,6 +1216,7 @@
   - ceadaigh
   - ceadaigh do
   partOfSpeech: v
+  source: 'Horizon: tabhair, ceadaigh do; Horizon, Wisteria: fág, ceadaigh'
 02731589-v:
   definition:
   - confidence: 0.0
@@ -1127,6 +1227,7 @@
   members:
   - staon
   partOfSpeech: v
+  source: 'LSG, Wisteria: staon'
 02732914-v:
   definition:
   - athraigh nó a bheith difriúil laistigh de theorainneacha
@@ -1139,6 +1240,7 @@
   - bonnfhad
   - raon
   partOfSpeech: v
+  source: 'Horizon: bonnfhad, raon'
 02733337-v:
   definition:
   - a leanúint in áit, suíomh nó i gcás
@@ -1153,6 +1255,7 @@
   - lean
   - fan in áit
   partOfSpeech: v
+  source: 'Horizon, LSG, Wisteria: fan; Horizon: lean, fan in áit'
 02735289-v:
   definition:
   - feidhmigh nó bí ionas go mbeidh sé i stát sonraithe
@@ -1164,6 +1267,7 @@
   members:
   - fág
   partOfSpeech: v
+  source: 'Horizon, Wisteria: fág'
 02736688-v:
   definition:
   - foclaíocht nó foirm áirithe a bheith acu nó a bheith iontu
@@ -1176,6 +1280,7 @@
   - léigh
   - abair
   partOfSpeech: v
+  source: 'Horizon, Wisteria: léigh; Horizon: abair'
 02740363-v:
   definition:
   - áitigh áit nó suíomh, go meafarach freisin
@@ -1187,6 +1292,7 @@
   members:
   - seasamh
   partOfSpeech: v
+  source: 'Horizon: seasamh'
 02746620-v:
   definition:
   - dul i ngleic le
@@ -1199,3 +1305,4 @@
   - ag
   - roimh
   partOfSpeech: v
+  source: 'Horizon: ag, roimh'
