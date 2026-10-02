@@ -1,0 +1,1034 @@
+02204104-v:
+  definition:
+  - seilbh ruda nithiúil nó theibí a aistriú do dhuine
+  example:
+  - Thug mé mo chuid airgid di
+  hypernym:
+  - 00126072-v
+  ili: i32755
+  members:
+  - tabhair
+  partOfSpeech: v
+02206050-v:
+  definition:
+  - confidence: 0.0
+    text: furnish with an endowment
+  hypernym:
+  - 02372362-v
+  ili: i32760
+  members:
+  - maoinigh
+  partOfSpeech: v
+02207166-v:
+  definition:
+  - seilbh a choinneáil ar
+  example:
+  - An féidir liom mo sheanainmhithe stuáilte a choinneáil?
+  hypernym:
+  - 02208144-v
+  ili: i32766
+  members:
+  - coinnigh
+  - coimeád
+  partOfSpeech: v
+02208144-v:
+  definition:
+  - rud éigin a bheith agat nó a bheith i do sheilbh, de réir brí nithiúla nó teibí
+  example:
+  - Tá $1,000 sa bhanc aici.
+  ili: i32770
+  members:
+  - ag
+  partOfSpeech: v
+02209474-v:
+  definition:
+  - úinéireacht a fháil ar nó seilbh a ghlacadh
+  example:
+  - Tá trí theach aige in Florida
+  hypernym:
+  - 02208144-v
+  ili: i32775
+  members:
+  - ag
+  - bí i seilbh ag
+  - sealbhaigh
+  partOfSpeech: v
+02210054-v:
+  definition:
+  - seilbh a ghlacadh ar rud
+  example:
+  - Glacaimid le dílleachta as an Rómáin
+  hypernym:
+  - 02372362-v
+  ili: i32778
+  members:
+  - glac
+  partOfSpeech: v
+02211988-v:
+  definition:
+  - faigh trí cheannachán; faigh trí idirbheart airgeadais a dhéanamh
+  example:
+  - Cheannaigh an clann carr nua
+  hypernym:
+  - 02215637-v
+  ili: i32788
+  members:
+  - ceannaigh
+  partOfSpeech: v
+02214901-v:
+  definition:
+  - rud éigin a fháil; seilbh a fháil ar
+  example:
+  - faigh íocaíocht
+  hypernym:
+  - 02215637-v
+  ili: i32799
+  members:
+  - faigh
+  - glac
+  partOfSpeech: v
+02215637-v:
+  definition:
+  - seilbh a fháil ar rud nithiúil nó teibí
+  example:
+  - Fuair sí go leor pictiúr óna huncail
+  hypernym:
+  - 02372362-v
+  ili: i32803
+  members:
+  - faigh
+  - aimsigh
+  - gnóthaigh
+  partOfSpeech: v
+02217607-v:
+  definition:
+  - confidence: 0.0
+    text: refuse to let have
+  hypernym:
+  - 02207166-v
+  ili: i32809
+  members:
+  - diúltaigh
+  partOfSpeech: v
+02218118-v:
+  definition:
+  - rud éigin nó duine éigin a fháil chun críche ar leith
+  example:
+  - Fuair mé an gearas seo a mbeidh in úsáid mar osclóir buidéal
+  hypernym:
+  - 02215637-v
+  ili: i32811
+  members:
+  - faigh
+  - ailínigh
+  - géaraigh
+  - gréim a fháil
+  partOfSpeech: v
+02219267-v:
+  definition:
+  - confidence: 0.0
+    text: hold back or set aside, especially for future use or contingency
+  hypernym:
+  - 02217607-v
+  ili: i32815
+  members:
+  - coimeád
+  - forchoimeád
+  partOfSpeech: v
+02221492-v:
+  definition:
+  - confidence: 0.0
+    text: support through subsidies
+  hypernym:
+  - 02204104-v
+  ili: i32828
+  members:
+  - fóirdheonaigh
+  partOfSpeech: v
+02222048-v:
+  definition:
+  - confidence: 0.0
+    text: obtain or provide money for
+  hypernym:
+  - 02256551-v
+  ili: i32830
+  members:
+  - maoinigh
+  partOfSpeech: v
+02222955-v:
+  definition:
+  - confidence: 0.0
+    text: call for and obtain payment of
+  hypernym:
+  - 02210054-v
+  ili: i32835
+  members:
+  - bailigh
+  partOfSpeech: v
+02224722-v:
+  definition:
+  - urraíocht a ghlacadh ar
+  hypernym:
+  - 02204104-v
+  ili: i32844
+  members:
+  - tacaigh
+  - urraigh
+  partOfSpeech: v
+02230274-v:
+  definition:
+  - a choimeád ar bun agus a chur in áirithe le haghaidh úsáide pearsanta nó speisialta
+  example:
+  - Choinnigh sí na seanphictiúir teaghlaigh i dtarraiceán
+  hypernym:
+  - 02207166-v
+  ili: i32870
+  members:
+  - coinnigh
+  - sábháil
+  partOfSpeech: v
+02233313-v:
+  definition:
+  - confidence: 0.0
+    text: transfer one's right to
+  hypernym:
+  - 00126072-v
+  ili: i32887
+  members:
+  - sann
+  partOfSpeech: v
+02233837-v:
+  definition:
+  - confidence: 0.0
+    text: leave or give by will after one's death
+  hypernym:
+  - 02372362-v
+  ili: i32890
+  members:
+  - fág
+  partOfSpeech: v
+02235554-v:
+  definition:
+  - a chur faoi choimeád
+  example:
+  - tabhair an spúnóg dom, le do thoil
+  hypernym:
+  - 00126072-v
+  ili: i32898
+  members:
+  - tabhair
+  - sín
+  - cuir ar aghaidh
+  - cuir chuig
+  partOfSpeech: v
+02238680-v:
+  definition:
+  - confidence: 0.0
+    text: transfer a file or program to a central computer from a smaller computer
+      or a computer at a remote location
+  hypernym:
+  - 01854282-v
+  ili: i32912
+  members:
+  - uaslódáil
+  partOfSpeech: v
+02238869-v:
+  definition:
+  - confidence: 0.0
+    text: distribute according to a plan or set apart for a special purpose
+  hypernym:
+  - 02299397-v
+  ili: i32913
+  members:
+  - cionroinn
+  - dáil
+  - leithdháil
+  - leithroinn
+  partOfSpeech: v
+02239333-v:
+  definition:
+  - confidence: 0.0
+    text: allocate, distribute, or apportion anew
+  hypernym:
+  - 02238869-v
+  ili: i32914
+  members:
+  - athdháil
+  partOfSpeech: v
+02240624-v:
+  definition:
+  - eolas a léiriú nó a nochtadh
+  example:
+  - Ainm duine a thabhairt
+  hypernym:
+  - 01011267-v
+  ili: i32920
+  members:
+  - tabhair
+  partOfSpeech: v
+02240805-v:
+  definition:
+  - confidence: 0.0
+    text: deposit
+  hypernym:
+  - 02240624-v
+  ili: i32921
+  members:
+  - caith
+  partOfSpeech: v
+02240906-v:
+  definition:
+  - rud éigin a tugadh a fháil dá thoil nó dá toil féin
+  example:
+  - Ba í iníon an muilleora an t-aon chailín a ghlacfadh leis
+  hypernym:
+  - 02215637-v
+  ili: i32922
+  members:
+  - faigh
+  - tóg
+  - glac le
+  - glac
+  partOfSpeech: v
+02241406-v:
+  definition:
+  - confidence: 0.0
+    text: admit into a group or community
+  hypernym:
+  - 02240906-v
+  ili: i32923
+  members:
+  - glac
+  partOfSpeech: v
+02242120-v:
+  definition:
+  - ní glacadh leis mar fíor
+  example:
+  - Dhiúltaigh sé glacadh leis an méid a dúirt sí
+  hypernym:
+  - 00630153-v
+  ili: i32927
+  members:
+  - laghdaigh
+  - ísligh
+  - diúltaigh
+  - lig tharat
+  partOfSpeech: v
+02242867-v:
+  definition:
+  - seilbh a fháil ar
+  example:
+  - Cén chaoi a bhfuair tú an víosa?
+  hypernym:
+  - 02215637-v
+  ili: i32931
+  members:
+  - faigh
+  - tar ar
+  partOfSpeech: v
+02243552-v:
+  definition:
+  - confidence: 0.0
+    text: get by special effort
+  hypernym:
+  - 02242867-v
+  ili: i32933
+  members:
+  - faigh
+  - soláthair
+  partOfSpeech: v
+02245263-v:
+  definition:
+  - iarracht a fháil nó a bhaint amach
+  example:
+  - post a lorg
+  hypernym:
+  - 01829179-v
+  ili: i32943
+  members:
+  - iarr
+  partOfSpeech: v
+02247246-v:
+  definition:
+  - malartaigh nó seachaid ar mhaithe le hairgead nó a chomhionann
+  example:
+  - Dhíol sé a theach i mí Eanáir
+  hypernym:
+  - 02262178-v
+  ili: i32953
+  members:
+  - díol
+  partOfSpeech: v
+02252785-v:
+  definition:
+  - faigh nó faigh ar ais; athaimsigh úsáid
+  example:
+  - Fuair sí smacht uirthi féin arís
+  hypernym:
+  - 02215637-v
+  ili: i32977
+  members:
+  - gnóthaigh
+  - faigh
+  - faigh ar ais
+  - faigh arís
+  - aisghabh
+  partOfSpeech: v
+02253273-v:
+  definition:
+  - tar ar, mar a bheadh de thaisme; buail le
+  example:
+  - Tagaimid ar an smaoineamh seo i scríbhinní Plato
+  hypernym:
+  - 02026953-v
+  ili: i32979
+  members:
+  - tarlaigh
+  - aimsigh
+  - tar ar
+  - buail le
+  - cas le
+  - faigh
+  partOfSpeech: v
+02256055-v:
+  definition:
+  - confidence: 0.0
+    text: secure against future loss, damage, or liability; give security for
+  hypernym:
+  - 02459338-v
+  ili: i32993
+  members:
+  - slánaigh
+  partOfSpeech: v
+02256551-v:
+  definition:
+  - airgead a thabhairt, de ghnáth mar chúiteamh ar earraí nó seirbhísí
+  example:
+  - D'íoc mé ceithre dollar as an gceapaire seo
+  hypernym:
+  - 02204104-v
+  ili: i32996
+  members:
+  - íoc
+  partOfSpeech: v
+02260076-v:
+  definition:
+  - confidence: 0.0
+    text: allow to have
+  hypernym:
+  - 02204104-v
+  ili: i33012
+  members:
+  - deonaigh
+  - tabhair
+  partOfSpeech: v
+02260270-v:
+  definition:
+  - lig bheith
+  example:
+  - cead a cheadú
+  hypernym:
+  - 02204104-v
+  ili: i33013
+  members:
+  - ceadaigh
+  partOfSpeech: v
+02261806-v:
+  definition:
+  - confidence: 0.0
+    text: exchange or buy back for money; under threat
+  hypernym:
+  - 02262178-v
+  ili: i33022
+  members:
+  - fuascail
+  partOfSpeech: v
+02262178-v:
+  definition:
+  - confidence: 0.0
+    text: give to, and receive from, one another
+  hypernym:
+  - 00126072-v
+  ili: i33024
+  members:
+  - malartaigh
+  partOfSpeech: v
+02266695-v:
+  definition:
+  - confidence: 0.0
+    text: give, especially as an honor or reward
+  hypernym:
+  - 02238869-v
+  ili: i33042
+  members:
+  - bronn
+  partOfSpeech: v
+02267085-v:
+  definition:
+  - confidence: 0.0
+    text: give as judged due or on the basis of merit
+  hypernym:
+  - 02321848-v
+  ili: i33044
+  members:
+  - bronn
+  - deonaigh
+  - dámh
+  - tabhair
+  partOfSpeech: v
+02268154-v:
+  definition:
+  - confidence: 0.0
+    text: present
+  hypernym:
+  - 02266695-v
+  ili: i33049
+  members:
+  - bronn
+  - tabhair
+  partOfSpeech: v
+02271905-v:
+  definition:
+  - íoc
+  example:
+  - airgead a chaitheamh
+  hypernym:
+  - 02256551-v
+  ili: i33072
+  members:
+  - tit
+  - caith
+  partOfSpeech: v
+02272834-v:
+  definition:
+  - ag teastáil ar (am nó spás)
+  example:
+  - Thóg sé trí uair chun dul ag obair ar maidin
+  hypernym:
+  - 02634015-v
+  ili: i33076
+  members:
+  - tóg
+  - glac
+  partOfSpeech: v
+02275982-v:
+  definition:
+  - confidence: 0.0
+    text: make an investment
+  hypernym:
+  - 02271905-v
+  ili: i33092
+  members:
+  - infheistigh
+  partOfSpeech: v
+02278138-v:
+  definition:
+  - confidence: 0.0
+    text: take temporary possession of as a security, by legal authority
+  hypernym:
+  - 02210054-v
+  ili: i33102
+  members:
+  - coigistigh
+  - gabh
+  - urghabh
+  partOfSpeech: v
+02280210-v:
+  definition:
+  - confidence: 0.0
+    text: demand as being one's due or property; assert one's right or title to
+  hypernym:
+  - 00754770-v
+  ili: i33110
+  members:
+  - éiligh
+  partOfSpeech: v
+02284977-v:
+  definition:
+  - a choinneáil sábháilte agus a chosaint ó dhochar
+  example:
+  - Caomhnaímid na déantáin seandálaíochta seo
+  hypernym:
+  - 02208144-v
+  ili: i33135
+  members:
+  - caomhnaigh
+  - caoi a choimeád ar
+  - cloígh le
+  - coimeád
+  partOfSpeech: v
+02285938-v:
+  definition:
+  - confidence: 0.0
+    text: keep or lay aside for future use
+  hypernym:
+  - 02207166-v
+  ili: i33138
+  members:
+  - coinnigh
+  - stóráil
+  partOfSpeech: v
+02288169-v:
+  definition:
+  - rud a dhaingniú nó a choinneáil chun é a úsáid arís nó a chur i bhfeidhm
+  example:
+  - Choinnigh an tiarna talún an éarlais seasmhachta
+  hypernym:
+  - 02207166-v
+  ili: i33150
+  members:
+  - coinnigh
+  - coinnigh siar
+  - coimeád
+  - coimeád siar
+  partOfSpeech: v
+02289796-v:
+  definition:
+  - confidence: 0.0
+    text: pay back
+  hypernym:
+  - 02256551-v
+  ili: i33159
+  members:
+  - aisíoc
+  partOfSpeech: v
+02290050-v:
+  definition:
+  - confidence: 0.0
+    text: pay back for some expense incurred
+  hypernym:
+  - 02289796-v
+  ili: i33160
+  members:
+  - aisíoc
+  partOfSpeech: v
+02290474-v:
+  definition:
+  - tar ar tar éis a chuardach; suíomh ruda a bhí ar iarraidh nó caillte a aimsiú
+  example:
+  - Ar aimsigh tú do spéaclaí?
+  hypernym:
+  - 02215637-v
+  ili: i33162
+  members:
+  - aimsigh
+  - faigh ar ais
+  - faigh arís
+  partOfSpeech: v
+02291532-v:
+  definition:
+  - confidence: 0.0
+    text: find unexpectedly
+  hypernym:
+  - 02290474-v
+  ili: i33166
+  members:
+  - aimsigh
+  partOfSpeech: v
+02292634-v:
+  definition:
+  - confidence: 0.0
+    text: fail to keep or maintain (of a state)
+  hypernym:
+  - 02372362-v
+  ili: i33171
+  members:
+  - caill
+  partOfSpeech: v
+02293158-v:
+  definition:
+  - rud éigin a bhuachan de bharr iarrachtaí duine
+  example:
+  - Ghnóthaigh mé grád maith sa scrúdú Sínise
+  hypernym:
+  - 02215637-v
+  ili: i33174
+  members:
+  - gnóthaigh
+  - faigh
+  - buaigh
+  partOfSpeech: v
+02294200-v:
+  definition:
+  - tuilleamh ar idirbheart tráchtála nó gnó éigin; tuilleamh mar thuarastal nó pá
+  example:
+  - Cé mhéad a dhéanann tú in aghaidh na míosa i do phost nua?
+  hypernym:
+  - 02215637-v
+  ili: i33178
+  members:
+  - gnóthú
+  - déan
+  - tóg isteach
+  - soiléir
+  - réadaigh
+  - tuig
+  - tarraing isteach
+  - tabhair isteach
+  - tuill
+  - gnóthaigh
+  partOfSpeech: v
+02295422-v:
+  definition:
+  - leas a bhaint as
+  example:
+  - Bhain sí tairbhe as a thaithí ollmhór
+  hypernym:
+  - 02215637-v
+  ili: i33183
+  members:
+  - gnóthaigh
+  - leas a bhaint as
+  - tairbhe a bhaint as
+  - tairbhigh
+  partOfSpeech: v
+02295917-v:
+  definition:
+  - confidence: 0.0
+    text: be beneficial for
+  hypernym:
+  - 00081834-v
+  ili: i33185
+  members:
+  - tairbhigh
+  partOfSpeech: v
+02297086-v:
+  definition:
+  - faigh
+  example:
+  - taitneamh a bhaint as an ngairdín
+  hypernym:
+  - 02242867-v
+  ili: i33192
+  members:
+  - bain amach
+  partOfSpeech: v
+02297496-v:
+  definition:
+  - confidence: 0.0
+    text: appropriate (as property entrusted to one's care) fraudulently to one's
+      own use
+  hypernym:
+  - 02326737-v
+  ili: i33195
+  members:
+  - mídhílsigh
+  partOfSpeech: v
+02299397-v:
+  definition:
+  - confidence: 0.0
+    text: administer or bestow, as in small portions
+  hypernym:
+  - 02204104-v
+  ili: i33203
+  members:
+  - dáil
+  partOfSpeech: v
+02300511-v:
+  definition:
+  - confidence: 0.0
+    text: use jointly or in common
+  hypernym:
+  - 01161188-v
+  ili: i33207
+  members:
+  - comhroinn
+  partOfSpeech: v
+02300803-v:
+  definition:
+  - confidence: 0.0
+    text: combine into a common fund
+  hypernym:
+  - 02300511-v
+  ili: i33209
+  members:
+  - comhthiomsaigh
+  partOfSpeech: v
+02301114-v:
+  definition:
+  - seachaid (eolas nó scileanna)
+  example:
+  - tabhair rún do na Rúisigh
+  hypernym:
+  - 00954556-v
+  ili: i33211
+  members:
+  - tabhair
+  - fág
+  - cuir ar aghaidh
+  partOfSpeech: v
+02302103-v:
+  definition:
+  - cur i láthair lena ghlacadh nó lena dhiúltú
+  example:
+  - Thairg sí deoch fhuar dúinn go léir
+  hypernym:
+  - 02204104-v
+  ili: i33216
+  members:
+  - tairg
+  partOfSpeech: v
+02303121-v:
+  definition:
+  - confidence: 0.0
+    text: engage in the commercial promotion, sale, or distribution of
+  hypernym:
+  - 02372362-v
+  ili: i33221
+  members:
+  - margaigh
+  partOfSpeech: v
+02303593-v:
+  definition:
+  - confidence: 0.0
+    text: propose a payment
+  hypernym:
+  - 00876925-v
+  ili: i33223
+  members:
+  - tairg
+  partOfSpeech: v
+02306463-v:
+  definition:
+  - confidence: 0.0
+    text: expend, as from a fund
+  hypernym:
+  - 02256551-v
+  ili: i33239
+  members:
+  - eisíoc
+  partOfSpeech: v
+02306786-v:
+  definition:
+  - costais nó fiacha duine eile a ghlacadh mar do dhuine féin
+  example:
+  - Glacfaidh mé leis na táillí
+  hypernym:
+  - 02210054-v
+  ili: i33241
+  members:
+  - iompair
+  - glac
+  - admhaigh
+  - tóg ar láimh
+  partOfSpeech: v
+02308311-v:
+  definition:
+  - confidence: 0.0
+    text: lose (something) or lose the right to (something) by some error, offense,
+      or crime
+  hypernym:
+  - 02372362-v
+  ili: i33248
+  members:
+  - forghéill
+  partOfSpeech: v
+02309962-v:
+  definition:
+  - confidence: 0.0
+    text: get or gather together
+  hypernym:
+  - 02285938-v
+  ili: i33256
+  members:
+  - bailigh
+  partOfSpeech: v
+02311261-v:
+  definition:
+  - confidence: 0.0
+    text: collect funds for a specific purpose
+  hypernym:
+  - 02222955-v
+  ili: i33260
+  members:
+  - cruinnigh
+  - tóg
+  partOfSpeech: v
+02311442-v:
+  definition:
+  - confidence: 0.0
+    text: impose and collect
+  hypernym:
+  - 01002259-v
+  ili: i33261
+  members:
+  - forchuir
+  - gearr
+  - toibhigh
+  partOfSpeech: v
+02313721-v:
+  definition:
+  - cur le cúis éigin
+  example:
+  - Thug mé ag an oifig
+  hypernym:
+  - 02204104-v
+  ili: i33275
+  members:
+  - tabhair
+  partOfSpeech: v
+02315462-v:
+  definition:
+  - confidence: 0.0
+    text: give or bring back
+  hypernym:
+  - 02289796-v
+  ili: i33285
+  members:
+  - aisig
+  partOfSpeech: v
+02315835-v:
+  definition:
+  - confidence: 0.0
+    text: put into a bank account
+  hypernym:
+  - 02204104-v
+  ili: i33287
+  members:
+  - taisc
+  partOfSpeech: v
+02317722-v:
+  definition:
+  - confidence: 0.0
+    text: withdraw from active service
+  hypernym:
+  - 02210054-v
+  ili: i33296
+  members:
+  - díchoimisiúnaigh
+  partOfSpeech: v
+02321848-v:
+  definition:
+  - a chur faoi deara a bheith ag, de réir brí teibí nó fisicí
+  example:
+  - Thug an clár deis iontach di
+  hypernym:
+  - 00126072-v
+  ili: i33319
+  members:
+  - tabhair
+  partOfSpeech: v
+02326737-v:
+  definition:
+  - confidence: 0.0
+    text: take without the owner's consent
+  hypernym:
+  - 02372362-v
+  ili: i33345
+  members:
+  - goid
+  partOfSpeech: v
+02329474-v:
+  definition:
+  - cáilíocht a thabhairt
+  example:
+  - Cuireann sí go mór le stádas na gcuideachta
+  hypernym:
+  - 00126072-v
+  ili: i33358
+  members:
+  - tabhair le
+  - cuir le
+  - roinn
+  - bronn
+  - tabhair
+  partOfSpeech: v
+02332196-v:
+  definition:
+  - tabhair rud éigin atá úsáideach nó riachtanach do
+  example:
+  - Sholáthraíomar téitheoir leictreach sa seomra
+  hypernym:
+  - 02204104-v
+  ili: i33372
+  members:
+  - cuir ar fáil
+  - soláthair
+  - tabhair
+  - tairg
+  partOfSpeech: v
+02344167-v:
+  definition:
+  - bheith ina chúis le nó ina fhoinse
+  example:
+  - Chuir sé an-stró orm
+  hypernym:
+  - 02332196-v
+  ili: i33436
+  members:
+  - tabhair
+  - cuir
+  partOfSpeech: v
+02344409-v:
+  definition:
+  - confidence: 0.0
+    text: provide with (something) usually for a specific purpose
+  hypernym:
+  - 02332196-v
+  ili: i33437
+  members:
+  - feistigh
+  partOfSpeech: v
+02347128-v:
+  definition:
+  - confidence: 0.0
+    text: add as a supplement to what seems insufficient
+  hypernym:
+  - 00182551-v
+  ili: i33451
+  members:
+  - forlíon
+  partOfSpeech: v
+02349377-v:
+  definition:
+  - confidence: 0.0
+    text: act or give recompense in recognition of someone's behavior or actions
+  hypernym:
+  - 02372362-v
+  ili: i33463
+  members:
+  - aisíoc
+  partOfSpeech: v
+02351132-v:
+  definition:
+  - confidence: 0.0
+    text: bring in from abroad
+  hypernym:
+  - 02372362-v
+  ili: i33470
+  members:
+  - allmhairigh
+  - iompórtáil
+  partOfSpeech: v
+02351405-v:
+  definition:
+  - confidence: 0.0
+    text: sell or transfer abroad
+  hypernym:
+  - 02372362-v
+  ili: i33471
+  members:
+  - easpórtáil
+  - onnmhairigh
+  partOfSpeech: v
+02351891-v:
+  definition:
+  - roghnaigh agus lean, mar theoiricí,smaointe, polasaithe, straistéisí nó pleananna
+  example:
+  - Lean sí den ghluaiseacht fheimineach
+  hypernym:
+  - 00676526-v
+  ili: i33473
+  members:
+  - glac
+  partOfSpeech: v
+02352633-v:
+  definition:
+  - confidence: 0.0
+    text: give over to another for care or safekeeping
+  hypernym:
+  - 02235554-v
+  ili: i33476
+  members:
+  - coinsínigh
+  partOfSpeech: v

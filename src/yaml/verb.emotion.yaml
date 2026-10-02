@@ -1,0 +1,239 @@
+01763170-v:
+  definition:
+  - múscail (mothúcháin agus freagraí)
+  example:
+  - dúisigh trua
+  hypernym:
+  - 01620211-v
+  ili: i30543
+  members:
+  - múscail
+  - spreag
+  - meall
+  partOfSpeech: v
+01763987-v:
+  definition:
+  - confidence: 0.0
+    text: increase the likelihood of
+  hypernym:
+  - 01763170-v
+  ili: i30545
+  members:
+  - iarr
+  partOfSpeech: v
+01771015-v:
+  definition:
+  - bheith buartha, imníoch nó míshuaimhneas
+  example:
+  - Tá imní orm faoi mo phost
+  hypernym:
+  - 01775456-v
+  ili: i30573
+  members:
+  - bheith buartha
+  - bheith imníoch
+  partOfSpeech: v
+01771801-v:
+  definition:
+  - tionchar mothúchánach nó cognaíocha a dul i bhfeidhm ar
+  example:
+  - Chuaigh an páiste seo i bhfeidhm orm mar thar a bheith aibí
+  hypernym:
+  - 00137133-v
+  ili: i30577
+  members:
+  - goill ar
+  - corraigh
+  - téigh i bhfeidhm ar
+  - téigh i gcion ar
+  partOfSpeech: v
+01775456-v:
+  definition:
+  - mothú a bhrath nó meon aigne ar leith a bheith ag
+  example:
+  - Tháinig olc uirthi
+  hypernym:
+  - 02110960-v
+  ili: i30595
+  members:
+  - mothaigh
+  - braith
+  partOfSpeech: v
+01778057-v:
+  definition:
+  - ní maith le go dian, mothaigh fuath nó col le
+  example:
+  - Is fuath liom bia Meicsiceach
+  hypernym:
+  - 01775456-v
+  ili: i30608
+  members:
+  - gráinigh
+  partOfSpeech: v
+01779085-v:
+  definition:
+  - bíodh gean nó grá mór agat ar
+  example:
+  - Is breá liom bia na Fraince
+  hypernym:
+  - 01775456-v
+  ili: i30611
+  members:
+  - grá
+  partOfSpeech: v
+01781131-v:
+  definition:
+  - taitneamh nó pléisiúr a bhaint as
+  example:
+  - Is maith liom a bheith ag bogshodar
+  hypernym:
+  - 01775456-v
+  ili: i30622
+  members:
+  - is maith le
+  partOfSpeech: v
+01784999-v:
+  definition:
+  - confidence: 0.0
+    text: make timid or fearful
+  hypernym:
+  - 01763170-v
+  ili: i30640
+  members:
+  - imeaglaigh
+  partOfSpeech: v
+01793315-v:
+  definition:
+  - confidence: 0.0
+    text: annoy continually or chronically
+  hypernym:
+  - 00772482-v
+  ili: i30681
+  members:
+  - ciap
+  partOfSpeech: v
+01797206-v:
+  definition:
+  - confidence: 0.0
+    text: hurt the feelings of
+  hypernym:
+  - 01763170-v
+  ili: i30697
+  members:
+  - gortaigh
+  partOfSpeech: v
+01809490-v:
+  definition:
+  - confidence: 0.0
+    text: feel or suffer from the lack of
+  hypernym:
+  - 01829179-v
+  ili: i30756
+  members:
+  - caill
+  partOfSpeech: v
+01815408-v:
+  definition:
+  - bí dóchasach; bí lán de dhóchas, bheith ag súil le
+  example:
+  - Tá mé fós ag súil go n-éireoidh go maith le gach rud
+  hypernym:
+  - 01829179-v
+  ili: i30784
+  members:
+  - dóchas
+  partOfSpeech: v
+01816687-v:
+  definition:
+  - confidence: 0.0
+    text: heighten or intensify
+  hypernym:
+  - 01763170-v
+  ili: i30789
+  members:
+  - spreag
+  partOfSpeech: v
+01822202-v:
+  definition:
+  - confidence: 0.0
+    text: inspire with confidence; give hope or courage to
+  hypernym:
+  - 01816687-v
+  ili: i30816
+  members:
+  - spreag
+  partOfSpeech: v
+01824240-v:
+  definition:
+  - pléisiúr a bhaint as nó pléisiúr a fháil ó;
+  example:
+  - Bhain sí an-sult as a cáil agus a glóir
+  hypernym:
+  - 01775456-v
+  ili: i30828
+  members:
+  - bain taitneamh as
+  - bain sult as
+  - bain sásamh as
+  partOfSpeech: v
+01826886-v:
+  definition:
+  - spéis nó ceangal a bheith ag
+  example:
+  - Tá an-aird agam ar mo chuid oibre
+  hypernym:
+  - 00064841-v
+  ili: i30840
+  members:
+  - bí aireach ar
+  partOfSpeech: v
+01828678-v:
+  definition:
+  - súil a bheith agat rud a fháil nó santaigh rud a fháil nó tús áite a thabhairt
+    do rud a fháil nó a dhéanamh
+  example:
+  - Ar mhaith leat an béile seo a thriail?
+  hypernym:
+  - 01829179-v
+  ili: i30849
+  members:
+  - maith
+  - mian
+  partOfSpeech: v
+01829179-v:
+  definition:
+  - fonn a bheith ar dhuine le haghaidh; bheith ag iarraidh rud éigin go láidir
+  example:
+  - Táim ag iarraidh dul abhaile anois
+  hypernym:
+  - 01775456-v
+  ili: i30852
+  members:
+  - bí ag iarraidh
+  partOfSpeech: v
+01830665-v:
+  definition:
+  - a bheith ag súil le agus a bheith ag dúil le
+  example:
+  - Glacaim leis go mbeidh tú níos múinte as seo amach
+  hypernym:
+  - 00721987-v
+  ili: i30859
+  members:
+  - glac le
+  - súil a bheith ag
+  - santaigh
+  - mian
+  partOfSpeech: v
+01832678-v:
+  definition:
+  - taitneamh a bhaint as
+  example:
+  - Is breá liom cócaireacht
+  hypernym:
+  - 01781131-v
+  ili: i30870
+  members:
+  - taitneamh a bhaint as
+  - grá
+  partOfSpeech: v

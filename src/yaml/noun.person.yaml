@@ -1,0 +1,7068 @@
+09516174-n:
+  definition:
+  - confidence: 0.0
+    text: (classical mythology) a mythical being that is half man and half horse
+  hypernym:
+  - 05632483-n
+  ili: i86504
+  members:
+  - ceinteár
+  partOfSpeech: n
+09516505-n:
+  definition:
+  - confidence: 0.0
+    text: (Greek mythology) the ferryman who brought the souls of the dead across
+      the river Styx or the river Acheron to Hades
+  hypernym:
+  - 09655706-n
+  ili: i86506
+  members:
+  - Carón
+  partOfSpeech: n
+09517519-n:
+  definition:
+  - confidence: 0.0
+    text: a creature of Teutonic mythology; usually represented as breathing fire
+      and having a reptilian body and sometimes wings
+  hypernym:
+  - 05632483-n
+  ili: i86512
+  members:
+  - dragan
+  partOfSpeech: n
+09524068-n:
+  definition:
+  - confidence: 0.0
+    text: a legendary Arabian bird said to periodically burn itself to death and emerge
+      from the ashes as a new phoenix; according to most versions only one phoenix
+      lived at a time and it renewed itself every 500 years
+  hypernym:
+  - 05632483-n
+  ili: i86548
+  members:
+  - féinics
+  partOfSpeech: n
+09526253-n:
+  definition:
+  - confidence: 0.0
+    text: a monster able to change appearance from human to wolf and back again
+  hypernym:
+  - 05632483-n
+  ili: i86559
+  members:
+  - conriocht
+  partOfSpeech: n
+09528550-n:
+  definition:
+  - confidence: 0.0
+    text: any supernatural being worshipped as controlling some part of the world
+      or some aspect of life or who is the personification of a force
+  hypernym:
+  - 00023451-n
+  ili: i86570
+  members:
+  - dia
+  partOfSpeech: n
+09553360-n:
+  definition:
+  - confidence: 0.0
+    text: the manifestation of a Hindu deity (especially Vishnu) in human or superhuman
+      or animal form
+  hypernym:
+  - 09528550-n
+  ili: i86730
+  members:
+  - abhatár
+  partOfSpeech: n
+09558733-n:
+  definition:
+  - confidence: 0.0
+    text: a female deity
+  hypernym:
+  - 09528550-n
+  ili: i86767
+  members:
+  - bandia
+  partOfSpeech: n
+09562026-n:
+  definition:
+  - confidence: 0.0
+    text: spiritual being attendant upon God
+  hypernym:
+  - 00023451-n
+  ili: i86786
+  members:
+  - aingeal
+  partOfSpeech: n
+09562294-n:
+  definition:
+  - confidence: 0.0
+    text: an angel ranked above the highest rank in the celestial hierarchy
+  hypernym:
+  - 09562026-n
+  ili: i86787
+  members:
+  - ardaingeal
+  partOfSpeech: n
+09564545-n:
+  definition:
+  - confidence: 0.0
+    text: a mischievous elf in Irish folklore
+  hypernym:
+  - 00023451-n
+  ili: i86801
+  members:
+  - leipreachán
+  partOfSpeech: n
+09567391-n:
+  definition:
+  - confidence: 0.0
+    text: (Irish folklore) a female spirit who wails to warn of impending death
+  hypernym:
+  - 00023451-n
+  ili: i86819
+  members:
+  - bean sí
+  partOfSpeech: n
+09571761-n:
+  definition:
+  - confidence: 0.0
+    text: (classical mythology) a minor nature goddess usually depicted as a beautiful
+      maiden
+  hypernym:
+  - 09528550-n
+  ili: i86842
+  members:
+  - nimfeach
+  partOfSpeech: n
+09610740-n:
+  definition:
+  - confidence: 0.0
+    text: an imaginary person represented in a work of fiction (play or film or story)
+  hypernym:
+  - 05632483-n
+  ili: i87055
+  members:
+  - carachtar
+  partOfSpeech: n
+09628463-n:
+  definition:
+  - confidence: 0.0
+    text: a fully developed person from maturity onward
+  hypernym:
+  - 00007846-n
+  ili: i87152
+  members:
+  - aosach
+  partOfSpeech: n
+09630310-n:
+  definition:
+  - confidence: 0.0
+    text: a person who requests or seeks something such as assistance or employment
+      or admission
+  hypernym:
+  - 09786620-n
+  ili: i87159
+  members:
+  - iarratasóir
+  - iarrthóir
+  partOfSpeech: n
+09631407-n:
+  definition:
+  - confidence: 0.0
+    text: an agent who conducts an auction
+  hypernym:
+  - 09796453-n
+  ili: i87164
+  members:
+  - ceantálaí
+  partOfSpeech: n
+09635878-n:
+  definition:
+  - confidence: 0.0
+    text: a person who uses goods or services
+  hypernym:
+  - 10761247-n
+  ili: i87185
+  members:
+  - tomhaltóir
+  partOfSpeech: n
+09636221-n:
+  definition:
+  - confidence: 0.0
+    text: a person who participates in competitions
+  hypernym:
+  - 09786620-n
+  ili: i87187
+  members:
+  - iomaitheoir
+  partOfSpeech: n
+09637345-n:
+  definition:
+  - confidence: 0.0
+    text: a person who grows or makes or invents things
+  hypernym:
+  - 09786620-n
+  ili: i87192
+  members:
+  - cruthaitheoir
+  partOfSpeech: n
+09637714-n:
+  definition:
+  - confidence: 0.0
+    text: a person who cares for persons or property
+  hypernym:
+  - 09786620-n
+  ili: i87193
+  members:
+  - caomhnóir
+  - cosantóir
+  partOfSpeech: n
+09638837-n:
+  definition:
+  - confidence: 0.0
+    text: a person who uses scientific knowledge to solve practical problems
+  hypernym:
+  - 09786620-n
+  ili: i87197
+  members:
+  - innealtóir
+  partOfSpeech: n
+09640897-n:
+  definition:
+  - confidence: 0.0
+    text: a person with special knowledge or ability who performs skillfully
+  hypernym:
+  - 09786620-n
+  ili: i87207
+  members:
+  - saineolaí
+  partOfSpeech: n
+09643248-n:
+  definition:
+  - confidence: 0.0
+    text: a person who inhabits a particular place
+  hypernym:
+  - 09786620-n
+  ili: i87216
+  members:
+  - cónaitheoir
+  - áitreabhach
+  - áitritheoir
+  partOfSpeech: n
+09644715-n:
+  definition:
+  - confidence: 0.0
+    text: a person who uses the mind creatively
+  hypernym:
+  - 09786620-n
+  ili: i87220
+  members:
+  - intleachtach
+  partOfSpeech: n
+09645219-n:
+  definition:
+  - confidence: 0.0
+    text: a young person, not fully developed
+  hypernym:
+  - 00007846-n
+  ili: i87221
+  members:
+  - ógánach
+  partOfSpeech: n
+09646208-n:
+  definition:
+  - confidence: 0.0
+    text: a person who rules or guides or inspires others
+  hypernym:
+  - 09786620-n
+  ili: i87225
+  members:
+  - ceannaire
+  partOfSpeech: n
+09647729-n:
+  definition:
+  - confidence: 0.0
+    text: a negotiator who acts as a link between parties
+  hypernym:
+  - 10371605-n
+  ili: i87227
+  members:
+  - idirghabhálaí
+  partOfSpeech: n
+09648571-n:
+  definition:
+  - confidence: 0.0
+    text: a person who owes allegiance to that nation
+  hypernym:
+  - 09786620-n
+  ili: i87232
+  members:
+  - náisiúnach
+  partOfSpeech: n
+09649777-n:
+  definition:
+  - confidence: 0.0
+    text: a person who becomes aware (of things or events) through the senses
+  hypernym:
+  - 09786620-n
+  ili: i87237
+  members:
+  - breathnóir
+  partOfSpeech: n
+09651094-n:
+  definition:
+  - confidence: 0.0
+    text: a person who receives something
+  hypernym:
+  - 09786620-n
+  ili: i87243
+  members:
+  - faighteoir
+  partOfSpeech: n
+09652940-n:
+  definition:
+  - confidence: 0.0
+    text: a person who changes location
+  hypernym:
+  - 09786620-n
+  ili: i87249
+  members:
+  - taistealaí
+  partOfSpeech: n
+09655706-n:
+  definition:
+  - confidence: 0.0
+    text: a person who works at a specific occupation
+  hypernym:
+  - 09786620-n
+  ili: i87254
+  members:
+  - oibrí
+  partOfSpeech: n
+09657157-n:
+  definition:
+  - confidence: 0.0
+    text: a person who transgresses moral or civil law
+  hypernym:
+  - 09786620-n
+  ili: i87255
+  members:
+  - ciontóir
+  partOfSpeech: n
+09697405-n:
+  definition:
+  - confidence: 0.0
+    text: a religious person who believes Jesus is the Christ and who is a member
+      of a Christian denomination
+  hypernym:
+  - 09786620-n
+  ili: i87503
+  members:
+  - Críostaí
+  partOfSpeech: n
+09701687-n:
+  definition:
+  - confidence: 0.0
+    text: a believer in or follower of Islam
+  hypernym:
+  - 09786620-n
+  ili: i87523
+  members:
+  - Moslamach
+  partOfSpeech: n
+09773548-n:
+  definition:
+  - confidence: 0.0
+    text: the superior of a group of nuns
+  hypernym:
+  - 10807146-n
+  - 09786620-n
+  ili: i88007
+  members:
+  - ban-ab
+  partOfSpeech: n
+09773735-n:
+  definition:
+  - confidence: 0.0
+    text: the superior of an abbey of monks
+  hypernym:
+  - 10306910-n
+  - 09786620-n
+  ili: i88008
+  members:
+  - ab
+  partOfSpeech: n
+09777504-n:
+  definition:
+  - confidence: 0.0
+    text: someone who practices self denial as a spiritual discipline
+  hypernym:
+  - 09786620-n
+  ili: i88033
+  members:
+  - aiséiteach
+  partOfSpeech: n
+09780399-n:
+  definition:
+  - confidence: 0.0
+    text: a person who joins with another in carrying out some plan (especially an
+      unethical or illegal plan)
+  hypernym:
+  - 09835195-n
+  ili: i88049
+  members:
+  - comhchoirí
+  partOfSpeech: n
+09780641-n:
+  definition:
+  - confidence: 0.0
+    text: a musician who plays the accordion
+  hypernym:
+  - 10360025-n
+  ili: i88050
+  members:
+  - boscadóir
+  partOfSpeech: n
+09780826-n:
+  definition:
+  - confidence: 0.0
+    text: someone who maintains and audits business accounts
+  hypernym:
+  - 09786620-n
+  ili: i88051
+  members:
+  - cuntasóir
+  partOfSpeech: n
+09781524-n:
+  definition:
+  - confidence: 0.0
+    text: a person or institution against whom an action is brought in a court of
+      law; the person being sued or accused
+  hypernym:
+  - 10422569-n
+  ili: i88054
+  members:
+  - cosantóir
+  partOfSpeech: n
+09783804-n:
+  definition:
+  - confidence: 0.0
+    text: an athlete who performs acts requiring skill and agility and coordination
+  hypernym:
+  - 09839665-n
+  ili: i88063
+  members:
+  - cleasghleacaí
+  partOfSpeech: n
+09784701-n:
+  definition:
+  - confidence: 0.0
+    text: a theatrical performer
+  hypernym:
+  - 10435383-n
+  ili: i88068
+  members:
+  - aisteoir
+  partOfSpeech: n
+09786620-n:
+  definition:
+  - confidence: 0.0
+    text: a person who acts and gets things done
+  hypernym:
+  - 00007846-n
+  ili: i88069
+  members:
+  - gníomhaí
+  partOfSpeech: n
+09788768-n:
+  definition:
+  - confidence: 0.0
+    text: one to whom something is addressed
+  hypernym:
+  - 09651094-n
+  ili: i88075
+  members:
+  - seolaí
+  partOfSpeech: n
+09790372-n:
+  definition:
+  - confidence: 0.0
+    text: someone who administers a business
+  hypernym:
+  - 10182584-n
+  ili: i88084
+  members:
+  - riarthóir
+  partOfSpeech: n
+09790627-n:
+  definition:
+  - confidence: 0.0
+    text: the supreme commander of a fleet; ranks above a vice admiral and below a
+      fleet admiral
+  hypernym:
+  - 10336665-n
+  ili: i88085
+  members:
+  - aimiréal
+  partOfSpeech: n
+09791452-n:
+  definition:
+  - confidence: 0.0
+    text: a juvenile between the onset of puberty and maturity
+  hypernym:
+  - 09645219-n
+  ili: i88089
+  members:
+  - déagóir
+  partOfSpeech: n
+09792668-n:
+  definition:
+  - confidence: 0.0
+    text: someone who offers opposition
+  hypernym:
+  - 09786620-n
+  ili: i88097
+  members:
+  - coimhlinteoir
+  partOfSpeech: n
+09793385-n:
+  definition:
+  - confidence: 0.0
+    text: someone whose business is advertising
+  hypernym:
+  - 10510284-n
+  ili: i88099
+  members:
+  - fógróir
+  partOfSpeech: n
+09793689-n:
+  definition:
+  - confidence: 0.0
+    text: an expert who gives advice
+  hypernym:
+  - 09640897-n
+  ili: i88101
+  members:
+  - comhairleoir
+  - sainchomhairleoir
+  partOfSpeech: n
+09795104-n:
+  definition:
+  - confidence: 0.0
+    text: a lawyer who pleads cases in court
+  hypernym:
+  - 10269647-n
+  ili: i88103
+  members:
+  - abhcóide
+  - dlíodóir
+  partOfSpeech: n
+09796453-n:
+  definition:
+  - confidence: 0.0
+    text: a businessman who buys or sells for another in exchange for a commission
+  hypernym:
+  - 09786620-n
+  ili: i88113
+  members:
+  - bróicéir
+  partOfSpeech: n
+09796794-n:
+  definition:
+  - confidence: 0.0
+    text: a representative who acts on behalf of other persons or organizations
+  hypernym:
+  - 10371605-n
+  ili: i88114
+  members:
+  - gníomhaire
+  partOfSpeech: n
+09799231-n:
+  definition:
+  - confidence: 0.0
+    text: someone concerned with the science or art or business of cultivating the
+      soil
+  hypernym:
+  - 10098586-n
+  ili: i88128
+  members:
+  - saothraí
+  partOfSpeech: n
+09799690-n:
+  definition:
+  - confidence: 0.0
+    text: someone who acts as assistant
+  hypernym:
+  - 09835195-n
+  ili: i88130
+  members:
+  - cúntóir
+  partOfSpeech: n
+09801608-n:
+  definition:
+  - confidence: 0.0
+    text: a person who drinks alcohol to excess habitually
+  hypernym:
+  - 09635878-n
+  ili: i88142
+  members:
+  - alcólach
+  partOfSpeech: n
+09801838-n:
+  definition:
+  - confidence: 0.0
+    text: a member of a municipal legislative body (as a city council)
+  hypernym:
+  - 10371605-n
+  ili: i88143
+  members:
+  - bardasach
+  partOfSpeech: n
+09804483-n:
+  definition:
+  - confidence: 0.0
+    text: an associate who provides cooperation or assistance
+  hypernym:
+  - 09786620-n
+  ili: i88161
+  members:
+  - comhghuaillí
+  partOfSpeech: n
+09805779-n:
+  definition:
+  - confidence: 0.0
+    text: a person who has received a degree from a school (high school or college
+      or university)
+  hypernym:
+  - 10577282-n
+  ili: i88171
+  members:
+  - céimí
+  partOfSpeech: n
+09806026-n:
+  definition:
+  - confidence: 0.0
+    text: someone who pursues a study or sport as a pastime
+  hypernym:
+  - 09786620-n
+  ili: i88172
+  members:
+  - amaitéarach
+  partOfSpeech: n
+09806975-n:
+  definition:
+  - confidence: 0.0
+    text: a diplomat of the highest rank; accredited as representative from one country
+      to another
+  hypernym:
+  - 10033672-n
+  ili: i88178
+  members:
+  - ambasadóir
+  partOfSpeech: n
+09809923-n:
+  definition:
+  - confidence: 0.0
+    text: someone who is skilled at analyzing data
+  hypernym:
+  - 09640897-n
+  ili: i88196
+  members:
+  - anailísí
+  partOfSpeech: n
+09811996-n:
+  definition:
+  - confidence: 0.0
+    text: someone from whom you are descended (but usually more remote than a grandparent)
+  hypernym:
+  - 10255246-n
+  ili: i88207
+  members:
+  - sinsear
+  partOfSpeech: n
+09812410-n:
+  definition:
+  - confidence: 0.0
+    text: a television reporter who coordinates a broadcast to which several correspondents
+      contribute
+  hypernym:
+  - 10541255-n
+  ili: i88209
+  members:
+  - léitheoir nuachta
+  partOfSpeech: n
+09812936-n:
+  definition:
+  - confidence: 0.0
+    text: a specialist who administers an anesthetic to a patient before they are
+      treated
+  hypernym:
+  - 10040615-n
+  ili: i88213
+  members:
+  - ainéistéisí
+  partOfSpeech: n
+09813991-n:
+  definition:
+  - confidence: 0.0
+    text: the technician who produces animated cartoons
+  hypernym:
+  - 10715747-n
+  ili: i88221
+  members:
+  - beochantóir
+  partOfSpeech: n
+09815764-n:
+  definition:
+  - confidence: 0.0
+    text: a social scientist who specializes in anthropology
+  hypernym:
+  - 10580065-n
+  ili: i88234
+  members:
+  - antraipeolaí
+  partOfSpeech: n
+09817047-n:
+  definition:
+  - confidence: 0.0
+    text: an expert or collector of antiquities
+  hypernym:
+  - 09640897-n
+  ili: i88240
+  members:
+  - ársaitheoir
+  partOfSpeech: n
+09817845-n:
+  definition:
+  - confidence: 0.0
+    text: someone who formulates aphorisms or who repeats aphorisms
+  hypernym:
+  - 09644715-n
+  ili: i88246
+  members:
+  - nathaí
+  partOfSpeech: n
+09819892-n:
+  definition:
+  - confidence: 0.0
+    text: the party who appeals a decision of a lower court
+  hypernym:
+  - 10422569-n
+  ili: i88256
+  members:
+  - achomharcóir
+  partOfSpeech: n
+09821287-n:
+  definition:
+  - confidence: 0.0
+    text: works for an expert to learn a trade
+  hypernym:
+  - 09786620-n
+  ili: i88263
+  members:
+  - printíseach
+  partOfSpeech: n
+09822852-n:
+  definition:
+  - confidence: 0.0
+    text: someone chosen to judge and decide a disputed issue
+  hypernym:
+  - 10086539-n
+  ili: i88272
+  members:
+  - eadránaí
+  partOfSpeech: n
+09823766-n:
+  definition:
+  - confidence: 0.0
+    text: (Anglican Church) an ecclesiastical dignitary usually ranking just below
+      a bishop
+  hypernym:
+  - 09646208-n
+  ili: i88276
+  members:
+  - ard-deagánach
+  partOfSpeech: n
+09824081-n:
+  definition:
+  - confidence: 0.0
+    text: a sovereign prince of the former ruling house of Austria
+  hypernym:
+  - 10492384-n
+  ili: i88278
+  members:
+  - ard-diúc
+  partOfSpeech: n
+09824229-n:
+  definition:
+  - confidence: 0.0
+    text: an anthropologist who studies prehistoric people and their culture
+  hypernym:
+  - 09815764-n
+  ili: i88279
+  members:
+  - seandálaí
+  partOfSpeech: n
+09824574-n:
+  definition:
+  - confidence: 0.0
+    text: a bishop of highest rank
+  hypernym:
+  - 09876606-n
+  ili: i88280
+  members:
+  - Ard-Easpag
+  - ardeaspag
+  partOfSpeech: n
+09824747-n:
+  definition:
+  - confidence: 0.0
+    text: a person who is expert in the use of a bow and arrow
+  hypernym:
+  - 09640897-n
+  ili: i88281
+  members:
+  - boghdóir
+  partOfSpeech: n
+09824898-n:
+  definition:
+  - confidence: 0.0
+    text: someone who creates plans to be used in making something (such as buildings)
+  hypernym:
+  - 09637345-n
+  ili: i88282
+  members:
+  - ailtire
+  - dearthóir
+  partOfSpeech: n
+09826367-n:
+  definition:
+  - confidence: 0.0
+    text: a person in charge of collecting and cataloguing archives
+  hypernym:
+  - 09956078-n
+  ili: i88283
+  members:
+  - cartlannaí
+  partOfSpeech: n
+09826498-n:
+  definition:
+  - confidence: 0.0
+    text: a senior clergyman and dignitary
+  hypernym:
+  - 10490364-n
+  ili: i88284
+  members:
+  - prealáid
+  partOfSpeech: n
+09831743-n:
+  definition:
+  - confidence: 0.0
+    text: a person whose creative work shows sensitivity and imagination
+  hypernym:
+  - 09637345-n
+  ili: i88315
+  members:
+  - ealaíontóir
+  partOfSpeech: n
+09834860-n:
+  definition:
+  - confidence: 0.0
+    text: (law) the party to whom something is assigned (e.g., someone to whom a right
+      or property is legally transferred)
+  hypernym:
+  - 10422569-n
+  - 09651094-n
+  ili: i88331
+  members:
+  - sannaí
+  partOfSpeech: n
+09835195-n:
+  definition:
+  - confidence: 0.0
+    text: a person who contributes to the fulfillment of a need or furtherance of
+      an effort or purpose
+  hypernym:
+  - 09655706-n
+  ili: i88333
+  members:
+  - cúntóir
+  partOfSpeech: n
+09836059-n:
+  definition:
+  - confidence: 0.0
+    text: a teacher of lower rank than an associate professor
+  hypernym:
+  - 10500315-n
+  ili: i88334
+  members:
+  - ollamh cúnta
+  partOfSpeech: n
+09837221-n:
+  definition:
+  - confidence: 0.0
+    text: someone who predicts the future by the positions of the planets and sun
+      and Moon
+  hypernym:
+  - 09644715-n
+  ili: i88340
+  members:
+  - astralaí
+  partOfSpeech: n
+09837427-n:
+  definition:
+  - confidence: 0.0
+    text: a person trained to travel in a spacecraft
+  hypernym:
+  - 09652940-n
+  ili: i88341
+  members:
+  - spásaire
+  partOfSpeech: n
+09837748-n:
+  definition:
+  - confidence: 0.0
+    text: a physicist who studies astronomy
+  hypernym:
+  - 10447768-n
+  ili: i88342
+  members:
+  - réalteolaí
+  partOfSpeech: n
+09839072-n:
+  definition:
+  - confidence: 0.0
+    text: an astronomer who studies the evolution and space-time relations of the
+      universe
+  hypernym:
+  - 09837748-n
+  ili: i88345
+  members:
+  - cosmeolaí
+  partOfSpeech: n
+09839665-n:
+  definition:
+  - confidence: 0.0
+    text: a person trained to compete in sports
+  hypernym:
+  - 09636221-n
+  ili: i88348
+  members:
+  - lúthchleasaí
+  partOfSpeech: n
+09840655-n:
+  definition:
+  - confidence: 0.0
+    text: someone who attacks
+  hypernym:
+  - 09657157-n
+  ili: i88350
+  members:
+  - ionsaitheoir
+  partOfSpeech: n
+09842357-n:
+  definition:
+  - confidence: 0.0
+    text: a qualified accountant who inspects the accounting records and practices
+      of a business or other organization
+  hypernym:
+  - 09780826-n
+  ili: i88354
+  members:
+  - iniúchóir
+  partOfSpeech: n
+09842689-n:
+  definition:
+  - confidence: 0.0
+    text: (ancient Rome) a religious official who interpreted omens to guide public
+      policy
+  hypernym:
+  - 09644715-n
+  ili: i88356
+  members:
+  - mathmharc
+  partOfSpeech: n
+09842904-n:
+  definition:
+  - confidence: 0.0
+    text: the sister of your father or mother; the wife of your uncle
+  hypernym:
+  - 10255246-n
+  - 10807146-n
+  ili: i88357
+  members:
+  - aintín
+  partOfSpeech: n
+09846929-n:
+  definition:
+  - confidence: 0.0
+    text: a very young child (birth to 1 year) who has not yet begun to walk or talk
+  hypernym:
+  - 10393697-n
+  ili: i88382
+  members:
+  - leanbh
+  - leanbán
+  - naíonán
+  partOfSpeech: n
+09848006-n:
+  definition:
+  - confidence: 0.0
+    text: a specialist in the care of babies
+  hypernym:
+  - 10040615-n
+  ili: i88386
+  members:
+  - péidiatraí
+  partOfSpeech: n
+09852896-n:
+  definition:
+  - confidence: 0.0
+    text: someone who bakes bread or cake
+  hypernym:
+  - 09655706-n
+  ili: i88418
+  members:
+  - báicéir
+  partOfSpeech: n
+09853011-n:
+  definition:
+  - confidence: 0.0
+    text: someone who bakes commercially
+  hypernym:
+  - 10329563-n
+  ili: i88419
+  members:
+  - báicéir
+  partOfSpeech: n
+09853980-n:
+  definition:
+  - confidence: 0.0
+    text: a female ballet dancer
+  hypernym:
+  - 10807146-n
+  - 10435383-n
+  ili: i88426
+  members:
+  - bailéiríne
+  - banrinceoir
+  - cailín bailé
+  partOfSpeech: n
+09854736-n:
+  definition:
+  - confidence: 0.0
+    text: someone who flies a balloon
+  hypernym:
+  - 09655706-n
+  ili: i88432
+  members:
+  - balúnaí
+  partOfSpeech: n
+09855548-n:
+  definition:
+  - confidence: 0.0
+    text: someone who fights bulls
+  hypernym:
+  - 09786620-n
+  ili: i88435
+  members:
+  - tarbhchomhraiceoir
+  partOfSpeech: n
+09858410-n:
+  definition:
+  - confidence: 0.0
+    text: a lyric poet
+  hypernym:
+  - 10463768-n
+  ili: i88457
+  members:
+  - bard
+  partOfSpeech: n
+09860351-n:
+  definition:
+  - confidence: 0.0
+    text: a British or Canadian lawyer who speaks in the higher courts of law on behalf
+      of either the defense or prosecution
+  hypernym:
+  - 10269647-n
+  ili: i88472
+  members:
+  - abhcóide
+  partOfSpeech: n
+09860576-n:
+  definition:
+  - confidence: 0.0
+    text: an employee who mixes and serves alcoholic drinks at a bar
+  hypernym:
+  - 10073616-n
+  ili: i88473
+  members:
+  - freastalaí beáir
+  - tábhairneoir
+  partOfSpeech: n
+09862017-n:
+  definition:
+  - confidence: 0.0
+    text: a musician who play the bass viol
+  hypernym:
+  - 10360025-n
+  ili: i88483
+  members:
+  - dordóir
+  partOfSpeech: n
+09862211-n:
+  definition:
+  - confidence: 0.0
+    text: the illegitimate offspring of unmarried parents
+  hypernym:
+  - 10393697-n
+  ili: i88485
+  members:
+  - leanbh tabhartha
+  partOfSpeech: n
+09866163-n:
+  definition:
+  - confidence: 0.0
+    text: a farmer who keeps bees for their honey
+  hypernym:
+  - 10098586-n
+  ili: i88513
+  members:
+  - beachaire
+  partOfSpeech: n
+09868183-n:
+  definition:
+  - confidence: 0.0
+    text: someone employed as an errand boy and luggage carrier around hotels
+  hypernym:
+  - 09835195-n
+  ili: i88525
+  members:
+  - giolla cloig
+  partOfSpeech: n
+09869529-n:
+  definition:
+  - confidence: 0.0
+    text: the recipient of funds or other benefits
+  hypernym:
+  - 09651094-n
+  ili: i88536
+  members:
+  - tairbhí
+  partOfSpeech: n
+09871966-n:
+  definition:
+  - confidence: 0.0
+    text: someone trained in compiling bibliographies
+  hypernym:
+  - 10577282-n
+  ili: i88553
+  members:
+  - bibleagrafaí
+  partOfSpeech: n
+09872495-n:
+  definition:
+  - confidence: 0.0
+    text: someone who makes an offer
+  hypernym:
+  - 09630310-n
+  ili: i88557
+  members:
+  - tairgeoir
+  partOfSpeech: n
+09874839-n:
+  definition:
+  - confidence: 0.0
+    text: someone who writes an account of a person's life
+  hypernym:
+  - 10813654-n
+  ili: i88571
+  members:
+  - beathaisnéisí
+  partOfSpeech: n
+09875036-n:
+  definition:
+  - confidence: 0.0
+    text: (biology) a scientist who studies living organisms
+  hypernym:
+  - 10580065-n
+  ili: i88572
+  members:
+  - bitheolaí
+  partOfSpeech: n
+09876606-n:
+  definition:
+  - confidence: 0.0
+    text: a senior member of the Christian clergy having spiritual and administrative
+      authority; appointed in Christian churches to oversee priests or ministers;
+      considered in some churches to be successors of the twelve Apostles of Christ
+  hypernym:
+  - 10490364-n
+  ili: i88579
+  members:
+  - easpag
+  partOfSpeech: n
+09879821-n:
+  definition:
+  - confidence: 0.0
+    text: a person who keeps and updates a blog
+  hypernym:
+  - 09786620-n
+  ili: i88597
+  members:
+  - blagálaí
+  partOfSpeech: n
+09881589-n:
+  definition:
+  - confidence: 0.0
+    text: a petty officer on a merchant ship who controls the work of other seamen
+  hypernym:
+  - 10314263-n
+  ili: i88610
+  members:
+  - bósan
+  partOfSpeech: n
+09882437-n:
+  definition:
+  - confidence: 0.0
+    text: someone who escorts and protects a prominent person
+  hypernym:
+  - 09637714-n
+  ili: i88616
+  members:
+  - garda cosanta
+  partOfSpeech: n
+09885628-n:
+  definition:
+  - confidence: 0.0
+    text: a gambler who accepts and pays off bets (especially on horse races)
+  hypernym:
+  - 09786620-n
+  ili: i88640
+  members:
+  - geallghlacadóir
+  partOfSpeech: n
+09887039-n:
+  definition:
+  - confidence: 0.0
+    text: someone who receives something on the promise to return it or its equivalent
+  hypernym:
+  - 09651094-n
+  ili: i88651
+  members:
+  - iasachtaí
+  partOfSpeech: n
+09887676-n:
+  definition:
+  - confidence: 0.0
+    text: a biologist specializing in the study of plants
+  hypernym:
+  - 09875036-n
+  ili: i88655
+  members:
+  - luibheolaí
+  partOfSpeech: n
+09888415-n:
+  definition:
+  - confidence: 0.0
+    text: a person whose duty is to throw troublemakers out of a bar or public meeting
+  hypernym:
+  - 10169591-n
+  ili: i88659
+  members:
+  - preabaire
+  partOfSpeech: n
+09890770-n:
+  definition:
+  - confidence: 0.0
+    text: a man who is the lover of a man or woman
+  hypernym:
+  - 10306910-n
+  - 09786620-n
+  ili: i88673
+  members:
+  - buachaill
+  partOfSpeech: n
+09893984-n:
+  definition:
+  - confidence: 0.0
+    text: a craftsman skilled in building with bricks
+  hypernym:
+  - 09994178-n
+  ili: i88695
+  members:
+  - bríceadóir
+  partOfSpeech: n
+09895252-n:
+  definition:
+  - confidence: 0.0
+    text: someone who broadcasts on radio or television
+  hypernym:
+  - 09786620-n
+  ili: i88704
+  members:
+  - craoltóir
+  partOfSpeech: n
+09895920-n:
+  definition:
+  - confidence: 0.0
+    text: a male with the same parents as someone else
+  hypernym:
+  - 10255246-n
+  - 10306910-n
+  ili: i88708
+  members:
+  - deartháir
+  partOfSpeech: n
+09897741-n:
+  definition:
+  - confidence: 0.0
+    text: someone who contracts for and supervises construction (as of a building)
+  hypernym:
+  - 10422569-n
+  ili: i88720
+  members:
+  - tógálaí
+  partOfSpeech: n
+09899893-n:
+  definition:
+  - confidence: 0.0
+    text: an official of a bureaucracy
+  hypernym:
+  - 10392072-n
+  ili: i88732
+  members:
+  - maorlathaí
+  partOfSpeech: n
+09900207-n:
+  definition:
+  - confidence: 0.0
+    text: a thief who enters a building with intent to steal
+  hypernym:
+  - 10727453-n
+  ili: i88734
+  members:
+  - buirgléir
+  partOfSpeech: n
+09901459-n:
+  definition:
+  - confidence: 0.0
+    text: a man engaged in commercial or industrial business
+  hypernym:
+  - 10306910-n
+  - 09786620-n
+  ili: i88744
+  members:
+  - fear gnó
+  partOfSpeech: n
+09902814-n:
+  definition:
+  - confidence: 0.0
+    text: someone who drives a bus
+  hypernym:
+  - 10054631-n
+  ili: i88749
+  members:
+  - tiománaí bus
+  partOfSpeech: n
+09903585-n:
+  definition:
+  - confidence: 0.0
+    text: a person who slaughters or dresses meat for market
+  hypernym:
+  - 09655706-n
+  ili: i88755
+  members:
+  - búistéir
+  partOfSpeech: n
+09904597-n:
+  definition:
+  - confidence: 0.0
+    text: a person who buys
+  hypernym:
+  - 10004189-n
+  ili: i88763
+  members:
+  - ceannaitheoir
+  partOfSpeech: n
+09905992-n:
+  definition:
+  - confidence: 0.0
+    text: a military trainee (as at a military academy)
+  hypernym:
+  - 10742034-n
+  ili: i88773
+  members:
+  - dalta
+  partOfSpeech: n
+09906486-n:
+  definition:
+  - confidence: 0.0
+    text: an expert at calculation (or at operating calculating machines)
+  hypernym:
+  - 09640897-n
+  ili: i88777
+  members:
+  - meastóir
+  partOfSpeech: n
+09906948-n:
+  definition:
+  - confidence: 0.0
+    text: the civil and religious leader of a Muslim state considered to be a representative
+      of Allah on earth
+  hypernym:
+  - 10560786-n
+  - 09701687-n
+  ili: i88779
+  members:
+  - cailif
+  partOfSpeech: n
+09907469-n:
+  definition:
+  - confidence: 0.0
+    text: the person initiating a telephone call
+  hypernym:
+  - 10649550-n
+  ili: i88781
+  members:
+  - glaoiteoir
+  partOfSpeech: n
+09908517-n:
+  definition:
+  - confidence: 0.0
+    text: a female prostitute who can be hired by telephone
+  hypernym:
+  - 10807146-n
+  ili: i88787
+  members:
+  - striapach
+  partOfSpeech: n
+09908991-n:
+  definition:
+  - confidence: 0.0
+    text: a photographer who operates a movie camera
+  hypernym:
+  - 10446513-n
+  ili: i88790
+  members:
+  - ceamaradóir
+  partOfSpeech: n
+09909143-n:
+  definition:
+  - confidence: 0.0
+    text: a politician who is running for public office
+  hypernym:
+  - 09646208-n
+  ili: i88791
+  members:
+  - ainmnitheach
+  - iarrthóir
+  partOfSpeech: n
+09910201-n:
+  definition:
+  - confidence: 0.0
+    text: someone who is considered for something (for an office or prize or honor
+      etc.)
+  hypernym:
+  - 09786620-n
+  ili: i88799
+  members:
+  - iarrthóir
+  partOfSpeech: n
+09911065-n:
+  definition:
+  - confidence: 0.0
+    text: a priest who is a member of a cathedral chapter
+  hypernym:
+  - 10490364-n
+  ili: i88805
+  members:
+  - canónach
+  partOfSpeech: n
+09912643-n:
+  definition:
+  - confidence: 0.0
+    text: an officer holding a rank below a major but above a lieutenant
+  hypernym:
+  - 10336665-n
+  ili: i88816
+  members:
+  - captaen
+  partOfSpeech: n
+09913595-n:
+  definition:
+  - confidence: 0.0
+    text: (Roman Catholic Church) one of a group of more than 100 prominent bishops
+      in the Sacred College who advise the Pope and elect new Popes
+  hypernym:
+  - 09876606-n
+  ili: i88823
+  members:
+  - cairdinéal
+  partOfSpeech: n
+09916137-n:
+  definition:
+  - confidence: 0.0
+    text: a woodworker who makes or repairs wooden objects
+  hypernym:
+  - 09994178-n
+  ili: i88838
+  members:
+  - cearpantóir
+  - siúinéir
+  partOfSpeech: n
+09917148-n:
+  definition:
+  - confidence: 0.0
+    text: someone whose employment involves carrying something
+  hypernym:
+  - 09652940-n
+  ili: i88844
+  members:
+  - iompróir
+  partOfSpeech: n
+09917667-n:
+  definition:
+  - confidence: 0.0
+    text: a person who makes maps
+  hypernym:
+  - 10147092-n
+  ili: i88848
+  members:
+  - cartagrafaí
+  partOfSpeech: n
+09922606-n:
+  definition:
+  - confidence: 0.0
+    text: a widely known person
+  hypernym:
+  - 09786620-n
+  ili: i88881
+  members:
+  - ceiliúrán
+  partOfSpeech: n
+09926301-n:
+  definition:
+  - confidence: 0.0
+    text: the honorary or titular head of a university
+  hypernym:
+  - 10065521-n
+  ili: i88904
+  members:
+  - seansailéir
+  partOfSpeech: n
+09927483-n:
+  definition:
+  - confidence: 0.0
+    text: a boy or man
+  hypernym:
+  - 00007846-n
+  ili: i88912
+  members:
+  - buachaill
+  - fear
+  partOfSpeech: n
+09927966-n:
+  definition:
+  - confidence: 0.0
+    text: a clergyman ministering to some institution
+  hypernym:
+  - 09646208-n
+  ili: i88914
+  members:
+  - séiplíneach
+  partOfSpeech: n
+09928311-n:
+  definition:
+  - confidence: 0.0
+    text: a person paid to drive a privately owned car
+  hypernym:
+  - 10054631-n
+  ili: i88917
+  members:
+  - tiománaí
+  partOfSpeech: n
+09933282-n:
+  definition:
+  - confidence: 0.0
+    text: a scientist who specializes in chemistry
+  hypernym:
+  - 10580065-n
+  ili: i88950
+  members:
+  - ceimiceoir
+  partOfSpeech: n
+09936246-n:
+  definition:
+  - confidence: 0.0
+    text: the judge who presides over a supreme court
+  hypernym:
+  - 10244889-n
+  ili: i88960
+  members:
+  - Príomh-Bhreitheamh
+  partOfSpeech: n
+09936672-n:
+  definition:
+  - confidence: 0.0
+    text: the senior officer of a service of the armed forces
+  hypernym:
+  - 10336665-n
+  ili: i88961
+  members:
+  - ceann foirne
+  partOfSpeech: n
+09937051-n:
+  definition:
+  - confidence: 0.0
+    text: a young person of either sex
+  hypernym:
+  - 09645219-n
+  ili: i88964
+  members:
+  - leanbh
+  - mionaoiseach
+  - páiste
+  partOfSpeech: n
+09938658-n:
+  definition:
+  - confidence: 0.0
+    text: a therapist who practices chiropractic
+  hypernym:
+  - 09640897-n
+  ili: i88970
+  members:
+  - círichleachtóir
+  partOfSpeech: n
+09938755-n:
+  definition:
+  - confidence: 0.0
+    text: a specialist in care for the feet
+  hypernym:
+  - 10040615-n
+  ili: i88971
+  members:
+  - coslia
+  partOfSpeech: n
+09939741-n:
+  definition:
+  - confidence: 0.0
+    text: someone who creates new dances
+  hypernym:
+  - 09637345-n
+  ili: i88977
+  members:
+  - cóiréagrafaí
+  partOfSpeech: n
+09940626-n:
+  definition:
+  - confidence: 0.0
+    text: someone who writes chronicles
+  hypernym:
+  - 10196781-n
+  ili: i88981
+  members:
+  - croiniceoir
+  partOfSpeech: n
+09940867-n:
+  definition:
+  - confidence: 0.0
+    text: a person who is gullible and easy to take advantage of
+  hypernym:
+  - 09786620-n
+  ili: i88983
+  members:
+  - amadán
+  partOfSpeech: n
+09943131-n:
+  definition:
+  - confidence: 0.0
+    text: a native or naturalized member of a state or other political community
+  hypernym:
+  - 09648571-n
+  ili: i88995
+  members:
+  - saoránach
+  partOfSpeech: n
+09944200-n:
+  definition:
+  - confidence: 0.0
+    text: a nonmilitary citizen
+  hypernym:
+  - 09943131-n
+  ili: i89002
+  members:
+  - sibhialtach
+  partOfSpeech: n
+09944917-n:
+  definition:
+  - confidence: 0.0
+    text: a public official who is a member of the civil service
+  hypernym:
+  - 10392072-n
+  ili: i89005
+  members:
+  - státseirbhíseach
+  partOfSpeech: n
+09945050-n:
+  definition:
+  - confidence: 0.0
+    text: someone who claims a benefit or right or title
+  hypernym:
+  - 09630310-n
+  ili: i89006
+  members:
+  - éilitheoir
+  partOfSpeech: n
+09946547-n:
+  definition:
+  - confidence: 0.0
+    text: someone whose occupation is cleaning
+  hypernym:
+  - 10260997-n
+  ili: i89016
+  members:
+  - glantóir
+  partOfSpeech: n
+09947594-n:
+  definition:
+  - confidence: 0.0
+    text: a clergyman or other person in religious orders
+  hypernym:
+  - 09646208-n
+  ili: i89019
+  members:
+  - cléireach
+  partOfSpeech: n
+09947909-n:
+  definition:
+  - confidence: 0.0
+    text: an employee who performs clerical work (e.g., keeps records or accounts)
+  hypernym:
+  - 10073616-n
+  ili: i89021
+  members:
+  - cléireach
+  partOfSpeech: n
+09948756-n:
+  definition:
+  - confidence: 0.0
+    text: someone who climbs as a sport; especially someone who climbs mountains
+  hypernym:
+  - 09839665-n
+  ili: i89025
+  members:
+  - dreapadóir
+  partOfSpeech: n
+09949035-n:
+  definition:
+  - confidence: 0.0
+    text: a practitioner (of medicine or psychology) who does clinical work instead
+      of laboratory experiments
+  hypernym:
+  - 10482426-n
+  ili: i89026
+  members:
+  - cliniceoir
+  partOfSpeech: n
+09950876-n:
+  definition:
+  - confidence: 0.0
+    text: a person who gives private instruction (as in singing, acting, etc.)
+  hypernym:
+  - 10713754-n
+  ili: i89038
+  members:
+  - oide
+  - teagascóir
+  partOfSpeech: n
+09951098-n:
+  definition:
+  - confidence: 0.0
+    text: (sports) someone in charge of training an athlete or a team
+  hypernym:
+  - 10742224-n
+  ili: i89039
+  members:
+  - bainisteoir
+  - cóitseálaí
+  - traenálaí
+  partOfSpeech: n
+09952556-n:
+  definition:
+  - confidence: 0.0
+    text: a person who makes or repairs shoes
+  hypernym:
+  - 10303761-n
+  ili: i89051
+  members:
+  - caibléir
+  - gréasaí
+  partOfSpeech: n
+09954892-n:
+  definition:
+  - confidence: 0.0
+    text: an associate in an activity or endeavor or sphere of common interest
+  hypernym:
+  - 09786620-n
+  ili: i89069
+  members:
+  - comhpháirtí
+  - páirtí
+  partOfSpeech: n
+09955448-n:
+  definition:
+  - confidence: 0.0
+    text: a person who is member of one's class or profession
+  hypernym:
+  - 09786620-n
+  ili: i89071
+  members:
+  - comhalta
+  partOfSpeech: n
+09955673-n:
+  definition:
+  - confidence: 0.0
+    text: an associate that one works with
+  hypernym:
+  - 09786620-n
+  ili: i89072
+  members:
+  - comhghleacaí
+  - comhoibrí
+  partOfSpeech: n
+09956078-n:
+  definition:
+  - confidence: 0.0
+    text: a person who collects things
+  hypernym:
+  - 09786620-n
+  ili: i89074
+  members:
+  - bailitheoir
+  - comhbhailitheoir
+  partOfSpeech: n
+09956708-n:
+  definition:
+  - confidence: 0.0
+    text: a commissioned military officer in the United States Army or Air Force or
+      Marines who ranks above a lieutenant colonel and below a brigadier general
+  hypernym:
+  - 10336665-n
+  ili: i89078
+  members:
+  - coirnéal
+  partOfSpeech: n
+09958612-n:
+  definition:
+  - confidence: 0.0
+    text: a journalist who writes editorials
+  hypernym:
+  - 10244248-n
+  ili: i89090
+  members:
+  - colúnaí
+  partOfSpeech: n
+09958771-n:
+  definition:
+  - confidence: 0.0
+    text: someone who fights (or is fighting)
+  hypernym:
+  - 09786620-n
+  ili: i89091
+  members:
+  - comhraiceoir
+  partOfSpeech: n
+09959604-n:
+  definition:
+  - confidence: 0.0
+    text: a professional performer who tells jokes and performs comical acts
+  hypernym:
+  - 10435383-n
+  ili: i89094
+  members:
+  - fuirseoir
+  partOfSpeech: n
+09960841-n:
+  definition:
+  - confidence: 0.0
+    text: someone in an official position of authority who can command or control
+      others
+  hypernym:
+  - 09646208-n
+  ili: i89100
+  members:
+  - ceannasaí
+  partOfSpeech: n
+09963290-n:
+  definition:
+  - confidence: 0.0
+    text: a government administrator
+  hypernym:
+  - 10182584-n
+  ili: i89112
+  members:
+  - coimisinéir
+  partOfSpeech: n
+09965384-n:
+  definition:
+  - confidence: 0.0
+    text: a friend who is frequently in the company of another
+  hypernym:
+  - 10132360-n
+  ili: i89126
+  members:
+  - compánach
+  partOfSpeech: n
+09966711-n:
+  definition:
+  - confidence: 0.0
+    text: someone who composes music, usually as a profession
+  hypernym:
+  - 09831743-n
+  ili: i89134
+  members:
+  - cumadóir
+  partOfSpeech: n
+09972829-n:
+  definition:
+  - confidence: 0.0
+    text: someone who makes candies and other sweets
+  hypernym:
+  - 10303761-n
+  ili: i89154
+  members:
+  - sólaisteoir
+  partOfSpeech: n
+09974358-n:
+  definition:
+  - confidence: 0.0
+    text: a swindler who exploits the confidence of their victim
+  hypernym:
+  - 09657157-n
+  ili: i89165
+  members:
+  - caimiléir
+  partOfSpeech: n
+09977926-n:
+  definition:
+  - confidence: 0.0
+    text: the person to whom merchandise is delivered over
+  hypernym:
+  - 09651094-n
+  ili: i89184
+  members:
+  - coinsíní
+  partOfSpeech: n
+09978048-n:
+  definition:
+  - confidence: 0.0
+    text: the person who delivers over or commits merchandise
+  hypernym:
+  - 10609747-n
+  ili: i89185
+  members:
+  - coinsíneoir
+  partOfSpeech: n
+09978203-n:
+  definition:
+  - confidence: 0.0
+    text: the husband or wife of a reigning monarch
+  hypernym:
+  - 10660018-n
+  ili: i89186
+  members:
+  - céile
+  partOfSpeech: n
+09979276-n:
+  definition:
+  - confidence: 0.0
+    text: a diplomat appointed by a government to protect its commercial interests
+      and help its citizens in a foreign country
+  hypernym:
+  - 10033672-n
+  ili: i89193
+  members:
+  - consal
+  partOfSpeech: n
+09979596-n:
+  definition:
+  - confidence: 0.0
+    text: a person who is in a position to give you special assistance
+  hypernym:
+  - 10371605-n
+  ili: i89195
+  members:
+  - teagmháil
+  partOfSpeech: n
+09980167-n:
+  definition:
+  - confidence: 0.0
+    text: someone (a person or firm) who contracts to build things
+  hypernym:
+  - 09897741-n
+  ili: i89199
+  members:
+  - conraitheoir
+  partOfSpeech: n
+09982445-n:
+  definition:
+  - confidence: 0.0
+    text: a person serving a sentence in a jail or prison
+  hypernym:
+  - 10495671-n
+  ili: i89213
+  members:
+  - príosúnach
+  partOfSpeech: n
+09982799-n:
+  definition:
+  - confidence: 0.0
+    text: someone who cooks food
+  hypernym:
+  - 09655706-n
+  ili: i89215
+  members:
+  - cócaire
+  partOfSpeech: n
+09983252-n:
+  definition:
+  - confidence: 0.0
+    text: a craftsman who makes or repairs wooden barrels or tubs
+  hypernym:
+  - 09994178-n
+  ili: i89218
+  members:
+  - cúipéir
+  partOfSpeech: n
+09983393-n:
+  definition:
+  - confidence: 0.0
+    text: someone whose task is to see that work goes harmoniously
+  hypernym:
+  - 09644715-n
+  ili: i89219
+  members:
+  - comhordaitheoir
+  partOfSpeech: n
+09983845-n:
+  definition:
+  - confidence: 0.0
+    text: someone who makes articles from copper
+  hypernym:
+  - 09994178-n
+  ili: i89222
+  members:
+  - gabha copair
+  partOfSpeech: n
+09984335-n:
+  definition:
+  - confidence: 0.0
+    text: someone employed to make written copies of documents and manuscripts
+  hypernym:
+  - 10073616-n
+  ili: i89225
+  members:
+  - scríobhaí
+  partOfSpeech: n
+09986084-n:
+  definition:
+  - confidence: 0.0
+    text: someone who communicates by means of letters
+  hypernym:
+  - 09786620-n
+  ili: i89237
+  members:
+  - comhfhreagraí
+  partOfSpeech: n
+09986240-n:
+  definition:
+  - confidence: 0.0
+    text: a journalist employed to provide news stories for newspapers or broadcast
+      media
+  hypernym:
+  - 10244248-n
+  ili: i89238
+  members:
+  - comhfhreagraí
+  partOfSpeech: n
+09988375-n:
+  definition:
+  - confidence: 0.0
+    text: someone who gives advice about problems
+  hypernym:
+  - 09793689-n
+  ili: i89253
+  members:
+  - comhairleoir
+  partOfSpeech: n
+09990229-n:
+  definition:
+  - confidence: 0.0
+    text: a person from your own country
+  hypernym:
+  - 09648571-n
+  ili: i89266
+  members:
+  - comhthíreach
+  partOfSpeech: n
+09991369-n:
+  definition:
+  - confidence: 0.0
+    text: an attendant at the court of a sovereign
+  hypernym:
+  - 09835195-n
+  ili: i89275
+  members:
+  - cúirteoir
+  partOfSpeech: n
+09991540-n:
+  definition:
+  - confidence: 0.0
+    text: the child of your aunt or uncle
+  hypernym:
+  - 10255246-n
+  ili: i89276
+  members:
+  - col ceathrair
+  partOfSpeech: n
+09992602-n:
+  definition:
+  - confidence: 0.0
+    text: a performer who gives exhibitions of riding and roping and bulldogging
+  hypernym:
+  - 10435383-n
+  ili: i89282
+  members:
+  - buachaill bó
+  partOfSpeech: n
+09993154-n:
+  definition:
+  - confidence: 0.0
+    text: the helmsman of a ship's boat or a racing crew
+  hypernym:
+  - 10566190-n
+  ili: i89286
+  members:
+  - liagóir
+  partOfSpeech: n
+09994178-n:
+  definition:
+  - confidence: 0.0
+    text: a skilled worker who practices some trade or handicraft
+  hypernym:
+  - 09655706-n
+  ili: i89293
+  members:
+  - ceardaí
+  partOfSpeech: n
+09996258-n:
+  definition:
+  - confidence: 0.0
+    text: a person to whom money is owed by a debtor; someone to whom an obligation
+      exists
+  hypernym:
+  - 09786620-n
+  ili: i89303
+  members:
+  - creidiúnaí
+  partOfSpeech: n
+09997190-n:
+  definition:
+  - confidence: 0.0
+    text: someone who has committed a crime or has been legally convicted of a crime
+  hypernym:
+  - 09657157-n
+  ili: i89309
+  members:
+  - coirpeach
+  partOfSpeech: n
+10002583-n:
+  definition:
+  - confidence: 0.0
+    text: the attendant (usually an officer of a nobleman's household) whose duty
+      is to fill and serve cups of wine
+  hypernym:
+  - 09835195-n
+  ili: i89340
+  members:
+  - dáileamh
+  partOfSpeech: n
+10003102-n:
+  definition:
+  - confidence: 0.0
+    text: a person authorized to conduct religious worship
+  hypernym:
+  - 09646208-n
+  ili: i89344
+  members:
+  - ministir
+  - reachtaire
+  partOfSpeech: n
+10003419-n:
+  definition:
+  - confidence: 0.0
+    text: the custodian of a collection (as a museum or library)
+  hypernym:
+  - 10003828-n
+  ili: i89345
+  members:
+  - coimeádaí
+  partOfSpeech: n
+10003828-n:
+  definition:
+  - confidence: 0.0
+    text: one having charge of buildings or grounds or animals
+  hypernym:
+  - 09637714-n
+  ili: i89348
+  members:
+  - coimeádaí
+  partOfSpeech: n
+10004189-n:
+  definition:
+  - confidence: 0.0
+    text: someone who pays for goods or services
+  hypernym:
+  - 09635878-n
+  ili: i89349
+  members:
+  - cliant
+  - custaiméir
+  partOfSpeech: n
+10005719-n:
+  definition:
+  - confidence: 0.0
+    text: a person who rides a bicycle
+  hypernym:
+  - 09652940-n
+  ili: i89359
+  members:
+  - rothaí
+  partOfSpeech: n
+10006777-n:
+  definition:
+  - confidence: 0.0
+    text: a male monarch or emperor (especially of Russia prior to 1917)
+  hypernym:
+  - 10648006-n
+  ili: i89366
+  members:
+  - sár
+  partOfSpeech: n
+10007601-n:
+  definition:
+  - confidence: 0.0
+    text: an informal term for a father; probably derived from baby talk
+  hypernym:
+  - 10100638-n
+  ili: i89370
+  members:
+  - daid
+  partOfSpeech: n
+10009953-n:
+  definition:
+  - confidence: 0.0
+    text: a person who participates in a social gathering arranged for dancing (as
+      a ball)
+  hypernym:
+  - 09786620-n
+  ili: i89382
+  members:
+  - damhsóir
+  - rinceoir
+  partOfSpeech: n
+10012375-n:
+  definition:
+  - confidence: 0.0
+    text: a female human offspring
+  hypernym:
+  - 10393697-n
+  ili: i89398
+  members:
+  - iníon
+  partOfSpeech: n
+10014058-n:
+  definition:
+  - confidence: 0.0
+    text: a cleric ranking just below a priest in Christian churches; one of the Holy
+      Orders
+  hypernym:
+  - 13968971-n
+  - 09646208-n
+  ili: i89408
+  members:
+  - deagánach
+  partOfSpeech: n
+10017160-n:
+  definition:
+  - confidence: 0.0
+    text: a person who owes a creditor; someone who has the obligation of paying a
+      debt
+  hypernym:
+  - 09786620-n
+  ili: i89429
+  members:
+  - fiachóir
+  - féichiúnaí
+  partOfSpeech: n
+10019052-n:
+  definition:
+  - confidence: 0.0
+    text: someone who fails to meet a financial obligation
+  hypernym:
+  - 10017160-n
+  ili: i89438
+  members:
+  - mainnitheoir
+  partOfSpeech: n
+10020380-n:
+  definition:
+  - confidence: 0.0
+    text: a person appointed or elected to represent others
+  hypernym:
+  - 10371605-n
+  ili: i89446
+  members:
+  - toscaire
+  partOfSpeech: n
+10022422-n:
+  definition:
+  - confidence: 0.0
+    text: someone who participates in a public display of group feeling
+  hypernym:
+  - 10534787-n
+  ili: i89459
+  members:
+  - agóideoir
+  - léirsitheoir
+  partOfSpeech: n
+10023944-n:
+  definition:
+  - confidence: 0.0
+    text: a person qualified to practice dentistry
+  hypernym:
+  - 10499838-n
+  ili: i89469
+  members:
+  - fiaclóir
+  partOfSpeech: n
+10024466-n:
+  definition:
+  - confidence: 0.0
+    text: a person who relies on another person for support (especially financial
+      support)
+  hypernym:
+  - 09651094-n
+  ili: i89472
+  members:
+  - cleithiúnaí
+  partOfSpeech: n
+10024668-n:
+  definition:
+  - confidence: 0.0
+    text: a person who has deposited money in a bank or similar institution
+  hypernym:
+  - 10235776-n
+  ili: i89473
+  members:
+  - taisceoir
+  partOfSpeech: n
+10024942-n:
+  definition:
+  - confidence: 0.0
+    text: an assistant with power to act when their superior is absent
+  hypernym:
+  - 09835195-n
+  ili: i89475
+  members:
+  - ionadaí
+  partOfSpeech: n
+10025839-n:
+  definition:
+  - confidence: 0.0
+    text: a doctor who specializes in the physiology and pathology of the skin
+  hypernym:
+  - 10040615-n
+  ili: i89480
+  members:
+  - deirmeolaí
+  partOfSpeech: n
+10029138-n:
+  definition:
+  - confidence: 0.0
+    text: an investigator engaged or employed in obtaining information not easily
+      available to the public
+  hypernym:
+  - 10235293-n
+  ili: i89497
+  members:
+  - bleachtaire
+  partOfSpeech: n
+10029716-n:
+  definition:
+  - confidence: 0.0
+    text: someone who develops real estate (especially someone who prepares a site
+      for residential or commercial use)
+  hypernym:
+  - 09637345-n
+  ili: i89500
+  members:
+  - forbróir
+  partOfSpeech: n
+10030728-n:
+  definition:
+  - confidence: 0.0
+    text: a doctor who specializes in medical diagnosis
+  hypernym:
+  - 10040615-n
+  ili: i89508
+  members:
+  - paiteolaí
+  partOfSpeech: n
+10033672-n:
+  definition:
+  - confidence: 0.0
+    text: an official engaged in international negotiations
+  hypernym:
+  - 10392072-n
+  ili: i89525
+  members:
+  - taidhleoir
+  partOfSpeech: n
+10034684-n:
+  definition:
+  - confidence: 0.0
+    text: someone who controls resources and expenditures
+  hypernym:
+  - 09790372-n
+  ili: i89528
+  members:
+  - bainisteoir
+  - stiúrthóir
+  partOfSpeech: n
+10037746-n:
+  definition:
+  - confidence: 0.0
+    text: a person who dissents from some established policy
+  hypernym:
+  - 09786620-n
+  ili: i89542
+  members:
+  - agóideoir
+  - easaontach
+  - easaontóir
+  partOfSpeech: n
+10038378-n:
+  definition:
+  - confidence: 0.0
+    text: someone who distills alcoholic liquors
+  hypernym:
+  - 10311977-n
+  ili: i89545
+  members:
+  - driogaire
+  partOfSpeech: n
+10038797-n:
+  definition:
+  - confidence: 0.0
+    text: an official prosecutor for a judicial district
+  hypernym:
+  - 10504443-n
+  ili: i89548
+  members:
+  - aturnae dúiche
+  partOfSpeech: n
+10039131-n:
+  definition:
+  - confidence: 0.0
+    text: someone who dives (into water)
+  hypernym:
+  - 09839665-n
+  ili: i89551
+  members:
+  - tumaire
+  partOfSpeech: n
+10040615-n:
+  definition:
+  - confidence: 0.0
+    text: a licensed medical practitioner
+  hypernym:
+  - 10499838-n
+  ili: i89560
+  members:
+  - dochtúir
+  - lia
+  partOfSpeech: n
+10041617-n:
+  definition:
+  - confidence: 0.0
+    text: a person who holds Ph.D. degree (or the equivalent) from an academic institution
+  hypernym:
+  - 10577282-n
+  ili: i89561
+  members:
+  - dochtúir
+  partOfSpeech: n
+10045455-n:
+  definition:
+  - confidence: 0.0
+    text: person who makes a gift of property
+  hypernym:
+  - 09786620-n
+  ili: i89585
+  members:
+  - deontóir
+  partOfSpeech: n
+10048994-n:
+  definition:
+  - confidence: 0.0
+    text: a skilled worker who draws plans of buildings or machines
+  hypernym:
+  - 09655706-n
+  ili: i89606
+  members:
+  - línitheoir
+  partOfSpeech: n
+10050002-n:
+  definition:
+  - confidence: 0.0
+    text: someone who writes plays
+  hypernym:
+  - 10813654-n
+  ili: i89612
+  members:
+  - drámadóir
+  partOfSpeech: n
+10051915-n:
+  definition:
+  - confidence: 0.0
+    text: a dealer in fabrics and sewing materials (and sometimes in clothing and
+      drygoods)
+  hypernym:
+  - 10740102-n
+  ili: i89613
+  members:
+  - éadaitheoir
+  partOfSpeech: n
+10053137-n:
+  definition:
+  - confidence: 0.0
+    text: a woman who makes or mends dresses
+  hypernym:
+  - 10807146-n
+  - 10303761-n
+  ili: i89621
+  members:
+  - gúnadóir
+  partOfSpeech: n
+10054631-n:
+  definition:
+  - confidence: 0.0
+    text: the operator of a motor vehicle
+  hypernym:
+  - 10398111-n
+  ili: i89629
+  members:
+  - tiománaí
+  partOfSpeech: n
+10055155-n:
+  definition:
+  - confidence: 0.0
+    text: someone who drives animals that pull a vehicle
+  hypernym:
+  - 09655706-n
+  ili: i89631
+  members:
+  - tiománaí
+  partOfSpeech: n
+10055991-n:
+  definition:
+  - confidence: 0.0
+    text: a person who takes drugs
+  hypernym:
+  - 09786620-n
+  ili: i89636
+  members:
+  - úsáideoir
+  partOfSpeech: n
+10056169-n:
+  definition:
+  - confidence: 0.0
+    text: a pre-Christian priest among the Celts of ancient Gaul and Britain and Ireland
+  hypernym:
+  - 09646208-n
+  ili: i89637
+  members:
+  - draoi
+  partOfSpeech: n
+10056654-n:
+  definition:
+  - confidence: 0.0
+    text: someone who plays a drum
+  hypernym:
+  - 10360025-n
+  ili: i89641
+  members:
+  - drumadóir
+  partOfSpeech: n
+10058134-n:
+  definition:
+  - confidence: 0.0
+    text: the wife of a duke or a woman holding ducal title in her own right
+  hypernym:
+  - 10807146-n
+  - 09646208-n
+  ili: i89650
+  members:
+  - bandiúc
+  partOfSpeech: n
+10058503-n:
+  definition:
+  - confidence: 0.0
+    text: a nobleman (in various countries) of high rank
+  hypernym:
+  - 10306910-n
+  - 09646208-n
+  ili: i89653
+  members:
+  - diúc
+  partOfSpeech: n
+10063451-n:
+  definition:
+  - confidence: 0.0
+    text: an expert in the science of economics
+  hypernym:
+  - 10580065-n
+  ili: i89685
+  members:
+  - eacnamaí
+  partOfSpeech: n
+10064687-n:
+  definition:
+  - confidence: 0.0
+    text: a person responsible for the editorial aspects of publication; the person
+      who determines the final content of a text (especially of a newspaper or magazine)
+  hypernym:
+  - 09655706-n
+  ili: i89689
+  members:
+  - eagarthóir
+  partOfSpeech: n
+10065521-n:
+  definition:
+  - confidence: 0.0
+    text: someone who educates young people
+  hypernym:
+  - 10499838-n
+  ili: i89692
+  members:
+  - múinteoir
+  - oideoir
+  partOfSpeech: n
+10069171-n:
+  definition:
+  - confidence: 0.0
+    text: a person who installs or repairs electrical or telephone lines
+  hypernym:
+  - 09655706-n
+  ili: i89711
+  members:
+  - leictreoir
+  partOfSpeech: n
+10072305-n:
+  definition:
+  - confidence: 0.0
+    text: an independent ruler or chieftain (especially in Africa or Arabia)
+  hypernym:
+  - 10560786-n
+  ili: i89733
+  members:
+  - éimír
+  partOfSpeech: n
+10072812-n:
+  definition:
+  - confidence: 0.0
+    text: the male ruler of an empire
+  hypernym:
+  - 10648006-n
+  ili: i89736
+  members:
+  - impire
+  partOfSpeech: n
+10073616-n:
+  definition:
+  - confidence: 0.0
+    text: a worker who is hired to perform a job
+  hypernym:
+  - 09655706-n
+  ili: i89740
+  members:
+  - fostaí
+  partOfSpeech: n
+10074465-n:
+  definition:
+  - confidence: 0.0
+    text: a person or firm that employs workers
+  hypernym:
+  - 09646208-n
+  ili: i89741
+  members:
+  - fostóir
+  partOfSpeech: n
+10075655-n:
+  definition:
+  - confidence: 0.0
+    text: an armed adversary (especially a member of an opposing military force)
+  hypernym:
+  - 09792668-n
+  ili: i89750
+  members:
+  - namhaid
+  partOfSpeech: n
+10079712-n:
+  definition:
+  - confidence: 0.0
+    text: a zoologist who studies insects
+  hypernym:
+  - 10825826-n
+  ili: i89772
+  members:
+  - feithideolaí
+  partOfSpeech: n
+10080160-n:
+  definition:
+  - confidence: 0.0
+    text: someone who organizes a business venture and assumes the risk for it
+  hypernym:
+  - 09786620-n
+  ili: i89775
+  members:
+  - fiontraí
+  partOfSpeech: n
+10084873-n:
+  definition:
+  - confidence: 0.0
+    text: a philosopher who specializes in ethics
+  hypernym:
+  - 10443334-n
+  ili: i89807
+  members:
+  - eiticí
+  partOfSpeech: n
+10085450-n:
+  definition:
+  - confidence: 0.0
+    text: an anthropologist who does ethnography
+  hypernym:
+  - 09815764-n
+  ili: i89810
+  members:
+  - eitneagrafaí
+  partOfSpeech: n
+10085565-n:
+  definition:
+  - confidence: 0.0
+    text: an anthropologist who studies ethnology
+  hypernym:
+  - 09815764-n
+  ili: i89811
+  members:
+  - eitneolaí
+  partOfSpeech: n
+10086259-n:
+  definition:
+  - confidence: 0.0
+    text: a man who has been castrated and is incapable of reproduction
+  hypernym:
+  - 10306910-n
+  ili: i89816
+  members:
+  - coillteán
+  partOfSpeech: n
+10086539-n:
+  definition:
+  - confidence: 0.0
+    text: an authority who is able to estimate worth or quality
+  hypernym:
+  - 09640897-n
+  ili: i89818
+  members:
+  - meastóir
+  partOfSpeech: n
+10087775-n:
+  definition:
+  - confidence: 0.0
+    text: an investigator who observes carefully
+  hypernym:
+  - 10235293-n
+  ili: i89824
+  members:
+  - cigire
+  partOfSpeech: n
+10088041-n:
+  definition:
+  - confidence: 0.0
+    text: someone who administers a test to determine your qualifications
+  hypernym:
+  - 10227450-n
+  ili: i89825
+  members:
+  - scrúdaitheoir
+  partOfSpeech: n
+10088927-n:
+  definition:
+  - confidence: 0.0
+    text: one whose business is to exchange the money of one country for that of another
+      country
+  hypernym:
+  - 09786620-n
+  ili: i89831
+  members:
+  - malartóir
+  partOfSpeech: n
+10089234-n:
+  definition:
+  - confidence: 0.0
+    text: an official who inflicts capital punishment in pursuit of a warrant
+  hypernym:
+  - 09786620-n
+  ili: i89833
+  members:
+  - básadóir
+  partOfSpeech: n
+10091139-n:
+  definition:
+  - confidence: 0.0
+    text: a person who is voluntarily absent from home or country
+  hypernym:
+  - 09652940-n
+  ili: i89845
+  members:
+  - deoraí
+  partOfSpeech: n
+10092496-n:
+  definition:
+  - confidence: 0.0
+    text: someone who travels into little known regions (especially for some scientific
+      purpose)
+  hypernym:
+  - 09786620-n
+  ili: i89852
+  members:
+  - taiscéalaí
+  partOfSpeech: n
+10093422-n:
+  definition:
+  - confidence: 0.0
+    text: a businessperson who transports goods abroad (for sale)
+  hypernym:
+  - 09786620-n
+  ili: i89853
+  members:
+  - onnmhaireoir
+  partOfSpeech: n
+10095317-n:
+  definition:
+  - confidence: 0.0
+    text: a person who tells or invents fables
+  hypernym:
+  - 10649550-n
+  ili: i89866
+  members:
+  - fabhalscéalaí
+  - finscéalaí
+  partOfSpeech: n
+10095481-n:
+  definition:
+  - confidence: 0.0
+    text: someone who makes progress easier
+  hypernym:
+  - 09835195-n
+  ili: i89867
+  members:
+  - éascaitheoir
+  partOfSpeech: n
+10098586-n:
+  definition:
+  - confidence: 0.0
+    text: a person who operates a farm
+  hypernym:
+  - 09637345-n
+  ili: i89889
+  members:
+  - feirmeoir
+  partOfSpeech: n
+10099457-n:
+  definition:
+  - confidence: 0.0
+    text: a person who shoes horses
+  hypernym:
+  - 09655706-n
+  ili: i89893
+  members:
+  - crúdóir
+  partOfSpeech: n
+10100638-n:
+  definition:
+  - confidence: 0.0
+    text: a male parent (also used as a term of address to your father)
+  hypernym:
+  - 10419190-n
+  ili: i89901
+  members:
+  - athair
+  partOfSpeech: n
+10104064-n:
+  definition:
+  - confidence: 0.0
+    text: a youthful female person
+  hypernym:
+  - 00007846-n
+  ili: i89923
+  members:
+  - cailín
+  partOfSpeech: n
+10106590-n:
+  definition:
+  - confidence: 0.0
+    text: an officer holding the highest rank in the army
+  hypernym:
+  - 10315837-n
+  ili: i89937
+  members:
+  - marascal machaire
+  partOfSpeech: n
+10109789-n:
+  definition:
+  - confidence: 0.0
+    text: a person skilled in large scale financial transactions
+  hypernym:
+  - 09786620-n
+  ili: i89951
+  members:
+  - airgeadaí
+  partOfSpeech: n
+10113427-n:
+  definition:
+  - confidence: 0.0
+    text: someone whose occupation is catching fish
+  hypernym:
+  - 09655706-n
+  ili: i89974
+  members:
+  - iascaire
+  partOfSpeech: n
+10118014-n:
+  definition:
+  - confidence: 0.0
+    text: someone who plays the flute
+  hypernym:
+  - 10360025-n
+  ili: i90008
+  members:
+  - fliúiteadóir
+  partOfSpeech: n
+10120530-n:
+  definition:
+  - confidence: 0.0
+    text: a person who lacks good judgment
+  hypernym:
+  - 00007846-n
+  ili: i90022
+  members:
+  - amadán
+  partOfSpeech: n
+10123254-n:
+  definition:
+  - confidence: 0.0
+    text: a person who comes from a foreign country; someone who does not owe allegiance
+      to your country
+  hypernym:
+  - 09652940-n
+  ili: i90038
+  members:
+  - eachtrannach
+  partOfSpeech: n
+10124525-n:
+  definition:
+  - confidence: 0.0
+    text: someone trained in forestry
+  hypernym:
+  - 10098586-n
+  ili: i90045
+  members:
+  - foraoiseoir
+  partOfSpeech: n
+10127072-n:
+  definition:
+  - confidence: 0.0
+    text: a person who founds or establishes some institution
+  hypernym:
+  - 10403515-n
+  ili: i90063
+  members:
+  - bunaitheoir
+  partOfSpeech: n
+10130190-n:
+  definition:
+  - confidence: 0.0
+    text: a writer or artist who sells services to different employers without a long-term
+      contract with any of them
+  hypernym:
+  - 09655706-n
+  ili: i90085
+  members:
+  - saoroibrí
+  partOfSpeech: n
+10131898-n:
+  definition:
+  - confidence: 0.0
+    text: a male religious living in a cloister and devoting himself to contemplation
+      and prayer and work
+  hypernym:
+  - 09786620-n
+  ili: i90096
+  members:
+  - manach
+  partOfSpeech: n
+10132360-n:
+  definition:
+  - confidence: 0.0
+    text: a person you know well and regard with affection and trust
+  hypernym:
+  - 09786620-n
+  ili: i90098
+  members:
+  - cara
+  partOfSpeech: n
+10134554-n:
+  definition:
+  - confidence: 0.0
+    text: someone who is sought by law officers; someone trying to elude justice
+  hypernym:
+  - 09997190-n
+  ili: i90112
+  members:
+  - éalaitheach
+  partOfSpeech: n
+10139742-n:
+  definition:
+  - confidence: 0.0
+    text: a criminal who is a member of gang
+  hypernym:
+  - 09997190-n
+  ili: i90150
+  members:
+  - drongadóir
+  - gangstaer
+  partOfSpeech: n
+10140190-n:
+  definition:
+  - confidence: 0.0
+    text: someone who takes care of a garden
+  hypernym:
+  - 09640897-n
+  ili: i90152
+  members:
+  - garraíodóir
+  partOfSpeech: n
+10143381-n:
+  definition:
+  - confidence: 0.0
+    text: a general officer of the highest rank
+  hypernym:
+  - 10336665-n
+  ili: i90178
+  members:
+  - ginearál
+  partOfSpeech: n
+10145714-n:
+  definition:
+  - confidence: 0.0
+    text: someone who originates or causes or initiates something
+  hypernym:
+  - 10303761-n
+  ili: i90183
+  members:
+  - údar
+  partOfSpeech: n
+10147092-n:
+  definition:
+  - confidence: 0.0
+    text: an expert on geography
+  hypernym:
+  - 09640897-n
+  ili: i90191
+  members:
+  - tíreolaí
+  partOfSpeech: n
+10147226-n:
+  definition:
+  - confidence: 0.0
+    text: a specialist in geology
+  hypernym:
+  - 10580065-n
+  ili: i90192
+  members:
+  - geolaí
+  partOfSpeech: n
+10149362-n:
+  definition:
+  - confidence: 0.0
+    text: a young female
+  hypernym:
+  - 00007846-n
+  ili: i90206
+  members:
+  - cailín
+  partOfSpeech: n
+10150206-n:
+  definition:
+  - confidence: 0.0
+    text: a girl or young woman with whom a man is romantically involved
+  hypernym:
+  - 10807146-n
+  - 09786620-n
+  ili: i90209
+  members:
+  - cailín
+  partOfSpeech: n
+10151335-n:
+  definition:
+  - confidence: 0.0
+    text: (ancient Rome) a professional combatant or a captive who entertained the
+      public by engaging in mortal combat
+  hypernym:
+  - 09958771-n
+  ili: i90217
+  members:
+  - gliaire
+  partOfSpeech: n
+10153521-n:
+  definition:
+  - confidence: 0.0
+    text: the soccer or hockey player assigned to protect the goal
+  hypernym:
+  - 09839665-n
+  - 10459618-n
+  ili: i90232
+  members:
+  - cúl báire
+  partOfSpeech: n
+10154502-n:
+  definition:
+  - confidence: 0.0
+    text: a person who sponsors someone (the godchild) at baptism
+  hypernym:
+  - 09786620-n
+  ili: i90240
+  members:
+  - cara Críost
+  partOfSpeech: n
+10156135-n:
+  definition:
+  - confidence: 0.0
+    text: an artisan who makes jewelry and other objects out of gold
+  hypernym:
+  - 10303761-n
+  ili: i90251
+  members:
+  - gabha óir
+  - órcheardaí
+  partOfSpeech: n
+10156479-n:
+  definition:
+  - confidence: 0.0
+    text: someone who plays the game of golf
+  hypernym:
+  - 10459618-n
+  ili: i90253
+  members:
+  - galfaire
+  partOfSpeech: n
+10159689-n:
+  definition:
+  - confidence: 0.0
+    text: a woman entrusted with the care and supervision of a child (especially in
+      a private home)
+  hypernym:
+  - 10713754-n
+  - 10807146-n
+  ili: i90271
+  members:
+  - máistreás
+  partOfSpeech: n
+10159834-n:
+  definition:
+  - confidence: 0.0
+    text: the head of a state government
+  hypernym:
+  - 10470837-n
+  ili: i90272
+  members:
+  - rialtóir
+  - gobharnóir
+  partOfSpeech: n
+10161110-n:
+  definition:
+  - confidence: 0.0
+    text: a child of your son or daughter
+  hypernym:
+  - 10393697-n
+  ili: i90280
+  members:
+  - garleanbh
+  - garpháiste
+  partOfSpeech: n
+10161911-n:
+  definition:
+  - confidence: 0.0
+    text: the father of your father or mother
+  hypernym:
+  - 10162692-n
+  ili: i90287
+  members:
+  - seanathair
+  partOfSpeech: n
+10162267-n:
+  definition:
+  - confidence: 0.0
+    text: the mother of your father or mother
+  hypernym:
+  - 10162692-n
+  ili: i90289
+  members:
+  - seanmháthair
+  partOfSpeech: n
+10162692-n:
+  definition:
+  - confidence: 0.0
+    text: a parent of your father or mother
+  hypernym:
+  - 09811996-n
+  ili: i90292
+  members:
+  - seantuismitheoir
+  partOfSpeech: n
+10163409-n:
+  definition:
+  - confidence: 0.0
+    text: a person who makes a grant in legal form
+  hypernym:
+  - 09786620-n
+  ili: i90298
+  members:
+  - deontóir
+  partOfSpeech: n
+10163988-n:
+  definition:
+  - confidence: 0.0
+    text: a person who earns a living by digging graves
+  hypernym:
+  - 10260997-n
+  ili: i90302
+  members:
+  - reiligire
+  partOfSpeech: n
+10167230-n:
+  definition:
+  - confidence: 0.0
+    text: a retail merchant who sells foodstuffs (and some household supplies)
+  hypernym:
+  - 10329563-n
+  ili: i90329
+  members:
+  - grósaeir
+  partOfSpeech: n
+10169047-n:
+  definition:
+  - confidence: 0.0
+    text: one who provides a warrant or guarantee to another
+  hypernym:
+  - 09786620-n
+  ili: i90342
+  members:
+  - ráthóir
+  partOfSpeech: n
+10169387-n:
+  definition:
+  - confidence: 0.0
+    text: someone who guards prisoners
+  hypernym:
+  - 09637714-n
+  ili: i90344
+  members:
+  - eochróir
+  partOfSpeech: n
+10169591-n:
+  definition:
+  - confidence: 0.0
+    text: a person who keeps watch over something or someone
+  hypernym:
+  - 09637714-n
+  ili: i90345
+  members:
+  - garda
+  partOfSpeech: n
+10171280-n:
+  definition:
+  - confidence: 0.0
+    text: a musician who plays the guitar
+  hypernym:
+  - 10360025-n
+  ili: i90355
+  members:
+  - giotáraí
+  partOfSpeech: n
+10171603-n:
+  definition:
+  - confidence: 0.0
+    text: a professional killer who uses a gun
+  hypernym:
+  - 10358420-n
+  ili: i90357
+  members:
+  - lámhachóir
+  partOfSpeech: n
+10172136-n:
+  definition:
+  - confidence: 0.0
+    text: a Hindu or Buddhist religious leader and spiritual teacher
+  hypernym:
+  - 09646208-n
+  ili: i90361
+  members:
+  - gúrú
+  partOfSpeech: n
+10175409-n:
+  definition:
+  - confidence: 0.0
+    text: someone who cuts or beautifies hair
+  hypernym:
+  - 09994178-n
+  ili: i90381
+  members:
+  - gruagaire
+  partOfSpeech: n
+10180363-n:
+  definition:
+  - confidence: 0.0
+    text: someone who plays the harp
+  hypernym:
+  - 10360025-n
+  ili: i90414
+  members:
+  - cláirseoir
+  - cruitire
+  partOfSpeech: n
+10181947-n:
+  definition:
+  - confidence: 0.0
+    text: someone who makes and sells hats
+  hypernym:
+  - 10303761-n
+  - 10329563-n
+  ili: i90427
+  members:
+  - haitéir
+  partOfSpeech: n
+10182100-n:
+  definition:
+  - confidence: 0.0
+    text: a haulage contractor
+  hypernym:
+  - 09980167-n
+  ili: i90428
+  members:
+  - tarlóir
+  partOfSpeech: n
+10182584-n:
+  definition:
+  - confidence: 0.0
+    text: a person who is in charge
+  hypernym:
+  - 09646208-n
+  ili: i90431
+  members:
+  - ceann
+  - ceannaire
+  partOfSpeech: n
+10183826-n:
+  definition:
+  - confidence: 0.0
+    text: presiding officer of a school
+  hypernym:
+  - 10306910-n
+  - 10065521-n
+  ili: i90438
+  members:
+  - máistir
+  partOfSpeech: n
+10191239-n:
+  definition:
+  - confidence: 0.0
+    text: someone who drives a herd
+  hypernym:
+  - 10260997-n
+  ili: i90486
+  members:
+  - aoire
+  partOfSpeech: n
+10196781-n:
+  definition:
+  - confidence: 0.0
+    text: a person who is an authority on history and who studies it and writes about
+      it
+  hypernym:
+  - 10577282-n
+  ili: i90521
+  members:
+  - staraí
+  partOfSpeech: n
+10199542-n:
+  definition:
+  - confidence: 0.0
+    text: the person who is in possession of a check or note or bond or document of
+      title that is endorsed to them or to whoever holds it
+  hypernym:
+  - 09786620-n
+  ili: i90534
+  members:
+  - sealbhóir
+  partOfSpeech: n
+10199809-n:
+  definition:
+  - confidence: 0.0
+    text: a person who holds something
+  hypernym:
+  - 09786620-n
+  ili: i90535
+  members:
+  - sealbhóir
+  partOfSpeech: n
+10202033-n:
+  definition:
+  - confidence: 0.0
+    text: a practitioner of homeopathy
+  hypernym:
+  - 10482426-n
+  ili: i90548
+  members:
+  - hoiméapat
+  partOfSpeech: n
+10205412-n:
+  definition:
+  - confidence: 0.0
+    text: a person skilled in equitation
+  hypernym:
+  - 10549540-n
+  ili: i90570
+  members:
+  - marcach
+  partOfSpeech: n
+10207176-n:
+  definition:
+  - confidence: 0.0
+    text: a prisoner who is held by one party to insure that another party will meet
+      specified terms
+  hypernym:
+  - 10495671-n
+  ili: i90583
+  members:
+  - giall
+  partOfSpeech: n
+10209395-n:
+  definition:
+  - confidence: 0.0
+    text: a wife who manages a household while her husband earns the family income
+  hypernym:
+  - 10800308-n
+  ili: i90599
+  members:
+  - bean tí
+  partOfSpeech: n
+10212645-n:
+  definition:
+  - confidence: 0.0
+    text: someone who hunts game
+  hypernym:
+  - 09655706-n
+  ili: i90620
+  members:
+  - sealgaire
+  partOfSpeech: n
+10213483-n:
+  definition:
+  - confidence: 0.0
+    text: an athlete who runs the hurdles
+  hypernym:
+  - 09839665-n
+  ili: i90625
+  members:
+  - cliathreathaí
+  partOfSpeech: n
+10213586-n:
+  definition:
+  - confidence: 0.0
+    text: a married man; a woman's partner in marriage
+  hypernym:
+  - 10660018-n
+  - 10306910-n
+  ili: i90626
+  members:
+  - fear
+  - fear céile
+  partOfSpeech: n
+10218870-n:
+  definition:
+  - confidence: 0.0
+    text: (Islam) the man who leads prayers in a mosque; for Shiites an imam is a
+      recognized authority on Islamic theology and law and a spiritual guide
+  hypernym:
+  - 09646208-n
+  - 09701687-n
+  ili: i90660
+  members:
+  - iomám
+  partOfSpeech: n
+10219108-n:
+  definition:
+  - confidence: 0.0
+    text: a person who comes to a country where they were not born in order to settle
+      there
+  hypernym:
+  - 10334610-n
+  ili: i90661
+  members:
+  - inimirceach
+  partOfSpeech: n
+10220985-n:
+  definition:
+  - confidence: 0.0
+    text: someone whose business involves importing goods from outside (especially
+      from a foreign country)
+  hypernym:
+  - 09786620-n
+  ili: i90670
+  members:
+  - allmhaireoir
+  partOfSpeech: n
+10221154-n:
+  definition:
+  - confidence: 0.0
+    text: a person who makes deceitful pretenses
+  hypernym:
+  - 09657157-n
+  ili: i90671
+  members:
+  - mealltóir
+  partOfSpeech: n
+10223796-n:
+  definition:
+  - confidence: 0.0
+    text: someone who manages or has significant financial interest in an industrial
+      enterprise
+  hypernym:
+  - 09786620-n
+  ili: i90686
+  members:
+  - tionsclaí
+  partOfSpeech: n
+10227450-n:
+  definition:
+  - confidence: 0.0
+    text: someone who asks a question
+  hypernym:
+  - 10649550-n
+  ili: i90706
+  members:
+  - ceistitheoir
+  partOfSpeech: n
+10227888-n:
+  definition:
+  - confidence: 0.0
+    text: a questioner who is excessively harsh
+  hypernym:
+  - 10227450-n
+  ili: i90708
+  members:
+  - ceistitheoir
+  partOfSpeech: n
+10232171-n:
+  definition:
+  - confidence: 0.0
+    text: someone who mediates between speakers of different languages
+  hypernym:
+  - 09647729-n
+  ili: i90733
+  members:
+  - ateangaire
+  partOfSpeech: n
+10232989-n:
+  definition:
+  - confidence: 0.0
+    text: a person who conducts an interview
+  hypernym:
+  - 10227450-n
+  ili: i90737
+  members:
+  - agallóir
+  partOfSpeech: n
+10233732-n:
+  definition:
+  - confidence: 0.0
+    text: someone who enters by force in order to conquer
+  hypernym:
+  - 09652940-n
+  ili: i90740
+  members:
+  - ionróir
+  partOfSpeech: n
+10234307-n:
+  definition:
+  - confidence: 0.0
+    text: someone who is the first to think of or make something
+  hypernym:
+  - 09637345-n
+  ili: i90743
+  members:
+  - ceapadóir
+  - cumadóir
+  partOfSpeech: n
+10235293-n:
+  definition:
+  - confidence: 0.0
+    text: someone who investigates
+  hypernym:
+  - 09640897-n
+  ili: i90744
+  members:
+  - imscrúdaitheoir
+  partOfSpeech: n
+10235776-n:
+  definition:
+  - confidence: 0.0
+    text: someone who commits capital in order to gain financial returns
+  hypernym:
+  - 09786620-n
+  ili: i90747
+  members:
+  - infheisteoir
+  partOfSpeech: n
+10236598-n:
+  definition:
+  - confidence: 0.0
+    text: a person who makes articles of iron
+  hypernym:
+  - 10303761-n
+  ili: i90752
+  members:
+  - iarnóir
+  partOfSpeech: n
+10239247-n:
+  definition:
+  - confidence: 0.0
+    text: someone employed to clean and maintain a building
+  hypernym:
+  - 10003828-n
+  ili: i90771
+  members:
+  - airíoch
+  partOfSpeech: n
+10242167-n:
+  definition:
+  - confidence: 0.0
+    text: someone who buys large quantities of goods and resells to merchants rather
+      than to the ultimate customers
+  hypernym:
+  - 10696710-n
+  ili: i90791
+  members:
+  - mórdhíoltóir
+  partOfSpeech: n
+10242847-n:
+  definition:
+  - confidence: 0.0
+    text: someone employed to ride horses in horse races
+  hypernym:
+  - 10205412-n
+  ili: i90796
+  members:
+  - jacaí
+  - marcach
+  partOfSpeech: n
+10243539-n:
+  definition:
+  - confidence: 0.0
+    text: a woodworker whose work involves making things by joining pieces of wood
+  hypernym:
+  - 09994178-n
+  ili: i90801
+  members:
+  - siúinéir
+  partOfSpeech: n
+10244248-n:
+  definition:
+  - confidence: 0.0
+    text: a writer for newspapers and magazines
+  hypernym:
+  - 10813654-n
+  ili: i90806
+  members:
+  - iriseoir
+  partOfSpeech: n
+10244889-n:
+  definition:
+  - confidence: 0.0
+    text: a public official authorized to decide questions brought before a court
+      of justice
+  hypernym:
+  - 10392072-n
+  ili: i90808
+  members:
+  - breitheamh
+  - giúistís
+  partOfSpeech: n
+10247655-n:
+  definition:
+  - confidence: 0.0
+    text: a legal scholar versed in civil law or the law of nations
+  hypernym:
+  - 09640897-n
+  ili: i90825
+  members:
+  - dlí-eolaí
+  partOfSpeech: n
+10251212-n:
+  definition:
+  - confidence: 0.0
+    text: a male sovereign; ruler of a kingdom
+  hypernym:
+  - 10648006-n
+  - 10306910-n
+  ili: i90847
+  members:
+  - rí
+  partOfSpeech: n
+10255246-n:
+  definition:
+  - confidence: 0.0
+    text: a person related by blood or marriage
+  hypernym:
+  - 00007846-n
+  ili: i90856
+  members:
+  - gaol
+  partOfSpeech: n
+10258072-n:
+  definition:
+  - confidence: 0.0
+    text: originally a person of noble birth trained to arms and chivalry; today in
+      Great Britain a person honored by the sovereign for personal merit
+  hypernym:
+  - 09646208-n
+  ili: i90874
+  members:
+  - ridire
+  partOfSpeech: n
+10260997-n:
+  definition:
+  - confidence: 0.0
+    text: someone who works with their hands; someone engaged in manual labor
+  hypernym:
+  - 10073616-n
+  ili: i90892
+  members:
+  - oibrí
+  - saothraí
+  partOfSpeech: n
+10262834-n:
+  definition:
+  - confidence: 0.0
+    text: a polite name for any woman
+  hypernym:
+  - 10807146-n
+  ili: i90899
+  members:
+  - bean
+  partOfSpeech: n
+10262970-n:
+  definition:
+  - confidence: 0.0
+    text: a lady appointed to attend to a queen or princess
+  hypernym:
+  - 10807146-n
+  - 09646208-n
+  ili: i90900
+  members:
+  - bean choimhdeachta
+  partOfSpeech: n
+10264362-n:
+  definition:
+  - confidence: 0.0
+    text: an enlisted man in the marine corps ranking above a private first class
+      and below a corporal
+  hypernym:
+  - 10336665-n
+  ili: i90912
+  members:
+  - leascheannaire
+  partOfSpeech: n
+10268967-n:
+  definition:
+  - confidence: 0.0
+    text: a maker of laws; someone who gives a code of laws
+  hypernym:
+  - 09646208-n
+  ili: i90945
+  members:
+  - reachtóir
+  partOfSpeech: n
+10269647-n:
+  definition:
+  - confidence: 0.0
+    text: a professional person authorized to practice law; conducts lawsuits or gives
+      legal advice
+  hypernym:
+  - 10499838-n
+  ili: i90948
+  members:
+  - abhcóide
+  - aturnae
+  - dlíodóir
+  partOfSpeech: n
+10270224-n:
+  definition:
+  - confidence: 0.0
+    text: someone who is not a clergyman or a professional person
+  hypernym:
+  - 09786620-n
+  ili: i90949
+  members:
+  - tuata
+  partOfSpeech: n
+10271476-n:
+  definition:
+  - confidence: 0.0
+    text: someone (especially a child) who learns (as from a teacher) or takes up
+      knowledge or beliefs
+  hypernym:
+  - 09786620-n
+  ili: i90958
+  members:
+  - foghlaimeoir
+  partOfSpeech: n
+10271772-n:
+  definition:
+  - confidence: 0.0
+    text: a tenant who holds a lease
+  hypernym:
+  - 10719850-n
+  - 10199809-n
+  ili: i90959
+  members:
+  - léasaí
+  partOfSpeech: n
+10271919-n:
+  definition:
+  - confidence: 0.0
+    text: a public lecturer at certain universities
+  hypernym:
+  - 10065521-n
+  ili: i90960
+  members:
+  - léachtóir
+  partOfSpeech: n
+10273400-n:
+  definition:
+  - confidence: 0.0
+    text: a soldier who is a member of a legion (especially the French Foreign Legion)
+  hypernym:
+  - 10641415-n
+  ili: i90969
+  members:
+  - léigiúnach
+  partOfSpeech: n
+10273692-n:
+  definition:
+  - confidence: 0.0
+    text: someone who makes or enacts laws
+  hypernym:
+  - 10268967-n
+  - 10470837-n
+  ili: i90971
+  members:
+  - reachtóir
+  partOfSpeech: n
+10274089-n:
+  definition:
+  - confidence: 0.0
+    text: someone who lends money or gives credit in business matters
+  hypernym:
+  - 10235776-n
+  ili: i90972
+  members:
+  - iasachtóir
+  partOfSpeech: n
+10274793-n:
+  definition:
+  - confidence: 0.0
+    text: someone who grants a lease
+  hypernym:
+  - 10408623-n
+  ili: i90977
+  members:
+  - léasóir
+  partOfSpeech: n
+10276234-n:
+  definition:
+  - confidence: 0.0
+    text: a person who has lied or who lies repeatedly
+  hypernym:
+  - 09657157-n
+  ili: i90985
+  members:
+  - bréagach
+  partOfSpeech: n
+10277645-n:
+  definition:
+  - confidence: 0.0
+    text: a professional person trained in library science and engaged in library
+      services
+  hypernym:
+  - 10499838-n
+  ili: i90992
+  members:
+  - leabharlannaí
+  partOfSpeech: n
+10280497-n:
+  definition:
+  - confidence: 0.0
+    text: an attendant employed at a beach or pool to protect swimmers from accidents
+  hypernym:
+  - 09835195-n
+  ili: i91010
+  members:
+  - garda tarrthála
+  partOfSpeech: n
+10283916-n:
+  definition:
+  - confidence: 0.0
+    text: a person who speaks more than one language
+  hypernym:
+  - 09786620-n
+  ili: i91037
+  members:
+  - ilbhéarlach
+  - ilteangach
+  partOfSpeech: n
+10284134-n:
+  definition:
+  - confidence: 0.0
+    text: a specialist in linguistics
+  hypernym:
+  - 10580065-n
+  ili: i91038
+  members:
+  - teangeolaí
+  partOfSpeech: n
+10285229-n:
+  definition:
+  - confidence: 0.0
+    text: (law) a person (usually appointed by a court of law) who liquidates assets
+      or preserves them for the benefit of affected parties
+  hypernym:
+  - 09786620-n
+  ili: i91044
+  members:
+  - leachtaitheoir
+  partOfSpeech: n
+10288326-n:
+  definition:
+  - confidence: 0.0
+    text: someone who is employed to persuade legislators to vote for legislation
+      that favors the lobbyist's employer
+  hypernym:
+  - 09786620-n
+  ili: i91064
+  members:
+  - brústocaire
+  partOfSpeech: n
+10288896-n:
+  definition:
+  - confidence: 0.0
+    text: someone who makes or repairs locks
+  hypernym:
+  - 09655706-n
+  ili: i91068
+  members:
+  - glasadóir
+  partOfSpeech: n
+10289482-n:
+  definition:
+  - confidence: 0.0
+    text: a person skilled at logic
+  hypernym:
+  - 09640897-n
+  ili: i91072
+  members:
+  - loighceoir
+  partOfSpeech: n
+10295742-n:
+  definition:
+  - confidence: 0.0
+    text: a person who fells trees
+  hypernym:
+  - 10260997-n
+  ili: i91109
+  members:
+  - lománaí
+  partOfSpeech: n
+10297825-n:
+  definition:
+  - confidence: 0.0
+    text: informal terms for a mother
+  hypernym:
+  - 10352098-n
+  ili: i91123
+  members:
+  - mam
+  - mamaí
+  partOfSpeech: n
+10298715-n:
+  definition:
+  - confidence: 0.0
+    text: a craftsman skilled in operating machine tools
+  hypernym:
+  - 09994178-n
+  ili: i91129
+  members:
+  - meaisíneoir
+  partOfSpeech: n
+10299827-n:
+  definition:
+  - confidence: 0.0
+    text: an artist of consummate skill
+  hypernym:
+  - 09831743-n
+  ili: i91139
+  members:
+  - máistir
+  partOfSpeech: n
+10300642-n:
+  definition:
+  - confidence: 0.0
+    text: a lay judge or civil authority who administers the law (especially one who
+      conducts a court dealing with minor offenses)
+  hypernym:
+  - 10244889-n
+  ili: i91144
+  members:
+  - giúistís
+  partOfSpeech: n
+10303360-n:
+  definition:
+  - confidence: 0.0
+    text: a general officer ranking above a brigadier general and below a lieutenant
+      general
+  hypernym:
+  - 10336665-n
+  ili: i91163
+  members:
+  - maorghinearál
+  partOfSpeech: n
+10303761-n:
+  definition:
+  - confidence: 0.0
+    text: a person who makes things
+  hypernym:
+  - 09637345-n
+  ili: i91166
+  members:
+  - déantóir
+  partOfSpeech: n
+10305010-n:
+  definition:
+  - confidence: 0.0
+    text: a youthful male person
+  hypernym:
+  - 00007846-n
+  ili: i91171
+  members:
+  - buachaill
+  partOfSpeech: n
+10306910-n:
+  definition:
+  - confidence: 0.0
+    text: an adult person who is male (as opposed to a woman)
+  hypernym:
+  - 09628463-n
+  ili: i91182
+  members:
+  - fear
+  partOfSpeech: n
+10311977-n:
+  definition:
+  - confidence: 0.0
+    text: someone who manufactures something
+  hypernym:
+  - 10303761-n
+  ili: i91211
+  members:
+  - táirgeoir
+  partOfSpeech: n
+10313979-n:
+  definition:
+  - confidence: 0.0
+    text: a soldier who serves both on shipboard and on land
+  hypernym:
+  - 10641415-n
+  ili: i91224
+  members:
+  - muirí
+  partOfSpeech: n
+10314263-n:
+  definition:
+  - confidence: 0.0
+    text: a man who serves as a sailor
+  hypernym:
+  - 10566190-n
+  - 10306910-n
+  ili: i91226
+  members:
+  - maraí
+  partOfSpeech: n
+10315140-n:
+  definition:
+  - confidence: 0.0
+    text: nobleman (in various countries) ranking above a count
+  hypernym:
+  - 10306910-n
+  - 09646208-n
+  ili: i91230
+  members:
+  - marcas
+  partOfSpeech: n
+10315837-n:
+  definition:
+  - confidence: 0.0
+    text: (in some countries) a military officer of highest rank
+  hypernym:
+  - 10336665-n
+  ili: i91234
+  members:
+  - marascal
+  partOfSpeech: n
+10318579-n:
+  definition:
+  - confidence: 0.0
+    text: an officer who is licensed to command a merchant ship
+  hypernym:
+  - 10391440-n
+  ili: i91251
+  members:
+  - captaen
+  - máistir
+  partOfSpeech: n
+10320928-n:
+  definition:
+  - confidence: 0.0
+    text: a person skilled in mathematics
+  hypernym:
+  - 10580065-n
+  ili: i91265
+  members:
+  - matamaiticeoir
+  partOfSpeech: n
+10322853-n:
+  definition:
+  - confidence: 0.0
+    text: a woman in charge of nursing in a medical institution
+  hypernym:
+  - 10386665-n
+  - 10807146-n
+  ili: i91272
+  members:
+  - mátrún
+  partOfSpeech: n
+10323481-n:
+  definition:
+  - confidence: 0.0
+    text: the head of a city government
+  hypernym:
+  - 10470837-n
+  ili: i91277
+  members:
+  - méara
+  partOfSpeech: n
+10325946-n:
+  definition:
+  - confidence: 0.0
+    text: someone who serves as an intermediary between the living and the dead
+  hypernym:
+  - 10507894-n
+  ili: i91295
+  members:
+  - bean feasa
+  - fear feasa
+  partOfSpeech: n
+10326901-n:
+  definition:
+  - confidence: 0.0
+    text: one of the persons who compose a social group (especially individuals who
+      have joined and participate in a group organization)
+  hypernym:
+  - 09786620-n
+  ili: i91301
+  members:
+  - ball
+  - comhalta
+  partOfSpeech: n
+10328399-n:
+  definition:
+  - confidence: 0.0
+    text: a skilled worker who mends or repairs things
+  hypernym:
+  - 09655706-n
+  ili: i91308
+  members:
+  - deisitheoir
+  partOfSpeech: n
+10329281-n:
+  definition:
+  - confidence: 0.0
+    text: a person hired to fight for another country than their own
+  hypernym:
+  - 09786620-n
+  ili: i91314
+  members:
+  - amhas
+  - saighdiúir tuarastail
+  partOfSpeech: n
+10329563-n:
+  definition:
+  - confidence: 0.0
+    text: a businessperson engaged in retail trade
+  hypernym:
+  - 09786620-n
+  ili: i91316
+  members:
+  - ceannaí
+  partOfSpeech: n
+10330688-n:
+  definition:
+  - confidence: 0.0
+    text: a person who carries a message
+  hypernym:
+  - 09652940-n
+  ili: i91322
+  members:
+  - cúiréir
+  partOfSpeech: n
+10331945-n:
+  definition:
+  - confidence: 0.0
+    text: a specialist who studies processes in the earth's atmosphere that cause
+      weather conditions
+  hypernym:
+  - 10651303-n
+  ili: i91330
+  members:
+  - meitéareolaí
+  partOfSpeech: n
+10334494-n:
+  definition:
+  - confidence: 0.0
+    text: a woman skilled in aiding the delivery of babies
+  hypernym:
+  - 10386665-n
+  - 10807146-n
+  ili: i91349
+  members:
+  - cnáimhseach
+  partOfSpeech: n
+10334610-n:
+  definition:
+  - confidence: 0.0
+    text: traveler who moves from one region or country to another
+  hypernym:
+  - 09652940-n
+  ili: i91350
+  members:
+  - imirceach
+  partOfSpeech: n
+10336665-n:
+  definition:
+  - confidence: 0.0
+    text: any person in the armed services who holds a position of authority or command
+  hypernym:
+  - 09655706-n
+  ili: i91363
+  members:
+  - oifigeach
+  partOfSpeech: n
+10337745-n:
+  definition:
+  - confidence: 0.0
+    text: someone who works in a mill (especially a grain mill)
+  hypernym:
+  - 09994178-n
+  ili: i91368
+  members:
+  - muilleoir
+  partOfSpeech: n
+10339454-n:
+  definition:
+  - confidence: 0.0
+    text: laborer who works in a mine
+  hypernym:
+  - 10260997-n
+  ili: i91379
+  members:
+  - mianadóir
+  partOfSpeech: n
+10339654-n:
+  definition:
+  - confidence: 0.0
+    text: a scientist trained in mineralogy
+  hypernym:
+  - 10580065-n
+  ili: i91380
+  members:
+  - mianreolaí
+  partOfSpeech: n
+10342840-n:
+  definition:
+  - confidence: 0.0
+    text: someone sent on a mission — especially a religious or charitable mission
+      to a foreign country
+  hypernym:
+  - 09786620-n
+  ili: i91402
+  members:
+  - misinéir
+  partOfSpeech: n
+10344679-n:
+  definition:
+  - confidence: 0.0
+    text: a person distinguished by exceptional courage and nobility and strength
+  hypernym:
+  - 09646208-n
+  ili: i91411
+  members:
+  - laoch
+  partOfSpeech: n
+10349502-n:
+  definition:
+  - confidence: 0.0
+    text: (Roman Catholic Church) an ecclesiastical title of honor bestowed on some
+      priests
+  hypernym:
+  - 10490364-n
+  ili: i91445
+  members:
+  - moinsíneoir
+  partOfSpeech: n
+10351554-n:
+  definition:
+  - confidence: 0.0
+    text: one whose business is the management of funerals
+  hypernym:
+  - 09655706-n
+  ili: i91458
+  members:
+  - adhlacóir
+  partOfSpeech: n
+10352098-n:
+  definition:
+  - confidence: 0.0
+    text: a woman who has given birth to a child (also used as a term of address to
+      your mother)
+  hypernym:
+  - 10419190-n
+  ili: i91462
+  members:
+  - máthair
+  partOfSpeech: n
+10354495-n:
+  definition:
+  - confidence: 0.0
+    text: a flamboyant deceiver; one who attracts customers with tricks or jokes
+  hypernym:
+  - 09657157-n
+  ili: i91478
+  members:
+  - séitéir
+  partOfSpeech: n
+10358420-n:
+  definition:
+  - confidence: 0.0
+    text: a criminal who commits homicide (who performs the unlawful premeditated
+      killing of another human being)
+  hypernym:
+  - 09997190-n
+  ili: i91503
+  members:
+  - dúnmharfóir
+  partOfSpeech: n
+10360025-n:
+  definition:
+  - confidence: 0.0
+    text: someone who plays a music as a profession
+  hypernym:
+  - 10435383-n
+  ili: i91511
+  members:
+  - ceoltóir
+  partOfSpeech: n
+10361391-n:
+  definition:
+  - confidence: 0.0
+    text: (biology) an organism that has characteristics resulting from chromosomal
+      alteration
+  hypernym:
+  - 00004475-n
+  ili: i91516
+  members:
+  - sóiteán
+  partOfSpeech: n
+10366245-n:
+  definition:
+  - confidence: 0.0
+    text: a biologist knowledgeable about natural history (especially botany and zoology)
+  hypernym:
+  - 09875036-n
+  ili: i91548
+  members:
+  - nádúraí
+  partOfSpeech: n
+10371605-n:
+  definition:
+  - confidence: 0.0
+    text: someone who negotiates (confers with others in order to reach a settlement)
+  hypernym:
+  - 09786620-n
+  ili: i91577
+  members:
+  - idirbheartaí
+  partOfSpeech: n
+10372030-n:
+  definition:
+  - confidence: 0.0
+    text: a person who lives (or is located) near another
+  hypernym:
+  - 09786620-n
+  ili: i91579
+  members:
+  - comharsa
+  partOfSpeech: n
+10373964-n:
+  definition:
+  - confidence: 0.0
+    text: a medical specialist in the nervous system and the disorders affecting it
+  hypernym:
+  - 10040615-n
+  ili: i91593
+  members:
+  - néareolaí
+  partOfSpeech: n
+10377312-n:
+  definition:
+  - confidence: 0.0
+    text: a daughter of your brother or sister
+  hypernym:
+  - 10255246-n
+  - 10807146-n
+  ili: i91615
+  members:
+  - neacht
+  partOfSpeech: n
+10379458-n:
+  definition:
+  - confidence: 0.0
+    text: a member of a people who have no permanent home but move about according
+      to the seasons
+  hypernym:
+  - 09652940-n
+  ili: i91630
+  members:
+  - fánaí
+  partOfSpeech: n
+10382848-n:
+  definition:
+  - confidence: 0.0
+    text: someone legally empowered to witness signatures and certify a document's
+      validity and to take depositions
+  hypernym:
+  - 10392072-n
+  ili: i91652
+  members:
+  - nótaire
+  partOfSpeech: n
+10383272-n:
+  definition:
+  - confidence: 0.0
+    text: one who writes novels
+  hypernym:
+  - 10813654-n
+  ili: i91655
+  members:
+  - úrscéalaí
+  partOfSpeech: n
+10386665-n:
+  definition:
+  - confidence: 0.0
+    text: one skilled in caring for young children or the sick (usually under the
+      supervision of a physician)
+  hypernym:
+  - 10499838-n
+  ili: i91672
+  members:
+  - altra
+  - banaltra
+  partOfSpeech: n
+10387708-n:
+  definition:
+  - confidence: 0.0
+    text: a woman religious
+  hypernym:
+  - 09786620-n
+  ili: i91677
+  members:
+  - bean rialta
+  partOfSpeech: n
+10387812-n:
+  definition:
+  - confidence: 0.0
+    text: (Roman Catholic Church) a diplomatic representative of the Pope having ambassadorial
+      status
+  hypernym:
+  - 10033672-n
+  ili: i91678
+  members:
+  - nuinteas
+  partOfSpeech: n
+10389821-n:
+  definition:
+  - confidence: 0.0
+    text: a scientist who studies physical and biological aspects of the seas
+  hypernym:
+  - 10580065-n
+  ili: i91694
+  members:
+  - aigéaneolaí
+  - muireolaí
+  partOfSpeech: n
+10390751-n:
+  definition:
+  - confidence: 0.0
+    text: someone who presents something to another for acceptance or rejection
+  hypernym:
+  - 09786620-n
+  ili: i91701
+  members:
+  - tairgeoir
+  partOfSpeech: n
+10391149-n:
+  definition:
+  - confidence: 0.0
+    text: someone who is appointed or elected to an office and who holds a position
+      of trust
+  hypernym:
+  - 10392072-n
+  - 10199809-n
+  ili: i91704
+  members:
+  - oifigeach
+  partOfSpeech: n
+10391440-n:
+  definition:
+  - confidence: 0.0
+    text: a person authorized to serve in a position of authority on a vessel
+  hypernym:
+  - 10314263-n
+  ili: i91705
+  members:
+  - oifigeach
+  partOfSpeech: n
+10392072-n:
+  definition:
+  - confidence: 0.0
+    text: a worker who holds or is invested with an office
+  hypernym:
+  - 09655706-n
+  ili: i91707
+  members:
+  - feidhmeannach
+  partOfSpeech: n
+10393697-n:
+  definition:
+  - confidence: 0.0
+    text: the immediate descendants of a person
+  hypernym:
+  - 10255246-n
+  ili: i91712
+  members:
+  - sliocht
+  - síolrach
+  partOfSpeech: n
+10398111-n:
+  definition:
+  - confidence: 0.0
+    text: an agent that operates some apparatus or machine
+  hypernym:
+  - 09786620-n
+  ili: i91742
+  members:
+  - oibreoir
+  partOfSpeech: n
+10398772-n:
+  definition:
+  - confidence: 0.0
+    text: a medical doctor specializing in the diagnosis and treatment of diseases
+      of the eye
+  hypernym:
+  - 10040615-n
+  ili: i91745
+  members:
+  - oftailmeolaí
+  - súil-lia
+  partOfSpeech: n
+10399699-n:
+  definition:
+  - confidence: 0.0
+    text: a worker who makes glasses for remedying defects of vision
+  hypernym:
+  - 09655706-n
+  ili: i91750
+  members:
+  - radharceolaí
+  partOfSpeech: n
+10402179-n:
+  definition:
+  - confidence: 0.0
+    text: a clergyman appointed to prepare condemned prisoners for death
+  hypernym:
+  - 09646208-n
+  ili: i91764
+  members:
+  - oirdeanáire
+  partOfSpeech: n
+10402524-n:
+  definition:
+  - confidence: 0.0
+    text: a person who plays an organ
+  hypernym:
+  - 10360025-n
+  ili: i91767
+  members:
+  - orgánaí
+  partOfSpeech: n
+10403515-n:
+  definition:
+  - confidence: 0.0
+    text: someone who creates new things
+  hypernym:
+  - 09637345-n
+  ili: i91772
+  members:
+  - tionscnóir
+  partOfSpeech: n
+10403913-n:
+  definition:
+  - confidence: 0.0
+    text: a zoologist who studies birds
+  hypernym:
+  - 10825826-n
+  ili: i91774
+  members:
+  - éaneolaí
+  partOfSpeech: n
+10404091-n:
+  definition:
+  - confidence: 0.0
+    text: a child who has lost both parents
+  hypernym:
+  - 09937051-n
+  ili: i91775
+  members:
+  - dílleachta
+  partOfSpeech: n
+10405265-n:
+  definition:
+  - confidence: 0.0
+    text: a therapist who manipulates the skeleton and muscles
+  hypernym:
+  - 09640897-n
+  ili: i91783
+  members:
+  - oistéapat
+  partOfSpeech: n
+10408139-n:
+  definition:
+  - confidence: 0.0
+    text: a person who has general authority over others
+  hypernym:
+  - 10560786-n
+  ili: i91804
+  members:
+  - máistir
+  - tiarna
+  partOfSpeech: n
+10408623-n:
+  definition:
+  - confidence: 0.0
+    text: (law) someone who owns (is legal possessor of) a business
+  hypernym:
+  - 09786620-n
+  ili: i91807
+  members:
+  - dílseánach
+  - úinéir
+  partOfSpeech: n
+10411352-n:
+  definition:
+  - confidence: 0.0
+    text: an artist who paints
+  hypernym:
+  - 09831743-n
+  ili: i91823
+  members:
+  - péintéir
+  partOfSpeech: n
+10418718-n:
+  definition:
+  - confidence: 0.0
+    text: a soldier in the paratroops
+  hypernym:
+  - 10641415-n
+  ili: i91855
+  members:
+  - paratrúipéir
+  partOfSpeech: n
+10419190-n:
+  definition:
+  - confidence: 0.0
+    text: a father or mother; one who begets or one who gives birth to or nurtures
+      and raises a child; a relative who plays the role of guardian
+  hypernym:
+  - 09811996-n
+  ili: i91858
+  members:
+  - tuismitheoir
+  partOfSpeech: n
+10420008-n:
+  definition:
+  - confidence: 0.0
+    text: an expert in parliamentary rules and procedures
+  hypernym:
+  - 09640897-n
+  ili: i91863
+  members:
+  - parlaiminteoir
+  partOfSpeech: n
+10422569-n:
+  definition:
+  - confidence: 0.0
+    text: a person involved in legal proceedings
+  hypernym:
+  - 09786620-n
+  ili: i91878
+  members:
+  - páirtí
+  partOfSpeech: n
+10423621-n:
+  definition:
+  - confidence: 0.0
+    text: a traveler riding in a vehicle (a boat or bus or car or plane or train etc.)
+      who is not operating it
+  hypernym:
+  - 09652940-n
+  ili: i91884
+  members:
+  - paisinéir
+  partOfSpeech: n
+10425439-n:
+  definition:
+  - confidence: 0.0
+    text: a person who requires medical care
+  hypernym:
+  - 09786620-n
+  ili: i91896
+  members:
+  - othar
+  partOfSpeech: n
+10428297-n:
+  definition:
+  - confidence: 0.0
+    text: a saint who is considered to be a defender of some group or nation
+  hypernym:
+  - 09637714-n
+  - 09528550-n
+  ili: i91910
+  members:
+  - pátrún
+  - éarlamh
+  partOfSpeech: n
+10429204-n:
+  definition:
+  - confidence: 0.0
+    text: a person who lends money at interest in exchange for personal property that
+      is deposited as security
+  hypernym:
+  - 10274089-n
+  ili: i91916
+  members:
+  - geallbhróicéir
+  partOfSpeech: n
+10429379-n:
+  definition:
+  - confidence: 0.0
+    text: a person to whom money is paid
+  hypernym:
+  - 09651094-n
+  ili: i91917
+  members:
+  - íocaí
+  partOfSpeech: n
+10429497-n:
+  definition:
+  - confidence: 0.0
+    text: a person who pays money for something
+  hypernym:
+  - 09786620-n
+  ili: i91918
+  members:
+  - íocóir
+  partOfSpeech: n
+10431800-n:
+  definition:
+  - confidence: 0.0
+    text: a person who travels by foot
+  hypernym:
+  - 09652940-n
+  ili: i91931
+  members:
+  - coisí
+  partOfSpeech: n
+10434357-n:
+  definition:
+  - confidence: 0.0
+    text: the beneficiary of a pension fund
+  hypernym:
+  - 09869529-n
+  ili: i91945
+  members:
+  - pinsinéir
+  partOfSpeech: n
+10435383-n:
+  definition:
+  - confidence: 0.0
+    text: an entertainer who performs a dramatic or musical work for an audience
+  hypernym:
+  - 09786620-n
+  ili: i91951
+  members:
+  - oirfideach
+  partOfSpeech: n
+10436015-n:
+  definition:
+  - confidence: 0.0
+    text: a person who makes (and sells) perfumes
+  hypernym:
+  - 10303761-n
+  ili: i91952
+  members:
+  - cumhradóir
+  partOfSpeech: n
+10436913-n:
+  definition:
+  - confidence: 0.0
+    text: someone who perpetrates wrongdoing
+  hypernym:
+  - 09657157-n
+  ili: i91960
+  members:
+  - déantóir
+  partOfSpeech: n
+10439776-n:
+  definition:
+  - confidence: 0.0
+    text: one praying humbly for something
+  hypernym:
+  - 09630310-n
+  ili: i91977
+  members:
+  - achainíoch
+  - iarrthóir
+  partOfSpeech: n
+10440761-n:
+  definition:
+  - confidence: 0.0
+    text: the title of the ancient Egyptian kings
+  hypernym:
+  - 10560786-n
+  ili: i91983
+  members:
+  - faró
+  partOfSpeech: n
+10441215-n:
+  definition:
+  - confidence: 0.0
+    text: a health professional trained in the art of preparing and dispensing drugs
+  hypernym:
+  - 10499838-n
+  ili: i91986
+  members:
+  - cógaiseoir
+  - poitigéir
+  partOfSpeech: n
+10441701-n:
+  definition:
+  - confidence: 0.0
+    text: someone who makes charitable donations intended to increase human well-being
+  hypernym:
+  - 10045455-n
+  ili: i91988
+  members:
+  - daonchara
+  partOfSpeech: n
+10442970-n:
+  definition:
+  - confidence: 0.0
+    text: a humanist specializing in classical scholarship
+  hypernym:
+  - 10577282-n
+  ili: i91994
+  members:
+  - focleolaí
+  partOfSpeech: n
+10443334-n:
+  definition:
+  - confidence: 0.0
+    text: a specialist in philosophy
+  hypernym:
+  - 10577282-n
+  ili: i91996
+  members:
+  - fealsamh
+  partOfSpeech: n
+10446513-n:
+  definition:
+  - confidence: 0.0
+    text: someone who takes photographs professionally
+  hypernym:
+  - 09831743-n
+  ili: i92002
+  members:
+  - grianghrafadóir
+  partOfSpeech: n
+10447528-n:
+  definition:
+  - confidence: 0.0
+    text: therapist who treats injury or dysfunction with exercises and other physical
+      treatments of the disorder
+  hypernym:
+  - 09640897-n
+  ili: i92008
+  members:
+  - fisiteiripeoir
+  partOfSpeech: n
+10447768-n:
+  definition:
+  - confidence: 0.0
+    text: a scientist trained in physics
+  hypernym:
+  - 10580065-n
+  ili: i92009
+  members:
+  - fisiceoir
+  partOfSpeech: n
+10449729-n:
+  definition:
+  - confidence: 0.0
+    text: a biologist specializing in physiology
+  hypernym:
+  - 09875036-n
+  ili: i92010
+  members:
+  - fiseolaí
+  partOfSpeech: n
+10450429-n:
+  definition:
+  - confidence: 0.0
+    text: a person who plays the piano
+  hypernym:
+  - 10360025-n
+  ili: i92012
+  members:
+  - pianódóir
+  partOfSpeech: n
+10452296-n:
+  definition:
+  - confidence: 0.0
+    text: someone who journeys to a sacred place as an act of religious devotion
+  hypernym:
+  - 09786620-n
+  ili: i92024
+  members:
+  - oilithreach
+  partOfSpeech: n
+10452928-n:
+  definition:
+  - confidence: 0.0
+    text: someone who is licensed to operate an aircraft in flight
+  hypernym:
+  - 09655706-n
+  ili: i92029
+  members:
+  - eitleoir
+  - píolóta
+  partOfSpeech: n
+10453216-n:
+  definition:
+  - confidence: 0.0
+    text: a person qualified to guide ships through difficult waters going into or
+      out of a harbor
+  hypernym:
+  - 10314263-n
+  ili: i92030
+  members:
+  - píolóta
+  partOfSpeech: n
+10454188-n:
+  definition:
+  - confidence: 0.0
+    text: one of the first colonists or settlers in a new territory
+  hypernym:
+  - 10602839-n
+  ili: i92036
+  members:
+  - ceannródaí
+  partOfSpeech: n
+10454492-n:
+  definition:
+  - confidence: 0.0
+    text: someone who helps to open up a new line of research or technology or art
+  hypernym:
+  - 10403515-n
+  ili: i92037
+  members:
+  - nuálaí
+  partOfSpeech: n
+10455755-n:
+  definition:
+  - confidence: 0.0
+    text: (baseball) the person who does the pitching
+  hypernym:
+  - 09839665-n
+  - 10459618-n
+  ili: i92045
+  members:
+  - caiteoir
+  - teilgeoir
+  partOfSpeech: n
+10457619-n:
+  definition:
+  - confidence: 0.0
+    text: a person who brings an action in a court of law
+  hypernym:
+  - 10422569-n
+  ili: i92055
+  members:
+  - gearánaí
+  partOfSpeech: n
+10457939-n:
+  definition:
+  - confidence: 0.0
+    text: a person who makes plans
+  hypernym:
+  - 09786620-n
+  ili: i92057
+  members:
+  - pleanálaí
+  partOfSpeech: n
+10459618-n:
+  definition:
+  - confidence: 0.0
+    text: a person who participates in or is skilled at some game
+  hypernym:
+  - 09636221-n
+  ili: i92069
+  members:
+  - imreoir
+  partOfSpeech: n
+10462606-n:
+  definition:
+  - confidence: 0.0
+    text: a craftsman who installs and repairs pipes and fixtures and appliances
+  hypernym:
+  - 09994178-n
+  ili: i92089
+  members:
+  - pluiméir
+  partOfSpeech: n
+10462744-n:
+  definition:
+  - confidence: 0.0
+    text: someone who takes spoils or plunder (as in war)
+  hypernym:
+  - 10727453-n
+  ili: i92090
+  members:
+  - creachadóir
+  partOfSpeech: n
+10463768-n:
+  definition:
+  - confidence: 0.0
+    text: a writer of poems (the term is usually reserved for writers of good poetry)
+  hypernym:
+  - 10813654-n
+  ili: i92096
+  members:
+  - file
+  partOfSpeech: n
+10468557-n:
+  definition:
+  - confidence: 0.0
+    text: a member of a police force
+  hypernym:
+  - 09637714-n
+  ili: i92109
+  members:
+  - garda
+  - póilín
+  partOfSpeech: n
+10470837-n:
+  definition:
+  - confidence: 0.0
+    text: a leader engaged in civil administration
+  hypernym:
+  - 09646208-n
+  ili: i92117
+  members:
+  - polaiteoir
+  partOfSpeech: n
+10479141-n:
+  definition:
+  - confidence: 0.0
+    text: the person in charge of a post office
+  hypernym:
+  - 10074465-n
+  ili: i92167
+  members:
+  - máistir poist
+  partOfSpeech: n
+10480990-n:
+  definition:
+  - confidence: 0.0
+    text: one possessing or exercising power or influence or authority
+  hypernym:
+  - 00001740-n
+  ili: i92181
+  members:
+  - cumhacht
+  - fórsa
+  partOfSpeech: n
+10482426-n:
+  definition:
+  - confidence: 0.0
+    text: someone who practices a learned profession
+  hypernym:
+  - 10499838-n
+  ili: i92188
+  members:
+  - cleachtóir
+  partOfSpeech: n
+10483744-n:
+  definition:
+  - confidence: 0.0
+    text: someone whose occupation is preaching the gospel
+  hypernym:
+  - 09646208-n
+  ili: i92196
+  members:
+  - seanmóirí
+  partOfSpeech: n
+10486745-n:
+  definition:
+  - confidence: 0.0
+    text: the chief executive of a republic
+  hypernym:
+  - 10371605-n
+  ili: i92215
+  members:
+  - uachtarán
+  partOfSpeech: n
+10488144-n:
+  definition:
+  - confidence: 0.0
+    text: an executive officer of a firm or corporation
+  hypernym:
+  - 09790372-n
+  ili: i92217
+  members:
+  - uachtarán
+  partOfSpeech: n
+10488547-n:
+  definition:
+  - confidence: 0.0
+    text: the officer who presides at the meetings of an organization
+  hypernym:
+  - 09646208-n
+  ili: i92219
+  members:
+  - cathaoir
+  - cathaoirleach
+  partOfSpeech: n
+10490364-n:
+  definition:
+  - confidence: 0.0
+    text: a clergyman in Christian churches who has the authority to perform or administer
+      various religious rites; one of the Holy Orders
+  hypernym:
+  - 13968971-n
+  - 09646208-n
+  ili: i92229
+  members:
+  - sagart
+  partOfSpeech: n
+10492384-n:
+  definition:
+  - confidence: 0.0
+    text: a male member of a royal family other than the sovereign (especially the
+      son of a sovereign)
+  hypernym:
+  - 10306910-n
+  - 09646208-n
+  ili: i92240
+  members:
+  - prionsa
+  partOfSpeech: n
+10493649-n:
+  definition:
+  - confidence: 0.0
+    text: a female member of a royal family other than the queen (especially the daughter
+      of a sovereign)
+  hypernym:
+  - 10807146-n
+  - 09646208-n
+  ili: i92247
+  members:
+  - banphrionsa
+  partOfSpeech: n
+10494882-n:
+  definition:
+  - confidence: 0.0
+    text: someone whose occupation is printing
+  hypernym:
+  - 09655706-n
+  ili: i92253
+  members:
+  - clódóir
+  - printéir
+  partOfSpeech: n
+10495525-n:
+  definition:
+  - confidence: 0.0
+    text: the head of a religious order; in an abbey the prior is next below the abbot
+  hypernym:
+  - 09786620-n
+  ili: i92257
+  members:
+  - prióir
+  partOfSpeech: n
+10495671-n:
+  definition:
+  - confidence: 0.0
+    text: a person who is confined; especially a prisoner of war
+  hypernym:
+  - 09786620-n
+  ili: i92258
+  members:
+  - príosúnach
+  partOfSpeech: n
+10497878-n:
+  definition:
+  - confidence: 0.0
+    text: a provincial governor of consular rank in the Roman Republic and Roman Empire
+  hypernym:
+  - 10159834-n
+  ili: i92270
+  members:
+  - próchonsal
+  partOfSpeech: n
+10498545-n:
+  definition:
+  - confidence: 0.0
+    text: someone who supervises (an examination)
+  hypernym:
+  - 10696316-n
+  ili: i92274
+  members:
+  - monatóir
+  partOfSpeech: n
+10498720-n:
+  definition:
+  - confidence: 0.0
+    text: (ancient Rome) someone employed by the Roman Emperor to manage finance and
+      taxes
+  hypernym:
+  - 09899893-n
+  ili: i92275
+  members:
+  - prócadóir
+  partOfSpeech: n
+10499603-n:
+  definition:
+  - confidence: 0.0
+    text: someone who finds financing for and supervises the making and presentation
+      of a show (play or film or program or similar work)
+  hypernym:
+  - 09637345-n
+  ili: i92280
+  members:
+  - léiritheoir
+  partOfSpeech: n
+10499838-n:
+  definition:
+  - confidence: 0.0
+    text: a person engaged in one of the learned professions
+  hypernym:
+  - 09786620-n
+  ili: i92281
+  members:
+  - gairmí
+  - proifisiúnach
+  partOfSpeech: n
+10500315-n:
+  definition:
+  - confidence: 0.0
+    text: someone who is a member of the faculty at a college or university
+  hypernym:
+  - 10065521-n
+  ili: i92283
+  members:
+  - ollamh
+  partOfSpeech: n
+10500853-n:
+  definition:
+  - confidence: 0.0
+    text: a person who designs and writes and tests computer programs
+  hypernym:
+  - 09638837-n
+  ili: i92286
+  members:
+  - ríomhchláraitheoir
+  partOfSpeech: n
+10501146-n:
+  definition:
+  - confidence: 0.0
+    text: the person who operates the projector in a movie house
+  hypernym:
+  - 09655706-n
+  ili: i92287
+  members:
+  - teilgeoir
+  partOfSpeech: n
+10501999-n:
+  definition:
+  - confidence: 0.0
+    text: someone who assists a performer by providing the next words of a forgotten
+      speech
+  hypernym:
+  - 09835195-n
+  ili: i92292
+  members:
+  - leideoir
+  partOfSpeech: n
+10502353-n:
+  definition:
+  - confidence: 0.0
+    text: someone who reads proof in order to find errors and mark corrections
+  hypernym:
+  - 10494882-n
+  ili: i92294
+  members:
+  - léitheoir profaí
+  partOfSpeech: n
+10502506-n:
+  definition:
+  - confidence: 0.0
+    text: a person who disseminates messages calculated to assist some cause or some
+      government
+  hypernym:
+  - 09786620-n
+  ili: i92295
+  members:
+  - bolscaire
+  partOfSpeech: n
+10503475-n:
+  definition:
+  - confidence: 0.0
+    text: someone who speaks by divine inspiration; someone who is an interpreter
+      of the will of God
+  hypernym:
+  - 09786620-n
+  ili: i92301
+  members:
+  - fáidh
+  partOfSpeech: n
+10504443-n:
+  definition:
+  - confidence: 0.0
+    text: a government official who conducts criminal prosecutions on behalf of the
+      state
+  hypernym:
+  - 10392072-n
+  - 10269647-n
+  ili: i92304
+  members:
+  - ionchúisitheoir
+  partOfSpeech: n
+10507601-n:
+  definition:
+  - confidence: 0.0
+    text: a physician who specializes in psychiatry
+  hypernym:
+  - 10040615-n
+  ili: i92322
+  members:
+  - síciatraí
+  partOfSpeech: n
+10507894-n:
+  definition:
+  - confidence: 0.0
+    text: a person apparently sensitive to things beyond the natural range of perception
+  hypernym:
+  - 09786620-n
+  ili: i92323
+  members:
+  - síceach
+  partOfSpeech: n
+10508450-n:
+  definition:
+  - confidence: 0.0
+    text: a scientist trained in psychology
+  hypernym:
+  - 10580065-n
+  ili: i92326
+  members:
+  - síceolaí
+  partOfSpeech: n
+10510284-n:
+  definition:
+  - confidence: 0.0
+    text: someone who publicizes
+  hypernym:
+  - 09786620-n
+  ili: i92335
+  members:
+  - poiblitheoir
+  partOfSpeech: n
+10510894-n:
+  definition:
+  - confidence: 0.0
+    text: a person engaged in publishing periodicals or books or music
+  hypernym:
+  - 10499838-n
+  ili: i92338
+  members:
+  - foilsitheoir
+  partOfSpeech: n
+10513270-n:
+  definition:
+  - confidence: 0.0
+    text: one who operates puppets or marionettes
+  hypernym:
+  - 10435383-n
+  ili: i92352
+  members:
+  - puipéadóir
+  partOfSpeech: n
+10517360-n:
+  definition:
+  - confidence: 0.0
+    text: any of several public officials of ancient Rome (usually in charge of finance
+      and administration)
+  hypernym:
+  - 10392072-n
+  ili: i92382
+  members:
+  - caestóir
+  partOfSpeech: n
+10518940-n:
+  definition:
+  - confidence: 0.0
+    text: a female sovereign ruler
+  hypernym:
+  - 10807146-n
+  - 09646208-n
+  ili: i92393
+  members:
+  - banríon
+  partOfSpeech: n
+10521914-n:
+  definition:
+  - confidence: 0.0
+    text: spiritual leader of a Jewish congregation; qualified to expound and apply
+      Jewish law
+  hypernym:
+  - 09646208-n
+  ili: i92411
+  members:
+  - raibí
+  partOfSpeech: n
+10526010-n:
+  definition:
+  - confidence: 0.0
+    text: a person who owns or operates a ranch
+  hypernym:
+  - 10098586-n
+  ili: i92439
+  members:
+  - rainseoir
+  partOfSpeech: n
+10528303-n:
+  definition:
+  - confidence: 0.0
+    text: a person who enjoys reading
+  hypernym:
+  - 10577282-n
+  ili: i92456
+  members:
+  - léitheoir
+  partOfSpeech: n
+10529403-n:
+  definition:
+  - confidence: 0.0
+    text: a person who is authorized to act as an agent for the sale of land
+  hypernym:
+  - 09796453-n
+  ili: i92462
+  members:
+  - gníomhaire eastáit
+  partOfSpeech: n
+10530662-n:
+  definition:
+  - confidence: 0.0
+    text: a secretary whose main duty is to answer the telephone and receive visitors
+  hypernym:
+  - 09835195-n
+  ili: i92469
+  members:
+  - fáilteoir
+  partOfSpeech: n
+10532301-n:
+  definition:
+  - confidence: 0.0
+    text: someone who supplies members or employees
+  hypernym:
+  - 10696710-n
+  ili: i92480
+  members:
+  - earcaitheoir
+  partOfSpeech: n
+10534022-n:
+  definition:
+  - confidence: 0.0
+    text: (sports) the chief official (as in boxing or American football) who is expected
+      to ensure fair play
+  hypernym:
+  - 09786620-n
+  ili: i92492
+  members:
+  - moltóir
+  - réiteoir
+  partOfSpeech: n
+10534377-n:
+  definition:
+  - confidence: 0.0
+    text: one whose work is to refine a specific thing
+  hypernym:
+  - 09655706-n
+  ili: i92494
+  members:
+  - scagaire
+  partOfSpeech: n
+10534787-n:
+  definition:
+  - confidence: 0.0
+    text: a disputant who advocates reform
+  hypernym:
+  - 09786620-n
+  ili: i92496
+  members:
+  - leasaitheoir
+  partOfSpeech: n
+10535609-n:
+  definition:
+  - confidence: 0.0
+    text: an exile who flees for safety
+  hypernym:
+  - 10091139-n
+  ili: i92498
+  members:
+  - dídeanaí
+  - teifeach
+  partOfSpeech: n
+10535710-n:
+  definition:
+  - confidence: 0.0
+    text: someone who rules during the absence or incapacity or minority of the country's
+      monarch
+  hypernym:
+  - 10560786-n
+  ili: i92499
+  members:
+  - leasrí
+  partOfSpeech: n
+10536467-n:
+  definition:
+  - confidence: 0.0
+    text: someone responsible for keeping records
+  hypernym:
+  - 10392072-n
+  ili: i92504
+  members:
+  - cláraitheoir
+  partOfSpeech: n
+10537419-n:
+  definition:
+  - confidence: 0.0
+    text: an official responsible for control and supervision of a particular activity
+      or area of public interest
+  hypernym:
+  - 10392072-n
+  ili: i92511
+  members:
+  - rialtóir
+  - rialálaí
+  partOfSpeech: n
+10538719-n:
+  definition:
+  - confidence: 0.0
+    text: one retired from society for religious reasons
+  hypernym:
+  - 09786620-n
+  ili: i92517
+  members:
+  - ancaire
+  - díthreabhach
+  partOfSpeech: n
+10541255-n:
+  definition:
+  - confidence: 0.0
+    text: a person who investigates and reports or edits news stories
+  hypernym:
+  - 09786620-n
+  ili: i92531
+  members:
+  - tuairisceoir
+  partOfSpeech: n
+10542669-n:
+  definition:
+  - confidence: 0.0
+    text: a scientist who devotes themself to doing research
+  hypernym:
+  - 10580065-n
+  ili: i92540
+  members:
+  - taighdeoir
+  partOfSpeech: n
+10543112-n:
+  definition:
+  - confidence: 0.0
+    text: someone who lives at a particular place for a prolonged period or who was
+      born there
+  hypernym:
+  - 09643248-n
+  ili: i92542
+  members:
+  - cónaitheoir
+  - sealbhóir
+  partOfSpeech: n
+10544006-n:
+  definition:
+  - confidence: 0.0
+    text: someone who responds
+  hypernym:
+  - 09786620-n
+  ili: i92545
+  members:
+  - freagróir
+  partOfSpeech: n
+10544727-n:
+  definition:
+  - confidence: 0.0
+    text: a person who directs and restrains
+  hypernym:
+  - 09786620-n
+  ili: i92549
+  members:
+  - rialtóir
+  partOfSpeech: n
+10545011-n:
+  definition:
+  - confidence: 0.0
+    text: a merchant who sells goods at retail
+  hypernym:
+  - 10329563-n
+  - 10696710-n
+  ili: i92550
+  members:
+  - miondíoltóir
+  partOfSpeech: n
+10546909-n:
+  definition:
+  - confidence: 0.0
+    text: a radical supporter of political or social revolution
+  hypernym:
+  - 09786620-n
+  ili: i92562
+  members:
+  - réabhlóidí
+  partOfSpeech: n
+10549540-n:
+  definition:
+  - confidence: 0.0
+    text: a traveler who actively rides an animal (as a horse or camel)
+  hypernym:
+  - 09652940-n
+  ili: i92575
+  members:
+  - marcach
+  partOfSpeech: n
+10552570-n:
+  definition:
+  - confidence: 0.0
+    text: the contestant you hope to defeat
+  hypernym:
+  - 09636221-n
+  ili: i92599
+  members:
+  - iomaitheoir
+  partOfSpeech: n
+10560786-n:
+  definition:
+  - confidence: 0.0
+    text: a person who rules or commands
+  hypernym:
+  - 09786620-n
+  ili: i92651
+  members:
+  - rialtóir
+  partOfSpeech: n
+10565985-n:
+  definition:
+  - confidence: 0.0
+    text: the ship's officer in charge of navigation
+  hypernym:
+  - 10391440-n
+  ili: i92684
+  members:
+  - loingseoir
+  partOfSpeech: n
+10566190-n:
+  definition:
+  - confidence: 0.0
+    text: any member of a ship's crew
+  hypernym:
+  - 09655706-n
+  ili: i92686
+  members:
+  - mairnéalach
+  - seoltóir
+  partOfSpeech: n
+10568238-n:
+  definition:
+  - confidence: 0.0
+    text: a person employed to represent a business and to sell its merchandise (as
+      to customers in a store or to customers who are visited)
+  hypernym:
+  - 10073616-n
+  ili: i92692
+  members:
+  - duine díolacháin
+  partOfSpeech: n
+10569320-n:
+  definition:
+  - confidence: 0.0
+    text: a Japanese warrior who was a member of the feudal military aristocracy
+  hypernym:
+  - 10788253-n
+  ili: i92699
+  members:
+  - samúraí
+  partOfSpeech: n
+10572170-n:
+  definition:
+  - confidence: 0.0
+    text: a humorist who uses ridicule and irony and sarcasm
+  hypernym:
+  - 09786620-n
+  ili: i92718
+  members:
+  - aorthóir
+  partOfSpeech: n
+10572568-n:
+  definition:
+  - confidence: 0.0
+    text: a governor of a province in ancient Persia
+  hypernym:
+  - 10159834-n
+  ili: i92720
+  members:
+  - satrap
+  partOfSpeech: n
+10573233-n:
+  definition:
+  - confidence: 0.0
+    text: a person who rescues you from harm or danger
+  hypernym:
+  - 09786620-n
+  ili: i92724
+  members:
+  - slánaitheoir
+  partOfSpeech: n
+10577282-n:
+  definition:
+  - confidence: 0.0
+    text: a learned person; someone who by long study has gained mastery in one or
+      more disciplines
+  hypernym:
+  - 09644715-n
+  ili: i92752
+  members:
+  - scoláire
+  partOfSpeech: n
+10579268-n:
+  definition:
+  - confidence: 0.0
+    text: a woman schoolteacher (especially one regarded as strict)
+  hypernym:
+  - 10807146-n
+  - 10713754-n
+  ili: i92761
+  members:
+  - máistreás
+  partOfSpeech: n
+10580065-n:
+  definition:
+  - confidence: 0.0
+    text: a person with advanced knowledge of one or more sciences
+  hypernym:
+  - 09786620-n
+  ili: i92767
+  members:
+  - eolaí
+  partOfSpeech: n
+10582177-n:
+  definition:
+  - confidence: 0.0
+    text: someone who can find paths through unexplored territory
+  hypernym:
+  - 09640897-n
+  ili: i92778
+  members:
+  - treoraí
+  partOfSpeech: n
+10593273-n:
+  definition:
+  - confidence: 0.0
+    text: a person who is a chief administrator (as of the United Nations)
+  hypernym:
+  - 10182584-n
+  ili: i92838
+  members:
+  - ard-rúnaí
+  - ardrúnaí
+  partOfSpeech: n
+10595231-n:
+  definition:
+  - confidence: 0.0
+    text: someone making a search or inquiry
+  hypernym:
+  - 09786620-n
+  ili: i92853
+  members:
+  - cuardaitheoir
+  partOfSpeech: n
+10595965-n:
+  definition:
+  - confidence: 0.0
+    text: a geophysicist who studies earthquakes and the mechanical characteristics
+      of the Earth
+  hypernym:
+  - 10147226-n
+  ili: i92857
+  members:
+  - seismeolaí
+  partOfSpeech: n
+10596736-n:
+  definition:
+  - confidence: 0.0
+    text: someone who promotes or exchanges goods or services for money
+  hypernym:
+  - 10329563-n
+  ili: i92862
+  members:
+  - díoltóir
+  partOfSpeech: n
+10598214-n:
+  definition:
+  - confidence: 0.0
+    text: someone who transmits a message
+  hypernym:
+  - 09786620-n
+  ili: i92870
+  members:
+  - seoltóir
+  partOfSpeech: n
+10599482-n:
+  definition:
+  - confidence: 0.0
+    text: an advocate of secession or separation from a larger group (such as an established
+      church or a national union)
+  hypernym:
+  - 09786620-n
+  ili: i92878
+  members:
+  - scarúnaí
+  partOfSpeech: n
+10600224-n:
+  definition:
+  - confidence: 0.0
+    text: any of several noncommissioned officer ranks in the Army or Air Force or
+      Marines ranking above a corporal
+  hypernym:
+  - 10336665-n
+  ili: i92882
+  members:
+  - sáirsint
+  partOfSpeech: n
+10600916-n:
+  definition:
+  - confidence: 0.0
+    text: someone who murders more than three victims one at a time in a relatively
+      short interval
+  hypernym:
+  - 10358420-n
+  ili: i92885
+  members:
+  - sraithmharfóir
+  partOfSpeech: n
+10601606-n:
+  definition:
+  - confidence: 0.0
+    text: a person working in the service of another (especially in the household)
+  hypernym:
+  - 09655706-n
+  ili: i92890
+  members:
+  - giolla
+  - seirbhíseach
+  partOfSpeech: n
+10602839-n:
+  definition:
+  - confidence: 0.0
+    text: a person who settles in a new colony or moves into new country
+  hypernym:
+  - 10334610-n
+  ili: i92895
+  members:
+  - lonnaitheoir
+  partOfSpeech: n
+10603473-n:
+  definition:
+  - confidence: 0.0
+    text: (law) a person who creates a trust by giving real or personal property in
+      trust to a trustee for the benefit of a beneficiary; a person who gives such
+      property is said to settle it on the trustee
+  hypernym:
+  - 10045455-n
+  ili: i92898
+  members:
+  - socraitheoir
+  partOfSpeech: n
+10604669-n:
+  definition:
+  - confidence: 0.0
+    text: an officer of the church who is in charge of sacred objects
+  hypernym:
+  - 10392072-n
+  - 10003828-n
+  ili: i92906
+  members:
+  - sacraisteoir
+  partOfSpeech: n
+10607013-n:
+  definition:
+  - confidence: 0.0
+    text: a herder of sheep (on an open range); someone who keeps the sheep together
+      in a flock
+  hypernym:
+  - 10191239-n
+  ili: i92924
+  members:
+  - aoire
+  partOfSpeech: n
+10607765-n:
+  definition:
+  - confidence: 0.0
+    text: the leader of an Arab village or family
+  hypernym:
+  - 10560786-n
+  - 10306910-n
+  ili: i92929
+  members:
+  - síc
+  partOfSpeech: n
+10608548-n:
+  definition:
+  - confidence: 0.0
+    text: the principal law-enforcement officer in a county
+  hypernym:
+  - 09637714-n
+  ili: i92936
+  members:
+  - sirriam
+  partOfSpeech: n
+10609647-n:
+  definition:
+  - confidence: 0.0
+    text: someone who owns a ship or a share in a ship
+  hypernym:
+  - 09786620-n
+  ili: i92945
+  members:
+  - longúinéir
+  partOfSpeech: n
+10609747-n:
+  definition:
+  - confidence: 0.0
+    text: someone who ships goods
+  hypernym:
+  - 09786620-n
+  ili: i92946
+  members:
+  - seoltóir
+  partOfSpeech: n
+10611560-n:
+  definition:
+  - confidence: 0.0
+    text: a merchant who owns or manages a shop
+  hypernym:
+  - 10329563-n
+  ili: i92961
+  members:
+  - siopadóir
+  partOfSpeech: n
+10612523-n:
+  definition:
+  - confidence: 0.0
+    text: a person who shoots (usually with respect to their ability to shoot)
+  hypernym:
+  - 09640897-n
+  ili: i92966
+  members:
+  - lámhachóir
+  partOfSpeech: n
+10616642-n:
+  definition:
+  - confidence: 0.0
+    text: someone who signs and is bound by a document
+  hypernym:
+  - 09786620-n
+  ili: i92990
+  members:
+  - sínitheoir
+  partOfSpeech: n
+10618157-n:
+  definition:
+  - confidence: 0.0
+    text: someone who makes or repairs articles of silver
+  hypernym:
+  - 10303761-n
+  ili: i93000
+  members:
+  - gabha geal
+  partOfSpeech: n
+10619214-n:
+  definition:
+  - confidence: 0.0
+    text: a person who sings
+  hypernym:
+  - 10360025-n
+  ili: i93005
+  members:
+  - amhránaí
+  partOfSpeech: n
+10622393-n:
+  definition:
+  - confidence: 0.0
+    text: a female person who has the same parents as another person
+  hypernym:
+  - 10255246-n
+  - 10807146-n
+  ili: i93018
+  members:
+  - deirfiúr
+  partOfSpeech: n
+10623174-n:
+  definition:
+  - confidence: 0.0
+    text: the sister of your spouse
+  hypernym:
+  - 10255246-n
+  ili: i93022
+  members:
+  - deirfiúr chéile
+  partOfSpeech: n
+10624661-n:
+  definition:
+  - confidence: 0.0
+    text: someone who skis
+  hypernym:
+  - 09839665-n
+  ili: i93034
+  members:
+  - sciálaí
+  partOfSpeech: n
+10628841-n:
+  definition:
+  - confidence: 0.0
+    text: a person who is owned by someone
+  hypernym:
+  - 09786620-n
+  ili: i93053
+  members:
+  - sclábhaí
+  partOfSpeech: n
+10640274-n:
+  definition:
+  - confidence: 0.0
+    text: a social scientist who studies the institutions and development of human
+      society
+  hypernym:
+  - 10580065-n
+  ili: i93128
+  members:
+  - socheolaí
+  partOfSpeech: n
+10641415-n:
+  definition:
+  - confidence: 0.0
+    text: an enlisted man or woman who serves in an army
+  hypernym:
+  - 09655706-n
+  ili: i93136
+  members:
+  - saighdiúir
+  partOfSpeech: n
+10642537-n:
+  definition:
+  - confidence: 0.0
+    text: a British lawyer who gives legal advice and prepares legal documents
+  hypernym:
+  - 10269647-n
+  ili: i93137
+  members:
+  - dlíodóir
+  partOfSpeech: n
+10643436-n:
+  definition:
+  - confidence: 0.0
+    text: a male human offspring
+  hypernym:
+  - 10393697-n
+  ili: i93143
+  members:
+  - mac
+  partOfSpeech: n
+10644908-n:
+  definition:
+  - confidence: 0.0
+    text: a female singer with the highest vocal range of all the voice type
+  hypernym:
+  - 10619214-n
+  ili: i93152
+  members:
+  - soprán
+  partOfSpeech: n
+10645222-n:
+  definition:
+  - confidence: 0.0
+    text: one who practices magic or sorcery
+  hypernym:
+  - 09786620-n
+  ili: i93153
+  members:
+  - draoi
+  partOfSpeech: n
+10646444-n:
+  definition:
+  - confidence: 0.0
+    text: the immaterial part of a person; the actuating cause of an individual life
+  hypernym:
+  - 10655996-n
+  ili: i93161
+  members:
+  - anam
+  partOfSpeech: n
+10648006-n:
+  definition:
+  - confidence: 0.0
+    text: a nation's ruler or head of state usually by hereditary right
+  hypernym:
+  - 10560786-n
+  - 10371605-n
+  ili: i93170
+  members:
+  - flaith
+  - monarc
+  partOfSpeech: n
+10649550-n:
+  definition:
+  - confidence: 0.0
+    text: someone who expresses in language; someone who talks (especially someone
+      who delivers a public speech or someone especially garrulous)
+  hypernym:
+  - 09786620-n
+  ili: i93180
+  members:
+  - cainteoir
+  partOfSpeech: n
+10650671-n:
+  definition:
+  - confidence: 0.0
+    text: the presiding officer of a deliberative assembly
+  hypernym:
+  - 09646208-n
+  ili: i93182
+  members:
+  - ceann comhairle
+  partOfSpeech: n
+10651303-n:
+  definition:
+  - confidence: 0.0
+    text: an expert who is devoted to one occupation or branch of learning
+  hypernym:
+  - 09640897-n
+  ili: i93186
+  members:
+  - saineolaí
+  - speisialtóir
+  partOfSpeech: n
+10655996-n:
+  definition:
+  - confidence: 0.0
+    text: the vital principle or animating force within living things
+  hypernym:
+  - 00001740-n
+  ili: i93206
+  members:
+  - spiorad
+  partOfSpeech: n
+10657783-n:
+  definition:
+  - confidence: 0.0
+    text: an advocate who represents someone else's policy or purpose
+  hypernym:
+  - 09786620-n
+  ili: i93218
+  members:
+  - urlabhraí
+  partOfSpeech: n
+10660018-n:
+  definition:
+  - confidence: 0.0
+    text: a person's partner in marriage
+  hypernym:
+  - 10255246-n
+  - 09786620-n
+  ili: i93233
+  members:
+  - céile
+  partOfSpeech: n
+10660811-n:
+  definition:
+  - confidence: 0.0
+    text: someone who runs a short distance at top speed
+  hypernym:
+  - 09839665-n
+  ili: i93238
+  members:
+  - rábálaí
+  partOfSpeech: n
+10661153-n:
+  definition:
+  - confidence: 0.0
+    text: (military) a secret agent hired by a state to obtain information about its
+      enemies or by a business to obtain industrial secrets from competitors
+  hypernym:
+  - 09796794-n
+  ili: i93240
+  members:
+  - spiaire
+  partOfSpeech: n
+10663740-n:
+  definition:
+  - confidence: 0.0
+    text: someone employed in a stable to take care of the horses
+  hypernym:
+  - 10260997-n
+  ili: i93258
+  members:
+  - eachaire
+  - giolla capaill
+  - giolla scoir
+  - giolla stábla
+  - grúmaeir
+  partOfSpeech: n
+10665579-n:
+  definition:
+  - confidence: 0.0
+    text: someone entrusted to hold the stakes for two or more persons betting against
+      one another; must deliver the stakes to the winner
+  hypernym:
+  - 09786620-n
+  ili: i93268
+  members:
+  - geallsealbhóir
+  partOfSpeech: n
+10673454-n:
+  definition:
+  - confidence: 0.0
+    text: someone skilled in the transcription of speech (especially dictation)
+  hypernym:
+  - 09835195-n
+  ili: i93305
+  members:
+  - scríobhaí
+  partOfSpeech: n
+10674514-n:
+  definition:
+  - confidence: 0.0
+    text: the son of your spouse by a former marriage
+  hypernym:
+  - 10393697-n
+  ili: i93313
+  members:
+  - leasmhac
+  partOfSpeech: n
+10674608-n:
+  definition:
+  - confidence: 0.0
+    text: a laborer who loads and unloads vessels in a port
+  hypernym:
+  - 10260997-n
+  ili: i93314
+  members:
+  - stíbheadóir
+  partOfSpeech: n
+10675033-n:
+  definition:
+  - confidence: 0.0
+    text: an attendant on an airplane
+  hypernym:
+  - 09835195-n
+  ili: i93316
+  members:
+  - aeróstach
+  partOfSpeech: n
+10676883-n:
+  definition:
+  - confidence: 0.0
+    text: an agent in the buying and selling of stocks and bonds
+  hypernym:
+  - 09796453-n
+  ili: i93328
+  members:
+  - stocbhróicéir
+  partOfSpeech: n
+10677408-n:
+  definition:
+  - confidence: 0.0
+    text: someone who holds shares of stock in a corporation
+  hypernym:
+  - 10235776-n
+  ili: i93332
+  members:
+  - scairshealbhóir
+  - stocshealbhóir
+  partOfSpeech: n
+10679910-n:
+  definition:
+  - confidence: 0.0
+    text: a person who hides aboard a ship or plane in the hope of getting free passage
+  hypernym:
+  - 10423621-n
+  ili: i93348
+  members:
+  - folachánaí
+  partOfSpeech: n
+10680441-n:
+  definition:
+  - confidence: 0.0
+    text: anyone who does not belong in the environment in which they are found
+  hypernym:
+  - 09652940-n
+  ili: i93352
+  members:
+  - coimhthíoch
+  partOfSpeech: n
+10681002-n:
+  definition:
+  - confidence: 0.0
+    text: an expert in strategy (especially in warfare)
+  hypernym:
+  - 10457939-n
+  ili: i93356
+  members:
+  - straitéisí
+  partOfSpeech: n
+10685137-n:
+  definition:
+  - confidence: 0.0
+    text: a learner who is enrolled in an educational institution
+  hypernym:
+  - 09786620-n
+  ili: i93383
+  members:
+  - dalta
+  - scoláire
+  partOfSpeech: n
+10687302-n:
+  definition:
+  - confidence: 0.0
+    text: someone who enters into a subcontract with the primary contractor
+  hypernym:
+  - 09980167-n
+  ili: i93394
+  members:
+  - fochonraitheoir
+  partOfSpeech: n
+10689749-n:
+  definition:
+  - confidence: 0.0
+    text: someone who contributes (or promises to contribute) a sum of money
+  hypernym:
+  - 10045455-n
+  ili: i93407
+  members:
+  - ranníocóir
+  - síntiúsóir
+  partOfSpeech: n
+10689922-n:
+  definition:
+  - confidence: 0.0
+    text: someone who contracts to receive and pay for a service or a certain number
+      of issues of a publication
+  hypernym:
+  - 10004189-n
+  ili: i93408
+  members:
+  - síntiúsóir
+  partOfSpeech: n
+10692101-n:
+  definition:
+  - confidence: 0.0
+    text: a woman advocate of women's right to vote (especially a militant advocate
+      in the United Kingdom at the beginning of the 20th century)
+  hypernym:
+  - 10534787-n
+  ili: i93422
+  members:
+  - sufraigéid
+  partOfSpeech: n
+10693754-n:
+  definition:
+  - confidence: 0.0
+    text: the ruler of a Muslim country (especially of the former Ottoman Empire)
+  hypernym:
+  - 10560786-n
+  ili: i93430
+  members:
+  - sabhdán
+  - sultán
+  partOfSpeech: n
+10696008-n:
+  definition:
+  - confidence: 0.0
+    text: a minor actor in crowd scenes
+  hypernym:
+  - 09784701-n
+  ili: i93447
+  members:
+  - duine breise
+  partOfSpeech: n
+10696316-n:
+  definition:
+  - confidence: 0.0
+    text: one who supervises or has charge and direction of
+  hypernym:
+  - 09646208-n
+  ili: i93449
+  members:
+  - maoirseoir
+  - maor
+  partOfSpeech: n
+10696710-n:
+  definition:
+  - confidence: 0.0
+    text: someone whose business is to supply a particular service or commodity
+  hypernym:
+  - 09786620-n
+  ili: i93450
+  members:
+  - soláthraí
+  partOfSpeech: n
+10698621-n:
+  definition:
+  - confidence: 0.0
+    text: a physician who specializes in surgery
+  hypernym:
+  - 10040615-n
+  ili: i93458
+  members:
+  - máinlia
+  partOfSpeech: n
+10700641-n:
+  definition:
+  - confidence: 0.0
+    text: one who lives through affliction
+  hypernym:
+  - 09786620-n
+  ili: i93470
+  members:
+  - marthanóir
+  partOfSpeech: n
+10702573-n:
+  definition:
+  - confidence: 0.0
+    text: a person who travels through the water by swimming
+  hypernym:
+  - 09652940-n
+  ili: i93483
+  members:
+  - snámhóir
+  partOfSpeech: n
+10707224-n:
+  definition:
+  - confidence: 0.0
+    text: a person skilled at systems analysis
+  hypernym:
+  - 09809923-n
+  ili: i93513
+  members:
+  - anailísí córas
+  partOfSpeech: n
+10709060-n:
+  definition:
+  - confidence: 0.0
+    text: a person whose occupation is making and altering garments
+  hypernym:
+  - 10306910-n
+  - 10303761-n
+  ili: i93526
+  members:
+  - táilliúir
+  partOfSpeech: n
+10710548-n:
+  definition:
+  - confidence: 0.0
+    text: the prime minister of the Irish Republic
+  hypernym:
+  - 10371605-n
+  ili: i93537
+  members:
+  - Taoiseach
+  partOfSpeech: n
+10712379-n:
+  definition:
+  - confidence: 0.0
+    text: an official who evaluates property for the purpose of taxing it
+  hypernym:
+  - 09899893-n
+  ili: i93549
+  members:
+  - measúnóir
+  partOfSpeech: n
+10712548-n:
+  definition:
+  - confidence: 0.0
+    text: someone who collects taxes for the government
+  hypernym:
+  - 09899893-n
+  ili: i93550
+  members:
+  - bailitheoir cánach
+  partOfSpeech: n
+10712955-n:
+  definition:
+  - confidence: 0.0
+    text: a craftsman who stuffs and mounts the skins of animals for display
+  hypernym:
+  - 09994178-n
+  ili: i93553
+  members:
+  - seitheadóir
+  partOfSpeech: n
+10713659-n:
+  definition:
+  - confidence: 0.0
+    text: someone who pays taxes
+  hypernym:
+  - 10429497-n
+  ili: i93556
+  members:
+  - cáiníocóir
+  partOfSpeech: n
+10713754-n:
+  definition:
+  - confidence: 0.0
+    text: a person whose occupation is teaching
+  hypernym:
+  - 10065521-n
+  ili: i93557
+  members:
+  - múinteoir
+  - oide
+  - oideoir
+  - teagascóir
+  partOfSpeech: n
+10715747-n:
+  definition:
+  - confidence: 0.0
+    text: someone whose occupation involves training in a specific technical process
+  hypernym:
+  - 09655706-n
+  ili: i93568
+  members:
+  - teicneoir
+  partOfSpeech: n
+10719850-n:
+  definition:
+  - confidence: 0.0
+    text: someone who pays rent to use land or a building or a car that is owned by
+      someone else
+  hypernym:
+  - 10429497-n
+  ili: i93593
+  members:
+  - tionónta
+  partOfSpeech: n
+10722430-n:
+  definition:
+  - confidence: 0.0
+    text: a radical who employs terror as a political weapon; usually organizes with
+      other terrorists in small cells; often uses religion as a cover for terrorist
+      activities
+  hypernym:
+  - 09786620-n
+  ili: i93608
+  members:
+  - sceimhlitheoir
+  partOfSpeech: n
+10725264-n:
+  definition:
+  - confidence: 0.0
+    text: someone who is learned in theology or who speculates about theology
+  hypernym:
+  - 10577282-n
+  ili: i93624
+  members:
+  - diagaire
+  partOfSpeech: n
+10727453-n:
+  definition:
+  - confidence: 0.0
+    text: a criminal who takes property belonging to someone else with the intention
+      of keeping it or selling it
+  hypernym:
+  - 09997190-n
+  ili: i93630
+  members:
+  - gadaí
+  partOfSpeech: n
+10731501-n:
+  definition:
+  - confidence: 0.0
+    text: formerly a person (traditionally a Gypsy) who traveled from place to place
+      mending pots and kettles and other metal utensils as a way to earn a living
+  hypernym:
+  - 10260997-n
+  ili: i93657
+  members:
+  - tincéir
+  partOfSpeech: n
+10737780-n:
+  definition:
+  - confidence: 0.0
+    text: someone who travels for pleasure
+  hypernym:
+  - 09652940-n
+  ili: i93703
+  members:
+  - turasóir
+  partOfSpeech: n
+10740102-n:
+  definition:
+  - confidence: 0.0
+    text: someone who purchases and maintains an inventory of goods to be sold
+  hypernym:
+  - 10329563-n
+  ili: i93720
+  members:
+  - déileálaí
+  - trádálaí
+  partOfSpeech: n
+10742034-n:
+  definition:
+  - confidence: 0.0
+    text: someone who is being trained
+  hypernym:
+  - 09786620-n
+  ili: i93732
+  members:
+  - oiliúnaí
+  partOfSpeech: n
+10742224-n:
+  definition:
+  - confidence: 0.0
+    text: one who trains other persons or animals
+  hypernym:
+  - 09646208-n
+  ili: i93733
+  members:
+  - oiliúnóir
+  - traenálaí
+  partOfSpeech: n
+10744916-n:
+  definition:
+  - confidence: 0.0
+    text: a person who translates written messages from one language to another
+  hypernym:
+  - 10283916-n
+  ili: i93750
+  members:
+  - aistritheoir
+  partOfSpeech: n
+10746908-n:
+  definition:
+  - confidence: 0.0
+    text: an officer charged with receiving and disbursing funds
+  hypernym:
+  - 09786620-n
+  ili: i93763
+  members:
+  - cisteoir
+  partOfSpeech: n
+10757621-n:
+  definition:
+  - confidence: 0.0
+    text: an imaginary creature represented as a white horse with a long horn growing
+      from its forehead
+  hypernym:
+  - 05632483-n
+  ili: i93836
+  members:
+  - aonbheannach
+  partOfSpeech: n
+10761247-n:
+  definition:
+  - confidence: 0.0
+    text: a person who makes use of a thing; someone who uses or employs something
+  hypernym:
+  - 09786620-n
+  ili: i93861
+  members:
+  - úsáideoir
+  partOfSpeech: n
+10761478-n:
+  definition:
+  - confidence: 0.0
+    text: someone employed to conduct others
+  hypernym:
+  - 09835195-n
+  ili: i93862
+  members:
+  - uiséir
+  partOfSpeech: n
+10762203-n:
+  definition:
+  - confidence: 0.0
+    text: one who wrongfully or illegally seizes and holds the place of another
+  hypernym:
+  - 09657157-n
+  ili: i93867
+  members:
+  - forghabhálaí
+  - forlámhaí
+  partOfSpeech: n
+10769383-n:
+  definition:
+  - confidence: 0.0
+    text: a doctor who practices veterinary medicine
+  hypernym:
+  - 10040615-n
+  ili: i93911
+  members:
+  - tréidlia
+  partOfSpeech: n
+10770579-n:
+  definition:
+  - confidence: 0.0
+    text: one ranking below or serving in the place of a chairman
+  hypernym:
+  - 09646208-n
+  ili: i93919
+  members:
+  - leaschathaoirleach
+  partOfSpeech: n
+10770933-n:
+  definition:
+  - confidence: 0.0
+    text: an executive officer ranking immediately below a president; may serve in
+      the president's place under certain circumstances
+  hypernym:
+  - 09790372-n
+  ili: i93922
+  members:
+  - Leas-Uachtarán
+  - leasuachtarán
+  partOfSpeech: n
+10771761-n:
+  definition:
+  - confidence: 0.0
+    text: an unfortunate person who suffers from some adverse circumstance
+  hypernym:
+  - 09786620-n
+  ili: i93927
+  members:
+  - íospartach
+  partOfSpeech: n
+10774246-n:
+  definition:
+  - confidence: 0.0
+    text: a musician who plays the violin
+  hypernym:
+  - 10360025-n
+  ili: i93943
+  members:
+  - veidhleadóir
+  partOfSpeech: n
+10775483-n:
+  definition:
+  - confidence: 0.0
+    text: a British peer who ranks below an earl and above a baron
+  hypernym:
+  - 10306910-n
+  - 09646208-n
+  ili: i93951
+  members:
+  - bíocunta
+  partOfSpeech: n
+10776861-n:
+  definition:
+  - confidence: 0.0
+    text: someone who visits
+  hypernym:
+  - 09652940-n
+  ili: i93961
+  members:
+  - cuairteoir
+  partOfSpeech: n
+10778819-n:
+  definition:
+  - confidence: 0.0
+    text: a person who performs voluntary work
+  hypernym:
+  - 09655706-n
+  ili: i93975
+  members:
+  - saorálaí
+  partOfSpeech: n
+10780008-n:
+  definition:
+  - confidence: 0.0
+    text: a citizen who has a legal right to vote
+  hypernym:
+  - 09943131-n
+  ili: i93982
+  members:
+  - vótálaí
+  partOfSpeech: n
+10783051-n:
+  definition:
+  - confidence: 0.0
+    text: a person whose occupation is to serve at table (as in a restaurant)
+  hypernym:
+  - 10073616-n
+  ili: i94001
+  members:
+  - freastalaí
+  partOfSpeech: n
+10788253-n:
+  definition:
+  - confidence: 0.0
+    text: someone engaged in or experienced in warfare
+  hypernym:
+  - 09786620-n
+  ili: i94040
+  members:
+  - curadh
+  - gaiscíoch
+  - laoch
+  - oscar
+  partOfSpeech: n
+10789573-n:
+  definition:
+  - confidence: 0.0
+    text: someone who makes or repairs watches
+  hypernym:
+  - 10303761-n
+  ili: i94049
+  members:
+  - uaireadóirí
+  partOfSpeech: n
+10791858-n:
+  definition:
+  - confidence: 0.0
+    text: a craftsman who weaves cloth
+  hypernym:
+  - 09994178-n
+  ili: i94064
+  members:
+  - fíodóir
+  partOfSpeech: n
+10793333-n:
+  definition:
+  - confidence: 0.0
+    text: joins pieces of metal by welding them together
+  hypernym:
+  - 09994178-n
+  ili: i94076
+  members:
+  - táthaire
+  partOfSpeech: n
+10794538-n:
+  definition:
+  - confidence: 0.0
+    text: a woman hired to suckle a child of someone else
+  hypernym:
+  - 10807146-n
+  - 09637714-n
+  ili: i94085
+  members:
+  - buime
+  partOfSpeech: n
+10795328-n:
+  definition:
+  - confidence: 0.0
+    text: someone who makes and repairs wooden wheels
+  hypernym:
+  - 09994178-n
+  ili: i94091
+  members:
+  - rothadóir
+  partOfSpeech: n
+10797068-n:
+  definition:
+  - confidence: 0.0
+    text: an informant who exposes wrongdoing within an organization in the hope of
+      stopping it
+  hypernym:
+  - 09786620-n
+  ili: i94102
+  members:
+  - sceithire
+  partOfSpeech: n
+10798221-n:
+  definition:
+  - confidence: 0.0
+    text: a Roman Catholic friar wearing the grey habit of the Franciscan order
+  hypernym:
+  - 09786620-n
+  ili: i94108
+  members:
+  - Proinsiasach
+  partOfSpeech: n
+10800308-n:
+  definition:
+  - confidence: 0.0
+    text: a married woman; a man's partner in marriage
+  hypernym:
+  - 10807146-n
+  - 10660018-n
+  ili: i94123
+  members:
+  - banchéile
+  - bean
+  - bean chéile
+  partOfSpeech: n
+10802616-n:
+  definition:
+  - confidence: 0.0
+    text: the contestant who wins the contest
+  hypernym:
+  - 09636221-n
+  ili: i94136
+  members:
+  - buaiteoir
+  partOfSpeech: n
+10805709-n:
+  definition:
+  - confidence: 0.0
+    text: someone who sees an event and reports what happened
+  hypernym:
+  - 09649777-n
+  - 10649550-n
+  ili: i94160
+  members:
+  - finné
+  partOfSpeech: n
+10807146-n:
+  definition:
+  - confidence: 0.0
+    text: an adult female person (as opposed to a man)
+  hypernym:
+  - 09628463-n
+  ili: i94168
+  members:
+  - bean
+  partOfSpeech: n
+10811668-n:
+  definition:
+  - confidence: 0.0
+    text: a person who has a nasty or unethical character undeserving of respect
+  hypernym:
+  - 09786620-n
+  ili: i94189
+  members:
+  - péist
+  partOfSpeech: n
+10813654-n:
+  definition:
+  - confidence: 0.0
+    text: writes (books or stories or articles or the like) professionally (for pay)
+  hypernym:
+  - 09786620-n
+  ili: i94200
+  members:
+  - scríbhneoir
+  - údar
+  partOfSpeech: n
+10825826-n:
+  definition:
+  - confidence: 0.0
+    text: a specialist in the branch of biology dealing with animals
+  hypernym:
+  - 09875036-n
+  ili: i94234
+  members:
+  - míoleolaí
+  partOfSpeech: n

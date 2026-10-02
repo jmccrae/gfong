@@ -1,0 +1,2867 @@
+04623416-n:
+  definition:
+  - confidence: 0.0
+    text: a distinguishing feature of your personal nature
+  hypernym:
+  - 00001740-n
+  ili: i61343
+  members:
+  - tréith
+  partOfSpeech: n
+04624919-n:
+  definition:
+  - confidence: 0.0
+    text: the complex of all the attributes — behavioral, temperamental, emotional
+      and mental — that characterize a unique individual
+  hypernym:
+  - 00001740-n
+  ili: i61348
+  members:
+  - pearsantacht
+  partOfSpeech: n
+04630289-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being secluded from the presence or view of others
+  hypernym:
+  - 04623416-n
+  ili: i61371
+  members:
+  - príobháideacht
+  partOfSpeech: n
+04647713-n:
+  definition:
+  - confidence: 0.0
+    text: a disposition to kindness and compassion
+  hypernym:
+  - 04623416-n
+  ili: i61458
+  members:
+  - dea-thoil
+  partOfSpeech: n
+04647895-n:
+  definition:
+  - confidence: 0.0
+    text: good-natured tolerance of delay or incompetence
+  hypernym:
+  - 04623416-n
+  ili: i61459
+  members:
+  - foighne
+  partOfSpeech: n
+04650103-n:
+  definition:
+  - confidence: 0.0
+    text: impatience with annoyances
+  hypernym:
+  - 04623416-n
+  ili: i61470
+  members:
+  - éadulaingt
+  partOfSpeech: n
+04651869-n:
+  definition:
+  - confidence: 0.0
+    text: cheerful compliance
+  hypernym:
+  - 04623416-n
+  ili: i61481
+  members:
+  - fonnmhaireacht
+  - toilteanas
+  partOfSpeech: n
+04653300-n:
+  definition:
+  - confidence: 0.0
+    text: a certain degree of unwillingness
+  hypernym:
+  - 04623416-n
+  ili: i61486
+  members:
+  - drogall
+  partOfSpeech: n
+04653905-n:
+  definition:
+  - confidence: 0.0
+    text: the trait of being serious
+  hypernym:
+  - 04623416-n
+  ili: i61488
+  members:
+  - tromchúis
+  partOfSpeech: n
+04654835-n:
+  definition:
+  - confidence: 0.0
+    text: a manner that is serious and solemn
+  hypernym:
+  - 04653905-n
+  ili: i61491
+  members:
+  - tromchúis
+  partOfSpeech: n
+04659331-n:
+  definition:
+  - confidence: 0.0
+    text: a refusal to speak when expected
+  hypernym:
+  - 04623416-n
+  ili: i61514
+  members:
+  - tost
+  partOfSpeech: n
+04659534-n:
+  definition:
+  - confidence: 0.0
+    text: the trait of keeping things secret
+  hypernym:
+  - 04623416-n
+  ili: i61515
+  members:
+  - rúndacht
+  - sicréideacht
+  partOfSpeech: n
+04675496-n:
+  definition:
+  - confidence: 0.0
+    text: the trait of being effeminate (derogatory of a man)
+  hypernym:
+  - 04623416-n
+  ili: i61597
+  members:
+  - mífhearúlacht
+  partOfSpeech: n
+04676176-n:
+  definition:
+  - confidence: 0.0
+    text: the trait of deserving trust and confidence
+  hypernym:
+  - 04623416-n
+  ili: i61599
+  members:
+  - iontaofacht
+  partOfSpeech: n
+04677185-n:
+  definition:
+  - confidence: 0.0
+    text: responsibility to someone or for some activity
+  hypernym:
+  - 04676176-n
+  ili: i61603
+  members:
+  - cuntasacht
+  partOfSpeech: n
+04677379-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being dependable or reliable
+  hypernym:
+  - 04676176-n
+  ili: i61604
+  members:
+  - iontaofacht
+  partOfSpeech: n
+04681322-n:
+  definition:
+  - confidence: 0.0
+    text: outward or visible aspect of a person or thing
+  hypernym:
+  - 04731092-n
+  ili: i61619
+  members:
+  - cuma
+  partOfSpeech: n
+04684742-n:
+  definition:
+  - confidence: 0.0
+    text: the general appearance of a publication
+  hypernym:
+  - 04681322-n
+  ili: i61634
+  members:
+  - formáid
+  partOfSpeech: n
+04687822-n:
+  definition:
+  - confidence: 0.0
+    text: a stripe or stripes of contrasting color
+  hypernym:
+  - 03183448-n
+  ili: i61650
+  members:
+  - banda
+  partOfSpeech: n
+04691171-n:
+  definition:
+  - confidence: 0.0
+    text: the qualities that give pleasure to the senses
+  hypernym:
+  - 04681322-n
+  ili: i61667
+  members:
+  - áilleacht
+  partOfSpeech: n
+04695595-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of arousing interest; being attractive or something that attracts
+  hypernym:
+  - 04731092-n
+  ili: i61690
+  members:
+  - tarraingteacht
+  partOfSpeech: n
+04701248-n:
+  definition:
+  - confidence: 0.0
+    text: an indication of damage
+  hypernym:
+  - 04681322-n
+  ili: i61721
+  members:
+  - marc
+  partOfSpeech: n
+04709475-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being clear and transparent
+  hypernym:
+  - 04731092-n
+  ili: i61767
+  members:
+  - trédhearcacht
+  partOfSpeech: n
+04710583-n:
+  definition:
+  - confidence: 0.0
+    text: maximum clarity or distinctness of an image rendered by an optical system
+  hypernym:
+  - 04731092-n
+  ili: i61773
+  members:
+  - fócas
+  partOfSpeech: n
+04711280-n:
+  definition:
+  - confidence: 0.0
+    text: muddiness created by stirring up sediment or having foreign particles suspended
+  hypernym:
+  - 04731092-n
+  ili: i61776
+  members:
+  - moirtiúlacht
+  partOfSpeech: n
+04716529-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being almost beyond one's ability to deal with and requiring
+      a great effort to achieve a positive result
+  hypernym:
+  - 04731092-n
+  ili: i61801
+  members:
+  - deacair
+  - deacracht
+  partOfSpeech: n
+04719844-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being easily ignited and burning rapidly
+  hypernym:
+  - 04731092-n
+  ili: i61817
+  members:
+  - inadhainteacht
+  partOfSpeech: n
+04720011-n:
+  definition:
+  - confidence: 0.0
+    text: capability of existing or performing in harmonious or congenial combination
+  hypernym:
+  - 04731092-n
+  ili: i61818
+  members:
+  - comhchuibheas
+  - comhoiriúnacht
+  partOfSpeech: n
+04720394-n:
+  definition:
+  - confidence: 0.0
+    text: compatibility in opinion and action
+  hypernym:
+  - 04720011-n
+  ili: i61820
+  members:
+  - comhréir
+  partOfSpeech: n
+04722763-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of having the properties that are right for a specific purpose
+  hypernym:
+  - 04731092-n
+  ili: i61832
+  members:
+  - oiriúnacht
+  partOfSpeech: n
+04724140-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being suitable
+  hypernym:
+  - 04722763-n
+  ili: i61838
+  members:
+  - oiriúnacht
+  partOfSpeech: n
+04724415-n:
+  definition:
+  - confidence: 0.0
+    text: an attribute that must be met or complied with and that fits a person for
+      something
+  hypernym:
+  - 04724140-n
+  ili: i61839
+  members:
+  - cáiliúchán
+  - cáilíocht
+  partOfSpeech: n
+04724828-n:
+  definition:
+  - confidence: 0.0
+    text: the quality or state of being eligible
+  hypernym:
+  - 04724415-n
+  ili: i61840
+  members:
+  - cáilitheacht
+  - incháilitheacht
+  partOfSpeech: n
+04726275-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being at hand when needed
+  hypernym:
+  - 04722763-n
+  ili: i61847
+  members:
+  - infhaighteacht
+  - inrochtaineacht
+  partOfSpeech: n
+04729991-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of not being useful or convenient
+  hypernym:
+  - 04731092-n
+  ili: i61865
+  members:
+  - míchaoithiúlacht
+  partOfSpeech: n
+04731092-n:
+  definition:
+  - confidence: 0.0
+    text: an essential and distinguishing attribute of something or someone
+  hypernym:
+  - 00001740-n
+  ili: i61871
+  members:
+  - cáilíocht
+  - mianach
+  partOfSpeech: n
+04733982-n:
+  definition:
+  - confidence: 0.0
+    text: the essential qualities or characteristics by which something is recognized
+  hypernym:
+  - 04731092-n
+  ili: i61872
+  members:
+  - nádúr
+  partOfSpeech: n
+04735326-n:
+  definition:
+  - confidence: 0.0
+    text: a degree or grade of excellence or worth
+  hypernym:
+  - 05101152-n
+  ili: i61878
+  members:
+  - ardchaighdeán
+  - cáilíocht
+  partOfSpeech: n
+04735634-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being superior
+  hypernym:
+  - 04735326-n
+  ili: i61879
+  members:
+  - ardcháilíocht
+  partOfSpeech: n
+04736044-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of excelling; possessing good qualities in high degree
+  hypernym:
+  - 04731092-n
+  ili: i61881
+  members:
+  - feabhas
+  - sármhaitheas
+  partOfSpeech: n
+04743169-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being capable of exchange or interchange
+  hypernym:
+  - 04731092-n
+  ili: i61918
+  members:
+  - inmhalartacht
+  partOfSpeech: n
+04743756-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being transferable or exchangeable
+  hypernym:
+  - 04743169-n
+  ili: i61920
+  members:
+  - inaistritheacht
+  partOfSpeech: n
+04744670-n:
+  definition:
+  - confidence: 0.0
+    text: being in cash or easily convertible to cash; debt paying ability
+  hypernym:
+  - 04743169-n
+  ili: i61924
+  members:
+  - leachtacht
+  partOfSpeech: n
+04750264-n:
+  definition:
+  - confidence: 0.0
+    text: exact sameness
+  hypernym:
+  - 04731092-n
+  ili: i61951
+  members:
+  - céannacht
+  partOfSpeech: n
+04750845-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being similar
+  hypernym:
+  - 04731092-n
+  ili: i61954
+  members:
+  - comhchosúlacht
+  - cosúlacht
+  partOfSpeech: n
+04752919-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being similar or comparable in kind or nature
+  hypernym:
+  - 04750845-n
+  ili: i61963
+  members:
+  - aonchineálacht
+  partOfSpeech: n
+04753172-n:
+  definition:
+  - confidence: 0.0
+    text: a harmonious uniformity or agreement among things or parts
+  hypernym:
+  - 04750845-n
+  ili: i61964
+  members:
+  - comhchuibheas
+  - comhsheasmhacht
+  partOfSpeech: n
+04755139-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being the same in quantity or measure or value or status
+  hypernym:
+  - 04731092-n
+  ili: i61976
+  members:
+  - comhionannas
+  - ionannas
+  partOfSpeech: n
+04755666-n:
+  definition:
+  - confidence: 0.0
+    text: functional equality
+  hypernym:
+  - 04755139-n
+  ili: i61979
+  members:
+  - cothrom
+  partOfSpeech: n
+04756076-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being unlike or dissimilar
+  hypernym:
+  - 04731092-n
+  ili: i61982
+  members:
+  - difear
+  - difríocht
+  - éagsúlacht
+  partOfSpeech: n
+04757264-n:
+  definition:
+  - confidence: 0.0
+    text: a permissible difference; allowing some freedom to move within limits
+  hypernym:
+  - 04756076-n
+  ili: i61987
+  members:
+  - lamháil
+  - lamháltas
+  partOfSpeech: n
+04758560-n:
+  definition:
+  - confidence: 0.0
+    text: noticeable heterogeneity
+  hypernym:
+  - 04756076-n
+  ili: i61994
+  members:
+  - éagsúlacht
+  partOfSpeech: n
+04758907-n:
+  definition:
+  - confidence: 0.0
+    text: the diversity of plant and animal life in a particular habitat (or in the
+      world as a whole)
+  hypernym:
+  - 04758560-n
+  ili: i61995
+  members:
+  - bithéagsúlacht
+  partOfSpeech: n
+04759476-n:
+  definition:
+  - confidence: 0.0
+    text: lack of equality
+  hypernym:
+  - 04756076-n
+  ili: i61998
+  members:
+  - neamhionannas
+  - éagothrom
+  partOfSpeech: n
+04759785-n:
+  definition:
+  - confidence: 0.0
+    text: inequality or difference in some respect
+  hypernym:
+  - 04759476-n
+  ili: i62000
+  members:
+  - difríocht
+  - neamhionannas
+  partOfSpeech: n
+04763427-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being probable; a probable event or the most probable event
+  hypernym:
+  - 04731092-n
+  ili: i62018
+  members:
+  - dóchúlacht
+  partOfSpeech: n
+04763890-n:
+  definition:
+  - confidence: 0.0
+    text: the probability of a specified outcome
+  hypernym:
+  - 04763427-n
+  ili: i62020
+  members:
+  - dealraitheacht
+  - dóchúlacht
+  partOfSpeech: n
+04764777-n:
+  definition:
+  - confidence: 0.0
+    text: uncertainty about the truth or factuality or existence of something
+  hypernym:
+  - 04731092-n
+  ili: i62023
+  members:
+  - amhras
+  partOfSpeech: n
+04770905-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being one of a kind
+  hypernym:
+  - 04623416-n
+  ili: i62049
+  members:
+  - uathúlacht
+  partOfSpeech: n
+04772293-n:
+  definition:
+  - confidence: 0.0
+    text: a union of interests or purposes or sympathies among members of a group
+  hypernym:
+  - 04731092-n
+  ili: i62054
+  members:
+  - dlúthpháirtíocht
+  partOfSpeech: n
+04772946-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being universal; existing everywhere
+  hypernym:
+  - 04731092-n
+  ili: i62058
+  members:
+  - uilíocht
+  partOfSpeech: n
+04773530-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being intricate and compounded
+  hypernym:
+  - 04731092-n
+  ili: i62061
+  members:
+  - castacht
+  - coimpléascacht
+  partOfSpeech: n
+04774586-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being characterized by a fixed principle or rate
+  hypernym:
+  - 04731092-n
+  ili: i62066
+  members:
+  - rialtacht
+  partOfSpeech: n
+04775044-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of recurring at regular intervals
+  hypernym:
+  - 04774586-n
+  ili: i62067
+  members:
+  - tréimhsiúlacht
+  partOfSpeech: n
+04776288-n:
+  definition:
+  - confidence: 0.0
+    text: a condition in which everything is regular and unvarying
+  hypernym:
+  - 04774586-n
+  ili: i62073
+  members:
+  - aonfhoirmeacht
+  partOfSpeech: n
+04780590-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of moving freely
+  hypernym:
+  - 04731092-n
+  ili: i62097
+  members:
+  - soghluaisteacht
+  partOfSpeech: n
+04783415-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being light enough to be carried
+  hypernym:
+  - 04780590-n
+  ili: i62111
+  members:
+  - inaistritheacht
+  - iniomparthacht
+  partOfSpeech: n
+04785640-n:
+  definition:
+  - confidence: 0.0
+    text: the quality or attribute of being firm and steadfast
+  hypernym:
+  - 04731092-n
+  ili: i62123
+  members:
+  - cobhsaíocht
+  partOfSpeech: n
+04786292-n:
+  definition:
+  - confidence: 0.0
+    text: pleasantness resulting from agreeable conditions
+  hypernym:
+  - 04731092-n
+  ili: i62125
+  members:
+  - taitneamhacht
+  partOfSpeech: n
+04790142-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being believable or trustworthy
+  hypernym:
+  - 04731092-n
+  ili: i62142
+  members:
+  - inchreidteacht
+  partOfSpeech: n
+04790511-n:
+  definition:
+  - confidence: 0.0
+    text: undisputed credibility
+  hypernym:
+  - 04790142-n
+  ili: i62143
+  members:
+  - barántúlacht
+  partOfSpeech: n
+04790988-n:
+  definition:
+  - confidence: 0.0
+    text: apparent validity
+  hypernym:
+  - 04790142-n
+  ili: i62146
+  members:
+  - sochreidteacht
+  partOfSpeech: n
+04799910-n:
+  definition:
+  - confidence: 0.0
+    text: satisfactoriness by virtue of conforming to approved standards
+  hypernym:
+  - 04731092-n
+  ili: i62191
+  members:
+  - inghlacthacht
+  partOfSpeech: n
+04800247-n:
+  definition:
+  - confidence: 0.0
+    text: acceptability by virtue of being admissible
+  hypernym:
+  - 04799910-n
+  ili: i62192
+  members:
+  - inghlacthacht
+  partOfSpeech: n
+04806382-n:
+  definition:
+  - confidence: 0.0
+    text: an ethnic quality or affiliation resulting from racial or cultural ties
+  hypernym:
+  - 04731092-n
+  ili: i62223
+  members:
+  - eitneachas
+  partOfSpeech: n
+04807845-n:
+  definition:
+  - confidence: 0.0
+    text: originality by virtue of being refreshingly novel
+  hypernym:
+  - 04731092-n
+  ili: i62230
+  members:
+  - úrnuacht
+  partOfSpeech: n
+04809447-n:
+  definition:
+  - confidence: 0.0
+    text: conformity to fact or truth
+  hypernym:
+  - 04731092-n
+  ili: i62240
+  members:
+  - cruinneas
+  partOfSpeech: n
+04811129-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being reproducible in amount or performance
+  hypernym:
+  - 04731092-n
+  ili: i62248
+  members:
+  - beachtas
+  - cruinneas
+  partOfSpeech: n
+04811700-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being inaccurate and having errors
+  hypernym:
+  - 04731092-n
+  ili: i62251
+  members:
+  - míchruinneas
+  partOfSpeech: n
+04814129-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being deserving (e.g., deserving assistance)
+  hypernym:
+  - 05149427-n
+  ili: i62266
+  members:
+  - fiúntas
+  - tuillteanas
+  partOfSpeech: n
+04814878-n:
+  definition:
+  - confidence: 0.0
+    text: (of motor vehicles) the quality of being fit to drive on the open road
+  hypernym:
+  - 05149427-n
+  ili: i62269
+  members:
+  - ródacmhainneacht
+  partOfSpeech: n
+04816489-n:
+  definition:
+  - confidence: 0.0
+    text: lawfulness by virtue of conformity to a legal statute
+  hypernym:
+  - 04817036-n
+  ili: i62277
+  members:
+  - dlíthiúlacht
+  partOfSpeech: n
+04816705-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of having legal force or effectiveness
+  hypernym:
+  - 04816489-n
+  ili: i62278
+  members:
+  - bailíocht
+  partOfSpeech: n
+04817036-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of conforming to law
+  hypernym:
+  - 04731092-n
+  ili: i62280
+  members:
+  - dlíthiúlacht
+  partOfSpeech: n
+04817579-n:
+  definition:
+  - confidence: 0.0
+    text: unlawfulness by virtue of violating some legal statute
+  hypernym:
+  - 04731092-n
+  ili: i62283
+  members:
+  - neamhdhleathacht
+  partOfSpeech: n
+04826257-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of comprehensible language or thought
+  hypernym:
+  - 04731092-n
+  ili: i62322
+  members:
+  - intuigtheacht
+  - sothuigtheacht
+  partOfSpeech: n
+04826516-n:
+  definition:
+  - confidence: 0.0
+    text: a quality of writing (print or handwriting) that can be easily read
+  hypernym:
+  - 04826257-n
+  ili: i62323
+  members:
+  - inléiteacht
+  partOfSpeech: n
+04826727-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of language that is comprehensible
+  hypernym:
+  - 04826257-n
+  ili: i62324
+  members:
+  - intuigtheacht
+  partOfSpeech: n
+04827489-n:
+  definition:
+  - confidence: 0.0
+    text: free from obscurity and easy to understand; the comprehensibility of clear
+      expression
+  hypernym:
+  - 04826257-n
+  ili: i62329
+  members:
+  - soiléireacht
+  partOfSpeech: n
+04836413-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being humane
+  hypernym:
+  - 04731092-n
+  ili: i62371
+  members:
+  - daonnacht
+  partOfSpeech: n
+04842491-n:
+  definition:
+  - confidence: 0.0
+    text: an exceptional interest in and admiration for yourself
+  hypernym:
+  - 04623416-n
+  ili: i62401
+  members:
+  - naircisíocht
+  partOfSpeech: n
+04843499-n:
+  definition:
+  - confidence: 0.0
+    text: a strong drive for success
+  hypernym:
+  - 04623416-n
+  ili: i62406
+  members:
+  - uaillmhian
+  partOfSpeech: n
+04844656-n:
+  definition:
+  - confidence: 0.0
+    text: an aggressive willingness to compete
+  hypernym:
+  - 04623416-n
+  ili: i62412
+  members:
+  - iomaíochas
+  partOfSpeech: n
+04846385-n:
+  definition:
+  - confidence: 0.0
+    text: conformity with rules or standards
+  hypernym:
+  - 04857348-n
+  ili: i62420
+  members:
+  - cothrom
+  - cothromas
+  partOfSpeech: n
+04847636-n:
+  definition:
+  - confidence: 0.0
+    text: a kindly and lenient attitude toward people
+  hypernym:
+  - 04731092-n
+  ili: i62427
+  members:
+  - carthanacht
+  partOfSpeech: n
+04857348-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being just or fair
+  hypernym:
+  - 04731092-n
+  ili: i62476
+  members:
+  - ceart
+  - ceartas
+  partOfSpeech: n
+04864314-n:
+  definition:
+  - confidence: 0.0
+    text: a quality of spirit that enables you to face danger or pain without showing
+      fear
+  hypernym:
+  - 04623416-n
+  ili: i62513
+  members:
+  - misneach
+  partOfSpeech: n
+04876319-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being honorable and having a good name
+  hypernym:
+  - 04731092-n
+  ili: i62572
+  members:
+  - onóir
+  partOfSpeech: n
+04878569-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being honest
+  hypernym:
+  - 04731092-n
+  ili: i62584
+  members:
+  - ionracas
+  - macántacht
+  partOfSpeech: n
+04885133-n:
+  definition:
+  - confidence: 0.0
+    text: the loyalty that citizens owe to their country (or subjects to their sovereign)
+  hypernym:
+  - 04731092-n
+  ili: i62619
+  members:
+  - dílseacht
+  partOfSpeech: n
+04894076-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being worthy of esteem or respect
+  hypernym:
+  - 00026390-n
+  ili: i62669
+  members:
+  - dínit
+  partOfSpeech: n
+04899279-n:
+  definition:
+  - confidence: 0.0
+    text: the capacity to assess situations or circumstances shrewdly and to draw
+      sound conclusions
+  hypernym:
+  - 04623416-n
+  ili: i62696
+  members:
+  - breithiúnas
+  partOfSpeech: n
+04899539-n:
+  definition:
+  - confidence: 0.0
+    text: judgment based on observable phenomena and uninfluenced by emotions or personal
+      prejudices
+  hypernym:
+  - 04899279-n
+  ili: i62697
+  members:
+  - oibiachtúlacht
+  partOfSpeech: n
+04903356-n:
+  definition:
+  - confidence: 0.0
+    text: diligence in keeping clean
+  hypernym:
+  - 04623416-n
+  ili: i62716
+  members:
+  - glaineacht
+  partOfSpeech: n
+04904939-n:
+  definition:
+  - confidence: 0.0
+    text: (behavioral attributes) the way a person behaves toward other people
+  hypernym:
+  - 04623416-n
+  ili: i62725
+  members:
+  - iompar
+  partOfSpeech: n
+04905264-n:
+  definition:
+  - confidence: 0.0
+    text: social deportment
+  hypernym:
+  - 04904939-n
+  ili: i62726
+  members:
+  - béas
+  partOfSpeech: n
+04905614-n:
+  definition:
+  - confidence: 0.0
+    text: correct or appropriate behavior
+  hypernym:
+  - 04904939-n
+  ili: i62729
+  members:
+  - cuibheas
+  - cuibhiúlacht
+  partOfSpeech: n
+04918597-n:
+  definition:
+  - confidence: 0.0
+    text: a manner that strictly observes all forms and ceremonies
+  hypernym:
+  - 04904939-n
+  ili: i62797
+  members:
+  - foirmiúlacht
+  partOfSpeech: n
+04923519-n:
+  definition:
+  - confidence: 0.0
+    text: a basic or essential property shared by all members of a class
+  hypernym:
+  - 00001740-n
+  ili: i62823
+  members:
+  - airí
+  - tréith
+  partOfSpeech: n
+04925230-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being connected or the degree to which something has connections
+  hypernym:
+  - 04923519-n
+  ili: i62828
+  members:
+  - nascacht
+  partOfSpeech: n
+04928188-n:
+  definition:
+  - confidence: 0.0
+    text: any attribute or immaterial possession that is inherited from ancestors
+  hypernym:
+  - 00001740-n
+  ili: i62843
+  members:
+  - oidhreacht
+  partOfSpeech: n
+04928594-n:
+  definition:
+  - confidence: 0.0
+    text: 'a person''s social heritage: previous experience or training'
+  hypernym:
+  - 04928188-n
+  ili: i62845
+  members:
+  - cúlra
+  partOfSpeech: n
+04930920-n:
+  definition:
+  - confidence: 0.0
+    text: properties attributable to your ancestry
+  hypernym:
+  - 04923519-n
+  ili: i62856
+  members:
+  - bunadh
+  partOfSpeech: n
+04931280-n:
+  definition:
+  - confidence: 0.0
+    text: how long something has existed
+  hypernym:
+  - 04923519-n
+  ili: i62859
+  members:
+  - aois
+  partOfSpeech: n
+04933905-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being pure and fresh (as if newly made); not stale or deteriorated
+  hypernym:
+  - 04931280-n
+  ili: i62874
+  members:
+  - úire
+  partOfSpeech: n
+04936080-n:
+  definition:
+  - confidence: 0.0
+    text: how something is done or how it happens
+  hypernym:
+  - 04923519-n
+  ili: i62886
+  members:
+  - bealach
+  - caoi
+  - dóigh
+  - modh
+  partOfSpeech: n
+04937809-n:
+  definition:
+  - confidence: 0.0
+    text: a manner of living that reflects the person's values and attitudes
+  hypernym:
+  - 04936080-n
+  ili: i62893
+  members:
+  - stíl bheatha
+  partOfSpeech: n
+04939142-n:
+  definition:
+  - confidence: 0.0
+    text: the manner of construction of something and the arrangement of its parts
+  hypernym:
+  - 04940721-n
+  ili: i62902
+  members:
+  - struchtúr
+  partOfSpeech: n
+04939455-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) the structure and organization of a computer's hardware
+      or system software
+  hypernym:
+  - 04939142-n
+  ili: i62903
+  members:
+  - ailtireacht
+  partOfSpeech: n
+04940721-n:
+  definition:
+  - confidence: 0.0
+    text: the way in which someone or something is composed
+  hypernym:
+  - 04923519-n
+  ili: i62908
+  members:
+  - comhdhéanamh
+  partOfSpeech: n
+04941723-n:
+  definition:
+  - confidence: 0.0
+    text: the property of holding together and retaining its shape
+  hypernym:
+  - 04923519-n
+  ili: i62912
+  members:
+  - comhsheasmhacht
+  partOfSpeech: n
+04942180-n:
+  definition:
+  - confidence: 0.0
+    text: resistance of a liquid to shear forces (and hence to flow)
+  hypernym:
+  - 04941723-n
+  ili: i62913
+  members:
+  - slaodacht
+  partOfSpeech: n
+04942705-n:
+  definition:
+  - confidence: 0.0
+    text: the property of sticking together (as of glue and wood) or the joining of
+      surfaces of different composition
+  hypernym:
+  - 04942180-n
+  ili: i62916
+  members:
+  - greamaitheacht
+  partOfSpeech: n
+04944220-n:
+  definition:
+  - confidence: 0.0
+    text: the property of flowing easily
+  hypernym:
+  - 04941723-n
+  ili: i62923
+  members:
+  - leachtacht
+  partOfSpeech: n
+04945025-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being rigid and resistant to pressure; not easily scratched;
+      measured on Mohs scale
+  hypernym:
+  - 04941723-n
+  ili: i62926
+  members:
+  - cruas
+  partOfSpeech: n
+04947323-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being porous; being able to absorb fluids
+  hypernym:
+  - 04941723-n
+  ili: i62939
+  members:
+  - póiriúlacht
+  partOfSpeech: n
+04947673-n:
+  definition:
+  - confidence: 0.0
+    text: the property of something that can be pervaded by a liquid (as by osmosis
+      or diffusion)
+  hypernym:
+  - 04947323-n
+  ili: i62941
+  members:
+  - tréscaoilteacht
+  partOfSpeech: n
+04948630-n:
+  definition:
+  - confidence: 0.0
+    text: the amount per unit size
+  hypernym:
+  - 04941723-n
+  ili: i62946
+  members:
+  - dlús
+  partOfSpeech: n
+04951690-n:
+  definition:
+  - confidence: 0.0
+    text: (chemistry) the tendency of an atom or radical to attract electrons in the
+      formation of an ionic bond
+  hypernym:
+  - 04923519-n
+  ili: i62962
+  members:
+  - leictridhiúltacht
+  partOfSpeech: n
+04954054-n:
+  definition:
+  - confidence: 0.0
+    text: the feel of a surface or a fabric
+  hypernym:
+  - 04923519-n
+  ili: i62975
+  members:
+  - uigeacht
+  partOfSpeech: n
+04959419-n:
+  definition:
+  - confidence: 0.0
+    text: the location of a visual perception along a continuum from black to white
+  hypernym:
+  - 04923519-n
+  ili: i63005
+  members:
+  - geal
+  partOfSpeech: n
+04963771-n:
+  definition:
+  - confidence: 0.0
+    text: a visual attribute of things that results from the light they emit or transmit
+      or reflect
+  hypernym:
+  - 04923519-n
+  ili: i63025
+  members:
+  - dath
+  partOfSpeech: n
+04964353-n:
+  definition:
+  - confidence: 0.0
+    text: any of three colors from which all others can be obtained by mixing
+  hypernym:
+  - 04963771-n
+  ili: i63026
+  members:
+  - bundath
+  - príomhdhath
+  partOfSpeech: n
+04967906-n:
+  definition:
+  - confidence: 0.0
+    text: the quality or state of the achromatic color of greatest lightness (bearing
+      the least resemblance to black)
+  hypernym:
+  - 04963771-n
+  ili: i63042
+  members:
+  - bán
+  partOfSpeech: n
+04968868-n:
+  definition:
+  - confidence: 0.0
+    text: a neutral achromatic color midway between white and black
+  hypernym:
+  - 04963771-n
+  ili: i63048
+  members:
+  - liath
+  partOfSpeech: n
+04974368-n:
+  definition:
+  - confidence: 0.0
+    text: green color or pigment; resembling the color of growing grass
+  hypernym:
+  - 04963771-n
+  ili: i63086
+  members:
+  - glas
+  partOfSpeech: n
+04976072-n:
+  definition:
+  - confidence: 0.0
+    text: blue color or pigment; resembling the color of the clear sky in the daytime
+  hypernym:
+  - 04963771-n
+  ili: i63098
+  members:
+  - gorm
+  partOfSpeech: n
+04987257-n:
+  definition:
+  - confidence: 0.0
+    text: any property detected by the olfactory system
+  hypernym:
+  - 04923519-n
+  ili: i63172
+  members:
+  - boladh
+  partOfSpeech: n
+04988388-n:
+  definition:
+  - confidence: 0.0
+    text: the particular auditory effect produced by a given cause
+  hypernym:
+  - 04923519-n
+  ili: i63177
+  members:
+  - fuaim
+  partOfSpeech: n
+05000782-n:
+  definition:
+  - confidence: 0.0
+    text: the relative proportion of salt in a solution
+  hypernym:
+  - 04923519-n
+  ili: i63244
+  members:
+  - salandacht
+  partOfSpeech: n
+05001060-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being acidic
+  hypernym:
+  - 04923519-n
+  ili: i63246
+  members:
+  - aigéadacht
+  partOfSpeech: n
+05007507-n:
+  definition:
+  - confidence: 0.0
+    text: more than average fatness
+  hypernym:
+  - 04923519-n
+  ili: i63284
+  members:
+  - murtall
+  - otracht
+  partOfSpeech: n
+05009987-n:
+  definition:
+  - confidence: 0.0
+    text: characteristic way of bearing one's body
+  hypernym:
+  - 04923519-n
+  ili: i63298
+  members:
+  - iompar
+  partOfSpeech: n
+05012993-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being able to survive and grow
+  hypernym:
+  - 04923519-n
+  ili: i63312
+  members:
+  - beogacht
+  partOfSpeech: n
+05017985-n:
+  definition:
+  - confidence: 0.0
+    text: the repetition of a sound resulting from reflection of the sound waves
+  hypernym:
+  - 04923519-n
+  ili: i63334
+  members:
+  - macalla
+  partOfSpeech: n
+05018974-n:
+  definition:
+  - confidence: 0.0
+    text: the degree of hotness or coldness of a body or environment (corresponding
+      to its molecular activity)
+  hypernym:
+  - 00033914-n
+  - 04923519-n
+  ili: i63340
+  members:
+  - teocht
+  partOfSpeech: n
+05020388-n:
+  definition:
+  - confidence: 0.0
+    text: (cryogenics) the lowest temperature theoretically attainable (at which the
+      kinetic energy of atoms and molecules is minimal); 0 Kelvin or -273.15 centigrade
+      or -459.67 Fahrenheit
+  hypernym:
+  - 05018974-n
+  ili: i63345
+  members:
+  - dearbhnialas
+  partOfSpeech: n
+05021151-n:
+  definition:
+  - confidence: 0.0
+    text: the temperature below which a liquid turns into a solid
+  hypernym:
+  - 05018974-n
+  ili: i63349
+  members:
+  - leáphointe
+  - pointe leáite
+  partOfSpeech: n
+05023355-n:
+  definition:
+  - confidence: 0.0
+    text: the presence of heat
+  hypernym:
+  - 05018974-n
+  ili: i63361
+  members:
+  - teas
+  partOfSpeech: n
+05024624-n:
+  definition:
+  - confidence: 0.0
+    text: quality or fact or degree of being visible; perceptible by the eye or obvious
+      to the eye
+  hypernym:
+  - 04923519-n
+  ili: i63369
+  members:
+  - infheictheacht
+  partOfSpeech: n
+05025075-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of not being perceivable by the eye
+  hypernym:
+  - 04923519-n
+  ili: i63371
+  members:
+  - dofheictheacht
+  partOfSpeech: n
+05025708-n:
+  definition:
+  - confidence: 0.0
+    text: the luminous flux incident on a unit area
+  hypernym:
+  - 04923519-n
+  ili: i63373
+  members:
+  - soilseas
+  partOfSpeech: n
+05027863-n:
+  definition:
+  - confidence: 0.0
+    text: the physical property of a material that can return to its original shape
+      or position after deformation that does not exceed its elastic limit
+  hypernym:
+  - 04923519-n
+  ili: i63384
+  members:
+  - athléimneacht
+  partOfSpeech: n
+05029623-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being flexible; easily bent or shaped
+  hypernym:
+  - 04923519-n
+  ili: i63393
+  members:
+  - solúbthacht
+  partOfSpeech: n
+05031420-n:
+  definition:
+  - confidence: 0.0
+    text: the property of a body that causes it to have weight in a gravitational
+      field
+  hypernym:
+  - 00033914-n
+  - 04923519-n
+  ili: i63403
+  members:
+  - mais
+  partOfSpeech: n
+05034009-n:
+  definition:
+  - confidence: 0.0
+    text: the vertical force exerted by a mass as a result of gravity
+  hypernym:
+  - 04923519-n
+  ili: i63417
+  members:
+  - meáchan
+  partOfSpeech: n
+05036760-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being sustainable
+  hypernym:
+  - 04923519-n
+  ili: i63431
+  members:
+  - inbhuaine
+  partOfSpeech: n
+05036872-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being physically or mentally strong
+  hypernym:
+  - 04923519-n
+  ili: i63432
+  members:
+  - láidreacht
+  - neart
+  partOfSpeech: n
+05037846-n:
+  definition:
+  - confidence: 0.0
+    text: physical strength
+  hypernym:
+  - 05036872-n
+  ili: i63436
+  members:
+  - cumhacht
+  partOfSpeech: n
+05038178-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being strong and healthy in constitution
+  hypernym:
+  - 05036872-n
+  ili: i63438
+  members:
+  - stóinseacht
+  partOfSpeech: n
+05040565-n:
+  definition:
+  - confidence: 0.0
+    text: the power or capacity of an organism to tolerate unfavorable environmental
+      conditions
+  hypernym:
+  - 05036872-n
+  ili: i63453
+  members:
+  - fulaingt
+  partOfSpeech: n
+05041380-n:
+  definition:
+  - confidence: 0.0
+    text: capacity to produce strong physiological or chemical effects
+  hypernym:
+  - 05198072-n
+  ili: i63458
+  members:
+  - láidreacht
+  - neart
+  partOfSpeech: n
+05041628-n:
+  definition:
+  - confidence: 0.0
+    text: (chemistry) a property of atoms or radicals; their combining power given
+      in terms of the number of hydrogen atoms (or the equivalent)
+  hypernym:
+  - 05198072-n
+  ili: i63459
+  members:
+  - fiús
+  partOfSpeech: n
+05043116-n:
+  definition:
+  - confidence: 0.0
+    text: forceful exertion
+  hypernym:
+  - 05101152-n
+  ili: i63466
+  members:
+  - fuinneamh
+  partOfSpeech: n
+05043870-n:
+  definition:
+  - confidence: 0.0
+    text: used of the degree of something undesirable e.g. pain or weather
+  hypernym:
+  - 05101152-n
+  ili: i63469
+  members:
+  - léan
+  partOfSpeech: n
+05045748-n:
+  definition:
+  - confidence: 0.0
+    text: the strength of a solution; number of molecules of a substance in a given
+      volume
+  hypernym:
+  - 04923519-n
+  ili: i63477
+  members:
+  - tiúchan
+  partOfSpeech: n
+05048657-n:
+  definition:
+  - confidence: 0.0
+    text: lack of physical strength
+  hypernym:
+  - 04923519-n
+  ili: i63492
+  members:
+  - leochaileacht
+  partOfSpeech: n
+05050909-n:
+  definition:
+  - confidence: 0.0
+    text: quality of being easily damaged or destroyed
+  hypernym:
+  - 04923519-n
+  ili: i63507
+  members:
+  - leochaileacht
+  partOfSpeech: n
+05058400-n:
+  definition:
+  - confidence: 0.0
+    text: continuance in time
+  hypernym:
+  - 04923519-n
+  ili: i63542
+  members:
+  - fad
+  - tréimhse
+  partOfSpeech: n
+05060839-n:
+  definition:
+  - confidence: 0.0
+    text: permanence by virtue of the power to resist stress or force
+  hypernym:
+  - 05058400-n
+  ili: i63553
+  members:
+  - buanfas
+  - marthanacht
+  partOfSpeech: n
+05063125-n:
+  definition:
+  - confidence: 0.0
+    text: the quality or state of being mortal
+  hypernym:
+  - 05058400-n
+  ili: i63565
+  members:
+  - básmhaireacht
+  partOfSpeech: n
+05063385-n:
+  definition:
+  - confidence: 0.0
+    text: (of living things) capable of normal growth and development
+  hypernym:
+  - 04923519-n
+  ili: i63567
+  members:
+  - inmharthanacht
+  partOfSpeech: n
+05070387-n:
+  definition:
+  - confidence: 0.0
+    text: the property of having one dimension
+  hypernym:
+  - 04923519-n
+  ili: i63603
+  members:
+  - líneacht
+  partOfSpeech: n
+05071206-n:
+  definition:
+  - confidence: 0.0
+    text: any spatial attributes (especially as defined by outline)
+  hypernym:
+  - 04923519-n
+  ili: i63608
+  members:
+  - cruth
+  - foirm
+  partOfSpeech: n
+05071710-n:
+  definition:
+  - confidence: 0.0
+    text: the configuration of a surface and the relations among its man-made and
+      natural features
+  hypernym:
+  - 05071206-n
+  ili: i63609
+  members:
+  - topagrafaíocht
+  partOfSpeech: n
+05072886-n:
+  definition:
+  - confidence: 0.0
+    text: (mathematics) a lack of symmetry
+  hypernym:
+  - 04923519-n
+  ili: i63615
+  members:
+  - neamhshiméadracht
+  partOfSpeech: n
+05075249-n:
+  definition:
+  - confidence: 0.0
+    text: the property possessed by a line or surface that departs from the vertical
+  hypernym:
+  - 00032220-n
+  ili: i63629
+  members:
+  - claon
+  partOfSpeech: n
+05087073-n:
+  definition:
+  - confidence: 0.0
+    text: the arrangement of the body and its limbs
+  hypernym:
+  - 04923519-n
+  ili: i63690
+  members:
+  - suíomh
+  partOfSpeech: n
+05090535-n:
+  definition:
+  - confidence: 0.0
+    text: the property possessed by an array of things that have space between them
+  hypernym:
+  - 00032220-n
+  ili: i63710
+  members:
+  - spásáil
+  partOfSpeech: n
+05091408-n:
+  definition:
+  - confidence: 0.0
+    text: the property created by the space between two objects or points
+  hypernym:
+  - 05090535-n
+  ili: i63715
+  members:
+  - achar
+  - fad
+  partOfSpeech: n
+05092372-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being remote
+  hypernym:
+  - 05091408-n
+  ili: i63719
+  members:
+  - iargúltacht
+  partOfSpeech: n
+05093074-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being close together
+  hypernym:
+  - 05091408-n
+  ili: i63722
+  members:
+  - gaireacht
+  partOfSpeech: n
+05093476-n:
+  definition:
+  - confidence: 0.0
+    text: the distance (measured in the direction of propagation) between two points
+      in the same phase in consecutive cycles of a wave
+  hypernym:
+  - 05091408-n
+  ili: i63724
+  members:
+  - tonnfhad
+  partOfSpeech: n
+05094380-n:
+  definition:
+  - confidence: 0.0
+    text: the distance from the center of a car's front wheel to the rear axle
+  hypernym:
+  - 05091408-n
+  ili: i63730
+  members:
+  - rothfhad
+  partOfSpeech: n
+05097318-n:
+  definition:
+  - confidence: 0.0
+    text: the distance by which one thing clears another; the space between them
+  hypernym:
+  - 05091408-n
+  ili: i63745
+  members:
+  - scóip
+  partOfSpeech: n
+05097645-n:
+  definition:
+  - confidence: 0.0
+    text: the property of relative size or extent (whether large or small)
+  hypernym:
+  - 04923519-n
+  ili: i63747
+  members:
+  - méid
+  partOfSpeech: n
+05098520-n:
+  definition:
+  - confidence: 0.0
+    text: a degree in a continuum of size or quantity
+  hypernym:
+  - 05097645-n
+  ili: i63750
+  members:
+  - ord
+  partOfSpeech: n
+05098974-n:
+  definition:
+  - confidence: 0.0
+    text: a measure of how likely it is that some event will occur; a number expressing
+      the ratio of favorable cases to the whole number of cases possible
+  hypernym:
+  - 00033914-n
+  ili: i63752
+  members:
+  - dóchúlacht
+  partOfSpeech: n
+05100843-n:
+  definition:
+  - confidence: 0.0
+    text: the magnitude of something in a particular direction (especially length
+      or width or height)
+  hypernym:
+  - 05097645-n
+  ili: i63761
+  members:
+  - toise
+  partOfSpeech: n
+05101152-n:
+  definition:
+  - confidence: 0.0
+    text: a position on a scale of intensity or amount or quality
+  hypernym:
+  - 04923519-n
+  ili: i63762
+  members:
+  - leibhéal
+  - méid
+  partOfSpeech: n
+05101987-n:
+  definition:
+  - confidence: 0.0
+    text: degree of psychological or intellectual profundity
+  hypernym:
+  - 05101152-n
+  ili: i63765
+  members:
+  - doimhneacht
+  partOfSpeech: n
+05106204-n:
+  definition:
+  - confidence: 0.0
+    text: the physical magnitude of something (how big it is)
+  hypernym:
+  - 05097645-n
+  ili: i63794
+  members:
+  - méid
+  partOfSpeech: n
+05106651-n:
+  definition:
+  - confidence: 0.0
+    text: the property of something that is great in magnitude
+  hypernym:
+  - 05097645-n
+  ili: i63796
+  members:
+  - méid
+  - toirt
+  partOfSpeech: n
+05109077-n:
+  definition:
+  - confidence: 0.0
+    text: the length of a straight line passing through the center of a circle and
+      connecting two points on the circumference
+  hypernym:
+  - 05136466-n
+  ili: i63810
+  members:
+  - trastomhas
+  partOfSpeech: n
+05109363-n:
+  definition:
+  - confidence: 0.0
+    text: the length of a line segment between the center and circumference of a circle
+      or sphere
+  hypernym:
+  - 05136466-n
+  ili: i63811
+  members:
+  - ga
+  partOfSpeech: n
+05110372-n:
+  definition:
+  - confidence: 0.0
+    text: the dimension through an object as opposed to its length or width
+  hypernym:
+  - 05100843-n
+  ili: i63817
+  members:
+  - tiús
+  partOfSpeech: n
+05110583-n:
+  definition:
+  - confidence: 0.0
+    text: diameter of a tube or gun barrel
+  hypernym:
+  - 05109077-n
+  ili: i63818
+  members:
+  - calabra
+  partOfSpeech: n
+05115065-n:
+  definition:
+  - confidence: 0.0
+    text: the relative magnitude of something with reference to a criterion
+  hypernym:
+  - 05097645-n
+  ili: i63839
+  members:
+  - méid
+  - suim
+  partOfSpeech: n
+05116040-n:
+  definition:
+  - confidence: 0.0
+    text: an adequate or large amount
+  hypernym:
+  - 05115065-n
+  ili: i63843
+  members:
+  - cainníocht
+  partOfSpeech: n
+05116247-n:
+  definition:
+  - confidence: 0.0
+    text: the amount by which something increases
+  hypernym:
+  - 05115065-n
+  ili: i63844
+  members:
+  - incrimint
+  partOfSpeech: n
+05121671-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being an amount by which something is less than expected
+      or required
+  hypernym:
+  - 05115065-n
+  ili: i63869
+  members:
+  - easnamh
+  - easpa
+  - gannchion
+  - ganntanas
+  partOfSpeech: n
+05122340-n:
+  definition:
+  - confidence: 0.0
+    text: the property of a more than adequate quantity or supply
+  hypernym:
+  - 05116040-n
+  ili: i63872
+  members:
+  - flúirse
+  partOfSpeech: n
+05122868-n:
+  definition:
+  - confidence: 0.0
+    text: a full supply
+  hypernym:
+  - 05122340-n
+  ili: i63874
+  members:
+  - neart
+  partOfSpeech: n
+05124253-n:
+  definition:
+  - confidence: 0.0
+    text: a small and inadequate amount
+  hypernym:
+  - 05115065-n
+  ili: i63881
+  members:
+  - ganntanas
+  partOfSpeech: n
+05127014-n:
+  definition:
+  - confidence: 0.0
+    text: a quantity much larger than is needed
+  hypernym:
+  - 05122340-n
+  ili: i63895
+  members:
+  - barrachas
+  - barraíocht
+  - breis
+  - farasbarr
+  partOfSpeech: n
+05128718-n:
+  definition:
+  - confidence: 0.0
+    text: the property possessed by a sum or total or indefinite quantity of units
+      or individuals
+  hypernym:
+  - 05115065-n
+  ili: i63904
+  members:
+  - uimhir
+  partOfSpeech: n
+05129822-n:
+  definition:
+  - confidence: 0.0
+    text: the property resulting from being or relating to the greater in number of
+      two parts; the main part
+  hypernym:
+  - 05128718-n
+  ili: i63909
+  members:
+  - formhór
+  - tromlach
+  partOfSpeech: n
+05130115-n:
+  definition:
+  - confidence: 0.0
+    text: being or relating to the smaller in number of two parts
+  hypernym:
+  - 05128718-n
+  ili: i63910
+  members:
+  - mionlach
+  partOfSpeech: n
+05131025-n:
+  definition:
+  - confidence: 0.0
+    text: the extent to which something is covered
+  hypernym:
+  - 05097645-n
+  ili: i63914
+  members:
+  - clúdach
+  partOfSpeech: n
+05131322-n:
+  definition:
+  - confidence: 0.0
+    text: the greatest possible degree of something
+  hypernym:
+  - 05097645-n
+  ili: i63916
+  members:
+  - teorainn
+  partOfSpeech: n
+05132193-n:
+  definition:
+  - confidence: 0.0
+    text: the greatest possible degree
+  hypernym:
+  - 05131322-n
+  ili: i63920
+  members:
+  - dícheall
+  - lándícheall
+  partOfSpeech: n
+05132642-n:
+  definition:
+  - confidence: 0.0
+    text: 'an area in which something acts or operates or has power or control:'
+  hypernym:
+  - 05097645-n
+  ili: i63922
+  members:
+  - raon
+  - réimse
+  - scóip
+  partOfSpeech: n
+05135484-n:
+  definition:
+  - confidence: 0.0
+    text: a broad range of related objects or values or qualities or ideas or activities
+  hypernym:
+  - 05132642-n
+  ili: i63935
+  members:
+  - speictream
+  partOfSpeech: n
+05135784-n:
+  definition:
+  - confidence: 0.0
+    text: the extent of a 2-dimensional surface enclosed within a boundary
+  hypernym:
+  - 05097645-n
+  ili: i63937
+  members:
+  - achar
+  partOfSpeech: n
+05136466-n:
+  definition:
+  - confidence: 0.0
+    text: the linear extent in space from one end to the other; the longest dimension
+      of something that is fixed in place
+  hypernym:
+  - 05100843-n
+  - 00033914-n
+  ili: i63940
+  members:
+  - fad
+  partOfSpeech: n
+05138459-n:
+  definition:
+  - confidence: 0.0
+    text: distance measured in miles
+  hypernym:
+  - 05091408-n
+  ili: i63950
+  members:
+  - míleáiste
+  partOfSpeech: n
+05138912-n:
+  definition:
+  - confidence: 0.0
+    text: elevation especially above sea level or above the earth's surface
+  hypernym:
+  - 05091408-n
+  ili: i63953
+  members:
+  - airde
+  partOfSpeech: n
+05139167-n:
+  definition:
+  - confidence: 0.0
+    text: height above ground
+  hypernym:
+  - 05138912-n
+  ili: i63954
+  members:
+  - leibhéal
+  partOfSpeech: n
+05141812-n:
+  definition:
+  - confidence: 0.0
+    text: the extent downward or backward or inward
+  hypernym:
+  - 05097645-n
+  ili: i63971
+  members:
+  - doimhneacht
+  partOfSpeech: n
+05143415-n:
+  definition:
+  - confidence: 0.0
+    text: the extent of something from side to side
+  hypernym:
+  - 05100843-n
+  ili: i63979
+  members:
+  - leithead
+  partOfSpeech: n
+05144430-n:
+  definition:
+  - confidence: 0.0
+    text: the vertical dimension of extension; distance from the base of something
+      to the top
+  hypernym:
+  - 05100843-n
+  ili: i63985
+  members:
+  - airde
+  partOfSpeech: n
+05146223-n:
+  definition:
+  - confidence: 0.0
+    text: any admirable quality or attribute
+  hypernym:
+  - 04731092-n
+  ili: i63993
+  members:
+  - bua
+  partOfSpeech: n
+05149087-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being worthy of desiring
+  hypernym:
+  - 05149427-n
+  ili: i64008
+  members:
+  - inmhianaitheacht
+  partOfSpeech: n
+05149427-n:
+  definition:
+  - confidence: 0.0
+    text: that which is pleasing or valuable or useful
+  hypernym:
+  - 04731092-n
+  ili: i64010
+  members:
+  - maitheas
+  partOfSpeech: n
+05149888-n:
+  definition:
+  - confidence: 0.0
+    text: something that aids or promotes well-being
+  hypernym:
+  - 05149427-n
+  ili: i64011
+  members:
+  - buntáiste
+  - leas
+  - sochar
+  - tairbhe
+  partOfSpeech: n
+05150324-n:
+  definition:
+  - confidence: 0.0
+    text: a reason for wanting something done
+  hypernym:
+  - 05149888-n
+  ili: i64013
+  members:
+  - leas
+  partOfSpeech: n
+05152820-n:
+  definition:
+  - confidence: 0.0
+    text: total cost for all units bought (or produced) divided by the number of units
+  hypernym:
+  - 04731092-n
+  ili: i64023
+  members:
+  - meánchostas
+  partOfSpeech: n
+05154833-n:
+  definition:
+  - confidence: 0.0
+    text: the property of producing abundantly and sustaining vigorous and luxuriant
+      growth
+  hypernym:
+  - 04731092-n
+  ili: i64034
+  members:
+  - torthúlacht
+  partOfSpeech: n
+05155187-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being productive or having the power to produce
+  hypernym:
+  - 04731092-n
+  ili: i64035
+  members:
+  - táirgiúlacht
+  partOfSpeech: n
+05155946-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being of practical use
+  hypernym:
+  - 04731092-n
+  ili: i64039
+  members:
+  - úsáid
+  partOfSpeech: n
+05156572-n:
+  definition:
+  - confidence: 0.0
+    text: what something is used for
+  hypernym:
+  - 05155946-n
+  ili: i64041
+  members:
+  - críoch
+  - feidhm
+  partOfSpeech: n
+05157376-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being able to provide good service
+  hypernym:
+  - 05155946-n
+  ili: i64046
+  members:
+  - inúsáidteacht
+  partOfSpeech: n
+05158335-n:
+  definition:
+  - confidence: 0.0
+    text: concerned with actual use rather than theoretical possibilities
+  hypernym:
+  - 05155946-n
+  ili: i64051
+  members:
+  - praiticiúlacht
+  partOfSpeech: n
+05158619-n:
+  definition:
+  - confidence: 0.0
+    text: capable of serving a purpose well
+  hypernym:
+  - 05158335-n
+  ili: i64052
+  members:
+  - feidhmiúlacht
+  partOfSpeech: n
+05158823-n:
+  definition:
+  - confidence: 0.0
+    text: capable of being done in a practical and useful way
+  hypernym:
+  - 05158335-n
+  ili: i64053
+  members:
+  - inmharthanacht
+  partOfSpeech: n
+05159397-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being usable
+  hypernym:
+  - 05155946-n
+  ili: i64056
+  members:
+  - indéantacht
+  partOfSpeech: n
+05159611-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being doable
+  hypernym:
+  - 05159397-n
+  ili: i64057
+  members:
+  - féidearthacht
+  - indéantacht
+  partOfSpeech: n
+05160767-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being adequately or well qualified physically and intellectually
+  hypernym:
+  - 05207437-n
+  ili: i64064
+  members:
+  - inniúlacht
+  partOfSpeech: n
+05163204-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of having a superior or more favorable position
+  hypernym:
+  - 04731092-n
+  ili: i64076
+  members:
+  - buntáiste
+  - leas
+  partOfSpeech: n
+05164957-n:
+  definition:
+  - confidence: 0.0
+    text: the advantageous quality of being beneficial
+  hypernym:
+  - 05163204-n
+  ili: i64085
+  members:
+  - buntáiste
+  partOfSpeech: n
+05165249-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of affording gain or benefit or profit
+  hypernym:
+  - 05164957-n
+  ili: i64087
+  members:
+  - brabúsacht
+  partOfSpeech: n
+05165679-n:
+  definition:
+  - confidence: 0.0
+    text: a special advantage or immunity or benefit not enjoyed by all
+  hypernym:
+  - 05163204-n
+  ili: i64089
+  members:
+  - pribhléid
+  partOfSpeech: n
+05166240-n:
+  definition:
+  - confidence: 0.0
+    text: a slight competitive advantage
+  hypernym:
+  - 05163204-n
+  ili: i64092
+  members:
+  - buntáiste
+  partOfSpeech: n
+05166608-n:
+  definition:
+  - confidence: 0.0
+    text: an asset of special worth or utility
+  hypernym:
+  - 04731092-n
+  ili: i64095
+  members:
+  - speisialtacht
+  partOfSpeech: n
+05167108-n:
+  definition:
+  - confidence: 0.0
+    text: benefit
+  hypernym:
+  - 05163204-n
+  ili: i64098
+  members:
+  - leas
+  partOfSpeech: n
+05169087-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of having an inferior or less favorable position
+  hypernym:
+  - 04731092-n
+  ili: i64107
+  members:
+  - míbhuntáiste
+  partOfSpeech: n
+05170169-n:
+  definition:
+  - confidence: 0.0
+    text: a failing or deficiency
+  hypernym:
+  - 05169087-n
+  ili: i64111
+  members:
+  - easnamh
+  - easpa
+  - locht
+  partOfSpeech: n
+05175788-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being important and worthy of note
+  hypernym:
+  - 04731092-n
+  ili: i64140
+  members:
+  - tábhacht
+  partOfSpeech: n
+05177034-n:
+  definition:
+  - confidence: 0.0
+    text: relative importance or fame
+  hypernym:
+  - 05175788-n
+  ili: i64147
+  members:
+  - suntasacht
+  partOfSpeech: n
+05177340-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being significant
+  hypernym:
+  - 05175788-n
+  ili: i64149
+  members:
+  - tábhacht
+  partOfSpeech: n
+05182180-n:
+  definition:
+  - confidence: 0.0
+    text: an abstract idea of that which is due to a person or governmental body by
+      law or tradition or nature
+  hypernym:
+  - 05844071-n
+  ili: i64172
+  members:
+  - ceart
+  partOfSpeech: n
+05187094-n:
+  definition:
+  - confidence: 0.0
+    text: (law) the right to refuse to divulge information obtained in a confidential
+      relationship
+  hypernym:
+  - 05182180-n
+  ili: i64193
+  members:
+  - pribhléid
+  partOfSpeech: n
+05188726-n:
+  definition:
+  - confidence: 0.0
+    text: an established or recognized right
+  hypernym:
+  - 05182180-n
+  ili: i64202
+  members:
+  - teideal
+  partOfSpeech: n
+05189022-n:
+  definition:
+  - confidence: 0.0
+    text: right granted by law or contract (especially a right to benefits)
+  hypernym:
+  - 05188726-n
+  ili: i64204
+  members:
+  - teideal
+  - teidlíocht
+  partOfSpeech: n
+05193574-n:
+  definition:
+  - confidence: 0.0
+    text: a legal right guaranteed by the 15th amendment to the US Constitution; guaranteed
+      to women by the 19th amendment
+  hypernym:
+  - 05182180-n
+  ili: i64229
+  members:
+  - ceart vótála
+  partOfSpeech: n
+05194266-n:
+  definition:
+  - confidence: 0.0
+    text: the right to equivalent opportunities for employment regardless of race
+      or color or sex or national origin
+  hypernym:
+  - 05182180-n
+  ili: i64232
+  members:
+  - comhdheis
+  partOfSpeech: n
+05194979-n:
+  definition:
+  - confidence: 0.0
+    text: the right of being represented by delegates who have a voice in some legislative
+      body
+  hypernym:
+  - 05182180-n
+  ili: i64235
+  members:
+  - ionadaíocht
+  partOfSpeech: n
+05198072-n:
+  definition:
+  - confidence: 0.0
+    text: possession of controlling influence
+  hypernym:
+  - 04731092-n
+  ili: i64253
+  members:
+  - cumhacht
+  partOfSpeech: n
+05199719-n:
+  definition:
+  - confidence: 0.0
+    text: the power of attracting or holding one's attention (because it is unusual
+      or exciting etc.)
+  hypernym:
+  - 05198072-n
+  ili: i64259
+  members:
+  - spéis
+  - suim
+  partOfSpeech: n
+05202142-n:
+  definition:
+  - confidence: 0.0
+    text: an intellectual hold or understanding
+  hypernym:
+  - 05198072-n
+  ili: i64269
+  members:
+  - greim
+  partOfSpeech: n
+05202630-n:
+  definition:
+  - confidence: 0.0
+    text: a force that compels
+  hypernym:
+  - 05198072-n
+  ili: i64271
+  members:
+  - brú
+  partOfSpeech: n
+05202816-n:
+  definition:
+  - confidence: 0.0
+    text: compulsory force or threat
+  hypernym:
+  - 05198072-n
+  ili: i64272
+  members:
+  - éigeantas
+  partOfSpeech: n
+05203643-n:
+  definition:
+  - confidence: 0.0
+    text: power to direct or determine
+  hypernym:
+  - 05198072-n
+  ili: i64278
+  members:
+  - rialú
+  - rialúchán
+  partOfSpeech: n
+05203850-n:
+  definition:
+  - confidence: 0.0
+    text: the power or right to give orders or make decisions
+  hypernym:
+  - 05203643-n
+  ili: i64279
+  members:
+  - údarás
+  partOfSpeech: n
+05205065-n:
+  definition:
+  - confidence: 0.0
+    text: the power or authority to command
+  hypernym:
+  - 05203850-n
+  ili: i64285
+  members:
+  - ceannas
+  - ceannasaíocht
+  partOfSpeech: n
+05205304-n:
+  definition:
+  - confidence: 0.0
+    text: the authority of a lord
+  hypernym:
+  - 05203850-n
+  ili: i64287
+  members:
+  - tiarnas
+  partOfSpeech: n
+05205695-n:
+  definition:
+  - confidence: 0.0
+    text: (law) the right and power to interpret and apply the law
+  hypernym:
+  - 05198072-n
+  ili: i64290
+  members:
+  - dlínse
+  partOfSpeech: n
+05206554-n:
+  definition:
+  - confidence: 0.0
+    text: power to be effective; the quality of being able to bring about an effect
+  hypernym:
+  - 05198072-n
+  ili: i64295
+  members:
+  - éifeachtacht
+  partOfSpeech: n
+05207137-n:
+  definition:
+  - confidence: 0.0
+    text: capacity or power to produce a desired effect
+  hypernym:
+  - 05206554-n
+  ili: i64297
+  members:
+  - éifeachtacht
+  partOfSpeech: n
+05207437-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being able to perform; a quality that permits or facilitates
+      achievement or accomplishment
+  hypernym:
+  - 04731092-n
+  ili: i64298
+  members:
+  - cumas
+  - ábaltacht
+  partOfSpeech: n
+05209765-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being capable — physically or intellectually or legally
+  hypernym:
+  - 05207437-n
+  ili: i64310
+  members:
+  - acmhainneacht
+  - cumas
+  - inniúlacht
+  partOfSpeech: n
+05210665-n:
+  definition:
+  - confidence: 0.0
+    text: capability to perform or produce
+  hypernym:
+  - 05209765-n
+  ili: i64313
+  members:
+  - acmhainn
+  - cumas
+  - inniúlacht
+  partOfSpeech: n
+05215114-n:
+  definition:
+  - confidence: 0.0
+    text: lack of physical or natural qualifications
+  hypernym:
+  - 04731092-n
+  ili: i64333
+  members:
+  - éagumas
+  partOfSpeech: n
+05216256-n:
+  definition:
+  - confidence: 0.0
+    text: the property of being selective
+  hypernym:
+  - 04923519-n
+  ili: i64341
+  members:
+  - roghnaíocht
+  partOfSpeech: n
+05217489-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of being soluble and easily dissolved in liquid
+  hypernym:
+  - 04731092-n
+  ili: i64348
+  members:
+  - tuaslagthacht
+  partOfSpeech: n

@@ -1,0 +1,1201 @@
+02609706-v:
+  definition:
+  - a bheith ann, a bheith ar marthain
+  example:
+  - An bhfuil Dia ann?
+  ili: i34708
+  members:
+  - bí
+  - bí ann
+  partOfSpeech: v
+02614382-v:
+  definition:
+  - tús a bheith le rud, de réir brí ama, spáis nó meastóireachta
+  example:
+  - Tosaíonn an Zón Dímhíleataithe taobh thiar den chnoc
+  hypernym:
+  - 00109468-v
+  ili: i34719
+  members:
+  - tosaigh
+  partOfSpeech: v
+02615799-v:
+  definition:
+  - deireadh a bheith le rud, de réir brí ama, spáis nó cainníochta; de réir brí spáis
+    nó brí meafaraí
+  example:
+  - tagann na broincíní chun deiridh i gceapach ribeach
+  hypernym:
+  - 00109468-v
+  ili: i34724
+  members:
+  - críochnaigh
+  - tar chun deiridh
+  - stad
+  partOfSpeech: v
+02617408-v:
+  definition:
+  - bheith i riocht sonraithe
+  example:
+  - Glacaim leis nach raibh an ceart agam
+  ili: i34729
+  members:
+  - seasamh
+  partOfSpeech: v
+02617665-v:
+  definition:
+  - confidence: 0.0
+    text: determine the essential quality of
+  hypernym:
+  - 00920843-v
+  ili: i34730
+  members:
+  - sainigh
+  - sonraigh
+  partOfSpeech: v
+02618797-v:
+  definition:
+  - a bheith láithreach ag (cruinnithe, seirbhísí eaglasta, ollscoil), srl.
+  example:
+  - Freastalaíonn sí ar ranganna go rialta
+  hypernym:
+  - 02661230-v
+  ili: i34736
+  members:
+  - freastal ar
+  - téigh go dtí
+  - gabh go dtí
+  - freastail
+  partOfSpeech: v
+02619707-v:
+  definition:
+  - confidence: 0.0
+    text: fail to attend an event or activity
+  hypernym:
+  - 02534950-v
+  ili: i34740
+  members:
+  - caill
+  partOfSpeech: v
+02620422-v:
+  definition:
+  - cineál saoil áirithe a chaitheamh, slí beatha a choimeád
+  example:
+  - bhí orainn a bheith tíosach i ndiaidh an chogaidh
+  hypernym:
+  - 02609706-v
+  ili: i34744
+  members:
+  - bí
+  - mair
+  partOfSpeech: v
+02622766-v:
+  definition:
+  - tacaigh leat féin
+  example:
+  - is ar éigean a d'fhéadfadh sé a bheith ann ar phá chomh híseal sin
+  hypernym:
+  - 02609706-v
+  ili: i34758
+  members:
+  - mair
+  partOfSpeech: v
+02623620-v:
+  definition:
+  - téigh chun cinn nó ag déanamh chun cinn
+  example:
+  - Conas atá ag éirí léi ina post nua?
+  hypernym:
+  - 00340744-v
+  ili: i34762
+  members:
+  - déan
+  - éirigh le
+  partOfSpeech: v
+02624202-v:
+  definition:
+  - leanúint ar aghaidh a mhaireachtáil agus bás a sheachaint
+  example:
+  - Bhíomar gan uisce agus bia ar feadh 3 lá
+  hypernym:
+  - 02690747-v
+  ili: i34765
+  members:
+  - mair
+  - téigh
+  - coinnigh
+  - fulaing
+  - tar i dtír
+  - tar slán
+  - bí beo
+  partOfSpeech: v
+02626667-v:
+  definition:
+  - a bheith ina chuid lárnach de rud éigin
+  example:
+  - Tá an t-airgead seo an t-aon ioncam atá agam
+  hypernym:
+  - 02609706-v
+  ili: i34777
+  members:
+  - áirigh
+  - cuimsigh
+  - bí
+  - ionadaigh
+  partOfSpeech: v
+02627475-v:
+  definition:
+  - cum nó léirigh
+  example:
+  - Cruthaíonn an balla seo cúlra shuíomh an stáitse
+  hypernym:
+  - 02626667-v
+  ili: i34780
+  members:
+  - déan
+  - cruthaigh
+  - bunaigh
+  partOfSpeech: v
+02629987-v:
+  definition:
+  - forbair ina aonán sainiúil
+  example:
+  - thosaigh ár bpleananna ag teacht chun cinn
+  hypernym:
+  - 00109468-v
+  ili: i34792
+  members:
+  - léim
+  - déan
+  - teacht chun cinn
+  - teacht i gcruth
+  - foirmigh
+  partOfSpeech: v
+02630344-v:
+  definition:
+  - tar ann; cuma nó cruth ruda a ghlacadh
+  example:
+  - Cumadh gluaiseacht reiligiúnach sa tír sin
+  hypernym:
+  - 00109468-v
+  ili: i34794
+  members:
+  - fás
+  - forbair
+  - éirigh
+  - tar chun cinn
+  - tar
+  - tar ar an bhfód
+  partOfSpeech: v
+02631420-v:
+  definition:
+  - a bheith ar an táirge nó ar an toradh
+  example:
+  - Tagann mealbhacáin ó fhíniúin
+  hypernym:
+  - 02630344-v
+  ili: i34798
+  members:
+  - lean
+  - tar
+  partOfSpeech: v
+02632685-v:
+  definition:
+  - ag athrú nó ag forbairt
+  example:
+  - D'athraigh an t-uisce go hoighir
+  hypernym:
+  - 00109468-v
+  ili: i34806
+  members:
+  - déan de
+  - éirigh
+  - iompaigh
+  - athraigh
+  partOfSpeech: v
+02634015-v:
+  definition:
+  - iarr de réir mar atá rud éigin úsáideach, cóir, nó cuí
+  example:
+  - is gá le scileanna scríbhneoireachta chun an post a dhéanamh
+  hypernym:
+  - 02681865-v
+  ili: i34813
+  members:
+  - gá
+  - cuimsigh
+  - teastaigh
+  - éiligh
+  - iarr
+  - gair
+  partOfSpeech: v
+02635616-v:
+  definition:
+  - cuir san áireamh nó coinnigh; a bheith ann mar chomhpháirt
+  example:
+  - Glactar smaoineamh úrnua isteach sa pháipéar seo
+  hypernym:
+  - 02639021-v
+  ili: i34820
+  members:
+  - glac isteach
+  - tabhair isteach
+  - cuir san áireamh
+  - cuimsigh
+  partOfSpeech: v
+02635874-v:
+  definition:
+  - confidence: 0.0
+    text: include in scope; include as part of something broader; have as one's sphere
+      or territory
+  hypernym:
+  - 02639021-v
+  ili: i34821
+  members:
+  - cuimsigh
+  partOfSpeech: v
+02636270-v:
+  definition:
+  - rud éigin a bheith ann mar thréith
+  example:
+  - Oibríonn cócairí na Fraince is cáiliúla sa bhialann seo
+  hypernym:
+  - 02208144-v
+  ili: i34822
+  members:
+  - ag
+  - sa
+  partOfSpeech: v
+02638248-v:
+  definition:
+  - mar thréith, eolas nó scil ag
+  example:
+  - tá eolas iontach aige ar an Meánoirthear
+  hypernym:
+  - 02636270-v
+  ili: i34832
+  members:
+  - seilbh
+  partOfSpeech: v
+02638434-v:
+  definition:
+  - bheith gan
+  example:
+  - Tá easpa salainn san anraith seo
+  ili: i34833
+  members:
+  - easpa
+  partOfSpeech: v
+02639021-v:
+  definition:
+  - a bheith ann mar chuid, a bheith déanta de
+  example:
+  - Áirítear ainmneacha go leor scríbhneoirí cáiliúla ar an liosta
+  hypernym:
+  - 02208144-v
+  ili: i34836
+  members:
+  - bí san áireamh
+  - áirigh
+  - cuimsigh
+  - folaigh
+  partOfSpeech: v
+02639962-v:
+  definition:
+  - a bheith léirithe nó a bheith aimsithe a bheith
+  example:
+  - Chruthaigh sí go raibh an ceart aici
+  hypernym:
+  - 02681865-v
+  ili: i34841
+  members:
+  - cruthaigh
+  - tarlaigh
+  - tar ann
+  - bí ann
+  partOfSpeech: v
+02640346-v:
+  definition:
+  - tabhair chun críche (ar bhealach, staid, srl. sonraithe); críochnaigh
+  example:
+  - tharla tragóid de bharr
+  hypernym:
+  - 02639962-v
+  ili: i34843
+  members:
+  - de bharr
+  - mar gheall ar
+  - lean
+  partOfSpeech: v
+02640648-v:
+  definition:
+  - bheith mar thoradh ar
+  hypernym:
+  - 02640346-v
+  ili: i34844
+  members:
+  - méid
+  - eascair as
+  partOfSpeech: v
+02641114-v:
+  definition:
+  - bheith mar chúis nó míniú
+  example:
+  - Baineann an cúlú leis an ngó miondíola mall
+  hypernym:
+  - 00942415-v
+  ili: i34847
+  members:
+  - bheith ina chúis le
+  partOfSpeech: v
+02641270-v:
+  definition:
+  - a bheith ann mar thoradh loighciúil
+  example:
+  - Ciallaíonn an ganntanas uisce go gcaithfimid stop a chur le ceathanna fada a thógáil
+  hypernym:
+  - 02642040-v
+  ili: i34848
+  members:
+  - ciallaigh
+  - bí i gceist le
+  - bí ag baint le
+  partOfSpeech: v
+02641740-v:
+  definition:
+  - tarlaigh mar thoradh
+  example:
+  - D'fhág an t-uisce lorg ar an ngúna síoda
+  hypernym:
+  - 01756692-v
+  ili: i34851
+  members:
+  - fág
+  partOfSpeech: v
+02642040-v:
+  definition:
+  - aire a thabhairt do nó bheith de thoradh ar
+  example:
+  - Mar thoradh ar an ráiteas seo tháinig tuilleadh argóintí i measc na n-aíonna
+  hypernym:
+  - 02641740-v
+  ili: i34852
+  members:
+  - treoraigh
+  partOfSpeech: v
+02643286-v:
+  definition:
+  - cónaigh
+  example:
+  - Is féidir leat fanacht liom agus tú sa bhaile mór
+  hypernym:
+  - 02733337-v
+  ili: i34858
+  members:
+  - fan
+  - mair
+  partOfSpeech: v
+02643676-v:
+  definition:
+  - fágtar, daoine, ceisteanna, fadhbanna, torthaí, fianaise, etc.
+  example:
+  - Tá an cheist fós ann cé a tharraing an truicear
+  hypernym:
+  - 02609706-v
+  ili: i34860
+  members:
+  - fan
+  partOfSpeech: v
+02644022-v:
+  definition:
+  - fan in áit amháin nó a bheith ag súil le rud
+  example:
+  - Bhí orm fanacht ar líne ar feadh uaire chun na ticéid a fháil
+  hypernym:
+  - 00721987-v
+  - 01861378-v
+  ili: i34861
+  members:
+  - fan
+  partOfSpeech: v
+02647119-v:
+  definition:
+  - bris isteach ar ghníomhaíocht go sealadach roimh leanúint ar aghaidh
+  example:
+  - Stop an cainteoir
+  hypernym:
+  - 02647547-v
+  ili: i34875
+  members:
+  - stop
+  - bheith ag braiteoireacht
+  partOfSpeech: v
+02647547-v:
+  definition:
+  - fan roimh gníomhú
+  example:
+  - níor éirigh leis na heolaithe a gcuid torthaí a fhógairt go dtí go ndearna siad
+    an turgnamh arís
+  hypernym:
+  - 02372362-v
+  ili: i34877
+  members:
+  - coinnigh siar
+  - fan
+  partOfSpeech: v
+02651091-v:
+  definition:
+  - suimiú i líon nó i gcainníocht
+  example:
+  - Ba ionann na billí agus $2,000
+  hypernym:
+  - 02681865-v
+  ili: i34893
+  members:
+  - iomlán
+  - teacht
+  - uimhrigh
+  - suimigh
+  - méid
+  partOfSpeech: v
+02651923-v:
+  definition:
+  - meáchan a bheith ag,tábhacht a bheith ag, meáchan a iompar
+  example:
+  - Ní chuireann sé ábhar i bhfad
+  hypernym:
+  - 02609706-v
+  ili: i34896
+  members:
+  - bheith tábhachtach
+  partOfSpeech: v
+02652462-v:
+  definition:
+  - bheith fiúntach nó tuillte
+  example:
+  - Tá ardú céime tuillte agat tar éis an obair chrua ar fad atá déanta agat
+  hypernym:
+  - 02634015-v
+  ili: i34899
+  members:
+  - tuill
+  partOfSpeech: v
+02654741-v:
+  definition:
+  - confidence: 0.0
+    text: live (in a certain place)
+  hypernym:
+  - 02655932-v
+  ili: i34912
+  members:
+  - áitigh
+  partOfSpeech: v
+02655932-v:
+  definition:
+  - a bheith i d'áitritheoir de nó a bheith i do chónaí i
+  example:
+  - Chónaigh daoine san Afraic leis na milliúin bliain
+  hypernym:
+  - 02661230-v
+  ili: i34919
+  members:
+  - lonnaigh i
+  - cuir fút i
+  - áitrigh i
+  - cónaigh
+  - bí i do chónaí
+  - mair i
+  partOfSpeech: v
+02656647-v:
+  definition:
+  - confidence: 0.0
+    text: make one's home in a particular place or community
+  hypernym:
+  - 02655932-v
+  ili: i34920
+  members:
+  - cónaigh
+  partOfSpeech: v
+02659476-v:
+  definition:
+  - ceap i
+  example:
+  - Maireann na fadhbanna sna héagóracha sóisialta sa tír seo
+  hypernym:
+  - 02609706-v
+  ili: i34934
+  members:
+  - luí isteach
+  - mair
+  - luí
+  - comhdhéanamh
+  partOfSpeech: v
+02661230-v:
+  definition:
+  - a bheith lonnaithe i suíomh nó áit áirithe; a bheith in áit éigin
+  example:
+  - Cá bhfuil mo scáth báistí?
+  hypernym:
+  - 02609706-v
+  ili: i34943
+  members:
+  - bí
+  partOfSpeech: v
+02663315-v:
+  definition:
+  - bheith comhoiriúnach, comhchosúil nó comhsheasmhach, bheith ina saintréithe ag
+    an am céanna
+  example:
+  - Ní aontaíonn an dá scéal go leor sonraí
+  hypernym:
+  - 02681865-v
+  ili: i34952
+  members:
+  - oir
+  - seiceáil
+  - meaitseáil
+  - gibe
+  - scóir
+  - aontú
+  - comhfhreagas
+  - magadh
+  - comhfhreagair
+  - freagair
+  partOfSpeech: v
+02667330-v:
+  definition:
+  - bheith ar aon athrú le, bheith as líne de
+  hypernym:
+  - 00109468-v
+  ili: i34973
+  members:
+  - athraigh
+  - imigh
+  - claon
+  partOfSpeech: v
+02670846-v:
+  definition:
+  - a bheith comhionann nó mar an gcéanna
+  example:
+  - Is ionann dollar amháin agus 1,000 rúbal na laethanta seo!
+  hypernym:
+  - 02681865-v
+  ili: i34989
+  members:
+  - is ionann
+  partOfSpeech: v
+02671694-v:
+  definition:
+  - cosúlacht fhisiceach a fháil le
+  example:
+  - Tá sí an-chosúil lena máthair
+  hypernym:
+  - 02663315-v
+  ili: i34993
+  members:
+  - bí cosúil le
+  partOfSpeech: v
+02674870-v:
+  definition:
+  - confidence: 0.0
+    text: be superior or better than some standard
+  hypernym:
+  - 00109468-v
+  ili: i35011
+  members:
+  - sáraigh
+  partOfSpeech: v
+02675266-v:
+  definition:
+  - bheith níos mó i raon feidhme nó méid ná caighdeán éigin
+  example:
+  - Sáraíonn a ndílseacht a gcuid bannaí náisiúnta
+  hypernym:
+  - 02663315-v
+  ili: i35012
+  members:
+  - sáraigh
+  partOfSpeech: v
+02676187-v:
+  definition:
+  - cur le cúis nó neartaigh éigin
+  example:
+  - Mhéadaigh an scannal a tóir
+  hypernym:
+  - 01649143-v
+  ili: i35016
+  members:
+  - seirbheáil
+  partOfSpeech: v
+02676679-v:
+  definition:
+  - feidhm nó ról a bheith le
+  example:
+  - Feidhmíonn an stumpa crainn mar bhord
+  hypernym:
+  - 02677669-v
+  ili: i35018
+  members:
+  - freastail ar
+  - feidhmigh
+  - comhlíon
+  partOfSpeech: v
+02677402-v:
+  definition:
+  - feidhmigh mar nó gníomhaigh mar
+  example:
+  - Feidhmeoidh an carn clocha seo mar bhac
+  hypernym:
+  - 02676679-v
+  ili: i35021
+  members:
+  - feidhmigh
+  partOfSpeech: v
+02677669-v:
+  definition:
+  - confidence: 0.0
+    text: meet the requirements or expectations of
+  hypernym:
+  - 01185870-v
+  ili: i35023
+  members:
+  - comhlíon
+  partOfSpeech: v
+02681865-v:
+  definition:
+  - a bheith ábhartha i dtaobh
+  example:
+  - Bhí neart ceisteanna ann ag baint lena hóráid
+  ili: i35043
+  members:
+  - bain le
+  - déan tagairt do
+  - trácht ar
+  - bí bainteach le
+  - bí faoi
+  partOfSpeech: v
+02682306-v:
+  definition:
+  - dírigh ar
+  example:
+  - Dhírigh a haire iomlán ar a leanaí
+  hypernym:
+  - 02681865-v
+  ili: i35044
+  members:
+  - dírigh
+  - rothlaigh thart
+  - rothlaigh faoi
+  - dírigh ar
+  partOfSpeech: v
+02682599-v:
+  definition:
+  - a bheith ábhartha nó ábhartha nó infheidhme
+  example:
+  - Baineann na dlíthe céanna leat!
+  hypernym:
+  - 02681865-v
+  ili: i35045
+  members:
+  - sealbhaigh
+  - dul chun
+  - iarratas a dhéanamh
+  - bain
+  - feidhmigh
+  partOfSpeech: v
+02682907-v:
+  definition:
+  - a bheith nasctha go mion agus go minic go hionchoiritheach
+  example:
+  - Téann an rialú nua seo i bhfeidhm ar do ghnó
+  hypernym:
+  - 02681865-v
+  ili: i35046
+  members:
+  - téigh i bhfeidhm ar
+  - téigh i gcion ar
+  - bain
+  partOfSpeech: v
+02684248-v:
+  definition:
+  - bheith ar intinn
+  example:
+  - Cuireann an dara haistriú consain Gearmánach imní orm
+  hypernym:
+  - 00630153-v
+  ili: i35052
+  members:
+  - áitigh
+  - imní a chur ar
+  - meall
+  partOfSpeech: v
+02684822-v:
+  definition:
+  - confidence: 0.0
+    text: prove capable or fit; meet requirements
+  hypernym:
+  - 02677669-v
+  ili: i35055
+  members:
+  - cáiligh
+  partOfSpeech: v
+02685709-v:
+  definition:
+  - a choinneáil nó a chaomhnú i staid neamhathraithe; a chur faoi deara a bheith
+    fós nó a mhaireachtáil
+  example:
+  - caomhnaigh an síocháin sa chlann
+  hypernym:
+  - 02687605-v
+  ili: i35058
+  members:
+  - coinnigh greim ar
+  - caomhnaigh
+  - lean
+  - cloígh le
+  - coinnigh ar
+  partOfSpeech: v
+02686624-v:
+  definition:
+  - deireadh a chur le staid nó gníomhaíocht
+  example:
+  - Stop a bheith ag spochadh as do dheartháir óg
+  hypernym:
+  - 00353480-v
+  ili: i35062
+  members:
+  - stop
+  - éirigh as
+  - scoir de
+  - stad
+  - coisc
+  - bac
+  - tabhair isteach
+  - géill
+  - tabhair suas
+  - leag as
+  - scaoil le
+  - scoir
+  partOfSpeech: v
+02687605-v:
+  definition:
+  - a chur faoi deara staid, suíomh nó gníomh áirithe a leanúint
+  example:
+  - coinnigh ina áit
+  hypernym:
+  - 00772482-v
+  ili: i35066
+  members:
+  - coinnigh
+  - coimeád
+  partOfSpeech: v
+02690747-v:
+  definition:
+  - staid, dóigh nó gníomhaíocht ar leith a leanúint
+  example:
+  - Lean ort ag obair!
+  hypernym:
+  - 02372362-v
+  ili: i35081
+  members:
+  - lean
+  - coinnigh
+  - coimeád
+  - fan
+  partOfSpeech: v
+02691775-v:
+  definition:
+  - a tharlú thar fhad, spás, am nó scóip; a tharlú idir dhá áit taobh thall d'áit
+    áirithe
+  example:
+  - Cuirtear an tseirbhís ar fáil idir anseo agus Cranbury
+  hypernym:
+  - 02661230-v
+  ili: i35084
+  members:
+  - cuir ar fáil
+  - leath
+  - téigh
+  - sín
+  - rith
+  partOfSpeech: v
+02693758-v:
+  definition:
+  - eatramh achair, spáis nó ama a bheith i gceist
+  example:
+  - Mhair an cogadh thar chúig bliana
+  hypernym:
+  - 02661230-v
+  ili: i35093
+  members:
+  - clúdaigh
+  - cuir le
+  - lean ar aghaidh
+  partOfSpeech: v
+02696550-v:
+  definition:
+  - a bheith lonnaithe nó suite in áit éigin; lonnú ar shuíomh ar leith
+  hypernym:
+  - 02661230-v
+  ili: i35108
+  members:
+  - bí
+  - bí suite
+  - luigh
+  partOfSpeech: v
+02698724-v:
+  definition:
+  - bheith thart, go minic go díomhaoin nó go fánach
+  example:
+  - Shuigh an rud sa chúinne
+  hypernym:
+  - 02661230-v
+  ili: i35119
+  members:
+  - suigh
+  - suigh thart
+  partOfSpeech: v
+02702962-v:
+  definition:
+  - bagairt ar; contúirt do
+  example:
+  - Tá an truailliú ag cur na barra i mbaol
+  hypernym:
+  - 02609706-v
+  ili: i35141
+  members:
+  - bagair ar
+  - cuir i mbaol
+  partOfSpeech: v
+02703567-v:
+  definition:
+  - ionadaíocht a dhéanamh, i bhfoirm carachtair ar stáitse
+  example:
+  - Bhí ról Hamlet ag Derek Jacobi
+  hypernym:
+  - 00837915-v
+  ili: i35144
+  members:
+  - bí i do shamhail de
+  - bí i do léiriú ar
+  - pearsantaigh
+  - bí
+  partOfSpeech: v
+02705339-v:
+  definition:
+  - ionad a ghlacadh nó a bheith comhthreomhar nó coibhéiseach le
+  example:
+  - Mar gheall ar na hathruithe fuaime i gcúrsa na staire, seasann 'h' sa Ghréigis
+    do 's' sa Laidin
+  hypernym:
+  - 02670846-v
+  ili: i35152
+  members:
+  - léirigh
+  - seas do
+  - comhfhreagair
+  partOfSpeech: v
+02706727-v:
+  definition:
+  - coinnigh nó beir ar; bí laistigh
+  example:
+  - Iompraíonn an próca fíon
+  hypernym:
+  - 02639021-v
+  ili: i35159
+  members:
+  - iompair
+  - coinnigh
+  partOfSpeech: v
+02707488-v:
+  definition:
+  - confidence: 0.0
+    text: hold back within
+  hypernym:
+  - 02706727-v
+  ili: i35162
+  members:
+  - coinnigh
+  partOfSpeech: v
+02708368-v:
+  definition:
+  - bheith ar phraghas
+  example:
+  - Cosain na bróga seo $100
+  hypernym:
+  - 02681865-v
+  ili: i35167
+  members:
+  - cosain
+  partOfSpeech: v
+02708690-v:
+  definition:
+  - bheith caoithiúil nó sásúil do
+  example:
+  - Oireann sé seo do mo chuid riachtanas
+  hypernym:
+  - 01185870-v
+  ili: i35169
+  members:
+  - freastail do
+  - réitigh le
+  - oir do
+  - feil
+  - oir
+  partOfSpeech: v
+02710788-v:
+  definition:
+  - confidence: 0.0
+    text: persist for a specified period of time
+  hypernym:
+  - 02681865-v
+  ili: i35182
+  members:
+  - mair
+  partOfSpeech: v
+02712676-v:
+  definition:
+  - confidence: 0.0
+    text: resist or confront with resistance
+  hypernym:
+  - 01093838-v
+  ili: i35194
+  members:
+  - seas
+  partOfSpeech: v
+02714280-v:
+  definition:
+  - tréimhse ama a úsáid ar bhealach áirithe
+  example:
+  - cén chaoi a mbeidh tú ag caitheamh laethanta saoire an tsamhraidh?
+  hypernym:
+  - 01159815-v
+  ili: i35203
+  members:
+  - caith
+  partOfSpeech: v
+02716276-v:
+  definition:
+  - bí cóngarach nó teacht le chéile
+  example:
+  - Buail na línte le chéile ag an bpointe seo
+  hypernym:
+  - 02009962-v
+  ili: i35214
+  members:
+  - buail le chéile
+  partOfSpeech: v
+02717862-v:
+  definition:
+  - a bheith ag brath ar rud
+  example:
+  - Braitheann ár gcinniúint ar thorthaí an toghcháin
+  hypernym:
+  - 02634015-v
+  ili: i35222
+  members:
+  - braith ar
+  - tit ar
+  - cuir ar
+  partOfSpeech: v
+02718647-v:
+  definition:
+  - bí níos déanaí in am
+  example:
+  - Leanann an Mháirt an Luan i gcónaí
+  hypernym:
+  - 02640346-v
+  ili: i35225
+  members:
+  - iardhátaigh
+  - lean
+  partOfSpeech: v
+02719247-v:
+  definition:
+  - confidence: 0.0
+    text: extend out or project in space
+  hypernym:
+  - 02382049-v
+  ili: i35229
+  members:
+  - gob
+  partOfSpeech: v
+02722040-v:
+  definition:
+  - bheith i láthair nó bainteach le himeacht nó eintiteas
+  example:
+  - Tagann sceallóga leis an burgar
+  hypernym:
+  - 02382049-v
+  ili: i35245
+  members:
+  - gabháil le
+  - dul le
+  - teacht le
+  partOfSpeech: v
+02722977-v:
+  definition:
+  - a bheith leis féin, a bheith ar an duine
+  example:
+  - Tógann sí scáth fearthainne i gcónaí
+  hypernym:
+  - 02636270-v
+  ili: i35249
+  members:
+  - tóg
+  - iompair
+  partOfSpeech: v
+02724053-v:
+  definition:
+  - confidence: 0.0
+    text: be compatible or in accordance with
+  hypernym:
+  - 02663315-v
+  ili: i35255
+  members:
+  - cloígh
+  partOfSpeech: v
+02724184-v:
+  definition:
+  - bheith i bpáirt ag
+  example:
+  - Tá grá don cheol i bpáirt ag ár páistí
+  hypernym:
+  - 02609706-v
+  ili: i35256
+  members:
+  - roinn
+  partOfSpeech: v
+02725274-v:
+  definition:
+  - claonadh a bheith ag duine a dhéanamh nó a bheith
+  example:
+  - Tá sé de nós aici a bheith neirbhíseach roimh a cuid léachtaí
+  hypernym:
+  - 02681865-v
+  ili: i35262
+  members:
+  - claonadh a bheith ag
+  - nós a bheith ag
+  - tabhair ar
+  - claon
+  partOfSpeech: v
+02725805-v:
+  definition:
+  - bheith ina chuid nó fochuid
+  example:
+  - tá cuma ar an éide scoile gur leis an músaem é
+  hypernym:
+  - 02681865-v
+  ili: i35264
+  members:
+  - bain le
+  partOfSpeech: v
+02726024-v:
+  definition:
+  - tar mar iarmhairt loighciúil; lean go loighciúil
+  example:
+  - Leanann sé go bhfuil do dhearbhú bréagach
+  hypernym:
+  - 02640346-v
+  ili: i35265
+  members:
+  - lean
+  partOfSpeech: v
+02727313-v:
+  definition:
+  - féidearthacht a dhéanamh nó deis a sholáthar do; cead a bheith insroichte nó a
+    chur faoi deara fanacht
+  example:
+  - Ní fhágann sé seo aon spás le feabhsú
+  hypernym:
+  - 02344167-v
+  ili: i35272
+  members:
+  - tabhair
+  - fág
+  - ceadaigh
+  - ceadaigh do
+  partOfSpeech: v
+02731589-v:
+  definition:
+  - confidence: 0.0
+    text: resist doing something
+  hypernym:
+  - 01093838-v
+  ili: i35295
+  members:
+  - staon
+  partOfSpeech: v
+02732914-v:
+  definition:
+  - athraigh nó a bheith difriúil laistigh de theorainneacha
+  example:
+  - Clúdaíonn meastacháin do na caillteanas sa raon crith talún chomh hard le $2 billiún
+  hypernym:
+  - 02681865-v
+  ili: i35302
+  members:
+  - bonnfhad
+  - raon
+  partOfSpeech: v
+02733337-v:
+  definition:
+  - a leanúint in áit, suíomh nó i gcás
+  example:
+  - Tar éis di an chéim a bhaint amach, d'fhan sí i gCambridge mar chomhairleoir le
+    haghaidh na mic léinn
+  hypernym:
+  - 02609706-v
+  ili: i35303
+  members:
+  - fan
+  - lean
+  - fan in áit
+  partOfSpeech: v
+02735289-v:
+  definition:
+  - feidhmigh nó bí ionas go mbeidh sé i stát sonraithe
+  example:
+  - D'fhág an boilsciú gan phingin iad
+  hypernym:
+  - 00120124-v
+  ili: i35311
+  members:
+  - fág
+  partOfSpeech: v
+02736688-v:
+  definition:
+  - foclaíocht nó foirm áirithe a bheith acu nó a bheith iontu
+  example:
+  - Léann an sliocht mar seo a leanas
+  hypernym:
+  - 02636270-v
+  ili: i35319
+  members:
+  - léigh
+  - abair
+  partOfSpeech: v
+02740363-v:
+  definition:
+  - áitigh áit nó suíomh, go meafarach freisin
+  example:
+  - Seasaimid ar thalamh coitianta
+  hypernym:
+  - 02661230-v
+  ili: i35339
+  members:
+  - seasamh
+  partOfSpeech: v
+02746620-v:
+  definition:
+  - dul i ngleic le
+  example:
+  - Céard atá anseo romhainn?
+  hypernym:
+  - 02110960-v
+  ili: i35373
+  members:
+  - ag
+  - roimh
+  partOfSpeech: v

@@ -1,0 +1,7233 @@
+CD:
+  n:
+    sense:
+    - id: 'cd%1:06:00::'
+      synset: 03083234-n
+Caismíris:
+  n:
+    sense:
+    - id: 'caismíris%1:10:00::'
+      synset: 06985534-n
+Caitliceach:
+  a:
+    sense:
+    - id: 'caitliceach%3:01:00::'
+      synset: 02932264-a
+Cannadais:
+  n:
+    sense:
+    - id: 'cannadais%1:10:00::'
+      synset: 06992617-n
+Cantainis:
+  n:
+    sense:
+    - id: 'cantainis%1:10:00::'
+      synset: 06943204-n
+Carón:
+  n:
+    sense:
+    - id: 'carón%1:18:00::'
+      synset: 09516505-n
+Catalóinis:
+  n:
+    sense:
+    - id: 'catalóinis%1:10:00::'
+      synset: 06980203-n
+Ceatsuais:
+  n:
+    sense:
+    - id: 'ceatsuais%1:10:00::'
+      synset: 06929859-n
+Cetorhinus maximus:
+  n:
+    sense:
+    - id: 'cetorhinus_maximus%1:05:00::'
+      synset: 01488120-n
+Cirgisis:
+  n:
+    sense:
+    - id: 'cirgisis%1:10:00::'
+      synset: 06940513-n
+Ciste Airgeadaíochta Idirnáisiúnta:
+  n:
+    sense:
+    - id: 'ciste_airgeadaíochta_idirnáisiúnta%1:14:00::'
+      synset: 08318792-n
+Claí Mór na Réaltaí:
+  n:
+    sense:
+    - id: 'claí_mór_na_réaltaí%1:17:00::'
+      synset: 09377881-n
+Cocnais:
+  n:
+    sense:
+    - id: 'cocnais%1:10:00::'
+      synset: 06960779-n
+Coirnis:
+  n:
+    sense:
+    - id: 'coirnis%1:10:00::'
+      synset: 06974421-n
+Coptais:
+  n:
+    sense:
+    - id: 'coptais%1:10:00::'
+      synset: 07003031-n
+Críostaí:
+  a:
+    sense:
+    - id: 'críostaí%3:01:00::'
+      synset: 02963612-a
+  n:
+    sense:
+    - id: 'críostaí%1:18:01::'
+      synset: 09697405-n
+Cumann Íosa:
+  n:
+    sense:
+    - id: 'cumann_íosa%1:14:00::'
+      synset: 08166480-n
+Céadaoin an Luaithrigh:
+  n:
+    sense:
+    - id: 'céadaoin_an_luaithrigh%1:28:00::'
+      synset: 15220457-n
+Cóiréis:
+  n:
+    sense:
+    - id: 'cóiréis%1:10:00::'
+      synset: 06941948-n
+Cóisis:
+  n:
+    sense:
+    - id: 'cóisis%1:10:00::'
+      synset: 07007360-n
+cabhail:
+  n:
+    sense:
+    - id: 'cabhail%1:06:00::'
+      synset: 02865226-n
+    - id: 'cabhail%1:06:01::'
+      synset: 03553806-n
+    - id: 'cabhail%1:08:02::'
+      synset: 05223633-n
+cabhair:
+  n:
+    sense:
+    - id: 'cabhair%1:04:00::'
+      synset: 01210099-n
+cabhlach:
+  n:
+    sense:
+    - id: 'cabhlach%1:14:00::'
+      synset: 08208631-n
+    - id: 'cabhlach%1:14:01::'
+      synset: 08309677-n
+cabhraigh:
+  v:
+    sense:
+    - id: 'cabhraigh%2:41:00::'
+      synset: 02553283-v
+cadairne:
+  n:
+    sense:
+    - id: 'cadairne%1:08:00::'
+      synset: 05525057-n
+cadhc:
+  n:
+    sense:
+    - id: 'cadhc%1:06:00::'
+      synset: 03614448-n
+cadhnaíocht:
+  n:
+    sense:
+    - id: 'cadhnaíocht%1:09:00::'
+      synset: 06219154-n
+cadhnra:
+  n:
+    sense:
+    - id: 'cadhnra%1:06:00::'
+      synset: 02813606-n
+cadhpú:
+  n:
+    sense:
+    - id: 'cadhpú%1:05:00::'
+      synset: 02369611-n
+cadhóit:
+  n:
+    sense:
+    - id: 'cadhóit%1:05:00::'
+      synset: 02117507-n
+cadóg:
+  n:
+    sense:
+    - id: 'cadóg%1:05:00::'
+      synset: 02526508-n
+caeisiam:
+  n:
+    sense:
+    - id: 'caeisiam%1:27:00::'
+      synset: 14658410-n
+caestóir:
+  n:
+    sense:
+    - id: 'caestóir%1:18:00::'
+      synset: 10517360-n
+caibheár:
+  n:
+    sense:
+    - id: 'caibheár%1:13:00::'
+      synset: 07815555-n
+caibidil:
+  n:
+    sense:
+    - id: 'caibidil%1:10:00::'
+      synset: 06407785-n
+caibidligh:
+  v:
+    sense:
+    - id: 'caibidligh%2:32:00::'
+      synset: 00763758-v
+caibidlíocht:
+  n:
+    sense:
+    - id: 'caibidlíocht%1:10:00::'
+      synset: 07162900-n
+caibinéad:
+  n:
+    sense:
+    - id: 'caibinéad%1:06:00::'
+      synset: 02936496-n
+caibléir:
+  n:
+    sense:
+    - id: 'caibléir%1:18:00::'
+      synset: 09952556-n
+caidhp bháis:
+  n:
+    sense:
+    - id: 'caidhp_bháis%1:20:00::'
+      synset: 13024014-n
+caidmiam:
+  n:
+    sense:
+    - id: 'caidmiam%1:27:00::'
+      synset: 14656622-n
+caidreamh:
+  n:
+    sense:
+    - id: 'caidreamh%1:26:00::'
+      synset: 13951421-n
+caidreamh poiblí:
+  n:
+    sense:
+    - id: 'caidreamh_poiblí%1:10:00::'
+      synset: 07262593-n
+caidéal:
+  n:
+    sense:
+    - id: 'caidéal%1:06:00::'
+      synset: 04028192-n
+caife:
+  n:
+    sense:
+    - id: 'caife%1:13:00::'
+      synset: 07945759-n
+caifé:
+  n:
+    sense:
+    - id: 'caifé%1:06:00::'
+      synset: 02939042-n
+caiféin:
+  n:
+    sense:
+    - id: 'caiféin%1:27:00::'
+      synset: 14785301-n
+caighdeán:
+  n:
+    sense:
+    - id: 'caighdeán%1:24:00::'
+      synset: 13876685-n
+    - id: 'caighdeán%1:10:01::'
+      synset: 07275291-n
+caighdeánach:
+  a:
+    sense:
+    - id: 'caighdeánach%3:00:00::'
+      synset: 02303673-a
+caighean:
+  n:
+    sense:
+    - id: 'caighean%1:06:00::'
+      synset: 02940098-n
+cailceach:
+  a:
+    sense:
+    - id: 'cailceach%3:01:00::'
+      synset: 02684706-a
+cailciam:
+  n:
+    sense:
+    - id: 'cailciam%1:27:00::'
+      synset: 14656826-n
+cailif:
+  n:
+    sense:
+    - id: 'cailif%1:18:00::'
+      synset: 09906948-n
+caill:
+  n:
+    sense:
+    - id: 'caill%1:21:00::'
+      synset: 13348698-n
+  v:
+    sense:
+    - id: 'caill%2:33:01::'
+      synset: 01102003-v
+    - id: 'caill%2:37:02::'
+      synset: 01809490-v
+    - id: 'caill%2:40:03::'
+      synset: 02292634-v
+    - id: 'caill%2:41:04::'
+      synset: 02534046-v
+    - id: 'caill%2:42:05::'
+      synset: 02619707-v
+cailliúint:
+  n:
+    sense:
+    - id: 'cailliúint%1:21:00::'
+      synset: 13348698-n
+caillteanas:
+  n:
+    sense:
+    - id: 'caillteanas%1:21:00::'
+      synset: 13348698-n
+cailín:
+  n:
+    sense:
+    - id: 'cailín%1:18:00::'
+      synset: 10104064-n
+    - id: 'cailín%1:18:01::'
+      synset: 10149362-n
+    - id: 'cailín%1:18:02::'
+      synset: 10150206-n
+cailín bailé:
+  n:
+    sense:
+    - id: 'cailín_bailé%1:18:00::'
+      synset: 09853980-n
+caimiléir:
+  n:
+    sense:
+    - id: 'caimiléir%1:18:00::'
+      synset: 09974358-n
+cainche:
+  n:
+    sense:
+    - id: 'cainche%1:13:00::'
+      synset: 07785560-n
+caingean:
+  n:
+    sense:
+    - id: 'caingean%1:04:00::'
+      synset: 01184392-n
+cainneann:
+  n:
+    sense:
+    - id: 'cainneann%1:20:00::'
+      synset: 12454744-n
+cainníocht:
+  n:
+    sense:
+    - id: 'cainníocht%1:03:00::'
+      synset: 00033914-n
+    - id: 'cainníocht%1:07:01::'
+      synset: 05116040-n
+cainníochtaigh:
+  v:
+    sense:
+    - id: 'cainníochtaigh%2:30:00::'
+      synset: 00493031-v
+cainníochtú:
+  n:
+    sense:
+    - id: 'cainníochtú%1:04:00::'
+      synset: 01005512-n
+cainníochtúil:
+  a:
+    sense:
+    - id: 'cainníochtúil%3:00:00::'
+      synset: 01921311-a
+caint:
+  n:
+    sense:
+    - id: 'caint%1:10:00::'
+      synset: 07123904-n
+    - id: 'caint%1:10:01::'
+      synset: 07150442-n
+cainteoir:
+  n:
+    sense:
+    - id: 'cainteoir%1:18:00::'
+      synset: 10649550-n
+cainéal:
+  n:
+    sense:
+    - id: 'cainéal%1:06:00::'
+      synset: 03009709-n
+    - id: 'cainéal%1:06:01::'
+      synset: 03010002-n
+caipiteal:
+  n:
+    sense:
+    - id: 'caipiteal%1:21:00::'
+      synset: 13375435-n
+caipitleachas:
+  n:
+    sense:
+    - id: 'caipitleachas%1:14:00::'
+      synset: 08381070-n
+caipitliú:
+  n:
+    sense:
+    - id: 'caipitliú%1:04:00::'
+      synset: 00954325-n
+caipín:
+  n:
+    sense:
+    - id: 'caipín%1:06:00::'
+      synset: 02958374-n
+caipín súile:
+  n:
+    sense:
+    - id: 'caipín_súile%1:08:00::'
+      synset: 05321347-n
+cairbíd:
+  n:
+    sense:
+    - id: 'cairbíd%1:27:00::'
+      synset: 14816720-n
+cairdeas:
+  n:
+    sense:
+    - id: 'cairdeas%1:26:00::'
+      synset: 13954178-n
+cairdeolaíocht:
+  n:
+    sense:
+    - id: 'cairdeolaíocht%1:09:00::'
+      synset: 06056806-n
+cairdinéal:
+  n:
+    sense:
+    - id: 'cairdinéal%1:18:00::'
+      synset: 09913595-n
+cairdinéalta:
+  s:
+    sense:
+    - id: cairdinéalta%5:00:00:tábhachtach:01
+      synset: 01280207-s
+cairdiúil:
+  a:
+    sense:
+    - id: 'cairdiúil%3:00:00::'
+      synset: 01078338-a
+    - id: 'cairdiúil%3:00:01::'
+      synset: 01249453-a
+cairpéad:
+  n:
+    sense:
+    - id: 'cairpéad%1:06:00::'
+      synset: 04125115-n
+cairt:
+  n:
+    sense:
+    - id: 'cairt%1:06:00::'
+      synset: 03013574-n
+    - id: 'cairt%1:10:01::'
+      synset: 06483408-n
+    - id: 'cairt%1:10:02::'
+      synset: 07012462-n
+cairtchlár:
+  n:
+    sense:
+    - id: 'cairtchlár%1:27:00::'
+      synset: 14823771-n
+cairtéal:
+  n:
+    sense:
+    - id: 'cairtéal%1:14:00::'
+      synset: 08253542-n
+cairéal:
+  n:
+    sense:
+    - id: 'cairéal%1:06:00::'
+      synset: 03955718-n
+caiseal:
+  n:
+    sense:
+    - id: 'caiseal%1:06:00::'
+      synset: 02984084-n
+caisealóid:
+  n:
+    sense:
+    - id: 'caisealóid%1:05:00::'
+      synset: 02069893-n
+caislín aitinn:
+  n:
+    sense:
+    - id: 'caislín_aitinn%1:05:00::'
+      synset: 01563576-n
+caislín cloch:
+  n:
+    sense:
+    - id: 'caislín_cloch%1:05:00::'
+      synset: 01563434-n
+caismír:
+  n:
+    sense:
+    - id: 'caismír%1:06:00::'
+      synset: 02980789-n
+caiséad:
+  n:
+    sense:
+    - id: 'caiséad%1:06:00::'
+      synset: 02982340-n
+caite:
+  a:
+    sense:
+    - id: 'caite%3:00:00::'
+      synset: 02590887-a
+    - id: 'caite%3:00:01::'
+      synset: 01732158-a
+caiteachas:
+  n:
+    sense:
+    - id: 'caiteachas%1:21:00::'
+      synset: 13296311-n
+    - id: 'caiteachas%1:04:01::'
+      synset: 01124470-n
+caiteoir:
+  n:
+    sense:
+    - id: 'caiteoir%1:18:00::'
+      synset: 10455755-n
+caith:
+  v:
+    sense:
+    - id: 'caith%2:29:00::'
+      synset: 00052091-v
+    - id: 'caith%2:34:01::'
+      synset: 01159300-v
+    - id: 'caith%2:36:02::'
+      synset: 01636439-v
+    - id: 'caith%2:38:03::'
+      synset: 01885173-v
+    - id: 'caith%2:38:04::'
+      synset: 02076777-v
+    - id: 'caith%2:40:05::'
+      synset: 02240805-v
+    - id: 'caith%2:40:06::'
+      synset: 02271905-v
+    - id: 'caith%2:42:07::'
+      synset: 02714280-v
+    - id: 'caith%2:32:08::'
+      synset: 00983308-v
+    - id: 'caith%2:35:09::'
+      synset: 01511000-v
+    - id: 'caith%2:41:10::'
+      synset: 02490159-v
+    - id: 'caith%2:32:11::'
+      synset: 01062189-v
+caith amach:
+  v:
+    sense:
+    - id: 'caith_amach%2:38:00::'
+      synset: 01885173-v
+caith le:
+  v:
+    sense:
+    - id: 'caith_le%2:30:00::'
+      synset: 00523831-v
+    - id: 'caith_le%2:32:01::'
+      synset: 01035399-v
+caitheamh:
+  n:
+    sense:
+    - id: 'caitheamh%1:26:00::'
+      synset: 14586275-n
+caithne:
+  n:
+    sense:
+    - id: 'caithne%1:20:00::'
+      synset: 12250864-n
+caitian:
+  n:
+    sense:
+    - id: 'caitian%1:17:00::'
+      synset: 09261200-n
+calabra:
+  n:
+    sense:
+    - id: 'calabra%1:07:00::'
+      synset: 05110583-n
+calabraigh:
+  v:
+    sense:
+    - id: 'calabraigh%2:30:00::'
+      synset: 00296478-v
+calafort:
+  n:
+    sense:
+    - id: 'calafort%1:15:00::'
+      synset: 08651532-n
+    - id: 'calafort%1:15:01::'
+      synset: 08656633-n
+calaois:
+  n:
+    sense:
+    - id: 'calaois%1:04:00::'
+      synset: 00770581-n
+    - id: 'calaois%1:04:01::'
+      synset: 00781784-n
+calaoiseach:
+  a:
+    sense:
+    - id: 'calaoiseach%3:00:00::'
+      synset: 01226630-a
+calcalas:
+  n:
+    sense:
+    - id: 'calcalas%1:09:00::'
+      synset: 06023090-n
+callaire:
+  n:
+    sense:
+    - id: 'callaire%1:06:00::'
+      synset: 03696785-n
+calrach:
+  a:
+    sense:
+    - id: 'calrach%3:01:00::'
+      synset: 02825392-a
+calóg shneachta:
+  n:
+    sense:
+    - id: 'calóg_shneachta%1:19:00::'
+      synset: 11529484-n
+camall:
+  n:
+    sense:
+    - id: 'camall%1:05:00::'
+      synset: 02439767-n
+cambheartaíocht:
+  n:
+    sense:
+    - id: 'cambheartaíocht%1:04:00::'
+      synset: 00777662-n
+campas:
+  n:
+    sense:
+    - id: 'campas%1:15:00::'
+      synset: 08535652-n
+camóg:
+  n:
+    sense:
+    - id: 'camóg%1:10:00::'
+      synset: 06855902-n
+can:
+  v:
+    sense:
+    - id: 'can%2:36:00::'
+      synset: 01733312-v
+    - id: 'can%2:36:01::'
+      synset: 01734912-v
+canna:
+  n:
+    sense:
+    - id: 'canna%1:06:00::'
+      synset: 02950393-n
+cannabas:
+  n:
+    sense:
+    - id: 'cannabas%1:06:00::'
+      synset: 02953127-n
+cantarnaid:
+  n:
+    sense:
+    - id: 'cantarnaid%1:20:00::'
+      synset: 13025183-n
+canáil:
+  n:
+    sense:
+    - id: 'canáil%1:06:00::'
+      synset: 02950684-n
+    - id: 'canáil%1:08:01::'
+      synset: 05258141-n
+canóin:
+  n:
+    sense:
+    - id: 'canóin%1:10:00::'
+      synset: 07056608-n
+canónach:
+  n:
+    sense:
+    - id: 'canónach%1:18:00::'
+      synset: 09911065-n
+canónú:
+  n:
+    sense:
+    - id: 'canónú%1:04:00::'
+      synset: 01042422-n
+canú:
+  n:
+    sense:
+    - id: 'canú%1:06:00::'
+      synset: 02954794-n
+caoch:
+  a:
+    sense:
+    - id: 'caoch%3:00:00::'
+      synset: 01427929-a
+caochspota:
+  n:
+    sense:
+    - id: 'caochspota%1:08:00::'
+      synset: 05463658-n
+caoga:
+  a:
+    sense:
+    - id: 'caoga%3:00:00::'
+      synset: 02198871-a
+caoi:
+  n:
+    sense:
+    - id: 'caoi%1:07:00::'
+      synset: 04936080-n
+caoi a choimeád ar:
+  v:
+    sense:
+    - id: 'caoi_a_choimeád_ar%2:40:00::'
+      synset: 02284977-v
+caoin:
+  v:
+    sense:
+    - id: 'caoin%2:29:00::'
+      synset: 00065962-v
+caoireoil:
+  n:
+    sense:
+    - id: 'caoireoil%1:13:00::'
+      synset: 07682478-n
+caol:
+  a:
+    sense:
+    - id: 'caol%3:00:00::'
+      synset: 02572618-a
+caol díreach:
+  r:
+    sense:
+    - id: 'caol_díreach%4:02:00::'
+      synset: 00086161-r
+caolaitheoir:
+  n:
+    sense:
+    - id: 'caolaitheoir%1:27:00::'
+      synset: 14859503-n
+caolas:
+  n:
+    sense:
+    - id: 'caolas%1:17:00::'
+      synset: 09469019-n
+caolán:
+  n:
+    sense:
+    - id: 'caolán%1:06:00::'
+      synset: 02987196-n
+caolúchán:
+  n:
+    sense:
+    - id: 'caolúchán%1:04:00::'
+      synset: 00363485-n
+caomhantas:
+  n:
+    sense:
+    - id: 'caomhantas%1:11:00::'
+      synset: 07434199-n
+caomhnaigh:
+  v:
+    sense:
+    - id: 'caomhnaigh%2:40:00::'
+      synset: 02284977-v
+    - id: 'caomhnaigh%2:42:01::'
+      synset: 02685709-v
+caomhnóir:
+  n:
+    sense:
+    - id: 'caomhnóir%1:18:00::'
+      synset: 09637714-n
+caor:
+  n:
+    sense:
+    - id: 'caor%1:13:00::'
+      synset: 07758680-n
+caora:
+  n:
+    sense:
+    - id: 'caora%1:05:00::'
+      synset: 02414351-n
+caordhearg:
+  a:
+    sense:
+    - id: 'caordhearg%3:00:00::'
+      synset: 00382159-a
+caoróg mhara:
+  n:
+    sense:
+    - id: 'caoróg_mhara%1:20:00::'
+      synset: 12119548-n
+capa:
+  n:
+    sense:
+    - id: 'capa%1:10:00::'
+      synset: 06848148-n
+capall:
+  n:
+    sense:
+    - id: 'capall%1:05:00::'
+      synset: 02377103-n
+capall coille:
+  n:
+    sense:
+    - id: 'capall_coille%1:05:00::'
+      synset: 01799661-n
+capsúl:
+  n:
+    sense:
+    - id: 'capsúl%1:06:00::'
+      synset: 02961022-n
+captaen:
+  n:
+    sense:
+    - id: 'captaen%1:18:00::'
+      synset: 09912643-n
+    - id: 'captaen%1:18:01::'
+      synset: 10318579-n
+cara:
+  n:
+    sense:
+    - id: 'cara%1:18:00::'
+      synset: 10132360-n
+cara Críost:
+  n:
+    sense:
+    - id: 'cara_críost%1:18:00::'
+      synset: 10154502-n
+caracatúr:
+  n:
+    sense:
+    - id: 'caracatúr%1:10:00::'
+      synset: 06792908-n
+carachtar:
+  n:
+    sense:
+    - id: 'carachtar%1:10:00::'
+      synset: 06831828-n
+    - id: 'carachtar%1:18:01::'
+      synset: 09610740-n
+carapás:
+  n:
+    sense:
+    - id: 'carapás%1:05:00::'
+      synset: 01906397-n
+carbad:
+  n:
+    sense:
+    - id: 'carbad%1:06:00::'
+      synset: 03012923-n
+carbaihiodráit:
+  n:
+    sense:
+    - id: 'carbaihiodráit%1:27:00::'
+      synset: 14816873-n
+carbhat:
+  n:
+    sense:
+    - id: 'carbhat%1:06:00::'
+      synset: 03821155-n
+carbhat cuachóige:
+  n:
+    sense:
+    - id: 'carbhat_cuachóige%1:06:00::'
+      synset: 02886446-n
+carbhán:
+  n:
+    sense:
+    - id: 'carbhán%1:14:00::'
+      synset: 08444586-n
+carbradóir:
+  n:
+    sense:
+    - id: 'carbradóir%1:06:00::'
+      synset: 02965636-n
+carbán:
+  n:
+    sense:
+    - id: 'carbán%1:05:00::'
+      synset: 01442155-n
+carbón:
+  n:
+    sense:
+    - id: 'carbón%1:27:00::'
+      synset: 14657384-n
+carbónáit:
+  n:
+    sense:
+    - id: 'carbónáit%1:27:00::'
+      synset: 14822620-n
+carcanaigin:
+  n:
+    sense:
+    - id: 'carcanaigin%1:27:00::'
+      synset: 14817982-n
+carcanaigineach:
+  a:
+    sense:
+    - id: 'carcanaigineach%3:01:00::'
+      synset: 02690595-a
+cardamam:
+  n:
+    sense:
+    - id: 'cardamam%1:20:00::'
+      synset: 12378810-n
+cardashoithíoch:
+  a:
+    sense:
+    - id: 'cardashoithíoch%3:01:00::'
+      synset: 02885434-a
+carn:
+  n:
+    sense:
+    - id: 'carn%1:14:01::'
+      synset: 07978094-n
+  v:
+    sense:
+    - id: 'carn%2:30:00::'
+      synset: 00158612-v
+carnabhóir:
+  n:
+    sense:
+    - id: 'carnabhóir%1:05:00::'
+      synset: 01327072-n
+carnach:
+  a:
+    sense:
+    - id: 'carnach%3:00:00::'
+      synset: 00048680-a
+carr:
+  n:
+    sense:
+    - id: 'carr%1:06:00::'
+      synset: 02961779-n
+carr sleamhnáin:
+  n:
+    sense:
+    - id: 'carr_sleamhnáin%1:06:00::'
+      synset: 04242397-n
+carraeir:
+  n:
+    sense:
+    - id: 'carraeir%1:14:00::'
+      synset: 08074469-n
+carraig:
+  n:
+    sense:
+    - id: 'carraig%1:17:00::'
+      synset: 09438954-n
+carraigín:
+  n:
+    sense:
+    - id: 'carraigín%1:05:00::'
+      synset: 01417274-n
+carrchlós:
+  n:
+    sense:
+    - id: 'carrchlós%1:15:00::'
+      synset: 08633213-n
+cartagrafaí:
+  n:
+    sense:
+    - id: 'cartagrafaí%1:18:00::'
+      synset: 09917667-n
+cartagrafaíocht:
+  n:
+    sense:
+    - id: 'cartagrafaíocht%1:04:00::'
+      synset: 00926393-n
+carthanacht:
+  n:
+    sense:
+    - id: 'carthanacht%1:07:00::'
+      synset: 04847636-n
+cartlainn gharraí:
+  n:
+    sense:
+    - id: 'cartlainn_gharraí%1:20:00::'
+      synset: 12877047-n
+cartlann:
+  n:
+    sense:
+    - id: 'cartlann%1:06:00::'
+      synset: 02738091-n
+cartlannaí:
+  n:
+    sense:
+    - id: 'cartlannaí%1:18:00::'
+      synset: 09826367-n
+cartún:
+  n:
+    sense:
+    - id: 'cartún%1:10:00::'
+      synset: 06793517-n
+cartús:
+  n:
+    sense:
+    - id: 'cartús%1:06:00::'
+      synset: 02975150-n
+cas:
+  v:
+    sense:
+    - id: 'cas%2:38:00::'
+      synset: 01911251-v
+cas ar:
+  v:
+    sense:
+    - id: 'cas_ar%2:38:00::'
+      synset: 02026953-v
+cas le:
+  v:
+    sense:
+    - id: 'cas_le%2:38:00::'
+      synset: 02026953-v
+    - id: 'cas_le%2:40:01::'
+      synset: 02253273-v
+casacht:
+  n:
+    sense:
+    - id: 'casacht%1:26:00::'
+      synset: 14382579-n
+casaoid:
+  v:
+    sense:
+    - id: 'casaoid%2:30:00::'
+      synset: 00221295-v
+casmhóimint:
+  n:
+    sense:
+    - id: 'casmhóimint%1:19:00::'
+      synset: 11540135-n
+casta:
+  a:
+    sense:
+    - id: 'casta%3:00:00::'
+      synset: 02183738-a
+    - id: 'casta%3:00:02::'
+      synset: 00748528-a
+  s:
+    sense:
+    - id: casta%5:00:01:casta:00
+      synset: 02185144-s
+castacht:
+  n:
+    sense:
+    - id: 'castacht%1:07:00::'
+      synset: 04773530-n
+castaire:
+  n:
+    sense:
+    - id: 'castaire%1:06:00::'
+      synset: 04613932-n
+castán:
+  n:
+    sense:
+    - id: 'castán%1:20:00::'
+      synset: 12283721-n
+    - id: 'castán%1:13:01::'
+      synset: 07788250-n
+castán uisce:
+  n:
+    sense:
+    - id: 'castán_uisce%1:20:00::'
+      synset: 12174258-n
+casúr:
+  n:
+    sense:
+    - id: 'casúr%1:06:00::'
+      synset: 03486255-n
+cat:
+  n:
+    sense:
+    - id: 'cat%1:05:00::'
+      synset: 02124272-n
+cat coille:
+  n:
+    sense:
+    - id: 'cat_coille%1:05:00::'
+      synset: 02445745-n
+cat crainn:
+  n:
+    sense:
+    - id: 'cat_crainn%1:05:00::'
+      synset: 02452926-n
+catagóir:
+  n:
+    sense:
+    - id: 'catagóir%1:14:00::'
+      synset: 08014145-n
+catalaíoch:
+  n:
+    sense:
+    - id: 'catalaíoch%1:27:00::'
+      synset: 14747789-n
+catalóg:
+  n:
+    sense:
+    - id: 'catalóg%1:10:00::'
+      synset: 06427849-n
+    - id: 'catalóg%1:10:01::'
+      synset: 06499734-n
+catamarán:
+  n:
+    sense:
+    - id: 'catamarán%1:06:00::'
+      synset: 02985251-n
+cath:
+  n:
+    sense:
+    - id: 'cath%1:04:00::'
+      synset: 00955670-n
+cathair:
+  n:
+    sense:
+    - id: 'cathair%1:15:00::'
+      synset: 08542298-n
+cathaoir:
+  n:
+    sense:
+    - id: 'cathaoir%1:06:00::'
+      synset: 03005231-n
+    - id: 'cathaoir%1:18:01::'
+      synset: 10488547-n
+cathaoirleach:
+  n:
+    sense:
+    - id: 'cathaoirleach%1:18:00::'
+      synset: 10488547-n
+cathaoirleacht:
+  n:
+    sense:
+    - id: 'cathaoirleacht%1:04:00::'
+      synset: 00591162-n
+cathlán:
+  n:
+    sense:
+    - id: 'cathlán%1:14:00::'
+      synset: 08231004-n
+ce:
+  n:
+    sense:
+    - id: 'ce%1:27:00::'
+      synset: 14658135-n
+cead:
+  n:
+    sense:
+    - id: 'cead%1:10:00::'
+      synset: 06561652-n
+    - id: 'cead%1:10:01::'
+      synset: 06702042-n
+    - id: 'cead%1:10:02::'
+      synset: 06702412-n
+cead isteach:
+  n:
+    sense:
+    - id: 'cead_isteach%1:04:00::'
+      synset: 01250738-n
+ceadaigh:
+  v:
+    sense:
+    - id: 'ceadaigh%2:31:00::'
+      synset: 00726112-v
+    - id: 'ceadaigh%2:32:01::'
+      synset: 00803980-v
+    - id: 'ceadaigh%2:32:02::'
+      synset: 00808164-v
+    - id: 'ceadaigh%2:32:03::'
+      synset: 00878614-v
+    - id: 'ceadaigh%2:40:04::'
+      synset: 02260270-v
+    - id: 'ceadaigh%2:41:05::'
+      synset: 02427979-v
+    - id: 'ceadaigh%2:41:06::'
+      synset: 02472093-v
+    - id: 'ceadaigh%2:42:07::'
+      synset: 02727313-v
+    - id: 'ceadaigh%2:32:08::'
+      synset: 00804987-v
+ceadaigh do:
+  v:
+    sense:
+    - id: 'ceadaigh_do%2:42:00::'
+      synset: 02727313-v
+ceadaithe:
+  a:
+    sense:
+    - id: 'ceadaithe%3:00:00::'
+      synset: 01765456-a
+ceadmhach:
+  a:
+    sense:
+    - id: 'ceadmhach%3:00:00::'
+      synset: 01765456-a
+ceadúnaigh:
+  v:
+    sense:
+    - id: 'ceadúnaigh%2:41:00::'
+      synset: 02449527-v
+ceadúnas:
+  n:
+    sense:
+    - id: 'ceadúnas%1:10:00::'
+      synset: 06561652-n
+ceaintín:
+  n:
+    sense:
+    - id: 'ceaintín%1:06:00::'
+      synset: 02955921-n
+ceal:
+  n:
+    sense:
+    - id: 'ceal%1:26:00::'
+      synset: 13984260-n
+    - id: 'ceal%1:26:01::'
+      synset: 14472871-n
+cealaigh:
+  v:
+    sense:
+    - id: 'cealaigh%2:41:00::'
+      synset: 02483178-v
+ceallalós:
+  n:
+    sense:
+    - id: 'ceallalós%1:27:00::'
+      synset: 14818091-n
+ceallra:
+  n:
+    sense:
+    - id: 'ceallra%1:06:00::'
+      synset: 02813606-n
+cealúchán:
+  n:
+    sense:
+    - id: 'cealúchán%1:04:00::'
+      synset: 00233253-n
+ceamara:
+  n:
+    sense:
+    - id: 'ceamara%1:06:00::'
+      synset: 02946154-n
+ceamaradóir:
+  n:
+    sense:
+    - id: 'ceamaradóir%1:18:00::'
+      synset: 09908991-n
+ceangail:
+  v:
+    sense:
+    - id: 'ceangail%2:30:00::'
+      synset: 00234091-v
+    - id: 'ceangail%2:31:01::'
+      synset: 00715072-v
+    - id: 'ceangail%2:35:02::'
+      synset: 01297878-v
+    - id: 'ceangail%2:35:03::'
+      synset: 01299048-v
+    - id: 'ceangail%2:35:04::'
+      synset: 01357376-v
+    - id: 'ceangail%2:36:05::'
+      synset: 01660471-v
+ceangailte:
+  a:
+    sense:
+    - id: 'ceangailte%3:00:00::'
+      synset: 01979885-a
+ceangal:
+  n:
+    sense:
+    - id: 'ceangal%1:24:00::'
+      synset: 13814904-n
+    - id: 'ceangal%1:26:01::'
+      synset: 14442568-n
+    - id: 'ceangal%1:04:03::'
+      synset: 00146038-n
+    - id: 'ceangal%1:06:04::'
+      synset: 03679297-n
+  v:
+    sense:
+    - id: 'ceangal%2:31:02::'
+      synset: 00715072-v
+ceangaltas:
+  n:
+    sense:
+    - id: 'ceangaltas%1:10:00::'
+      synset: 06697128-n
+ceanglas:
+  n:
+    sense:
+    - id: 'ceanglas%1:09:00::'
+      synset: 05901258-n
+ceanglóir:
+  n:
+    sense:
+    - id: 'ceanglóir%1:06:00::'
+      synset: 03328648-n
+ceann:
+  n:
+    sense:
+    - id: 'ceann%1:05:00::'
+      synset: 01320872-n
+    - id: 'ceann%1:08:01::'
+      synset: 05546258-n
+    - id: 'ceann%1:09:02::'
+      synset: 05619057-n
+    - id: 'ceann%1:09:03::'
+      synset: 05878677-n
+    - id: 'ceann%1:15:04::'
+      synset: 08583557-n
+    - id: 'ceann%1:15:05::'
+      synset: 08681922-n
+    - id: 'ceann%1:18:06::'
+      synset: 10182584-n
+ceann cait:
+  n:
+    sense:
+    - id: 'ceann_cait%1:05:00::'
+      synset: 01627474-n
+ceann comhairle:
+  n:
+    sense:
+    - id: 'ceann_comhairle%1:18:00::'
+      synset: 10650671-n
+ceann foirne:
+  n:
+    sense:
+    - id: 'ceann_foirne%1:18:00::'
+      synset: 09936672-n
+ceannach:
+  n:
+    sense:
+    - id: 'ceannach%1:21:00::'
+      synset: 13274650-n
+    - id: 'ceannach%1:04:01::'
+      synset: 00079838-n
+    - id: 'ceannach%1:04:02::'
+      synset: 00082392-n
+ceannachán:
+  n:
+    sense:
+    - id: 'ceannachán%1:04:00::'
+      synset: 00079838-n
+ceannaigh:
+  v:
+    sense:
+    - id: 'ceannaigh%2:40:00::'
+      synset: 02211988-v
+ceannaire:
+  n:
+    sense:
+    - id: 'ceannaire%1:18:00::'
+      synset: 09646208-n
+    - id: 'ceannaire%1:18:01::'
+      synset: 10182584-n
+ceannaireacht:
+  n:
+    sense:
+    - id: 'ceannaireacht%1:04:00::'
+      synset: 01259004-n
+ceannaireacht a thabhairt:
+  v:
+    sense:
+    - id: 'ceannaireacht_a_thabhairt%2:41:00::'
+      synset: 02445109-v
+ceannaitheoir:
+  n:
+    sense:
+    - id: 'ceannaitheoir%1:18:00::'
+      synset: 09904597-n
+ceannas:
+  n:
+    sense:
+    - id: 'ceannas%1:04:00::'
+      synset: 00831039-n
+    - id: 'ceannas%1:07:01::'
+      synset: 05205065-n
+ceannasach:
+  a:
+    sense:
+    - id: 'ceannasach%3:00:00::'
+      synset: 00794782-a
+ceannasaí:
+  n:
+    sense:
+    - id: 'ceannasaí%1:18:00::'
+      synset: 09960841-n
+ceannasaíocht:
+  n:
+    sense:
+    - id: 'ceannasaíocht%1:07:00::'
+      synset: 05205065-n
+ceannaí:
+  n:
+    sense:
+    - id: 'ceannaí%1:18:00::'
+      synset: 10329563-n
+ceannaíocht:
+  n:
+    sense:
+    - id: 'ceannaíocht%1:04:00::'
+      synset: 01115977-n
+ceannbheart:
+  n:
+    sense:
+    - id: 'ceannbheart%1:06:00::'
+      synset: 03507653-n
+ceanncheathrú:
+  n:
+    sense:
+    - id: 'ceanncheathrú%1:06:00::'
+      synset: 03509867-n
+ceannlitir:
+  n:
+    sense:
+    - id: 'ceannlitir%1:10:00::'
+      synset: 06837277-n
+ceannródaí:
+  n:
+    sense:
+    - id: 'ceannródaí%1:18:00::'
+      synset: 10454188-n
+ceannsolas:
+  n:
+    sense:
+    - id: 'ceannsolas%1:06:00::'
+      synset: 03509141-n
+ceannteideal:
+  n:
+    sense:
+    - id: 'ceannteideal%1:10:00::'
+      synset: 06355341-n
+ceant:
+  n:
+    sense:
+    - id: 'ceant%1:04:00::'
+      synset: 00093186-n
+ceantar:
+  n:
+    sense:
+    - id: 'ceantar%1:15:00::'
+      synset: 08514304-n
+    - id: 'ceantar%1:15:01::'
+      synset: 08569713-n
+    - id: 'ceantar%1:15:02::'
+      synset: 08658688-n
+ceantáil:
+  n:
+    sense:
+    - id: 'ceantáil%1:04:00::'
+      synset: 00093186-n
+ceantálaí:
+  n:
+    sense:
+    - id: 'ceantálaí%1:18:00::'
+      synset: 09631407-n
+ceap:
+  v:
+    sense:
+    - id: 'ceap%2:31:00::'
+      synset: 00633399-v
+    - id: 'ceap%2:31:01::'
+      synset: 00635105-v
+    - id: 'ceap%2:31:02::'
+      synset: 00691086-v
+    - id: 'ceap%2:31:03::'
+      synset: 00692380-v
+    - id: 'ceap%2:31:04::'
+      synset: 00710367-v
+    - id: 'ceap%2:31:05::'
+      synset: 00713964-v
+    - id: 'ceap%2:31:06::'
+      synset: 00717144-v
+    - id: 'ceap%2:36:07::'
+      synset: 01635953-v
+    - id: 'ceap%2:36:08::'
+      synset: 01636885-v
+    - id: 'ceap%2:41:09::'
+      synset: 02396945-v
+    - id: 'ceap%2:41:10::'
+      synset: 02481345-v
+    - id: 'ceap%2:32:11::'
+      synset: 00923043-v
+ceapach:
+  n:
+    sense:
+    - id: 'ceapach%1:06:00::'
+      synset: 02822609-n
+ceapachán:
+  n:
+    sense:
+    - id: 'ceapachán%1:04:00::'
+      synset: 00164600-n
+ceapadóir:
+  n:
+    sense:
+    - id: 'ceapadóir%1:18:00::'
+      synset: 10234307-n
+ceaptha:
+  a:
+    sense:
+    - id: 'ceaptha%3:00:00::'
+      synset: 00341524-a
+cearbhas:
+  n:
+    sense:
+    - id: 'cearbhas%1:20:00::'
+      synset: 12955239-n
+    - id: 'cearbhas%1:13:01::'
+      synset: 07832702-n
+cearbhán:
+  n:
+    sense:
+    - id: 'cearbhán%1:05:00::'
+      synset: 01488120-n
+cearc:
+  n:
+    sense:
+    - id: 'cearc%1:05:00::'
+      synset: 01795281-n
+cearc uisce:
+  n:
+    sense:
+    - id: 'cearc_uisce%1:05:00::'
+      synset: 02019470-n
+ceardaí:
+  n:
+    sense:
+    - id: 'ceardaí%1:18:00::'
+      synset: 09994178-n
+ceardaíocht:
+  n:
+    sense:
+    - id: 'ceardaíocht%1:04:00::'
+      synset: 00607485-n
+ceardchumann:
+  n:
+    sense:
+    - id: 'ceardchumann%1:14:00::'
+      synset: 08249977-n
+ceardlann:
+  n:
+    sense:
+    - id: 'ceardlann%1:04:00::'
+      synset: 00894093-n
+    - id: 'ceardlann%1:06:01::'
+      synset: 04610439-n
+cearnach:
+  a:
+    sense:
+    - id: 'cearnach%3:00:00::'
+      synset: 02050637-a
+cearnamhán:
+  n:
+    sense:
+    - id: 'cearnamhán%1:05:00::'
+      synset: 02177311-n
+cearnóg:
+  n:
+    sense:
+    - id: 'cearnóg%1:25:00::'
+      synset: 13901273-n
+cearnógach:
+  a:
+    sense:
+    - id: 'cearnógach%3:00:00::'
+      synset: 02050637-a
+cearpantóir:
+  n:
+    sense:
+    - id: 'cearpantóir%1:18:00::'
+      synset: 09916137-n
+cearpantóireacht:
+  n:
+    sense:
+    - id: 'cearpantóireacht%1:04:00::'
+      synset: 00608890-n
+cearr:
+  a:
+    sense:
+    - id: 'cearr%3:00:00::'
+      synset: 01096064-a
+cearrbhachas:
+  n:
+    sense:
+    - id: 'cearrbhachas%1:04:00::'
+      synset: 00431125-n
+ceart:
+  a:
+    sense:
+    - id: 'ceart%3:00:00::'
+      synset: 01884565-a
+    - id: 'ceart%3:00:01::'
+      synset: 02042235-a
+    - id: 'ceart%3:00:02::'
+      synset: 02469730-a
+    - id: 'ceart%3:00:03::'
+      synset: 00634232-a
+  n:
+    sense:
+    - id: 'ceart%1:07:04::'
+      synset: 04857348-n
+    - id: 'ceart%1:07:05::'
+      synset: 05182180-n
+ceart go leor:
+  a:
+    sense:
+    - id: 'ceart_go_leor%3:00:00::'
+      synset: 02088253-a
+  r:
+    sense:
+    - id: 'ceart_go_leor%4:02:01::'
+      synset: 00053542-r
+ceart vótála:
+  n:
+    sense:
+    - id: 'ceart_vótála%1:07:00::'
+      synset: 05193574-n
+ceartaitheach:
+  a:
+    sense:
+    - id: 'ceartaitheach%3:00:00::'
+      synset: 00234346-a
+ceartas:
+  n:
+    sense:
+    - id: 'ceartas%1:07:00::'
+      synset: 04857348-n
+ceartlitriú:
+  n:
+    sense:
+    - id: 'ceartlitriú%1:10:00::'
+      synset: 06362609-n
+ceartú:
+  n:
+    sense:
+    - id: 'ceartú%1:04:00::'
+      synset: 00259697-n
+    - id: 'ceartú%1:10:01::'
+      synset: 06440207-n
+ceartúchán:
+  n:
+    sense:
+    - id: 'ceartúchán%1:10:00::'
+      synset: 06440207-n
+ceathair déag:
+  a:
+    sense:
+    - id: 'ceathair_déag%3:00:00::'
+      synset: 02195338-a
+ceathairshleasán:
+  n:
+    sense:
+    - id: 'ceathairshleasán%1:25:00::'
+      synset: 13901783-n
+ceathairíl:
+  n:
+    sense:
+    - id: 'ceathairíl%1:09:00::'
+      synset: 05746149-n
+ceathartha:
+  a:
+    sense:
+    - id: 'ceathartha%3:00:00::'
+      synset: 02210112-a
+ceathrar:
+  a:
+    sense:
+    - id: 'ceathrar%3:00:00::'
+      synset: 02194304-a
+ceathrú:
+  n:
+    sense:
+    - id: 'ceathrú%1:23:00::'
+      synset: 13759620-n
+    - id: 'ceathrú%1:24:01::'
+      synset: 13869321-n
+ceil:
+  v:
+    sense:
+    - id: 'ceil%2:41:00::'
+      synset: 02516039-v
+ceiliúir:
+  v:
+    sense:
+    - id: 'ceiliúir%2:41:00::'
+      synset: 02584595-v
+ceiliúrán:
+  n:
+    sense:
+    - id: 'ceiliúrán%1:18:00::'
+      synset: 09922606-n
+ceilt:
+  n:
+    sense:
+    - id: 'ceilt%1:04:01::'
+      synset: 01050836-n
+  v:
+    sense:
+    - id: 'ceilt%2:39:00::'
+      synset: 02149298-v
+ceilte:
+  a:
+    sense:
+    - id: 'ceilte%3:00:00::'
+      synset: 01710108-a
+ceimic:
+  n:
+    sense:
+    - id: 'ceimic%1:09:00::'
+      synset: 06094057-n
+ceimiceach:
+  a:
+    sense:
+    - id: 'ceimiceach%3:01:00::'
+      synset: 02703361-a
+ceimiceoir:
+  n:
+    sense:
+    - id: 'ceimiceoir%1:18:00::'
+      synset: 09933282-n
+ceimiceán:
+  n:
+    sense:
+    - id: 'ceimiceán%1:27:00::'
+      synset: 14831008-n
+ceinteár:
+  n:
+    sense:
+    - id: 'ceinteár%1:18:00::'
+      synset: 09516174-n
+ceintiméadar:
+  n:
+    sense:
+    - id: 'ceintiméadar%1:23:00::'
+      synset: 13680636-n
+ceirbreach:
+  a:
+    sense:
+    - id: 'ceirbreach%3:01:00::'
+      synset: 02699711-a
+ceirbream:
+  n:
+    sense:
+    - id: 'ceirbream%1:08:00::'
+      synset: 05499645-n
+ceird:
+  n:
+    sense:
+    - id: 'ceird%1:04:00::'
+      synset: 00607485-n
+ceiriam:
+  n:
+    sense:
+    - id: 'ceiriam%1:27:00::'
+      synset: 14658135-n
+ceirmeach:
+  a:
+    sense:
+    - id: 'ceirmeach%3:01:00::'
+      synset: 03026954-a
+ceirnín:
+  n:
+    sense:
+    - id: 'ceirnín%1:06:00::'
+      synset: 03930191-n
+ceirtlis:
+  n:
+    sense:
+    - id: 'ceirtlis%1:13:00::'
+      synset: 07937695-n
+ceist:
+  n:
+    sense:
+    - id: 'ceist%1:09:00::'
+      synset: 05822776-n
+    - id: 'ceist%1:10:01::'
+      synset: 06796625-n
+    - id: 'ceist%1:10:02::'
+      synset: 07208256-n
+    - id: 'ceist%1:10:03::'
+      synset: 07211342-n
+ceistigh:
+  v:
+    sense:
+    - id: 'ceistigh%2:32:00::'
+      synset: 00789846-v
+    - id: 'ceistigh%2:32:01::'
+      synset: 00927081-v
+ceistitheoir:
+  n:
+    sense:
+    - id: 'ceistitheoir%1:18:00::'
+      synset: 10227450-n
+    - id: 'ceistitheoir%1:18:01::'
+      synset: 10227888-n
+ceistiúchán:
+  n:
+    sense:
+    - id: 'ceistiúchán%1:10:00::'
+      synset: 06485793-n
+    - id: 'ceistiúchán%1:10:01::'
+      synset: 07208618-n
+ceistneoir:
+  n:
+    sense:
+    - id: 'ceistneoir%1:10:00::'
+      synset: 06485793-n
+ceithearnach:
+  n:
+    sense:
+    - id: 'ceithearnach%1:06:00::'
+      synset: 03907828-n
+ceithre:
+  a:
+    sense:
+    - id: 'ceithre%3:00:00::'
+      synset: 02194304-a
+ceo:
+  n:
+    sense:
+    - id: 'ceo%1:19:00::'
+      synset: 11478731-n
+ceol:
+  n:
+    sense:
+    - id: 'ceol%1:09:00::'
+      synset: 05726503-n
+    - id: 'ceol%1:10:01::'
+      synset: 07034009-n
+ceol aireagail:
+  n:
+    sense:
+    - id: 'ceol_aireagail%1:10:00::'
+      synset: 07039708-n
+ceolchoirm:
+  n:
+    sense:
+    - id: 'ceolchoirm%1:10:00::'
+      synset: 06905814-n
+ceoldráma:
+  n:
+    sense:
+    - id: 'ceoldráma%1:10:00::'
+      synset: 07039821-n
+ceolfhoireann:
+  n:
+    sense:
+    - id: 'ceolfhoireann%1:14:00::'
+      synset: 08265078-n
+ceoltóir:
+  n:
+    sense:
+    - id: 'ceoltóir%1:18:00::'
+      synset: 10360025-n
+cheana:
+  r:
+    sense:
+    - id: 'cheana%4:02:00::'
+      synset: 00032194-r
+cheana féin:
+  r:
+    sense:
+    - id: 'cheana_féin%4:02:00::'
+      synset: 00032194-r
+chomh:
+  r:
+    sense:
+    - id: 'chomh%4:02:00::'
+      synset: 00022585-r
+    - id: 'chomh%4:02:01::'
+      synset: 00147630-r
+    - id: 'chomh%4:02:03::'
+      synset: 00148422-r
+  s:
+    sense:
+    - id: chomh%5:00:02:oiread:00
+      synset: 01558587-s
+chomh maith:
+  r:
+    sense:
+    - id: 'chomh_maith%4:02:00::'
+      synset: 00048072-r
+chomh maith leis sin:
+  r:
+    sense:
+    - id: 'chomh_maith_leis_sin%4:02:00::'
+      synset: 00029763-r
+choíche:
+  r:
+    sense:
+    - id: 'choíche%4:02:00::'
+      synset: 00021214-r
+chun bealaigh:
+  r:
+    sense:
+    - id: 'chun_bealaigh%4:02:00::'
+      synset: 00234667-r
+chéad:
+  a:
+    sense:
+    - id: 'chéad%3:00:00::'
+      synset: 01014459-a
+chí:
+  n:
+    sense:
+    - id: 'chí%1:10:00::'
+      synset: 06849431-n
+chóir a bheith:
+  r:
+    sense:
+    - id: 'chóir_a_bheith%4:02:00::'
+      synset: 00073433-r
+    - id: 'chóir_a_bheith%4:02:01::'
+      synset: 00054282-r
+ciall:
+  n:
+    sense:
+    - id: 'ciall%1:09:00::'
+      synset: 05622440-n
+    - id: 'ciall%1:10:01::'
+      synset: 06614825-n
+ciallaigh:
+  v:
+    sense:
+    - id: 'ciallaigh%2:32:00::'
+      synset: 00932561-v
+    - id: 'ciallaigh%2:32:01::'
+      synset: 00933814-v
+    - id: 'ciallaigh%2:42:02::'
+      synset: 02641270-v
+    - id: 'ciallaigh%2:31:03::'
+      synset: 00732037-v
+cianda:
+  a:
+    sense:
+    - id: 'cianda%3:00:00::'
+      synset: 00444934-a
+ciap:
+  v:
+    sense:
+    - id: 'ciap%2:37:00::'
+      synset: 01793315-v
+ciarsúr:
+  n:
+    sense:
+    - id: 'ciarsúr%1:06:00::'
+      synset: 03490877-n
+ciaróg oíche:
+  n:
+    sense:
+    - id: 'ciaróg_oíche%1:05:00::'
+      synset: 02180427-n
+ciceáil:
+  v:
+    sense:
+    - id: 'ciceáil%2:32:00::'
+      synset: 00909100-v
+ciclipéid:
+  n:
+    sense:
+    - id: 'ciclipéid%1:10:00::'
+      synset: 06439057-n
+cigire:
+  n:
+    sense:
+    - id: 'cigire%1:18:00::'
+      synset: 10087775-n
+cigireacht:
+  n:
+    sense:
+    - id: 'cigireacht%1:04:00::'
+      synset: 00880949-n
+cileagram:
+  n:
+    sense:
+    - id: 'cileagram%1:23:00::'
+      synset: 13746692-n
+cileavata:
+  n:
+    sense:
+    - id: 'cileavata%1:23:00::'
+      synset: 13666240-n
+cililítear:
+  n:
+    sense:
+    - id: 'cililítear%1:23:00::'
+      synset: 13646268-n
+ciliméadar:
+  n:
+    sense:
+    - id: 'ciliméadar%1:23:00::'
+      synset: 13681796-n
+cill:
+  n:
+    sense:
+    - id: 'cill%1:03:00::'
+      synset: 00006484-n
+    - id: 'cill%1:06:01::'
+      synset: 02994503-n
+    - id: 'cill%1:14:02::'
+      synset: 08375521-n
+    - id: 'cill%1:15:03::'
+      synset: 08538806-n
+cinceasú:
+  n:
+    sense:
+    - id: 'cinceasú%1:05:00::'
+      synset: 02511828-n
+cine:
+  n:
+    sense:
+    - id: 'cine%1:14:00::'
+      synset: 07984596-n
+cineama:
+  n:
+    sense:
+    - id: 'cineama%1:10:00::'
+      synset: 06273220-n
+cinedhíothú:
+  n:
+    sense:
+    - id: 'cinedhíothú%1:04:00::'
+      synset: 01247706-n
+cineál:
+  n:
+    sense:
+    - id: 'cineál%1:09:02::'
+      synset: 05847533-n
+    - id: 'cineál%1:09:03::'
+      synset: 05848697-n
+    - id: 'cineál%1:14:04::'
+      synset: 08014145-n
+    - id: 'cineál%1:14:05::'
+      synset: 08015733-n
+  r:
+    sense:
+    - id: 'cineál%4:02:00::'
+      synset: 00018764-r
+    - id: 'cineál%4:02:01::'
+      synset: 00019243-r
+    - id: 'cineál%4:02:06::'
+      synset: 00034050-r
+cineál donn:
+  a:
+    sense:
+    - id: 'cineál_donn%3:00:00::'
+      synset: 00373173-a
+ciniceas:
+  n:
+    sense:
+    - id: 'ciniceas%1:12:00::'
+      synset: 07558592-n
+cinn:
+  v:
+    sense:
+    - id: 'cinn%2:31:00::'
+      synset: 00636134-v
+    - id: 'cinn%2:31:01::'
+      synset: 00699355-v
+    - id: 'cinn%2:31:02::'
+      synset: 00700621-v
+    - id: 'cinn%2:31:03::'
+      synset: 00702806-v
+    - id: 'cinn%2:32:04::'
+      synset: 00949109-v
+    - id: 'cinn%2:32:05::'
+      synset: 00922307-v
+cinnigh:
+  v:
+    sense:
+    - id: 'cinnigh%2:32:00::'
+      synset: 00949109-v
+cinnte:
+  a:
+    sense:
+    - id: 'cinnte%3:00:01::'
+      synset: 00337729-a
+  r:
+    sense:
+    - id: 'cinnte%4:02:00::'
+      synset: 00039019-r
+    - id: 'cinnte%4:02:02::'
+      synset: 00145758-r
+cinnte dearfa:
+  r:
+    sense:
+    - id: 'cinnte_dearfa%4:02:00::'
+      synset: 00145758-r
+cinnteacht:
+  n:
+    sense:
+    - id: 'cinnteacht%1:09:00::'
+      synset: 05705100-n
+cinnteoireacht:
+  n:
+    sense:
+    - id: 'cinnteoireacht%1:09:00::'
+      synset: 05796154-n
+cinntigh:
+  v:
+    sense:
+    - id: 'cinntigh%2:32:00::'
+      synset: 00892111-v
+    - id: 'cinntigh%2:32:01::'
+      synset: 00920843-v
+    - id: 'cinntigh%2:31:02::'
+      synset: 00664507-v
+    - id: 'cinntigh%2:32:03::'
+      synset: 00922307-v
+cinntitheach:
+  a:
+    sense:
+    - id: 'cinntitheach%3:00:00::'
+      synset: 00552502-a
+    - id: 'cinntitheach%3:00:01::'
+      synset: 00687757-a
+  n:
+    sense:
+    - id: 'cinntitheach%1:09:04::'
+      synset: 05700384-n
+  s:
+    sense:
+    - id: cinntitheach%5:00:02:cinntitheach:01
+      synset: 00688059-s
+    - id: cinntitheach%5:00:03:follasach:01
+      synset: 00944238-s
+cinsireacht:
+  n:
+    sense:
+    - id: 'cinsireacht%1:04:00::'
+      synset: 00398155-n
+cinéiteach:
+  a:
+    sense:
+    - id: 'cinéiteach%3:01:00::'
+      synset: 02905079-a
+ciníoch:
+  a:
+    sense:
+    - id: 'ciníoch%3:00:00::'
+      synset: 02256437-a
+ciníochas:
+  n:
+    sense:
+    - id: 'ciníochas%1:04:00::'
+      synset: 01157531-n
+cion:
+  n:
+    sense:
+    - id: 'cion%1:24:00::'
+      synset: 13831419-n
+    - id: 'cion%1:04:01::'
+      synset: 00767761-n
+    - id: 'cion%1:04:02::'
+      synset: 01087022-n
+    - id: 'cion%1:12:03::'
+      synset: 07560531-n
+    - id: 'cion%1:14:04::'
+      synset: 07971643-n
+ciondargairdín:
+  n:
+    sense:
+    - id: 'ciondargairdín%1:14:00::'
+      synset: 08429093-n
+cionroinn:
+  v:
+    sense:
+    - id: 'cionroinn%2:40:00::'
+      synset: 02238869-v
+cionroinnt:
+  n:
+    sense:
+    - id: 'cionroinnt%1:04:00::'
+      synset: 01085569-n
+ciontach:
+  a:
+    sense:
+    - id: 'ciontach%3:00:00::'
+      synset: 01323940-a
+ciontacht:
+  n:
+    sense:
+    - id: 'ciontacht%1:26:00::'
+      synset: 14014160-n
+ciontaigh:
+  v:
+    sense:
+    - id: 'ciontaigh%2:32:00::'
+      synset: 00908320-v
+ciontóir:
+  n:
+    sense:
+    - id: 'ciontóir%1:18:00::'
+      synset: 09657157-n
+ciontú:
+  n:
+    sense:
+    - id: 'ciontú%1:04:00::'
+      synset: 01191772-n
+ciorcad:
+  n:
+    sense:
+    - id: 'ciorcad%1:04:00::'
+      synset: 00311492-n
+    - id: 'ciorcad%1:06:01::'
+      synset: 03037347-n
+ciorcadra:
+  n:
+    sense:
+    - id: 'ciorcadra%1:06:00::'
+      synset: 03038390-n
+ciorcal:
+  n:
+    sense:
+    - id: 'ciorcal%1:25:00::'
+      synset: 13896141-n
+    - id: 'ciorcal%1:14:01::'
+      synset: 08257090-n
+ciorclach:
+  a:
+    sense:
+    - id: 'ciorclach%3:00:00::'
+      synset: 02048059-a
+ciorclán:
+  n:
+    sense:
+    - id: 'ciorclán%1:10:00::'
+      synset: 07265007-n
+ciorraigh:
+  v:
+    sense:
+    - id: 'ciorraigh%2:30:00::'
+      synset: 00430013-v
+circín starraiceach:
+  n:
+    sense:
+    - id: 'circín_starraiceach%1:05:00::'
+      synset: 01530558-n
+ciseal:
+  n:
+    sense:
+    - id: 'ciseal%1:06:00::'
+      synset: 03655499-n
+ciseán:
+  n:
+    sense:
+    - id: 'ciseán%1:06:00::'
+      synset: 02805104-n
+cispheil:
+  n:
+    sense:
+    - id: 'cispheil%1:04:00::'
+      synset: 00482004-n
+cist:
+  n:
+    sense:
+    - id: 'cist%1:26:00::'
+      synset: 14226478-n
+ciste:
+  n:
+    sense:
+    - id: 'ciste%1:21:00::'
+      synset: 13379722-n
+cisteoir:
+  n:
+    sense:
+    - id: 'cisteoir%1:18:00::'
+      synset: 10746908-n
+cistin:
+  n:
+    sense:
+    - id: 'cistin%1:06:00::'
+      synset: 03625099-n
+cistiú:
+  n:
+    sense:
+    - id: 'cistiú%1:04:00::'
+      synset: 01101014-n
+cistiúchán:
+  n:
+    sense:
+    - id: 'cistiúchán%1:21:00::'
+      synset: 13386871-n
+    - id: 'cistiúchán%1:04:01::'
+      synset: 01101014-n
+citreach:
+  a:
+    sense:
+    - id: 'citreach%3:01:00::'
+      synset: 03066383-a
+citreas:
+  n:
+    sense:
+    - id: 'citreas%1:13:00::'
+      synset: 07763031-n
+citseap:
+  n:
+    sense:
+    - id: 'citseap%1:13:00::'
+      synset: 07838173-n
+ciumhais:
+  n:
+    sense:
+    - id: 'ciumhais%1:15:00::'
+      synset: 08583230-n
+ciúin:
+  a:
+    sense:
+    - id: 'ciúin%3:00:00::'
+      synset: 01925383-a
+ciúiriam:
+  n:
+    sense:
+    - id: 'ciúiriam%1:27:00::'
+      synset: 14660398-n
+clabhchorda:
+  n:
+    sense:
+    - id: 'clabhchorda%1:06:00::'
+      synset: 03042855-n
+cladach:
+  n:
+    sense:
+    - id: 'cladach%1:17:00::'
+      synset: 09456346-n
+claibín:
+  n:
+    sense:
+    - id: 'claibín%1:06:00::'
+      synset: 02958374-n
+    - id: 'claibín%1:06:01::'
+      synset: 03666666-n
+clais:
+  n:
+    sense:
+    - id: 'clais%1:17:00::'
+      synset: 09416001-n
+clamhán:
+  n:
+    sense:
+    - id: 'clamhán%1:05:00::'
+      synset: 01610603-n
+clampa:
+  n:
+    sense:
+    - id: 'clampa%1:06:00::'
+      synset: 03040851-n
+    - id: 'clampa%1:14:01::'
+      synset: 08455376-n
+claochladán:
+  n:
+    sense:
+    - id: 'claochladán%1:06:00::'
+      synset: 04478550-n
+claochlaigh:
+  v:
+    sense:
+    - id: 'claochlaigh%2:30:00::'
+      synset: 00383306-v
+claon:
+  n:
+    sense:
+    - id: 'claon%1:07:04::'
+      synset: 05075249-n
+    - id: 'claon%1:09:05::'
+      synset: 06206319-n
+  v:
+    sense:
+    - id: 'claon%2:32:00::'
+      synset: 00900197-v
+    - id: 'claon%2:38:01::'
+      synset: 02042202-v
+    - id: 'claon%2:42:02::'
+      synset: 02667330-v
+    - id: 'claon%2:42:03::'
+      synset: 02725274-v
+claonadh a bheith ag:
+  v:
+    sense:
+    - id: 'claonadh_a_bheith_ag%2:42:00::'
+      synset: 02725274-v
+claonpháirteachas:
+  n:
+    sense:
+    - id: 'claonpháirteachas%1:09:00::'
+      synset: 05803252-n
+clasaiceach:
+  a:
+    sense:
+    - id: 'clasaiceach%3:00:00::'
+      synset: 00414699-a
+claí:
+  n:
+    sense:
+    - id: 'claí%1:06:00::'
+      synset: 03332179-n
+claíomh:
+  n:
+    sense:
+    - id: 'claíomh%1:06:00::'
+      synset: 04380981-n
+cleacht:
+  v:
+    sense:
+    - id: 'cleacht%2:41:00::'
+      synset: 02574587-v
+cleachtadh:
+  v:
+    sense:
+    - id: 'cleachtadh%2:41:00::'
+      synset: 02574587-v
+cleachtas:
+  n:
+    sense:
+    - id: 'cleachtas%1:04:00::'
+      synset: 00411260-n
+    - id: 'cleachtas%1:04:01::'
+      synset: 00632621-n
+cleachtóir:
+  n:
+    sense:
+    - id: 'cleachtóir%1:18:00::'
+      synset: 10482426-n
+cleamhnas:
+  n:
+    sense:
+    - id: 'cleamhnas%1:10:00::'
+      synset: 07242871-n
+cleas:
+  n:
+    sense:
+    - id: 'cleas%1:04:00::'
+      synset: 00172439-n
+cleasghleacaí:
+  n:
+    sense:
+    - id: 'cleasghleacaí%1:18:00::'
+      synset: 09783804-n
+cleithiúnach:
+  a:
+    sense:
+    - id: 'cleithiúnach%3:00:00::'
+      synset: 00729216-a
+cleithiúnas:
+  n:
+    sense:
+    - id: 'cleithiúnas%1:26:00::'
+      synset: 14024833-n
+cleithiúnaí:
+  n:
+    sense:
+    - id: 'cleithiúnaí%1:18:00::'
+      synset: 10024466-n
+cliabh:
+  n:
+    sense:
+    - id: 'cliabh%1:06:00::'
+      synset: 03134499-n
+cliant:
+  n:
+    sense:
+    - id: 'cliant%1:06:00::'
+      synset: 03832647-n
+    - id: 'cliant%1:18:01::'
+      synset: 10004189-n
+cliathbhosca:
+  n:
+    sense:
+    - id: 'cliathbhosca%1:06:00::'
+      synset: 03132576-n
+cliathreathaí:
+  n:
+    sense:
+    - id: 'cliathreathaí%1:18:00::'
+      synset: 10213483-n
+clib:
+  n:
+    sense:
+    - id: 'clib%1:10:00::'
+      synset: 07287841-n
+cliniceoir:
+  n:
+    sense:
+    - id: 'cliniceoir%1:18:00::'
+      synset: 09949035-n
+cliniciúil:
+  a:
+    sense:
+    - id: 'cliniciúil%3:01:00::'
+      synset: 02896833-a
+clis:
+  v:
+    sense:
+    - id: 'clis%2:41:00::'
+      synset: 02534046-v
+cloch:
+  n:
+    sense:
+    - id: 'cloch%1:17:00::'
+      synset: 09438954-n
+    - id: 'cloch%1:20:01::'
+      synset: 11705208-n
+clog:
+  n:
+    sense:
+    - id: 'clog%1:06:00::'
+      synset: 03050242-n
+clog gréine:
+  n:
+    sense:
+    - id: 'clog_gréine%1:06:00::'
+      synset: 04362416-n
+cloigeann:
+  n:
+    sense:
+    - id: 'cloigeann%1:08:00::'
+      synset: 05546258-n
+clois:
+  v:
+    sense:
+    - id: 'clois%2:31:00::'
+      synset: 00600349-v
+    - id: 'clois%2:39:01::'
+      synset: 02174146-v
+cloí le:
+  v:
+    sense:
+    - id: 'cloí_le%2:34:00::'
+      synset: 01185870-v
+cloígh:
+  v:
+    sense:
+    - id: 'cloígh%2:33:00::'
+      synset: 01110559-v
+    - id: 'cloígh%2:42:01::'
+      synset: 02724053-v
+cloígh le:
+  v:
+    sense:
+    - id: 'cloígh_le%2:40:00::'
+      synset: 02284977-v
+    - id: 'cloígh_le%2:41:01::'
+      synset: 02547977-v
+    - id: 'cloígh_le%2:42:02::'
+      synset: 02685709-v
+cluaisín:
+  n:
+    sense:
+    - id: 'cluaisín%1:06:00::'
+      synset: 03700942-n
+cluas:
+  n:
+    sense:
+    - id: 'cluas%1:08:00::'
+      synset: 05328447-n
+club oíche:
+  n:
+    sense:
+    - id: 'club_oíche%1:06:00::'
+      synset: 02934801-n
+cluiche cártaí:
+  n:
+    sense:
+    - id: 'cluiche_cártaí%1:04:00::'
+      synset: 00489236-n
+cluin:
+  v:
+    sense:
+    - id: 'cluin%2:39:00::'
+      synset: 02174146-v
+cláirseoir:
+  n:
+    sense:
+    - id: 'cláirseoir%1:18:00::'
+      synset: 10180363-n
+clár:
+  n:
+    sense:
+    - id: 'clár%1:27:00::'
+      synset: 15126421-n
+    - id: 'clár%1:09:01::'
+      synset: 05907694-n
+    - id: 'clár%1:09:02::'
+      synset: 05919534-n
+    - id: 'clár%1:10:03::'
+      synset: 06519032-n
+    - id: 'clár%1:10:04::'
+      synset: 06631935-n
+    - id: 'clár%1:10:05::'
+      synset: 06689161-n
+    - id: 'clár%1:14:06::'
+      synset: 08283156-n
+clár comhardaithe:
+  n:
+    sense:
+    - id: 'clár_comhardaithe%1:21:00::'
+      synset: 13425137-n
+clár fichille:
+  n:
+    sense:
+    - id: 'clár_fichille%1:06:00::'
+      synset: 03017971-n
+clár leithris:
+  n:
+    sense:
+    - id: 'clár_leithris%1:06:00::'
+      synset: 04455132-n
+cláraigh:
+  v:
+    sense:
+    - id: 'cláraigh%2:32:00::'
+      synset: 01002259-v
+    - id: 'cláraigh%2:32:01::'
+      synset: 01003902-v
+    - id: 'cláraigh%2:41:02::'
+      synset: 02476750-v
+    - id: 'cláraigh%2:41:03::'
+      synset: 02477113-v
+cláraitheoir:
+  n:
+    sense:
+    - id: 'cláraitheoir%1:18:00::'
+      synset: 10536467-n
+clárchruit:
+  n:
+    sense:
+    - id: 'clárchruit%1:06:00::'
+      synset: 03501421-n
+clárú:
+  n:
+    sense:
+    - id: 'clárú%1:04:00::'
+      synset: 00050857-n
+clárúchán:
+  n:
+    sense:
+    - id: 'clárúchán%1:04:00::'
+      synset: 00050857-n
+clásal:
+  n:
+    sense:
+    - id: 'clásal%1:10:00::'
+      synset: 06325134-n
+    - id: 'clásal%1:10:01::'
+      synset: 06404578-n
+clástrafóibe:
+  n:
+    sense:
+    - id: 'clástrafóibe%1:26:00::'
+      synset: 14406657-n
+clé:
+  a:
+    sense:
+    - id: 'clé%3:00:00::'
+      synset: 02040360-a
+  n:
+    sense:
+    - id: 'clé%1:15:01::'
+      synset: 08643037-n
+clébhord:
+  n:
+    sense:
+    - id: 'clébhord%1:06:00::'
+      synset: 03648242-n
+cléireach:
+  n:
+    sense:
+    - id: 'cléireach%1:18:00::'
+      synset: 09947594-n
+    - id: 'cléireach%1:18:01::'
+      synset: 09947909-n
+cló rómhánach:
+  n:
+    sense:
+    - id: 'cló_rómhánach%1:10:00::'
+      synset: 06840553-n
+clóbhuail:
+  v:
+    sense:
+    - id: 'clóbhuail%2:36:00::'
+      synset: 01749530-v
+clóca:
+  n:
+    sense:
+    - id: 'clóca%1:06:00::'
+      synset: 03049322-n
+clódóir:
+  n:
+    sense:
+    - id: 'clódóir%1:06:00::'
+      synset: 04010851-n
+    - id: 'clódóir%1:18:01::'
+      synset: 10494882-n
+clódóireacht:
+  n:
+    sense:
+    - id: 'clódóireacht%1:04:00::'
+      synset: 01105064-n
+clóiríd:
+  n:
+    sense:
+    - id: 'clóiríd%1:27:00::'
+      synset: 15042171-n
+clóirín:
+  n:
+    sense:
+    - id: 'clóirín%1:27:00::'
+      synset: 14658769-n
+clón:
+  n:
+    sense:
+    - id: 'clón%1:14:00::'
+      synset: 07956482-n
+clóphreas:
+  n:
+    sense:
+    - id: 'clóphreas%1:06:00::'
+      synset: 04006669-n
+clóraplast:
+  n:
+    sense:
+    - id: 'clóraplast%1:20:00::'
+      synset: 12983752-n
+clós:
+  n:
+    sense:
+    - id: 'clós%1:06:00::'
+      synset: 04618236-n
+clóscríbhinn:
+  n:
+    sense:
+    - id: 'clóscríbhinn%1:10:00::'
+      synset: 06400752-n
+clú:
+  n:
+    sense:
+    - id: 'clú%1:26:00::'
+      synset: 14461591-n
+clúdach:
+  n:
+    sense:
+    - id: 'clúdach%1:04:00::'
+      synset: 01051609-n
+    - id: 'clúdach%1:06:01::'
+      synset: 02843848-n
+    - id: 'clúdach%1:06:02::'
+      synset: 03127399-n
+    - id: 'clúdach%1:06:03::'
+      synset: 03296652-n
+    - id: 'clúdach%1:06:04::'
+      synset: 04461181-n
+    - id: 'clúdach%1:07:05::'
+      synset: 05131025-n
+clúdach bog:
+  n:
+    sense:
+    - id: 'clúdach_bog%1:06:00::'
+      synset: 03892129-n
+clúdach crua:
+  n:
+    sense:
+    - id: 'clúdach_crua%1:06:00::'
+      synset: 03497492-n
+clúdach litreach:
+  n:
+    sense:
+    - id: 'clúdach_litreach%1:06:00::'
+      synset: 03296730-n
+clúdaigh:
+  v:
+    sense:
+    - id: 'clúdaigh%2:35:00::'
+      synset: 01210571-v
+    - id: 'clúdaigh%2:35:01::'
+      synset: 01335412-v
+    - id: 'clúdaigh%2:38:02::'
+      synset: 01916152-v
+    - id: 'clúdaigh%2:42:03::'
+      synset: 02693758-v
+clúiteach:
+  s:
+    sense:
+    - id: clúiteach%5:00:00:aitheanta:01
+      synset: 01378757-s
+clúmhillteach:
+  s:
+    sense:
+    - id: clúmhillteach%5:00:00:dochrach:01
+      synset: 01164777-s
+cnaipe:
+  n:
+    sense:
+    - id: 'cnaipe%1:06:00::'
+      synset: 02931992-n
+    - id: 'cnaipe%1:06:01::'
+      synset: 04033499-n
+cnapshuim:
+  n:
+    sense:
+    - id: 'cnapshuim%1:21:00::'
+      synset: 13320271-n
+cnapán:
+  n:
+    sense:
+    - id: 'cnapán%1:17:00::'
+      synset: 09330206-n
+cneasaigh:
+  v:
+    sense:
+    - id: 'cneasaigh%2:30:00::'
+      synset: 00261534-v
+cniogbheartaíocht:
+  n:
+    sense:
+    - id: 'cniogbheartaíocht%1:04:00::'
+      synset: 01150677-n
+cnoc:
+  n:
+    sense:
+    - id: 'cnoc%1:17:00::'
+      synset: 09325914-n
+cnota:
+  n:
+    sense:
+    - id: 'cnota%1:05:00::'
+      synset: 02031554-n
+cnádán:
+  n:
+    sense:
+    - id: 'cnádán%1:05:00::'
+      synset: 01649289-n
+cnáib:
+  n:
+    sense:
+    - id: 'cnáib%1:20:00::'
+      synset: 12417441-n
+cnáib uisce:
+  n:
+    sense:
+    - id: 'cnáib_uisce%1:20:00::'
+      synset: 11988804-n
+cnáimhseach:
+  n:
+    sense:
+    - id: 'cnáimhseach%1:18:00::'
+      synset: 10334494-n
+cnámh:
+  n:
+    sense:
+    - id: 'cnámh%1:08:00::'
+      synset: 05277400-n
+cnó:
+  n:
+    sense:
+    - id: 'cnó%1:20:00::'
+      synset: 13157333-n
+    - id: 'cnó%1:06:01::'
+      synset: 03841711-n
+cnó caisiú:
+  n:
+    sense:
+    - id: 'cnó_caisiú%1:13:00::'
+      synset: 07788123-n
+cobhsaitheoir:
+  n:
+    sense:
+    - id: 'cobhsaitheoir%1:06:00::'
+      synset: 04301350-n
+cobhsaíocht:
+  n:
+    sense:
+    - id: 'cobhsaíocht%1:07:00::'
+      synset: 04785640-n
+cocaitíl:
+  n:
+    sense:
+    - id: 'cocaitíl%1:05:00::'
+      synset: 01822375-n
+cochall:
+  n:
+    sense:
+    - id: 'cochall%1:06:00::'
+      synset: 03536461-n
+cocún:
+  n:
+    sense:
+    - id: 'cocún%1:05:00::'
+      synset: 02315396-n
+codail:
+  v:
+    sense:
+    - id: 'codail%2:29:00::'
+      synset: 00014735-v
+codarsnacht:
+  n:
+    sense:
+    - id: 'codarsnacht%1:24:00::'
+      synset: 13877824-n
+    - id: 'codarsnacht%1:09:01::'
+      synset: 05719031-n
+codladh:
+  n:
+    sense:
+    - id: 'codladh%1:26:00::'
+      synset: 14048353-n
+    - id: 'codladh%1:26:01::'
+      synset: 14053917-n
+codlaidín:
+  n:
+    sense:
+    - id: 'codlaidín%1:20:00::'
+      synset: 11922858-n
+codlaidíneach:
+  n:
+    sense:
+    - id: 'codlaidíneach%1:06:00::'
+      synset: 03856266-n
+codlatacht:
+  n:
+    sense:
+    - id: 'codlatacht%1:26:00::'
+      synset: 14053917-n
+codán:
+  n:
+    sense:
+    - id: 'codán%1:23:00::'
+      synset: 13754218-n
+codánach:
+  a:
+    sense:
+    - id: 'codánach%3:00:00::'
+      synset: 00518464-a
+cogadh:
+  n:
+    sense:
+    - id: 'cogadh%1:26:00::'
+      synset: 14004888-n
+    - id: 'cogadh%1:04:01::'
+      synset: 00975181-n
+cogal:
+  n:
+    sense:
+    - id: 'cogal%1:20:00::'
+      synset: 11826013-n
+cogaíocht:
+  n:
+    sense:
+    - id: 'cogaíocht%1:04:00::'
+      synset: 00975181-n
+cognaíoch:
+  a:
+    sense:
+    - id: 'cognaíoch%3:01:00::'
+      synset: 02909836-a
+cohórt:
+  n:
+    sense:
+    - id: 'cohórt%1:14:00::'
+      synset: 07959756-n
+coibhneas:
+  n:
+    sense:
+    - id: 'coibhneas%1:24:00::'
+      synset: 13802931-n
+    - id: 'coibhneas%1:24:01::'
+      synset: 13841419-n
+    - id: 'coibhneas%1:03:02::'
+      synset: 00032220-n
+coibhneasta:
+  a:
+    sense:
+    - id: 'coibhneasta%3:00:00::'
+      synset: 00006050-a
+coibhéis:
+  n:
+    sense:
+    - id: 'coibhéis%1:09:00::'
+      synset: 05703519-n
+coibhéiseach:
+  s:
+    sense:
+    - id: coibhéiseach%5:00:00:céanna:00
+      synset: 00893644-s
+coicís:
+  n:
+    sense:
+    - id: 'coicís%1:28:00::'
+      synset: 15195378-n
+coigeartaigh:
+  v:
+    sense:
+    - id: 'coigeartaigh%2:30:00::'
+      synset: 00296959-v
+coighir:
+  n:
+    sense:
+    - id: 'coighir%1:20:00::'
+      synset: 12608815-n
+coigistigh:
+  v:
+    sense:
+    - id: 'coigistigh%2:40:00::'
+      synset: 02278138-v
+coigistíocht:
+  n:
+    sense:
+    - id: 'coigistíocht%1:04:00::'
+      synset: 00086498-n
+coileán:
+  n:
+    sense:
+    - id: 'coileán%1:05:00::'
+      synset: 01325095-n
+coillearnach:
+  n:
+    sense:
+    - id: 'coillearnach%1:17:00::'
+      synset: 09306921-n
+coillteán:
+  n:
+    sense:
+    - id: 'coillteán%1:18:00::'
+      synset: 10086259-n
+coilíneacht:
+  n:
+    sense:
+    - id: 'coilíneacht%1:14:00::'
+      synset: 08012298-n
+    - id: 'coilíneacht%1:14:01::'
+      synset: 08390976-n
+coilíniú:
+  n:
+    sense:
+    - id: 'coilíniú%1:04:00::'
+      synset: 01254867-n
+coimeád:
+  n:
+    sense:
+    - id: 'coimeád%1:26:00::'
+      synset: 14023148-n
+    - id: 'coimeád%1:04:07::'
+      synset: 00268366-n
+    - id: 'coimeád%1:04:08::'
+      synset: 00812259-n
+    - id: 'coimeád%1:04:09::'
+      synset: 00820339-n
+  v:
+    sense:
+    - id: 'coimeád%2:40:01::'
+      synset: 02207166-v
+    - id: 'coimeád%2:40:02::'
+      synset: 02219267-v
+    - id: 'coimeád%2:40:03::'
+      synset: 02284977-v
+    - id: 'coimeád%2:41:04::'
+      synset: 02584957-v
+    - id: 'coimeád%2:42:05::'
+      synset: 02687605-v
+    - id: 'coimeád%2:42:06::'
+      synset: 02690747-v
+    - id: 'coimeád%2:40:10::'
+      synset: 02288169-v
+    - id: 'coimeád%2:41:11::'
+      synset: 02455370-v
+coimeád siar:
+  v:
+    sense:
+    - id: 'coimeád_siar%2:40:00::'
+      synset: 02288169-v
+coimeádach:
+  a:
+    sense:
+    - id: 'coimeádach%3:00:00::'
+      synset: 00576723-a
+coimeádachas:
+  n:
+    sense:
+    - id: 'coimeádachas%1:09:00::'
+      synset: 06225913-n
+coimeádaí:
+  n:
+    sense:
+    - id: 'coimeádaí%1:18:00::'
+      synset: 10003419-n
+    - id: 'coimeádaí%1:18:01::'
+      synset: 10003828-n
+coimeádán:
+  n:
+    sense:
+    - id: 'coimeádán%1:06:00::'
+      synset: 03099154-n
+    - id: 'coimeádán%1:06:01::'
+      synset: 03530634-n
+coimhdeach:
+  a:
+    sense:
+    - id: 'coimhdeach%3:00:00::'
+      synset: 02363453-a
+coimhlint:
+  n:
+    sense:
+    - id: 'coimhlint%1:04:00::'
+      synset: 00961007-n
+coimhlinteoir:
+  n:
+    sense:
+    - id: 'coimhlinteoir%1:18:00::'
+      synset: 09792668-n
+coimhthíoch:
+  a:
+    sense:
+    - id: 'coimhthíoch%3:00:00::'
+      synset: 01038689-a
+  n:
+    sense:
+    - id: 'coimhthíoch%1:18:01::'
+      synset: 10680441-n
+coimhéad:
+  v:
+    sense:
+    - id: 'coimhéad%2:32:00::'
+      synset: 01022014-v
+coimhéad ar:
+  v:
+    sense:
+    - id: 'coimhéad_ar%2:39:00::'
+      synset: 02154940-v
+coimircigh:
+  v:
+    sense:
+    - id: 'coimircigh%2:33:00::'
+      synset: 01140528-v
+coimisinéir:
+  n:
+    sense:
+    - id: 'coimisinéir%1:18:00::'
+      synset: 09963290-n
+coimisiún:
+  n:
+    sense:
+    - id: 'coimisiún%1:21:00::'
+      synset: 13341882-n
+    - id: 'coimisiún%1:04:01::'
+      synset: 01142792-n
+    - id: 'coimisiún%1:14:02::'
+      synset: 08341444-n
+coimisiúnaigh:
+  v:
+    sense:
+    - id: 'coimisiúnaigh%2:41:00::'
+      synset: 02480684-v
+coimpeart:
+  n:
+    sense:
+    - id: 'coimpeart%1:04:00::'
+      synset: 00846508-n
+coimpléasc:
+  n:
+    sense:
+    - id: 'coimpléasc%1:09:00::'
+      synset: 05878987-n
+coimpléascach:
+  a:
+    sense:
+    - id: 'coimpléascach%3:00:00::'
+      synset: 02183738-a
+coimpléascacht:
+  n:
+    sense:
+    - id: 'coimpléascacht%1:07:00::'
+      synset: 04773530-n
+coiméide:
+  n:
+    sense:
+    - id: 'coiméide%1:10:00::'
+      synset: 07028624-n
+coinbhinsiún:
+  n:
+    sense:
+    - id: 'coinbhinsiún%1:09:00::'
+      synset: 05675457-n
+    - id: 'coinbhinsiún%1:10:01::'
+      synset: 06787117-n
+coinbhleacht:
+  n:
+    sense:
+    - id: 'coinbhleacht%1:26:00::'
+      synset: 14004330-n
+    - id: 'coinbhleacht%1:04:01::'
+      synset: 00955670-n
+    - id: 'coinbhleacht%1:04:02::'
+      synset: 00961007-n
+coinbhéirseacht:
+  n:
+    sense:
+    - id: 'coinbhéirseacht%1:11:00::'
+      synset: 07429340-n
+coincheap:
+  n:
+    sense:
+    - id: 'coincheap%1:09:00::'
+      synset: 05842164-n
+    - id: 'coincheap%1:09:01::'
+      synset: 05844071-n
+coincheapúil:
+  a:
+    sense:
+    - id: 'coincheapúil%3:00:00::'
+      synset: 00012381-a
+coincréit:
+  n:
+    sense:
+    - id: 'coincréit%1:27:00::'
+      synset: 14844350-n
+coinlín reo:
+  n:
+    sense:
+    - id: 'coinlín_reo%1:27:00::'
+      synset: 14940079-n
+coinne:
+  n:
+    sense:
+    - id: 'coinne%1:14:00::'
+      synset: 08401740-n
+coinneal:
+  n:
+    sense:
+    - id: 'coinneal%1:06:00::'
+      synset: 02951508-n
+coinneal reo:
+  n:
+    sense:
+    - id: 'coinneal_reo%1:27:00::'
+      synset: 14940079-n
+coinneáil:
+  n:
+    sense:
+    - id: 'coinneáil%1:21:00::'
+      synset: 13386459-n
+    - id: 'coinneáil%1:26:01::'
+      synset: 14023148-n
+    - id: 'coinneáil%1:04:02::'
+      synset: 00268366-n
+    - id: 'coinneáil%1:04:03::'
+      synset: 00812259-n
+coinnigh:
+  v:
+    sense:
+    - id: 'coinnigh%2:35:00::'
+      synset: 01219234-v
+    - id: 'coinnigh%2:35:01::'
+      synset: 01219607-v
+    - id: 'coinnigh%2:40:02::'
+      synset: 02207166-v
+    - id: 'coinnigh%2:40:03::'
+      synset: 02230274-v
+    - id: 'coinnigh%2:40:04::'
+      synset: 02285938-v
+    - id: 'coinnigh%2:41:05::'
+      synset: 02415305-v
+    - id: 'coinnigh%2:41:06::'
+      synset: 02516039-v
+    - id: 'coinnigh%2:41:07::'
+      synset: 02584957-v
+    - id: 'coinnigh%2:42:08::'
+      synset: 02624202-v
+    - id: 'coinnigh%2:42:09::'
+      synset: 02687605-v
+    - id: 'coinnigh%2:42:10::'
+      synset: 02690747-v
+    - id: 'coinnigh%2:42:11::'
+      synset: 02706727-v
+    - id: 'coinnigh%2:42:12::'
+      synset: 02707488-v
+    - id: 'coinnigh%2:40:13::'
+      synset: 02288169-v
+coinnigh ar:
+  v:
+    sense:
+    - id: 'coinnigh_ar%2:42:00::'
+      synset: 02685709-v
+coinnigh greim ar:
+  v:
+    sense:
+    - id: 'coinnigh_greim_ar%2:42:00::'
+      synset: 02685709-v
+coinnigh siar:
+  v:
+    sense:
+    - id: 'coinnigh_siar%2:40:00::'
+      synset: 02288169-v
+    - id: 'coinnigh_siar%2:42:01::'
+      synset: 02647547-v
+coinnigh súil ar:
+  v:
+    sense:
+    - id: 'coinnigh_súil_ar%2:41:00::'
+      synset: 02460829-v
+coinníoll:
+  n:
+    sense:
+    - id: 'coinníoll%1:10:00::'
+      synset: 06768279-n
+    - id: 'coinníoll%1:10:01::'
+      synset: 06783666-n
+coinníollach:
+  a:
+    sense:
+    - id: 'coinníollach%3:00:00::'
+      synset: 00557545-a
+coinscríobh:
+  n:
+    sense:
+    - id: 'coinscríobh%1:04:00::'
+      synset: 01160337-n
+coinsias:
+  n:
+    sense:
+    - id: 'coinsias%1:16:00::'
+      synset: 09207033-n
+coinséartó:
+  n:
+    sense:
+    - id: 'coinséartó%1:10:00::'
+      synset: 07057021-n
+coinsíneacht:
+  n:
+    sense:
+    - id: 'coinsíneacht%1:04:00::'
+      synset: 00318743-n
+    - id: 'coinsíneacht%1:06:01::'
+      synset: 02967841-n
+coinsíneoir:
+  n:
+    sense:
+    - id: 'coinsíneoir%1:18:00::'
+      synset: 09978048-n
+coinsínigh:
+  v:
+    sense:
+    - id: 'coinsínigh%2:40:00::'
+      synset: 02352633-v
+coinsíní:
+  n:
+    sense:
+    - id: 'coinsíní%1:18:00::'
+      synset: 09977926-n
+coinín:
+  n:
+    sense:
+    - id: 'coinín%1:05:00::'
+      synset: 02326697-n
+coir:
+  n:
+    sense:
+    - id: 'coir%1:04:00::'
+      synset: 00767761-n
+coirdíneach:
+  a:
+    sense:
+    - id: 'coirdíneach%3:01:00::'
+      synset: 03090260-a
+coire:
+  n:
+    sense:
+    - id: 'coire%1:06:00::'
+      synset: 02867090-n
+    - id: 'coire%1:06:01::'
+      synset: 02942602-n
+coireolaíocht:
+  n:
+    sense:
+    - id: 'coireolaíocht%1:09:00::'
+      synset: 06161412-n
+coiriúil:
+  s:
+    sense:
+    - id: coiriúil%5:00:00:ciontach:00
+      synset: 01325275-s
+    - id: coiriúil%5:00:01:mídhleathach:00
+      synset: 01405767-s
+coiriúlacht:
+  n:
+    sense:
+    - id: 'coiriúlacht%1:26:00::'
+      synset: 14014831-n
+coirloscadh:
+  n:
+    sense:
+    - id: 'coirloscadh%1:04:00::'
+      synset: 00379104-n
+coirne:
+  n:
+    sense:
+    - id: 'coirne%1:08:00::'
+      synset: 05324904-n
+coirneach:
+  n:
+    sense:
+    - id: 'coirneach%1:05:00::'
+      synset: 01618727-n
+coirnéal:
+  n:
+    sense:
+    - id: 'coirnéal%1:06:00::'
+      synset: 03114137-n
+    - id: 'coirnéal%1:18:01::'
+      synset: 09956708-n
+coirpeach:
+  n:
+    sense:
+    - id: 'coirpeach%1:18:00::'
+      synset: 09997190-n
+coirpeacht eagraithe:
+  n:
+    sense:
+    - id: 'coirpeacht_eagraithe%1:14:00::'
+      synset: 08262093-n
+coirt:
+  n:
+    sense:
+    - id: 'coirt%1:20:00::'
+      synset: 13183195-n
+coirtéiseach:
+  a:
+    sense:
+    - id: 'coirtéiseach%3:01:00::'
+      synset: 02994161-a
+coiréal:
+  n:
+    sense:
+    - id: 'coiréal%1:05:00::'
+      synset: 01918452-n
+coisbheart:
+  n:
+    sense:
+    - id: 'coisbheart%1:06:00::'
+      synset: 03385972-n
+coisc:
+  v:
+    sense:
+    - id: 'coisc%2:32:00::'
+      synset: 00797525-v
+    - id: 'coisc%2:41:01::'
+      synset: 02458316-v
+    - id: 'coisc%2:41:02::'
+      synset: 02458770-v
+    - id: 'coisc%2:41:03::'
+      synset: 02565578-v
+    - id: 'coisc%2:42:04::'
+      synset: 02686624-v
+    - id: 'coisc%2:41:05::'
+      synset: 02455370-v
+coiscín:
+  n:
+    sense:
+    - id: 'coiscín%1:06:00::'
+      synset: 03092620-n
+coiste:
+  n:
+    sense:
+    - id: 'coiste%1:14:00::'
+      synset: 08341444-n
+coisí:
+  n:
+    sense:
+    - id: 'coisí%1:18:00::'
+      synset: 10431800-n
+coiteann:
+  a:
+    sense:
+    - id: 'coiteann%3:00:00::'
+      synset: 00487699-a
+    - id: 'coiteann%3:00:01::'
+      synset: 00494722-a
+  n:
+    sense:
+    - id: 'coiteann%1:15:02::'
+      synset: 08632949-n
+coitianta:
+  a:
+    sense:
+    - id: 'coitianta%3:00:00::'
+      synset: 00487699-a
+col ceathrair:
+  n:
+    sense:
+    - id: 'col_ceathrair%1:18:00::'
+      synset: 09991540-n
+colainn:
+  n:
+    sense:
+    - id: 'colainn%1:08:00::'
+      synset: 05223633-n
+colaistéaról:
+  n:
+    sense:
+    - id: 'colaistéaról%1:27:00::'
+      synset: 15083111-n
+colgán:
+  n:
+    sense:
+    - id: 'colgán%1:05:00::'
+      synset: 02632346-n
+collaigin:
+  n:
+    sense:
+    - id: 'collaigin%1:08:00::'
+      synset: 05294589-n
+colm:
+  n:
+    sense:
+    - id: 'colm%1:26:00::'
+      synset: 14386888-n
+colm aille:
+  n:
+    sense:
+    - id: 'colm_aille%1:05:00::'
+      synset: 01815303-n
+colmóir:
+  n:
+    sense:
+    - id: 'colmóir%1:05:00::'
+      synset: 02527155-n
+colscaradh:
+  n:
+    sense:
+    - id: 'colscaradh%1:04:00::'
+      synset: 01203761-n
+coláiste:
+  n:
+    sense:
+    - id: 'coláiste%1:14:00::'
+      synset: 08295245-n
+colún:
+  n:
+    sense:
+    - id: 'colún%1:06:00::'
+      synset: 03077981-n
+colúnaí:
+  n:
+    sense:
+    - id: 'colúnaí%1:18:00::'
+      synset: 09958612-n
+colúr:
+  n:
+    sense:
+    - id: 'colúr%1:05:00::'
+      synset: 01814550-n
+comaitéireacht:
+  n:
+    sense:
+    - id: 'comaitéireacht%1:04:00::'
+      synset: 00316526-n
+comaoin:
+  n:
+    sense:
+    - id: 'comaoin%1:21:00::'
+      synset: 13344335-n
+comh-aireacht:
+  n:
+    sense:
+    - id: 'comh-aireacht%1:14:00::'
+      synset: 08398551-n
+comhad:
+  n:
+    sense:
+    - id: 'comhad%1:10:00::'
+      synset: 06515542-n
+    - id: 'comhad%1:10:01::'
+      synset: 06520807-n
+comhaill:
+  v:
+    sense:
+    - id: 'comhaill%2:36:00::'
+      synset: 01644397-v
+comhaimseartha:
+  a:
+    sense:
+    - id: 'comhaimseartha%3:00:00::'
+      synset: 01539804-a
+  s:
+    sense:
+    - id: comhaimseartha%5:00:01:nua-aimseartha:00
+      synset: 01540189-s
+comhainm:
+  n:
+    sense:
+    - id: 'comhainm%1:10:00::'
+      synset: 06303429-n
+comhair:
+  v:
+    sense:
+    - id: 'comhair%2:32:00::'
+      synset: 00950103-v
+    - id: 'comhair%2:32:01::'
+      synset: 00952463-v
+comhair ar aghaidh:
+  v:
+    sense:
+    - id: 'comhair_ar_aghaidh%2:31:00::'
+      synset: 00713964-v
+comhaireamh:
+  n:
+    sense:
+    - id: 'comhaireamh%1:23:00::'
+      synset: 13612964-n
+    - id: 'comhaireamh%1:04:01::'
+      synset: 00635829-n
+comhairle:
+  n:
+    sense:
+    - id: 'comhairle%1:10:00::'
+      synset: 06684229-n
+    - id: 'comhairle%1:10:01::'
+      synset: 07157845-n
+    - id: 'comhairle%1:14:02::'
+      synset: 08327879-n
+comhairleach:
+  a:
+    sense:
+    - id: 'comhairleach%3:00:00::'
+      synset: 01307737-a
+comhairleacht:
+  n:
+    sense:
+    - id: 'comhairleacht%1:04:00::'
+      synset: 00632955-n
+comhairleoir:
+  n:
+    sense:
+    - id: 'comhairleoir%1:18:00::'
+      synset: 09793689-n
+    - id: 'comhairleoir%1:18:01::'
+      synset: 09988375-n
+comhairligh:
+  v:
+    sense:
+    - id: 'comhairligh%2:32:00::'
+      synset: 00874568-v
+comhairliúchán:
+  n:
+    sense:
+    - id: 'comhairliúchán%1:10:00::'
+      synset: 07157845-n
+comhalta:
+  n:
+    sense:
+    - id: 'comhalta%1:18:00::'
+      synset: 09955448-n
+    - id: 'comhalta%1:18:01::'
+      synset: 10326901-n
+comhaltas:
+  n:
+    sense:
+    - id: 'comhaltas%1:14:00::'
+      synset: 08417922-n
+comhaontaigh:
+  v:
+    sense:
+    - id: 'comhaontaigh%2:32:00::'
+      synset: 00766267-v
+    - id: 'comhaontaigh%2:32:01::'
+      synset: 00807038-v
+comhaontú:
+  n:
+    sense:
+    - id: 'comhaontú%1:26:00::'
+      synset: 13995348-n
+    - id: 'comhaontú%1:10:01::'
+      synset: 06783066-n
+comhar:
+  n:
+    sense:
+    - id: 'comhar%1:04:00::'
+      synset: 01205394-n
+    - id: 'comhar%1:04:01::'
+      synset: 01207646-n
+comharaíocht:
+  n:
+    sense:
+    - id: 'comharaíocht%1:24:00::'
+      synset: 13863412-n
+comharbas:
+  n:
+    sense:
+    - id: 'comharbas%1:04:00::'
+      synset: 00083574-n
+comharchumann:
+  n:
+    sense:
+    - id: 'comharchumann%1:04:00::'
+      synset: 01102782-n
+    - id: 'comharchumann%1:14:01::'
+      synset: 08244009-n
+comharsa:
+  n:
+    sense:
+    - id: 'comharsa%1:18:00::'
+      synset: 10372030-n
+comharsanacht:
+  n:
+    sense:
+    - id: 'comharsanacht%1:15:00::'
+      synset: 08658688-n
+comhartha:
+  n:
+    sense:
+    - id: 'comhartha%1:26:00::'
+      synset: 14323139-n
+    - id: 'comhartha%1:10:01::'
+      synset: 06659006-n
+    - id: 'comhartha%1:10:02::'
+      synset: 06804229-n
+comhartha athfhriotail:
+  n:
+    sense:
+    - id: 'comhartha_athfhriotail%1:10:00::'
+      synset: 06857249-n
+comhartha ceiste:
+  n:
+    sense:
+    - id: 'comhartha_ceiste%1:10:00::'
+      synset: 06857090-n
+comharthaíocht:
+  n:
+    sense:
+    - id: 'comharthaíocht%1:10:00::'
+      synset: 06804229-n
+comhbhailitheoir:
+  n:
+    sense:
+    - id: 'comhbhailitheoir%1:18:00::'
+      synset: 09956078-n
+comhbheartaithe:
+  a:
+    sense:
+    - id: 'comhbheartaithe%3:00:00::'
+      synset: 02119388-a
+comhbhráithreachas:
+  n:
+    sense:
+    - id: 'comhbhráithreachas%1:24:00::'
+      synset: 13835803-n
+comhbhrúiteoir:
+  n:
+    sense:
+    - id: 'comhbhrúiteoir%1:06:00::'
+      synset: 03086811-n
+comhchainteanna:
+  n:
+    sense:
+    - id: 'comhchainteanna%1:10:00::'
+      synset: 07162900-n
+comhcheangal:
+  n:
+    sense:
+    - id: 'comhcheangal%1:14:00::'
+      synset: 07980325-n
+comhcheilg:
+  n:
+    sense:
+    - id: 'comhcheilg%1:09:00::'
+      synset: 05917476-n
+comhchiallach:
+  n:
+    sense:
+    - id: 'comhchiallach%1:10:00::'
+      synset: 06314672-n
+comhchoibhneas:
+  n:
+    sense:
+    - id: 'comhchoibhneas%1:24:00::'
+      synset: 13863850-n
+comhchoirí:
+  n:
+    sense:
+    - id: 'comhchoirí%1:18:00::'
+      synset: 09780399-n
+comhchomhairleach:
+  a:
+    sense:
+    - id: 'comhchomhairleach%3:00:00::'
+      synset: 01307737-a
+comhchosúlacht:
+  n:
+    sense:
+    - id: 'comhchosúlacht%1:07:00::'
+      synset: 04750845-n
+comhchruinnigh:
+  v:
+    sense:
+    - id: 'comhchruinnigh%2:30:00::'
+      synset: 00406161-v
+comhchuibheas:
+  n:
+    sense:
+    - id: 'comhchuibheas%1:07:00::'
+      synset: 04720011-n
+    - id: 'comhchuibheas%1:07:01::'
+      synset: 04753172-n
+comhchuid:
+  n:
+    sense:
+    - id: 'comhchuid%1:06:00::'
+      synset: 03085025-n
+comhchuí:
+  a:
+    sense:
+    - id: 'comhchuí%3:00:00::'
+      synset: 00509948-a
+comhdaigh:
+  v:
+    sense:
+    - id: 'comhdaigh%2:32:00::'
+      synset: 01003688-v
+    - id: 'comhdaigh%2:32:01::'
+      synset: 01003902-v
+comhdhearbhaigh:
+  v:
+    sense:
+    - id: 'comhdhearbhaigh%2:31:00::'
+      synset: 00667804-v
+comhdhearcadh:
+  n:
+    sense:
+    - id: 'comhdhearcadh%1:26:00::'
+      synset: 13995348-n
+comhdheis:
+  n:
+    sense:
+    - id: 'comhdheis%1:07:00::'
+      synset: 05194266-n
+comhdhlúthadán:
+  n:
+    sense:
+    - id: 'comhdhlúthadán%1:06:00::'
+      synset: 03092065-n
+comhdhlúthú:
+  n:
+    sense:
+    - id: 'comhdhlúthú%1:22:00::'
+      synset: 13472521-n
+comhdháil:
+  n:
+    sense:
+    - id: 'comhdháil%1:14:00::'
+      synset: 08325427-n
+    - id: 'comhdháil%1:14:01::'
+      synset: 08326016-n
+comhdhéanamh:
+  n:
+    sense:
+    - id: 'comhdhéanamh%1:07:00::'
+      synset: 04940721-n
+  v:
+    sense:
+    - id: 'comhdhéanamh%2:42:01::'
+      synset: 02659476-v
+comhdhúil:
+  n:
+    sense:
+    - id: 'comhdhúil%1:27:00::'
+      synset: 14842408-n
+comhfhogasú:
+  n:
+    sense:
+    - id: 'comhfhogasú%1:09:00::'
+      synset: 05811387-n
+comhfhreagair:
+  v:
+    sense:
+    - id: 'comhfhreagair%2:32:00::'
+      synset: 01008855-v
+    - id: 'comhfhreagair%2:42:01::'
+      synset: 02663315-v
+    - id: 'comhfhreagair%2:42:02::'
+      synset: 02705339-v
+comhfhreagas:
+  v:
+    sense:
+    - id: 'comhfhreagas%2:42:00::'
+      synset: 02663315-v
+comhfhreagras:
+  n:
+    sense:
+    - id: 'comhfhreagras%1:10:00::'
+      synset: 06636121-n
+comhfhreagraí:
+  n:
+    sense:
+    - id: 'comhfhreagraí%1:18:00::'
+      synset: 09986084-n
+    - id: 'comhfhreagraí%1:18:01::'
+      synset: 09986240-n
+comhghairdeas:
+  n:
+    sense:
+    - id: 'comhghairdeas%1:10:00::'
+      synset: 06646403-n
+comhghairm:
+  n:
+    sense:
+    - id: 'comhghairm%1:04:00::'
+      synset: 01233339-n
+comhghaol:
+  n:
+    sense:
+    - id: 'comhghaol%1:24:00::'
+      synset: 13835803-n
+comhghleacaí:
+  n:
+    sense:
+    - id: 'comhghleacaí%1:18:00::'
+      synset: 09955673-n
+comhghuaillí:
+  n:
+    sense:
+    - id: 'comhghuaillí%1:14:00::'
+      synset: 08322872-n
+    - id: 'comhghuaillí%1:18:01::'
+      synset: 09804483-n
+comhghuaillíocht:
+  n:
+    sense:
+    - id: 'comhghuaillíocht%1:14:00::'
+      synset: 08310903-n
+comhghéilleadh:
+  n:
+    sense:
+    - id: 'comhghéilleadh%1:04:00::'
+      synset: 01208054-n
+comhiomlán:
+  a:
+    sense:
+    - id: 'comhiomlán%3:00:00::'
+      synset: 00469231-a
+  n:
+    sense:
+    - id: 'comhiomlán%1:06:01::'
+      synset: 04360881-n
+comhiompar:
+  n:
+    sense:
+    - id: 'comhiompar%1:22:00::'
+      synset: 13473787-n
+comhionann:
+  a:
+    sense:
+    - id: 'comhionann%3:00:00::'
+      synset: 01973553-a
+    - id: 'comhionann%3:00:01::'
+      synset: 02071531-a
+    - id: 'comhionann%3:00:02::'
+      synset: 00893124-a
+comhionannas:
+  n:
+    sense:
+    - id: 'comhionannas%1:07:00::'
+      synset: 04755139-n
+comhla:
+  n:
+    sense:
+    - id: 'comhla%1:06:00::'
+      synset: 04526448-n
+comhlachas:
+  n:
+    sense:
+    - id: 'comhlachas%1:14:00::'
+      synset: 08066153-n
+comhlacht:
+  n:
+    sense:
+    - id: 'comhlacht%1:14:00::'
+      synset: 07981699-n
+    - id: 'comhlacht%1:14:01::'
+      synset: 08074934-n
+    - id: 'comhlacht%1:14:02::'
+      synset: 08076706-n
+comhlathas:
+  n:
+    sense:
+    - id: 'comhlathas%1:15:00::'
+      synset: 08559966-n
+comhleanúnach:
+  a:
+    sense:
+    - id: 'comhleanúnach%3:00:00::'
+      synset: 00466504-a
+    - id: 'comhleanúnach%3:00:01::'
+      synset: 01671982-a
+comhlán:
+  a:
+    sense:
+    - id: 'comhlán%3:00:00::'
+      synset: 00522139-a
+    - id: 'comhlán%3:00:01::'
+      synset: 01587229-a
+comhlánaigh:
+  v:
+    sense:
+    - id: 'comhlánaigh%2:30:00::'
+      synset: 00456874-v
+comhlántach:
+  a:
+    sense:
+    - id: 'comhlántach%3:00:00::'
+      synset: 00049236-a
+comhlíon:
+  v:
+    sense:
+    - id: 'comhlíon%2:36:00::'
+      synset: 01644397-v
+    - id: 'comhlíon%2:36:01::'
+      synset: 01716563-v
+    - id: 'comhlíon%2:41:02::'
+      synset: 02547977-v
+    - id: 'comhlíon%2:41:03::'
+      synset: 02569639-v
+    - id: 'comhlíon%2:41:04::'
+      synset: 02584957-v
+    - id: 'comhlíon%2:42:05::'
+      synset: 02676679-v
+    - id: 'comhlíon%2:42:06::'
+      synset: 02677669-v
+    - id: 'comhlíon%2:34:07::'
+      synset: 01185870-v
+comhlíontacht:
+  n:
+    sense:
+    - id: 'comhlíontacht%1:04:00::'
+      synset: 01206166-n
+comhoibrigh:
+  v:
+    sense:
+    - id: 'comhoibrigh%2:41:00::'
+      synset: 02421408-v
+comhoibritheach:
+  a:
+    sense:
+    - id: 'comhoibritheach%3:00:00::'
+      synset: 00622827-a
+comhoibrí:
+  n:
+    sense:
+    - id: 'comhoibrí%1:18:00::'
+      synset: 09955673-n
+comhoiriúnacht:
+  n:
+    sense:
+    - id: 'comhoiriúnacht%1:07:00::'
+      synset: 04720011-n
+comhordaitheoir:
+  n:
+    sense:
+    - id: 'comhordaitheoir%1:18:00::'
+      synset: 09983393-n
+comhordanáid:
+  n:
+    sense:
+    - id: 'comhordanáid%1:09:00::'
+      synset: 06020279-n
+comhphobal:
+  n:
+    sense:
+    - id: 'comhphobal%1:14:00::'
+      synset: 08240723-n
+    - id: 'comhphobal%1:14:01::'
+      synset: 08241195-n
+comhpháirt:
+  n:
+    sense:
+    - id: 'comhpháirt%1:06:00::'
+      synset: 03085025-n
+comhpháirteachas:
+  n:
+    sense:
+    - id: 'comhpháirteachas%1:26:00::'
+      synset: 14014730-n
+comhpháirtí:
+  n:
+    sense:
+    - id: 'comhpháirtí%1:18:00::'
+      synset: 09954892-n
+comhrac:
+  n:
+    sense:
+    - id: 'comhrac%1:04:00::'
+      synset: 01173452-n
+comhraic:
+  v:
+    sense:
+    - id: 'comhraic%2:33:00::'
+      synset: 01093838-v
+    - id: 'comhraic%2:33:01::'
+      synset: 01094777-v
+    - id: 'comhraic%2:41:02::'
+      synset: 02421408-v
+comhraiceoir:
+  n:
+    sense:
+    - id: 'comhraiceoir%1:18:00::'
+      synset: 09958771-n
+comhriachtain:
+  n:
+    sense:
+    - id: 'comhriachtain%1:04:00::'
+      synset: 00847184-n
+comhrian:
+  n:
+    sense:
+    - id: 'comhrian%1:10:00::'
+      synset: 06814438-n
+comhroinn:
+  v:
+    sense:
+    - id: 'comhroinn%2:40:00::'
+      synset: 02300511-v
+comhrá:
+  n:
+    sense:
+    - id: 'comhrá%1:10:00::'
+      synset: 07148409-n
+    - id: 'comhrá%1:10:01::'
+      synset: 07149558-n
+    - id: 'comhrá%1:10:02::'
+      synset: 07150914-n
+    - id: 'comhrá%1:10:03::'
+      synset: 07155367-n
+comhréidh:
+  a:
+    sense:
+    - id: 'comhréidh%3:00:00::'
+      synset: 00913184-a
+comhréir:
+  n:
+    sense:
+    - id: 'comhréir%1:07:00::'
+      synset: 04720394-n
+    - id: 'comhréir%1:10:01::'
+      synset: 07191464-n
+comhréiteach:
+  n:
+    sense:
+    - id: 'comhréiteach%1:04:00::'
+      synset: 01208054-n
+comhshamhlaigh:
+  v:
+    sense:
+    - id: 'comhshamhlaigh%2:30:00::'
+      synset: 00160069-v
+comhsheasmhach:
+  a:
+    sense:
+    - id: 'comhsheasmhach%3:00:00::'
+      synset: 00579031-a
+comhsheasmhacht:
+  n:
+    sense:
+    - id: 'comhsheasmhacht%1:07:00::'
+      synset: 04753172-n
+    - id: 'comhsheasmhacht%1:07:01::'
+      synset: 04941723-n
+comhthaobhacht:
+  n:
+    sense:
+    - id: 'comhthaobhacht%1:21:00::'
+      synset: 13373880-n
+comhthimpeallach:
+  s:
+    sense:
+    - id: comhthimpeallach%5:00:00:cóngarach:02
+      synset: 00449787-s
+comhthiomsaigh:
+  v:
+    sense:
+    - id: 'comhthiomsaigh%2:40:00::'
+      synset: 02300803-v
+comhthionól:
+  n:
+    sense:
+    - id: 'comhthionól%1:14:00::'
+      synset: 08180691-n
+comhthoil:
+  n:
+    sense:
+    - id: 'comhthoil%1:26:00::'
+      synset: 13995348-n
+comhthreomhar:
+  a:
+    sense:
+    - id: 'comhthreomhar%3:00:00::'
+      synset: 01722394-a
+comhthreomharán:
+  n:
+    sense:
+    - id: 'comhthreomharán%1:25:00::'
+      synset: 13903832-n
+comhthráthach:
+  a:
+    sense:
+    - id: 'comhthráthach%3:00:00::'
+      synset: 02387064-a
+comhtháite:
+  s:
+    sense:
+    - id: comhtháite%5:00:00:aontaithe:00
+      synset: 02487032-s
+    - id: comhtháite%5:00:01:intreach:00
+      synset: 01351376-s
+comhtháthaigh:
+  v:
+    sense:
+    - id: 'comhtháthaigh%2:30:00::'
+      synset: 00467564-v
+comhthéacs:
+  n:
+    sense:
+    - id: 'comhthéacs%1:26:00::'
+      synset: 14536419-n
+    - id: 'comhthéacs%1:10:01::'
+      synset: 06295551-n
+comhthíreach:
+  n:
+    sense:
+    - id: 'comhthíreach%1:18:00::'
+      synset: 09990229-n
+comhuaineach:
+  a:
+    sense:
+    - id: 'comhuaineach%3:00:00::'
+      synset: 02387064-a
+    - id: 'comhuaineach%3:00:01::'
+      synset: 02387725-a
+comhábhar:
+  n:
+    sense:
+    - id: 'comhábhar%1:06:00::'
+      synset: 03085025-n
+    - id: 'comhábhar%1:06:01::'
+      synset: 03575860-n
+comhéadan:
+  n:
+    sense:
+    - id: 'comhéadan%1:09:00::'
+      synset: 05772776-n
+    - id: 'comhéadan%1:10:01::'
+      synset: 06587403-n
+comhéifeacht:
+  n:
+    sense:
+    - id: 'comhéifeacht%1:23:00::'
+      synset: 13607325-n
+comhéigean:
+  n:
+    sense:
+    - id: 'comhéigean%1:04:00::'
+      synset: 00157632-n
+comhéigneach:
+  a:
+    sense:
+    - id: 'comhéigneach%3:00:00::'
+      synset: 01832045-a
+comparáideach:
+  a:
+    sense:
+    - id: 'comparáideach%3:01:00::'
+      synset: 03002422-a
+    - id: 'comparáideach%3:00:01::'
+      synset: 00006050-a
+compánach:
+  n:
+    sense:
+    - id: 'compánach%1:18:00::'
+      synset: 09965384-n
+compás:
+  n:
+    sense:
+    - id: 'compás%1:06:00::'
+      synset: 03084501-n
+    - id: 'compás%1:06:01::'
+      synset: 03084637-n
+comórtas:
+  n:
+    sense:
+    - id: 'comórtas%1:11:00::'
+      synset: 07470961-n
+común:
+  n:
+    sense:
+    - id: 'común%1:15:00::'
+      synset: 08559172-n
+conablach:
+  n:
+    sense:
+    - id: 'conablach%1:05:00::'
+      synset: 01761398-n
+conair:
+  n:
+    sense:
+    - id: 'conair%1:06:00::'
+      synset: 03905025-n
+    - id: 'conair%1:06:01::'
+      synset: 03905230-n
+    - id: 'conair%1:08:02::'
+      synset: 05518558-n
+    - id: 'conair%1:19:03::'
+      synset: 11501734-n
+conarthach:
+  a:
+    sense:
+    - id: 'conarthach%3:01:00::'
+      synset: 02713392-a
+conbhua:
+  n:
+    sense:
+    - id: 'conbhua%1:14:00::'
+      synset: 08434758-n
+conclúid:
+  n:
+    sense:
+    - id: 'conclúid%1:09:00::'
+      synset: 05846685-n
+conclúidigh:
+  v:
+    sense:
+    - id: 'conclúidigh%2:31:00::'
+      synset: 00636134-v
+conradh:
+  n:
+    sense:
+    - id: 'conradh%1:10:00::'
+      synset: 06532935-n
+    - id: 'conradh%1:10:01::'
+      synset: 06786235-n
+conraigh:
+  v:
+    sense:
+    - id: 'conraigh%2:32:00::'
+      synset: 00890307-v
+conraitheoir:
+  n:
+    sense:
+    - id: 'conraitheoir%1:18:00::'
+      synset: 09980167-n
+conriocht:
+  n:
+    sense:
+    - id: 'conriocht%1:18:00::'
+      synset: 09526253-n
+consal:
+  n:
+    sense:
+    - id: 'consal%1:18:00::'
+      synset: 09979276-n
+consalach:
+  a:
+    sense:
+    - id: 'consalach%3:01:00::'
+      synset: 03067709-a
+consalacht:
+  n:
+    sense:
+    - id: 'consalacht%1:06:00::'
+      synset: 03097883-n
+conspóid:
+  n:
+    sense:
+    - id: 'conspóid%1:10:00::'
+      synset: 07197811-n
+conspóideach:
+  a:
+    sense:
+    - id: 'conspóideach%3:00:00::'
+      synset: 00604427-a
+  s:
+    sense:
+    - id: conspóideach%5:00:01:conspóideach:00
+      synset: 00604937-s
+constaic:
+  n:
+    sense:
+    - id: 'constaic%1:06:00::'
+      synset: 03845315-n
+    - id: 'constaic%1:09:01::'
+      synset: 05698074-n
+    - id: 'constaic%1:09:02::'
+      synset: 05698721-n
+    - id: 'constaic%1:09:03::'
+      synset: 05699206-n
+contae:
+  n:
+    sense:
+    - id: 'contae%1:15:00::'
+      synset: 08563758-n
+contrártha:
+  a:
+    sense:
+    - id: 'contrártha%3:00:01::'
+      synset: 00580271-a
+  s:
+    sense:
+    - id: contrártha%5:00:00:éagsúil:03
+      synset: 02073362-s
+contúirt:
+  n:
+    sense:
+    - id: 'contúirt%1:26:00::'
+      synset: 14564367-n
+contúirteach:
+  a:
+    sense:
+    - id: 'contúirteach%3:00:00::'
+      synset: 02066198-a
+  s:
+    sense:
+    - id: contúirteach%5:00:01:contúirteach:00
+      synset: 02067215-s
+copar:
+  n:
+    sense:
+    - id: 'copar%1:27:00::'
+      synset: 14659900-n
+coraintín:
+  n:
+    sense:
+    - id: 'coraintín%1:26:00::'
+      synset: 14438739-n
+corcairdhearg:
+  a:
+    sense:
+    - id: 'corcairdhearg%3:00:00::'
+      synset: 00382159-a
+corcrán coille:
+  n:
+    sense:
+    - id: 'corcrán_coille%1:05:00::'
+      synset: 01536796-n
+corda:
+  n:
+    sense:
+    - id: 'corda%1:06:00::'
+      synset: 03110761-n
+corda an dromlaigh:
+  n:
+    sense:
+    - id: 'corda_an_dromlaigh%1:08:00::'
+      synset: 05511356-n
+corna:
+  n:
+    sense:
+    - id: 'corna%1:06:00::'
+      synset: 03069428-n
+corp:
+  n:
+    sense:
+    - id: 'corp%1:08:00::'
+      synset: 05223633-n
+corparáid:
+  n:
+    sense:
+    - id: 'corparáid%1:14:00::'
+      synset: 08076248-n
+corparáideach:
+  a:
+    sense:
+    - id: 'corparáideach%3:01:00::'
+      synset: 02996213-a
+corpfhorbairt:
+  n:
+    sense:
+    - id: 'corpfhorbairt%1:04:00::'
+      synset: 00627233-n
+corpraigh:
+  v:
+    sense:
+    - id: 'corpraigh%2:41:00::'
+      synset: 02452944-v
+corpán:
+  n:
+    sense:
+    - id: 'corpán%1:08:00::'
+      synset: 05225393-n
+corr:
+  a:
+    sense:
+    - id: 'corr%3:00:00::'
+      synset: 00929746-a
+corraigh:
+  v:
+    sense:
+    - id: 'corraigh%2:37:00::'
+      synset: 01771801-v
+    - id: 'corraigh%2:38:01::'
+      synset: 01893603-v
+corrchopóg:
+  n:
+    sense:
+    - id: 'corrchopóg%1:20:00::'
+      synset: 12632931-n
+corrlach:
+  n:
+    sense:
+    - id: 'corrlach%1:21:00::'
+      synset: 13372293-n
+corrmhéar:
+  n:
+    sense:
+    - id: 'corrmhéar%1:08:00::'
+      synset: 05575014-n
+corruair:
+  r:
+    sense:
+    - id: 'corruair%4:02:00::'
+      synset: 00021667-r
+corrán:
+  n:
+    sense:
+    - id: 'corrán%1:25:00::'
+      synset: 13918910-n
+coróin:
+  n:
+    sense:
+    - id: 'coróin%1:06:00::'
+      synset: 03143320-n
+cos:
+  n:
+    sense:
+    - id: 'cos%1:08:00::'
+      synset: 05568420-n
+    - id: 'cos%1:08:01::'
+      synset: 05570899-n
+cos-slua:
+  n:
+    sense:
+    - id: 'cos-slua%1:14:00::'
+      synset: 08407114-n
+cosain:
+  v:
+    sense:
+    - id: 'cosain%2:33:00::'
+      synset: 01093838-v
+    - id: 'cosain%2:33:01::'
+      synset: 01130619-v
+    - id: 'cosain%2:33:02::'
+      synset: 01140528-v
+    - id: 'cosain%2:41:03::'
+      synset: 02458770-v
+    - id: 'cosain%2:42:04::'
+      synset: 02708368-v
+    - id: 'cosain%2:41:05::'
+      synset: 02455370-v
+cosaint:
+  n:
+    sense:
+    - id: 'cosaint%1:04:00::'
+      synset: 00824631-n
+    - id: 'cosaint%1:04:01::'
+      synset: 00825411-n
+    - id: 'cosaint%1:04:02::'
+      synset: 00956422-n
+    - id: 'cosaint%1:14:03::'
+      synset: 08081359-n
+cosaint a thabhairt ar:
+  v:
+    sense:
+    - id: 'cosaint_a_thabhairt_ar%2:31:00::'
+      synset: 00664507-v
+cosanta:
+  a:
+    sense:
+    - id: 'cosanta%3:00:00::'
+      synset: 01893175-a
+cosantach:
+  a:
+    sense:
+    - id: 'cosantach%3:00:00::'
+      synset: 01893175-a
+cosantóir:
+  n:
+    sense:
+    - id: 'cosantóir%1:18:00::'
+      synset: 09637714-n
+    - id: 'cosantóir%1:18:01::'
+      synset: 09781524-n
+cosc:
+  n:
+    sense:
+    - id: 'cosc%1:04:00::'
+      synset: 00202772-n
+    - id: 'cosc%1:04:01::'
+      synset: 01079274-n
+    - id: 'cosc%1:09:02::'
+      synset: 05697054-n
+    - id: 'cosc%1:10:03::'
+      synset: 06554038-n
+coscaire:
+  n:
+    sense:
+    - id: 'coscaire%1:27:00::'
+      synset: 14748597-n
+coscán:
+  n:
+    sense:
+    - id: 'coscán%1:06:00::'
+      synset: 02892666-n
+cosdeargán:
+  n:
+    sense:
+    - id: 'cosdeargán%1:05:00::'
+      synset: 02030689-n
+coslia:
+  n:
+    sense:
+    - id: 'coslia%1:18:00::'
+      synset: 09938755-n
+cosmaid:
+  n:
+    sense:
+    - id: 'cosmaid%1:06:00::'
+      synset: 03117803-n
+cosmeolaí:
+  n:
+    sense:
+    - id: 'cosmeolaí%1:18:00::'
+      synset: 09839072-n
+cosmeolaíocht:
+  n:
+    sense:
+    - id: 'cosmeolaíocht%1:09:00::'
+      synset: 06107802-n
+cost-éifeachtúil:
+  s:
+    sense:
+    - id: cost-éifeachtúil%5:00:00:éifeachtach:01
+      synset: 00843642-s
+costas:
+  n:
+    sense:
+    - id: 'costas%1:21:00::'
+      synset: 13296870-n
+costasach:
+  a:
+    sense:
+    - id: 'costasach%3:00:00::'
+      synset: 00936423-a
+cosán:
+  n:
+    sense:
+    - id: 'cosán%1:06:00::'
+      synset: 03905025-n
+    - id: 'cosán%1:06:01::'
+      synset: 03905230-n
+cosúil:
+  a:
+    sense:
+    - id: 'cosúil%3:00:00::'
+      synset: 02078824-a
+    - id: 'cosúil%3:00:01::'
+      synset: 01412553-a
+cosúlacht:
+  n:
+    sense:
+    - id: 'cosúlacht%1:07:00::'
+      synset: 04750845-n
+cosúlacht a bheith ar:
+  v:
+    sense:
+    - id: 'cosúlacht_a_bheith_ar%2:39:00::'
+      synset: 02137900-v
+cothaigh:
+  v:
+    sense:
+    - id: 'cothaigh%2:31:00::'
+      synset: 00667804-v
+    - id: 'cothaigh%2:34:01::'
+      synset: 01183463-v
+    - id: 'cothaigh%2:34:02::'
+      synset: 01184318-v
+    - id: 'cothaigh%2:35:03::'
+      synset: 01219607-v
+    - id: 'cothaigh%2:41:04::'
+      synset: 02560130-v
+    - id: 'cothaigh%2:41:05::'
+      synset: 02560630-v
+cothaitheach:
+  a:
+    sense:
+    - id: 'cothaitheach%3:00:00::'
+      synset: 02568489-a
+  n:
+    sense:
+    - id: 'cothaitheach%1:03:01::'
+      synset: 00021445-n
+cothrom:
+  a:
+    sense:
+    - id: 'cothrom%3:00:00::'
+      synset: 00893124-a
+    - id: 'cothrom%3:00:02::'
+      synset: 00896734-a
+    - id: 'cothrom%3:00:03::'
+      synset: 00913184-a
+    - id: 'cothrom%3:00:04::'
+      synset: 00959321-a
+    - id: 'cothrom%3:00:05::'
+      synset: 00961341-a
+  n:
+    sense:
+    - id: 'cothrom%1:07:06::'
+      synset: 04755666-n
+    - id: 'cothrom%1:07:07::'
+      synset: 04846385-n
+  s:
+    sense:
+    - id: cothrom%5:00:01:céanna:00
+      synset: 00893644-s
+cothrom an lae:
+  n:
+    sense:
+    - id: 'cothrom_an_lae%1:28:00::'
+      synset: 15274610-n
+cothromas:
+  n:
+    sense:
+    - id: 'cothromas%1:21:00::'
+      synset: 13354435-n
+    - id: 'cothromas%1:07:01::'
+      synset: 04846385-n
+cothromasach:
+  a:
+    sense:
+    - id: 'cothromasach%3:00:00::'
+      synset: 00961341-a
+cothromaíocht:
+  n:
+    sense:
+    - id: 'cothromaíocht%1:26:00::'
+      synset: 13957933-n
+    - id: 'cothromaíocht%1:26:01::'
+      synset: 14025764-n
+cothrománach:
+  a:
+    sense:
+    - id: 'cothrománach%3:00:00::'
+      synset: 01235508-a
+cothromóid:
+  n:
+    sense:
+    - id: 'cothromóid%1:10:00::'
+      synset: 06682609-n
+cothú:
+  n:
+    sense:
+    - id: 'cothú%1:10:00::'
+      synset: 07266874-n
+    - id: 'cothú%1:13:01::'
+      synset: 07586285-n
+craein:
+  n:
+    sense:
+    - id: 'craein%1:06:00::'
+      synset: 03131358-n
+craiceann:
+  n:
+    sense:
+    - id: 'craiceann%1:05:00::'
+      synset: 01898376-n
+    - id: 'craiceann%1:08:01::'
+      synset: 05245612-n
+    - id: 'craiceann%1:13:02::'
+      synset: 07754329-n
+craiceann an chinn:
+  n:
+    sense:
+    - id: 'craiceann_an_chinn%1:08:00::'
+      synset: 05547580-n
+craift:
+  n:
+    sense:
+    - id: 'craift%1:27:00::'
+      synset: 14903131-n
+crann:
+  n:
+    sense:
+    - id: 'crann%1:20:00::'
+      synset: 13124818-n
+crann caisiú:
+  n:
+    sense:
+    - id: 'crann_caisiú%1:20:00::'
+      synset: 12780033-n
+crann cnó capaill:
+  n:
+    sense:
+    - id: 'crann_cnó_capaill%1:20:00::'
+      synset: 12789129-n
+crann meispeal:
+  n:
+    sense:
+    - id: 'crann_meispeal%1:20:00::'
+      synset: 12656985-n
+crann taca:
+  n:
+    sense:
+    - id: 'crann_taca%1:09:00::'
+      synset: 05702197-n
+crannchur:
+  n:
+    sense:
+    - id: 'crannchur%1:06:00::'
+      synset: 03238126-n
+crannlann:
+  n:
+    sense:
+    - id: 'crannlann%1:06:00::'
+      synset: 02736080-n
+crannteorainn:
+  n:
+    sense:
+    - id: 'crannteorainn%1:15:00::'
+      synset: 08565230-n
+crannóg:
+  n:
+    sense:
+    - id: 'crannóg%1:06:00::'
+      synset: 03144649-n
+craobh:
+  n:
+    sense:
+    - id: 'craobh%1:14:00::'
+      synset: 08418205-n
+craol:
+  v:
+    sense:
+    - id: 'craol%2:32:00::'
+      synset: 00975088-v
+craolachán:
+  n:
+    sense:
+    - id: 'craolachán%1:10:00::'
+      synset: 06274829-n
+craoltóir:
+  n:
+    sense:
+    - id: 'craoltóir%1:18:00::'
+      synset: 09895252-n
+craoltóireacht:
+  n:
+    sense:
+    - id: 'craoltóireacht%1:10:00::'
+      synset: 06274829-n
+craosaire:
+  n:
+    sense:
+    - id: 'craosaire%1:05:00::'
+      synset: 01486471-n
+creachadóir:
+  n:
+    sense:
+    - id: 'creachadóir%1:05:00::'
+      synset: 02155392-n
+    - id: 'creachadóir%1:18:01::'
+      synset: 10462744-n
+creamh:
+  n:
+    sense:
+    - id: 'creamh%1:20:00::'
+      synset: 12456154-n
+creatlach:
+  n:
+    sense:
+    - id: 'creatlach%1:08:00::'
+      synset: 05593033-n
+creid:
+  v:
+    sense:
+    - id: 'creid%2:31:00::'
+      synset: 00633399-v
+    - id: 'creid%2:31:01::'
+      synset: 00685199-v
+    - id: 'creid%2:31:02::'
+      synset: 00691086-v
+    - id: 'creid%2:31:03::'
+      synset: 00692380-v
+    - id: 'creid%2:31:04::'
+      synset: 00717144-v
+    - id: 'creid%2:31:05::'
+      synset: 00723022-v
+creideamh:
+  n:
+    sense:
+    - id: 'creideamh%1:09:00::'
+      synset: 05955536-n
+creidimh:
+  s:
+    sense:
+    - id: creidimh%5:00:00:naofa:00
+      synset: 02063669-s
+creidiúnaigh:
+  v:
+    sense:
+    - id: 'creidiúnaigh%2:41:00::'
+      synset: 02480958-v
+creidiúnaí:
+  n:
+    sense:
+    - id: 'creidiúnaí%1:18:00::'
+      synset: 09996258-n
+creidmheas:
+  n:
+    sense:
+    - id: 'creidmheas%1:21:00::'
+      synset: 13395454-n
+creimeadh:
+  n:
+    sense:
+    - id: 'creimeadh%1:22:00::'
+      synset: 13474601-n
+creimire:
+  n:
+    sense:
+    - id: 'creimire%1:05:00::'
+      synset: 02332053-n
+creimneach:
+  s:
+    sense:
+    - id: creimneach%5:00:00:díobhálach:00
+      synset: 00590069-s
+criathar:
+  n:
+    sense:
+    - id: 'criathar%1:06:00::'
+      synset: 04223701-n
+crioptón:
+  n:
+    sense:
+    - id: 'crioptón%1:27:00::'
+      synset: 14667094-n
+crios:
+  n:
+    sense:
+    - id: 'crios%1:06:00::'
+      synset: 02830790-n
+    - id: 'crios%1:06:01::'
+      synset: 02831067-n
+    - id: 'crios%1:15:02::'
+      synset: 08526463-n
+criospa:
+  n:
+    sense:
+    - id: 'criospa%1:13:00::'
+      synset: 07728304-n
+criostalú:
+  n:
+    sense:
+    - id: 'criostalú%1:19:00::'
+      synset: 11430412-n
+crith:
+  n:
+    sense:
+    - id: 'crith%1:04:00::'
+      synset: 00346752-n
+criticiúil:
+  a:
+    sense:
+    - id: 'criticiúil%3:00:00::'
+      synset: 00654957-a
+    - id: 'criticiúil%3:00:01::'
+      synset: 00907116-a
+critéar:
+  n:
+    sense:
+    - id: 'critéar%1:10:00::'
+      synset: 07275291-n
+crián:
+  n:
+    sense:
+    - id: 'crián%1:06:00::'
+      synset: 03132899-n
+crobhaing:
+  n:
+    sense:
+    - id: 'crobhaing%1:06:00::'
+      synset: 02882329-n
+croch:
+  v:
+    sense:
+    - id: 'croch%2:35:00::'
+      synset: 01484705-v
+    - id: 'croch%2:41:01::'
+      synset: 02491069-v
+crochadh:
+  n:
+    sense:
+    - id: 'crochadh%1:04:00::'
+      synset: 01167364-n
+croiméal:
+  n:
+    sense:
+    - id: 'croiméal%1:08:00::'
+      synset: 05269684-n
+croiniceoir:
+  n:
+    sense:
+    - id: 'croiniceoir%1:18:00::'
+      synset: 09940626-n
+croith:
+  v:
+    sense:
+    - id: 'croith%2:38:00::'
+      synset: 01893603-v
+crom:
+  v:
+    sense:
+    - id: 'crom%2:38:00::'
+      synset: 02042202-v
+cromfhearsaid:
+  n:
+    sense:
+    - id: 'cromfhearsaid%1:06:00::'
+      synset: 03132059-n
+cromleac:
+  n:
+    sense:
+    - id: 'cromleac%1:06:00::'
+      synset: 03224940-n
+cromán:
+  n:
+    sense:
+    - id: 'cromán%1:08:00::'
+      synset: 05563958-n
+cromán móna:
+  n:
+    sense:
+    - id: 'cromán_móna%1:05:00::'
+      synset: 01612597-n
+cros:
+  v:
+    sense:
+    - id: 'cros%2:32:00::'
+      synset: 00797525-v
+crosaire:
+  n:
+    sense:
+    - id: 'crosaire%1:06:00::'
+      synset: 03141879-n
+crosaire comhréidh:
+  n:
+    sense:
+    - id: 'crosaire_comhréidh%1:06:00::'
+      synset: 03664448-n
+crosghob:
+  n:
+    sense:
+    - id: 'crosghob%1:05:00::'
+      synset: 01536534-n
+crostagairt:
+  n:
+    sense:
+    - id: 'crostagairt%1:10:00::'
+      synset: 06777578-n
+crosán:
+  n:
+    sense:
+    - id: 'crosán%1:05:00::'
+      synset: 02048518-n
+crotal:
+  n:
+    sense:
+    - id: 'crotal%1:27:00::'
+      synset: 14830069-n
+crotharnach:
+  n:
+    sense:
+    - id: 'crotharnach%1:20:00::'
+      synset: 12110363-n
+croí:
+  n:
+    sense:
+    - id: 'croí%1:06:00::'
+      synset: 03112367-n
+    - id: 'croí%1:08:01::'
+      synset: 05396148-n
+    - id: 'croí%1:09:02::'
+      synset: 05927857-n
+croílár:
+  n:
+    sense:
+    - id: 'croílár%1:15:00::'
+      synset: 08540894-n
+crua:
+  a:
+    sense:
+    - id: 'crua%3:00:00::'
+      synset: 00748528-a
+crua-adhmad:
+  n:
+    sense:
+    - id: 'crua-adhmad%1:27:00::'
+      synset: 15124679-n
+crua-earra:
+  n:
+    sense:
+    - id: 'crua-earra%1:06:00::'
+      synset: 03498434-n
+    - id: 'crua-earra%1:06:01::'
+      synset: 03498893-n
+cruach:
+  n:
+    sense:
+    - id: 'cruach%1:27:00::'
+      synset: 14826620-n
+    - id: 'cruach%1:14:01::'
+      synset: 07979701-n
+cruas:
+  n:
+    sense:
+    - id: 'cruas%1:07:00::'
+      synset: 04945025-n
+cruatan:
+  n:
+    sense:
+    - id: 'cruatan%1:26:00::'
+      synset: 14499245-n
+cruimh chadáis:
+  n:
+    sense:
+    - id: 'cruimh_chadáis%1:05:00::'
+      synset: 02181369-n
+cruinn:
+  a:
+    sense:
+    - id: 'cruinn%3:00:00::'
+      synset: 01843460-a
+    - id: 'cruinn%3:00:01::'
+      synset: 00021803-a
+    - id: 'cruinn%3:00:02::'
+      synset: 02048059-a
+    - id: 'cruinn%3:00:03::'
+      synset: 00634232-a
+    - id: 'cruinn%3:00:04::'
+      synset: 00917535-a
+cruinne:
+  n:
+    sense:
+    - id: 'cruinne%1:17:00::'
+      synset: 09489410-n
+cruinneachán:
+  n:
+    sense:
+    - id: 'cruinneachán%1:06:00::'
+      synset: 03225216-n
+cruinneas:
+  n:
+    sense:
+    - id: 'cruinneas%1:07:00::'
+      synset: 04809447-n
+    - id: 'cruinneas%1:07:01::'
+      synset: 04811129-n
+cruinnigh:
+  v:
+    sense:
+    - id: 'cruinnigh%2:36:00::'
+      synset: 01660471-v
+    - id: 'cruinnigh%2:40:01::'
+      synset: 02311261-v
+    - id: 'cruinnigh%2:41:02::'
+      synset: 02433771-v
+cruinniú:
+  n:
+    sense:
+    - id: 'cruinniú%1:14:00::'
+      synset: 07991473-n
+    - id: 'cruinniú%1:14:01::'
+      synset: 08324519-n
+cruitchorda:
+  n:
+    sense:
+    - id: 'cruitchorda%1:06:00::'
+      synset: 03501421-n
+cruithneacht:
+  n:
+    sense:
+    - id: 'cruithneacht%1:20:00::'
+      synset: 12162602-n
+cruithneacht chrua:
+  n:
+    sense:
+    - id: 'cruithneacht_chrua%1:20:00::'
+      synset: 12162967-n
+cruitire:
+  n:
+    sense:
+    - id: 'cruitire%1:18:00::'
+      synset: 10180363-n
+cruth:
+  n:
+    sense:
+    - id: 'cruth%1:07:01::'
+      synset: 05071206-n
+  v:
+    sense:
+    - id: 'cruth%2:31:00::'
+      synset: 00702806-v
+cruthaigh:
+  v:
+    sense:
+    - id: 'cruthaigh%2:31:00::'
+      synset: 00666706-v
+    - id: 'cruthaigh%2:31:01::'
+      synset: 00667804-v
+    - id: 'cruthaigh%2:36:02::'
+      synset: 01620211-v
+    - id: 'cruthaigh%2:36:03::'
+      synset: 01624592-v
+    - id: 'cruthaigh%2:36:04::'
+      synset: 01635953-v
+    - id: 'cruthaigh%2:41:05::'
+      synset: 02537291-v
+    - id: 'cruthaigh%2:32:06::'
+      synset: 01017253-v
+    - id: 'cruthaigh%2:36:07::'
+      synset: 01757596-v
+    - id: 'cruthaigh%2:42:08::'
+      synset: 02627475-v
+    - id: 'cruthaigh%2:42:09::'
+      synset: 02639962-v
+cruthaitheach:
+  a:
+    sense:
+    - id: 'cruthaitheach%3:00:00::'
+      synset: 00646272-a
+cruthaitheacht:
+  n:
+    sense:
+    - id: 'cruthaitheacht%1:09:00::'
+      synset: 05632483-n
+cruthaitheoir:
+  n:
+    sense:
+    - id: 'cruthaitheoir%1:18:00::'
+      synset: 09637345-n
+cruthúnas:
+  n:
+    sense:
+    - id: 'cruthúnas%1:10:00::'
+      synset: 06660359-n
+cruálach:
+  a:
+    sense:
+    - id: 'cruálach%3:00:00::'
+      synset: 01266123-a
+cráin:
+  n:
+    sense:
+    - id: 'cráin%1:05:00::'
+      synset: 02398740-n
+cráin dhubh:
+  n:
+    sense:
+    - id: 'cráin_dhubh%1:05:00::'
+      synset: 02073946-n
+cráiteach:
+  a:
+    sense:
+    - id: 'cráiteach%3:00:00::'
+      synset: 00090253-a
+cré:
+  n:
+    sense:
+    - id: 'cré%1:27:00::'
+      synset: 14837352-n
+cré bhruite:
+  n:
+    sense:
+    - id: 'cré_bhruite%1:06:00::'
+      synset: 04421236-n
+cré-umha:
+  n:
+    sense:
+    - id: 'cré-umha%1:27:00::'
+      synset: 14741436-n
+créacht:
+  n:
+    sense:
+    - id: 'créacht%1:26:00::'
+      synset: 14322317-n
+créachtach:
+  n:
+    sense:
+    - id: 'créachtach%1:20:00::'
+      synset: 12349084-n
+créamadh:
+  n:
+    sense:
+    - id: 'créamadh%1:04:00::'
+      synset: 00379688-n
+críoch:
+  n:
+    sense:
+    - id: 'críoch%1:28:00::'
+      synset: 15291722-n
+    - id: 'críoch%1:04:01::'
+      synset: 00211959-n
+    - id: 'críoch%1:07:02::'
+      synset: 05156572-n
+    - id: 'críoch%1:15:03::'
+      synset: 08569713-n
+críochach:
+  a:
+    sense:
+    - id: 'críochach%3:01:00::'
+      synset: 02823421-a
+críochfort:
+  n:
+    sense:
+    - id: 'críochfort%1:06:00::'
+      synset: 04420036-n
+críochnaigh:
+  v:
+    sense:
+    - id: 'críochnaigh%2:30:00::'
+      synset: 00353212-v
+    - id: 'críochnaigh%2:30:01::'
+      synset: 00353480-v
+    - id: 'críochnaigh%2:30:02::'
+      synset: 00485097-v
+    - id: 'críochnaigh%2:31:03::'
+      synset: 00716979-v
+    - id: 'críochnaigh%2:42:04::'
+      synset: 02615799-v
+críochnaigh suas:
+  v:
+    sense:
+    - id: 'críochnaigh_suas%2:30:00::'
+      synset: 00353212-v
+críochnaithe:
+  a:
+    sense:
+    - id: 'críochnaithe%3:00:00::'
+      synset: 00522139-a
+críochnúil:
+  s:
+    sense:
+    - id: críochnúil%5:00:00:cúramach:00
+      synset: 00312303-s
+cródhearg:
+  a:
+    sense:
+    - id: 'cródhearg%3:00:00::'
+      synset: 00382159-a
+cróga:
+  a:
+    sense:
+    - id: 'cróga%3:00:00::'
+      synset: 00263658-a
+  s:
+    sense:
+    - id: cróga%5:00:01:cróga:00
+      synset: 00265436-s
+cróimiam:
+  n:
+    sense:
+    - id: 'cróimiam%1:27:00::'
+      synset: 14659270-n
+crómatagrafaíocht:
+  n:
+    sense:
+    - id: 'crómatagrafaíocht%1:22:00::'
+      synset: 13469951-n
+crúbach:
+  n:
+    sense:
+    - id: 'crúbach%1:05:00::'
+      synset: 02373458-n
+crúdóir:
+  n:
+    sense:
+    - id: 'crúdóir%1:18:00::'
+      synset: 10099457-n
+crúsca:
+  n:
+    sense:
+    - id: 'crúsca%1:06:00::'
+      synset: 03598713-n
+crústach:
+  n:
+    sense:
+    - id: 'crústach%1:05:00::'
+      synset: 01977414-n
+cuach:
+  n:
+    sense:
+    - id: 'cuach%1:14:01::'
+      synset: 08024575-n
+  v:
+    sense:
+    - id: 'cuach%2:35:00::'
+      synset: 01489634-v
+cuairt:
+  n:
+    sense:
+    - id: 'cuairt%1:04:01::'
+      synset: 00309196-n
+  v:
+    sense:
+    - id: 'cuairt%2:41:00::'
+      synset: 02498679-v
+cuairt a thabhairt ar:
+  v:
+    sense:
+    - id: 'cuairt_a_thabhairt_ar%2:38:00::'
+      synset: 01847631-v
+cuairteoir:
+  n:
+    sense:
+    - id: 'cuairteoir%1:18:00::'
+      synset: 10776861-n
+cuaisíteas:
+  n:
+    sense:
+    - id: 'cuaisíteas%1:26:00::'
+      synset: 14378643-n
+cuan:
+  n:
+    sense:
+    - id: 'cuan%1:15:00::'
+      synset: 08656633-n
+cuardach:
+  n:
+    sense:
+    - id: 'cuardach%1:04:00::'
+      synset: 00947217-n
+cuardaigh:
+  v:
+    sense:
+    - id: 'cuardaigh%2:35:00::'
+      synset: 01318273-v
+    - id: 'cuardaigh%2:39:01::'
+      synset: 02158139-v
+cuardaitheoir:
+  n:
+    sense:
+    - id: 'cuardaitheoir%1:18:00::'
+      synset: 10595231-n
+cuas:
+  n:
+    sense:
+    - id: 'cuas%1:06:00::'
+      synset: 04069081-n
+cuasár:
+  n:
+    sense:
+    - id: 'cuasár%1:17:00::'
+      synset: 09425245-n
+cufa:
+  n:
+    sense:
+    - id: 'cufa%1:06:00::'
+      synset: 03150509-n
+cugasach:
+  a:
+    sense:
+    - id: 'cugasach%3:01:00::'
+      synset: 02854844-a
+cuibheas:
+  n:
+    sense:
+    - id: 'cuibheas%1:07:00::'
+      synset: 04905614-n
+cuibheasach:
+  r:
+    sense:
+    - id: 'cuibheasach%4:02:00::'
+      synset: 00036138-r
+cuibheoir:
+  n:
+    sense:
+    - id: 'cuibheoir%1:06:00::'
+      synset: 02681751-n
+cuibhiúil:
+  a:
+    sense:
+    - id: 'cuibhiúil%3:00:00::'
+      synset: 02000490-a
+cuibhiúlacht:
+  n:
+    sense:
+    - id: 'cuibhiúlacht%1:07:00::'
+      synset: 04905614-n
+cuibhreannas:
+  n:
+    sense:
+    - id: 'cuibhreannas%1:14:00::'
+      synset: 08253359-n
+cuid:
+  n:
+    sense:
+    - id: 'cuid%1:24:00::'
+      synset: 13831419-n
+    - id: 'cuid%1:04:01::'
+      synset: 01087022-n
+    - id: 'cuid%1:09:02::'
+      synset: 05876035-n
+    - id: 'cuid%1:09:03::'
+      synset: 05877576-n
+    - id: 'cuid%1:10:04::'
+      synset: 06403644-n
+    - id: 'cuid%1:13:05::'
+      synset: 07593928-n
+  r:
+    sense:
+    - id: 'cuid%4:02:06::'
+      synset: 00008102-r
+cuid eile:
+  n:
+    sense:
+    - id: 'cuid_eile%1:24:00::'
+      synset: 13833030-n
+cuideachta:
+  n:
+    sense:
+    - id: 'cuideachta%1:14:00::'
+      synset: 08074934-n
+    - id: 'cuideachta%1:14:01::'
+      synset: 08201779-n
+cuidigh:
+  v:
+    sense:
+    - id: 'cuidigh%2:41:00::'
+      synset: 02553283-v
+cuidigh le:
+  v:
+    sense:
+    - id: 'cuidigh_le%2:29:00::'
+      synset: 00081834-v
+cuiditheach:
+  a:
+    sense:
+    - id: 'cuiditheach%3:00:00::'
+      synset: 00587481-a
+cuil tí:
+  n:
+    sense:
+    - id: 'cuil_tí%1:05:00::'
+      synset: 02193442-n
+cuimhne:
+  n:
+    sense:
+    - id: 'cuimhne%1:09:00::'
+      synset: 05768199-n
+    - id: 'cuimhne%1:09:01::'
+      synset: 05770146-n
+    - id: 'cuimhne%1:09:02::'
+      synset: 05943778-n
+cuimhne randamrochtana:
+  n:
+    sense:
+    - id: 'cuimhne_randamrochtana%1:06:00::'
+      synset: 04059869-n
+cuimhneachán:
+  n:
+    sense:
+    - id: 'cuimhneachán%1:06:00::'
+      synset: 03615483-n
+cuimhnigh:
+  v:
+    sense:
+    - id: 'cuimhnigh%2:31:00::'
+      synset: 00609334-v
+cuimhnigh ar:
+  v:
+    sense:
+    - id: 'cuimhnigh_ar%2:31:00::'
+      synset: 00609334-v
+    - id: 'cuimhnigh_ar%2:31:01::'
+      synset: 00632042-v
+    - id: 'cuimhnigh_ar%2:31:02::'
+      synset: 00691692-v
+    - id: 'cuimhnigh_ar%2:31:03::'
+      synset: 00736077-v
+    - id: 'cuimhnigh_ar%2:39:04::'
+      synset: 02170904-v
+    - id: 'cuimhnigh_ar%2:31:05::'
+      synset: 00611237-v
+cuimsigh:
+  v:
+    sense:
+    - id: 'cuimsigh%2:42:00::'
+      synset: 02626667-v
+    - id: 'cuimsigh%2:42:01::'
+      synset: 02634015-v
+    - id: 'cuimsigh%2:42:02::'
+      synset: 02635616-v
+    - id: 'cuimsigh%2:42:03::'
+      synset: 02635874-v
+    - id: 'cuimsigh%2:42:04::'
+      synset: 02639021-v
+cuimsithe:
+  s:
+    sense:
+    - id: cuimsithe%5:00:00:cuimsitheach:02
+      synset: 00528239-s
+cuimsitheach:
+  a:
+    sense:
+    - id: 'cuimsitheach%3:00:00::'
+      synset: 01869630-a
+    - id: 'cuimsitheach%3:00:02::'
+      synset: 00527630-a
+  s:
+    sense:
+    - id: cuimsitheach%5:00:01:iomlán:05
+      synset: 00524524-s
+cuimín:
+  n:
+    sense:
+    - id: 'cuimín%1:20:00::'
+      synset: 12957586-n
+cuir:
+  v:
+    sense:
+    - id: 'cuir%2:30:00::'
+      synset: 00120124-v
+    - id: 'cuir%2:30:01::'
+      synset: 00182551-v
+    - id: 'cuir%2:35:02::'
+      synset: 01496967-v
+    - id: 'cuir%2:36:03::'
+      synset: 01620211-v
+    - id: 'cuir%2:36:04::'
+      synset: 01650771-v
+    - id: 'cuir%2:38:05::'
+      synset: 01955339-v
+    - id: 'cuir%2:40:06::'
+      synset: 02344167-v
+    - id: 'cuir%2:35:07::'
+      synset: 01496398-v
+    - id: 'cuir%2:30:08::'
+      synset: 00120604-v
+    - id: 'cuir%2:32:09::'
+      synset: 00983308-v
+    - id: 'cuir%2:32:10::'
+      synset: 00772482-v
+cuir amú:
+  v:
+    sense:
+    - id: 'cuir_amú%2:32:00::'
+      synset: 00835688-v
+cuir ar:
+  v:
+    sense:
+    - id: 'cuir_ar%2:30:00::'
+      synset: 00120124-v
+    - id: 'cuir_ar%2:36:01::'
+      synset: 01649143-v
+    - id: 'cuir_ar%2:42:02::'
+      synset: 02717862-v
+cuir ar aghaidh:
+  v:
+    sense:
+    - id: 'cuir_ar_aghaidh%2:40:00::'
+      synset: 02235554-v
+    - id: 'cuir_ar_aghaidh%2:40:01::'
+      synset: 02301114-v
+    - id: 'cuir_ar_aghaidh%2:41:02::'
+      synset: 02560630-v
+cuir ar an eolas:
+  v:
+    sense:
+    - id: 'cuir_ar_an_eolas%2:32:00::'
+      synset: 00833312-v
+cuir ar bun:
+  v:
+    sense:
+    - id: 'cuir_ar_bun%2:36:00::'
+      synset: 01660471-v
+    - id: 'cuir_ar_bun%2:36:01::'
+      synset: 01665137-v
+    - id: 'cuir_ar_bun%2:41:02::'
+      synset: 02431950-v
+cuir ar fáil:
+  v:
+    sense:
+    - id: 'cuir_ar_fáil%2:40:00::'
+      synset: 02332196-v
+    - id: 'cuir_ar_fáil%2:42:01::'
+      synset: 02691775-v
+cuir as áit:
+  v:
+    sense:
+    - id: 'cuir_as_áit%2:38:00::'
+      synset: 01854282-v
+cuir bac ar:
+  v:
+    sense:
+    - id: 'cuir_bac_ar%2:41:00::'
+      synset: 02458316-v
+cuir brú ar:
+  v:
+    sense:
+    - id: 'cuir_brú_ar%2:38:00::'
+      synset: 01875972-v
+    - id: 'cuir_brú_ar%2:41:01::'
+      synset: 02510211-v
+cuir béim ar:
+  v:
+    sense:
+    - id: 'cuir_béim_ar%2:32:00::'
+      synset: 01015376-v
+cuir ceist:
+  v:
+    sense:
+    - id: 'cuir_ceist%2:31:00::'
+      synset: 00731363-v
+    - id: 'cuir_ceist%2:32:01::'
+      synset: 00754499-v
+cuir chuig:
+  v:
+    sense:
+    - id: 'cuir_chuig%2:40:00::'
+      synset: 02235554-v
+cuir chun cinn:
+  v:
+    sense:
+    - id: 'cuir_chun_cinn%2:41:00::'
+      synset: 02560630-v
+    - id: 'cuir_chun_cinn%2:30:01::'
+      synset: 00253876-v
+cuir chun tosaigh:
+  v:
+    sense:
+    - id: 'cuir_chun_tosaigh%2:41:00::'
+      synset: 02560630-v
+cuir cosc ar:
+  v:
+    sense:
+    - id: 'cuir_cosc_ar%2:41:00::'
+      synset: 02458316-v
+cuir díot:
+  v:
+    sense:
+    - id: 'cuir_díot%2:32:00::'
+      synset: 00909100-v
+cuir faoi choinne:
+  v:
+    sense:
+    - id: 'cuir_faoi_choinne%2:32:00::'
+      synset: 00794133-v
+cuir friotal ar:
+  v:
+    sense:
+    - id: 'cuir_friotal_ar%2:32:00::'
+      synset: 00944022-v
+cuir fút i:
+  v:
+    sense:
+    - id: 'cuir_fút_i%2:42:00::'
+      synset: 02655932-v
+cuir glaoch ar:
+  v:
+    sense:
+    - id: 'cuir_glaoch_ar%2:32:00::'
+      synset: 00791110-v
+cuir i bhfeidhm:
+  v:
+    sense:
+    - id: 'cuir_i_bhfeidhm%2:34:00::'
+      synset: 01161188-v
+    - id: 'cuir_i_bhfeidhm%2:34:01::'
+      synset: 01168409-v
+    - id: 'cuir_i_bhfeidhm%2:36:02::'
+      synset: 01644397-v
+    - id: 'cuir_i_bhfeidhm%2:36:03::'
+      synset: 01716563-v
+cuir i bhfocail:
+  v:
+    sense:
+    - id: 'cuir_i_bhfocail%2:32:00::'
+      synset: 00944022-v
+cuir i dtoll a chéile:
+  v:
+    sense:
+    - id: 'cuir_i_dtoll_a_chéile%2:30:00::'
+      synset: 00253876-v
+cuir i gcomhad:
+  v:
+    sense:
+    - id: 'cuir_i_gcomhad%2:32:00::'
+      synset: 01003902-v
+cuir i gcrích:
+  v:
+    sense:
+    - id: 'cuir_i_gcrích%2:30:00::'
+      synset: 00485097-v
+    - id: 'cuir_i_gcrích%2:36:01::'
+      synset: 01644397-v
+    - id: 'cuir_i_gcrích%2:36:02::'
+      synset: 01716563-v
+    - id: 'cuir_i_gcrích%2:41:03::'
+      synset: 02528530-v
+    - id: 'cuir_i_gcrích%2:41:04::'
+      synset: 02531751-v
+    - id: 'cuir_i_gcrích%2:41:05::'
+      synset: 02567910-v
+cuir i gcás:
+  r:
+    sense:
+    - id: 'cuir_i_gcás%4:02:00::'
+      synset: 00160239-r
+cuir i leataobh:
+  v:
+    sense:
+    - id: 'cuir_i_leataobh%2:31:00::'
+      synset: 00726112-v
+cuir i láthair:
+  v:
+    sense:
+    - id: 'cuir_i_láthair%2:39:00::'
+      synset: 02153218-v
+    - id: 'cuir_i_láthair%2:32:01::'
+      synset: 00775012-v
+cuir i mbaol:
+  v:
+    sense:
+    - id: 'cuir_i_mbaol%2:42:00::'
+      synset: 02702962-v
+cuir i ngníomh:
+  v:
+    sense:
+    - id: 'cuir_i_ngníomh%2:36:00::'
+      synset: 01716563-v
+cuir iallach ar:
+  v:
+    sense:
+    - id: 'cuir_iallach_ar%2:41:00::'
+      synset: 02510211-v
+cuir in aghaidh:
+  v:
+    sense:
+    - id: 'cuir_in_aghaidh%2:32:00::'
+      synset: 00777876-v
+cuir in airde:
+  v:
+    sense:
+    - id: 'cuir_in_airde%2:38:00::'
+      synset: 01978076-v
+cuir in aithne:
+  v:
+    sense:
+    - id: 'cuir_in_aithne%2:32:00::'
+      synset: 00902866-v
+cuir in iúl:
+  v:
+    sense:
+    - id: 'cuir_in_iúl%2:32:00::'
+      synset: 00923271-v
+    - id: 'cuir_in_iúl%2:32:01::'
+      synset: 00925764-v
+    - id: 'cuir_in_iúl%2:32:02::'
+      synset: 00942415-v
+    - id: 'cuir_in_iúl%2:32:03::'
+      synset: 00976399-v
+    - id: 'cuir_in_iúl%2:32:04::'
+      synset: 00945869-v
+cuir in áirithe:
+  v:
+    sense:
+    - id: 'cuir_in_áirithe%2:31:00::'
+      synset: 00726112-v
+cuir ina sheasamh:
+  v:
+    sense:
+    - id: 'cuir_ina_sheasamh%2:38:00::'
+      synset: 01978076-v
+cuir isteach:
+  v:
+    sense:
+    - id: 'cuir_isteach%2:32:00::'
+      synset: 00767441-v
+    - id: 'cuir_isteach%2:32:01::'
+      synset: 00880167-v
+    - id: 'cuir_isteach%2:35:02::'
+      synset: 01424276-v
+    - id: 'cuir_isteach%2:35:03::'
+      synset: 01572394-v
+    - id: 'cuir_isteach%2:41:04::'
+      synset: 02457343-v
+    - id: 'cuir_isteach%2:41:05::'
+      synset: 02544431-v
+cuir isteach ar:
+  v:
+    sense:
+    - id: 'cuir_isteach_ar%2:32:00::'
+      synset: 00780320-v
+cuir le:
+  v:
+    sense:
+    - id: 'cuir_le%2:40:00::'
+      synset: 02329474-v
+    - id: 'cuir_le%2:42:01::'
+      synset: 02693758-v
+    - id: 'cuir_le%2:32:02::'
+      synset: 01029183-v
+cuir le chéile:
+  v:
+    sense:
+    - id: 'cuir_le_chéile%2:36:00::'
+      synset: 01641910-v
+    - id: 'cuir_le_chéile%2:36:01::'
+      synset: 01658171-v
+    - id: 'cuir_le_chéile%2:30:02::'
+      synset: 00253876-v
+cuir san áireamh:
+  v:
+    sense:
+    - id: 'cuir_san_áireamh%2:42:00::'
+      synset: 02635616-v
+cuir scairt ar:
+  v:
+    sense:
+    - id: 'cuir_scairt_ar%2:32:00::'
+      synset: 00791110-v
+cuir stop le:
+  v:
+    sense:
+    - id: 'cuir_stop_le%2:38:00::'
+      synset: 01864781-v
+    - id: 'cuir_stop_le%2:41:01::'
+      synset: 02455370-v
+cuir suas:
+  v:
+    sense:
+    - id: 'cuir_suas%2:31:00::'
+      synset: 00670017-v
+    - id: 'cuir_suas%2:36:01::'
+      synset: 01665137-v
+cuir suas le:
+  v:
+    sense:
+    - id: 'cuir_suas_le%2:32:00::'
+      synset: 00803980-v
+cuir síos ar:
+  v:
+    sense:
+    - id: 'cuir_síos_ar%2:32:00::'
+      synset: 00967067-v
+cuir síos do:
+  v:
+    sense:
+    - id: 'cuir_síos_do%2:31:00::'
+      synset: 00728262-v
+cuir tús le:
+  v:
+    sense:
+    - id: 'cuir_tús_le%2:30:00::'
+      synset: 00349400-v
+cuirdín:
+  n:
+    sense:
+    - id: 'cuirdín%1:20:00::'
+      synset: 12957890-n
+cuireadh:
+  n:
+    sense:
+    - id: 'cuireadh%1:10:00::'
+      synset: 07200808-n
+cuirtín:
+  n:
+    sense:
+    - id: 'cuirtín%1:06:00::'
+      synset: 03155743-n
+cuisneoir:
+  n:
+    sense:
+    - id: 'cuisneoir%1:06:00::'
+      synset: 04077839-n
+cuisneán:
+  n:
+    sense:
+    - id: 'cuisneán%1:27:00::'
+      synset: 15028364-n
+culaith:
+  n:
+    sense:
+    - id: 'culaith%1:06:00::'
+      synset: 04357983-n
+culaith shnámha:
+  n:
+    sense:
+    - id: 'culaith_shnámha%1:06:00::'
+      synset: 04378650-n
+culaith spáis:
+  n:
+    sense:
+    - id: 'culaith_spáis%1:06:00::'
+      synset: 04273485-n
+cultúr:
+  n:
+    sense:
+    - id: 'cultúr%1:14:00::'
+      synset: 08304765-n
+cum:
+  v:
+    sense:
+    - id: 'cum%2:36:00::'
+      synset: 01635953-v
+    - id: 'cum%2:36:01::'
+      synset: 01702148-v
+cuma:
+  n:
+    sense:
+    - id: 'cuma%1:07:00::'
+      synset: 04681322-n
+cuma a bheith ar:
+  v:
+    sense:
+    - id: 'cuma_a_bheith_ar%2:39:00::'
+      synset: 02137900-v
+    - id: 'cuma_a_bheith_ar%2:39:01::'
+      synset: 02139137-v
+cumadóir:
+  n:
+    sense:
+    - id: 'cumadóir%1:18:00::'
+      synset: 09966711-n
+    - id: 'cumadóir%1:18:01::'
+      synset: 10234307-n
+cumaisc:
+  v:
+    sense:
+    - id: 'cumaisc%2:30:00::'
+      synset: 00368338-v
+cumalas:
+  n:
+    sense:
+    - id: 'cumalas%1:17:00::'
+      synset: 09284866-n
+cumann:
+  n:
+    sense:
+    - id: 'cumann%1:14:00::'
+      synset: 08066153-n
+cumannach:
+  a:
+    sense:
+    - id: 'cumannach%3:01:00::'
+      synset: 02886180-a
+cumannachas:
+  n:
+    sense:
+    - id: 'cumannachas%1:14:00::'
+      synset: 08382782-n
+cumarsáid:
+  n:
+    sense:
+    - id: 'cumarsáid%1:10:00::'
+      synset: 06262268-n
+cumas:
+  n:
+    sense:
+    - id: 'cumas%1:07:00::'
+      synset: 05207437-n
+    - id: 'cumas%1:07:01::'
+      synset: 05209765-n
+    - id: 'cumas%1:07:02::'
+      synset: 05210665-n
+cumasach:
+  a:
+    sense:
+    - id: 'cumasach%3:01:00::'
+      synset: 02820043-a
+cumasaigh:
+  v:
+    sense:
+    - id: 'cumasaigh%2:30:00::'
+      synset: 00513958-v
+    - id: 'cumasaigh%2:41:01::'
+      synset: 02479404-v
+cumasc:
+  n:
+    sense:
+    - id: 'cumasc%1:27:00::'
+      synset: 14842408-n
+    - id: 'cumasc%1:04:01::'
+      synset: 01240989-n
+    - id: 'cumasc%1:11:02::'
+      synset: 07388202-n
+    - id: 'cumasc%1:11:03::'
+      synset: 07390005-n
+cumhacht:
+  n:
+    sense:
+    - id: 'cumhacht%1:07:00::'
+      synset: 05037846-n
+    - id: 'cumhacht%1:07:01::'
+      synset: 05198072-n
+    - id: 'cumhacht%1:10:02::'
+      synset: 06825275-n
+    - id: 'cumhacht%1:18:03::'
+      synset: 10480990-n
+    - id: 'cumhacht%1:19:04::'
+      synset: 11473433-n
+cumhachtaigh:
+  v:
+    sense:
+    - id: 'cumhachtaigh%2:41:00::'
+      synset: 02479404-v
+cumhdach:
+  n:
+    sense:
+    - id: 'cumhdach%1:06:00::'
+      synset: 02843848-n
+    - id: 'cumhdach%1:06:01::'
+      synset: 04159023-n
+    - id: 'cumhdach%1:06:02::'
+      synset: 04461181-n
+    - id: 'cumhdach%1:06:03::'
+      synset: 04613084-n
+cumhdaigh:
+  v:
+    sense:
+    - id: 'cumhdaigh%2:35:00::'
+      synset: 01335412-v
+    - id: 'cumhdaigh%2:38:01::'
+      synset: 01916152-v
+    - id: 'cumhdaigh%2:41:02::'
+      synset: 02455370-v
+cumhradóir:
+  n:
+    sense:
+    - id: 'cumhradóir%1:18:00::'
+      synset: 10436015-n
+cumhrán:
+  n:
+    sense:
+    - id: 'cumhrán%1:06:00::'
+      synset: 03922150-n
+cumraíocht:
+  n:
+    sense:
+    - id: 'cumraíocht%1:09:00::'
+      synset: 05739724-n
+cuntar:
+  n:
+    sense:
+    - id: 'cuntar%1:06:00::'
+      synset: 03121181-n
+cuntas:
+  n:
+    sense:
+    - id: 'cuntas%1:23:00::'
+      synset: 13612964-n
+    - id: 'cuntas%1:26:01::'
+      synset: 13952070-n
+    - id: 'cuntas%1:10:02::'
+      synset: 06528946-n
+    - id: 'cuntas%1:10:03::'
+      synset: 06659969-n
+cuntasach:
+  a:
+    sense:
+    - id: 'cuntasach%3:00:00::'
+      synset: 02003975-a
+cuntasacht:
+  n:
+    sense:
+    - id: 'cuntasacht%1:07:00::'
+      synset: 04677185-n
+cuntasaíocht:
+  n:
+    sense:
+    - id: 'cuntasaíocht%1:09:00::'
+      synset: 05670377-n
+cuntasóir:
+  n:
+    sense:
+    - id: 'cuntasóir%1:18:00::'
+      synset: 09780826-n
+cupán:
+  n:
+    sense:
+    - id: 'cupán%1:06:00::'
+      synset: 03152175-n
+cur amach:
+  v:
+    sense:
+    - id: 'cur_amach%2:32:00::'
+      synset: 00969657-v
+cur ar brú:
+  v:
+    sense:
+    - id: 'cur_ar_brú%2:32:00::'
+      synset: 00767694-v
+cur i leith:
+  v:
+    sense:
+    - id: 'cur_i_leith%2:31:00::'
+      synset: 00728262-v
+cur in iúl:
+  v:
+    sense:
+    - id: 'cur_in_iúl%2:32:00::'
+      synset: 01062889-v
+cur le chéile:
+  v:
+    sense:
+    - id: 'cur_le_chéile%2:36:00::'
+      synset: 01660471-v
+cur meáchain:
+  n:
+    sense:
+    - id: 'cur_meáchain%1:11:00::'
+      synset: 07485115-n
+curach:
+  n:
+    sense:
+    - id: 'curach%1:06:00::'
+      synset: 02954794-n
+curaclam:
+  n:
+    sense:
+    - id: 'curaclam%1:10:00::'
+      synset: 06689161-n
+curadh:
+  n:
+    sense:
+    - id: 'curadh%1:18:00::'
+      synset: 10788253-n
+curaíocht:
+  n:
+    sense:
+    - id: 'curaíocht%1:04:00::'
+      synset: 00919990-n
+cuspóir:
+  n:
+    sense:
+    - id: 'cuspóir%1:09:00::'
+      synset: 05989760-n
+    - id: 'cuspóir%1:09:01::'
+      synset: 05990115-n
+    - id: 'cuspóir%1:09:02::'
+      synset: 05991037-n
+custaiméir:
+  n:
+    sense:
+    - id: 'custaiméir%1:18:00::'
+      synset: 10004189-n
+custam:
+  n:
+    sense:
+    - id: 'custam%1:21:00::'
+      synset: 13338024-n
+custard:
+  n:
+    sense:
+    - id: 'custard%1:13:00::'
+      synset: 07634613-n
+cuí:
+  a:
+    sense:
+    - id: 'cuí%3:00:00::'
+      synset: 01884565-a
+    - id: 'cuí%3:00:02::'
+      synset: 00634232-a
+    - id: 'cuí%3:00:04::'
+      synset: 00135772-a
+  s:
+    sense:
+    - id: cuí%5:00:03:oiriúnach:00
+      synset: 01024501-s
+  v:
+    sense:
+    - id: 'cuí%2:31:01::'
+      synset: 00726112-v
+cuíchóiriú:
+  n:
+    sense:
+    - id: 'cuíchóiriú%1:04:00::'
+      synset: 01011132-n
+cuóta:
+  n:
+    sense:
+    - id: 'cuóta%1:21:00::'
+      synset: 13310767-n
+    - id: 'cuóta%1:23:01::'
+      synset: 13620591-n
+    - id: 'cuóta%1:10:02::'
+      synset: 06673141-n
+cábla:
+  n:
+    sense:
+    - id: 'cábla%1:06:00::'
+      synset: 02937226-n
+cáblach:
+  a:
+    sense:
+    - id: 'cáblach%3:01:00::'
+      synset: 02859543-a
+cábán:
+  n:
+    sense:
+    - id: 'cábán%1:06:00::'
+      synset: 02934532-n
+    - id: 'cábán%1:06:01::'
+      synset: 02935403-n
+cáca:
+  n:
+    sense:
+    - id: 'cáca%1:13:00::'
+      synset: 07644479-n
+cácas:
+  n:
+    sense:
+    - id: 'cácas%1:14:00::'
+      synset: 08325243-n
+cág:
+  n:
+    sense:
+    - id: 'cág%1:05:00::'
+      synset: 01582219-n
+cáil:
+  n:
+    sense:
+    - id: 'cáil%1:26:00::'
+      synset: 14460852-n
+cáiligh:
+  v:
+    sense:
+    - id: 'cáiligh%2:42:00::'
+      synset: 02684822-v
+cáilitheacht:
+  n:
+    sense:
+    - id: 'cáilitheacht%1:07:00::'
+      synset: 04724828-n
+cáilitheoir:
+  n:
+    sense:
+    - id: 'cáilitheoir%1:10:00::'
+      synset: 06331794-n
+cáiliúchán:
+  n:
+    sense:
+    - id: 'cáiliúchán%1:07:00::'
+      synset: 04724415-n
+cáiliúil:
+  s:
+    sense:
+    - id: cáiliúil%5:00:00:aitheanta:01
+      synset: 01378757-s
+cáilíocht:
+  n:
+    sense:
+    - id: 'cáilíocht%1:26:00::'
+      synset: 14451564-n
+    - id: 'cáilíocht%1:07:01::'
+      synset: 04724415-n
+    - id: 'cáilíocht%1:07:02::'
+      synset: 04731092-n
+    - id: 'cáilíocht%1:07:03::'
+      synset: 04735326-n
+cáin:
+  n:
+    sense:
+    - id: 'cáin%1:21:00::'
+      synset: 13330021-n
+  v:
+    sense:
+    - id: 'cáin%2:32:01::'
+      synset: 00828170-v
+    - id: 'cáin%2:32:02::'
+      synset: 00843259-v
+    - id: 'cáin%2:32:03::'
+      synset: 00865823-v
+cáiníocóir:
+  n:
+    sense:
+    - id: 'cáiníocóir%1:18:00::'
+      synset: 10713659-n
+cáipéis:
+  n:
+    sense:
+    - id: 'cáipéis%1:10:00::'
+      synset: 06481744-n
+cáis:
+  n:
+    sense:
+    - id: 'cáis%1:13:00::'
+      synset: 07866305-n
+cáis uachtair:
+  n:
+    sense:
+    - id: 'cáis_uachtair%1:13:00::'
+      synset: 07867274-n
+cáithne:
+  n:
+    sense:
+    - id: 'cáithne%1:27:00::'
+      synset: 14609699-n
+    - id: 'cáithne%1:27:01::'
+      synset: 14830069-n
+cáithnín:
+  n:
+    sense:
+    - id: 'cáithnín%1:27:00::'
+      synset: 14609699-n
+    - id: 'cáithnín%1:17:01::'
+      synset: 09409315-n
+cáithníneach:
+  a:
+    sense:
+    - id: 'cáithníneach%3:00:00::'
+      synset: 01728582-a
+cána:
+  n:
+    sense:
+    - id: 'cána%1:20:00::'
+      synset: 12156723-n
+cánóg dhubh:
+  n:
+    sense:
+    - id: 'cánóg_dhubh%1:05:00::'
+      synset: 02063222-n
+cárta:
+  n:
+    sense:
+    - id: 'cárta%1:06:00::'
+      synset: 02965981-n
+    - id: 'cárta%1:06:01::'
+      synset: 03037971-n
+    - id: 'cárta%1:10:02::'
+      synset: 06489042-n
+    - id: 'cárta%1:10:03::'
+      synset: 06639513-n
+cárta imeartha:
+  n:
+    sense:
+    - id: 'cárta_imeartha%1:06:00::'
+      synset: 03970276-n
+cás:
+  n:
+    sense:
+    - id: 'cás%1:26:00::'
+      synset: 13966452-n
+    - id: 'cás%1:03:01::'
+      synset: 00029677-n
+    - id: 'cás%1:04:02::'
+      synset: 01185144-n
+    - id: 'cás%1:06:03::'
+      synset: 02940098-n
+    - id: 'cás%1:06:04::'
+      synset: 02978156-n
+    - id: 'cás%1:10:05::'
+      synset: 06768822-n
+    - id: 'cás%1:10:06::'
+      synset: 06797823-n
+    - id: 'cás%1:11:07::'
+      synset: 07305484-n
+    - id: 'cás%1:11:08::'
+      synset: 07323507-n
+cásobair:
+  n:
+    sense:
+    - id: 'cásobair%1:04:00::'
+      synset: 01211569-n
+cásáil:
+  n:
+    sense:
+    - id: 'cásáil%1:06:00::'
+      synset: 03551946-n
+cé:
+  n:
+    sense:
+    - id: 'cé%1:06:00::'
+      synset: 03939805-n
+céachta:
+  n:
+    sense:
+    - id: 'céachta%1:06:00::'
+      synset: 03973894-n
+céad:
+  a:
+    sense:
+    - id: 'céad%3:00:03::'
+      synset: 02203776-a
+  n:
+    sense:
+    - id: 'céad%1:23:00::'
+      synset: 13772555-n
+    - id: 'céad%1:28:01::'
+      synset: 15230328-n
+  r:
+    sense:
+    - id: 'céad%4:02:02::'
+      synset: 00104262-r
+céadainm:
+  n:
+    sense:
+    - id: 'céadainm%1:10:00::'
+      synset: 06348677-n
+céadar:
+  n:
+    sense:
+    - id: 'céadar%1:13:00::'
+      synset: 07868895-n
+céanna:
+  a:
+    sense:
+    - id: 'céanna%3:00:00::'
+      synset: 00893124-a
+    - id: 'céanna%3:00:01::'
+      synset: 02075880-a
+céannacht:
+  n:
+    sense:
+    - id: 'céannacht%1:07:00::'
+      synset: 04750264-n
+céas:
+  v:
+    sense:
+    - id: 'céas%2:29:00::'
+      synset: 00070949-v
+céatadán:
+  n:
+    sense:
+    - id: 'céatadán%1:24:00::'
+      synset: 13839738-n
+céile:
+  n:
+    sense:
+    - id: 'céile%1:18:00::'
+      synset: 09978203-n
+    - id: 'céile%1:18:01::'
+      synset: 10660018-n
+céilí:
+  n:
+    sense:
+    - id: 'céilí%1:11:00::'
+      synset: 07462994-n
+céim:
+  n:
+    sense:
+    - id: 'céim%1:23:00::'
+      synset: 13632450-n
+    - id: 'céim%1:23:01::'
+      synset: 13736289-n
+    - id: 'céim%1:23:02::'
+      synset: 13779389-n
+    - id: 'céim%1:26:03::'
+      synset: 14453411-n
+    - id: 'céim%1:28:04::'
+      synset: 15315573-n
+    - id: 'céim%1:04:05::'
+      synset: 00175261-n
+    - id: 'céim%1:06:06::'
+      synset: 04322052-n
+    - id: 'céim%1:10:07::'
+      synset: 06710094-n
+céimiúlacht:
+  n:
+    sense:
+    - id: 'céimiúlacht%1:14:00::'
+      synset: 08394537-n
+céimseata:
+  n:
+    sense:
+    - id: 'céimseata%1:09:00::'
+      synset: 06014015-n
+céimí:
+  n:
+    sense:
+    - id: 'céimí%1:18:00::'
+      synset: 09805779-n
+céir:
+  n:
+    sense:
+    - id: 'céir%1:27:00::'
+      synset: 15118861-n
+céir phairifín:
+  n:
+    sense:
+    - id: 'céir_phairifín%1:27:00::'
+      synset: 15119804-n
+céirseach:
+  n:
+    sense:
+    - id: 'céirseach%1:05:00::'
+      synset: 01561235-n
+céiticeach:
+  n:
+    sense:
+    - id: 'céiticeach%1:05:00::'
+      synset: 02065083-n
+cíoch:
+  n:
+    sense:
+    - id: 'cíoch%1:08:00::'
+      synset: 05562038-n
+cíor:
+  v:
+    sense:
+    - id: 'cíor%2:31:00::'
+      synset: 00632042-v
+    - id: 'cíor%2:32:01::'
+      synset: 00815640-v
+cíor mheala:
+  n:
+    sense:
+    - id: 'cíor_mheala%1:17:00::'
+      synset: 09241222-n
+cíorbhuí:
+  n:
+    sense:
+    - id: 'cíorbhuí%1:05:00::'
+      synset: 01566586-n
+cíos:
+  n:
+    sense:
+    - id: 'cíos%1:21:00::'
+      synset: 13316680-n
+    - id: 'cíos%1:04:01::'
+      synset: 01113280-n
+círichleachtóir:
+  n:
+    sense:
+    - id: 'círichleachtóir%1:18:00::'
+      synset: 09938658-n
+círéib:
+  n:
+    sense:
+    - id: 'círéib%1:04:00::'
+      synset: 01172992-n
+císte cáise:
+  n:
+    sense:
+    - id: 'císte_cáise%1:13:00::'
+      synset: 07645698-n
+cóbalt:
+  n:
+    sense:
+    - id: 'cóbalt%1:27:00::'
+      synset: 14659468-n
+cóc:
+  n:
+    sense:
+    - id: 'cóc%1:27:00::'
+      synset: 14709929-n
+cócaire:
+  n:
+    sense:
+    - id: 'cócaire%1:18:00::'
+      synset: 09982799-n
+cócaireacht:
+  n:
+    sense:
+    - id: 'cócaireacht%1:04:00::'
+      synset: 00244785-n
+cócaon:
+  n:
+    sense:
+    - id: 'cócaon%1:06:00::'
+      synset: 03064297-n
+cócaráil:
+  n:
+    sense:
+    - id: 'cócaráil%1:04:00::'
+      synset: 00244785-n
+cóch:
+  n:
+    sense:
+    - id: 'cóch%1:19:00::'
+      synset: 11534441-n
+cócó:
+  n:
+    sense:
+    - id: 'cócó%1:13:00::'
+      synset: 07771065-n
+cód:
+  n:
+    sense:
+    - id: 'cód%1:10:00::'
+      synset: 06365341-n
+    - id: 'cód%1:10:01::'
+      synset: 06367301-n
+    - id: 'cód%1:10:02::'
+      synset: 06680062-n
+cód poist:
+  n:
+    sense:
+    - id: 'cód_poist%1:10:00::'
+      synset: 06367112-n
+códaigh:
+  v:
+    sense:
+    - id: 'códaigh%2:30:00::'
+      synset: 00482670-v
+cógaiseoir:
+  n:
+    sense:
+    - id: 'cógaiseoir%1:18:00::'
+      synset: 10441215-n
+cógaisíocht:
+  n:
+    sense:
+    - id: 'cógaisíocht%1:09:00::'
+      synset: 06064831-n
+cógas:
+  n:
+    sense:
+    - id: 'cógas%1:06:00::'
+      synset: 03745652-n
+cógaseolaíocht:
+  n:
+    sense:
+    - id: 'cógaseolaíocht%1:09:00::'
+      synset: 06064423-n
+cógaslann:
+  n:
+    sense:
+    - id: 'cógaslann%1:06:00::'
+      synset: 03254045-n
+cóimeáil:
+  n:
+    sense:
+    - id: 'cóimeáil%1:04:00::'
+      synset: 00913832-n
+cóimheas:
+  n:
+    sense:
+    - id: 'cóimheas%1:24:00::'
+      synset: 13841419-n
+cóimhiotal:
+  n:
+    sense:
+    - id: 'cóimhiotal%1:27:00::'
+      synset: 14610949-n
+cóiméad:
+  n:
+    sense:
+    - id: 'cóiméad%1:17:00::'
+      synset: 09274313-n
+cóineasú:
+  n:
+    sense:
+    - id: 'cóineasú%1:04:00::'
+      synset: 00147392-n
+cóip:
+  n:
+    sense:
+    - id: 'cóip%1:06:00::'
+      synset: 03109245-n
+    - id: 'cóip%1:10:01::'
+      synset: 06517508-n
+cóipcheart:
+  n:
+    sense:
+    - id: 'cóipcheart%1:10:00::'
+      synset: 06484839-n
+cóipeáil:
+  n:
+    sense:
+    - id: 'cóipeáil%1:04:01::'
+      synset: 01021466-n
+  v:
+    sense:
+    - id: 'cóipeáil%2:36:00::'
+      synset: 01751182-v
+cóir:
+  a:
+    sense:
+    - id: 'cóir%3:00:01::'
+      synset: 00959321-a
+  n:
+    sense:
+    - id: 'cóir%1:04:00::'
+      synset: 01137182-n
+cóireáil:
+  n:
+    sense:
+    - id: 'cóireáil%1:04:00::'
+      synset: 00659325-n
+    - id: 'cóireáil%1:04:01::'
+      synset: 01137182-n
+cóirigh:
+  v:
+    sense:
+    - id: 'cóirigh%2:30:00::'
+      synset: 00407168-v
+cóirséad:
+  n:
+    sense:
+    - id: 'cóirséad%1:06:00::'
+      synset: 03117520-n
+cóiréagrafaí:
+  n:
+    sense:
+    - id: 'cóiréagrafaí%1:18:00::'
+      synset: 09939741-n
+cóiréagrafaíocht:
+  n:
+    sense:
+    - id: 'cóiréagrafaíocht%1:10:00::'
+      synset: 07033877-n
+cóitseálaí:
+  n:
+    sense:
+    - id: 'cóitseálaí%1:18:00::'
+      synset: 09951098-n
+cóitín:
+  n:
+    sense:
+    - id: 'cóitín%1:06:00::'
+      synset: 03926859-n
+cómhalartach:
+  a:
+    sense:
+    - id: 'cómhalartach%3:00:00::'
+      synset: 01952167-a
+cómhalartacht:
+  n:
+    sense:
+    - id: 'cómhalartacht%1:04:00::'
+      synset: 00041158-n
+cómhargáil:
+  n:
+    sense:
+    - id: 'cómhargáil%1:10:00::'
+      synset: 07164731-n
+cón:
+  n:
+    sense:
+    - id: 'cón%1:25:00::'
+      synset: 13895231-n
+cónaidhm:
+  n:
+    sense:
+    - id: 'cónaidhm%1:14:00::'
+      synset: 08320205-n
+cónaiféar:
+  n:
+    sense:
+    - id: 'cónaiféar%1:20:00::'
+      synset: 13129600-n
+cónaigh:
+  v:
+    sense:
+    - id: 'cónaigh%2:42:00::'
+      synset: 02655932-v
+    - id: 'cónaigh%2:42:01::'
+      synset: 02656647-v
+cónaitheach:
+  a:
+    sense:
+    - id: 'cónaitheach%3:00:00::'
+      synset: 02132790-a
+cónaitheoir:
+  n:
+    sense:
+    - id: 'cónaitheoir%1:18:00::'
+      synset: 09643248-n
+    - id: 'cónaitheoir%1:18:01::'
+      synset: 10543112-n
+cónaí:
+  n:
+    sense:
+    - id: 'cónaí%1:04:00::'
+      synset: 01055844-n
+cóngarach:
+  a:
+    sense:
+    - id: 'cóngarach%3:00:00::'
+      synset: 00446553-a
+    - id: 'cóngarach%3:00:01::'
+      synset: 00568607-a
+    - id: 'cóngarach%3:00:02::'
+      synset: 00448955-a
+cónra:
+  n:
+    sense:
+    - id: 'cónra%1:06:00::'
+      synset: 03068762-n
+cór:
+  n:
+    sense:
+    - id: 'cór%1:14:00::'
+      synset: 08230000-n
+córam:
+  n:
+    sense:
+    - id: 'córam%1:14:00::'
+      synset: 08374919-n
+córas:
+  n:
+    sense:
+    - id: 'córas%1:27:00::'
+      synset: 15005742-n
+    - id: 'córas%1:06:01::'
+      synset: 04384144-n
+    - id: 'córas%1:08:02::'
+      synset: 05244557-n
+    - id: 'córas%1:09:03::'
+      synset: 05918179-n
+    - id: 'córas%1:14:04::'
+      synset: 08452398-n
+córas suite domhanda:
+  n:
+    sense:
+    - id: 'córas_suite_domhanda%1:06:00::'
+      synset: 03445140-n
+córasach:
+  a:
+    sense:
+    - id: 'córasach%3:00:00::'
+      synset: 02391502-a
+córlann:
+  n:
+    sense:
+    - id: 'córlann%1:06:00::'
+      synset: 03027747-n
+cósta:
+  n:
+    sense:
+    - id: 'cósta%1:17:00::'
+      synset: 09451197-n
+cóta:
+  n:
+    sense:
+    - id: 'cóta%1:06:00::'
+      synset: 03061006-n
+cóta mór:
+  n:
+    sense:
+    - id: 'cóta_mór%1:06:00::'
+      synset: 03461607-n
+cóála:
+  n:
+    sense:
+    - id: 'cóála%1:05:00::'
+      synset: 01885355-n
+cúbláil:
+  n:
+    sense:
+    - id: 'cúbláil%1:04:00::'
+      synset: 00159005-n
+cúcamar:
+  n:
+    sense:
+    - id: 'cúcamar%1:13:00::'
+      synset: 07734217-n
+cúgar:
+  n:
+    sense:
+    - id: 'cúgar%1:05:00::'
+      synset: 02127963-n
+cúig:
+  a:
+    sense:
+    - id: 'cúig%3:00:00::'
+      synset: 02194389-a
+cúig déag:
+  a:
+    sense:
+    - id: 'cúig_déag%3:00:00::'
+      synset: 02195432-a
+cúige:
+  n:
+    sense:
+    - id: 'cúige%1:15:00::'
+      synset: 08671935-n
+cúigeach:
+  a:
+    sense:
+    - id: 'cúigeach%3:01:00::'
+      synset: 02796680-a
+cúigear:
+  a:
+    sense:
+    - id: 'cúigear%3:00:00::'
+      synset: 02194389-a
+cúigiú:
+  n:
+    sense:
+    - id: 'cúigiú%1:23:00::'
+      synset: 13759970-n
+    - id: 'cúigiú%1:24:01::'
+      synset: 13869437-n
+cúipéir:
+  n:
+    sense:
+    - id: 'cúipéir%1:18:00::'
+      synset: 09983252-n
+cúirséad:
+  n:
+    sense:
+    - id: 'cúirséad%1:13:00::'
+      synset: 07732103-n
+cúirt:
+  n:
+    sense:
+    - id: 'cúirt%1:06:00::'
+      synset: 03125142-n
+    - id: 'cúirt%1:06:01::'
+      synset: 03125691-n
+    - id: 'cúirt%1:14:02::'
+      synset: 08346380-n
+cúirteoir:
+  n:
+    sense:
+    - id: 'cúirteoir%1:18:00::'
+      synset: 09991369-n
+cúirtéis:
+  n:
+    sense:
+    - id: 'cúirtéis%1:10:00::'
+      synset: 06645548-n
+cúiréir:
+  n:
+    sense:
+    - id: 'cúiréir%1:18:00::'
+      synset: 10330688-n
+cúis:
+  n:
+    sense:
+    - id: 'cúis%1:04:00::'
+      synset: 00799906-n
+    - id: 'cúis%1:10:01::'
+      synset: 06753097-n
+    - id: 'cúis%1:16:02::'
+      synset: 09201896-n
+cúiseamh:
+  n:
+    sense:
+    - id: 'cúiseamh%1:10:00::'
+      synset: 07248890-n
+cúisigh:
+  v:
+    sense:
+    - id: 'cúisigh%2:32:00::'
+      synset: 00844668-v
+    - id: 'cúisigh%2:32:01::'
+      synset: 00845147-v
+cúisíoch:
+  a:
+    sense:
+    - id: 'cúisíoch%3:00:00::'
+      synset: 00324097-a
+cúisíocht:
+  n:
+    sense:
+    - id: 'cúisíocht%1:24:00::'
+      synset: 13802818-n
+    - id: 'cúisíocht%1:04:01::'
+      synset: 00043049-n
+cúiteamh:
+  n:
+    sense:
+    - id: 'cúiteamh%1:21:00::'
+      synset: 13303030-n
+    - id: 'cúiteamh%1:04:01::'
+      synset: 00260020-n
+    - id: 'cúiteamh%1:04:02::'
+      synset: 00260486-n
+cúitigh:
+  v:
+    sense:
+    - id: 'cúitigh%2:41:00::'
+      synset: 02551772-v
+cúl:
+  n:
+    sense:
+    - id: 'cúl%1:06:01::'
+      synset: 04066813-n
+    - id: 'cúl%1:06:02::'
+      synset: 04092293-n
+    - id: 'cúl%1:08:03::'
+      synset: 05566350-n
+  r:
+    sense:
+    - id: 'cúl%4:02:00::'
+      synset: 00074673-r
+cúl báire:
+  n:
+    sense:
+    - id: 'cúl_báire%1:18:00::'
+      synset: 10153521-n
+cúlaigh:
+  v:
+    sense:
+    - id: 'cúlaigh%2:38:00::'
+      synset: 01998474-v
+cúlchríoch:
+  n:
+    sense:
+    - id: 'cúlchríoch%1:15:00::'
+      synset: 08519693-n
+cúlghair:
+  v:
+    sense:
+    - id: 'cúlghair%2:32:00::'
+      synset: 00801460-v
+cúlghairm:
+  n:
+    sense:
+    - id: 'cúlghairm%1:04:00::'
+      synset: 01261532-n
+cúlra:
+  n:
+    sense:
+    - id: 'cúlra%1:07:00::'
+      synset: 04928594-n
+    - id: 'cúlra%1:09:01::'
+      synset: 05831841-n
+    - id: 'cúlra%1:09:02::'
+      synset: 05942570-n
+cúlscáthlán:
+  n:
+    sense:
+    - id: 'cúlscáthlán%1:06:00::'
+      synset: 02702629-n
+cúltaca:
+  n:
+    sense:
+    - id: 'cúltaca%1:04:00::'
+      synset: 01216376-n
+    - id: 'cúltaca%1:14:01::'
+      synset: 08223381-n
+cúltarraingt:
+  n:
+    sense:
+    - id: 'cúltarraingt%1:19:00::'
+      synset: 11525316-n
+cúnamh:
+  n:
+    sense:
+    - id: 'cúnamh%1:04:00::'
+      synset: 01210099-n
+cúnant:
+  n:
+    sense:
+    - id: 'cúnant%1:10:00::'
+      synset: 06785061-n
+cúntach:
+  a:
+    sense:
+    - id: 'cúntach%3:00:00::'
+      synset: 01860057-a
+cúntóir:
+  n:
+    sense:
+    - id: 'cúntóir%1:18:00::'
+      synset: 09799690-n
+    - id: 'cúntóir%1:18:01::'
+      synset: 09835195-n
+cúpla:
+  a:
+    sense:
+    - id: 'cúpla%3:00:01::'
+      synset: 01557242-a
+  n:
+    sense:
+    - id: 'cúpla%1:23:00::'
+      synset: 13793430-n
+  s:
+    sense:
+    - id: cúpla%5:00:02:cúpla:01
+      synset: 01557697-s
+cúpláil:
+  n:
+    sense:
+    - id: 'cúpláil%1:04:00::'
+      synset: 00848970-n
+cúplán:
+  n:
+    sense:
+    - id: 'cúplán%1:06:00::'
+      synset: 04620515-n
+cúpón:
+  n:
+    sense:
+    - id: 'cúpón%1:10:00::'
+      synset: 06530059-n
+cúr:
+  n:
+    sense:
+    - id: 'cúr%1:27:00::'
+      synset: 14896848-n
+cúram:
+  n:
+    sense:
+    - id: 'cúram%1:04:00::'
+      synset: 00656128-n
+    - id: 'cúram%1:04:01::'
+      synset: 00720746-n
+    - id: 'cúram%1:04:02::'
+      synset: 00720957-n
+    - id: 'cúram%1:04:03::'
+      synset: 00732520-n
+    - id: 'cúram%1:09:04::'
+      synset: 05623652-n
+cúram sláinte:
+  n:
+    sense:
+    - id: 'cúram_sláinte%1:04:00::'
+      synset: 01061824-n
+cúramach:
+  a:
+    sense:
+    - id: 'cúramach%3:00:00::'
+      synset: 00309819-a
+cúramán:
+  n:
+    sense:
+    - id: 'cúramán%1:05:00::'
+      synset: 01443405-n
+cúrsa:
+  n:
+    sense:
+    - id: 'cúrsa%1:04:00::'
+      synset: 00886144-n
+    - id: 'cúrsa%1:06:01::'
+      synset: 03124441-n
+    - id: 'cúrsa%1:09:02::'
+      synset: 05822417-n
+    - id: 'cúrsa%1:17:03::'
+      synset: 09410115-n
+cúrsáil:
+  n:
+    sense:
+    - id: 'cúrsáil%1:04:00::'
+      synset: 00313758-n
+cúrsóir:
+  n:
+    sense:
+    - id: 'cúrsóir%1:06:00::'
+      synset: 03145551-n

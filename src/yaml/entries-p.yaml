@@ -1,0 +1,1735 @@
+Paistis:
+  n:
+    sense:
+    - id: 'paistis%1:10:00::'
+      synset: 06987792-n
+Pd:
+  n:
+    sense:
+    - id: 'pd%1:27:00::'
+      synset: 14672932-n
+Pléimeannais:
+  n:
+    sense:
+    - id: 'pléimeannais%1:10:00::'
+      synset: 06965467-n
+Polainnis:
+  n:
+    sense:
+    - id: 'polainnis%1:10:00::'
+      synset: 06957482-n
+Portaingéilis:
+  n:
+    sense:
+    - id: 'portaingéilis%1:10:00::'
+      synset: 06979090-n
+Proinsiasach:
+  n:
+    sense:
+    - id: 'proinsiasach%1:18:00::'
+      synset: 10798221-n
+Protastúnach:
+  a:
+    sense:
+    - id: 'protastúnach%3:01:00::'
+      synset: 02963959-a
+Protastúnachas:
+  n:
+    sense:
+    - id: 'protastúnachas%1:09:00::'
+      synset: 06238680-n
+Príomh-Bhreitheamh:
+  n:
+    sense:
+    - id: 'príomh-bhreitheamh%1:18:00::'
+      synset: 09936246-n
+Puinseáibis:
+  n:
+    sense:
+    - id: 'puinseáibis%1:10:00::'
+      synset: 06984279-n
+paca:
+  n:
+    sense:
+    - id: 'paca%1:06:00::'
+      synset: 03876224-n
+pacáil:
+  n:
+    sense:
+    - id: 'pacáil%1:04:00::'
+      synset: 00323054-n
+pacáiste:
+  n:
+    sense:
+    - id: 'pacáiste%1:10:00::'
+      synset: 06578068-n
+    - id: 'pacáiste%1:14:01::'
+      synset: 08024575-n
+pacáistigh:
+  v:
+    sense:
+    - id: 'pacáistigh%2:35:00::'
+      synset: 01487784-v
+pacáistíocht:
+  n:
+    sense:
+    - id: 'pacáistíocht%1:06:00::'
+      synset: 03877202-n
+paicéad:
+  n:
+    sense:
+    - id: 'paicéad%1:10:00::'
+      synset: 07295804-n
+pailin:
+  n:
+    sense:
+    - id: 'pailin%1:20:00::'
+      synset: 11695988-n
+pailléad:
+  n:
+    sense:
+    - id: 'pailléad%1:06:00::'
+      synset: 03885279-n
+pailm:
+  n:
+    sense:
+    - id: 'pailm%1:20:00::'
+      synset: 12602979-n
+paincréas:
+  n:
+    sense:
+    - id: 'paincréas%1:08:00::'
+      synset: 05394510-n
+paindéim:
+  n:
+    sense:
+    - id: 'paindéim%1:11:00::'
+      synset: 07450313-n
+painéal:
+  n:
+    sense:
+    - id: 'painéal%1:06:00::'
+      synset: 03887755-n
+    - id: 'painéal%1:14:01::'
+      synset: 08431338-n
+paireacht:
+  n:
+    sense:
+    - id: 'paireacht%1:24:00::'
+      synset: 13812345-n
+    - id: 'paireacht%1:09:01::'
+      synset: 06114921-n
+pairifín:
+  n:
+    sense:
+    - id: 'pairifín%1:27:00::'
+      synset: 14975516-n
+    - id: 'pairifín%1:27:01::'
+      synset: 15119804-n
+paisinéir:
+  n:
+    sense:
+    - id: 'paisinéir%1:18:00::'
+      synset: 10423621-n
+paiste:
+  n:
+    sense:
+    - id: 'paiste%1:10:00::'
+      synset: 06585399-n
+paiteolaí:
+  n:
+    sense:
+    - id: 'paiteolaí%1:18:00::'
+      synset: 10030728-n
+paiteolaíoch:
+  a:
+    sense:
+    - id: 'paiteolaíoch%3:00:00::'
+      synset: 01179790-a
+paitinn:
+  n:
+    sense:
+    - id: 'paitinn%1:10:00::'
+      synset: 06513132-n
+  s:
+    sense:
+    - id: paitinn%5:00:01:soiléir:02
+      synset: 01622528-s
+palaistíneach:
+  a:
+    sense:
+    - id: 'palaistíneach%3:01:00::'
+      synset: 02986160-a
+palandróm:
+  n:
+    sense:
+    - id: 'palandróm%1:10:00::'
+      synset: 06305609-n
+pallaidiam:
+  n:
+    sense:
+    - id: 'pallaidiam%1:27:00::'
+      synset: 14672932-n
+pantagraf:
+  n:
+    sense:
+    - id: 'pantagraf%1:06:00::'
+      synset: 03891107-n
+parabóil:
+  n:
+    sense:
+    - id: 'parabóil%1:25:00::'
+      synset: 13909064-n
+paraiméadar:
+  n:
+    sense:
+    - id: 'paraiméadar%1:09:00::'
+      synset: 05867655-n
+    - id: 'paraiméadar%1:11:01::'
+      synset: 07342905-n
+paraiméadrach:
+  a:
+    sense:
+    - id: 'paraiméadrach%3:01:00::'
+      synset: 02922659-a
+paraimíleatach:
+  n:
+    sense:
+    - id: 'paraimíleatach%1:14:00::'
+      synset: 08224130-n
+paraisít:
+  n:
+    sense:
+    - id: 'paraisít%1:05:00::'
+      synset: 01387328-n
+paratrúipéir:
+  n:
+    sense:
+    - id: 'paratrúipéir%1:18:00::'
+      synset: 10418718-n
+parlaimint:
+  n:
+    sense:
+    - id: 'parlaimint%1:14:00::'
+      synset: 08336128-n
+parlaiminteach:
+  a:
+    sense:
+    - id: 'parlaiminteach%3:01:00::'
+      synset: 02785218-a
+parlaiminteoir:
+  n:
+    sense:
+    - id: 'parlaiminteoir%1:18:00::'
+      synset: 10420008-n
+paráid:
+  n:
+    sense:
+    - id: 'paráid%1:14:00::'
+      synset: 08445442-n
+paróiste:
+  n:
+    sense:
+    - id: 'paróiste%1:14:00::'
+      synset: 08240609-n
+pas:
+  n:
+    sense:
+    - id: 'pas%1:26:00::'
+      synset: 14503649-n
+    - id: 'pas%1:04:01::'
+      synset: 00066395-n
+    - id: 'pas%1:10:02::'
+      synset: 06512928-n
+    - id: 'pas%1:10:03::'
+      synset: 06531360-n
+    - id: 'pas%1:17:04::'
+      synset: 09409735-n
+pasfhocal:
+  n:
+    sense:
+    - id: 'pasfhocal%1:10:00::'
+      synset: 06686933-n
+pasleabhar:
+  n:
+    sense:
+    - id: 'pasleabhar%1:21:00::'
+      synset: 13435332-n
+pasta:
+  n:
+    sense:
+    - id: 'pasta%1:13:00::'
+      synset: 07714660-n
+pasáiste:
+  n:
+    sense:
+    - id: 'pasáiste%1:06:00::'
+      synset: 03900990-n
+patraisc:
+  n:
+    sense:
+    - id: 'patraisc%1:05:00::'
+      synset: 01810137-n
+patról:
+  n:
+    sense:
+    - id: 'patról%1:14:00::'
+      synset: 08233097-n
+patrún:
+  n:
+    sense:
+    - id: 'patrún%1:06:00::'
+      synset: 03183448-n
+peadairín na stoirme:
+  n:
+    sense:
+    - id: 'peadairín_na_stoirme%1:05:00::'
+      synset: 02063870-n
+peann:
+  n:
+    sense:
+    - id: 'peann%1:06:00::'
+      synset: 03913116-n
+peannaire:
+  n:
+    sense:
+    - id: 'peannaire%1:05:00::'
+      synset: 01621144-n
+peantatlan:
+  n:
+    sense:
+    - id: 'peantatlan%1:11:00::'
+      synset: 07472513-n
+pearsa:
+  n:
+    sense:
+    - id: 'pearsa%1:03:00::'
+      synset: 00007846-n
+pearsanra:
+  n:
+    sense:
+    - id: 'pearsanra%1:14:00::'
+      synset: 08224937-n
+pearsanta:
+  a:
+    sense:
+    - id: 'pearsanta%3:00:00::'
+      synset: 01771841-a
+pearsantacht:
+  n:
+    sense:
+    - id: 'pearsantacht%1:07:00::'
+      synset: 04624919-n
+pearsantaigh:
+  v:
+    sense:
+    - id: 'pearsantaigh%2:42:00::'
+      synset: 02703567-v
+peasair:
+  n:
+    sense:
+    - id: 'peasair%1:20:00::'
+      synset: 12595827-n
+peasair fhiáin:
+  n:
+    sense:
+    - id: 'peasair_fhiáin%1:20:00::'
+      synset: 12597200-n
+peata:
+  n:
+    sense:
+    - id: 'peata%1:05:00::'
+      synset: 01321385-n
+peictin:
+  n:
+    sense:
+    - id: 'peictin%1:27:00::'
+      synset: 15002791-n
+peil:
+  n:
+    sense:
+    - id: 'peil%1:04:00::'
+      synset: 00469555-n
+peilbheas:
+  n:
+    sense:
+    - id: 'peilbheas%1:08:00::'
+      synset: 05604406-n
+peinicillin:
+  n:
+    sense:
+    - id: 'peinicillin%1:06:00::'
+      synset: 03916152-n
+peircintíl:
+  n:
+    sense:
+    - id: 'peircintíl%1:09:00::'
+      synset: 05745697-n
+peireacót:
+  n:
+    sense:
+    - id: 'peireacót%1:06:00::'
+      synset: 03926859-n
+peirsil bhó:
+  n:
+    sense:
+    - id: 'peirsil_bhó%1:20:00::'
+      synset: 12953726-n
+peiteal:
+  n:
+    sense:
+    - id: 'peiteal%1:20:00::'
+      synset: 11710924-n
+peitreal:
+  n:
+    sense:
+    - id: 'peitreal%1:27:00::'
+      synset: 14711074-n
+peitriliam:
+  n:
+    sense:
+    - id: 'peitriliam%1:27:00::'
+      synset: 15005138-n
+pian:
+  n:
+    sense:
+    - id: 'pian%1:26:00::'
+      synset: 14346126-n
+pianbhreith:
+  n:
+    sense:
+    - id: 'pianbhreith%1:28:00::'
+      synset: 15249488-n
+pianmhúchán:
+  n:
+    sense:
+    - id: 'pianmhúchán%1:06:00::'
+      synset: 02710542-n
+pianó:
+  n:
+    sense:
+    - id: 'pianó%1:06:00::'
+      synset: 03934354-n
+pianódóir:
+  n:
+    sense:
+    - id: 'pianódóir%1:18:00::'
+      synset: 10450429-n
+picteilín:
+  n:
+    sense:
+    - id: 'picteilín%1:06:00::'
+      synset: 03958553-n
+pictiúr:
+  n:
+    sense:
+    - id: 'pictiúr%1:26:00::'
+      synset: 13960108-n
+    - id: 'pictiúr%1:06:01::'
+      synset: 03882197-n
+    - id: 'pictiúr%1:06:02::'
+      synset: 03931348-n
+    - id: 'pictiúr%1:10:03::'
+      synset: 06288456-n
+pictiúrlann:
+  n:
+    sense:
+    - id: 'pictiúrlann%1:06:00::'
+      synset: 03036237-n
+pictiúrtha:
+  a:
+    sense:
+    - id: 'pictiúrtha%3:01:00::'
+      synset: 02872706-a
+piliúr:
+  n:
+    sense:
+    - id: 'piliúr%1:06:00::'
+      synset: 03944520-n
+pilséar:
+  n:
+    sense:
+    - id: 'pilséar%1:05:00::'
+      synset: 02535840-n
+piléar:
+  n:
+    sense:
+    - id: 'piléar%1:06:00::'
+      synset: 02919696-n
+piléarlann:
+  n:
+    sense:
+    - id: 'piléarlann%1:06:00::'
+      synset: 02976476-n
+pinniún:
+  n:
+    sense:
+    - id: 'pinniún%1:06:00::'
+      synset: 03949391-n
+pinsean:
+  n:
+    sense:
+    - id: 'pinsean%1:21:00::'
+      synset: 13405337-n
+pinsinéir:
+  n:
+    sense:
+    - id: 'pinsinéir%1:18:00::'
+      synset: 10434357-n
+pioc:
+  v:
+    sense:
+    - id: 'pioc%2:31:00::'
+      synset: 00676526-v
+    - id: 'pioc%2:31:01::'
+      synset: 00678369-v
+    - id: 'pioc%2:35:02::'
+      synset: 01384737-v
+pioc amach:
+  v:
+    sense:
+    - id: 'pioc_amach%2:31:00::'
+      synset: 00676526-v
+    - id: 'pioc_amach%2:39:01::'
+      synset: 02197640-v
+pioc suas:
+  v:
+    sense:
+    - id: 'pioc_suas%2:35:00::'
+      synset: 01217701-v
+    - id: 'pioc_suas%2:38:01::'
+      synset: 01980103-v
+piollaire:
+  n:
+    sense:
+    - id: 'piollaire%1:06:00::'
+      synset: 03942844-n
+pioncás:
+  n:
+    sense:
+    - id: 'pioncás%1:06:00::'
+      synset: 03948402-n
+piongain:
+  n:
+    sense:
+    - id: 'piongain%1:05:00::'
+      synset: 02058457-n
+pionna:
+  n:
+    sense:
+    - id: 'pionna%1:06:00::'
+      synset: 03913346-n
+pionsóireacht:
+  n:
+    sense:
+    - id: 'pionsóireacht%1:04:00::'
+      synset: 01174134-n
+pionós:
+  n:
+    sense:
+    - id: 'pionós%1:04:00::'
+      synset: 01162829-n
+pionós corpartha:
+  n:
+    sense:
+    - id: 'pionós_corpartha%1:04:00::'
+      synset: 01163648-n
+pionósach:
+  a:
+    sense:
+    - id: 'pionósach%3:00:00::'
+      synset: 01908580-a
+piorra:
+  n:
+    sense:
+    - id: 'piorra%1:13:00::'
+      synset: 07783823-n
+pirealú:
+  n:
+    sense:
+    - id: 'pirealú%1:11:00::'
+      synset: 07374677-n
+pirimid:
+  n:
+    sense:
+    - id: 'pirimid%1:25:00::'
+      synset: 13937870-n
+pis:
+  n:
+    sense:
+    - id: 'pis%1:13:00::'
+      synset: 07741352-n
+piscín:
+  n:
+    sense:
+    - id: 'piscín%1:05:00::'
+      synset: 02125600-n
+piseánach:
+  n:
+    sense:
+    - id: 'piseánach%1:20:00::'
+      synset: 12536216-n
+plaic:
+  n:
+    sense:
+    - id: 'plaic%1:06:00::'
+      synset: 02895442-n
+plaisteach:
+  n:
+    sense:
+    - id: 'plaisteach%1:27:00::'
+      synset: 14616790-n
+planctón:
+  n:
+    sense:
+    - id: 'planctón%1:05:00::'
+      synset: 01386279-n
+planda:
+  n:
+    sense:
+    - id: 'planda%1:03:00::'
+      synset: 00017402-n
+plandlann:
+  n:
+    sense:
+    - id: 'plandlann%1:06:00::'
+      synset: 03462844-n
+plandáil:
+  n:
+    sense:
+    - id: 'plandáil%1:21:00::'
+      synset: 13273412-n
+plantán:
+  n:
+    sense:
+    - id: 'plantán%1:13:00::'
+      synset: 07784399-n
+plasma:
+  n:
+    sense:
+    - id: 'plasma%1:26:00::'
+      synset: 14505095-n
+    - id: 'plasma%1:08:01::'
+      synset: 05410770-n
+platanam:
+  n:
+    sense:
+    - id: 'platanam%1:27:00::'
+      synset: 14673721-n
+plean:
+  n:
+    sense:
+    - id: 'plean%1:06:00::'
+      synset: 03960475-n
+    - id: 'plean%1:09:01::'
+      synset: 05907175-n
+pleanáil:
+  n:
+    sense:
+    - id: 'pleanáil%1:04:01::'
+      synset: 01146646-n
+  v:
+    sense:
+    - id: 'pleanáil%2:36:00::'
+      synset: 01641910-v
+    - id: 'pleanáil%2:31:02::'
+      synset: 00706993-v
+    - id: 'pleanáil%2:31:03::'
+      synset: 00706456-v
+pleanálaí:
+  n:
+    sense:
+    - id: 'pleanálaí%1:18:00::'
+      synset: 10457939-n
+pliúraisí:
+  n:
+    sense:
+    - id: 'pliúraisí%1:26:00::'
+      synset: 14196495-n
+pludgharda:
+  n:
+    sense:
+    - id: 'pludgharda%1:06:00::'
+      synset: 03802127-n
+pluid:
+  n:
+    sense:
+    - id: 'pluid%1:06:00::'
+      synset: 02852392-n
+pluiméir:
+  n:
+    sense:
+    - id: 'pluiméir%1:18:00::'
+      synset: 10462606-n
+pluma:
+  n:
+    sense:
+    - id: 'pluma%1:13:00::'
+      synset: 07767427-n
+plá:
+  n:
+    sense:
+    - id: 'plá%1:26:00::'
+      synset: 14162173-n
+pláinéad:
+  n:
+    sense:
+    - id: 'pláinéad%1:17:00::'
+      synset: 09416900-n
+pláitín:
+  n:
+    sense:
+    - id: 'pláitín%1:08:00::'
+      synset: 05285894-n
+plána:
+  n:
+    sense:
+    - id: 'plána%1:25:00::'
+      synset: 13883265-n
+    - id: 'plána%1:06:01::'
+      synset: 03961007-n
+plástar:
+  n:
+    sense:
+    - id: 'plástar%1:27:00::'
+      synset: 15016854-n
+pláta:
+  n:
+    sense:
+    - id: 'pláta%1:06:00::'
+      synset: 03965779-n
+    - id: 'pláta%1:06:01::'
+      synset: 03967077-n
+plátghloine:
+  n:
+    sense:
+    - id: 'plátghloine%1:06:00::'
+      synset: 03967364-n
+plé:
+  v:
+    sense:
+    - id: 'plé%2:32:00::'
+      synset: 00965602-v
+    - id: 'plé%2:32:01::'
+      synset: 00944022-v
+pléadáil:
+  n:
+    sense:
+    - id: 'pléadáil%1:10:00::'
+      synset: 06571356-n
+    - id: 'pléadáil%1:10:01::'
+      synset: 06573129-n
+pléasc:
+  n:
+    sense:
+    - id: 'pléasc%1:11:00::'
+      synset: 07323181-n
+pléascán:
+  n:
+    sense:
+    - id: 'pléascán%1:06:00::'
+      synset: 03309675-n
+pléigh:
+  v:
+    sense:
+    - id: 'pléigh%2:32:00::'
+      synset: 00815640-v
+    - id: 'pléigh%2:32:01::'
+      synset: 01036184-v
+    - id: 'pléigh%2:32:02::'
+      synset: 00964479-v
+pléigh le:
+  v:
+    sense:
+    - id: 'pléigh_le%2:32:00::'
+      synset: 01035399-v
+    - id: 'pléigh_le%2:41:01::'
+      synset: 02441196-v
+pléisiúr:
+  n:
+    sense:
+    - id: 'pléisiúr%1:04:00::'
+      synset: 01073670-n
+    - id: 'pléisiúr%1:12:01::'
+      synset: 07505853-n
+plúchadh:
+  n:
+    sense:
+    - id: 'plúchadh%1:26:00::'
+      synset: 14065905-n
+plúr:
+  n:
+    sense:
+    - id: 'plúr%1:13:00::'
+      synset: 07584671-n
+plúrán cloigneach:
+  n:
+    sense:
+    - id: 'plúrán_cloigneach%1:20:00::'
+      synset: 12058160-n
+plútóiniam:
+  n:
+    sense:
+    - id: 'plútóiniam%1:27:00::'
+      synset: 14673953-n
+pobal:
+  n:
+    sense:
+    - id: 'pobal%1:09:00::'
+      synset: 06035684-n
+    - id: 'pobal%1:14:01::'
+      synset: 08177175-n
+    - id: 'pobal%1:14:02::'
+      synset: 08196607-n
+    - id: 'pobal%1:14:03::'
+      synset: 08196797-n
+    - id: 'pobal%1:14:04::'
+      synset: 08240723-n
+pobalachas:
+  n:
+    sense:
+    - id: 'pobalachas%1:09:00::'
+      synset: 05974800-n
+poblacht:
+  n:
+    sense:
+    - id: 'poblacht%1:14:00::'
+      synset: 08378256-n
+pocaire gaoithe:
+  n:
+    sense:
+    - id: 'pocaire_gaoithe%1:05:00::'
+      synset: 01614610-n
+pocléim a thabhairt:
+  v:
+    sense:
+    - id: 'pocléim_a_thabhairt%2:38:00::'
+      synset: 01967949-v
+poibligh:
+  v:
+    sense:
+    - id: 'poibligh%2:32:00::'
+      synset: 00956640-v
+poiblitheoir:
+  n:
+    sense:
+    - id: 'poiblitheoir%1:18:00::'
+      synset: 10510284-n
+poiblí:
+  a:
+    sense:
+    - id: 'poiblí%3:00:00::'
+      synset: 01867145-a
+  s:
+    sense:
+    - id: poiblí%5:00:01:coiteann:01
+      synset: 00495342-s
+poiblíocht:
+  n:
+    sense:
+    - id: 'poiblíocht%1:10:00::'
+      synset: 07261731-n
+poileistear:
+  n:
+    sense:
+    - id: 'poileistear%1:27:00::'
+      synset: 15018126-n
+    - id: 'poileistear%1:27:01::'
+      synset: 15018280-n
+    - id: 'poileistear%1:06:02::'
+      synset: 03985735-n
+poinséitia:
+  n:
+    sense:
+    - id: 'poinséitia%1:20:00::'
+      synset: 12940964-n
+pointe:
+  n:
+    sense:
+    - id: 'pointe%1:23:00::'
+      synset: 13631405-n
+    - id: 'pointe%1:25:01::'
+      synset: 13934887-n
+    - id: 'pointe%1:28:02::'
+      synset: 15205381-n
+    - id: 'pointe%1:28:03::'
+      synset: 15315573-n
+    - id: 'pointe%1:06:04::'
+      synset: 03980573-n
+    - id: 'pointe%1:09:05::'
+      synset: 05825971-n
+    - id: 'pointe%1:09:06::'
+      synset: 05874582-n
+    - id: 'pointe%1:10:07::'
+      synset: 06494090-n
+    - id: 'pointe%1:10:08::'
+      synset: 06619161-n
+    - id: 'pointe%1:10:09::'
+      synset: 06856570-n
+    - id: 'pointe%1:15:10::'
+      synset: 08637636-n
+    - id: 'pointe%1:17:11::'
+      synset: 09419340-n
+pointe leáite:
+  n:
+    sense:
+    - id: 'pointe_leáite%1:07:00::'
+      synset: 05021151-n
+poitigéir:
+  n:
+    sense:
+    - id: 'poitigéir%1:18:00::'
+      synset: 10441215-n
+polagamas:
+  n:
+    sense:
+    - id: 'polagamas%1:26:00::'
+      synset: 13990322-n
+polaiméir:
+  n:
+    sense:
+    - id: 'polaiméir%1:27:00::'
+      synset: 15018895-n
+polaip:
+  n:
+    sense:
+    - id: 'polaip%1:26:00::'
+      synset: 14257918-n
+polaiteoir:
+  n:
+    sense:
+    - id: 'polaiteoir%1:18:00::'
+      synset: 10470837-n
+polaitiúil:
+  a:
+    sense:
+    - id: 'polaitiúil%3:00:00::'
+      synset: 01819670-a
+polannach:
+  a:
+    sense:
+    - id: 'polannach%3:01:00::'
+      synset: 02972803-a
+polaraíocht:
+  n:
+    sense:
+    - id: 'polaraíocht%1:24:00::'
+      synset: 13878771-n
+polasaí:
+  n:
+    sense:
+    - id: 'polasaí%1:09:00::'
+      synset: 05910115-n
+    - id: 'polasaí%1:10:01::'
+      synset: 06535632-n
+pollchárta:
+  n:
+    sense:
+    - id: 'pollchárta%1:06:00::'
+      synset: 04030202-n
+polláire:
+  n:
+    sense:
+    - id: 'polláire%1:08:00::'
+      synset: 05607864-n
+polóiniam:
+  n:
+    sense:
+    - id: 'polóiniam%1:27:00::'
+      synset: 14674735-n
+polúireatán:
+  n:
+    sense:
+    - id: 'polúireatán%1:27:00::'
+      synset: 14927246-n
+ponc:
+  n:
+    sense:
+    - id: 'ponc%1:09:00::'
+      synset: 05825971-n
+poncaíocht:
+  n:
+    sense:
+    - id: 'poncaíocht%1:10:00::'
+      synset: 06854415-n
+popcheol:
+  n:
+    sense:
+    - id: 'popcheol%1:10:00::'
+      synset: 07074002-n
+pornagrafaíocht:
+  n:
+    sense:
+    - id: 'pornagrafaíocht%1:04:00::'
+      synset: 00748513-n
+port:
+  n:
+    sense:
+    - id: 'port%1:06:00::'
+      synset: 03583825-n
+    - id: 'port%1:10:01::'
+      synset: 07069845-n
+    - id: 'port%1:15:02::'
+      synset: 08651532-n
+portráid:
+  n:
+    sense:
+    - id: 'portráid%1:06:00::'
+      synset: 03993437-n
+portán:
+  n:
+    sense:
+    - id: 'portán%1:05:00::'
+      synset: 01979598-n
+posatrón:
+  n:
+    sense:
+    - id: 'posatrón%1:17:00::'
+      synset: 09420771-n
+post:
+  n:
+    sense:
+    - id: 'post%1:04:00::'
+      synset: 00319012-n
+    - id: 'post%1:04:01::'
+      synset: 00583425-n
+    - id: 'post%1:04:02::'
+      synset: 00587299-n
+    - id: 'post%1:06:03::'
+      synset: 03768938-n
+    - id: 'post%1:10:04::'
+      synset: 06275051-n
+    - id: 'post%1:10:05::'
+      synset: 06286287-n
+postas:
+  n:
+    sense:
+    - id: 'postas%1:21:00::'
+      synset: 13345848-n
+postchód:
+  n:
+    sense:
+    - id: 'postchód%1:10:00::'
+      synset: 06367112-n
+pota:
+  n:
+    sense:
+    - id: 'pota%1:06:00::'
+      synset: 03996832-n
+potaisiam:
+  n:
+    sense:
+    - id: 'potaisiam%1:27:00::'
+      synset: 14674986-n
+praghasliosta:
+  n:
+    sense:
+    - id: 'praghasliosta%1:10:00::'
+      synset: 06506529-n
+praghsáil:
+  n:
+    sense:
+    - id: 'praghsáil%1:09:00::'
+      synset: 05744681-n
+pragmatach:
+  a:
+    sense:
+    - id: 'pragmatach%3:00:00::'
+      synset: 01841127-a
+praiseach bhuí:
+  n:
+    sense:
+    - id: 'praiseach_bhuí%1:20:00::'
+      synset: 11917191-n
+praiseach thrá:
+  n:
+    sense:
+    - id: 'praiseach_thrá%1:20:00::'
+      synset: 11904853-n
+praiséidimiam:
+  n:
+    sense:
+    - id: 'praiséidimiam%1:27:00::'
+      synset: 14675391-n
+praiticiúil:
+  s:
+    sense:
+    - id: praiticiúil%5:00:00:indéanta:02
+      synset: 01828067-s
+praiticiúlacht:
+  n:
+    sense:
+    - id: 'praiticiúlacht%1:07:00::'
+      synset: 05158335-n
+preabaire:
+  n:
+    sense:
+    - id: 'preabaire%1:05:00::'
+      synset: 02165949-n
+    - id: 'preabaire%1:18:01::'
+      synset: 09888415-n
+prealáid:
+  n:
+    sense:
+    - id: 'prealáid%1:18:00::'
+      synset: 09826498-n
+preasagallamh:
+  n:
+    sense:
+    - id: 'preasagallamh%1:10:00::'
+      synset: 07159542-n
+preaseisiúint:
+  n:
+    sense:
+    - id: 'preaseisiúint%1:10:00::'
+      synset: 06760197-n
+preasráiteas:
+  n:
+    sense:
+    - id: 'preasráiteas%1:10:00::'
+      synset: 06760197-n
+preideacáid:
+  n:
+    sense:
+    - id: 'preideacáid%1:10:00::'
+      synset: 06327806-n
+priacal:
+  n:
+    sense:
+    - id: 'priacal%1:26:00::'
+      synset: 14565454-n
+pribhléid:
+  n:
+    sense:
+    - id: 'pribhléid%1:07:00::'
+      synset: 05165679-n
+    - id: 'pribhléid%1:07:01::'
+      synset: 05187094-n
+pribhléideach:
+  a:
+    sense:
+    - id: 'pribhléideach%3:00:00::'
+      synset: 01870073-a
+printéir:
+  n:
+    sense:
+    - id: 'printéir%1:06:00::'
+      synset: 04010851-n
+    - id: 'printéir%1:18:01::'
+      synset: 10494882-n
+printíseach:
+  n:
+    sense:
+    - id: 'printíseach%1:18:00::'
+      synset: 09821287-n
+printíseacht:
+  n:
+    sense:
+    - id: 'printíseacht%1:04:00::'
+      synset: 00590035-n
+prionsa:
+  n:
+    sense:
+    - id: 'prionsa%1:18:00::'
+      synset: 10492384-n
+prionsabal:
+  n:
+    sense:
+    - id: 'prionsabal%1:09:00::'
+      synset: 05922132-n
+prionsacht:
+  n:
+    sense:
+    - id: 'prionsacht%1:15:00::'
+      synset: 08576025-n
+priontáil:
+  n:
+    sense:
+    - id: 'priontáil%1:10:01::'
+      synset: 06690047-n
+  v:
+    sense:
+    - id: 'priontáil%2:36:00::'
+      synset: 01749530-v
+priosma:
+  n:
+    sense:
+    - id: 'priosma%1:25:00::'
+      synset: 13907168-n
+    - id: 'priosma%1:06:01::'
+      synset: 04011716-n
+prióir:
+  n:
+    sense:
+    - id: 'prióir%1:18:00::'
+      synset: 10495525-n
+proifisiúnach:
+  n:
+    sense:
+    - id: 'proifisiúnach%1:18:00::'
+      synset: 10499838-n
+proifisiúnta:
+  a:
+    sense:
+    - id: 'proifisiúnta%3:00:00::'
+      synset: 01874674-a
+    - id: 'proifisiúnta%3:00:01::'
+      synset: 01876050-a
+    - id: 'proifisiúnta%3:01:02::'
+      synset: 02850580-a
+práinn:
+  n:
+    sense:
+    - id: 'práinn%1:26:00::'
+      synset: 14474486-n
+    - id: 'práinn%1:11:01::'
+      synset: 07432005-n
+práinneach:
+  a:
+    sense:
+    - id: 'práinneach%3:00:00::'
+      synset: 00717023-a
+prás:
+  n:
+    sense:
+    - id: 'prás%1:27:00::'
+      synset: 14741158-n
+práta:
+  n:
+    sense:
+    - id: 'práta%1:13:00::'
+      synset: 07726361-n
+préachán:
+  n:
+    sense:
+    - id: 'préachán%1:05:00::'
+      synset: 01581669-n
+préimh:
+  n:
+    sense:
+    - id: 'préimh%1:21:00::'
+      synset: 13322642-n
+príobháideach:
+  a:
+    sense:
+    - id: 'príobháideach%3:00:00::'
+      synset: 01864034-a
+príobháideacht:
+  n:
+    sense:
+    - id: 'príobháideacht%1:07:00::'
+      synset: 04630289-n
+príomh-:
+  s:
+    sense:
+    - id: príomh-%5:00:00:tábhachtach:01
+      synset: 01280536-s
+príomha:
+  a:
+    sense:
+    - id: 'príomha%3:00:00::'
+      synset: 01858102-a
+  s:
+    sense:
+    - id: príomha%5:00:01:tábhachtach:01
+      synset: 01280536-s
+príomhchathair:
+  n:
+    sense:
+    - id: 'príomhchathair%1:15:00::'
+      synset: 08535783-n
+príomhdhath:
+  n:
+    sense:
+    - id: 'príomhdhath%1:07:00::'
+      synset: 04964353-n
+príomhscannán:
+  n:
+    sense:
+    - id: 'príomhscannán%1:10:00::'
+      synset: 06627379-n
+príomhshruth:
+  n:
+    sense:
+    - id: 'príomhshruth%1:09:00::'
+      synset: 05964053-n
+príomhshuim:
+  n:
+    sense:
+    - id: 'príomhshuim%1:21:00::'
+      synset: 13421835-n
+príomhúil:
+  a:
+    sense:
+    - id: 'príomhúil%3:00:00::'
+      synset: 00702966-a
+  s:
+    sense:
+    - id: príomhúil%5:00:01:tábhachtach:01
+      synset: 01280207-s
+príosún:
+  n:
+    sense:
+    - id: 'príosún%1:06:00::'
+      synset: 04012006-n
+príosúnach:
+  n:
+    sense:
+    - id: 'príosúnach%1:18:00::'
+      synset: 09982445-n
+    - id: 'príosúnach%1:18:01::'
+      synset: 10495671-n
+prócadóir:
+  n:
+    sense:
+    - id: 'prócadóir%1:18:00::'
+      synset: 10498720-n
+próchonsal:
+  n:
+    sense:
+    - id: 'próchonsal%1:18:00::'
+      synset: 10497878-n
+próifiolacsach:
+  a:
+    sense:
+    - id: 'próifiolacsach%3:00:00::'
+      synset: 01170813-a
+próifíl:
+  n:
+    sense:
+    - id: 'próifíl%1:10:00::'
+      synset: 06528395-n
+próiméitiam:
+  n:
+    sense:
+    - id: 'próiméitiam%1:27:00::'
+      synset: 14675658-n
+próis:
+  n:
+    sense:
+    - id: 'próis%1:10:00::'
+      synset: 06568683-n
+próiseas:
+  n:
+    sense:
+    - id: 'próiseas%1:04:00::'
+      synset: 01025762-n
+próiseáil:
+  n:
+    sense:
+    - id: 'próiseáil%1:22:00::'
+      synset: 13562370-n
+  v:
+    sense:
+    - id: 'próiseáil%2:30:01::'
+      synset: 00516235-v
+    - id: 'próiseáil%2:31:02::'
+      synset: 00640499-v
+    - id: 'próiseáil%2:41:03::'
+      synset: 02443400-v
+próiseálaí:
+  n:
+    sense:
+    - id: 'próiseálaí%1:06:00::'
+      synset: 02998952-n
+próistéis:
+  n:
+    sense:
+    - id: 'próistéis%1:06:00::'
+      synset: 04020105-n
+próitéin:
+  n:
+    sense:
+    - id: 'próitéin%1:27:00::'
+      synset: 14752903-n
+própán:
+  n:
+    sense:
+    - id: 'própán%1:27:00::'
+      synset: 14715847-n
+próstatach:
+  n:
+    sense:
+    - id: 'próstatach%1:08:00::'
+      synset: 05338952-n
+prótacal:
+  n:
+    sense:
+    - id: 'prótacal%1:09:00::'
+      synset: 05676759-n
+    - id: 'prótacal%1:10:01::'
+      synset: 06677853-n
+prótachtainiam:
+  n:
+    sense:
+    - id: 'prótachtainiam%1:27:00::'
+      synset: 14675887-n
+prótón:
+  n:
+    sense:
+    - id: 'prótón%1:17:00::'
+      synset: 09422912-n
+puball:
+  n:
+    sense:
+    - id: 'puball%1:06:00::'
+      synset: 04418399-n
+puilín:
+  n:
+    sense:
+    - id: 'puilín%1:06:00::'
+      synset: 04026692-n
+puipéadóir:
+  n:
+    sense:
+    - id: 'puipéadóir%1:18:00::'
+      synset: 10513270-n
+pulsár:
+  n:
+    sense:
+    - id: 'pulsár%1:17:00::'
+      synset: 09423862-n
+punann:
+  n:
+    sense:
+    - id: 'punann%1:10:00::'
+      synset: 06506144-n
+punc:
+  n:
+    sense:
+    - id: 'punc%1:10:00::'
+      synset: 07079780-n
+punt:
+  n:
+    sense:
+    - id: 'punt%1:23:00::'
+      synset: 13742201-n
+putóg:
+  n:
+    sense:
+    - id: 'putóg%1:08:00::'
+      synset: 05541966-n
+pá:
+  n:
+    sense:
+    - id: 'pá%1:21:00::'
+      synset: 13300285-n
+pábháil:
+  n:
+    sense:
+    - id: 'pábháil%1:27:00::'
+      synset: 15002063-n
+págántacht:
+  n:
+    sense:
+    - id: 'págántacht%1:09:00::'
+      synset: 06234419-n
+páipéar:
+  n:
+    sense:
+    - id: 'páipéar%1:27:00::'
+      synset: 14998823-n
+    - id: 'páipéar%1:10:01::'
+      synset: 06277798-n
+    - id: 'páipéar%1:10:02::'
+      synset: 06421395-n
+páipéar leithris:
+  n:
+    sense:
+    - id: 'páipéar_leithris%1:27:00::'
+      synset: 15099708-n
+páirc:
+  n:
+    sense:
+    - id: 'páirc%1:15:00::'
+      synset: 08587527-n
+    - id: 'páirc%1:15:01::'
+      synset: 08632724-n
+páirceáil:
+  n:
+    sense:
+    - id: 'páirceáil%1:23:00::'
+      synset: 13800883-n
+    - id: 'páirceáil%1:04:01::'
+      synset: 00169326-n
+páirt:
+  n:
+    sense:
+    - id: 'páirt%1:24:00::'
+      synset: 13831419-n
+    - id: 'páirt%1:04:01::'
+      synset: 01241629-n
+    - id: 'páirt%1:17:02::'
+      synset: 09408804-n
+páirt a ghlacadh i:
+  v:
+    sense:
+    - id: 'páirt_a_ghlacadh_i%2:33:00::'
+      synset: 01084999-v
+páirt-:
+  r:
+    sense:
+    - id: 'páirt-%4:02:00::'
+      synset: 00008102-r
+páirteach:
+  a:
+    sense:
+    - id: 'páirteach%3:00:00::'
+      synset: 00526870-a
+  s:
+    sense:
+    - id: páirteach%5:00:01:bainteach:01
+      synset: 01519363-s
+páirtí:
+  n:
+    sense:
+    - id: 'páirtí%1:14:00::'
+      synset: 08273889-n
+    - id: 'páirtí%1:14:01::'
+      synset: 08281818-n
+    - id: 'páirtí%1:18:02::'
+      synset: 09954892-n
+    - id: 'páirtí%1:18:03::'
+      synset: 10422569-n
+páiste:
+  n:
+    sense:
+    - id: 'páiste%1:18:00::'
+      synset: 09937051-n
+pálás:
+  n:
+    sense:
+    - id: 'pálás%1:06:00::'
+      synset: 03883763-n
+pátrún:
+  n:
+    sense:
+    - id: 'pátrún%1:18:00::'
+      synset: 10428297-n
+pé scéal é:
+  r:
+    sense:
+    - id: 'pé_scéal_é%4:02:00::'
+      synset: 00105348-r
+péacóg:
+  n:
+    sense:
+    - id: 'péacóg%1:05:00::'
+      synset: 02281909-n
+péarla:
+  n:
+    sense:
+    - id: 'péarla%1:21:00::'
+      synset: 13393576-n
+péidiatraic:
+  n:
+    sense:
+    - id: 'péidiatraic%1:09:00::'
+      synset: 06071181-n
+péidiatraí:
+  n:
+    sense:
+    - id: 'péidiatraí%1:18:00::'
+      synset: 09848006-n
+péineas:
+  n:
+    sense:
+    - id: 'péineas%1:08:00::'
+      synset: 05534035-n
+péint:
+  n:
+    sense:
+    - id: 'péint%1:06:00::'
+      synset: 03880896-n
+péintéir:
+  n:
+    sense:
+    - id: 'péintéir%1:18:00::'
+      synset: 10411352-n
+péintéireacht:
+  n:
+    sense:
+    - id: 'péintéireacht%1:04:00::'
+      synset: 00938436-n
+péintéireacht ola:
+  n:
+    sense:
+    - id: 'péintéireacht_ola%1:04:00::'
+      synset: 00940354-n
+péire:
+  n:
+    sense:
+    - id: 'péire%1:23:00::'
+      synset: 13765745-n
+péist:
+  n:
+    sense:
+    - id: 'péist%1:05:00::'
+      synset: 01924944-n
+    - id: 'péist%1:18:01::'
+      synset: 10811668-n
+péitseog:
+  n:
+    sense:
+    - id: 'péitseog%1:13:00::'
+      synset: 07766980-n
+pí:
+  n:
+    sense:
+    - id: 'pí%1:10:00::'
+      synset: 06848790-n
+píblíne:
+  n:
+    sense:
+    - id: 'píblíne%1:06:00::'
+      synset: 03952601-n
+píborgán:
+  n:
+    sense:
+    - id: 'píborgán%1:06:00::'
+      synset: 03859585-n
+píobán:
+  n:
+    sense:
+    - id: 'píobán%1:06:00::'
+      synset: 03545055-n
+    - id: 'píobán%1:06:01::'
+      synset: 04500800-n
+píolóta:
+  n:
+    sense:
+    - id: 'píolóta%1:18:00::'
+      synset: 10452928-n
+    - id: 'píolóta%1:18:01::'
+      synset: 10453216-n
+píolótaíocht:
+  n:
+    sense:
+    - id: 'píolótaíocht%1:04:00::'
+      synset: 00817462-n
+píopa:
+  n:
+    sense:
+    - id: 'píopa%1:06:00::'
+      synset: 03950948-n
+    - id: 'píopa%1:06:01::'
+      synset: 03951443-n
+píoráideacht:
+  n:
+    sense:
+    - id: 'píoráideacht%1:04:00::'
+      synset: 00785181-n
+píosa:
+  n:
+    sense:
+    - id: 'píosa%1:06:00::'
+      synset: 03938441-n
+    - id: 'píosa%1:10:01::'
+      synset: 07051211-n
+píosáil:
+  v:
+    sense:
+    - id: 'píosáil%2:36:00::'
+      synset: 01660471-v
+píotsa:
+  n:
+    sense:
+    - id: 'píotsa%1:13:00::'
+      synset: 07889783-n
+póca:
+  n:
+    sense:
+    - id: 'póca%1:06:00::'
+      synset: 03978882-n
+póg:
+  v:
+    sense:
+    - id: 'póg%2:35:00::'
+      synset: 01433863-v
+póilín:
+  n:
+    sense:
+    - id: 'póilín%1:18:00::'
+      synset: 10468557-n
+póilíní:
+  n:
+    sense:
+    - id: 'póilíní%1:14:00::'
+      synset: 08226608-n
+póiriúlacht:
+  n:
+    sense:
+    - id: 'póiriúlacht%1:07:00::'
+      synset: 04947323-n
+póiseard:
+  n:
+    sense:
+    - id: 'póiseard%1:05:00::'
+      synset: 01853679-n
+póló uisce:
+  n:
+    sense:
+    - id: 'póló_uisce%1:04:00::'
+      synset: 00465546-n
+pónaire:
+  n:
+    sense:
+    - id: 'pónaire%1:13:00::'
+      synset: 07740688-n
+pónaire leathan:
+  n:
+    sense:
+    - id: 'pónaire_leathan%1:20:00::'
+      synset: 12596534-n
+pór:
+  n:
+    sense:
+    - id: 'pór%1:14:00::'
+      synset: 08118376-n
+póraigh:
+  v:
+    sense:
+    - id: 'póraigh%2:29:00::'
+      synset: 00056076-v
+pórt:
+  n:
+    sense:
+    - id: 'pórt%1:13:00::'
+      synset: 07917065-n
+pórúchán:
+  n:
+    sense:
+    - id: 'pórúchán%1:04:00::'
+      synset: 00851153-n
+pós:
+  v:
+    sense:
+    - id: 'pós%2:41:00::'
+      synset: 02494483-v
+pósta:
+  a:
+    sense:
+    - id: 'pósta%3:01:00::'
+      synset: 02863805-a
+póstaer:
+  n:
+    sense:
+    - id: 'póstaer%1:10:00::'
+      synset: 06806283-n
+púdar:
+  n:
+    sense:
+    - id: 'púdar%1:27:00::'
+      synset: 15021579-n
+    - id: 'púdar%1:27:01::'
+      synset: 15040881-n
+púdar bácála:
+  n:
+    sense:
+    - id: 'púdar_bácála%1:27:00::'
+      synset: 14796622-n
+púróg:
+  n:
+    sense:
+    - id: 'púróg%1:17:00::'
+      synset: 09410916-n

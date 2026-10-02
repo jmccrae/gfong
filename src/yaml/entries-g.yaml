@@ -1,0 +1,2351 @@
+Gadus macrocephalus:
+  n:
+    sense:
+    - id: 'gadus_macrocephalus%1:05:00::'
+      synset: 02525497-n
+Gadus morhua:
+  n:
+    sense:
+    - id: 'gadus_morhua%1:05:00::'
+      synset: 02525353-n
+Gaeilge:
+  n:
+    sense:
+    - id: 'gaeilge%1:10:00::'
+      synset: 06973518-n
+Gaeilge na hAlban:
+  n:
+    sense:
+    - id: 'gaeilge_na_halban%1:10:00::'
+      synset: 06973862-n
+Gailísis:
+  n:
+    sense:
+    - id: 'gailísis%1:10:00::'
+      synset: 06979234-n
+Gearmáinis:
+  n:
+    sense:
+    - id: 'gearmáinis%1:10:00::'
+      synset: 06963290-n
+Giúdach:
+  a:
+    sense:
+    - id: 'giúdach%3:01:00::'
+      synset: 02933576-a
+Guaráinis:
+  n:
+    sense:
+    - id: 'guaráinis%1:10:00::'
+      synset: 06930056-n
+Gúisearáitis:
+  n:
+    sense:
+    - id: 'gúisearáitis%1:10:00::'
+      synset: 06984128-n
+ga:
+  n:
+    sense:
+    - id: 'ga%1:07:00::'
+      synset: 05109363-n
+gabh:
+  v:
+    sense:
+    - id: 'gabh%2:30:00::'
+      synset: 00525762-v
+    - id: 'gabh%2:35:01::'
+      synset: 01217701-v
+    - id: 'gabh%2:35:02::'
+      synset: 01217985-v
+    - id: 'gabh%2:35:03::'
+      synset: 01441809-v
+    - id: 'gabh%2:38:04::'
+      synset: 01839438-v
+    - id: 'gabh%2:40:05::'
+      synset: 02278138-v
+gabh ar aghaidh:
+  v:
+    sense:
+    - id: 'gabh_ar_aghaidh%2:41:00::'
+      synset: 02377696-v
+gabh go dtí:
+  v:
+    sense:
+    - id: 'gabh_go_dtí%2:42:00::'
+      synset: 02618797-v
+gabh isteach:
+  v:
+    sense:
+    - id: 'gabh_isteach%2:38:00::'
+      synset: 02020375-v
+gabh trí:
+  v:
+    sense:
+    - id: 'gabh_trí%2:39:00::'
+      synset: 02112480-v
+gabha copair:
+  n:
+    sense:
+    - id: 'gabha_copair%1:18:00::'
+      synset: 09983845-n
+gabha geal:
+  n:
+    sense:
+    - id: 'gabha_geal%1:18:00::'
+      synset: 10618157-n
+gabha óir:
+  n:
+    sense:
+    - id: 'gabha_óir%1:18:00::'
+      synset: 10156135-n
+gabhar:
+  n:
+    sense:
+    - id: 'gabhar%1:05:00::'
+      synset: 02419165-n
+gabhdán:
+  n:
+    sense:
+    - id: 'gabhdán%1:06:00::'
+      synset: 03099154-n
+    - id: 'gabhdán%1:06:01::'
+      synset: 04068016-n
+gabhrán:
+  n:
+    sense:
+    - id: 'gabhrán%1:20:00::'
+      synset: 11751880-n
+gabháil:
+  n:
+    sense:
+    - id: 'gabháil%1:23:00::'
+      synset: 13777962-n
+    - id: 'gabháil%1:04:03::'
+      synset: 00089301-n
+    - id: 'gabháil%1:04:04::'
+      synset: 00089545-n
+    - id: 'gabháil%1:04:05::'
+      synset: 00139776-n
+    - id: 'gabháil%1:04:06::'
+      synset: 00715729-n
+  v:
+    sense:
+    - id: 'gabháil%2:35:01::'
+      synset: 01217701-v
+    - id: 'gabháil%2:41:02::'
+      synset: 02380222-v
+gabháil le:
+  v:
+    sense:
+    - id: 'gabháil_le%2:42:00::'
+      synset: 02722040-v
+gabhálas:
+  n:
+    sense:
+    - id: 'gabhálas%1:06:00::'
+      synset: 02674051-n
+gabháltas:
+  n:
+    sense:
+    - id: 'gabháltas%1:21:00::'
+      synset: 13265007-n
+    - id: 'gabháltas%1:04:01::'
+      synset: 00087629-n
+    - id: 'gabháltas%1:15:02::'
+      synset: 08692477-n
+gach:
+  a:
+    sense:
+    - id: 'gach%3:00:00::'
+      synset: 02277044-a
+  s:
+    sense:
+    - id: gach%5:00:01:ar_fad:00
+      synset: 02277553-s
+gach giotán:
+  r:
+    sense:
+    - id: 'gach_giotán%4:02:00::'
+      synset: 00022585-r
+gach rud san áireamh:
+  s:
+    sense:
+    - id: gach_rud_san_áireamh%5:00:00:cuimsitheach:02
+      synset: 00528239-s
+gach seans:
+  r:
+    sense:
+    - id: 'gach_seans%4:02:00::'
+      synset: 00139421-r
+gach uile:
+  s:
+    sense:
+    - id: gach_uile%5:00:00:ar_fad:00
+      synset: 02277394-s
+gadailiniam:
+  n:
+    sense:
+    - id: 'gadailiniam%1:27:00::'
+      synset: 14662219-n
+gadaí:
+  n:
+    sense:
+    - id: 'gadaí%1:18:00::'
+      synset: 10727453-n
+gadaíocht:
+  n:
+    sense:
+    - id: 'gadaíocht%1:04:00::'
+      synset: 00782543-n
+gadhar:
+  n:
+    sense:
+    - id: 'gadhar%1:05:00::'
+      synset: 02086723-n
+gafann:
+  n:
+    sense:
+    - id: 'gafann%1:20:00::'
+      synset: 12925074-n
+gaibhniú:
+  n:
+    sense:
+    - id: 'gaibhniú%1:04:00::'
+      synset: 00927436-n
+gailliam:
+  n:
+    sense:
+    - id: 'gailliam%1:27:00::'
+      synset: 14662434-n
+gaineamh:
+  n:
+    sense:
+    - id: 'gaineamh%1:27:00::'
+      synset: 15043597-n
+gaineamhchloch:
+  n:
+    sense:
+    - id: 'gaineamhchloch%1:27:00::'
+      synset: 15020108-n
+gaineamhlach:
+  n:
+    sense:
+    - id: 'gaineamhlach%1:15:00::'
+      synset: 08522594-n
+gair:
+  v:
+    sense:
+    - id: 'gair%2:42:00::'
+      synset: 02634015-v
+gairbhseach:
+  n:
+    sense:
+    - id: 'gairbhseach%1:13:00::'
+      synset: 07584383-n
+gairdín:
+  n:
+    sense:
+    - id: 'gairdín%1:06:00::'
+      synset: 03422659-n
+gaireacht:
+  n:
+    sense:
+    - id: 'gaireacht%1:07:00::'
+      synset: 05093074-n
+gaireas:
+  n:
+    sense:
+    - id: 'gaireas%1:06:00::'
+      synset: 02730750-n
+    - id: 'gaireas%1:06:01::'
+      synset: 03187746-n
+gairid:
+  a:
+    sense:
+    - id: 'gairid%3:00:00::'
+      synset: 01445077-a
+gairleog:
+  n:
+    sense:
+    - id: 'gairleog%1:20:00::'
+      synset: 12455280-n
+gairm:
+  n:
+    sense:
+    - id: 'gairm%1:04:00::'
+      synset: 00584283-n
+    - id: 'gairm%1:04:01::'
+      synset: 00611221-n
+gairme:
+  a:
+    sense:
+    - id: 'gairme%3:01:00::'
+      synset: 02851363-a
+gairmiúil:
+  a:
+    sense:
+    - id: 'gairmiúil%3:00:00::'
+      synset: 01874674-a
+    - id: 'gairmiúil%3:00:01::'
+      synset: 01876050-a
+    - id: 'gairmiúil%3:01:02::'
+      synset: 02850580-a
+    - id: 'gairmiúil%3:01:03::'
+      synset: 02851363-a
+gairmiúlacht:
+  n:
+    sense:
+    - id: 'gairmiúlacht%1:09:00::'
+      synset: 05648934-n
+gairmoideachas:
+  n:
+    sense:
+    - id: 'gairmoideachas%1:09:00::'
+      synset: 05765899-n
+gairmoiliúint:
+  n:
+    sense:
+    - id: 'gairmoiliúint%1:09:00::'
+      synset: 05765899-n
+gairmí:
+  n:
+    sense:
+    - id: 'gairmí%1:18:00::'
+      synset: 10499838-n
+gairneoireacht:
+  n:
+    sense:
+    - id: 'gairneoireacht%1:04:00::'
+      synset: 00920197-n
+gaiscíoch:
+  n:
+    sense:
+    - id: 'gaiscíoch%1:18:00::'
+      synset: 10788253-n
+gaiste:
+  n:
+    sense:
+    - id: 'gaiste%1:06:00::'
+      synset: 04481701-n
+gaistríteas:
+  n:
+    sense:
+    - id: 'gaistríteas%1:26:00::'
+      synset: 14369821-n
+gal:
+  n:
+    sense:
+    - id: 'gal%1:27:00::'
+      synset: 15079748-n
+    - id: 'gal%1:27:01::'
+      synset: 15080200-n
+galar:
+  n:
+    sense:
+    - id: 'galar%1:26:00::'
+      synset: 14093842-n
+galar crúibe is béil:
+  n:
+    sense:
+    - id: 'galar_crúibe_is_béil%1:26:00::'
+      synset: 14288166-n
+galfaire:
+  n:
+    sense:
+    - id: 'galfaire%1:18:00::'
+      synset: 10156479-n
+gallfheabhrán:
+  n:
+    sense:
+    - id: 'gallfheabhrán%1:20:00::'
+      synset: 12953125-n
+gallán greanchair:
+  n:
+    sense:
+    - id: 'gallán_greanchair%1:20:00::'
+      synset: 12050104-n
+gallúnach:
+  n:
+    sense:
+    - id: 'gallúnach%1:06:00::'
+      synset: 04260547-n
+gamhain:
+  n:
+    sense:
+    - id: 'gamhain%1:05:00::'
+      synset: 01890537-n
+gan amhras:
+  r:
+    sense:
+    - id: 'gan_amhras%4:02:00::'
+      synset: 00038035-r
+    - id: 'gan_amhras%4:02:01::'
+      synset: 00145758-r
+    - id: 'gan_amhras%4:02:02::'
+      synset: 00151192-r
+gan aon agó:
+  r:
+    sense:
+    - id: 'gan_aon_agó%4:02:00::'
+      synset: 00145758-r
+gan aon mhoill:
+  r:
+    sense:
+    - id: 'gan_aon_mhoill%4:02:00::'
+      synset: 00086161-r
+gan dabht:
+  r:
+    sense:
+    - id: 'gan_dabht%4:02:00::'
+      synset: 00038035-r
+    - id: 'gan_dabht%4:02:01::'
+      synset: 00145758-r
+    - id: 'gan_dabht%4:02:02::'
+      synset: 00151192-r
+gan mhoill:
+  r:
+    sense:
+    - id: 'gan_mhoill%4:02:00::'
+      synset: 00034309-r
+gan tionlacan:
+  r:
+    sense:
+    - id: 'gan_tionlacan%4:02:00::'
+      synset: 00159090-r
+gangstaer:
+  n:
+    sense:
+    - id: 'gangstaer%1:18:00::'
+      synset: 10139742-n
+gann:
+  r:
+    sense:
+    - id: 'gann%4:02:00::'
+      synset: 00002669-r
+gannchion:
+  n:
+    sense:
+    - id: 'gannchion%1:07:00::'
+      synset: 05121671-n
+ganntanas:
+  n:
+    sense:
+    - id: 'ganntanas%1:07:00::'
+      synset: 05121671-n
+    - id: 'ganntanas%1:07:01::'
+      synset: 05124253-n
+gaol:
+  n:
+    sense:
+    - id: 'gaol%1:24:00::'
+      synset: 13802931-n
+    - id: 'gaol%1:18:01::'
+      synset: 10255246-n
+gaolmhaireacht:
+  n:
+    sense:
+    - id: 'gaolmhaireacht%1:24:00::'
+      synset: 13802931-n
+gaolmhar:
+  a:
+    sense:
+    - id: 'gaolmhar%3:00:00::'
+      synset: 01979885-a
+gaolta:
+  a:
+    sense:
+    - id: 'gaolta%3:00:00::'
+      synset: 00006050-a
+gaoth:
+  n:
+    sense:
+    - id: 'gaoth%1:19:00::'
+      synset: 11546388-n
+gaothaire:
+  n:
+    sense:
+    - id: 'gaothaire%1:06:00::'
+      synset: 04533536-n
+gaothrán:
+  n:
+    sense:
+    - id: 'gaothrán%1:06:00::'
+      synset: 03324991-n
+gaothscáth:
+  n:
+    sense:
+    - id: 'gaothscáth%1:06:00::'
+      synset: 04597856-n
+gaothuirlis:
+  n:
+    sense:
+    - id: 'gaothuirlis%1:06:00::'
+      synset: 04594218-n
+gar do:
+  r:
+    sense:
+    - id: 'gar_do%4:02:00::'
+      synset: 00007414-r
+garbh:
+  a:
+    sense:
+    - id: 'garbh%3:00:00::'
+      synset: 02246206-a
+garbhlus:
+  n:
+    sense:
+    - id: 'garbhlus%1:20:00::'
+      synset: 12686920-n
+garda:
+  n:
+    sense:
+    - id: 'garda%1:04:00::'
+      synset: 00731836-n
+    - id: 'garda%1:06:01::'
+      synset: 03469399-n
+    - id: 'garda%1:18:02::'
+      synset: 10169591-n
+    - id: 'garda%1:18:03::'
+      synset: 10468557-n
+garda cosanta:
+  n:
+    sense:
+    - id: 'garda_cosanta%1:18:00::'
+      synset: 09882437-n
+garda tarrthála:
+  n:
+    sense:
+    - id: 'garda_tarrthála%1:18:00::'
+      synset: 10280497-n
+garleanbh:
+  n:
+    sense:
+    - id: 'garleanbh%1:18:00::'
+      synset: 10161110-n
+garmachán:
+  n:
+    sense:
+    - id: 'garmachán%1:05:00::'
+      synset: 01457958-n
+garpháiste:
+  n:
+    sense:
+    - id: 'garpháiste%1:18:00::'
+      synset: 10161110-n
+garra bhuí:
+  n:
+    sense:
+    - id: 'garra_bhuí%1:20:00::'
+      synset: 11924140-n
+garraíodóir:
+  n:
+    sense:
+    - id: 'garraíodóir%1:18:00::'
+      synset: 10140190-n
+garraíodóireacht:
+  n:
+    sense:
+    - id: 'garraíodóireacht%1:04:00::'
+      synset: 00920197-n
+garáiste:
+  n:
+    sense:
+    - id: 'garáiste%1:06:00::'
+      synset: 03421399-n
+gas:
+  n:
+    sense:
+    - id: 'gas%1:20:00::'
+      synset: 13149924-n
+gasta:
+  a:
+    sense:
+    - id: 'gasta%3:00:00::'
+      synset: 00979699-a
+  s:
+    sense:
+    - id: gasta%5:00:01:gasta:00
+      synset: 00982557-s
+    - id: gasta%5:00:02:gasta:00
+      synset: 00982888-s
+geabhróg:
+  n:
+    sense:
+    - id: 'geabhróg%1:05:00::'
+      synset: 02045987-n
+geac:
+  n:
+    sense:
+    - id: 'geac%1:05:00::'
+      synset: 02407954-n
+geal:
+  a:
+    sense:
+    - id: 'geal%3:00:00::'
+      synset: 00279417-a
+    - id: 'geal%3:00:01::'
+      synset: 00394166-a
+  n:
+    sense:
+    - id: 'geal%1:07:02::'
+      synset: 04959419-n
+gealacán:
+  n:
+    sense:
+    - id: 'gealacán%1:13:00::'
+      synset: 07857013-n
+gealbhruthach:
+  a:
+    sense:
+    - id: 'gealbhruthach%3:00:00::'
+      synset: 00272679-a
+geall:
+  v:
+    sense:
+    - id: 'geall%2:32:00::'
+      synset: 00886061-v
+    - id: 'geall%2:32:01::'
+      synset: 00885532-v
+geall chun críche ar leith:
+  v:
+    sense:
+    - id: 'geall_chun_críche_ar_leith%2:31:00::'
+      synset: 00635105-v
+geall le:
+  r:
+    sense:
+    - id: 'geall_le%4:02:00::'
+      synset: 00073433-r
+geallbhróicéir:
+  n:
+    sense:
+    - id: 'geallbhróicéir%1:18:00::'
+      synset: 10429204-n
+geallghlacadóir:
+  n:
+    sense:
+    - id: 'geallghlacadóir%1:18:00::'
+      synset: 09885628-n
+geallsealbhóir:
+  n:
+    sense:
+    - id: 'geallsealbhóir%1:18:00::'
+      synset: 10665579-n
+gealltanas:
+  n:
+    sense:
+    - id: 'gealltanas%1:10:01::'
+      synset: 06697128-n
+    - id: 'gealltanas%1:10:02::'
+      synset: 07242871-n
+  v:
+    sense:
+    - id: 'gealltanas%2:32:00::'
+      synset: 00919743-v
+gealóg ghiolcaí:
+  n:
+    sense:
+    - id: 'gealóg_ghiolcaí%1:05:00::'
+      synset: 01540700-n
+geansaí:
+  n:
+    sense:
+    - id: 'geansaí%1:06:00::'
+      synset: 04027422-n
+    - id: 'geansaí%1:06:01::'
+      synset: 04377135-n
+gearmáiniam:
+  n:
+    sense:
+    - id: 'gearmáiniam%1:27:00::'
+      synset: 14662695-n
+gearmánach:
+  a:
+    sense:
+    - id: 'gearmánach%3:01:00::'
+      synset: 02969015-a
+gearr:
+  a:
+    sense:
+    - id: 'gearr%3:00:03::'
+      synset: 01438878-a
+    - id: 'gearr%3:00:04::'
+      synset: 01445077-a
+    - id: 'gearr%3:00:06::'
+      synset: 00448955-a
+  s:
+    sense:
+    - id: gearr%5:00:05:gearr:04
+      synset: 01445717-s
+  v:
+    sense:
+    - id: 'gearr%2:30:00::'
+      synset: 00430013-v
+    - id: 'gearr%2:35:01::'
+      synset: 01555301-v
+    - id: 'gearr%2:40:02::'
+      synset: 02311442-v
+gearr breac:
+  n:
+    sense:
+    - id: 'gearr_breac%1:05:00::'
+      synset: 02018720-n
+gearr goirt:
+  n:
+    sense:
+    - id: 'gearr_goirt%1:05:00::'
+      synset: 02018451-n
+gearr róid:
+  n:
+    sense:
+    - id: 'gearr_róid%1:05:00::'
+      synset: 02063870-n
+gearr trasna:
+  v:
+    sense:
+    - id: 'gearr_trasna%2:38:00::'
+      synset: 01916152-v
+gearradh:
+  n:
+    sense:
+    - id: 'gearradh%1:26:00::'
+      synset: 14310615-n
+    - id: 'gearradh%1:13:01::'
+      synset: 07669003-n
+gearradh Caesarach:
+  n:
+    sense:
+    - id: 'gearradh_caesarach%1:04:00::'
+      synset: 00186627-n
+gearrliosta:
+  n:
+    sense:
+    - id: 'gearrliosta%1:10:00::'
+      synset: 06507616-n
+gearrthóir:
+  n:
+    sense:
+    - id: 'gearrthóir%1:06:00::'
+      synset: 03158739-n
+    - id: 'gearrthóir%1:06:01::'
+      synset: 04353406-n
+gearán:
+  n:
+    sense:
+    - id: 'gearán%1:26:00::'
+      synset: 14078890-n
+    - id: 'gearán%1:10:01::'
+      synset: 07223368-n
+    - id: 'gearán%1:10:02::'
+      synset: 07251419-n
+gearánaí:
+  n:
+    sense:
+    - id: 'gearánaí%1:18:00::'
+      synset: 10457619-n
+geata:
+  n:
+    sense:
+    - id: 'geata%1:06:00::'
+      synset: 03432206-n
+    - id: 'geata%1:06:01::'
+      synset: 03432566-n
+    - id: 'geata%1:06:02::'
+      synset: 03432819-n
+    - id: 'geata%1:06:03::'
+      synset: 03433387-n
+geilitín:
+  n:
+    sense:
+    - id: 'geilitín%1:27:00::'
+      synset: 14754732-n
+geilleagar:
+  n:
+    sense:
+    - id: 'geilleagar%1:14:00::'
+      synset: 08383680-n
+geilleagrach:
+  a:
+    sense:
+    - id: 'geilleagrach%3:01:00::'
+      synset: 02727475-a
+geimhreadh:
+  n:
+    sense:
+    - id: 'geimhreadh%1:28:00::'
+      synset: 15262579-n
+geir:
+  n:
+    sense:
+    - id: 'geir%1:27:00::'
+      synset: 15087035-n
+    - id: 'geir%1:13:01::'
+      synset: 07688535-n
+geiriaitric:
+  n:
+    sense:
+    - id: 'geiriaitric%1:09:00::'
+      synset: 06060181-n
+geografach:
+  a:
+    sense:
+    - id: 'geografach%3:01:00::'
+      synset: 03033057-a
+geografaíocht:
+  n:
+    sense:
+    - id: 'geografaíocht%1:09:00::'
+      synset: 06131785-n
+geoiméadrach:
+  a:
+    sense:
+    - id: 'geoiméadrach%3:01:00::'
+      synset: 02745944-a
+geoiméadracht:
+  n:
+    sense:
+    - id: 'geoiméadracht%1:09:00::'
+      synset: 06014015-n
+geoiteirmeach:
+  a:
+    sense:
+    - id: 'geoiteirmeach%3:01:00::'
+      synset: 02746405-a
+geolaí:
+  n:
+    sense:
+    - id: 'geolaí%1:18:00::'
+      synset: 10147226-n
+geolaíoch:
+  a:
+    sense:
+    - id: 'geolaíoch%3:01:00::'
+      synset: 02916904-a
+geolaíocht:
+  n:
+    sense:
+    - id: 'geolaíocht%1:09:00::'
+      synset: 06125308-n
+geolbhach:
+  n:
+    sense:
+    - id: 'geolbhach%1:05:00::'
+      synset: 02513400-n
+geopholaitiúil:
+  a:
+    sense:
+    - id: 'geopholaitiúil%3:01:00::'
+      synset: 02919248-a
+geábh amháin:
+  r:
+    sense:
+    - id: 'geábh_amháin%4:02:00::'
+      synset: 00119765-r
+giall:
+  n:
+    sense:
+    - id: 'giall%1:08:00::'
+      synset: 05553673-n
+    - id: 'giall%1:18:01::'
+      synset: 10207176-n
+giar:
+  n:
+    sense:
+    - id: 'giar%1:06:00::'
+      synset: 03435461-n
+giarbhosca:
+  n:
+    sense:
+    - id: 'giarbhosca%1:06:00::'
+      synset: 03436480-n
+giaráil:
+  n:
+    sense:
+    - id: 'giaráil%1:04:00::'
+      synset: 01101851-n
+gibe:
+  v:
+    sense:
+    - id: 'gibe%2:42:00::'
+      synset: 02663315-v
+gilitín:
+  n:
+    sense:
+    - id: 'gilitín%1:06:00::'
+      synset: 03472000-n
+gilphíb:
+  n:
+    sense:
+    - id: 'gilphíb%1:05:00::'
+      synset: 01567555-n
+gilín:
+  n:
+    sense:
+    - id: 'gilín%1:05:00::'
+      synset: 02273275-n
+gin:
+  v:
+    sense:
+    - id: 'gin%2:29:00::'
+      synset: 00094214-v
+    - id: 'gin%2:36:01::'
+      synset: 01624592-v
+    - id: 'gin%2:36:02::'
+      synset: 01632192-v
+gineadóir:
+  n:
+    sense:
+    - id: 'gineadóir%1:06:00::'
+      synset: 03438787-n
+ginealach:
+  n:
+    sense:
+    - id: 'ginealach%1:14:00::'
+      synset: 08118903-n
+ginearál:
+  n:
+    sense:
+    - id: 'ginearál%1:18:00::'
+      synset: 10143381-n
+ginearálta:
+  a:
+    sense:
+    - id: 'ginearálta%3:00:00::'
+      synset: 01105084-a
+  s:
+    sense:
+    - id: ginearálta%5:00:01:ginearálta:00
+      synset: 01105857-s
+    - id: ginearálta%5:00:02:ginearálta:00
+      synset: 01106144-s
+ginidín:
+  n:
+    sense:
+    - id: 'ginidín%1:05:00::'
+      synset: 01387132-n
+giniúint:
+  n:
+    sense:
+    - id: 'giniúint%1:04:00::'
+      synset: 00851612-n
+giolla:
+  n:
+    sense:
+    - id: 'giolla%1:18:00::'
+      synset: 10601606-n
+giolla capaill:
+  n:
+    sense:
+    - id: 'giolla_capaill%1:18:00::'
+      synset: 10663740-n
+giolla cloig:
+  n:
+    sense:
+    - id: 'giolla_cloig%1:18:00::'
+      synset: 09868183-n
+giolla scoir:
+  n:
+    sense:
+    - id: 'giolla_scoir%1:18:00::'
+      synset: 10663740-n
+giolla stábla:
+  n:
+    sense:
+    - id: 'giolla_stábla%1:18:00::'
+      synset: 10663740-n
+giomnáisiam:
+  n:
+    sense:
+    - id: 'giomnáisiam%1:06:00::'
+      synset: 03477235-n
+giorrúchán:
+  n:
+    sense:
+    - id: 'giorrúchán%1:10:00::'
+      synset: 07105779-n
+giosta:
+  n:
+    sense:
+    - id: 'giosta%1:27:00::'
+      synset: 15130838-n
+giota beag:
+  r:
+    sense:
+    - id: 'giota_beag%4:02:00::'
+      synset: 00034050-r
+giotár:
+  n:
+    sense:
+    - id: 'giotár%1:06:00::'
+      synset: 03472449-n
+giotáraí:
+  n:
+    sense:
+    - id: 'giotáraí%1:18:00::'
+      synset: 10171280-n
+gircín:
+  n:
+    sense:
+    - id: 'gircín%1:13:00::'
+      synset: 07734416-n
+giuirléid:
+  n:
+    sense:
+    - id: 'giuirléid%1:12:00::'
+      synset: 07545205-n
+giúistís:
+  n:
+    sense:
+    - id: 'giúistís%1:18:00::'
+      synset: 10244889-n
+    - id: 'giúistís%1:18:01::'
+      synset: 10300642-n
+glac:
+  v:
+    sense:
+    - id: 'glac%2:30:00::'
+      synset: 00525762-v
+    - id: 'glac%2:31:01::'
+      synset: 00633399-v
+    - id: 'glac%2:31:02::'
+      synset: 00688348-v
+    - id: 'glac%2:32:03::'
+      synset: 00799359-v
+    - id: 'glac%2:32:04::'
+      synset: 00808164-v
+    - id: 'glac%2:32:05::'
+      synset: 00818972-v
+    - id: 'glac%2:32:06::'
+      synset: 01004785-v
+    - id: 'glac%2:35:07::'
+      synset: 01216829-v
+    - id: 'glac%2:40:08::'
+      synset: 02214901-v
+    - id: 'glac%2:40:09::'
+      synset: 02240906-v
+    - id: 'glac%2:40:10::'
+      synset: 02241406-v
+    - id: 'glac%2:40:11::'
+      synset: 02272834-v
+    - id: 'glac%2:40:12::'
+      synset: 02351891-v
+    - id: 'glac%2:41:13::'
+      synset: 02386868-v
+    - id: 'glac%2:40:14::'
+      synset: 02210054-v
+    - id: 'glac%2:40:15::'
+      synset: 02306786-v
+glac ar:
+  v:
+    sense:
+    - id: 'glac_ar%2:30:00::'
+      synset: 00525762-v
+    - id: 'glac_ar%2:41:01::'
+      synset: 02386868-v
+glac isteach:
+  v:
+    sense:
+    - id: 'glac_isteach%2:42:00::'
+      synset: 02635616-v
+glac le:
+  v:
+    sense:
+    - id: 'glac_le%2:30:00::'
+      synset: 00525762-v
+    - id: 'glac_le%2:31:01::'
+      synset: 00633898-v
+    - id: 'glac_le%2:31:02::'
+      synset: 00635105-v
+    - id: 'glac_le%2:31:03::'
+      synset: 00688348-v
+    - id: 'glac_le%2:32:04::'
+      synset: 00799359-v
+    - id: 'glac_le%2:32:05::'
+      synset: 00803980-v
+    - id: 'glac_le%2:32:06::'
+      synset: 00919271-v
+    - id: 'glac_le%2:40:07::'
+      synset: 02240906-v
+    - id: 'glac_le%2:41:08::'
+      synset: 02386868-v
+    - id: 'glac_le%2:37:09::'
+      synset: 01830665-v
+glac páirt:
+  v:
+    sense:
+    - id: 'glac_páirt%2:41:00::'
+      synset: 02455121-v
+glacadh le haghaidh amharc mar:
+  v:
+    sense:
+    - id: 'glacadh_le_haghaidh_amharc_mar%2:31:00::'
+      synset: 00695546-v
+glacadóir:
+  n:
+    sense:
+    - id: 'glacadóir%1:06:00::'
+      synset: 04067759-n
+glacaireacht:
+  n:
+    sense:
+    - id: 'glacaireacht%1:04:00::'
+      synset: 00857303-n
+glaineacht:
+  n:
+    sense:
+    - id: 'glaineacht%1:07:00::'
+      synset: 04903356-n
+glan:
+  a:
+    sense:
+    - id: 'glan%3:00:01::'
+      synset: 00418932-a
+  n:
+    sense:
+    - id: 'glan%1:04:02::'
+      synset: 00628078-n
+  v:
+    sense:
+    - id: 'glan%2:29:00::'
+      synset: 00035769-v
+glanadh eitneach:
+  n:
+    sense:
+    - id: 'glanadh_eitneach%1:04:00::'
+      synset: 01268227-n
+glanioncam:
+  n:
+    sense:
+    - id: 'glanioncam%1:21:00::'
+      synset: 13279261-n
+glantach:
+  n:
+    sense:
+    - id: 'glantach%1:27:00::'
+      synset: 15121584-n
+glantachán:
+  n:
+    sense:
+    - id: 'glantachán%1:04:00::'
+      synset: 00251880-n
+glantóir:
+  n:
+    sense:
+    - id: 'glantóir%1:06:00::'
+      synset: 03044572-n
+    - id: 'glantóir%1:18:01::'
+      synset: 09946547-n
+glantóireacht:
+  n:
+    sense:
+    - id: 'glantóireacht%1:04:00::'
+      synset: 00251880-n
+glao:
+  n:
+    sense:
+    - id: 'glao%1:10:00::'
+      synset: 06283456-n
+glaoch:
+  n:
+    sense:
+    - id: 'glaoch%1:10:00::'
+      synset: 07205353-n
+glaoch ar:
+  v:
+    sense:
+    - id: 'glaoch_ar%2:32:00::'
+      synset: 00754770-v
+glaoigh:
+  v:
+    sense:
+    - id: 'glaoigh%2:32:00::'
+      synset: 00915018-v
+    - id: 'glaoigh%2:32:01::'
+      synset: 00919743-v
+glaoigh ar:
+  v:
+    sense:
+    - id: 'glaoigh_ar%2:32:00::'
+      synset: 00791110-v
+    - id: 'glaoigh_ar%2:32:01::'
+      synset: 00794133-v
+glaoiteoir:
+  n:
+    sense:
+    - id: 'glaoiteoir%1:18:00::'
+      synset: 09907469-n
+glas:
+  a:
+    sense:
+    - id: 'glas%3:00:00::'
+      synset: 00377031-a
+  n:
+    sense:
+    - id: 'glas%1:06:01::'
+      synset: 03687813-n
+    - id: 'glas%1:07:02::'
+      synset: 04974368-n
+glas éadrom:
+  a:
+    sense:
+    - id: 'glas_éadrom%3:00:00::'
+      synset: 00377031-a
+glasadóir:
+  n:
+    sense:
+    - id: 'glasadóir%1:18:00::'
+      synset: 10288896-n
+glasra:
+  n:
+    sense:
+    - id: 'glasra%1:13:00::'
+      synset: 07723196-n
+glasáil:
+  n:
+    sense:
+    - id: 'glasáil%1:04:00::'
+      synset: 00829299-n
+gleann:
+  n:
+    sense:
+    - id: 'gleann%1:17:00::'
+      synset: 09491734-n
+gleic:
+  n:
+    sense:
+    - id: 'gleic%1:04:00::'
+      synset: 01173452-n
+gliaire:
+  n:
+    sense:
+    - id: 'gliaire%1:18:00::'
+      synset: 10151335-n
+gliomach:
+  n:
+    sense:
+    - id: 'gliomach%1:05:00::'
+      synset: 01985291-n
+gliú:
+  n:
+    sense:
+    - id: 'gliú%1:27:00::'
+      synset: 14727036-n
+gloine:
+  n:
+    sense:
+    - id: 'gloine%1:27:00::'
+      synset: 14905454-n
+    - id: 'gloine%1:06:01::'
+      synset: 03443167-n
+glotas:
+  n:
+    sense:
+    - id: 'glotas%1:08:00::'
+      synset: 05309025-n
+gluais:
+  n:
+    sense:
+    - id: 'gluais%1:10:02::'
+      synset: 06432424-n
+  v:
+    sense:
+    - id: 'gluais%2:38:00::'
+      synset: 01839438-v
+    - id: 'gluais%2:38:01::'
+      synset: 01854282-v
+gluaiseacht:
+  n:
+    sense:
+    - id: 'gluaiseacht%1:04:00::'
+      synset: 00280679-n
+    - id: 'gluaiseacht%1:04:01::'
+      synset: 00332776-n
+    - id: 'gluaiseacht%1:11:02::'
+      synset: 07324399-n
+    - id: 'gluaiseacht%1:14:03::'
+      synset: 08481612-n
+gluaisrothar:
+  n:
+    sense:
+    - id: 'gluaisrothar%1:06:00::'
+      synset: 03796045-n
+gluaisteán:
+  n:
+    sense:
+    - id: 'gluaisteán%1:06:00::'
+      synset: 02961779-n
+glutan:
+  n:
+    sense:
+    - id: 'glutan%1:05:00::'
+      synset: 02451981-n
+gléas:
+  n:
+    sense:
+    - id: 'gléas%1:06:00::'
+      synset: 02730750-n
+    - id: 'gléas%1:06:01::'
+      synset: 03187746-n
+    - id: 'gléas%1:06:02::'
+      synset: 04523967-n
+gléas troda:
+  n:
+    sense:
+    - id: 'gléas_troda%1:06:00::'
+      synset: 04572661-n
+gléasra:
+  n:
+    sense:
+    - id: 'gléasra%1:06:00::'
+      synset: 03963198-n
+glúcós:
+  n:
+    sense:
+    - id: 'glúcós%1:27:00::'
+      synset: 14908271-n
+glúin:
+  n:
+    sense:
+    - id: 'glúin%1:14:00::'
+      synset: 08386333-n
+glútan:
+  n:
+    sense:
+    - id: 'glútan%1:13:00::'
+      synset: 07585802-n
+gnamhán:
+  n:
+    sense:
+    - id: 'gnamhán%1:05:00::'
+      synset: 02649924-n
+gnách:
+  a:
+    sense:
+    - id: 'gnách%3:00:00::'
+      synset: 00487699-a
+    - id: 'gnách%3:00:01::'
+      synset: 00491099-a
+    - id: 'gnách%3:00:02::'
+      synset: 01598231-a
+gnách-:
+  a:
+    sense:
+    - id: 'gnách-%3:00:00::'
+      synset: 00491099-a
+gnásúil:
+  a:
+    sense:
+    - id: 'gnásúil%3:00:00::'
+      synset: 00607893-a
+gnáth:
+  a:
+    sense:
+    - id: 'gnáth%3:00:01::'
+      synset: 01598231-a
+  n:
+    sense:
+    - id: 'gnáth%1:09:00::'
+      synset: 05675457-n
+gnáth-:
+  a:
+    sense:
+    - id: 'gnáth-%3:00:00::'
+      synset: 01677162-a
+gnáthóg:
+  n:
+    sense:
+    - id: 'gnáthóg%1:15:00::'
+      synset: 08598111-n
+gné:
+  n:
+    sense:
+    - id: 'gné%1:09:00::'
+      synset: 05857567-n
+    - id: 'gné%1:09:01::'
+      synset: 05858316-n
+    - id: 'gné%1:09:02::'
+      synset: 05859151-n
+gnéas:
+  n:
+    sense:
+    - id: 'gnéas%1:04:00::'
+      synset: 00845915-n
+gnéasachas:
+  n:
+    sense:
+    - id: 'gnéasachas%1:04:00::'
+      synset: 01158380-n
+gníomh:
+  n:
+    sense:
+    - id: 'gníomh%1:26:00::'
+      synset: 14030430-n
+    - id: 'gníomh%1:03:01::'
+      synset: 00030657-n
+    - id: 'gníomh%1:04:02::'
+      synset: 00038116-n
+    - id: 'gníomh%1:10:03::'
+      synset: 07022756-n
+  v:
+    sense:
+    - id: 'gníomh%2:36:04::'
+      synset: 01723161-v
+gníomhach:
+  s:
+    sense:
+    - id: gníomhach%5:00:00:bainteach:01
+      synset: 01519363-s
+gníomhachtaigh:
+  v:
+    sense:
+    - id: 'gníomhachtaigh%2:36:00::'
+      synset: 01647199-v
+gníomhaigh:
+  v:
+    sense:
+    - id: 'gníomhaigh%2:29:00::'
+      synset: 00010428-v
+    - id: 'gníomhaigh%2:41:01::'
+      synset: 02372362-v
+gníomhaire:
+  n:
+    sense:
+    - id: 'gníomhaire%1:18:00::'
+      synset: 09796794-n
+gníomhaire eastáit:
+  n:
+    sense:
+    - id: 'gníomhaire_eastáit%1:18:00::'
+      synset: 10529403-n
+gníomhaireacht:
+  n:
+    sense:
+    - id: 'gníomhaireacht%1:14:00::'
+      synset: 08354251-n
+gníomhas:
+  n:
+    sense:
+    - id: 'gníomhas%1:10:00::'
+      synset: 06557128-n
+gníomhaí:
+  n:
+    sense:
+    - id: 'gníomhaí%1:18:00::'
+      synset: 09786620-n
+gníomhaíocht:
+  n:
+    sense:
+    - id: 'gníomhaíocht%1:26:00::'
+      synset: 14030430-n
+gníomhróir:
+  n:
+    sense:
+    - id: 'gníomhróir%1:06:00::'
+      synset: 02681238-n
+gnó:
+  n:
+    sense:
+    - id: 'gnó%1:04:00::'
+      synset: 00583425-n
+    - id: 'gnó%1:04:01::'
+      synset: 01096649-n
+    - id: 'gnó%1:09:02::'
+      synset: 05841346-n
+    - id: 'gnó%1:14:03::'
+      synset: 08077878-n
+gnólacht:
+  n:
+    sense:
+    - id: 'gnólacht%1:14:00::'
+      synset: 08076706-n
+    - id: 'gnólacht%1:14:01::'
+      synset: 08077878-n
+gnóthach:
+  a:
+    sense:
+    - id: 'gnóthach%3:00:00::'
+      synset: 00293803-a
+gnóthachan:
+  n:
+    sense:
+    - id: 'gnóthachan%1:21:00::'
+      synset: 13275704-n
+    - id: 'gnóthachan%1:23:01::'
+      synset: 13776433-n
+gnóthaigh:
+  v:
+    sense:
+    - id: 'gnóthaigh%2:38:00::'
+      synset: 02024442-v
+    - id: 'gnóthaigh%2:40:01::'
+      synset: 02215637-v
+    - id: 'gnóthaigh%2:40:02::'
+      synset: 02252785-v
+    - id: 'gnóthaigh%2:40:03::'
+      synset: 02293158-v
+    - id: 'gnóthaigh%2:40:04::'
+      synset: 02294200-v
+    - id: 'gnóthaigh%2:40:05::'
+      synset: 02295422-v
+    - id: 'gnóthaigh%2:41:06::'
+      synset: 02531751-v
+gnóthas:
+  n:
+    sense:
+    - id: 'gnóthas%1:04:00::'
+      synset: 00797381-n
+    - id: 'gnóthas%1:04:01::'
+      synset: 00798547-n
+    - id: 'gnóthas%1:14:02::'
+      synset: 08077878-n
+gnóthú:
+  n:
+    sense:
+    - id: 'gnóthú%1:04:01::'
+      synset: 00063626-n
+  v:
+    sense:
+    - id: 'gnóthú%2:40:00::'
+      synset: 02294200-v
+go baileach:
+  r:
+    sense:
+    - id: 'go_baileach%4:02:00::'
+      synset: 00159432-r
+go beacht:
+  r:
+    sense:
+    - id: 'go_beacht%4:02:00::'
+      synset: 00159432-r
+go bunúsach:
+  r:
+    sense:
+    - id: 'go_bunúsach%4:02:00::'
+      synset: 00003864-r
+go coitianta:
+  r:
+    sense:
+    - id: 'go_coitianta%4:02:00::'
+      synset: 00107608-r
+go cruinn:
+  r:
+    sense:
+    - id: 'go_cruinn%4:02:00::'
+      synset: 00159432-r
+go cruinn díreach:
+  r:
+    sense:
+    - id: 'go_cruinn_díreach%4:02:00::'
+      synset: 00159432-r
+go cúramach:
+  r:
+    sense:
+    - id: 'go_cúramach%4:02:00::'
+      synset: 00154701-r
+go deimhin:
+  r:
+    sense:
+    - id: 'go_deimhin%4:02:00::'
+      synset: 00038035-r
+    - id: 'go_deimhin%4:02:01::'
+      synset: 00145758-r
+go dtí seo:
+  r:
+    sense:
+    - id: 'go_dtí_seo%4:02:00::'
+      synset: 00028314-r
+go díreach:
+  r:
+    sense:
+    - id: 'go_díreach%4:02:00::'
+      synset: 00247755-r
+    - id: 'go_díreach%4:02:01::'
+      synset: 00159432-r
+go follasach:
+  r:
+    sense:
+    - id: 'go_follasach%4:02:00::'
+      synset: 00039730-r
+go forleathan:
+  r:
+    sense:
+    - id: 'go_forleathan%4:02:00::'
+      synset: 00107608-r
+go furasta:
+  r:
+    sense:
+    - id: 'go_furasta%4:02:00::'
+      synset: 00162829-r
+go fánach:
+  r:
+    sense:
+    - id: 'go_fánach%4:02:00::'
+      synset: 00035772-r
+go fóill:
+  r:
+    sense:
+    - id: 'go_fóill%4:02:00::'
+      synset: 00028314-r
+    - id: 'go_fóill%4:02:01::'
+      synset: 00031700-r
+go gairid:
+  r:
+    sense:
+    - id: 'go_gairid%4:02:00::'
+      synset: 00034309-r
+go garbh:
+  r:
+    sense:
+    - id: 'go_garbh%4:02:00::'
+      synset: 00007414-r
+go gasta:
+  r:
+    sense:
+    - id: 'go_gasta%4:02:00::'
+      synset: 00086161-r
+go gcothrom:
+  r:
+    sense:
+    - id: 'go_gcothrom%4:02:00::'
+      synset: 00022585-r
+go ginearálta:
+  r:
+    sense:
+    - id: 'go_ginearálta%4:02:00::'
+      synset: 00042364-r
+    - id: 'go_ginearálta%4:02:01::'
+      synset: 00156754-r
+go hainmheasartha:
+  r:
+    sense:
+    - id: 'go_hainmheasartha%4:02:00::'
+      synset: 00047930-r
+go hannamh:
+  r:
+    sense:
+    - id: 'go_hannamh%4:02:00::'
+      synset: 00035772-r
+go hard:
+  r:
+    sense:
+    - id: 'go_hard%4:02:00::'
+      synset: 00089896-r
+go hiomarcach:
+  r:
+    sense:
+    - id: 'go_hiomarcach%4:02:00::'
+      synset: 00047930-r
+go hiomlán:
+  r:
+    sense:
+    - id: 'go_hiomlán%4:02:00::'
+      synset: 00009062-r
+    - id: 'go_hiomlán%4:02:01::'
+      synset: 00009459-r
+    - id: 'go_hiomlán%4:02:02::'
+      synset: 00032295-r
+    - id: 'go_hiomlán%4:02:03::'
+      synset: 00008423-r
+    - id: 'go_hiomlán%4:02:04::'
+      synset: 00010928-r
+go hiondúil:
+  r:
+    sense:
+    - id: 'go_hiondúil%4:02:00::'
+      synset: 00107608-r
+go huile agus go hiomlán:
+  r:
+    sense:
+    - id: 'go_huile_agus_go_hiomlán%4:02:00::'
+      synset: 00008423-r
+go háirithe:
+  r:
+    sense:
+    - id: 'go_háirithe%4:02:00::'
+      synset: 00084573-r
+go héasca:
+  r:
+    sense:
+    - id: 'go_héasca%4:02:00::'
+      synset: 00148912-r
+    - id: 'go_héasca%4:02:01::'
+      synset: 00162829-r
+go leor:
+  a:
+    sense:
+    - id: 'go_leor%3:00:01::'
+      synset: 01555990-a
+    - id: 'go_leor%3:00:02::'
+      synset: 01557986-a
+  r:
+    sense:
+    - id: 'go_leor%4:02:00::'
+      synset: 00146749-r
+go luath:
+  r:
+    sense:
+    - id: 'go_luath%4:02:00::'
+      synset: 00034309-r
+go léir:
+  a:
+    sense:
+    - id: 'go_léir%3:00:00::'
+      synset: 02277044-a
+  s:
+    sense:
+    - id: go_léir%5:00:01:iomlán:03
+      synset: 00517305-s
+go maith:
+  r:
+    sense:
+    - id: 'go_maith%4:02:00::'
+      synset: 00014747-r
+    - id: 'go_maith%4:02:01::'
+      synset: 00013241-r
+go mall:
+  r:
+    sense:
+    - id: 'go_mall%4:02:00::'
+      synset: 00162829-r
+go mear:
+  r:
+    sense:
+    - id: 'go_mear%4:02:00::'
+      synset: 00086161-r
+go minic:
+  r:
+    sense:
+    - id: 'go_minic%4:02:00::'
+      synset: 00035445-r
+go mion agus go minic:
+  r:
+    sense:
+    - id: 'go_mion_agus_go_minic%4:02:00::'
+      synset: 00035445-r
+go mór:
+  r:
+    sense:
+    - id: 'go_mór%4:02:00::'
+      synset: 00014747-r
+    - id: 'go_mór%4:02:01::'
+      synset: 00032295-r
+    - id: 'go_mór%4:02:02::'
+      synset: 00089896-r
+go mór mór:
+  r:
+    sense:
+    - id: 'go_mór_mór%4:02:00::'
+      synset: 00084573-r
+go neamh-mheasartha:
+  r:
+    sense:
+    - id: 'go_neamh-mheasartha%4:02:00::'
+      synset: 00047930-r
+go neamhshuntasach:
+  r:
+    sense:
+    - id: 'go_neamhshuntasach%4:02:00::'
+      synset: 00107608-r
+go pointe áirithe:
+  r:
+    sense:
+    - id: 'go_pointe_áirithe%4:02:00::'
+      synset: 00008102-r
+go pointeáilte:
+  r:
+    sense:
+    - id: 'go_pointeáilte%4:02:00::'
+      synset: 00159432-r
+go príomha:
+  r:
+    sense:
+    - id: 'go_príomha%4:02:00::'
+      synset: 00074163-r
+go sciobtha:
+  r:
+    sense:
+    - id: 'go_sciobtha%4:02:00::'
+      synset: 00086161-r
+go simplí:
+  r:
+    sense:
+    - id: 'go_simplí%4:02:00::'
+      synset: 00005103-r
+go soiléir:
+  r:
+    sense:
+    - id: 'go_soiléir%4:02:00::'
+      synset: 00039730-r
+go speisialta:
+  r:
+    sense:
+    - id: 'go_speisialta%4:02:00::'
+      synset: 00084573-r
+go tapa:
+  r:
+    sense:
+    - id: 'go_tapa%4:02:00::'
+      synset: 00086161-r
+go tobann:
+  r:
+    sense:
+    - id: 'go_tobann%4:02:00::'
+      synset: 00049277-r
+gob:
+  v:
+    sense:
+    - id: 'gob%2:42:00::'
+      synset: 02719247-v
+gobharnóir:
+  n:
+    sense:
+    - id: 'gobharnóir%1:18:00::'
+      synset: 10159834-n
+goid:
+  n:
+    sense:
+    - id: 'goid%1:04:01::'
+      synset: 00782543-n
+  v:
+    sense:
+    - id: 'goid%2:40:00::'
+      synset: 02326737-v
+goill ar:
+  v:
+    sense:
+    - id: 'goill_ar%2:37:00::'
+      synset: 01771801-v
+goirmín searraigh:
+  n:
+    sense:
+    - id: 'goirmín_searraigh%1:20:00::'
+      synset: 12411198-n
+gor:
+  n:
+    sense:
+    - id: 'gor%1:22:00::'
+      synset: 13512667-n
+gorlann:
+  n:
+    sense:
+    - id: 'gorlann%1:15:00::'
+      synset: 08598827-n
+gorm:
+  a:
+    sense:
+    - id: 'gorm%3:00:00::'
+      synset: 00371931-a
+  n:
+    sense:
+    - id: 'gorm%1:07:01::'
+      synset: 04976072-n
+gormán:
+  n:
+    sense:
+    - id: 'gormán%1:20:00::'
+      synset: 11968271-n
+gort:
+  n:
+    sense:
+    - id: 'gort%1:15:00::'
+      synset: 08587527-n
+gorta:
+  n:
+    sense:
+    - id: 'gorta%1:11:00::'
+      synset: 07330390-n
+gortaigh:
+  v:
+    sense:
+    - id: 'gortaigh%2:29:00::'
+      synset: 00064414-v
+    - id: 'gortaigh%2:29:01::'
+      synset: 00069650-v
+    - id: 'gortaigh%2:37:02::'
+      synset: 01797206-v
+gortú:
+  n:
+    sense:
+    - id: 'gortú%1:26:00::'
+      synset: 14309164-n
+gradam:
+  n:
+    sense:
+    - id: 'gradam%1:26:00::'
+      synset: 13971316-n
+graf:
+  n:
+    sense:
+    - id: 'graf%1:10:00::'
+      synset: 07012462-n
+    - id: 'graf%1:10:01::'
+      synset: 07012937-n
+grafach:
+  a:
+    sense:
+    - id: 'grafach%3:00:00::'
+      synset: 02293012-a
+    - id: 'grafach%3:01:01::'
+      synset: 02747544-a
+graifít:
+  n:
+    sense:
+    - id: 'graifít%1:27:00::'
+      synset: 14820745-n
+gram:
+  n:
+    sense:
+    - id: 'gram%1:23:00::'
+      synset: 13745822-n
+gramadach:
+  n:
+    sense:
+    - id: 'gramadach%1:09:00::'
+      synset: 06184139-n
+graí:
+  n:
+    sense:
+    - id: 'graí%1:05:00::'
+      synset: 02379943-n
+greamachán:
+  n:
+    sense:
+    - id: 'greamachán%1:27:00::'
+      synset: 14726577-n
+greamaigh:
+  v:
+    sense:
+    - id: 'greamaigh%2:35:00::'
+      synset: 01343121-v
+greamaitheach:
+  a:
+    sense:
+    - id: 'greamaitheach%3:00:00::'
+      synset: 00052912-a
+greamaitheacht:
+  n:
+    sense:
+    - id: 'greamaitheacht%1:07:00::'
+      synset: 04942705-n
+greamán:
+  n:
+    sense:
+    - id: 'greamán%1:06:00::'
+      synset: 03490658-n
+greim:
+  n:
+    sense:
+    - id: 'greim%1:04:00::'
+      synset: 00814187-n
+    - id: 'greim%1:07:01::'
+      synset: 05202142-n
+grian:
+  n:
+    sense:
+    - id: 'grian%1:19:00::'
+      synset: 11505767-n
+grianbhladhm:
+  n:
+    sense:
+    - id: 'grianbhladhm%1:19:00::'
+      synset: 11530641-n
+grianghraf:
+  n:
+    sense:
+    - id: 'grianghraf%1:06:00::'
+      synset: 03931348-n
+grianghrafadóir:
+  n:
+    sense:
+    - id: 'grianghrafadóir%1:18:00::'
+      synset: 10446513-n
+grianghrafadóireacht:
+  n:
+    sense:
+    - id: 'grianghrafadóireacht%1:22:00::'
+      synset: 13557997-n
+    - id: 'grianghrafadóireacht%1:04:01::'
+      synset: 00621794-n
+    - id: 'grianghrafadóireacht%1:04:02::'
+      synset: 00905257-n
+grianstad:
+  n:
+    sense:
+    - id: 'grianstad%1:28:00::'
+      synset: 15246614-n
+gribhéad:
+  n:
+    sense:
+    - id: 'gribhéad%1:05:00::'
+      synset: 02488002-n
+grinneall:
+  n:
+    sense:
+    - id: 'grinneall%1:17:00::'
+      synset: 09240545-n
+gruagaire:
+  n:
+    sense:
+    - id: 'gruagaire%1:18:00::'
+      synset: 10175409-n
+gruaig:
+  n:
+    sense:
+    - id: 'gruaig%1:08:00::'
+      synset: 05262259-n
+grus:
+  n:
+    sense:
+    - id: 'grus%1:10:00::'
+      synset: 06890899-n
+gruth:
+  n:
+    sense:
+    - id: 'gruth%1:13:00::'
+      synset: 07865888-n
+grá:
+  n:
+    sense:
+    - id: 'grá%1:12:02::'
+      synset: 07558676-n
+  v:
+    sense:
+    - id: 'grá%2:37:00::'
+      synset: 01779085-v
+    - id: 'grá%2:37:01::'
+      synset: 01832678-v
+grád:
+  n:
+    sense:
+    - id: 'grád%1:26:00::'
+      synset: 14451564-n
+    - id: 'grád%1:14:01::'
+      synset: 08255384-n
+grádán:
+  n:
+    sense:
+    - id: 'grádán%1:24:00::'
+      synset: 13881709-n
+gráinigh:
+  v:
+    sense:
+    - id: 'gráinigh%2:37:00::'
+      synset: 01778057-v
+gráinne:
+  n:
+    sense:
+    - id: 'gráinne%1:17:00::'
+      synset: 09313683-n
+gráinneach:
+  a:
+    sense:
+    - id: 'gráinneach%3:00:00::'
+      synset: 02239247-a
+gráinnín:
+  n:
+    sense:
+    - id: 'gráinnín%1:17:00::'
+      synset: 09314419-n
+grán:
+  n:
+    sense:
+    - id: 'grán%1:25:00::'
+      synset: 13922097-n
+    - id: 'grán%1:13:01::'
+      synset: 07818393-n
+grán buí:
+  n:
+    sense:
+    - id: 'grán_buí%1:20:00::'
+      synset: 12164193-n
+gránach:
+  n:
+    sense:
+    - id: 'gránach%1:20:00::'
+      synset: 12162012-n
+    - id: 'gránach%1:13:01::'
+      synset: 07718541-n
+    - id: 'gránach%1:13:02::'
+      synset: 07818393-n
+gránbharr:
+  n:
+    sense:
+    - id: 'gránbharr%1:20:00::'
+      synset: 12162012-n
+gránna:
+  a:
+    sense:
+    - id: 'gránna%3:00:00::'
+      synset: 00222548-a
+gránádóir:
+  n:
+    sense:
+    - id: 'gránádóir%1:05:00::'
+      synset: 02528334-n
+gránáid:
+  n:
+    sense:
+    - id: 'gránáid%1:06:00::'
+      synset: 03463203-n
+gréasaí:
+  n:
+    sense:
+    - id: 'gréasaí%1:18:00::'
+      synset: 09952556-n
+gréasán:
+  n:
+    sense:
+    - id: 'gréasán%1:06:00::'
+      synset: 04611634-n
+    - id: 'gréasán%1:14:01::'
+      synset: 08451269-n
+gréim a fháil:
+  v:
+    sense:
+    - id: 'gréim_a_fháil%2:40:00::'
+      synset: 02218118-v
+gríosaigh:
+  v:
+    sense:
+    - id: 'gríosaigh%2:32:00::'
+      synset: 00767694-v
+grósaeir:
+  n:
+    sense:
+    - id: 'grósaeir%1:18:00::'
+      synset: 10167230-n
+grúdaireacht:
+  n:
+    sense:
+    - id: 'grúdaireacht%1:04:00::'
+      synset: 00916971-n
+grúmaeir:
+  n:
+    sense:
+    - id: 'grúmaeir%1:18:00::'
+      synset: 10663740-n
+grúnlas:
+  n:
+    sense:
+    - id: 'grúnlas%1:20:00::'
+      synset: 12033224-n
+grúpa:
+  n:
+    sense:
+    - id: 'grúpa%1:03:00::'
+      synset: 00031563-n
+grúpáil:
+  v:
+    sense:
+    - id: 'grúpáil%2:31:00::'
+      synset: 00658247-v
+guais:
+  n:
+    sense:
+    - id: 'guais%1:26:00::'
+      synset: 14500436-n
+guaiseach:
+  s:
+    sense:
+    - id: guaiseach%5:00:00:contúirteach:00
+      synset: 02067215-s
+gual:
+  n:
+    sense:
+    - id: 'gual%1:27:00::'
+      synset: 14838786-n
+gualainn:
+  n:
+    sense:
+    - id: 'gualainn%1:08:00::'
+      synset: 05556473-n
+gualcheantar:
+  n:
+    sense:
+    - id: 'gualcheantar%1:15:00::'
+      synset: 08677294-n
+guilbneach:
+  n:
+    sense:
+    - id: 'guilbneach%1:05:00::'
+      synset: 02036783-n
+guine:
+  n:
+    sense:
+    - id: 'guine%1:05:00::'
+      synset: 01811747-n
+guma:
+  n:
+    sense:
+    - id: 'guma%1:13:00::'
+      synset: 07615569-n
+gunna:
+  n:
+    sense:
+    - id: 'gunna%1:06:00::'
+      synset: 03472916-n
+guth:
+  n:
+    sense:
+    - id: 'guth%1:10:00::'
+      synset: 07125323-n
+guthán:
+  n:
+    sense:
+    - id: 'guthán%1:06:00::'
+      synset: 04408223-n
+guábha:
+  n:
+    sense:
+    - id: 'guábha%1:13:00::'
+      synset: 07781337-n
+gá:
+  n:
+    sense:
+    - id: 'gá%1:26:00::'
+      synset: 14472592-n
+    - id: 'gá%1:26:01::'
+      synset: 14474157-n
+    - id: 'gá%1:17:03::'
+      synset: 09390100-n
+    - id: 'gá%1:17:04::'
+      synset: 09390888-n
+  v:
+    sense:
+    - id: 'gá%2:42:02::'
+      synset: 02634015-v
+gáir:
+  n:
+    sense:
+    - id: 'gáir%1:10:00::'
+      synset: 06704429-n
+gáma:
+  n:
+    sense:
+    - id: 'gáma%1:10:00::'
+      synset: 06847401-n
+gás:
+  n:
+    sense:
+    - id: 'gás%1:26:00::'
+      synset: 14504664-n
+gásach:
+  a:
+    sense:
+    - id: 'gásach%3:00:00::'
+      synset: 02270298-a
+gátar:
+  n:
+    sense:
+    - id: 'gátar%1:26:00::'
+      synset: 14517300-n
+gé ghiúrainn:
+  n:
+    sense:
+    - id: 'gé_ghiúrainn%1:05:00::'
+      synset: 01860492-n
+gé ghlas:
+  n:
+    sense:
+    - id: 'gé_ghlas%1:05:00::'
+      synset: 01859194-n
+géag:
+  n:
+    sense:
+    - id: 'géag%1:08:00::'
+      synset: 05567877-n
+    - id: 'géag%1:08:01::'
+      synset: 05571403-n
+géaraigh:
+  v:
+    sense:
+    - id: 'géaraigh%2:30:00::'
+      synset: 00291064-v
+    - id: 'géaraigh%2:40:01::'
+      synset: 02218118-v
+géarchéim:
+  n:
+    sense:
+    - id: 'géarchéim%1:26:00::'
+      synset: 13956593-n
+géarleanúint:
+  n:
+    sense:
+    - id: 'géarleanúint%1:04:00::'
+      synset: 00421490-n
+géill:
+  v:
+    sense:
+    - id: 'géill%2:33:00::'
+      synset: 01118003-v
+    - id: 'géill%2:41:01::'
+      synset: 02547977-v
+    - id: 'géill%2:42:02::'
+      synset: 02686624-v
+géilliúil:
+  a:
+    sense:
+    - id: 'géilliúil%3:00:00::'
+      synset: 00699967-a
+géim:
+  n:
+    sense:
+    - id: 'géim%1:05:00::'
+      synset: 02155643-n
+géin:
+  n:
+    sense:
+    - id: 'géin%1:08:00::'
+      synset: 05444328-n
+géineas:
+  n:
+    sense:
+    - id: 'géineas%1:14:00::'
+      synset: 08125938-n
+géineolaíocht:
+  n:
+    sense:
+    - id: 'géineolaíocht%1:09:00::'
+      synset: 06085077-n
+géiniteach:
+  a:
+    sense:
+    - id: 'géiniteach%3:01:00::'
+      synset: 02745280-a
+    - id: 'géiniteach%3:00:01::'
+      synset: 01317491-a
+gínéiceolaíocht:
+  n:
+    sense:
+    - id: 'gínéiceolaíocht%1:09:00::'
+      synset: 06060432-n
+góchum:
+  v:
+    sense:
+    - id: 'góchum%2:36:00::'
+      synset: 01657814-v
+góiséireacht:
+  n:
+    sense:
+    - id: 'góiséireacht%1:06:00::'
+      synset: 03545447-n
+gónad:
+  n:
+    sense:
+    - id: 'gónad%1:08:00::'
+      synset: 05532081-n
+gúna:
+  n:
+    sense:
+    - id: 'gúna%1:06:00::'
+      synset: 03241438-n
+gúnadóir:
+  n:
+    sense:
+    - id: 'gúnadóir%1:18:00::'
+      synset: 10053137-n
+gúrú:
+  n:
+    sense:
+    - id: 'gúrú%1:18:00::'
+      synset: 10172136-n

@@ -1,0 +1,594 @@
+01620211-v:
+  definition:
+  - a chur faoi deara a dhéanamh nó a éirí
+  example:
+  - déan praiseach cheart in oifig dhuine
+  hypernym:
+  - 00772482-v
+  ili: i29849
+  members:
+  - déan
+  - cruthaigh
+  - cuir
+  partOfSpeech: v
+01622948-v:
+  definition:
+  - faigh réidh le, cur faoi deara rud nó scriosadh
+  example:
+  - Scrios an tine an teach
+  hypernym:
+  - 00126072-v
+  ili: i29858
+  members:
+  - scrios
+  partOfSpeech: v
+01624592-v:
+  definition:
+  - táirge saorga a chruthú nó a mhonarú
+  example:
+  - Táirgimid níos mó carranna ná a dhíolaimid
+  hypernym:
+  - 01620211-v
+  ili: i29865
+  members:
+  - táirg
+  - déan
+  - cruthaigh
+  - gin
+  partOfSpeech: v
+01629175-v:
+  definition:
+  - confidence: 0.0
+    text: put together out of existing material
+  hypernym:
+  - 01620211-v
+  ili: i29888
+  members:
+  - tiomsaigh
+  partOfSpeech: v
+01631641-v:
+  definition:
+  - tar ann do
+  example:
+  - Chuir sé tús le clár nua
+  hypernym:
+  - 01620211-v
+  ili: i29898
+  members:
+  - tionscnaimh
+  - tús
+  - tús a chur le tionscnaimh
+  - tionscain
+  - tosaigh
+  partOfSpeech: v
+01632192-v:
+  definition:
+  - tabhair nó soláthair
+  example:
+  - Tugann an bhó 5 lítear bainne isteach
+  hypernym:
+  - 01624592-v
+  ili: i29900
+  members:
+  - gin
+  - tabhair
+  - soláthair do
+  - déan
+  partOfSpeech: v
+01632781-v:
+  definition:
+  - cuir faoi tarlú nó tarlú dá bhrí sin
+  example:
+  - Ní féidir liom éacht a dhéanamh
+  hypernym:
+  - 01620211-v
+  ili: i29902
+  members:
+  - imir
+  - oibrigh
+  - faigh
+  - déan robach
+  - tabhair faoi
+  partOfSpeech: v
+01634614-v:
+  definition:
+  - confidence: 0.0
+    text: reestablish on a new, usually improved, basis or make new or like new
+  hypernym:
+  - 01620211-v
+  ili: i29907
+  members:
+  - athnuaigh
+  partOfSpeech: v
+01635953-v:
+  definition:
+  - tar suas le (smaoineamh, plean, míniú; teoiric, nó prionsabal) tar éis iarracht
+    mheabhrach
+  example:
+  - beartaigh bealach chun luas an tsolais a thomhas
+  hypernym:
+  - 01620211-v
+  ili: i29911
+  members:
+  - foirmigh
+  - ceap
+  - cum
+  - beartaigh
+  - cruthaigh
+  partOfSpeech: v
+01636439-v:
+  definition:
+  - confidence: 0.0
+    text: put or send forth
+  hypernym:
+  - 01955339-v
+  ili: i29912
+  members:
+  - caith
+  partOfSpeech: v
+01636885-v:
+  definition:
+  - confidence: 0.0
+    text: have the idea for
+  hypernym:
+  - 01620211-v
+  ili: i29914
+  members:
+  - ceap
+  partOfSpeech: v
+01638974-v:
+  definition:
+  - samhlaigh; feiceáil i samhlaíocht duine
+  example:
+  - Ní féidir liom é a shamhlú ar muin capaill!
+  hypernym:
+  - 01639939-v
+  ili: i29923
+  members:
+  - samhlaigh
+  - feic
+  - tuar
+  - déan samhail de
+  partOfSpeech: v
+01639939-v:
+  definition:
+  - íomhá mheabhrach ruda nach bhfuil ann nó nach bhfuil an cás
+  example:
+  - An féidir leat é a shamhlú mar uachtarán?
+  hypernym:
+  - 01620211-v
+  ili: i29926
+  members:
+  - samhlaigh
+  partOfSpeech: v
+01641524-v:
+  definition:
+  - déan follasú, tar ar aimsiú
+  example:
+  - Tháinig Roentgen ar an x-gha
+  hypernym:
+  - 01636885-v
+  ili: i29932
+  members:
+  - aimsigh
+  - tar ar
+  partOfSpeech: v
+01641910-v:
+  definition:
+  - plean a dhéanamh nó a oibriú amach le haghaidh; beartaigh
+  example:
+  - Rinne siad plean chun a mbas a mharú
+  hypernym:
+  - 01620211-v
+  ili: i29933
+  members:
+  - dear
+  - pleanáil
+  - leag amach
+  - cuir le chéile
+  - oibrigh amach
+  partOfSpeech: v
+01644397-v:
+  definition:
+  - cuir i bhfeidhm
+  example:
+  - cuir tasc i gcrích
+  hypernym:
+  - 00485097-v
+  - 01649143-v
+  ili: i29944
+  members:
+  - bain amach
+  - déan
+  - comhlíon
+  - cuir i gcrích
+  - cuir i bhfeidhm
+  - comhaill
+  partOfSpeech: v
+01645979-v:
+  definition:
+  - confidence: 0.0
+    text: bring something new to an environment
+  hypernym:
+  - 01649143-v
+  ili: i29951
+  members:
+  - tabhair isteach
+  - tionscain
+  partOfSpeech: v
+01647199-v:
+  definition:
+  - confidence: 0.0
+    text: put in motion or move to act
+  hypernym:
+  - 01649143-v
+  ili: i29957
+  members:
+  - gníomhachtaigh
+  partOfSpeech: v
+01648288-v:
+  definition:
+  - confidence: 0.0
+    text: make real or concrete; give reality or substance to
+  hypernym:
+  - 01620211-v
+  ili: i29962
+  members:
+  - fíoraigh
+  partOfSpeech: v
+01649143-v:
+  definition:
+  - bheith ina chúis le rud; a chur faoi deara a tharlú, ní i gcónaí d'aon ghnó
+  example:
+  - rinne an tine damáiste don teach
+  hypernym:
+  - 01620211-v
+  ili: i29966
+  members:
+  - déan do
+  - cuir ar
+  - déan
+  partOfSpeech: v
+01650771-v:
+  definition:
+  - bunaigh nó déan an réiteach do
+  example:
+  - bunaigh roinn nua
+  hypernym:
+  - 01649143-v
+  ili: i29973
+  members:
+  - cuir
+  - bunaigh
+  - tionscain
+  partOfSpeech: v
+01653541-v:
+  definition:
+  - confidence: 0.0
+    text: give an incentive for action
+  hypernym:
+  - 01649143-v
+  ili: i29990
+  members:
+  - spreag
+  partOfSpeech: v
+01654835-v:
+  definition:
+  - tosaigh ar ghníomhaíocht nó ar fhiontar
+  hypernym:
+  - 01649143-v
+  ili: i29994
+  members:
+  - tabhair faoi
+  - déan
+  partOfSpeech: v
+01656984-v:
+  definition:
+  - confidence: 0.0
+    text: put together out of artificial or natural components or parts
+  hypernym:
+  - 01620211-v
+  ili: i30004
+  members:
+  - monaraigh
+  partOfSpeech: v
+01657814-v:
+  definition:
+  - confidence: 0.0
+    text: make a copy of with the intent to deceive
+  hypernym:
+  - 01620211-v
+  ili: i30007
+  members:
+  - góchum
+  partOfSpeech: v
+01658171-v:
+  definition:
+  - rud éigin a dhéanamh faoi ábhair agus comhpháirteanna a chur le chéile
+  example:
+  - rinne an muc beag seo a teach de thuí
+  hypernym:
+  - 01620211-v
+  ili: i30008
+  members:
+  - déan
+  - tóg
+  - foirgnigh
+  - cuir le chéile
+  partOfSpeech: v
+01660471-v:
+  definition:
+  - cruthaigh trí chomhpháirteanna nó baill a chur le chéile
+  example:
+  - Ghearr sí cuilt
+  hypernym:
+  - 01297878-v
+  - 01620211-v
+  ili: i30018
+  members:
+  - cuir ar bun
+  - ceangail
+  - píosáil
+  - tornáil le chéile
+  - cur le chéile
+  - cruinnigh
+  partOfSpeech: v
+01665137-v:
+  definition:
+  - foirgnigh, tóg nó cuir suas
+  example:
+  - Ardaigh scioból
+  hypernym:
+  - 01658171-v
+  ili: i30040
+  members:
+  - ardaigh
+  - cuir ar bun
+  - cuir suas
+  - tóg
+  partOfSpeech: v
+01666666-v:
+  definition:
+  - confidence: 0.0
+    text: form by pouring (e.g., wax or hot metal) into a cast or mold
+  hypernym:
+  - 01620211-v
+  ili: i30047
+  members:
+  - teilg
+  partOfSpeech: v
+01668067-v:
+  definition:
+  - ullmhú le haghaidh ithe trí chur i bhfeidhm teasa
+  example:
+  - Réitigh dinnéar dom, le do thoil
+  hypernym:
+  - 01620211-v
+  ili: i30054
+  members:
+  - réitigh
+  - ullmhaigh
+  partOfSpeech: v
+01690851-v:
+  definition:
+  - taispeáin i bpictiúr nó mar atá i bpictiúr
+  example:
+  - Léiríonn an radharc seo saol na tuaithe
+  hypernym:
+  - 01620211-v
+  ili: i30180
+  members:
+  - léirigh
+  partOfSpeech: v
+01702148-v:
+  definition:
+  - saothar liteartha a chur ar fáil
+  example:
+  - Chum sí dán
+  hypernym:
+  - 01620211-v
+  ili: i30237
+  members:
+  - cum
+  - scríobh
+  partOfSpeech: v
+01705493-v:
+  definition:
+  - confidence: 0.0
+    text: draw up an outline or sketch for something
+  hypernym:
+  - 01702148-v
+  ili: i30252
+  members:
+  - dréachtaigh
+  partOfSpeech: v
+01716563-v:
+  definition:
+  - gníomh a bhaint amach nó a chur i gcrích
+  example:
+  - Rinne John an phéinteáil, an gortghlanadh, agus ghlan sé na gáitéir
+  hypernym:
+  - 02372362-v
+  ili: i30309
+  members:
+  - déan
+  - bain amach
+  - cuir i gcrích
+  - cuir i bhfeidhm
+  - cuir i ngníomh
+  - comhlíon
+  - feidhmigh
+  partOfSpeech: v
+01723161-v:
+  definition:
+  - ról nó páirt a dhéanamh
+  example:
+  - Rinne Gielgud Hamlet
+  hypernym:
+  - 01620211-v
+  ili: i30339
+  members:
+  - gníomh
+  partOfSpeech: v
+01728928-v:
+  definition:
+  - seinn ar uirlis
+  example:
+  - Sheinn an banna ar feadh na hoíche
+  hypernym:
+  - 01620211-v
+  ili: i30364
+  members:
+  - imir
+  - seinn
+  partOfSpeech: v
+01733312-v:
+  definition:
+  - tóin a tháirgeadh leis an nguth
+  example:
+  - Bhí sí ag canadh agus í ag cócaireacht
+  hypernym:
+  - 00944022-v
+  ili: i30388
+  members:
+  - can
+  partOfSpeech: v
+01734912-v:
+  definition:
+  - seachaid faoi canadh
+  example:
+  - carúil Nollag a chanadh
+  hypernym:
+  - 01733312-v
+  - 01716563-v
+  ili: i30394
+  members:
+  - can
+  partOfSpeech: v
+01736802-v:
+  definition:
+  - treoraigh, mar i léiriú comhdhéanaimh
+  example:
+  - ceolfhoireann a stiúradh, stiúradh Barenboim an siansa Chicago le blianta
+  hypernym:
+  - 01716563-v
+  ili: i30403
+  members:
+  - treoraigh
+  partOfSpeech: v
+01737358-v:
+  definition:
+  - eagraigh nó a bheith freagrach as
+  example:
+  - fáiltiú a eagrú
+  hypernym:
+  - 02441196-v
+  ili: i30405
+  members:
+  - eagraigh
+  - ag
+  - tabhair
+  - déan
+  - tionóil
+  partOfSpeech: v
+01740703-v:
+  definition:
+  - confidence: 0.0
+    text: make a copy or equivalent of
+  hypernym:
+  - 01624592-v
+  ili: i30422
+  members:
+  - atáirg
+  partOfSpeech: v
+01742478-v:
+  definition:
+  - oibrigh amach
+  example:
+  - Tá teoiric nua na héabhlóide forbartha againn
+  hypernym:
+  - 01620211-v
+  ili: i30430
+  members:
+  - forbair
+  partOfSpeech: v
+01742655-v:
+  definition:
+  - déan rud nua, cosúil le tairge nó cruthú meabhrach nó ealáine
+  example:
+  - D'fhorbair a cuideachta cineál nua ábhar tógála a sheasann do gach cineál aimsire
+  hypernym:
+  - 01757596-v
+  ili: i30431
+  members:
+  - forbair
+  partOfSpeech: v
+01743695-v:
+  definition:
+  - confidence: 0.0
+    text: cultivate by growing, often involving improvements by means of agricultural
+      techniques
+  hypernym:
+  - 02560130-v
+  ili: i30436
+  members:
+  - fás
+  - saothraigh
+  partOfSpeech: v
+01745327-v:
+  definition:
+  - confidence: 0.0
+    text: prepare for crops
+  hypernym:
+  - 00407168-v
+  ili: i30442
+  members:
+  - saothraigh
+  partOfSpeech: v
+01749530-v:
+  definition:
+  - a chur i gcló
+  example:
+  - D'fhoilsigh an páipéar nuachta an nuacht faoi cholscaradh an chúpla ríoga
+  hypernym:
+  - 01624592-v
+  ili: i30462
+  members:
+  - foilsigh
+  - priontáil
+  - clóbhuail
+  partOfSpeech: v
+01751182-v:
+  definition:
+  - confidence: 0.0
+    text: copy down as is
+  hypernym:
+  - 01585566-v
+  ili: i30471
+  members:
+  - cóipeáil
+  partOfSpeech: v
+01756692-v:
+  definition:
+  - cúis le tarlú, tarlú nó ann
+  example:
+  - Táirgeann an nós imeachta seo éifeacht aisteach
+  hypernym:
+  - 01620211-v
+  ili: i30504
+  members:
+  - toradh
+  - tabhair faoi deara
+  - tabhair faoi
+  partOfSpeech: v
+01757596-v:
+  definition:
+  - tabhair ann do
+  example:
+  - Cruthaíodh an chuideachta 25 bliain ó shin
+  hypernym:
+  - 02372362-v
+  ili: i30508
+  members:
+  - cruthaigh
+  partOfSpeech: v

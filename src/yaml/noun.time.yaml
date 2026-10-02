@@ -1,0 +1,912 @@
+15137796-n:
+  definition:
+  - confidence: 0.0
+    text: an amount of time
+  hypernym:
+  - 00033914-n
+  ili: i116632
+  members:
+  - tréimhse
+  partOfSpeech: n
+15146567-n:
+  definition:
+  - confidence: 0.0
+    text: the time yet to come
+  hypernym:
+  - 00028468-n
+  ili: i116664
+  members:
+  - todhchaí
+  partOfSpeech: n
+15147173-n:
+  definition:
+  - confidence: 0.0
+    text: an indefinite period (usually marked by specific attributes or activities)
+  hypernym:
+  - 15137796-n
+  ili: i116667
+  members:
+  - aimsir
+  - am
+  - tréimhse
+  partOfSpeech: n
+15148032-n:
+  definition:
+  - confidence: 0.0
+    text: a point or period in time
+  hypernym:
+  - 15147173-n
+  ili: i116670
+  members:
+  - lá
+  partOfSpeech: n
+15154879-n:
+  definition:
+  - confidence: 0.0
+    text: a reading of a point in time as given by a clock
+  hypernym:
+  - 00023451-n
+  ili: i116704
+  members:
+  - am
+  - tráth
+  - uair
+  partOfSpeech: n
+15158573-n:
+  definition:
+  - confidence: 0.0
+    text: the period of time during which something continues
+  hypernym:
+  - 15137796-n
+  ili: i116723
+  members:
+  - fad
+  partOfSpeech: n
+15162842-n:
+  definition:
+  - confidence: 0.0
+    text: leisure time away from work devoted to rest or pleasure
+  hypernym:
+  - 15137796-n
+  ili: i116749
+  members:
+  - saoire
+  partOfSpeech: n
+15164090-n:
+  definition:
+  - confidence: 0.0
+    text: the period of time during which you are absent from work or duty
+  hypernym:
+  - 15137796-n
+  ili: i116758
+  members:
+  - saoire
+  partOfSpeech: n
+15165365-n:
+  definition:
+  - confidence: 0.0
+    text: the period during which something is functional (as between birth and death)
+  hypernym:
+  - 15137796-n
+  ili: i116767
+  members:
+  - saol
+  partOfSpeech: n
+15168437-n:
+  definition:
+  - confidence: 0.0
+    text: the time when something ends
+  hypernym:
+  - 15291722-n
+  ili: i116783
+  members:
+  - bás
+  partOfSpeech: n
+15178747-n:
+  definition:
+  - confidence: 0.0
+    text: a late time of life
+  hypernym:
+  - 15137796-n
+  ili: i116852
+  members:
+  - seanaois
+  partOfSpeech: n
+15180180-n:
+  definition:
+  - confidence: 0.0
+    text: time for Earth to make a complete rotation on its axis
+  hypernym:
+  - 00033914-n
+  ili: i116858
+  members:
+  - lá
+  partOfSpeech: n
+15180851-n:
+  definition:
+  - confidence: 0.0
+    text: the day after today
+  hypernym:
+  - 15180180-n
+  ili: i116860
+  members:
+  - amárach
+  partOfSpeech: n
+15182185-n:
+  definition:
+  - confidence: 0.0
+    text: a day assigned to a particular purpose or observance
+  hypernym:
+  - 15137796-n
+  ili: i116868
+  members:
+  - lá
+  partOfSpeech: n
+15184543-n:
+  definition:
+  - confidence: 0.0
+    text: the specified day of the month
+  hypernym:
+  - 15180180-n
+  ili: i116878
+  members:
+  - dáta
+  partOfSpeech: n
+15187435-n:
+  definition:
+  - confidence: 0.0
+    text: a day or period of time set aside for feasting and celebration
+  hypernym:
+  - 15137796-n
+  ili: i116891
+  members:
+  - féile
+  partOfSpeech: n
+15188844-n:
+  definition:
+  - confidence: 0.0
+    text: first day of the week; observed as a day of rest and worship by most Christians
+  hypernym:
+  - 15137796-n
+  ili: i116899
+  members:
+  - Domhnach
+  partOfSpeech: n
+15189026-n:
+  definition:
+  - confidence: 0.0
+    text: the second day of the week; the first working day
+  hypernym:
+  - 15137796-n
+  ili: i116900
+  members:
+  - Luan
+  partOfSpeech: n
+15189401-n:
+  definition:
+  - confidence: 0.0
+    text: the fifth day of the week; the fourth working day
+  hypernym:
+  - 15137796-n
+  ili: i116903
+  members:
+  - Déardaoin
+  partOfSpeech: n
+15190004-n:
+  definition:
+  - confidence: 0.0
+    text: the time after sunrise and before sunset while it is light outside
+  hypernym:
+  - 15137796-n
+  ili: i116907
+  members:
+  - lá
+  partOfSpeech: n
+15190336-n:
+  definition:
+  - confidence: 0.0
+    text: the time period between dawn and noon
+  hypernym:
+  - 15137796-n
+  ili: i116908
+  members:
+  - maidin
+  partOfSpeech: n
+15190537-n:
+  definition:
+  - confidence: 0.0
+    text: the middle of the day
+  hypernym:
+  - 15253174-n
+  ili: i116909
+  members:
+  - meán lae
+  - nóin
+  partOfSpeech: n
+15191238-n:
+  definition:
+  - confidence: 0.0
+    text: the part of the day between noon and evening
+  hypernym:
+  - 15190004-n
+  ili: i116914
+  members:
+  - iarnóin
+  - tráthnóna
+  partOfSpeech: n
+15191509-n:
+  definition:
+  - confidence: 0.0
+    text: the latter part of the day (the period of decreasing daylight from late
+      afternoon until nightfall)
+  hypernym:
+  - 15190004-n
+  ili: i116916
+  members:
+  - tráthnóna
+  partOfSpeech: n
+15192074-n:
+  definition:
+  - confidence: 0.0
+    text: the time after sunset and before sunrise while it is dark outside
+  hypernym:
+  - 15137796-n
+  ili: i116919
+  members:
+  - oíche
+  partOfSpeech: n
+15193232-n:
+  definition:
+  - confidence: 0.0
+    text: 12 o'clock at night; the middle of the night
+  hypernym:
+  - 15253174-n
+  ili: i116927
+  members:
+  - meán oíche
+  partOfSpeech: n
+15194920-n:
+  definition:
+  - confidence: 0.0
+    text: any period of seven consecutive days
+  hypernym:
+  - 15137796-n
+  ili: i116937
+  members:
+  - seachtain
+  partOfSpeech: n
+15195378-n:
+  definition:
+  - confidence: 0.0
+    text: a period of fourteen consecutive days
+  hypernym:
+  - 15137796-n
+  ili: i116939
+  members:
+  - coicís
+  partOfSpeech: n
+15198526-n:
+  definition:
+  - confidence: 0.0
+    text: a system of timekeeping that defines the beginning and length and divisions
+      of the year
+  hypernym:
+  - 05734541-n
+  ili: i116955
+  members:
+  - féilire
+  partOfSpeech: n
+15204935-n:
+  definition:
+  - confidence: 0.0
+    text: the point in time at which something must be completed
+  hypernym:
+  - 15205381-n
+  ili: i116983
+  members:
+  - spriocdháta
+  partOfSpeech: n
+15205381-n:
+  definition:
+  - confidence: 0.0
+    text: an instant of time
+  hypernym:
+  - 00033914-n
+  ili: i116986
+  members:
+  - pointe
+  partOfSpeech: n
+15213340-n:
+  definition:
+  - confidence: 0.0
+    text: the first day of April which is celebrated by playing practical jokes
+  hypernym:
+  - 15182185-n
+  ili: i117027
+  members:
+  - Lá na nAmadán
+  partOfSpeech: n
+15218361-n:
+  definition:
+  - confidence: 0.0
+    text: the Thursday before Easter; commemorates the Last Supper
+  hypernym:
+  - 15182185-n
+  ili: i117063
+  members:
+  - Déardaoin Mandála
+  partOfSpeech: n
+15220457-n:
+  definition:
+  - confidence: 0.0
+    text: the 7th Wednesday before Easter; the first day of Lent; the day following
+      Mardi Gras ('Fat Tuesday'); a day of fasting and repentance
+  hypernym:
+  - 15182185-n
+  ili: i117076
+  members:
+  - Céadaoin an Luaithrigh
+  partOfSpeech: n
+15224867-n:
+  definition:
+  - confidence: 0.0
+    text: any of several weekdays when banks are closed; a legal holiday in Britain
+  hypernym:
+  - 15182185-n
+  ili: i117095
+  members:
+  - lá saoire bainc
+  partOfSpeech: n
+15225951-n:
+  definition:
+  - confidence: 0.0
+    text: fourth Thursday in November in the United States; second Monday in October
+      in Canada; commemorates a feast held in 1621 by the Pilgrims and the Wampanoag
+  hypernym:
+  - 15182185-n
+  ili: i117101
+  members:
+  - Lá an Altaithe
+  partOfSpeech: n
+15227065-n:
+  definition:
+  - confidence: 0.0
+    text: a calendar year with an extra day added in February
+  hypernym:
+  - 15228587-n
+  ili: i117107
+  members:
+  - bliain bhisigh
+  partOfSpeech: n
+15227430-n:
+  definition:
+  - confidence: 0.0
+    text: the year (reckoned from January 1 to December 31) according to Gregorian
+      calendar
+  hypernym:
+  - 15228587-n
+  ili: i117110
+  members:
+  - bliain féilire
+  partOfSpeech: n
+15228587-n:
+  definition:
+  - confidence: 0.0
+    text: a period of time containing 365 (or 366) days
+  hypernym:
+  - 15137796-n
+  ili: i117116
+  members:
+  - bliain
+  partOfSpeech: n
+15229779-n:
+  definition:
+  - confidence: 0.0
+    text: a period of 10 years
+  hypernym:
+  - 15137796-n
+  ili: i117123
+  members:
+  - deich mbliana
+  partOfSpeech: n
+15230328-n:
+  definition:
+  - confidence: 0.0
+    text: a period of 100 years
+  hypernym:
+  - 15137796-n
+  ili: i117124
+  members:
+  - aois
+  - céad
+  partOfSpeech: n
+15231092-n:
+  definition:
+  - confidence: 0.0
+    text: a time unit of approximately 30 days
+  hypernym:
+  - 00033914-n
+  ili: i117131
+  members:
+  - mí
+  partOfSpeech: n
+15231386-n:
+  definition:
+  - confidence: 0.0
+    text: a fourth part of a year; three months
+  hypernym:
+  - 15137796-n
+  ili: i117132
+  members:
+  - ráithe
+  partOfSpeech: n
+15234209-n:
+  definition:
+  - confidence: 0.0
+    text: one of the twelve divisions of the calendar year
+  hypernym:
+  - 15137796-n
+  ili: i117150
+  members:
+  - mí
+  partOfSpeech: n
+15235282-n:
+  definition:
+  - confidence: 0.0
+    text: the month following January and preceding March
+  hypernym:
+  - 15234209-n
+  ili: i117154
+  members:
+  - Feabhra
+  partOfSpeech: n
+15236963-n:
+  definition:
+  - confidence: 0.0
+    text: the month following June and preceding August
+  hypernym:
+  - 15234209-n
+  ili: i117164
+  members:
+  - Iúil
+  partOfSpeech: n
+15237251-n:
+  definition:
+  - confidence: 0.0
+    text: the month following July and preceding September
+  hypernym:
+  - 15234209-n
+  ili: i117166
+  members:
+  - Lúnasa
+  partOfSpeech: n
+15237535-n:
+  definition:
+  - confidence: 0.0
+    text: the month following August and preceding October
+  hypernym:
+  - 15234209-n
+  ili: i117168
+  members:
+  - Meán Fómhair
+  partOfSpeech: n
+15237911-n:
+  definition:
+  - confidence: 0.0
+    text: the month following September and preceding November
+  hypernym:
+  - 15234209-n
+  ili: i117170
+  members:
+  - Deireadh Fómhair
+  partOfSpeech: n
+15238570-n:
+  definition:
+  - confidence: 0.0
+    text: the last (12th) month of the year
+  hypernym:
+  - 15234209-n
+  ili: i117174
+  members:
+  - Mí na Nollag
+  partOfSpeech: n
+15246614-n:
+  definition:
+  - confidence: 0.0
+    text: either of the two times of the year when the sun is at its greatest distance
+      from the celestial equator
+  hypernym:
+  - 00028468-n
+  ili: i117222
+  members:
+  - grianstad
+  partOfSpeech: n
+15249282-n:
+  definition:
+  - confidence: 0.0
+    text: a limited period of time
+  hypernym:
+  - 15137796-n
+  ili: i117238
+  members:
+  - tréimhse
+  - téarma
+  partOfSpeech: n
+15249488-n:
+  definition:
+  - confidence: 0.0
+    text: the period of time a prisoner is imprisoned
+  hypernym:
+  - 15249282-n
+  ili: i117239
+  members:
+  - pianbhreith
+  partOfSpeech: n
+15250593-n:
+  definition:
+  - confidence: 0.0
+    text: one of two divisions of an academic year
+  hypernym:
+  - 15249282-n
+  ili: i117245
+  members:
+  - seimeastar
+  partOfSpeech: n
+15252642-n:
+  definition:
+  - confidence: 0.0
+    text: a period of time equal to 1/24th of a day
+  hypernym:
+  - 00033914-n
+  ili: i117257
+  members:
+  - uair
+  partOfSpeech: n
+15253174-n:
+  definition:
+  - confidence: 0.0
+    text: clock time
+  hypernym:
+  - 15154879-n
+  ili: i117260
+  members:
+  - uair
+  partOfSpeech: n
+15259561-n:
+  definition:
+  - confidence: 0.0
+    text: a unit of time equal to 60 seconds or 1/60th of an hour
+  hypernym:
+  - 00033914-n
+  ili: i117297
+  members:
+  - nóiméad
+  partOfSpeech: n
+15259923-n:
+  definition:
+  - confidence: 0.0
+    text: 1/60 of a minute; the basic unit of time adopted under the Systeme International
+      d'Unites
+  hypernym:
+  - 00033914-n
+  ili: i117299
+  members:
+  - soicind
+  partOfSpeech: n
+15261656-n:
+  definition:
+  - confidence: 0.0
+    text: the season when the leaves fall from the trees
+  hypernym:
+  - 15137796-n
+  ili: i117308
+  members:
+  - fómhar
+  partOfSpeech: n
+15261841-n:
+  definition:
+  - confidence: 0.0
+    text: the season of growth; spring; the beginning of spring
+  hypernym:
+  - 15137796-n
+  ili: i117309
+  members:
+  - earrach
+  partOfSpeech: n
+15262047-n:
+  definition:
+  - confidence: 0.0
+    text: the warmest season of the year; in the Northern Hemisphere it extends from
+      the summer solstice to the autumnal equinox
+  hypernym:
+  - 15137796-n
+  ili: i117310
+  members:
+  - samhradh
+  partOfSpeech: n
+15262579-n:
+  definition:
+  - confidence: 0.0
+    text: the coldest season of the year; in the Northern Hemisphere it extends from
+      the winter solstice to the vernal equinox
+  hypernym:
+  - 15137796-n
+  ili: i117312
+  members:
+  - geimhreadh
+  partOfSpeech: n
+15264376-n:
+  definition:
+  - confidence: 0.0
+    text: a period of the year marked by special events or activities in some field
+  hypernym:
+  - 15137796-n
+  ili: i117324
+  members:
+  - séasúr
+  partOfSpeech: n
+15269461-n:
+  definition:
+  - confidence: 0.0
+    text: a particular point in time
+  hypernym:
+  - 15205381-n
+  ili: i117356
+  members:
+  - nóiméad
+  partOfSpeech: n
+15271164-n:
+  definition:
+  - confidence: 0.0
+    text: a period of indeterminate length (usually short) marked by some action or
+      condition
+  hypernym:
+  - 15147173-n
+  ili: i117367
+  members:
+  - tamall
+  partOfSpeech: n
+15274610-n:
+  definition:
+  - confidence: 0.0
+    text: the date on which an event occurred in some previous year (or the celebration
+      of it)
+  hypernym:
+  - 15182185-n
+  ili: i117383
+  members:
+  - cothrom an lae
+  partOfSpeech: n
+15274989-n:
+  definition:
+  - confidence: 0.0
+    text: an anniversary of the day on which a person was born (or the celebration
+      of it)
+  hypernym:
+  - 15274610-n
+  ili: i117384
+  members:
+  - breithlá
+  partOfSpeech: n
+15278839-n:
+  definition:
+  - confidence: 0.0
+    text: an era of history having some distinctive feature
+  hypernym:
+  - 15137796-n
+  ili: i117408
+  members:
+  - aois
+  partOfSpeech: n
+15280006-n:
+  definition:
+  - confidence: 0.0
+    text: any period of time during which glaciers covered a large part of the earth's
+      surface
+  hypernym:
+  - 00028468-n
+  ili: i117412
+  members:
+  - oighearaois
+  partOfSpeech: n
+15290329-n:
+  definition:
+  - confidence: 0.0
+    text: the time at which something is supposed to begin
+  hypernym:
+  - 15205381-n
+  ili: i117471
+  members:
+  - tosach
+  - tús
+  partOfSpeech: n
+15290975-n:
+  definition:
+  - confidence: 0.0
+    text: earliest limiting point
+  hypernym:
+  - 15290329-n
+  ili: i117473
+  members:
+  - túsphointe
+  partOfSpeech: n
+15291722-n:
+  definition:
+  - confidence: 0.0
+    text: the point in time at which something ends
+  hypernym:
+  - 15205381-n
+  ili: i117477
+  members:
+  - críoch
+  - deireadh
+  partOfSpeech: n
+15292365-n:
+  definition:
+  - confidence: 0.0
+    text: the temporal end; the concluding time
+  hypernym:
+  - 15291722-n
+  ili: i117479
+  members:
+  - deireadh
+  partOfSpeech: n
+15293639-n:
+  definition:
+  - confidence: 0.0
+    text: a coming to an end of a contract period
+  hypernym:
+  - 15291722-n
+  ili: i117485
+  members:
+  - deireadh
+  - éag
+  partOfSpeech: n
+15293950-n:
+  definition:
+  - confidence: 0.0
+    text: the starting point for a new state or experience
+  hypernym:
+  - 15290329-n
+  ili: i117487
+  members:
+  - tairseach
+  partOfSpeech: n
+15294470-n:
+  definition:
+  - confidence: 0.0
+    text: a definite length of time marked off by two instants
+  hypernym:
+  - 00033914-n
+  ili: i117490
+  members:
+  - achar
+  - eatramh
+  - tréimhse
+  partOfSpeech: n
+15295994-n:
+  definition:
+  - confidence: 0.0
+    text: a time interval during which there is a temporary cessation of something
+  hypernym:
+  - 15294470-n
+  ili: i117496
+  members:
+  - sos
+  partOfSpeech: n
+15299060-n:
+  definition:
+  - confidence: 0.0
+    text: a pause for relaxation
+  hypernym:
+  - 15295994-n
+  ili: i117514
+  members:
+  - scíth
+  partOfSpeech: n
+15300080-n:
+  definition:
+  - confidence: 0.0
+    text: the time required for something to fall to half its initial value (in particular,
+      the time for half the atoms in a radioactive substance to disintegrate)
+  hypernym:
+  - 15137796-n
+  ili: i117519
+  members:
+  - leathré
+  partOfSpeech: n
+15302104-n:
+  definition:
+  - confidence: 0.0
+    text: the ratio of deaths in an area to the population of that area; expressed
+      per 1000 per year
+  hypernym:
+  - 15311467-n
+  ili: i117532
+  members:
+  - mortlaíocht
+  partOfSpeech: n
+15303118-n:
+  definition:
+  - confidence: 0.0
+    text: the rate of flow of energy or particles across a given surface
+  hypernym:
+  - 15311467-n
+  ili: i117537
+  members:
+  - flosc
+  partOfSpeech: n
+15303267-n:
+  definition:
+  - confidence: 0.0
+    text: the number of occurrences within a given time period
+  hypernym:
+  - 15311467-n
+  ili: i117538
+  members:
+  - minicíocht
+  partOfSpeech: n
+15305715-n:
+  definition:
+  - confidence: 0.0
+    text: the rate of moving (especially walking or running)
+  hypernym:
+  - 15311467-n
+  ili: i117551
+  members:
+  - luas
+  partOfSpeech: n
+15307914-n:
+  definition:
+  - confidence: 0.0
+    text: distance travelled per unit time
+  hypernym:
+  - 15311467-n
+  ili: i117563
+  members:
+  - luas
+  - treoluas
+  partOfSpeech: n
+15311467-n:
+  definition:
+  - confidence: 0.0
+    text: a magnitude or frequency relative to a time unit
+  hypernym:
+  - 00032220-n
+  ili: i117586
+  members:
+  - ráta
+  partOfSpeech: n
+15315573-n:
+  definition:
+  - confidence: 0.0
+    text: any distinct time period in a sequence of events
+  hypernym:
+  - 15137796-n
+  ili: i117602
+  members:
+  - céim
+  - pointe
+  partOfSpeech: n
+15320127-n:
+  definition:
+  - confidence: 0.0
+    text: the period during which you are a novice (especially in a religious order)
+  hypernym:
+  - 15137796-n
+  ili: i117630
+  members:
+  - nóibhíseacht
+  partOfSpeech: n
+15321930-n:
+  definition:
+  - confidence: 0.0
+    text: (astronomy) an arbitrarily fixed date that is the point in time relative
+      to which information (as coordinates of a celestial body) is recorded
+  hypernym:
+  - 15234209-n
+  - 15227430-n
+  ili: i117641
+  members:
+  - aga
+  partOfSpeech: n

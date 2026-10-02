@@ -1,0 +1,334 @@
+13802818-n:
+  definition:
+  - confidence: 0.0
+    text: the relation between causes and effects
+  hypernym:
+  - 00032220-n
+  ili: i109328
+  members:
+  - cúisíocht
+  partOfSpeech: n
+13802931-n:
+  definition:
+  - confidence: 0.0
+    text: a relation between people; ('relationship' is often used where 'relation'
+      would serve, as in 'the relationship between inflation and unemployment', but
+      the preferred usage of 'relationship' is for human relations or states of relatedness)
+  hypernym:
+  - 00032220-n
+  ili: i109329
+  members:
+  - coibhneas
+  - gaol
+  - gaolmhaireacht
+  partOfSpeech: n
+13806028-n:
+  definition:
+  - confidence: 0.0
+    text: (mathematics) a mathematical relation such that each element of a given
+      set (the domain of the function) is associated with an element of another set
+      (the range of the function)
+  hypernym:
+  - 00032220-n
+  ili: i109343
+  members:
+  - feidhm
+  partOfSpeech: n
+13808625-n:
+  definition:
+  - confidence: 0.0
+    text: (mathematics) a symbol or function representing a mathematical operation
+  hypernym:
+  - 13806028-n
+  ili: i109354
+  members:
+  - oibreoir
+  partOfSpeech: n
+13812345-n:
+  definition:
+  - confidence: 0.0
+    text: '(mathematics) a relation between a pair of integers: if both integers are
+      odd or both are even they have the same parity; if one is odd and the other
+      is even they have different parity'
+  hypernym:
+  - 00032220-n
+  ili: i109376
+  members:
+  - paireacht
+  partOfSpeech: n
+13813124-n:
+  definition:
+  - confidence: 0.0
+    text: a relation that provides the foundation for something
+  hypernym:
+  - 00032220-n
+  ili: i109380
+  members:
+  - bonn
+  - bun
+  - bunús
+  - foras
+  partOfSpeech: n
+13814904-n:
+  definition:
+  - confidence: 0.0
+    text: the means of connection between things linked in series
+  hypernym:
+  - 00032220-n
+  ili: i109388
+  members:
+  - ceangal
+  - nasc
+  partOfSpeech: n
+13816629-n:
+  definition:
+  - confidence: 0.0
+    text: the relation of something to the matter at hand
+  hypernym:
+  - 00032220-n
+  ili: i109396
+  members:
+  - ábharthacht
+  partOfSpeech: n
+13825994-n:
+  definition:
+  - confidence: 0.0
+    text: a change in the form of a word (usually by adding a suffix) to indicate
+      a change in its grammatical function
+  hypernym:
+  - 00032220-n
+  ili: i109445
+  members:
+  - infhilleadh
+  partOfSpeech: n
+13831419-n:
+  definition:
+  - confidence: 0.0
+    text: something determined in relation to something that includes it
+  hypernym:
+  - 00032220-n
+  ili: i109475
+  members:
+  - cion
+  - cuid
+  - páirt
+  partOfSpeech: n
+13832353-n:
+  definition:
+  - confidence: 0.0
+    text: the most interesting or memorable part
+  hypernym:
+  - 13831419-n
+  ili: i109478
+  members:
+  - buaicphointe
+  partOfSpeech: n
+13832535-n:
+  definition:
+  - confidence: 0.0
+    text: an individual or group or structure or other entity regarded as a structural
+      or functional constituent of a whole
+  hypernym:
+  - 13831419-n
+  ili: i109479
+  members:
+  - aonad
+  partOfSpeech: n
+13833030-n:
+  definition:
+  - confidence: 0.0
+    text: something left after other parts have been taken away
+  hypernym:
+  - 13831419-n
+  ili: i109481
+  members:
+  - cuid eile
+  - fuílleach
+  partOfSpeech: n
+13835803-n:
+  definition:
+  - confidence: 0.0
+    text: (anthropology) the condition of being related by blood
+  hypernym:
+  - 00032220-n
+  ili: i109493
+  members:
+  - comhbhráithreachas
+  - comhghaol
+  partOfSpeech: n
+13839738-n:
+  definition:
+  - confidence: 0.0
+    text: a proportion in relation to a whole (which is usually the amount per hundred);
+      ten percent
+  hypernym:
+  - 13841419-n
+  ili: i109515
+  members:
+  - céatadán
+  partOfSpeech: n
+13841419-n:
+  definition:
+  - confidence: 0.0
+    text: the relative magnitudes of two quantities (usually expressed as a quotient)
+  hypernym:
+  - 00032220-n
+  ili: i109525
+  members:
+  - coibhneas
+  - cóimheas
+  partOfSpeech: n
+13842644-n:
+  definition:
+  - confidence: 0.0
+    text: the ratio of reflected to incident light
+  hypernym:
+  - 13841419-n
+  ili: i109528
+  members:
+  - ailbéideacht
+  partOfSpeech: n
+13849172-n:
+  definition:
+  - confidence: 0.0
+    text: the relative frequency of occurrence of something
+  hypernym:
+  - 13841419-n
+  ili: i109567
+  members:
+  - minicíocht
+  partOfSpeech: n
+13863412-n:
+  definition:
+  - confidence: 0.0
+    text: a relation of mutual dependence or action or influence
+  hypernym:
+  - 00032220-n
+  ili: i109656
+  members:
+  - comharaíocht
+  partOfSpeech: n
+13863850-n:
+  definition:
+  - confidence: 0.0
+    text: a reciprocal relation between two or more things
+  hypernym:
+  - 13863412-n
+  ili: i109658
+  members:
+  - comhchoibhneas
+  partOfSpeech: n
+13864062-n:
+  definition:
+  - confidence: 0.0
+    text: a reciprocal relation between interdependent entities (objects or individuals
+      or groups)
+  hypernym:
+  - 13863412-n
+  ili: i109659
+  members:
+  - idirspleáchas
+  partOfSpeech: n
+13864821-n:
+  definition:
+  - confidence: 0.0
+    text: the relation between two different species of organisms that are interdependent;
+      each gains benefits from the other
+  hypernym:
+  - 13864062-n
+  ili: i109662
+  members:
+  - siombóis
+  partOfSpeech: n
+13866409-n:
+  definition:
+  - confidence: 0.0
+    text: mutual or reciprocal relation or relatedness
+  hypernym:
+  - 00032220-n
+  ili: i109671
+  members:
+  - idirghaol
+  partOfSpeech: n
+13869321-n:
+  definition:
+  - confidence: 0.0
+    text: following the third position; number four in a countable series
+  hypernym:
+  - 14453411-n
+  ili: i109683
+  members:
+  - ceathrú
+  partOfSpeech: n
+13869437-n:
+  definition:
+  - confidence: 0.0
+    text: position five in a countable series of things
+  hypernym:
+  - 14453411-n
+  ili: i109684
+  members:
+  - cúigiú
+  partOfSpeech: n
+13871081-n:
+  definition:
+  - confidence: 0.0
+    text: position 20 in a countable series of things
+  hypernym:
+  - 14453411-n
+  ili: i109699
+  members:
+  - fichiú
+  partOfSpeech: n
+13876685-n:
+  definition:
+  - confidence: 0.0
+    text: a standard or model or pattern regarded as typical
+  hypernym:
+  - 07275291-n
+  ili: i109732
+  members:
+  - caighdeán
+  - norm
+  partOfSpeech: n
+13877824-n:
+  definition:
+  - confidence: 0.0
+    text: the opposition or dissimilarity of things that are compared
+  hypernym:
+  - 00032220-n
+  ili: i109737
+  members:
+  - codarsnacht
+  partOfSpeech: n
+13878771-n:
+  definition:
+  - confidence: 0.0
+    text: having an indicated pole (as the distinction between positive and negative
+      electric charges)
+  hypernym:
+  - 00032220-n
+  ili: i109742
+  members:
+  - polaraíocht
+  partOfSpeech: n
+13880242-n:
+  definition:
+  - confidence: 0.0
+    text: the relation between propositions that cannot both be true at the same time
+  hypernym:
+  - 00032220-n
+  ili: i109750
+  members:
+  - neamhréireacht
+  partOfSpeech: n
+13881709-n:
+  definition:
+  - confidence: 0.0
+    text: a graded change in the magnitude of some physical quantity or dimension
+  hypernym:
+  - 00032220-n
+  ili: i109758
+  members:
+  - grádán
+  partOfSpeech: n

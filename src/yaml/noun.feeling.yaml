@@ -1,0 +1,176 @@
+07505853-n:
+  definition:
+  - confidence: 0.0
+    text: a fundamental feeling that is hard to define but that people desire to experience
+  hypernym:
+  - 00026390-n
+  ili: i76106
+  members:
+  - pléisiúr
+  - sult
+  partOfSpeech: n
+07508420-n:
+  definition:
+  - confidence: 0.0
+    text: the feeling that comes when something burdensome is removed or reduced
+  hypernym:
+  - 07505853-n
+  ili: i76120
+  members:
+  - faoiseamh
+  partOfSpeech: n
+07519582-n:
+  definition:
+  - confidence: 0.0
+    text: a feeling of thankfulness and appreciation
+  hypernym:
+  - 00026390-n
+  ili: i76183
+  members:
+  - buíochas
+  partOfSpeech: n
+07526319-n:
+  definition:
+  - confidence: 0.0
+    text: an expectation
+  hypernym:
+  - 00026390-n
+  ili: i76221
+  members:
+  - oirchill
+  partOfSpeech: n
+07527704-n:
+  definition:
+  - confidence: 0.0
+    text: sensitivity to emotional feelings (of self and others)
+  hypernym:
+  - 00026390-n
+  ili: i76231
+  members:
+  - íogaireacht
+  partOfSpeech: n
+07534492-n:
+  definition:
+  - confidence: 0.0
+    text: an emotion experienced in anticipation of some specific pain or danger (usually
+      accompanied by a desire to flee or fight)
+  hypernym:
+  - 00026390-n
+  ili: i76269
+  members:
+  - eagla
+  partOfSpeech: n
+07539768-n:
+  definition:
+  - confidence: 0.0
+    text: an anxious feeling
+  hypernym:
+  - 00026390-n
+  ili: i76295
+  members:
+  - imní
+  partOfSpeech: n
+07545205-n:
+  definition:
+  - confidence: 0.0
+    text: happiness felt in a secure relationship
+  hypernym:
+  - 00026390-n
+  ili: i76323
+  members:
+  - giuirléid
+  partOfSpeech: n
+07546643-n:
+  definition:
+  - confidence: 0.0
+    text: the contentment one feels when one has fulfilled a desire, need, or expectation
+  hypernym:
+  - 00026390-n
+  ili: i76331
+  members:
+  - sásamh
+  - sástacht
+  partOfSpeech: n
+07550398-n:
+  definition:
+  - confidence: 0.0
+    text: intense sorrow caused by loss of a loved one (especially by death)
+  hypernym:
+  - 00026390-n
+  ili: i76352
+  members:
+  - brón
+  partOfSpeech: n
+07554899-n:
+  definition:
+  - confidence: 0.0
+    text: the feeling of being displeased and discontent
+  hypernym:
+  - 00026390-n
+  ili: i76375
+  members:
+  - míshástacht
+  partOfSpeech: n
+07555990-n:
+  definition:
+  - confidence: 0.0
+    text: a feeling of dissatisfaction that results when your expectations are not
+      realized
+  hypernym:
+  - 07554899-n
+  ili: i76380
+  members:
+  - díomá
+  partOfSpeech: n
+07556254-n:
+  definition:
+  - confidence: 0.0
+    text: the feeling that accompanies an experience of being thwarted in attaining
+      your goals
+  hypernym:
+  - 07555990-n
+  ili: i76381
+  members:
+  - frustrachas
+  partOfSpeech: n
+07558592-n:
+  definition:
+  - confidence: 0.0
+    text: a cynical feeling of distrust
+  hypernym:
+  - 00026390-n
+  ili: i76394
+  members:
+  - ciniceas
+  partOfSpeech: n
+07558676-n:
+  definition:
+  - confidence: 0.0
+    text: a strong positive emotion of regard and affection
+  hypernym:
+  - 00026390-n
+  ili: i76395
+  members:
+  - grá
+  partOfSpeech: n
+07560531-n:
+  definition:
+  - confidence: 0.0
+    text: a feeling of affection for a person or an institution
+  hypernym:
+  - 00026390-n
+  ili: i76404
+  members:
+  - cion
+  partOfSpeech: n
+07561835-n:
+  definition:
+  - confidence: 0.0
+    text: the emotion of intense dislike; a feeling of dislike so strong that it demands
+      action
+  hypernym:
+  - 00026390-n
+  ili: i76414
+  members:
+  - fuath
+  partOfSpeech: n

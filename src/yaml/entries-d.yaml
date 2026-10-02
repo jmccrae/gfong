@@ -1,0 +1,2733 @@
+Danmhairgis:
+  n:
+    sense:
+    - id: 'danmhairgis%1:10:00::'
+      synset: 06966788-n
+Deireadh Fómhair:
+  n:
+    sense:
+    - id: 'deireadh_fómhair%1:28:00::'
+      synset: 15237911-n
+Dlí Saileach:
+  n:
+    sense:
+    - id: 'dlí_saileach%1:10:00::'
+      synset: 06546909-n
+Domhnach:
+  n:
+    sense:
+    - id: 'domhnach%1:28:00::'
+      synset: 15188844-n
+Dáil Éireann:
+  n:
+    sense:
+    - id: 'dáil_éireann%1:14:00::'
+      synset: 08336469-n
+Déardaoin:
+  n:
+    sense:
+    - id: 'déardaoin%1:28:00::'
+      synset: 15189401-n
+Déardaoin Mandála:
+  n:
+    sense:
+    - id: 'déardaoin_mandála%1:28:00::'
+      synset: 15218361-n
+d'ainneoin:
+  r:
+    sense:
+    - id: 'd''ainneoin%4:02:00::'
+      synset: 00027761-r
+daba:
+  n:
+    sense:
+    - id: 'daba%1:23:00::'
+      synset: 13783311-n
+daichead:
+  a:
+    sense:
+    - id: 'daichead%3:00:00::'
+      synset: 02197917-a
+daid:
+  n:
+    sense:
+    - id: 'daid%1:18:00::'
+      synset: 10007601-n
+daingean:
+  n:
+    sense:
+    - id: 'daingean%1:06:00::'
+      synset: 03390857-n
+    - id: 'daingean%1:06:01::'
+      synset: 04348013-n
+daingneán:
+  n:
+    sense:
+    - id: 'daingneán%1:06:00::'
+      synset: 03359459-n
+daingnigh:
+  v:
+    sense:
+    - id: 'daingnigh%2:31:00::'
+      synset: 00667804-v
+    - id: 'daingnigh%2:41:01::'
+      synset: 02470289-v
+daingniú:
+  n:
+    sense:
+    - id: 'daingniú%1:10:00::'
+      synset: 07194603-n
+dainséarach:
+  a:
+    sense:
+    - id: 'dainséarach%3:00:00::'
+      synset: 02066198-a
+dalmátach:
+  n:
+    sense:
+    - id: 'dalmátach%1:05:00::'
+      synset: 02112993-n
+dalta:
+  n:
+    sense:
+    - id: 'dalta%1:18:00::'
+      synset: 09905992-n
+    - id: 'dalta%1:18:01::'
+      synset: 10685137-n
+damba:
+  n:
+    sense:
+    - id: 'damba%1:06:00::'
+      synset: 03164975-n
+damhsa:
+  n:
+    sense:
+    - id: 'damhsa%1:10:00::'
+      synset: 07033652-n
+damhsóir:
+  n:
+    sense:
+    - id: 'damhsóir%1:18:00::'
+      synset: 10009953-n
+damhán alla:
+  n:
+    sense:
+    - id: 'damhán_alla%1:05:00::'
+      synset: 01774863-n
+damáiste:
+  n:
+    sense:
+    - id: 'damáiste%1:11:00::'
+      synset: 07435370-n
+danar mór:
+  n:
+    sense:
+    - id: 'danar_mór%1:05:00::'
+      synset: 02111699-n
+daoirse:
+  n:
+    sense:
+    - id: 'daoirse%1:26:00::'
+      synset: 14021499-n
+daonchara:
+  n:
+    sense:
+    - id: 'daonchara%1:18:00::'
+      synset: 10441701-n
+daonlathach:
+  a:
+    sense:
+    - id: 'daonlathach%3:00:00::'
+      synset: 00718584-a
+daonlathas:
+  n:
+    sense:
+    - id: 'daonlathas%1:09:00::'
+      synset: 06227040-n
+daonlathú:
+  n:
+    sense:
+    - id: 'daonlathú%1:04:00::'
+      synset: 01239859-n
+daonna:
+  a:
+    sense:
+    - id: 'daonna%3:01:00::'
+      synset: 02754015-a
+    - id: 'daonna%3:01:01::'
+      synset: 02754145-a
+daonnacht:
+  n:
+    sense:
+    - id: 'daonnacht%1:07:00::'
+      synset: 04836413-n
+daonnúil:
+  a:
+    sense:
+    - id: 'daonnúil%3:01:00::'
+      synset: 03005210-a
+daonáireamh:
+  n:
+    sense:
+    - id: 'daonáireamh%1:04:00::'
+      synset: 00654631-n
+daor:
+  a:
+    sense:
+    - id: 'daor%3:00:00::'
+      synset: 00936423-a
+dar ndóigh:
+  r:
+    sense:
+    - id: 'dar_ndóigh%4:02:00::'
+      synset: 00039019-r
+dara:
+  a:
+    sense:
+    - id: 'dara%3:00:00::'
+      synset: 02209815-a
+dath:
+  n:
+    sense:
+    - id: 'dath%1:27:00::'
+      synset: 15009942-n
+    - id: 'dath%1:07:01::'
+      synset: 04963771-n
+dathúchán:
+  n:
+    sense:
+    - id: 'dathúchán%1:04:00::'
+      synset: 00275785-n
+de bharr:
+  v:
+    sense:
+    - id: 'de_bharr%2:42:00::'
+      synset: 02640346-v
+de bheagán:
+  r:
+    sense:
+    - id: 'de_bheagán%4:02:00::'
+      synset: 00036695-r
+de chuid na nGiúdach:
+  a:
+    sense:
+    - id: 'de_chuid_na_ngiúdach%3:01:00::'
+      synset: 02933576-a
+de déanach:
+  r:
+    sense:
+    - id: 'de_déanach%4:02:00::'
+      synset: 00108184-r
+de ghnáth:
+  r:
+    sense:
+    - id: 'de_ghnáth%4:02:00::'
+      synset: 00042364-r
+    - id: 'de_ghnáth%4:02:01::'
+      synset: 00107608-r
+de rogha air sin:
+  r:
+    sense:
+    - id: 'de_rogha_air_sin%4:02:00::'
+      synset: 00063710-r
+de réir a chéile:
+  r:
+    sense:
+    - id: 'de_réir_a_chéile%4:02:00::'
+      synset: 00060392-r
+de réir cosúlachta:
+  r:
+    sense:
+    - id: 'de_réir_cosúlachta%4:02:00::'
+      synset: 00039730-r
+    - id: 'de_réir_cosúlachta%4:02:01::'
+      synset: 00040353-r
+    - id: 'de_réir_cosúlachta%4:02:02::'
+      synset: 00139421-r
+de réir dealraimh:
+  r:
+    sense:
+    - id: 'de_réir_dealraimh%4:02:00::'
+      synset: 00039730-r
+    - id: 'de_réir_dealraimh%4:02:01::'
+      synset: 00040353-r
+de thábhacht:
+  a:
+    sense:
+    - id: 'de_thábhacht%3:00:00::'
+      synset: 01278672-a
+dea-:
+  a:
+    sense:
+    - id: 'dea-%3:00:00::'
+      synset: 01126910-a
+  r:
+    sense:
+    - id: 'dea-%4:02:01::'
+      synset: 00011555-r
+dea-thoil:
+  n:
+    sense:
+    - id: 'dea-thoil%1:07:00::'
+      synset: 04647713-n
+deacair:
+  a:
+    sense:
+    - id: 'deacair%3:00:00::'
+      synset: 00748528-a
+  n:
+    sense:
+    - id: 'deacair%1:07:01::'
+      synset: 04716529-n
+deacatlan:
+  n:
+    sense:
+    - id: 'deacatlan%1:11:00::'
+      synset: 07471807-n
+deachtóireacht:
+  n:
+    sense:
+    - id: 'deachtóireacht%1:14:00::'
+      synset: 08457622-n
+deachúlach:
+  s:
+    sense:
+    - id: deachúlach%5:00:00:cainníochtúil:00
+      synset: 01921734-s
+deacracht:
+  n:
+    sense:
+    - id: 'deacracht%1:07:00::'
+      synset: 04716529-n
+deagánach:
+  n:
+    sense:
+    - id: 'deagánach%1:18:00::'
+      synset: 10014058-n
+dealaigh:
+  v:
+    sense:
+    - id: 'dealaigh%2:31:00::'
+      synset: 00652006-v
+dealbh:
+  n:
+    sense:
+    - id: 'dealbh%1:06:00::'
+      synset: 04313985-n
+dealrachán:
+  n:
+    sense:
+    - id: 'dealrachán%1:08:00::'
+      synset: 05281604-n
+dealraigh:
+  v:
+    sense:
+    - id: 'dealraigh%2:39:00::'
+      synset: 02137900-v
+dealraitheach:
+  a:
+    sense:
+    - id: 'dealraitheach%3:00:00::'
+      synset: 01879953-a
+    - id: 'dealraitheach%3:00:01::'
+      synset: 01414308-a
+dealraitheacht:
+  n:
+    sense:
+    - id: 'dealraitheacht%1:07:00::'
+      synset: 04763890-n
+deannach:
+  n:
+    sense:
+    - id: 'deannach%1:27:00::'
+      synset: 14864016-n
+dear:
+  v:
+    sense:
+    - id: 'dear%2:36:00::'
+      synset: 01641910-v
+dearadh:
+  n:
+    sense:
+    - id: 'dearadh%1:09:00::'
+      synset: 05736623-n
+    - id: 'dearadh%1:10:01::'
+      synset: 07016235-n
+dearbhaigh:
+  v:
+    sense:
+    - id: 'dearbhaigh%2:31:00::'
+      synset: 00667804-v
+    - id: 'dearbhaigh%2:32:01::'
+      synset: 00822637-v
+    - id: 'dearbhaigh%2:32:02::'
+      synset: 00892111-v
+    - id: 'dearbhaigh%2:32:03::'
+      synset: 01011267-v
+    - id: 'dearbhaigh%2:32:04::'
+      synset: 01012145-v
+    - id: 'dearbhaigh%2:32:05::'
+      synset: 01013058-v
+    - id: 'dearbhaigh%2:32:06::'
+      synset: 01018787-v
+    - id: 'dearbhaigh%2:32:07::'
+      synset: 00920843-v
+    - id: 'dearbhaigh%2:31:08::'
+      synset: 00664507-v
+dearbhaigh do:
+  v:
+    sense:
+    - id: 'dearbhaigh_do%2:32:00::'
+      synset: 00885532-v
+dearbhnialas:
+  n:
+    sense:
+    - id: 'dearbhnialas%1:07:00::'
+      synset: 05020388-n
+dearbhán:
+  n:
+    sense:
+    - id: 'dearbhán%1:10:00::'
+      synset: 06530059-n
+dearbhú:
+  n:
+    sense:
+    - id: 'dearbhú%1:10:00::'
+      synset: 06738626-n
+    - id: 'dearbhú%1:10:01::'
+      synset: 07218770-n
+dearcán:
+  n:
+    sense:
+    - id: 'dearcán%1:20:00::'
+      synset: 12288194-n
+dearfach:
+  a:
+    sense:
+    - id: 'dearfach%3:00:00::'
+      synset: 00075743-a
+    - id: 'dearfach%3:00:01::'
+      synset: 01823004-a
+dearg:
+  a:
+    sense:
+    - id: 'dearg%3:00:00::'
+      synset: 00382159-a
+deargaistriú:
+  n:
+    sense:
+    - id: 'deargaistriú%1:19:00::'
+      synset: 11533790-n
+deargán:
+  n:
+    sense:
+    - id: 'deargán%1:05:00::'
+      synset: 01445351-n
+deargán sneachta:
+  n:
+    sense:
+    - id: 'deargán_sneachta%1:05:00::'
+      synset: 01561102-n
+dearlaic:
+  n:
+    sense:
+    - id: 'dearlaic%1:21:00::'
+      synset: 13292343-n
+dearnadóireacht:
+  n:
+    sense:
+    - id: 'dearnadóireacht%1:09:00::'
+      synset: 05785827-n
+deartháir:
+  n:
+    sense:
+    - id: 'deartháir%1:18:00::'
+      synset: 09895920-n
+dearthóir:
+  n:
+    sense:
+    - id: 'dearthóir%1:18:00::'
+      synset: 09824898-n
+dearthóireacht:
+  n:
+    sense:
+    - id: 'dearthóireacht%1:04:00::'
+      synset: 00929892-n
+deas:
+  a:
+    sense:
+    - id: 'deas%3:00:00::'
+      synset: 02039393-a
+    - id: 'deas%3:00:02::'
+      synset: 01590750-a
+  s:
+    sense:
+    - id: deas%5:00:01:álainn:00
+      synset: 00221674-s
+deasbhord:
+  n:
+    sense:
+    - id: 'deasbhord%1:06:00::'
+      synset: 04310810-n
+deasc:
+  n:
+    sense:
+    - id: 'deasc%1:06:00::'
+      synset: 03184367-n
+deaslabhra:
+  n:
+    sense:
+    - id: 'deaslabhra%1:10:00::'
+      synset: 07097438-n
+deatach:
+  n:
+    sense:
+    - id: 'deatach%1:19:00::'
+      synset: 11528510-n
+deich:
+  a:
+    sense:
+    - id: 'deich%3:00:00::'
+      synset: 02194935-a
+deich mbliana:
+  n:
+    sense:
+    - id: 'deich_mbliana%1:28:00::'
+      synset: 15229779-n
+deichiú:
+  n:
+    sense:
+    - id: 'deichiú%1:23:00::'
+      synset: 13760467-n
+deichniúr:
+  a:
+    sense:
+    - id: 'deichniúr%3:00:00::'
+      synset: 02194935-a
+deicibeil:
+  n:
+    sense:
+    - id: 'deicibeil%1:23:00::'
+      synset: 13735738-n
+deiciméadar:
+  n:
+    sense:
+    - id: 'deiciméadar%1:23:00::'
+      synset: 13680844-n
+deifrigh:
+  v:
+    sense:
+    - id: 'deifrigh%2:38:00::'
+      synset: 02059573-v
+deighilt:
+  n:
+    sense:
+    - id: 'deighilt%1:04:00::'
+      synset: 00386599-n
+    - id: 'deighilt%1:04:01::'
+      synset: 00398761-n
+deighilteoir:
+  n:
+    sense:
+    - id: 'deighilteoir%1:06:00::'
+      synset: 02999605-n
+deighleog:
+  n:
+    sense:
+    - id: 'deighleog%1:06:00::'
+      synset: 04172050-n
+deilbhín:
+  n:
+    sense:
+    - id: 'deilbhín%1:10:00::'
+      synset: 07284621-n
+deilf:
+  n:
+    sense:
+    - id: 'deilf%1:05:00::'
+      synset: 02071627-n
+deilte:
+  n:
+    sense:
+    - id: 'deilte%1:10:00::'
+      synset: 06847508-n
+deimhneacht:
+  n:
+    sense:
+    - id: 'deimhneacht%1:09:00::'
+      synset: 05705100-n
+deimhnigh:
+  v:
+    sense:
+    - id: 'deimhnigh%2:31:00::'
+      synset: 00666706-v
+    - id: 'deimhnigh%2:31:01::'
+      synset: 00667804-v
+    - id: 'deimhnigh%2:32:02::'
+      synset: 00822637-v
+    - id: 'deimhnigh%2:32:03::'
+      synset: 01018787-v
+deimhnithe:
+  a:
+    sense:
+    - id: 'deimhnithe%3:00:00::'
+      synset: 00343148-a
+deimhniú:
+  n:
+    sense:
+    - id: 'deimhniú%1:10:00::'
+      synset: 06483016-n
+deireadh:
+  n:
+    sense:
+    - id: 'deireadh%1:28:00::'
+      synset: 15291722-n
+    - id: 'deireadh%1:28:01::'
+      synset: 15292365-n
+    - id: 'deireadh%1:28:02::'
+      synset: 15293639-n
+    - id: 'deireadh%1:15:03::'
+      synset: 08583557-n
+deireadh a chur le:
+  v:
+    sense:
+    - id: 'deireadh_a_chur_le%2:30:00::'
+      synset: 00353212-v
+    - id: 'deireadh_a_chur_le%2:30:01::'
+      synset: 00472642-v
+deireanach:
+  a:
+    sense:
+    - id: 'deireanach%3:00:00::'
+      synset: 00820050-a
+    - id: 'deireanach%3:00:01::'
+      synset: 01016876-a
+    - id: 'deireanach%3:00:02::'
+      synset: 01051260-a
+    - id: 'deireanach%3:00:04::'
+      synset: 01013868-a
+  s:
+    sense:
+    - id: deireanach%5:00:03:thart:00
+      synset: 01734561-s
+deirfiúr:
+  n:
+    sense:
+    - id: 'deirfiúr%1:18:00::'
+      synset: 10622393-n
+deirfiúr chéile:
+  n:
+    sense:
+    - id: 'deirfiúr_chéile%1:18:00::'
+      synset: 10623174-n
+deiridh:
+  a:
+    sense:
+    - id: 'deiridh%3:00:00::'
+      synset: 01016876-a
+    - id: 'deiridh%3:00:02::'
+      synset: 01013868-a
+  s:
+    sense:
+    - id: deiridh%5:00:01:thart:00
+      synset: 01734561-s
+deirmeolaí:
+  n:
+    sense:
+    - id: 'deirmeolaí%1:18:00::'
+      synset: 10025839-n
+deirmeolaíocht:
+  n:
+    sense:
+    - id: 'deirmeolaíocht%1:09:00::'
+      synset: 06059031-n
+deis:
+  n:
+    sense:
+    - id: 'deis%1:26:00::'
+      synset: 14507501-n
+    - id: 'deis%1:08:01::'
+      synset: 05572970-n
+    - id: 'deis%1:15:02::'
+      synset: 08642648-n
+deisceartach:
+  a:
+    sense:
+    - id: 'deisceartach%3:00:00::'
+      synset: 01611230-a
+deisigh:
+  v:
+    sense:
+    - id: 'deisigh%2:30:00::'
+      synset: 00261534-v
+deisitheoir:
+  n:
+    sense:
+    - id: 'deisitheoir%1:18:00::'
+      synset: 10328399-n
+deisiúchán:
+  n:
+    sense:
+    - id: 'deisiúchán%1:04:00::'
+      synset: 00267650-n
+den chuid is mó:
+  r:
+    sense:
+    - id: 'den_chuid_is_mó%4:02:00::'
+      synset: 00006486-r
+    - id: 'den_chuid_is_mó%4:02:01::'
+      synset: 00042364-r
+    - id: 'den_chuid_is_mó%4:02:02::'
+      synset: 00156754-r
+den scoth:
+  s:
+    sense:
+    - id: den_scoth%5:00:00:uachtarach:00
+      synset: 02351683-s
+    - id: den_scoth%5:00:01:tábhachtach:01
+      synset: 01281928-s
+    - id: den_scoth%5:00:02:urghnách:00
+      synset: 01681111-s
+deoch:
+  n:
+    sense:
+    - id: 'deoch%1:13:00::'
+      synset: 07897775-n
+    - id: 'deoch%1:13:01::'
+      synset: 07901198-n
+deoch neamh-mheisciúil:
+  n:
+    sense:
+    - id: 'deoch_neamh-mheisciúil%1:13:00::'
+      synset: 07943437-n
+deoir:
+  n:
+    sense:
+    - id: 'deoir%1:08:00::'
+      synset: 05412667-n
+deoitéiriam:
+  n:
+    sense:
+    - id: 'deoitéiriam%1:27:00::'
+      synset: 14665224-n
+deonach:
+  a:
+    sense:
+    - id: 'deonach%3:00:00::'
+      synset: 02530275-a
+deonachán:
+  n:
+    sense:
+    - id: 'deonachán%1:21:00::'
+      synset: 13291061-n
+deonaigh:
+  v:
+    sense:
+    - id: 'deonaigh%2:40:00::'
+      synset: 02260076-v
+    - id: 'deonaigh%2:40:01::'
+      synset: 02267085-v
+deontóir:
+  n:
+    sense:
+    - id: 'deontóir%1:18:00::'
+      synset: 10045455-n
+    - id: 'deontóir%1:18:01::'
+      synset: 10163409-n
+deoraí:
+  n:
+    sense:
+    - id: 'deoraí%1:05:00::'
+      synset: 01455728-n
+    - id: 'deoraí%1:18:01::'
+      synset: 10091139-n
+dhá:
+  a:
+    sense:
+    - id: 'dhá%3:00:00::'
+      synset: 02194109-a
+dia:
+  n:
+    sense:
+    - id: 'dia%1:18:00::'
+      synset: 09528550-n
+diachas:
+  n:
+    sense:
+    - id: 'diachas%1:09:00::'
+      synset: 06233395-n
+diagacht:
+  n:
+    sense:
+    - id: 'diagacht%1:09:00::'
+      synset: 06191860-n
+diagaire:
+  n:
+    sense:
+    - id: 'diagaire%1:18:00::'
+      synset: 10725264-n
+diagnóis:
+  n:
+    sense:
+    - id: 'diagnóis%1:04:00::'
+      synset: 00153547-n
+diagnóiseach:
+  a:
+    sense:
+    - id: 'diagnóiseach%3:01:00::'
+      synset: 02987083-a
+diallas:
+  n:
+    sense:
+    - id: 'diallas%1:11:00::'
+      synset: 07380889-n
+diamhasla:
+  n:
+    sense:
+    - id: 'diamhasla%1:10:00::'
+      synset: 07138880-n
+dian:
+  a:
+    sense:
+    - id: 'dian%3:00:01::'
+      synset: 00714525-a
+    - id: 'dian%3:00:02::'
+      synset: 00748528-a
+    - id: 'dian%3:00:03::'
+      synset: 01516027-a
+  s:
+    sense:
+    - id: dian%5:00:00:láidir:01
+      synset: 02330284-s
+dianmhachnamh a dhéanamh ar:
+  v:
+    sense:
+    - id: 'dianmhachnamh_a_dhéanamh_ar%2:31:00::'
+      synset: 00632042-v
+difear:
+  n:
+    sense:
+    - id: 'difear%1:07:00::'
+      synset: 04756076-n
+difreálach:
+  a:
+    sense:
+    - id: 'difreálach%3:01:00::'
+      synset: 02920481-a
+  n:
+    sense:
+    - id: 'difreálach%1:06:01::'
+      synset: 03198981-n
+    - id: 'difreálach%1:09:02::'
+      synset: 06024079-n
+difriúil:
+  a:
+    sense:
+    - id: 'difriúil%3:00:00::'
+      synset: 02072149-a
+  s:
+    sense:
+    - id: difriúil%5:00:01:eile:00
+      synset: 02077434-s
+difríocht:
+  n:
+    sense:
+    - id: 'difríocht%1:07:00::'
+      synset: 04756076-n
+    - id: 'difríocht%1:07:01::'
+      synset: 04759785-n
+    - id: 'difríocht%1:09:02::'
+      synset: 05756230-n
+digit:
+  n:
+    sense:
+    - id: 'digit%1:23:00::'
+      synset: 13763162-n
+digiteach:
+  a:
+    sense:
+    - id: 'digiteach%3:00:00::'
+      synset: 00111512-a
+digitiú:
+  n:
+    sense:
+    - id: 'digitiú%1:09:00::'
+      synset: 05811220-n
+diminsean:
+  n:
+    sense:
+    - id: 'diminsean%1:09:00::'
+      synset: 05857567-n
+dineasár:
+  n:
+    sense:
+    - id: 'dineasár%1:05:00::'
+      synset: 01702472-n
+dinimic:
+  n:
+    sense:
+    - id: 'dinimic%1:09:00::'
+      synset: 06123204-n
+dinimiciúil:
+  a:
+    sense:
+    - id: 'dinimiciúil%3:00:00::'
+      synset: 00811761-a
+dinnireacht:
+  n:
+    sense:
+    - id: 'dinnireacht%1:26:00::'
+      synset: 14153481-n
+dinnéar:
+  n:
+    sense:
+    - id: 'dinnéar%1:13:00::'
+      synset: 07591291-n
+dioplóma:
+  n:
+    sense:
+    - id: 'dioplóma%1:10:00::'
+      synset: 06490253-n
+diosca:
+  n:
+    sense:
+    - id: 'diosca%1:25:00::'
+      synset: 13897824-n
+diospróisiam:
+  n:
+    sense:
+    - id: 'diospróisiam%1:27:00::'
+      synset: 14660825-n
+discréideach:
+  a:
+    sense:
+    - id: 'discréideach%3:00:00::'
+      synset: 02393240-a
+disléicse:
+  n:
+    sense:
+    - id: 'disléicse%1:26:00::'
+      synset: 14123125-n
+diúc:
+  n:
+    sense:
+    - id: 'diúc%1:18:00::'
+      synset: 10058503-n
+diúcacht:
+  n:
+    sense:
+    - id: 'diúcacht%1:15:00::'
+      synset: 08574668-n
+diúilicín:
+  n:
+    sense:
+    - id: 'diúilicín%1:05:00::'
+      synset: 01966212-n
+diúltach:
+  a:
+    sense:
+    - id: 'diúltach%3:00:00::'
+      synset: 01823738-a
+diúltaigh:
+  v:
+    sense:
+    - id: 'diúltaigh%2:32:00::'
+      synset: 00799092-v
+    - id: 'diúltaigh%2:40:01::'
+      synset: 02217607-v
+    - id: 'diúltaigh%2:40:02::'
+      synset: 02242120-v
+diúltaigh do:
+  v:
+    sense:
+    - id: 'diúltaigh_do%2:32:00::'
+      synset: 00802592-v
+diúltú:
+  n:
+    sense:
+    - id: 'diúltú%1:10:00::'
+      synset: 07220233-n
+diúracán:
+  n:
+    sense:
+    - id: 'diúracán%1:06:00::'
+      synset: 03779037-n
+diúscairt:
+  n:
+    sense:
+    - id: 'diúscairt%1:04:00::'
+      synset: 00044347-n
+dleacht:
+  n:
+    sense:
+    - id: 'dleacht%1:21:00::'
+      synset: 13337021-n
+dleathach:
+  a:
+    sense:
+    - id: 'dleathach%3:00:00::'
+      synset: 01403566-a
+  s:
+    sense:
+    - id: dleathach%5:00:01:dleathach:00
+      synset: 01404228-s
+dlisteanach:
+  a:
+    sense:
+    - id: 'dlisteanach%3:00:00::'
+      synset: 01640266-a
+dliteanas:
+  n:
+    sense:
+    - id: 'dliteanas%1:26:00::'
+      synset: 14554005-n
+dlí:
+  n:
+    sense:
+    - id: 'dlí%1:10:00::'
+      synset: 06544321-n
+    - id: 'dlí%1:14:01::'
+      synset: 08458195-n
+dlí-eolaí:
+  n:
+    sense:
+    - id: 'dlí-eolaí%1:18:00::'
+      synset: 10247655-n
+dlínse:
+  n:
+    sense:
+    - id: 'dlínse%1:07:00::'
+      synset: 05205695-n
+dlíodóir:
+  n:
+    sense:
+    - id: 'dlíodóir%1:18:00::'
+      synset: 09795104-n
+    - id: 'dlíodóir%1:18:01::'
+      synset: 10269647-n
+    - id: 'dlíodóir%1:18:02::'
+      synset: 10642537-n
+dlíthiúil:
+  a:
+    sense:
+    - id: 'dlíthiúil%3:01:00::'
+      synset: 02764868-a
+    - id: 'dlíthiúil%3:00:01::'
+      synset: 01403566-a
+dlíthiúlacht:
+  n:
+    sense:
+    - id: 'dlíthiúlacht%1:07:00::'
+      synset: 04816489-n
+    - id: 'dlíthiúlacht%1:07:01::'
+      synset: 04817036-n
+dlíthíocht:
+  n:
+    sense:
+    - id: 'dlíthíocht%1:04:00::'
+      synset: 01189300-n
+dlús:
+  n:
+    sense:
+    - id: 'dlús%1:07:00::'
+      synset: 04948630-n
+dlúthdhiosca:
+  n:
+    sense:
+    - id: 'dlúthdhiosca%1:06:00::'
+      synset: 03083234-n
+dlúthpháirtíocht:
+  n:
+    sense:
+    - id: 'dlúthpháirtíocht%1:07:00::'
+      synset: 04772293-n
+do-aistrithe:
+  a:
+    sense:
+    - id: 'do-aistrithe%3:00:00::'
+      synset: 01064144-a
+do-athraithe:
+  a:
+    sense:
+    - id: 'do-athraithe%3:00:00::'
+      synset: 01763874-a
+do-ite:
+  a:
+    sense:
+    - id: 'do-ite%3:00:00::'
+      synset: 00833035-a
+dobharcheantar:
+  n:
+    sense:
+    - id: 'dobharcheantar%1:15:00::'
+      synset: 08536123-n
+dobhareach:
+  n:
+    sense:
+    - id: 'dobhareach%1:05:00::'
+      synset: 02401173-n
+dobharshaothrú:
+  n:
+    sense:
+    - id: 'dobharshaothrú%1:04:00::'
+      synset: 00917978-n
+dochar:
+  n:
+    sense:
+    - id: 'dochar%1:21:00::'
+      synset: 13426980-n
+    - id: 'dochar%1:11:01::'
+      synset: 07435370-n
+dochorraithe:
+  a:
+    sense:
+    - id: 'dochorraithe%3:00:00::'
+      synset: 01529439-a
+dochrach:
+  a:
+    sense:
+    - id: 'dochrach%3:00:01::'
+      synset: 01163575-a
+  s:
+    sense:
+    - id: dochrach%5:00:00:neamhfhabhrach:00
+      synset: 01000455-s
+    - id: dochrach%5:00:02:dochrach:01
+      synset: 01165528-s
+dochreidte:
+  a:
+    sense:
+    - id: 'dochreidte%3:00:00::'
+      synset: 00648515-a
+dochtúir:
+  n:
+    sense:
+    - id: 'dochtúir%1:18:00::'
+      synset: 10040615-n
+    - id: 'dochtúir%1:18:01::'
+      synset: 10041617-n
+dochtúireacht a dhéanamh ar:
+  v:
+    sense:
+    - id: 'dochtúireacht_a_dhéanamh_ar%2:30:00::'
+      synset: 00261534-v
+dodhéanta:
+  a:
+    sense:
+    - id: 'dodhéanta%3:00:00::'
+      synset: 01828578-a
+dodhéantacht:
+  n:
+    sense:
+    - id: 'dodhéantacht%1:26:00::'
+      synset: 14506710-n
+dofheicthe:
+  a:
+    sense:
+    - id: 'dofheicthe%3:00:00::'
+      synset: 02527322-a
+dofheictheacht:
+  n:
+    sense:
+    - id: 'dofheictheacht%1:07:00::'
+      synset: 05025075-n
+doiciméad:
+  n:
+    sense:
+    - id: 'doiciméad%1:10:00::'
+      synset: 06481744-n
+doiciméadach:
+  a:
+    sense:
+    - id: 'doiciméadach%3:01:00::'
+      synset: 02908041-a
+doiciméadacht:
+  n:
+    sense:
+    - id: 'doiciméadacht%1:10:00::'
+      synset: 06600607-n
+doiciméadaigh:
+  v:
+    sense:
+    - id: 'doiciméadaigh%2:32:00::'
+      synset: 01004342-v
+doiligh:
+  a:
+    sense:
+    - id: 'doiligh%3:00:00::'
+      synset: 00748528-a
+doiléir:
+  a:
+    sense:
+    - id: 'doiléir%3:00:00::'
+      synset: 00432720-a
+doimhneacht:
+  n:
+    sense:
+    - id: 'doimhneacht%1:07:00::'
+      synset: 05101987-n
+    - id: 'doimhneacht%1:07:01::'
+      synset: 05141812-n
+doingean:
+  n:
+    sense:
+    - id: 'doingean%1:05:00::'
+      synset: 02568204-n
+dola:
+  n:
+    sense:
+    - id: 'dola%1:21:00::'
+      synset: 13344771-n
+dollar:
+  n:
+    sense:
+    - id: 'dollar%1:21:00::'
+      synset: 13417070-n
+    - id: 'dollar%1:23:01::'
+      synset: 13683378-n
+dolmain:
+  n:
+    sense:
+    - id: 'dolmain%1:06:00::'
+      synset: 03224940-n
+doléite:
+  a:
+    sense:
+    - id: 'doléite%3:00:00::'
+      synset: 01408240-a
+domhain:
+  a:
+    sense:
+    - id: 'domhain%3:00:00::'
+      synset: 00693335-a
+domhan:
+  n:
+    sense:
+    - id: 'domhan%1:17:00::'
+      synset: 09489410-n
+domhanda:
+  s:
+    sense:
+    - id: domhanda%5:00:00:idirnáisiúnta:00
+      synset: 01573077-s
+domhandú:
+  n:
+    sense:
+    - id: 'domhandú%1:22:00::'
+      synset: 13509313-n
+domhanfhad:
+  n:
+    sense:
+    - id: 'domhanfhad%1:15:00::'
+      synset: 08614224-n
+domhanleithead:
+  n:
+    sense:
+    - id: 'domhanleithead%1:15:00::'
+      synset: 08613087-n
+domhantarraingt:
+  n:
+    sense:
+    - id: 'domhantarraingt%1:19:00::'
+      synset: 11484542-n
+don chuid is mó:
+  r:
+    sense:
+    - id: 'don_chuid_is_mó%4:02:00::'
+      synset: 00006486-r
+donn:
+  a:
+    sense:
+    - id: 'donn%3:00:00::'
+      synset: 00373173-a
+donnrua:
+  a:
+    sense:
+    - id: 'donnrua%3:00:00::'
+      synset: 00373173-a
+donnóg:
+  n:
+    sense:
+    - id: 'donnóg%1:05:00::'
+      synset: 01529988-n
+doras:
+  n:
+    sense:
+    - id: 'doras%1:06:00::'
+      synset: 03226423-n
+    - id: 'doras%1:06:01::'
+      synset: 03228735-n
+dorcha:
+  a:
+    sense:
+    - id: 'dorcha%3:00:00::'
+      synset: 00273948-a
+    - id: 'dorcha%3:00:01::'
+      synset: 00410517-a
+dorchadas:
+  n:
+    sense:
+    - id: 'dorchadas%1:26:00::'
+      synset: 14007000-n
+dorchla:
+  n:
+    sense:
+    - id: 'dorchla%1:06:00::'
+      synset: 03116750-n
+dordveidhil:
+  n:
+    sense:
+    - id: 'dordveidhil%1:06:00::'
+      synset: 02995666-n
+dordóir:
+  n:
+    sense:
+    - id: 'dordóir%1:18:00::'
+      synset: 09862017-n
+dornálaíocht:
+  n:
+    sense:
+    - id: 'dornálaíocht%1:04:00::'
+      synset: 00446787-n
+doroinnte:
+  a:
+    sense:
+    - id: 'doroinnte%3:00:00::'
+      synset: 00789239-a
+dorád:
+  n:
+    sense:
+    - id: 'dorád%1:05:00::'
+      synset: 02584588-n
+dorú:
+  n:
+    sense:
+    - id: 'dorú%1:06:00::'
+      synset: 03676175-n
+dosaen:
+  a:
+    sense:
+    - id: 'dosaen%3:00:00::'
+      synset: 02195104-a
+dosheachanta:
+  a:
+    sense:
+    - id: 'dosheachanta%3:00:00::'
+      synset: 00343913-a
+  s:
+    sense:
+    - id: dosheachanta%5:00:01:dosheachanta:00
+      synset: 00344258-s
+dosmálta:
+  a:
+    sense:
+    - id: 'dosmálta%3:00:00::'
+      synset: 00248114-a
+dothuaslagtha:
+  a:
+    sense:
+    - id: 'dothuaslagtha%3:00:00::'
+      synset: 02273647-a
+drachma:
+  n:
+    sense:
+    - id: 'drachma%1:23:00::'
+      synset: 13697323-n
+    - id: 'drachma%1:23:01::'
+      synset: 13744445-n
+draein:
+  n:
+    sense:
+    - id: 'draein%1:06:00::'
+      synset: 03236615-n
+draenáil:
+  n:
+    sense:
+    - id: 'draenáil%1:04:00::'
+      synset: 00396837-n
+dragan:
+  n:
+    sense:
+    - id: 'dragan%1:18:00::'
+      synset: 09517519-n
+    - id: 'dragan%1:20:01::'
+      synset: 11950672-n
+draighean:
+  n:
+    sense:
+    - id: 'draighean%1:20:00::'
+      synset: 12670484-n
+dramhaíl:
+  n:
+    sense:
+    - id: 'dramhaíl%1:27:00::'
+      synset: 14880414-n
+    - id: 'dramhaíl%1:27:01::'
+      synset: 14881302-n
+dramhpháipéar:
+  n:
+    sense:
+    - id: 'dramhpháipéar%1:27:00::'
+      synset: 15118620-n
+drandal:
+  n:
+    sense:
+    - id: 'drandal%1:08:00::'
+      synset: 05312431-n
+draoi:
+  n:
+    sense:
+    - id: 'draoi%1:18:00::'
+      synset: 10056169-n
+    - id: 'draoi%1:18:01::'
+      synset: 10645222-n
+draíocht:
+  n:
+    sense:
+    - id: 'draíocht%1:09:00::'
+      synset: 05976844-n
+    - id: 'draíocht%1:09:01::'
+      synset: 05988217-n
+dreap:
+  v:
+    sense:
+    - id: 'dreap%2:38:00::'
+      synset: 01925957-v
+dreapadóir:
+  n:
+    sense:
+    - id: 'dreapadóir%1:18:00::'
+      synset: 09948756-n
+dreasacht:
+  n:
+    sense:
+    - id: 'dreasacht%1:16:00::'
+      synset: 09202673-n
+dreidire:
+  n:
+    sense:
+    - id: 'dreidire%1:06:00::'
+      synset: 03240920-n
+    - id: 'dreidire%1:06:01::'
+      synset: 03241126-n
+drill:
+  n:
+    sense:
+    - id: 'drill%1:05:00::'
+      synset: 02489710-n
+driog:
+  v:
+    sense:
+    - id: 'driog%2:30:00::'
+      synset: 00229452-v
+    - id: 'driog%2:30:01::'
+      synset: 00229706-v
+driogaire:
+  n:
+    sense:
+    - id: 'driogaire%1:18:00::'
+      synset: 10038378-n
+drioglann:
+  n:
+    sense:
+    - id: 'drioglann%1:06:00::'
+      synset: 03217532-n
+drochúsáid:
+  n:
+    sense:
+    - id: 'drochúsáid%1:04:00::'
+      synset: 00420921-n
+    - id: 'drochúsáid%1:04:01::'
+      synset: 00949535-n
+drogall:
+  n:
+    sense:
+    - id: 'drogall%1:07:00::'
+      synset: 04653300-n
+droichead:
+  n:
+    sense:
+    - id: 'droichead%1:06:00::'
+      synset: 02901994-n
+droichead crochta:
+  n:
+    sense:
+    - id: 'droichead_crochta%1:06:00::'
+      synset: 04373454-n
+droim:
+  n:
+    sense:
+    - id: 'droim%1:08:00::'
+      synset: 05566350-n
+dromadaire:
+  n:
+    sense:
+    - id: 'dromadaire%1:05:00::'
+      synset: 02439943-n
+drongadóir:
+  n:
+    sense:
+    - id: 'drongadóir%1:18:00::'
+      synset: 10139742-n
+dronuilleog:
+  n:
+    sense:
+    - id: 'dronuilleog%1:25:00::'
+      synset: 13906003-n
+druga:
+  n:
+    sense:
+    - id: 'druga%1:06:00::'
+      synset: 03252323-n
+druil:
+  n:
+    sense:
+    - id: 'druil%1:06:00::'
+      synset: 03244429-n
+druileáil:
+  v:
+    sense:
+    - id: 'druileáil%2:35:00::'
+      synset: 01445640-v
+druilire:
+  n:
+    sense:
+    - id: 'druilire%1:06:00::'
+      synset: 03244429-n
+druma:
+  n:
+    sense:
+    - id: 'druma%1:06:00::'
+      synset: 03254272-n
+    - id: 'druma%1:06:01::'
+      synset: 03254659-n
+drumadóir:
+  n:
+    sense:
+    - id: 'drumadóir%1:18:00::'
+      synset: 10056654-n
+dráma:
+  n:
+    sense:
+    - id: 'dráma%1:10:00::'
+      synset: 07021061-n
+drámadóir:
+  n:
+    sense:
+    - id: 'drámadóir%1:18:00::'
+      synset: 10050002-n
+drámatúil:
+  a:
+    sense:
+    - id: 'drámatúil%3:00:00::'
+      synset: 01287304-a
+drámaíocht:
+  n:
+    sense:
+    - id: 'drámaíocht%1:10:00::'
+      synset: 07019235-n
+dréacht:
+  n:
+    sense:
+    - id: 'dréacht%1:10:00::'
+      synset: 06402605-n
+dréachtaigh:
+  v:
+    sense:
+    - id: 'dréachtaigh%2:31:00::'
+      synset: 00708633-v
+    - id: 'dréachtaigh%2:36:01::'
+      synset: 01705493-v
+dréimire:
+  n:
+    sense:
+    - id: 'dréimire%1:06:00::'
+      synset: 03637568-n
+dríodar:
+  n:
+    sense:
+    - id: 'dríodar%1:17:00::'
+      synset: 09451871-n
+drúcht:
+  n:
+    sense:
+    - id: 'drúcht%1:27:00::'
+      synset: 14858302-n
+drúp:
+  n:
+    sense:
+    - id: 'drúp%1:20:00::'
+      synset: 13159085-n
+duais:
+  n:
+    sense:
+    - id: 'duais%1:21:00::'
+      synset: 13289169-n
+    - id: 'duais%1:10:01::'
+      synset: 06709228-n
+dualgas:
+  n:
+    sense:
+    - id: 'dualgas%1:04:00::'
+      synset: 00720746-n
+    - id: 'dualgas%1:04:01::'
+      synset: 01132241-n
+    - id: 'dualgas%1:09:02::'
+      synset: 05841069-n
+dubh:
+  a:
+    sense:
+    - id: 'dubh%3:00:00::'
+      synset: 00393873-a
+  s:
+    sense:
+    - id: dubh%5:00:01:olc:02
+      synset: 01135435-s
+dubáil:
+  n:
+    sense:
+    - id: 'dubáil%1:06:00::'
+      synset: 03257662-n
+dufair:
+  n:
+    sense:
+    - id: 'dufair%1:14:00::'
+      synset: 08456014-n
+duibheagán:
+  n:
+    sense:
+    - id: 'duibheagán%1:17:00::'
+      synset: 09209256-n
+duille:
+  n:
+    sense:
+    - id: 'duille%1:20:00::'
+      synset: 13173519-n
+duilleog:
+  n:
+    sense:
+    - id: 'duilleog%1:20:00::'
+      synset: 13173519-n
+duine:
+  a:
+    sense:
+    - id: 'duine%3:01:00::'
+      synset: 02754015-a
+  n:
+    sense:
+    - id: 'duine%1:03:01::'
+      synset: 00007846-n
+    - id: 'duine%1:05:02::'
+      synset: 02474924-n
+    - id: 'duine%1:09:03::'
+      synset: 05878677-n
+duine breise:
+  n:
+    sense:
+    - id: 'duine_breise%1:18:00::'
+      synset: 10696008-n
+duine díolacháin:
+  n:
+    sense:
+    - id: 'duine_díolacháin%1:18:00::'
+      synset: 10568238-n
+dul anuas:
+  v:
+    sense:
+    - id: 'dul_anuas%2:38:00::'
+      synset: 02055618-v
+dul chun:
+  v:
+    sense:
+    - id: 'dul_chun%2:42:00::'
+      synset: 02682599-v
+dul in aonad:
+  v:
+    sense:
+    - id: 'dul_in_aonad%2:41:00::'
+      synset: 02410532-v
+dul in áit ruda/duine:
+  v:
+    sense:
+    - id: 'dul_in_áit_ruda/duine%2:41:00::'
+      synset: 02410532-v
+dul le:
+  v:
+    sense:
+    - id: 'dul_le%2:42:00::'
+      synset: 02722040-v
+dul suas:
+  v:
+    sense:
+    - id: 'dul_suas%2:30:00::'
+      synset: 00154951-v
+dul thar:
+  v:
+    sense:
+    - id: 'dul_thar%2:38:00::'
+      synset: 02055618-v
+dumpáil:
+  n:
+    sense:
+    - id: 'dumpáil%1:04:00::'
+      synset: 01117910-n
+duán:
+  n:
+    sense:
+    - id: 'duán%1:06:00::'
+      synset: 03537522-n
+    - id: 'duán%1:08:01::'
+      synset: 05340350-n
+dá bharr sin:
+  r:
+    sense:
+    - id: 'dá_bharr_sin%4:02:00::'
+      synset: 00043413-r
+dá bhrí sin:
+  r:
+    sense:
+    - id: 'dá_bhrí_sin%4:02:00::'
+      synset: 00043413-r
+    - id: 'dá_bhrí_sin%4:02:01::'
+      synset: 00122019-r
+dá réir sin:
+  r:
+    sense:
+    - id: 'dá_réir_sin%4:02:00::'
+      synset: 00043413-r
+    - id: 'dá_réir_sin%4:02:01::'
+      synset: 00063395-r
+dáil:
+  n:
+    sense:
+    - id: 'dáil%1:04:02::'
+      synset: 01085001-n
+  v:
+    sense:
+    - id: 'dáil%2:40:00::'
+      synset: 02238869-v
+    - id: 'dáil%2:40:01::'
+      synset: 02299397-v
+dáileacht:
+  n:
+    sense:
+    - id: 'dáileacht%1:15:00::'
+      synset: 08691133-n
+dáileachán:
+  n:
+    sense:
+    - id: 'dáileachán%1:04:00::'
+      synset: 01085001-n
+dáileamh:
+  n:
+    sense:
+    - id: 'dáileamh%1:18:00::'
+      synset: 10002583-n
+dáileog:
+  n:
+    sense:
+    - id: 'dáileog%1:23:00::'
+      synset: 13794246-n
+    - id: 'dáileog%1:06:01::'
+      synset: 03229941-n
+dáileoir airgid:
+  n:
+    sense:
+    - id: 'dáileoir_airgid%1:06:00::'
+      synset: 02980517-n
+dáiríre:
+  a:
+    sense:
+    - id: 'dáiríre%3:00:00::'
+      synset: 02125659-a
+  r:
+    sense:
+    - id: 'dáiríre%4:02:01::'
+      synset: 00003864-r
+    - id: 'dáiríre%4:02:02::'
+      synset: 00037620-r
+    - id: 'dáiríre%4:02:03::'
+      synset: 00150568-r
+dámh:
+  v:
+    sense:
+    - id: 'dámh%2:40:00::'
+      synset: 02267085-v
+dámhachtain:
+  n:
+    sense:
+    - id: 'dámhachtain%1:04:00::'
+      synset: 00088483-n
+dár gcionn:
+  a:
+    sense:
+    - id: 'dár_gcionn%3:00:00::'
+      synset: 00128838-a
+dáta:
+  n:
+    sense:
+    - id: 'dáta%1:28:00::'
+      synset: 15184543-n
+    - id: 'dáta%1:13:01::'
+      synset: 07781049-n
+dátphluma:
+  n:
+    sense:
+    - id: 'dátphluma%1:20:00::'
+      synset: 12792650-n
+    - id: 'dátphluma%1:13:01::'
+      synset: 07762162-n
+dé-ocsaíd:
+  n:
+    sense:
+    - id: 'dé-ocsaíd%1:27:00::'
+      synset: 14860297-n
+déach:
+  s:
+    sense:
+    - id: déach%5:00:00:iolrach:00
+      synset: 02225139-s
+déagóir:
+  n:
+    sense:
+    - id: 'déagóir%1:18:00::'
+      synset: 09791452-n
+déan:
+  v:
+    sense:
+    - id: 'déan%2:29:00::'
+      synset: 00010428-v
+    - id: 'déan%2:30:01::'
+      synset: 00120124-v
+    - id: 'déan%2:30:02::'
+      synset: 00120483-v
+    - id: 'déan%2:31:03::'
+      synset: 00601387-v
+    - id: 'déan%2:31:04::'
+      synset: 00667394-v
+    - id: 'déan%2:32:05::'
+      synset: 01004785-v
+    - id: 'déan%2:35:06::'
+      synset: 01219607-v
+    - id: 'déan%2:36:07::'
+      synset: 01620211-v
+    - id: 'déan%2:36:08::'
+      synset: 01624592-v
+    - id: 'déan%2:36:09::'
+      synset: 01632192-v
+    - id: 'déan%2:36:10::'
+      synset: 01644397-v
+    - id: 'déan%2:36:11::'
+      synset: 01649143-v
+    - id: 'déan%2:36:12::'
+      synset: 01654835-v
+    - id: 'déan%2:36:13::'
+      synset: 01658171-v
+    - id: 'déan%2:36:14::'
+      synset: 01716563-v
+    - id: 'déan%2:36:15::'
+      synset: 01737358-v
+    - id: 'déan%2:38:16::'
+      synset: 02024442-v
+    - id: 'déan%2:40:17::'
+      synset: 02294200-v
+    - id: 'déan%2:41:18::'
+      synset: 02380222-v
+    - id: 'déan%2:41:19::'
+      synset: 02450374-v
+    - id: 'déan%2:41:20::'
+      synset: 02531751-v
+    - id: 'déan%2:41:21::'
+      synset: 02574587-v
+    - id: 'déan%2:41:22::'
+      synset: 02588700-v
+    - id: 'déan%2:41:23::'
+      synset: 02593624-v
+    - id: 'déan%2:41:24::'
+      synset: 02605633-v
+    - id: 'déan%2:42:25::'
+      synset: 02623620-v
+    - id: 'déan%2:42:26::'
+      synset: 02629987-v
+    - id: 'déan%2:41:27::'
+      synset: 02566500-v
+    - id: 'déan%2:42:28::'
+      synset: 02627475-v
+    - id: 'déan%2:32:29::'
+      synset: 00983308-v
+    - id: 'déan%2:41:30::'
+      synset: 02567910-v
+déan amach:
+  v:
+    sense:
+    - id: 'déan_amach%2:31:00::'
+      synset: 00636134-v
+    - id: 'déan_amach%2:31:01::'
+      synset: 00636568-v
+    - id: 'déan_amach%2:31:02::'
+      synset: 00638921-v
+    - id: 'déan_amach%2:39:03::'
+      synset: 02197640-v
+déan anailís:
+  v:
+    sense:
+    - id: 'déan_anailís%2:31:00::'
+      synset: 00646245-v
+déan ar shiúl leis:
+  v:
+    sense:
+    - id: 'déan_ar_shiúl_leis%2:30:00::'
+      synset: 00472642-v
+déan breithiúnas ar:
+  v:
+    sense:
+    - id: 'déan_breithiúnas_ar%2:31:00::'
+      synset: 00674352-v
+déan cinneadh:
+  v:
+    sense:
+    - id: 'déan_cinneadh%2:31:00::'
+      synset: 00699355-v
+déan comparáid:
+  v:
+    sense:
+    - id: 'déan_comparáid%2:31:00::'
+      synset: 00654571-v
+déan cur síos:
+  v:
+    sense:
+    - id: 'déan_cur_síos%2:32:00::'
+      synset: 00989103-v
+déan cur síos ar:
+  v:
+    sense:
+    - id: 'déan_cur_síos_ar%2:32:00::'
+      synset: 00967067-v
+déan de:
+  v:
+    sense:
+    - id: 'déan_de%2:42:00::'
+      synset: 02632685-v
+déan dearmad:
+  v:
+    sense:
+    - id: 'déan_dearmad%2:31:00::'
+      synset: 00611721-v
+déan do:
+  v:
+    sense:
+    - id: 'déan_do%2:36:00::'
+      synset: 01649143-v
+déan faigh:
+  v:
+    sense:
+    - id: 'déan_faigh%2:38:00::'
+      synset: 02026014-v
+déan faireachán:
+  v:
+    sense:
+    - id: 'déan_faireachán%2:39:00::'
+      synset: 02167732-v
+déan freastal ar:
+  v:
+    sense:
+    - id: 'déan_freastal_ar%2:41:00::'
+      synset: 02546948-v
+déan gearán:
+  v:
+    sense:
+    - id: 'déan_gearán%2:32:00::'
+      synset: 00909100-v
+déan gáire:
+  v:
+    sense:
+    - id: 'déan_gáire%2:29:00::'
+      synset: 00031813-v
+déan iarracht:
+  v:
+    sense:
+    - id: 'déan_iarracht%2:41:00::'
+      synset: 02535833-v
+déan iarratas:
+  v:
+    sense:
+    - id: 'déan_iarratas%2:32:00::'
+      synset: 00767441-v
+déan ionadaíocht:
+  v:
+    sense:
+    - id: 'déan_ionadaíocht%2:41:00::'
+      synset: 02547206-v
+déan ionadaíocht do:
+  v:
+    sense:
+    - id: 'déan_ionadaíocht_do%2:32:00::'
+      synset: 00837915-v
+déan meangadh gáire:
+  v:
+    sense:
+    - id: 'déan_meangadh_gáire%2:29:00::'
+      synset: 00028558-v
+déan miongháire:
+  v:
+    sense:
+    - id: 'déan_miongháire%2:29:00::'
+      synset: 00028558-v
+déan plé ar:
+  v:
+    sense:
+    - id: 'déan_plé_ar%2:32:00::'
+      synset: 01036184-v
+déan robach:
+  v:
+    sense:
+    - id: 'déan_robach%2:36:00::'
+      synset: 01632781-v
+déan samhail de:
+  v:
+    sense:
+    - id: 'déan_samhail_de%2:36:00::'
+      synset: 01638974-v
+déan staidéar:
+  v:
+    sense:
+    - id: 'déan_staidéar%2:31:00::'
+      synset: 00646245-v
+déan staidéar ar:
+  v:
+    sense:
+    - id: 'déan_staidéar_ar%2:39:00::'
+      synset: 02170904-v
+déan suas:
+  v:
+    sense:
+    - id: 'déan_suas%2:31:00::'
+      synset: 00699355-v
+déan tagairt do:
+  v:
+    sense:
+    - id: 'déan_tagairt_do%2:32:00::'
+      synset: 01026199-v
+    - id: 'déan_tagairt_do%2:42:01::'
+      synset: 02681865-v
+déan talamh slán de:
+  v:
+    sense:
+    - id: 'déan_talamh_slán_de%2:31:00::'
+      synset: 00633898-v
+déan tráchtaireacht:
+  v:
+    sense:
+    - id: 'déan_tráchtaireacht%2:32:00::'
+      synset: 00955248-v
+déanach:
+  a:
+    sense:
+    - id: 'déanach%3:00:00::'
+      synset: 01907298-a
+    - id: 'déanach%3:00:02::'
+      synset: 00820050-a
+    - id: 'déanach%3:00:03::'
+      synset: 01051260-a
+  r:
+    sense:
+    - id: 'déanach%4:02:01::'
+      synset: 00108184-r
+déanamh:
+  n:
+    sense:
+    - id: 'déanamh%1:09:00::'
+      synset: 05853667-n
+déanmhasach:
+  a:
+    sense:
+    - id: 'déanmhasach%3:01:00::'
+      synset: 02908587-a
+déanta:
+  a:
+    sense:
+    - id: 'déanta%3:00:00::'
+      synset: 01007109-a
+déanta na fírinne:
+  r:
+    sense:
+    - id: 'déanta_na_fírinne%4:02:00::'
+      synset: 00149927-r
+déantán:
+  n:
+    sense:
+    - id: 'déantán%1:03:00::'
+      synset: 00022119-n
+déantóir:
+  n:
+    sense:
+    - id: 'déantóir%1:14:00::'
+      synset: 08077282-n
+    - id: 'déantóir%1:18:01::'
+      synset: 10303761-n
+    - id: 'déantóir%1:18:02::'
+      synset: 10436913-n
+déantúsaíocht:
+  n:
+    sense:
+    - id: 'déantúsaíocht%1:04:00::'
+      synset: 00926639-n
+débhliantúil:
+  s:
+    sense:
+    - id: débhliantúil%5:00:00:tréimhsiúil:00
+      synset: 01976542-s
+débhríoch:
+  a:
+    sense:
+    - id: 'débhríoch%3:00:00::'
+      synset: 00898735-a
+déchéileachas:
+  n:
+    sense:
+    - id: 'déchéileachas%1:26:00::'
+      synset: 13987802-n
+déileáil:
+  v:
+    sense:
+    - id: 'déileáil%2:31:00::'
+      synset: 00736077-v
+déileáil le:
+  v:
+    sense:
+    - id: 'déileáil_le%2:32:00::'
+      synset: 01035399-v
+    - id: 'déileáil_le%2:41:01::'
+      synset: 02441196-v
+déileálaí:
+  n:
+    sense:
+    - id: 'déileálaí%1:18:00::'
+      synset: 10740102-n
+déimeagrafach:
+  a:
+    sense:
+    - id: 'déimeagrafach%3:01:00::'
+      synset: 02917664-a
+déphósadh:
+  n:
+    sense:
+    - id: 'déphósadh%1:26:00::'
+      synset: 13987802-n
+déthéarmach:
+  a:
+    sense:
+    - id: 'déthéarmach%3:01:00::'
+      synset: 03059944-a
+dí-armáil:
+  n:
+    sense:
+    - id: 'dí-armáil%1:04:00::'
+      synset: 01160044-n
+dí-éilliú:
+  n:
+    sense:
+    - id: 'dí-éilliú%1:04:00::'
+      synset: 00395293-n
+díbh:
+  v:
+    sense:
+    - id: 'díbh%2:32:00::'
+      synset: 00803288-v
+díbhinn:
+  n:
+    sense:
+    - id: 'díbhinn%1:21:00::'
+      synset: 13429196-n
+díbhoilsciú:
+  n:
+    sense:
+    - id: 'díbhoilsciú%1:22:00::'
+      synset: 13481024-n
+díbholaíoch:
+  n:
+    sense:
+    - id: 'díbholaíoch%1:06:00::'
+      synset: 03181260-n
+díbirt:
+  v:
+    sense:
+    - id: 'díbirt%2:29:00::'
+      synset: 00010428-v
+dícheadaigh:
+  v:
+    sense:
+    - id: 'dícheadaigh%2:32:00::'
+      synset: 00797525-v
+dícheall:
+  n:
+    sense:
+    - id: 'dícheall%1:07:00::'
+      synset: 05132193-n
+díchobhsaigh:
+  v:
+    sense:
+    - id: 'díchobhsaigh%2:30:00::'
+      synset: 00272510-v
+díchoilíniú:
+  n:
+    sense:
+    - id: 'díchoilíniú%1:04:00::'
+      synset: 01084472-n
+díchoimisiúnaigh:
+  v:
+    sense:
+    - id: 'díchoimisiúnaigh%2:40:00::'
+      synset: 02317722-v
+dícháiliúchán:
+  n:
+    sense:
+    - id: 'dícháiliúchán%1:04:00::'
+      synset: 01080010-n
+díchódóir:
+  n:
+    sense:
+    - id: 'díchódóir%1:06:00::'
+      synset: 03173729-n
+dídeanaí:
+  n:
+    sense:
+    - id: 'dídeanaí%1:18:00::'
+      synset: 10535609-n
+dídhreasacht:
+  n:
+    sense:
+    - id: 'dídhreasacht%1:16:00::'
+      synset: 09203015-n
+dífhibrileoir:
+  n:
+    sense:
+    - id: 'dífhibrileoir%1:06:00::'
+      synset: 03176301-n
+dífhostaigh:
+  v:
+    sense:
+    - id: 'dífhostaigh%2:41:00::'
+      synset: 02407967-v
+dífhostaíocht:
+  n:
+    sense:
+    - id: 'dífhostaíocht%1:26:00::'
+      synset: 13991755-n
+díghalrán:
+  n:
+    sense:
+    - id: 'díghalrán%1:06:00::'
+      synset: 03212950-n
+díghníomhachtaigh:
+  v:
+    sense:
+    - id: 'díghníomhachtaigh%2:30:00::'
+      synset: 00191849-v
+díhiodráitiú:
+  n:
+    sense:
+    - id: 'díhiodráitiú%1:22:00::'
+      synset: 13481771-n
+dílleachta:
+  n:
+    sense:
+    - id: 'dílleachta%1:18:00::'
+      synset: 10404091-n
+dílleachtlann:
+  n:
+    sense:
+    - id: 'dílleachtlann%1:06:00::'
+      synset: 03861532-n
+dílseacht:
+  n:
+    sense:
+    - id: 'dílseacht%1:07:00::'
+      synset: 04885133-n
+dílseánach:
+  n:
+    sense:
+    - id: 'dílseánach%1:18:00::'
+      synset: 10408623-n
+dílsithe:
+  a:
+    sense:
+    - id: 'dílsithe%3:00:00::'
+      synset: 01113625-a
+díluchtaigh:
+  v:
+    sense:
+    - id: 'díluchtaigh%2:35:00::'
+      synset: 01490749-v
+    - id: 'díluchtaigh%2:35:01::'
+      synset: 01492094-v
+díláraithe:
+  a:
+    sense:
+    - id: 'díláraithe%3:00:00::'
+      synset: 01111666-a
+dílódáil:
+  n:
+    sense:
+    - id: 'dílódáil%1:04:00::'
+      synset: 00715425-n
+dínit:
+  n:
+    sense:
+    - id: 'dínit%1:07:00::'
+      synset: 04894076-n
+díobháil:
+  n:
+    sense:
+    - id: 'díobháil%1:26:00::'
+      synset: 14309164-n
+    - id: 'díobháil%1:11:01::'
+      synset: 07435370-n
+díobhálach:
+  a:
+    sense:
+    - id: 'díobhálach%3:00:00::'
+      synset: 00588876-a
+    - id: 'díobhálach%3:00:02::'
+      synset: 01163575-a
+  s:
+    sense:
+    - id: díobhálach%5:00:01:neamhfhabhrach:00
+      synset: 01000455-s
+    - id: díobhálach%5:00:03:dochrach:01
+      synset: 01164603-s
+    - id: díobhálach%5:00:04:dochrach:01
+      synset: 01165528-s
+díol:
+  n:
+    sense:
+    - id: 'díol%1:04:00::'
+      synset: 01116934-n
+    - id: 'díol%1:04:01::'
+      synset: 01119862-n
+  v:
+    sense:
+    - id: 'díol%2:40:02::'
+      synset: 02247246-v
+díolachán:
+  n:
+    sense:
+    - id: 'díolachán%1:04:00::'
+      synset: 01119862-n
+díolama:
+  v:
+    sense:
+    - id: 'díolama%2:31:00::'
+      synset: 00670017-v
+díolmhaigh:
+  v:
+    sense:
+    - id: 'díolmhaigh%2:41:00::'
+      synset: 02570061-v
+díolmhaithe:
+  a:
+    sense:
+    - id: 'díolmhaithe%3:00:00::'
+      synset: 02373965-a
+díoltas:
+  n:
+    sense:
+    - id: 'díoltas%1:04:00::'
+      synset: 01237823-n
+díoltóir:
+  n:
+    sense:
+    - id: 'díoltóir%1:18:00::'
+      synset: 10596736-n
+díolúine:
+  n:
+    sense:
+    - id: 'díolúine%1:26:00::'
+      synset: 14552475-n
+    - id: 'díolúine%1:04:01::'
+      synset: 00214770-n
+díomá:
+  n:
+    sense:
+    - id: 'díomá%1:12:00::'
+      synset: 07555990-n
+díon:
+  n:
+    sense:
+    - id: 'díon%1:06:00::'
+      synset: 04112162-n
+díonchruthú:
+  n:
+    sense:
+    - id: 'díonchruthú%1:09:00::'
+      synset: 06192582-n
+díorthach:
+  a:
+    sense:
+    - id: 'díorthach%3:00:00::'
+      synset: 00702031-a
+  n:
+    sense:
+    - id: 'díorthach%1:09:01::'
+      synset: 06024079-n
+díorthaigh:
+  v:
+    sense:
+    - id: 'díorthaigh%2:31:00::'
+      synset: 00638236-v
+díosal:
+  n:
+    sense:
+    - id: 'díosal%1:06:00::'
+      synset: 03197791-n
+    - id: 'díosal%1:27:01::'
+      synset: 14710042-n
+díospóid:
+  n:
+    sense:
+    - id: 'díospóid%1:10:01::'
+      synset: 07196595-n
+  v:
+    sense:
+    - id: 'díospóid%2:32:00::'
+      synset: 00870790-v
+díospóireacht:
+  n:
+    sense:
+    - id: 'díospóireacht%1:10:00::'
+      synset: 07155367-n
+    - id: 'díospóireacht%1:10:01::'
+      synset: 07155686-n
+díotchúiseamh:
+  n:
+    sense:
+    - id: 'díotchúiseamh%1:10:00::'
+      synset: 07250596-n
+díothach:
+  a:
+    sense:
+    - id: 'díothach%3:00:00::'
+      synset: 01870616-a
+díothacht:
+  n:
+    sense:
+    - id: 'díothacht%1:26:00::'
+      synset: 14517010-n
+díothaigh:
+  v:
+    sense:
+    - id: 'díothaigh%2:30:00::'
+      synset: 00472642-v
+    - id: 'díothaigh%2:41:01::'
+      synset: 02432181-v
+díraonadh:
+  n:
+    sense:
+    - id: 'díraonadh%1:19:00::'
+      synset: 11467030-n
+dírbheathaisnéis:
+  n:
+    sense:
+    - id: 'dírbheathaisnéis%1:10:00::'
+      synset: 06528078-n
+díreach:
+  a:
+    sense:
+    - id: 'díreach%3:00:00::'
+      synset: 02318575-a
+    - id: 'díreach%3:00:05::'
+      synset: 00764460-a
+    - id: 'díreach%3:00:06::'
+      synset: 00767176-a
+    - id: 'díreach%3:00:07::'
+      synset: 00774039-a
+  r:
+    sense:
+    - id: 'díreach%4:02:01::'
+      synset: 00009459-r
+    - id: 'díreach%4:02:02::'
+      synset: 00033695-r
+    - id: 'díreach%4:02:03::'
+      synset: 00049277-r
+    - id: 'díreach%4:02:04::'
+      synset: 00052386-r
+    - id: 'díreach%4:02:08::'
+      synset: 00159432-r
+díreach anois:
+  r:
+    sense:
+    - id: 'díreach_anois%4:02:00::'
+      synset: 00033695-r
+dírigh:
+  v:
+    sense:
+    - id: 'dírigh%2:31:00::'
+      synset: 00724156-v
+    - id: 'dírigh%2:32:01::'
+      synset: 00751211-v
+    - id: 'dírigh%2:32:02::'
+      synset: 00888984-v
+    - id: 'dírigh%2:38:03::'
+      synset: 01955339-v
+    - id: 'dírigh%2:42:04::'
+      synset: 02682306-v
+dírigh ar:
+  v:
+    sense:
+    - id: 'dírigh_ar%2:42:00::'
+      synset: 02682306-v
+díréireach:
+  a:
+    sense:
+    - id: 'díréireach%3:00:00::'
+      synset: 00485037-a
+díscaoil:
+  v:
+    sense:
+    - id: 'díscaoil%2:30:00::'
+      synset: 00356609-v
+dísle:
+  n:
+    sense:
+    - id: 'dísle%1:06:00::'
+      synset: 03195713-n
+díth:
+  n:
+    sense:
+    - id: 'díth%1:26:00::'
+      synset: 14472592-n
+    - id: 'díth%1:26:01::'
+      synset: 14517010-n
+díthreabh:
+  n:
+    sense:
+    - id: 'díthreabh%1:15:00::'
+      synset: 08522594-n
+díthreabhach:
+  n:
+    sense:
+    - id: 'díthreabhach%1:18:00::'
+      synset: 10538719-n
+dó dhéag:
+  a:
+    sense:
+    - id: 'dó_dhéag%3:00:00::'
+      synset: 02195104-a
+dócha:
+  a:
+    sense:
+    - id: 'dócha%3:00:00::'
+      synset: 01414308-a
+dóchas:
+  v:
+    sense:
+    - id: 'dóchas%2:37:00::'
+      synset: 01815408-v
+dóchán:
+  n:
+    sense:
+    - id: 'dóchán%1:22:00::'
+      synset: 13471379-n
+dóchúil:
+  a:
+    sense:
+    - id: 'dóchúil%3:00:00::'
+      synset: 01414308-a
+    - id: 'dóchúil%3:00:01::'
+      synset: 01416084-a
+dóchúlacht:
+  n:
+    sense:
+    - id: 'dóchúlacht%1:07:00::'
+      synset: 04763427-n
+    - id: 'dóchúlacht%1:07:01::'
+      synset: 04763890-n
+    - id: 'dóchúlacht%1:07:02::'
+      synset: 05098974-n
+dócmhainn:
+  n:
+    sense:
+    - id: 'dócmhainn%1:26:00::'
+      synset: 14513903-n
+dócmhainneach:
+  a:
+    sense:
+    - id: 'dócmhainneach%3:00:00::'
+      synset: 02033820-a
+dócmhainneacht:
+  n:
+    sense:
+    - id: 'dócmhainneacht%1:26:00::'
+      synset: 14501875-n
+dódó:
+  n:
+    sense:
+    - id: 'dódó%1:05:00::'
+      synset: 01813884-n
+dóigh:
+  n:
+    sense:
+    - id: 'dóigh%1:07:00::'
+      synset: 04936080-n
+dóire:
+  n:
+    sense:
+    - id: 'dóire%1:06:00::'
+      synset: 02926513-n
+dóiteán:
+  n:
+    sense:
+    - id: 'dóiteán%1:11:00::'
+      synset: 07317454-n
+    - id: 'dóiteán%1:11:01::'
+      synset: 07318315-n
+dórtúr:
+  n:
+    sense:
+    - id: 'dórtúr%1:06:00::'
+      synset: 03229596-n
+dóthanach:
+  a:
+    sense:
+    - id: 'dóthanach%3:00:00::'
+      synset: 02343832-a
+  s:
+    sense:
+    - id: dóthanach%5:00:01:dóthanach:00
+      synset: 02344113-s
+dóú:
+  a:
+    sense:
+    - id: 'dóú%3:00:00::'
+      synset: 02209815-a
+dúbail:
+  v:
+    sense:
+    - id: 'dúbail%2:30:00::'
+      synset: 00247103-v
+dúbailt:
+  n:
+    sense:
+    - id: 'dúbailt%1:04:00::'
+      synset: 01021645-n
+dúbailte:
+  s:
+    sense:
+    - id: dúbailte%5:00:00:iolrach:00
+      synset: 02224928-s
+    - id: dúbailte%5:00:01:iolrach:00
+      synset: 02225139-s
+dúblach:
+  n:
+    sense:
+    - id: 'dúblach%1:06:00::'
+      synset: 03262046-n
+dúch:
+  n:
+    sense:
+    - id: 'dúch%1:27:00::'
+      synset: 14941786-n
+dúchasach:
+  a:
+    sense:
+    - id: 'dúchasach%3:00:00::'
+      synset: 01040065-a
+dúdhonn:
+  a:
+    sense:
+    - id: 'dúdhonn%3:00:00::'
+      synset: 00373173-a
+dúghlas:
+  a:
+    sense:
+    - id: 'dúghlas%3:00:00::'
+      synset: 00377031-a
+dúibniam:
+  n:
+    sense:
+    - id: 'dúibniam%1:27:00::'
+      synset: 14660701-n
+dúiche:
+  n:
+    sense:
+    - id: 'dúiche%1:15:00::'
+      synset: 08658688-n
+dúidéineam:
+  n:
+    sense:
+    - id: 'dúidéineam%1:08:00::'
+      synset: 05542588-n
+dúil:
+  n:
+    sense:
+    - id: 'dúil%1:27:00::'
+      synset: 14647071-n
+dúisigh:
+  v:
+    sense:
+    - id: 'dúisigh%2:29:00::'
+      synset: 00018806-v
+dúlagar:
+  n:
+    sense:
+    - id: 'dúlagar%1:26:00::'
+      synset: 14427564-n
+dúlra:
+  n:
+    sense:
+    - id: 'dúlra%1:17:00::'
+      synset: 09389659-n
+dúmhál:
+  n:
+    sense:
+    - id: 'dúmhál%1:04:00::'
+      synset: 00786252-n
+dún:
+  n:
+    sense:
+    - id: 'dún%1:06:01::'
+      synset: 03390857-n
+  v:
+    sense:
+    - id: 'dún%2:35:00::'
+      synset: 01347791-v
+dúnbhású:
+  n:
+    sense:
+    - id: 'dúnbhású%1:04:00::'
+      synset: 00220890-n
+dúnmharfóir:
+  n:
+    sense:
+    - id: 'dúnmharfóir%1:18:00::'
+      synset: 10358420-n
+dúnmharú:
+  n:
+    sense:
+    - id: 'dúnmharú%1:04:00::'
+      synset: 00221389-n
+dúnpholl:
+  n:
+    sense:
+    - id: 'dúnpholl%1:06:00::'
+      synset: 03722986-n
+dúnta:
+  a:
+    sense:
+    - id: 'dúnta%3:00:00::'
+      synset: 01657224-a
+dúr:
+  a:
+    sense:
+    - id: 'dúr%3:00:00::'
+      synset: 00441328-a
+dúrabhán:
+  n:
+    sense:
+    - id: 'dúrabhán%1:27:00::'
+      synset: 14966361-n
+dúshaothrú:
+  n:
+    sense:
+    - id: 'dúshaothrú%1:04:00::'
+      synset: 00419916-n

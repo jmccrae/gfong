@@ -1,0 +1,221 @@
+01074673-v:
+  definition:
+  - téigh san iomaíocht le haghaidh rud éigin; páirt a ghlacadh i gcomórtas, tú féin
+    a thomhas i gcoinne daoine eile
+  hypernym:
+  - 02372362-v
+  ili: i26951
+  members:
+  - áitigh
+  - téigh in iomaíocht
+  partOfSpeech: v
+01075360-v:
+  definition:
+  - páirt a ghlacadh i gcluichí nó spórt
+  example:
+  - D'imríomar haca an tráthnóna ar fad
+  hypernym:
+  - 01074673-v
+  ili: i26954
+  members:
+  - imir
+  partOfSpeech: v
+01081176-v:
+  definition:
+  - cuir i gcoinne, ar bhealach naimhdeach nó i gcomórtas
+  example:
+  - Caithfidh tú aghaidh a thabhairt ar do chéile comhraic
+  hypernym:
+  - 01074673-v
+  ili: i26985
+  members:
+  - tabhair aghaidh ar
+  partOfSpeech: v
+01084999-v:
+  definition:
+  - bheith ina rannpháirtí; bheith páirteach i
+  example:
+  - téigh isteach i rás
+  hypernym:
+  - 02439823-v
+  ili: i27004
+  members:
+  - téigh i
+  - páirt a ghlacadh i
+  partOfSpeech: v
+01092746-v:
+  definition:
+  - bheith i mbun babhta; lean le babhta
+  example:
+  - throid na finígh dá chéile
+  hypernym:
+  - 02372362-v
+  ili: i27047
+  members:
+  - maígh
+  - bheith ag streachailt
+  - troid
+  partOfSpeech: v
+01093838-v:
+  definition:
+  - troid in aghaidh nó cuir in éadan go láidir
+  example:
+  - Dúirt an seanadóir go dtroidfidh sé in aghaidh an bhille
+  hypernym:
+  - 01092746-v
+  ili: i27050
+  members:
+  - troid in aghaidh
+  - cosain
+  - troid
+  - troid ar ais
+  - troid síos
+  - comhraic
+  partOfSpeech: v
+01094777-v:
+  definition:
+  - confidence: 0.0
+    text: battle or contend against in or as if in a battle
+  hypernym:
+  - 01092746-v
+  ili: i27054
+  members:
+  - comhraic
+  partOfSpeech: v
+01097629-v:
+  definition:
+  - déan dualgas nó bí ina airí nó ina hairí, fóin i bhfeidhm ar leith
+  example:
+  - Bhí sé ina cheann roinne ar feadh trí bliana
+  hypernym:
+  - 02415985-v
+  ili: i27069
+  members:
+  - bí
+  partOfSpeech: v
+01102003-v:
+  definition:
+  - confidence: 0.0
+    text: fail to win
+  hypernym:
+  - 02534046-v
+  ili: i27089
+  members:
+  - caill
+  partOfSpeech: v
+01102556-v:
+  definition:
+  - a bheith i do bhuaiteoir i gcomórtas; a bheith buacach
+  example:
+  - Bhuaigh sé an Bonn Óir as an scátáil
+  hypernym:
+  - 02372362-v
+  ili: i27092
+  members:
+  - buaigh
+  partOfSpeech: v
+01110559-v:
+  definition:
+  - buaigh thar
+  example:
+  - Ní mór duit na deacrachtaí ar fad a shárú
+  hypernym:
+  - 01102556-v
+  ili: i27138
+  members:
+  - an ceann is fearr a fháil ar
+  - cloígh
+  - an bua a fháil ar
+  partOfSpeech: v
+01111038-v:
+  definition:
+  - confidence: 0.0
+    text: get on top of; deal with successfully
+  hypernym:
+  - 01110559-v
+  ili: i27139
+  members:
+  - sáraigh
+  partOfSpeech: v
+01118003-v:
+  definition:
+  - confidence: 0.0
+    text: give up or agree to forgo to the power or possession of another
+  hypernym:
+  - 02686624-v
+  ili: i27176
+  members:
+  - géill
+  partOfSpeech: v
+01121587-v:
+  definition:
+  - confidence: 0.0
+    text: launch an attack or assault on; begin hostilities or start warfare with
+  hypernym:
+  - 01092746-v
+  ili: i27194
+  members:
+  - ionsaigh
+  partOfSpeech: v
+01122487-v:
+  definition:
+  - confidence: 0.0
+    text: attack someone physically or emotionally
+  hypernym:
+  - 02372362-v
+  ili: i27197
+  members:
+  - ionsaigh
+  partOfSpeech: v
+01130619-v:
+  definition:
+  - sciath ó chontúirt, gortú, scrios nó damáiste
+  example:
+  - Cosnaíonn Weatherbeater do dhíon ón bháisteach
+  hypernym:
+  - 02455370-v
+  ili: i27244
+  members:
+  - cosain
+  partOfSpeech: v
+01137207-v:
+  definition:
+  - confidence: 0.0
+    text: fire a shot; release
+  hypernym:
+  - 00772482-v
+  ili: i27278
+  members:
+  - lámhach
+  partOfSpeech: v
+01138209-v:
+  definition:
+  - tús ag scaoileadh airm
+  hypernym:
+  - 01137207-v
+  ili: i27284
+  members:
+  - scaoil
+  - tosaigh ag scaoileadh
+  partOfSpeech: v
+01140528-v:
+  definition:
+  - confidence: 0.0
+    text: make safe
+  hypernym:
+  - 01130619-v
+  ili: i27299
+  members:
+  - coimircigh
+  - cosain
+  partOfSpeech: v
+01143220-v:
+  definition:
+  - confidence: 0.0
+    text: catch or try to catch fish or shellfish
+  hypernym:
+  - 01441809-v
+  ili: i27317
+  members:
+  - iasc
+  partOfSpeech: v

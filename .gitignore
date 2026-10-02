@@ -1,0 +1,5 @@
+build/
+wordnet.db
+lsg-lmf.zip
+__pycache__/
+lsg-lmf.xml

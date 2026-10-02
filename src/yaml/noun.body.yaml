@@ -1,0 +1,1204 @@
+05223633-n:
+  definition:
+  - confidence: 0.0
+    text: the entire physical structure of an organism (an animal, plant, or human
+      being)
+  hypernym:
+  - 00002684-n
+  ili: i64381
+  members:
+  - cabhail
+  - colainn
+  - corp
+  partOfSpeech: n
+05225393-n:
+  definition:
+  - confidence: 0.0
+    text: the dead body of a human being
+  hypernym:
+  - 00002684-n
+  ili: i64386
+  members:
+  - corpán
+  partOfSpeech: n
+05244557-n:
+  definition:
+  - confidence: 0.0
+    text: a group of physiologically or anatomically related organs or parts
+  hypernym:
+  - 09408804-n
+  ili: i64479
+  members:
+  - córas
+  partOfSpeech: n
+05245612-n:
+  definition:
+  - confidence: 0.0
+    text: a natural protective body covering and site of the sense of touch
+  hypernym:
+  - 05274844-n
+  - 00002684-n
+  ili: i64482
+  members:
+  - craiceann
+  partOfSpeech: n
+05258141-n:
+  definition:
+  - confidence: 0.0
+    text: a bodily passage or tube lined with epithelial cells and conveying a secretion
+      or other substance
+  hypernym:
+  - 09408804-n
+  ili: i64547
+  members:
+  - canáil
+  partOfSpeech: n
+05262259-n:
+  definition:
+  - confidence: 0.0
+    text: a covering for the body (or parts of it) consisting of a dense growth of
+      threadlike structures (as on the human head); helps to prevent heat loss
+  hypernym:
+  - 00002684-n
+  ili: i64568
+  members:
+  - gruaig
+  partOfSpeech: n
+05264345-n:
+  definition:
+  - confidence: 0.0
+    text: the arrangement of the hair (especially a woman's hair)
+  hypernym:
+  - 05262259-n
+  ili: i64578
+  members:
+  - stíl ghruaige
+  partOfSpeech: n
+05269065-n:
+  definition:
+  - confidence: 0.0
+    text: the hair growing on the lower part of a man's face
+  hypernym:
+  - 05262259-n
+  ili: i64611
+  members:
+  - féasóg
+  partOfSpeech: n
+05269684-n:
+  definition:
+  - confidence: 0.0
+    text: an unshaved growth of hair on the upper lip
+  hypernym:
+  - 05262259-n
+  ili: i64615
+  members:
+  - croiméal
+  partOfSpeech: n
+05271086-n:
+  definition:
+  - confidence: 0.0
+    text: hair growing in the pubic area
+  hypernym:
+  - 05262259-n
+  ili: i64624
+  members:
+  - stothóg
+  partOfSpeech: n
+05274844-n:
+  definition:
+  - confidence: 0.0
+    text: part of an organism consisting of an aggregate of cells having a similar
+      structure and function
+  hypernym:
+  - 09408804-n
+  ili: i64646
+  members:
+  - fíochán
+  partOfSpeech: n
+05275611-n:
+  definition:
+  - confidence: 0.0
+    text: 'the soft tissue of the body of a vertebrate: mainly muscle tissue and fat'
+  hypernym:
+  - 05274844-n
+  ili: i64648
+  members:
+  - feoil
+  partOfSpeech: n
+05276464-n:
+  definition:
+  - confidence: 0.0
+    text: a kind of body tissue containing stored fat that serves as a source of energy;
+      it also cushions and insulates vital organs
+  hypernym:
+  - 05274844-n
+  ili: i64654
+  members:
+  - saill
+  partOfSpeech: n
+05277400-n:
+  definition:
+  - confidence: 0.0
+    text: rigid connective tissue that makes up the skeleton of vertebrates
+  hypernym:
+  - 05274844-n
+  ili: i64659
+  members:
+  - cnámh
+  partOfSpeech: n
+05281604-n:
+  definition:
+  - confidence: 0.0
+    text: bone linking the scapula and sternum
+  hypernym:
+  - 05277400-n
+  ili: i64676
+  members:
+  - dealrachán
+  partOfSpeech: n
+05285894-n:
+  definition:
+  - confidence: 0.0
+    text: a small flat triangular bone in front of the knee that protects the knee
+      joint
+  hypernym:
+  - 05277400-n
+  ili: i64699
+  members:
+  - pláitín
+  partOfSpeech: n
+05287187-n:
+  definition:
+  - confidence: 0.0
+    text: either of two flat triangular bones one on each side of the shoulder in
+      human beings
+  hypernym:
+  - 05277400-n
+  ili: i64706
+  members:
+  - slinneán
+  partOfSpeech: n
+05288330-n:
+  definition:
+  - confidence: 0.0
+    text: a bony hollow into which a structure fits
+  hypernym:
+  - 09408804-n
+  ili: i64712
+  members:
+  - log
+  partOfSpeech: n
+05290245-n:
+  definition:
+  - confidence: 0.0
+    text: hard bonelike structures in the jaws of vertebrates; used for biting and
+      chewing or for attack and defense
+  hypernym:
+  - 05277400-n
+  ili: i64724
+  members:
+  - fiacail
+  partOfSpeech: n
+05291832-n:
+  definition:
+  - confidence: 0.0
+    text: one of the bony segments of the spinal column
+  hypernym:
+  - 05277400-n
+  ili: i64731
+  members:
+  - veirteabra
+  partOfSpeech: n
+05294589-n:
+  definition:
+  - confidence: 0.0
+    text: a fibrous scleroprotein in bone and cartilage and tendon and other connective
+      tissue; yields gelatin on boiling
+  hypernym:
+  - 14752903-n
+  ili: i64744
+  members:
+  - collaigin
+  partOfSpeech: n
+05296796-n:
+  definition:
+  - confidence: 0.0
+    text: one of the contractile organs of the body
+  hypernym:
+  - 05305022-n
+  ili: i64755
+  members:
+  - matán
+  partOfSpeech: n
+05302880-n:
+  definition:
+  - confidence: 0.0
+    text: a sheet or band of tough fibrous tissue connecting bones or cartilages or
+      supporting muscles or organs
+  hypernym:
+  - 05274844-n
+  ili: i64788
+  members:
+  - ballnasc
+  partOfSpeech: n
+05303752-n:
+  definition:
+  - confidence: 0.0
+    text: a cord or band of inelastic tissue connecting a muscle with its bony attachment
+  hypernym:
+  - 05274844-n
+  ili: i64793
+  members:
+  - teannán
+  partOfSpeech: n
+05305022-n:
+  definition:
+  - confidence: 0.0
+    text: a fully differentiated structural and functional unit in an animal that
+      is specialized for some particular function
+  hypernym:
+  - 09408804-n
+  ili: i64800
+  members:
+  - orgán
+  partOfSpeech: n
+05308571-n:
+  definition:
+  - confidence: 0.0
+    text: a mobile mass of muscular tissue covered with mucous membrane and located
+      in the oral cavity
+  hypernym:
+  - 05305022-n
+  ili: i64817
+  members:
+  - teanga
+  partOfSpeech: n
+05309025-n:
+  definition:
+  - confidence: 0.0
+    text: the vocal apparatus of the larynx; the true vocal folds and the space between
+      them where the voice tone is generated
+  hypernym:
+  - 05305022-n
+  ili: i64819
+  members:
+  - glotas
+  partOfSpeech: n
+05309251-n:
+  definition:
+  - confidence: 0.0
+    text: a flap of cartilage that covers the windpipe while swallowing
+  hypernym:
+  - 09408804-n
+  ili: i64820
+  members:
+  - eipeaglotas
+  partOfSpeech: n
+05309998-n:
+  definition:
+  - confidence: 0.0
+    text: the opening through which food is taken in and vocalizations emerge
+  hypernym:
+  - 09408804-n
+  ili: i64824
+  members:
+  - béal
+  partOfSpeech: n
+05312431-n:
+  definition:
+  - confidence: 0.0
+    text: the tissue (covered by mucous membrane) of the jaws that surrounds the bases
+      of the teeth
+  hypernym:
+  - 05274844-n
+  ili: i64833
+  members:
+  - drandal
+  partOfSpeech: n
+05318579-n:
+  definition:
+  - confidence: 0.0
+    text: the organ of sight
+  hypernym:
+  - 05305022-n
+  ili: i64868
+  members:
+  - súil
+  partOfSpeech: n
+05321347-n:
+  definition:
+  - confidence: 0.0
+    text: either of two folds of skin that can be moved to cover or open the eye
+  hypernym:
+  - 05274844-n
+  ili: i64881
+  members:
+  - caipín súile
+  partOfSpeech: n
+05324904-n:
+  definition:
+  - confidence: 0.0
+    text: the transparent dome-shaped anterior portion of the outer covering of the
+      eye; it covers the iris and pupil and is continuous with the sclera
+  hypernym:
+  - 05433820-n
+  ili: i64901
+  members:
+  - coirne
+  partOfSpeech: n
+05326156-n:
+  definition:
+  - confidence: 0.0
+    text: (anatomy) a muscular partition separating the abdominal and thoracic cavities;
+      functions in respiration
+  hypernym:
+  - 05433820-n
+  - 05244557-n
+  ili: i64908
+  members:
+  - scairt
+  partOfSpeech: n
+05328447-n:
+  definition:
+  - confidence: 0.0
+    text: the sense organ for hearing and equilibrium
+  hypernym:
+  - 05305022-n
+  ili: i64921
+  members:
+  - cluas
+  partOfSpeech: n
+05338719-n:
+  definition:
+  - confidence: 0.0
+    text: either of a pair of complex endocrine glands situated near the kidney
+  hypernym:
+  - 05305022-n
+  ili: i64973
+  members:
+  - faireog aidréineach
+  partOfSpeech: n
+05338952-n:
+  definition:
+  - confidence: 0.0
+    text: a firm partly muscular chestnut sized gland in males at the neck of the
+      urethra; produces a viscid secretion that is the fluid part of semen
+  hypernym:
+  - 05305022-n
+  ili: i64974
+  members:
+  - próstatach
+  partOfSpeech: n
+05340350-n:
+  definition:
+  - confidence: 0.0
+    text: either of two bean-shaped excretory organs that filter wastes (especially
+      urea) from the blood and excrete them and water in urine
+  hypernym:
+  - 05305022-n
+  ili: i64981
+  members:
+  - duán
+  partOfSpeech: n
+05341325-n:
+  definition:
+  - confidence: 0.0
+    text: a blood vessel that carries blood from the heart to the body
+  hypernym:
+  - 05404676-n
+  ili: i64984
+  members:
+  - artaire
+  partOfSpeech: n
+05392504-n:
+  definition:
+  - confidence: 0.0
+    text: a muscular sac attached to the liver that stores bile (secreted by the liver)
+      until it is needed for digestion
+  hypernym:
+  - 05519790-n
+  ili: i65275
+  members:
+  - máilín domlais
+  partOfSpeech: n
+05392877-n:
+  definition:
+  - confidence: 0.0
+    text: large and complicated reddish-brown glandular organ located in the upper
+      right portion of the abdominal cavity; secretes bile and functions in metabolism
+      of protein and carbohydrate and fat; synthesizes substances involved in the
+      clotting of the blood; synthesizes vitamin A; detoxifies poisonous substances
+      and breaks down worn-out erythrocytes
+  hypernym:
+  - 05305022-n
+  ili: i65277
+  members:
+  - ae
+  partOfSpeech: n
+05394510-n:
+  definition:
+  - confidence: 0.0
+    text: a large elongated exocrine gland located behind the stomach; secretes pancreatic
+      juice and insulin
+  hypernym:
+  - 05305022-n
+  ili: i65284
+  members:
+  - paincréas
+  partOfSpeech: n
+05394887-n:
+  definition:
+  - confidence: 0.0
+    text: either of two saclike respiratory organs in the chest of vertebrates; serves
+      to remove carbon dioxide and provide oxygen to the blood
+  hypernym:
+  - 05305022-n
+  ili: i65286
+  members:
+  - scamhóg
+  partOfSpeech: n
+05396148-n:
+  definition:
+  - confidence: 0.0
+    text: the hollow muscular organ located behind the sternum and between the lungs;
+      its rhythmic contractions move the blood through the body
+  hypernym:
+  - 05305022-n
+  ili: i65294
+  members:
+  - croí
+  partOfSpeech: n
+05403033-n:
+  definition:
+  - confidence: 0.0
+    text: an enlarged and muscular saclike organ of the alimentary canal; the principal
+      organ of digestion
+  hypernym:
+  - 05305022-n
+  ili: i65328
+  members:
+  - bolg
+  partOfSpeech: n
+05404676-n:
+  definition:
+  - confidence: 0.0
+    text: a tube in which a body fluid circulates
+  hypernym:
+  - 09408804-n
+  ili: i65336
+  members:
+  - soitheach
+  partOfSpeech: n
+05407190-n:
+  definition:
+  - confidence: 0.0
+    text: the fluid (red in vertebrates) that is pumped through the body by the heart
+      and contains plasma, blood cells, and platelets
+  hypernym:
+  - 00019793-n
+  ili: i65349
+  members:
+  - fuil
+  partOfSpeech: n
+05410492-n:
+  definition:
+  - confidence: 0.0
+    text: an amber, watery fluid, rich in proteins, that separates out when blood
+      coagulates
+  hypernym:
+  - 00019793-n
+  ili: i65367
+  members:
+  - séiream
+  partOfSpeech: n
+05410770-n:
+  definition:
+  - confidence: 0.0
+    text: the colorless watery fluid of the blood and lymph that contains no cells,
+      but in which the blood cells (erythrocytes, leukocytes, and thrombocytes) are
+      suspended
+  hypernym:
+  - 00019793-n
+  ili: i65368
+  members:
+  - plasma
+  partOfSpeech: n
+05411679-n:
+  definition:
+  - confidence: 0.0
+    text: the thick white fluid containing spermatozoa that is ejaculated by the male
+      genital tract
+  hypernym:
+  - 00019793-n
+  ili: i65372
+  members:
+  - seamhan
+  partOfSpeech: n
+05412667-n:
+  definition:
+  - confidence: 0.0
+    text: a drop of the clear salty saline solution secreted by the lacrimal glands
+  hypernym:
+  - 00033914-n
+  ili: i65376
+  members:
+  - deoir
+  partOfSpeech: n
+05426061-n:
+  definition:
+  - confidence: 0.0
+    text: a blood vessel that carries blood from the capillaries toward the heart
+  hypernym:
+  - 05404676-n
+  ili: i65437
+  members:
+  - féith
+  partOfSpeech: n
+05433820-n:
+  definition:
+  - confidence: 0.0
+    text: a pliable sheet of tissue that covers or lines or connects the organs or
+      cells of animals or plants
+  hypernym:
+  - 05274844-n
+  ili: i65468
+  members:
+  - seicin
+  partOfSpeech: n
+05444328-n:
+  definition:
+  - confidence: 0.0
+    text: (genetics) a segment of DNA that is involved in producing a polypeptide
+      chain; it can include regions preceding and following the coding DNA as well
+      as introns between the exons; it is considered a unit of heredity
+  hypernym:
+  - 08476263-n
+  ili: i65519
+  members:
+  - géin
+  partOfSpeech: n
+05458960-n:
+  definition:
+  - confidence: 0.0
+    text: an agranulocytic leukocyte that normally makes up a quarter of the white
+      blood cell count but increases in the presence of infection
+  hypernym:
+  - 00006484-n
+  ili: i65601
+  members:
+  - limficít
+  partOfSpeech: n
+05463658-n:
+  definition:
+  - confidence: 0.0
+    text: the point where the optic nerve enters the retina; not sensitive to light
+  hypernym:
+  - 08637636-n
+  ili: i65628
+  members:
+  - caochspota
+  partOfSpeech: n
+05465549-n:
+  definition:
+  - confidence: 0.0
+    text: the female reproductive cell; the female gamete
+  hypernym:
+  - 00006484-n
+  ili: i65638
+  members:
+  - ubhán
+  partOfSpeech: n
+05473219-n:
+  definition:
+  - confidence: 0.0
+    text: a cell that is specialized to conduct nerve impulses
+  hypernym:
+  - 00006484-n
+  ili: i65675
+  members:
+  - néarón
+  partOfSpeech: n
+05481998-n:
+  definition:
+  - confidence: 0.0
+    text: any bundle of nerve fibers running to various organs and tissues of the
+      body
+  hypernym:
+  - 05274844-n
+  ili: i65719
+  members:
+  - néaróg
+  partOfSpeech: n
+05488747-n:
+  definition:
+  - confidence: 0.0
+    text: that part of the central nervous system that includes all the higher nervous
+      centers; enclosed within the skull; continuous with the spinal cord
+  hypernym:
+  - 09408804-n
+  ili: i65750
+  members:
+  - inchinn
+  partOfSpeech: n
+05499645-n:
+  definition:
+  - confidence: 0.0
+    text: anterior portion of the brain consisting of two hemispheres; dominant part
+      of the brain in humans
+  hypernym:
+  - 09408804-n
+  ili: i65803
+  members:
+  - ceirbream
+  partOfSpeech: n
+05511356-n:
+  definition:
+  - confidence: 0.0
+    text: a major part of the central nervous system which conducts sensory and motor
+      nerve impulses to and from the brain; a long tubelike structure extending from
+      the base of the brain through the vertebral canal to the upper lumbar region
+  hypernym:
+  - 09408804-n
+  ili: i65856
+  members:
+  - corda an dromlaigh
+  partOfSpeech: n
+05518558-n:
+  definition:
+  - confidence: 0.0
+    text: a system of body parts that together serve some particular purpose
+  hypernym:
+  - 05244557-n
+  ili: i65890
+  members:
+  - conair
+  partOfSpeech: n
+05519790-n:
+  definition:
+  - confidence: 0.0
+    text: a distensible membranous sac (usually containing liquid or gas)
+  hypernym:
+  - 09408804-n
+  ili: i65895
+  members:
+  - lamhnán
+  partOfSpeech: n
+05520671-n:
+  definition:
+  - confidence: 0.0
+    text: duct through which urine is discharged in most mammals and which serves
+      as the male genital duct
+  hypernym:
+  - 05258141-n
+  ili: i65900
+  members:
+  - úiréadra
+  partOfSpeech: n
+05522938-n:
+  definition:
+  - confidence: 0.0
+    text: (vertebrates) one of usually two organs that produce ova and secrete estrogen
+      and progesterone
+  hypernym:
+  - 05532081-n
+  ili: i65910
+  members:
+  - ubhagán
+  partOfSpeech: n
+05525057-n:
+  definition:
+  - confidence: 0.0
+    text: the external pouch that contains the testes
+  hypernym:
+  - 09408804-n
+  ili: i65921
+  members:
+  - cadairne
+  partOfSpeech: n
+05528762-n:
+  definition:
+  - confidence: 0.0
+    text: the lower part of the female reproductive tract; a moist canal in female
+      mammals extending from the labia minora to the uterus
+  hypernym:
+  - 05258141-n
+  ili: i65939
+  members:
+  - faighin
+  partOfSpeech: n
+05532081-n:
+  definition:
+  - confidence: 0.0
+    text: a gland in which gametes (sex cells) are produced
+  hypernym:
+  - 05305022-n
+  ili: i65956
+  members:
+  - gónad
+  partOfSpeech: n
+05534035-n:
+  definition:
+  - confidence: 0.0
+    text: the male sex organ
+  hypernym:
+  - 05305022-n
+  ili: i65965
+  members:
+  - bod
+  - péineas
+  partOfSpeech: n
+05534590-n:
+  definition:
+  - confidence: 0.0
+    text: a fold of skin covering the tip of the penis
+  hypernym:
+  - 05245612-n
+  ili: i65968
+  members:
+  - forchraiceann
+  partOfSpeech: n
+05541966-n:
+  definition:
+  - confidence: 0.0
+    text: the part of the alimentary canal between the stomach and the anus
+  hypernym:
+  - 05305022-n
+  ili: i66003
+  members:
+  - inne
+  - putóg
+  - stéig
+  partOfSpeech: n
+05542588-n:
+  definition:
+  - confidence: 0.0
+    text: the part of the small intestine between the stomach and the jejunum
+  hypernym:
+  - 05541966-n
+  ili: i66006
+  members:
+  - dúidéineam
+  partOfSpeech: n
+05545209-n:
+  definition:
+  - confidence: 0.0
+    text: a vestigial process that extends from the lower end of the cecum and that
+      resembles a small pouch
+  hypernym:
+  - 09408804-n
+  ili: i66019
+  members:
+  - aipindic
+  partOfSpeech: n
+05546258-n:
+  definition:
+  - confidence: 0.0
+    text: the upper part of the human body or the front part of the body in animals;
+      contains the face and brains
+  hypernym:
+  - 09408804-n
+  ili: i66025
+  members:
+  - ceann
+  - cloigeann
+  partOfSpeech: n
+05547580-n:
+  definition:
+  - confidence: 0.0
+    text: the skin that covers the top of the head
+  hypernym:
+  - 05245612-n
+  ili: i66033
+  members:
+  - craiceann an chinn
+  partOfSpeech: n
+05547754-n:
+  definition:
+  - confidence: 0.0
+    text: the bony skeleton of the head of vertebrates
+  hypernym:
+  - 05277400-n
+  ili: i66034
+  members:
+  - blaosc
+  partOfSpeech: n
+05553673-n:
+  definition:
+  - confidence: 0.0
+    text: the part of the skull of a vertebrate that frames the mouth and holds the
+      teeth
+  hypernym:
+  - 05277400-n
+  ili: i66064
+  members:
+  - giall
+  partOfSpeech: n
+05554173-n:
+  definition:
+  - confidence: 0.0
+    text: the part of an organism (human or animal) that connects the head to the
+      rest of the body
+  hypernym:
+  - 09408804-n
+  ili: i66067
+  members:
+  - muineál
+  partOfSpeech: n
+05555141-n:
+  definition:
+  - confidence: 0.0
+    text: the passage to the stomach and lungs; in the front part of the neck below
+      the chin and above the collarbone
+  hypernym:
+  - 09408804-n
+  ili: i66072
+  members:
+  - scornach
+  partOfSpeech: n
+05556473-n:
+  definition:
+  - confidence: 0.0
+    text: the part of the body between the neck and the upper arm
+  hypernym:
+  - 09408804-n
+  ili: i66079
+  members:
+  - gualainn
+  partOfSpeech: n
+05557209-n:
+  definition:
+  - confidence: 0.0
+    text: the hollow under the arm where it is joined to the shoulder
+  hypernym:
+  - 09408804-n
+  ili: i66082
+  members:
+  - ascaill
+  partOfSpeech: n
+05558951-n:
+  definition:
+  - confidence: 0.0
+    text: either the left or right half of a body
+  hypernym:
+  - 09408804-n
+  ili: i66089
+  members:
+  - taobh
+  partOfSpeech: n
+05562038-n:
+  definition:
+  - confidence: 0.0
+    text: either of two soft fleshy milk-secreting glandular organs on the chest of
+      a woman
+  hypernym:
+  - 05305022-n
+  ili: i66106
+  members:
+  - cíoch
+  partOfSpeech: n
+05563958-n:
+  definition:
+  - confidence: 0.0
+    text: either side of the body below the waist and above the thigh
+  hypernym:
+  - 09408804-n
+  ili: i66118
+  members:
+  - cromán
+  partOfSpeech: n
+05564228-n:
+  definition:
+  - confidence: 0.0
+    text: a scar where the umbilical cord was attached
+  hypernym:
+  - 08637636-n
+  ili: i66120
+  members:
+  - imleacán
+  partOfSpeech: n
+05564576-n:
+  definition:
+  - confidence: 0.0
+    text: the region of the body of a vertebrate between the thorax and the pelvis
+  hypernym:
+  - 09408804-n
+  ili: i66121
+  members:
+  - abdóman
+  - bolg
+  partOfSpeech: n
+05566350-n:
+  definition:
+  - confidence: 0.0
+    text: the posterior part of a human (or animal) body from the neck to the end
+      of the spine
+  hypernym:
+  - 09408804-n
+  ili: i66129
+  members:
+  - cúl
+  - droim
+  partOfSpeech: n
+05567877-n:
+  definition:
+  - confidence: 0.0
+    text: 'one of the jointed appendages of an animal used for locomotion or grasping:
+      arm, leg, wing, flipper'
+  hypernym:
+  - 09408804-n
+  ili: i66135
+  members:
+  - géag
+  partOfSpeech: n
+05568420-n:
+  definition:
+  - confidence: 0.0
+    text: a human limb; commonly used to refer to a whole limb but technically only
+      the part of the limb between the knee and ankle
+  hypernym:
+  - 05567877-n
+  ili: i66137
+  members:
+  - cos
+  partOfSpeech: n
+05569882-n:
+  definition:
+  - confidence: 0.0
+    text: the part of the leg between the hip and the knee
+  hypernym:
+  - 05567877-n
+  ili: i66144
+  members:
+  - leis
+  partOfSpeech: n
+05570899-n:
+  definition:
+  - confidence: 0.0
+    text: the part of the leg of a human being below the ankle joint
+  hypernym:
+  - 09408804-n
+  ili: i66149
+  members:
+  - cos
+  partOfSpeech: n
+05571403-n:
+  definition:
+  - confidence: 0.0
+    text: a human limb; technically the part of the superior limb between the shoulder
+      and the elbow but commonly used to refer to the whole superior limb
+  hypernym:
+  - 05567877-n
+  ili: i66150
+  members:
+  - géag
+  - lámh
+  partOfSpeech: n
+05572223-n:
+  definition:
+  - confidence: 0.0
+    text: the (prehensile) extremity of the superior limb
+  hypernym:
+  - 09408804-n
+  ili: i66153
+  members:
+  - lámh
+  partOfSpeech: n
+05572970-n:
+  definition:
+  - confidence: 0.0
+    text: the hand that is on the right side of the body
+  hypernym:
+  - 05572223-n
+  ili: i66156
+  members:
+  - deis
+  partOfSpeech: n
+05574137-n:
+  definition:
+  - confidence: 0.0
+    text: any of the terminal members of the hand (sometimes excepting the thumb)
+  hypernym:
+  - 09408804-n
+  ili: i66162
+  members:
+  - méar
+  partOfSpeech: n
+05575014-n:
+  definition:
+  - confidence: 0.0
+    text: the finger next to the thumb
+  hypernym:
+  - 05574137-n
+  ili: i66166
+  members:
+  - corrmhéar
+  partOfSpeech: n
+05575360-n:
+  definition:
+  - confidence: 0.0
+    text: the finger farthest from the thumb
+  hypernym:
+  - 05574137-n
+  ili: i66169
+  members:
+  - lúidín
+  partOfSpeech: n
+05585041-n:
+  definition:
+  - confidence: 0.0
+    text: one of the digits of the foot
+  hypernym:
+  - 09408804-n
+  ili: i66223
+  members:
+  - ladhar
+  - méar coise
+  partOfSpeech: n
+05585726-n:
+  definition:
+  - confidence: 0.0
+    text: the back part of the human foot
+  hypernym:
+  - 09408804-n
+  ili: i66228
+  members:
+  - sáil
+  partOfSpeech: n
+05586073-n:
+  definition:
+  - confidence: 0.0
+    text: a gliding joint between the distal ends of the tibia and fibula and the
+      proximal end of the talus
+  hypernym:
+  - 05602838-n
+  ili: i66230
+  members:
+  - rúitín
+  partOfSpeech: n
+05589955-n:
+  definition:
+  - confidence: 0.0
+    text: the body substance in which tissue cells are embedded
+  hypernym:
+  - 00019793-n
+  ili: i66250
+  members:
+  - maitrís
+  partOfSpeech: n
+05593033-n:
+  definition:
+  - confidence: 0.0
+    text: the hard structure (bones and cartilages) that provides a frame for the
+      body of an animal
+  hypernym:
+  - 05244557-n
+  ili: i66267
+  members:
+  - creatlach
+  partOfSpeech: n
+05596396-n:
+  definition:
+  - confidence: 0.0
+    text: the 1st cervical vertebra
+  hypernym:
+  - 05291832-n
+  ili: i66282
+  members:
+  - atlas
+  partOfSpeech: n
+05601231-n:
+  definition:
+  - confidence: 0.0
+    text: the inner and longer of the two bones of the human forearm
+  hypernym:
+  - 05277400-n
+  ili: i66308
+  members:
+  - ulna
+  partOfSpeech: n
+05601956-n:
+  definition:
+  - confidence: 0.0
+    text: the outer and thinner of the two bones of the human leg between the knee
+      and ankle
+  hypernym:
+  - 05277400-n
+  ili: i66312
+  members:
+  - fiobúl
+  partOfSpeech: n
+05602122-n:
+  definition:
+  - confidence: 0.0
+    text: the inner and thicker of the two bones of the human leg between the knee
+      and ankle
+  hypernym:
+  - 05277400-n
+  ili: i66313
+  members:
+  - tibia
+  partOfSpeech: n
+05602838-n:
+  definition:
+  - confidence: 0.0
+    text: (anatomy) the point of connection between two bones or elements of a skeleton
+      (especially if it allows motion)
+  hypernym:
+  - 09408804-n
+  ili: i66316
+  members:
+  - alt
+  partOfSpeech: n
+05604406-n:
+  definition:
+  - confidence: 0.0
+    text: the structure of the vertebrate skeleton supporting the lower limbs in humans
+      and the hind limbs or corresponding parts in other vertebrates
+  hypernym:
+  - 09408804-n
+  ili: i66322
+  members:
+  - peilbheas
+  partOfSpeech: n
+05605902-n:
+  definition:
+  - confidence: 0.0
+    text: the organ of smell and entrance to the respiratory tract; the prominent
+      part of the face of man or other mammals
+  hypernym:
+  - 05305022-n
+  ili: i66329
+  members:
+  - srón
+  partOfSpeech: n
+05607864-n:
+  definition:
+  - confidence: 0.0
+    text: either one of the two external openings to the nasal cavity in the nose
+  hypernym:
+  - 09408804-n
+  ili: i66341
+  members:
+  - polláire
+  partOfSpeech: n
+05608392-n:
+  definition:
+  - confidence: 0.0
+    text: the front of the human head from the forehead to the chin and ear to ear
+  hypernym:
+  - 09408804-n
+  ili: i66344
+  members:
+  - aghaidh
+  - éadan
+  partOfSpeech: n
+05610303-n:
+  definition:
+  - confidence: 0.0
+    text: the part of the face above the eyes
+  hypernym:
+  - 09408804-n
+  ili: i66351
+  members:
+  - éadan
+  partOfSpeech: n

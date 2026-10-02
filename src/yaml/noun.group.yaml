@@ -1,0 +1,2335 @@
+07955622-n:
+  definition:
+  - confidence: 0.0
+    text: an orderly arrangement
+  hypernym:
+  - 00031563-n
+  ili: i79045
+  members:
+  - eagar
+  partOfSpeech: n
+07956482-n:
+  definition:
+  - confidence: 0.0
+    text: a group of genetically identical cells or organisms derived from a single
+      cell or individual by some kind of asexual reproduction
+  hypernym:
+  - 00004475-n
+  ili: i79049
+  members:
+  - clón
+  partOfSpeech: n
+07958392-n:
+  definition:
+  - confidence: 0.0
+    text: (plural) any group of human beings (men or women or children) collectively
+  hypernym:
+  - 00031563-n
+  ili: i79059
+  members:
+  - lucht
+  - muintir
+  partOfSpeech: n
+07959756-n:
+  definition:
+  - confidence: 0.0
+    text: a group of people having approximately the same age
+  hypernym:
+  - 07958392-n
+  ili: i79061
+  members:
+  - aoisghrúpa
+  - cohórt
+  partOfSpeech: n
+07960326-n:
+  definition:
+  - confidence: 0.0
+    text: young people collectively
+  hypernym:
+  - 07959756-n
+  ili: i79064
+  members:
+  - óige
+  partOfSpeech: n
+07966049-n:
+  definition:
+  - confidence: 0.0
+    text: people having common origins or traditions and often comprising a nation
+  hypernym:
+  - 07958392-n
+  ili: i79095
+  members:
+  - náisiúntacht
+  partOfSpeech: n
+07968050-n:
+  definition:
+  - confidence: 0.0
+    text: several things grouped together or considered as a whole
+  hypernym:
+  - 00031563-n
+  ili: i79104
+  members:
+  - bailiúchán
+  partOfSpeech: n
+07971643-n:
+  definition:
+  - confidence: 0.0
+    text: (usually plural) everything that is included in a collection and that is
+      held or included in something
+  hypernym:
+  - 07968050-n
+  ili: i79116
+  members:
+  - cion
+  - inneachar
+  - ábhar
+  partOfSpeech: n
+07975115-n:
+  definition:
+  - confidence: 0.0
+    text: a collection of dried plants that are mounted and systematically classified
+      for study
+  hypernym:
+  - 07968050-n
+  ili: i79140
+  members:
+  - luslann
+  partOfSpeech: n
+07976557-n:
+  definition:
+  - confidence: 0.0
+    text: a grouping of a number of similar things
+  hypernym:
+  - 07968050-n
+  ili: i79149
+  members:
+  - braisle
+  - triopall
+  partOfSpeech: n
+07978094-n:
+  definition:
+  - confidence: 0.0
+    text: a collection of objects laid on top of each other
+  hypernym:
+  - 07968050-n
+  ili: i79158
+  members:
+  - carn
+  partOfSpeech: n
+07979701-n:
+  definition:
+  - confidence: 0.0
+    text: an orderly pile
+  hypernym:
+  - 07978094-n
+  ili: i79167
+  members:
+  - cruach
+  partOfSpeech: n
+07980325-n:
+  definition:
+  - confidence: 0.0
+    text: a collection of things that have been combined; an assemblage of separate
+      parts or qualities
+  hypernym:
+  - 07968050-n
+  ili: i79172
+  members:
+  - comhcheangal
+  - teaglaim
+  partOfSpeech: n
+07981699-n:
+  definition:
+  - confidence: 0.0
+    text: a group of persons associated by some common tie or occupation and regarded
+      as an entity
+  hypernym:
+  - 00031563-n
+  ili: i79178
+  members:
+  - comhlacht
+  partOfSpeech: n
+07982551-n:
+  definition:
+  - confidence: 0.0
+    text: people in general; especially a distinctive group of people with some shared
+      interest
+  hypernym:
+  - 07990472-n
+  ili: i79180
+  members:
+  - saol
+  partOfSpeech: n
+07982754-n:
+  definition:
+  - confidence: 0.0
+    text: an extended social group having a distinctive cultural and economic organization
+  hypernym:
+  - 00031563-n
+  ili: i79181
+  members:
+  - sochaí
+  partOfSpeech: n
+07983184-n:
+  definition:
+  - confidence: 0.0
+    text: a group of people who differ racially or politically from a larger group
+      of which it is a part
+  hypernym:
+  - 00031563-n
+  ili: i79183
+  members:
+  - mionlach
+  partOfSpeech: n
+07983333-n:
+  definition:
+  - confidence: 0.0
+    text: a social group that forms part of the society or the economy
+  hypernym:
+  - 00031563-n
+  ili: i79184
+  members:
+  - earnáil
+  partOfSpeech: n
+07984596-n:
+  definition:
+  - confidence: 0.0
+    text: people who are believed to belong to the same genetic stock
+  hypernym:
+  - 00031563-n
+  ili: i79189
+  members:
+  - cine
+  partOfSpeech: n
+07985266-n:
+  definition:
+  - confidence: 0.0
+    text: an interest group that tries to influence legislators or bureaucrats to
+      act in their favor, typically through lobbying
+  hypernym:
+  - 08024893-n
+  ili: i81121
+  members:
+  - brúghrúpa
+  partOfSpeech: n
+07988872-n:
+  definition:
+  - confidence: 0.0
+    text: the social system that developed in Europe in the 8th century; vassals were
+      protected by lords who they had to serve in war
+  hypernym:
+  - 08452398-n
+  ili: i79207
+  members:
+  - feodachas
+  partOfSpeech: n
+07990472-n:
+  definition:
+  - confidence: 0.0
+    text: people having the same social, economic, or educational status
+  hypernym:
+  - 07958392-n
+  ili: i79217
+  members:
+  - aicme
+  partOfSpeech: n
+07991473-n:
+  definition:
+  - confidence: 0.0
+    text: a group of persons together in one place
+  hypernym:
+  - 00031563-n
+  ili: i79220
+  members:
+  - cruinniú
+  partOfSpeech: n
+07994015-n:
+  definition:
+  - confidence: 0.0
+    text: (computing) a collection of standard programs and subroutines that are stored
+      and available for immediate use
+  hypernym:
+  - 07968050-n
+  ili: i79232
+  members:
+  - leabharlann
+  partOfSpeech: n
+07995848-n:
+  definition:
+  - confidence: 0.0
+    text: the mythology of the ancient Greeks
+  hypernym:
+  - 07968050-n
+  ili: i79239
+  members:
+  - miotaseolaíocht na Gréige
+  partOfSpeech: n
+08010218-n:
+  definition:
+  - confidence: 0.0
+    text: all living things (except people) that are undomesticated
+  hypernym:
+  - 00002684-n
+  ili: i79297
+  members:
+  - fiadhúlra
+  partOfSpeech: n
+08010773-n:
+  definition:
+  - confidence: 0.0
+    text: a group of cattle or sheep or other domestic mammals all of the same kind
+      that are herded by humans
+  hypernym:
+  - 00031563-n
+  ili: i79299
+  members:
+  - tréad
+  partOfSpeech: n
+08011895-n:
+  definition:
+  - confidence: 0.0
+    text: a large group of fish
+  hypernym:
+  - 00031563-n
+  ili: i79308
+  members:
+  - scoil
+  partOfSpeech: n
+08012298-n:
+  definition:
+  - confidence: 0.0
+    text: a group of organisms of the same type living or growing together
+  hypernym:
+  - 00031563-n
+  ili: i79310
+  members:
+  - coilíneacht
+  partOfSpeech: n
+08013131-n:
+  definition:
+  - confidence: 0.0
+    text: a group of things of the same kind that belong together and are so used
+  hypernym:
+  - 07968050-n
+  ili: i79315
+  members:
+  - foireann
+  - sraith
+  - tacar
+  partOfSpeech: n
+08014145-n:
+  definition:
+  - confidence: 0.0
+    text: a collection of things sharing a common attribute
+  hypernym:
+  - 07968050-n
+  ili: i79319
+  members:
+  - aicme
+  - catagóir
+  - cineál
+  partOfSpeech: n
+08015154-n:
+  definition:
+  - confidence: 0.0
+    text: a set containing all and only the members of two or more given sets
+  hypernym:
+  - 08013131-n
+  ili: i79324
+  members:
+  - aontas
+  partOfSpeech: n
+08015733-n:
+  definition:
+  - confidence: 0.0
+    text: either of the two categories (male or female) into which most organisms
+      are divided
+  hypernym:
+  - 08014145-n
+  ili: i79327
+  members:
+  - cineál
+  partOfSpeech: n
+08017323-n:
+  definition:
+  - confidence: 0.0
+    text: the set of all points or lines that satisfy or are determined by specific
+      conditions
+  hypernym:
+  - 00001740-n
+  ili: i79334
+  members:
+  - lócas
+  partOfSpeech: n
+08017525-n:
+  definition:
+  - confidence: 0.0
+    text: a distinct and often subordinate group within a group
+  hypernym:
+  - 00031563-n
+  ili: i79335
+  members:
+  - foghrúpa
+  partOfSpeech: n
+08017651-n:
+  definition:
+  - confidence: 0.0
+    text: a set whose members are members of another set; a set contained within another
+      set
+  hypernym:
+  - 00001740-n
+  ili: i79336
+  members:
+  - fo-thacar
+  partOfSpeech: n
+08020377-n:
+  definition:
+  - confidence: 0.0
+    text: a company that is completely controlled by another company
+  hypernym:
+  - 08074934-n
+  ili: i79354
+  members:
+  - fochomhlacht
+  - fochuideachta
+  partOfSpeech: n
+08021702-n:
+  definition:
+  - confidence: 0.0
+    text: (mathematics) a set of elements such that addition and multiplication are
+      commutative and associative and multiplication is distributive over addition
+      and there are two elements 0 and 1
+  hypernym:
+  - 00001740-n
+  ili: i79363
+  members:
+  - réimse
+  partOfSpeech: n
+08022022-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) a set of one or more adjacent characters comprising a
+      unit of information
+  hypernym:
+  - 08013131-n
+  ili: i79364
+  members:
+  - réimse
+  partOfSpeech: n
+08024575-n:
+  definition:
+  - confidence: 0.0
+    text: a collection of things wrapped or boxed together
+  hypernym:
+  - 07968050-n
+  ili: i79381
+  members:
+  - cuach
+  - pacáiste
+  partOfSpeech: n
+08024893-n:
+  definition:
+  - confidence: 0.0
+    text: a group of people who work together
+  hypernym:
+  - 00031563-n
+  ili: i79383
+  members:
+  - eagraíocht
+  partOfSpeech: n
+08026566-n:
+  definition:
+  - confidence: 0.0
+    text: an organization that is not part of the local or state or federal government
+  hypernym:
+  - 08024893-n
+  ili: i79387
+  members:
+  - eagraíocht neamhrialtasach
+  partOfSpeech: n
+08066153-n:
+  definition:
+  - confidence: 0.0
+    text: a formal organization of people or groups of people
+  hypernym:
+  - 08024893-n
+  ili: i79512
+  members:
+  - comhlachas
+  - cumann
+  partOfSpeech: n
+08066741-n:
+  definition:
+  - confidence: 0.0
+    text: an association of nations consisting of the United Kingdom and several former
+      British colonies that are now sovereign states but still pay allegiance to the
+      British Crown
+  hypernym:
+  - 08310903-n
+  ili: i79513
+  members:
+  - an Comhlathas Briotanach
+  partOfSpeech: n
+08067430-n:
+  definition:
+  - confidence: 0.0
+    text: the organization that is the governing authority of a political unit
+  hypernym:
+  - 08024893-n
+  ili: i79516
+  members:
+  - rialtas
+  - réimeas
+  partOfSpeech: n
+08071902-n:
+  definition:
+  - confidence: 0.0
+    text: an institution that issues something (securities or publications or currency
+      etc.)
+  hypernym:
+  - 08024893-n
+  ili: i79539
+  members:
+  - eisitheoir
+  partOfSpeech: n
+08072983-n:
+  definition:
+  - confidence: 0.0
+    text: an organization created for business ventures
+  hypernym:
+  - 08024893-n
+  ili: i79546
+  members:
+  - fiontar
+  partOfSpeech: n
+08074296-n:
+  definition:
+  - confidence: 0.0
+    text: the business of a broker; charges a fee to arrange a contract between two
+      parties
+  hypernym:
+  - 08077878-n
+  ili: i79553
+  members:
+  - bróicéireacht
+  partOfSpeech: n
+08074469-n:
+  definition:
+  - confidence: 0.0
+    text: a person or firm in the business of transporting people or goods or messages
+  hypernym:
+  - 08077878-n
+  ili: i79554
+  members:
+  - carraeir
+  - iompróir
+  partOfSpeech: n
+08074934-n:
+  definition:
+  - confidence: 0.0
+    text: an institution created to conduct business
+  hypernym:
+  - 08024893-n
+  ili: i79556
+  members:
+  - comhlacht
+  - cuideachta
+  partOfSpeech: n
+08076248-n:
+  definition:
+  - confidence: 0.0
+    text: a business firm whose articles of incorporation have been approved in some
+      state
+  hypernym:
+  - 08076706-n
+  ili: i79560
+  members:
+  - corparáid
+  partOfSpeech: n
+08076706-n:
+  definition:
+  - confidence: 0.0
+    text: the members of a business organization that owns or operates one or more
+      establishments
+  hypernym:
+  - 08077878-n
+  ili: i79561
+  members:
+  - comhlacht
+  - gnólacht
+  partOfSpeech: n
+08077282-n:
+  definition:
+  - confidence: 0.0
+    text: a business engaged in manufacturing some product
+  hypernym:
+  - 08077878-n
+  ili: i79563
+  members:
+  - déantóir
+  - monaróir
+  partOfSpeech: n
+08077878-n:
+  definition:
+  - confidence: 0.0
+    text: a commercial or industrial enterprise and the people who constitute it
+  hypernym:
+  - 08072983-n
+  ili: i79566
+  members:
+  - gnó
+  - gnólacht
+  - gnóthas
+  partOfSpeech: n
+08079459-n:
+  definition:
+  - confidence: 0.0
+    text: a firm in the publishing business
+  hypernym:
+  - 08076706-n
+  ili: i79575
+  members:
+  - foilsitheoir
+  partOfSpeech: n
+08081359-n:
+  definition:
+  - confidence: 0.0
+    text: the defendant and their legal advisors collectively
+  hypernym:
+  - 07968050-n
+  ili: i79588
+  members:
+  - cosaint
+  partOfSpeech: n
+08082070-n:
+  definition:
+  - confidence: 0.0
+    text: the people or companies engaged in a particular kind of commercial enterprise
+  hypernym:
+  - 08072983-n
+  ili: i79592
+  members:
+  - tionscal
+  partOfSpeech: n
+08087301-n:
+  definition:
+  - confidence: 0.0
+    text: a financial institution that sells insurance
+  hypernym:
+  - 08024893-n
+  ili: i79626
+  members:
+  - árachóir
+  partOfSpeech: n
+08089673-n:
+  definition:
+  - confidence: 0.0
+    text: the securities markets in the aggregate
+  hypernym:
+  - 08082070-n
+  ili: i79636
+  members:
+  - margadh
+  partOfSpeech: n
+08094856-n:
+  definition:
+  - confidence: 0.0
+    text: a social unit living together
+  hypernym:
+  - 08024893-n
+  ili: i79671
+  members:
+  - teaghlach
+  partOfSpeech: n
+08099479-n:
+  definition:
+  - confidence: 0.0
+    text: one of the groups of Christians who have their own beliefs and forms of
+      worship
+  hypernym:
+  - 08024893-n
+  ili: i79691
+  members:
+  - eaglais
+  partOfSpeech: n
+08118376-n:
+  definition:
+  - confidence: 0.0
+    text: a special variety of domesticated animals within a species
+  hypernym:
+  - 00031563-n
+  ili: i79778
+  members:
+  - pór
+  partOfSpeech: n
+08118903-n:
+  definition:
+  - confidence: 0.0
+    text: the hereditary derivation of an individual
+  hypernym:
+  - 00031563-n
+  ili: i79781
+  members:
+  - ginealach
+  - sinsearacht
+  - stoc
+  partOfSpeech: n
+08120743-n:
+  definition:
+  - confidence: 0.0
+    text: (biology) a taxonomic group containing one or more orders
+  hypernym:
+  - 00031563-n
+  ili: i79788
+  members:
+  - rang
+  partOfSpeech: n
+08123900-n:
+  definition:
+  - confidence: 0.0
+    text: (biology) taxonomic group containing one or more families
+  hypernym:
+  - 00031563-n
+  ili: i79791
+  members:
+  - ord
+  partOfSpeech: n
+08124465-n:
+  definition:
+  - confidence: 0.0
+    text: (biology) a taxonomic group containing one or more genera
+  hypernym:
+  - 00031563-n
+  ili: i79794
+  members:
+  - fine
+  partOfSpeech: n
+08125593-n:
+  definition:
+  - confidence: 0.0
+    text: (biology) a taxonomic category below a family
+  hypernym:
+  - 00031563-n
+  ili: i79797
+  members:
+  - fofhine
+  partOfSpeech: n
+08125938-n:
+  definition:
+  - confidence: 0.0
+    text: (biology) taxonomic group containing one or more species
+  hypernym:
+  - 00031563-n
+  ili: i79799
+  members:
+  - géineas
+  partOfSpeech: n
+08127339-n:
+  definition:
+  - confidence: 0.0
+    text: (biology) taxonomic group whose members can interbreed
+  hypernym:
+  - 00031563-n
+  ili: i79804
+  members:
+  - speiceas
+  partOfSpeech: n
+08130970-n:
+  definition:
+  - confidence: 0.0
+    text: a government department under the direction of a minister of state
+  hypernym:
+  - 08131836-n
+  ili: i79825
+  members:
+  - aireacht
+  partOfSpeech: n
+08131836-n:
+  definition:
+  - confidence: 0.0
+    text: a specialized division of a large organization
+  hypernym:
+  - 08024893-n
+  ili: i79830
+  members:
+  - roinn
+  partOfSpeech: n
+08163600-n:
+  definition:
+  - confidence: 0.0
+    text: a hospital unit staffed and equipped to provide intensive care
+  hypernym:
+  - 08024893-n
+  ili: i79967
+  members:
+  - aonad dianchúraim
+  partOfSpeech: n
+08166480-n:
+  definition:
+  - confidence: 0.0
+    text: a Roman Catholic order founded by Saint Ignatius of Loyola in 1534 to defend
+      Catholicism against the Reformation and to do missionary work among the heathen;
+      it is strongly committed to education and scholarship
+  hypernym:
+  - 08166788-n
+  ili: i79982
+  members:
+  - Cumann Íosa
+  partOfSpeech: n
+08166788-n:
+  definition:
+  - confidence: 0.0
+    text: a subdivision of a larger religious group
+  hypernym:
+  - 08024893-n
+  ili: i79983
+  members:
+  - seict
+  partOfSpeech: n
+08177175-n:
+  definition:
+  - confidence: 0.0
+    text: the body of citizens of a state or country
+  hypernym:
+  - 00031563-n
+  ili: i80034
+  members:
+  - muintir
+  - pobal
+  partOfSpeech: n
+08179924-n:
+  definition:
+  - confidence: 0.0
+    text: an official assembly having legislative powers
+  hypernym:
+  - 08180172-n
+  ili: i80049
+  members:
+  - teach
+  partOfSpeech: n
+08180172-n:
+  definition:
+  - confidence: 0.0
+    text: persons who make or amend or repeal laws
+  hypernym:
+  - 08180691-n
+  ili: i80050
+  members:
+  - oireachtas
+  - reachtas
+  partOfSpeech: n
+08180691-n:
+  definition:
+  - confidence: 0.0
+    text: a group of persons who are gathered together for a common purpose
+  hypernym:
+  - 07991473-n
+  ili: i80052
+  members:
+  - comhthionól
+  - tionól
+  partOfSpeech: n
+08183086-n:
+  definition:
+  - confidence: 0.0
+    text: persons who administer justice
+  hypernym:
+  - 07981699-n
+  ili: i80064
+  members:
+  - binse
+  partOfSpeech: n
+08185877-n:
+  definition:
+  - confidence: 0.0
+    text: a politically organized body of people under a single government
+  hypernym:
+  - 08024893-n
+  ili: i80079
+  members:
+  - stát
+  - tír
+  partOfSpeech: n
+08187993-n:
+  definition:
+  - confidence: 0.0
+    text: a group of countries in special alliance
+  hypernym:
+  - 08310903-n
+  ili: i80089
+  members:
+  - ais
+  partOfSpeech: n
+08190414-n:
+  definition:
+  - confidence: 0.0
+    text: an international organization of European countries formed after World War
+      II to reduce trade barriers and increase cooperation among its members
+  hypernym:
+  - 08310903-n
+  ili: i80101
+  members:
+  - aontas eorpach
+  partOfSpeech: n
+08196607-n:
+  definition:
+  - confidence: 0.0
+    text: people in general considered as a whole
+  hypernym:
+  - 07958392-n
+  ili: i80125
+  members:
+  - pobal
+  partOfSpeech: n
+08196797-n:
+  definition:
+  - confidence: 0.0
+    text: the people who inhabit a territory or state
+  hypernym:
+  - 07958392-n
+  ili: i80126
+  members:
+  - pobal
+  partOfSpeech: n
+08201779-n:
+  definition:
+  - confidence: 0.0
+    text: a social gathering of guests or companions
+  hypernym:
+  - 07991473-n
+  ili: i80158
+  members:
+  - cuideachta
+  partOfSpeech: n
+08202676-n:
+  definition:
+  - confidence: 0.0
+    text: a company that performs a public service; subject to government regulation
+  hypernym:
+  - 08202965-n
+  ili: i80164
+  members:
+  - fóntas
+  partOfSpeech: n
+08202965-n:
+  definition:
+  - confidence: 0.0
+    text: a company or agency that performs a public service; subject to government
+      regulation
+  hypernym:
+  - 08074934-n
+  ili: i80165
+  members:
+  - seirbhís
+  partOfSpeech: n
+08206141-n:
+  definition:
+  - confidence: 0.0
+    text: a travelling company of entertainers; including trained animals
+  hypernym:
+  - 08024893-n
+  ili: i80185
+  members:
+  - sorcas
+  partOfSpeech: n
+08207412-n:
+  definition:
+  - confidence: 0.0
+    text: an opposing military force
+  hypernym:
+  - 08215338-n
+  ili: i80190
+  members:
+  - namhaid
+  partOfSpeech: n
+08208160-n:
+  definition:
+  - confidence: 0.0
+    text: a permanent organization of the military land forces of a nation or state
+  hypernym:
+  - 08224937-n
+  ili: i80193
+  members:
+  - arm
+  partOfSpeech: n
+08208631-n:
+  definition:
+  - confidence: 0.0
+    text: an organization of military vessels belonging to a country and available
+      for sea warfare
+  hypernym:
+  - 08224937-n
+  ili: i80195
+  members:
+  - cabhlach
+  partOfSpeech: n
+08215338-n:
+  definition:
+  - confidence: 0.0
+    text: a unit that is part of some military service
+  hypernym:
+  - 08024893-n
+  ili: i80224
+  members:
+  - fórsa
+  partOfSpeech: n
+08215965-n:
+  definition:
+  - confidence: 0.0
+    text: the military forces of a nation
+  hypernym:
+  - 08224937-n
+  ili: i80225
+  members:
+  - fórsaí armtha
+  partOfSpeech: n
+08223381-n:
+  definition:
+  - confidence: 0.0
+    text: armed forces that are not on active duty but can be called in an emergency
+  hypernym:
+  - 08215965-n
+  ili: i80226
+  members:
+  - cúltaca
+  partOfSpeech: n
+08224130-n:
+  definition:
+  - confidence: 0.0
+    text: a group of civilians organized in a military fashion (especially to operate
+      in place of or to assist regular army troops)
+  hypernym:
+  - 08224937-n
+  ili: i80230
+  members:
+  - paraimíleatach
+  partOfSpeech: n
+08224937-n:
+  definition:
+  - confidence: 0.0
+    text: group of people willing to obey orders
+  hypernym:
+  - 08024893-n
+  ili: i80234
+  members:
+  - foireann
+  - pearsanra
+  partOfSpeech: n
+08225365-n:
+  definition:
+  - confidence: 0.0
+    text: a semipermanent unit created to carry out a continuing task
+  hypernym:
+  - 08024893-n
+  ili: i80235
+  members:
+  - tascfhórsa
+  partOfSpeech: n
+08225481-n:
+  definition:
+  - confidence: 0.0
+    text: a cooperative unit (especially in sports)
+  hypernym:
+  - 08024893-n
+  ili: i80236
+  members:
+  - foireann
+  partOfSpeech: n
+08226608-n:
+  definition:
+  - confidence: 0.0
+    text: the force of policemen and officers
+  hypernym:
+  - 08224937-n
+  - 08354251-n
+  ili: i80241
+  members:
+  - póilíní
+  partOfSpeech: n
+08230000-n:
+  definition:
+  - confidence: 0.0
+    text: a body of people associated together
+  hypernym:
+  - 07981699-n
+  ili: i80259
+  members:
+  - cór
+  partOfSpeech: n
+08230126-n:
+  definition:
+  - confidence: 0.0
+    text: an army unit large enough to sustain combat
+  hypernym:
+  - 08215338-n
+  ili: i80260
+  members:
+  - rannán
+  partOfSpeech: n
+08230899-n:
+  definition:
+  - confidence: 0.0
+    text: army unit smaller than a division, typically consisting of a small number
+      of battalions
+  hypernym:
+  - 08215338-n
+  ili: i80264
+  members:
+  - briogáid
+  partOfSpeech: n
+08231004-n:
+  definition:
+  - confidence: 0.0
+    text: an army unit usually consisting of a headquarters and three or more companies
+  hypernym:
+  - 08215338-n
+  ili: i80265
+  members:
+  - cathlán
+  partOfSpeech: n
+08233097-n:
+  definition:
+  - confidence: 0.0
+    text: a detachment used for security or reconnaissance
+  hypernym:
+  - 08215338-n
+  ili: i80277
+  members:
+  - patról
+  partOfSpeech: n
+08240609-n:
+  definition:
+  - confidence: 0.0
+    text: a local church community
+  hypernym:
+  - 08240723-n
+  ili: i80326
+  members:
+  - paróiste
+  partOfSpeech: n
+08240723-n:
+  definition:
+  - confidence: 0.0
+    text: a group of people living in a particular local area
+  hypernym:
+  - 07991473-n
+  ili: i80327
+  members:
+  - comhphobal
+  - pobal
+  partOfSpeech: n
+08241195-n:
+  definition:
+  - confidence: 0.0
+    text: a group of nations having common interests
+  hypernym:
+  - 08310903-n
+  ili: i80328
+  members:
+  - comhphobal
+  partOfSpeech: n
+08243620-n:
+  definition:
+  - confidence: 0.0
+    text: a community of people smaller than a town
+  hypernym:
+  - 08240723-n
+  ili: i80343
+  members:
+  - sráidbhaile
+  partOfSpeech: n
+08244009-n:
+  definition:
+  - confidence: 0.0
+    text: an association formed and operated for the benefit of those using it
+  hypernym:
+  - 08066153-n
+  ili: i80346
+  members:
+  - comharchumann
+  partOfSpeech: n
+08249977-n:
+  definition:
+  - confidence: 0.0
+    text: an organization of employees formed to bargain with the employer
+  hypernym:
+  - 08024893-n
+  ili: i80384
+  members:
+  - ceardchumann
+  partOfSpeech: n
+08252434-n:
+  definition:
+  - confidence: 0.0
+    text: Freemasons collectively
+  hypernym:
+  - 08066153-n
+  ili: i80398
+  members:
+  - máisiúnachas
+  partOfSpeech: n
+08253359-n:
+  definition:
+  - confidence: 0.0
+    text: an association of companies for some definite purpose
+  hypernym:
+  - 08066153-n
+  ili: i80403
+  members:
+  - cuibhreannas
+  - feadhnacht
+  partOfSpeech: n
+08253542-n:
+  definition:
+  - confidence: 0.0
+    text: a consortium of independent organizations formed to limit competition by
+      controlling the production and distribution of a product or service
+  hypernym:
+  - 08253359-n
+  ili: i80404
+  members:
+  - cairtéal
+  partOfSpeech: n
+08255077-n:
+  definition:
+  - confidence: 0.0
+    text: the body of voters who elect a representative for their area
+  hypernym:
+  - 07981699-n
+  ili: i80411
+  members:
+  - toghlach
+  partOfSpeech: n
+08255384-n:
+  definition:
+  - confidence: 0.0
+    text: a body of students who are taught together
+  hypernym:
+  - 07991473-n
+  ili: i80413
+  members:
+  - grád
+  - rang
+  partOfSpeech: n
+08257090-n:
+  definition:
+  - confidence: 0.0
+    text: an unofficial association of people or groups
+  hypernym:
+  - 00031563-n
+  ili: i80424
+  members:
+  - ciorcal
+  partOfSpeech: n
+08259720-n:
+  definition:
+  - confidence: 0.0
+    text: an organized group of workmen
+  hypernym:
+  - 08024893-n
+  ili: i80437
+  members:
+  - foireann
+  - meitheal
+  partOfSpeech: n
+08260983-n:
+  definition:
+  - confidence: 0.0
+    text: an association of criminals
+  hypernym:
+  - 08066153-n
+  ili: i80445
+  members:
+  - fáinne
+  partOfSpeech: n
+08262093-n:
+  definition:
+  - confidence: 0.0
+    text: underworld organizations
+  hypernym:
+  - 00031563-n
+  ili: i80451
+  members:
+  - coirpeacht eagraithe
+  partOfSpeech: n
+08265078-n:
+  definition:
+  - confidence: 0.0
+    text: a musical organization consisting of a group of instrumentalists including
+      string players
+  hypernym:
+  - 08024893-n
+  ili: i80469
+  members:
+  - ceolfhoireann
+  partOfSpeech: n
+08270561-n:
+  definition:
+  - confidence: 0.0
+    text: a ceremonial dinner party for many people
+  hypernym:
+  - 07991473-n
+  - 00029677-n
+  ili: i80505
+  members:
+  - féasta
+  partOfSpeech: n
+08273889-n:
+  definition:
+  - confidence: 0.0
+    text: an organization to gain political power
+  hypernym:
+  - 08024893-n
+  ili: i80527
+  members:
+  - páirtí
+  partOfSpeech: n
+08281818-n:
+  definition:
+  - confidence: 0.0
+    text: a band of people associated temporarily in some activity
+  hypernym:
+  - 08257090-n
+  ili: i80565
+  members:
+  - páirtí
+  partOfSpeech: n
+08283156-n:
+  definition:
+  - confidence: 0.0
+    text: a set of data arranged in rows and columns
+  hypernym:
+  - 07955622-n
+  ili: i80574
+  members:
+  - clár
+  - tábla
+  partOfSpeech: n
+08284561-n:
+  definition:
+  - confidence: 0.0
+    text: (mathematics) a rectangular array of quantities or expressions set out by
+      rows and columns; treated as a single element and manipulated according to rules
+  hypernym:
+  - 07955622-n
+  ili: i80581
+  members:
+  - maitrís
+  partOfSpeech: n
+08291275-n:
+  definition:
+  - confidence: 0.0
+    text: a group of soldiers
+  hypernym:
+  - 08215338-n
+  ili: i80622
+  members:
+  - trúpa
+  partOfSpeech: n
+08293641-n:
+  definition:
+  - confidence: 0.0
+    text: an educational institution
+  hypernym:
+  - 08024893-n
+  ili: i80636
+  members:
+  - scoil
+  partOfSpeech: n
+08295245-n:
+  definition:
+  - confidence: 0.0
+    text: an institution of higher education created to educate and grant degrees;
+      often a part of a university
+  hypernym:
+  - 08024893-n
+  ili: i80643
+  members:
+  - coláiste
+  partOfSpeech: n
+08297045-n:
+  definition:
+  - confidence: 0.0
+    text: an institution for the advancement of art or science or literature
+  hypernym:
+  - 08024893-n
+  ili: i80655
+  members:
+  - acadamh
+  partOfSpeech: n
+08299972-n:
+  definition:
+  - confidence: 0.0
+    text: a graduate school offering study leading to a law degree
+  hypernym:
+  - 08293641-n
+  ili: i80671
+  members:
+  - scoil dlí
+  partOfSpeech: n
+08304765-n:
+  definition:
+  - confidence: 0.0
+    text: a particular society at a particular time and place
+  hypernym:
+  - 07982754-n
+  ili: i80699
+  members:
+  - cultúr
+  partOfSpeech: n
+08309677-n:
+  definition:
+  - confidence: 0.0
+    text: a group of warships organized as a tactical unit
+  hypernym:
+  - 07968050-n
+  ili: i80721
+  members:
+  - cabhlach
+  - loingeas
+  partOfSpeech: n
+08310903-n:
+  definition:
+  - confidence: 0.0
+    text: an organization of people (or countries) involved in a pact or treaty
+  hypernym:
+  - 08024893-n
+  ili: i80729
+  members:
+  - comhghuaillíocht
+  partOfSpeech: n
+08312501-n:
+  definition:
+  - confidence: 0.0
+    text: an organization of independent states formed in 1945 to promote international
+      peace and security
+  hypernym:
+  - 08310903-n
+  ili: i80734
+  members:
+  - Náisiúin Aontaithe
+  partOfSpeech: n
+08318792-n:
+  definition:
+  - confidence: 0.0
+    text: a United Nations agency to promote trade by increasing the exchange stability
+      of the major currencies
+  hypernym:
+  - 08024893-n
+  ili: i80764
+  members:
+  - Ciste Airgeadaíochta Idirnáisiúnta
+  partOfSpeech: n
+08320205-n:
+  definition:
+  - confidence: 0.0
+    text: a union of political organizations
+  hypernym:
+  - 08024893-n
+  ili: i80771
+  members:
+  - cónaidhm
+  partOfSpeech: n
+08322872-n:
+  definition:
+  - confidence: 0.0
+    text: a friendly nation
+  hypernym:
+  - 08185877-n
+  ili: i80782
+  members:
+  - comhghuaillí
+  partOfSpeech: n
+08324519-n:
+  definition:
+  - confidence: 0.0
+    text: a formally arranged gathering
+  hypernym:
+  - 01232427-n
+  ili: i80791
+  members:
+  - cruinniú
+  partOfSpeech: n
+08325243-n:
+  definition:
+  - confidence: 0.0
+    text: a closed political meeting
+  hypernym:
+  - 08324519-n
+  ili: i80794
+  members:
+  - cácas
+  partOfSpeech: n
+08325427-n:
+  definition:
+  - confidence: 0.0
+    text: a prearranged meeting for consultation or exchange of information or discussion
+      (especially one with a formal agenda)
+  hypernym:
+  - 08324519-n
+  ili: i80796
+  members:
+  - comhdháil
+  partOfSpeech: n
+08326016-n:
+  definition:
+  - confidence: 0.0
+    text: a large formal assembly
+  hypernym:
+  - 08324519-n
+  ili: i80799
+  members:
+  - comhdháil
+  partOfSpeech: n
+08326684-n:
+  definition:
+  - confidence: 0.0
+    text: a public meeting or assembly for open discussion
+  hypernym:
+  - 08324519-n
+  ili: i80803
+  members:
+  - fóram
+  partOfSpeech: n
+08327879-n:
+  definition:
+  - confidence: 0.0
+    text: a body serving in an administrative capacity
+  hypernym:
+  - 08024893-n
+  ili: i80810
+  members:
+  - comhairle
+  partOfSpeech: n
+08336128-n:
+  definition:
+  - confidence: 0.0
+    text: a legislative assembly in certain countries
+  hypernym:
+  - 08180172-n
+  ili: i80850
+  members:
+  - parlaimint
+  partOfSpeech: n
+08336469-n:
+  definition:
+  - confidence: 0.0
+    text: the lower house of the parliament of the Irish Republic
+  hypernym:
+  - 08179924-n
+  ili: i80852
+  members:
+  - Dáil Éireann
+  partOfSpeech: n
+08336707-n:
+  definition:
+  - confidence: 0.0
+    text: the parliament of the Irish Republic
+  hypernym:
+  - 08336128-n
+  ili: i80854
+  members:
+  - Oireachtas
+  partOfSpeech: n
+08339450-n:
+  definition:
+  - confidence: 0.0
+    text: a council convened to discuss ecclesiastical business
+  hypernym:
+  - 08324519-n
+  ili: i80867
+  members:
+  - sionad
+  partOfSpeech: n
+08339911-n:
+  definition:
+  - confidence: 0.0
+    text: a committee having supervisory powers
+  hypernym:
+  - 08341444-n
+  ili: i80870
+  members:
+  - bord
+  partOfSpeech: n
+08341204-n:
+  definition:
+  - confidence: 0.0
+    text: an administrative unit responsible for maintaining records and other secretarial
+      duties; especially for international organizations
+  hypernym:
+  - 08024893-n
+  ili: i80877
+  members:
+  - rúnaíocht
+  partOfSpeech: n
+08341444-n:
+  definition:
+  - confidence: 0.0
+    text: a special group delegated to consider some matter
+  hypernym:
+  - 08024893-n
+  ili: i80878
+  members:
+  - coimisiún
+  - coiste
+  partOfSpeech: n
+08342923-n:
+  definition:
+  - confidence: 0.0
+    text: a subset of committee members organized for a specific purpose
+  hypernym:
+  - 08341444-n
+  ili: i80885
+  members:
+  - fochoiste
+  partOfSpeech: n
+08343313-n:
+  definition:
+  - confidence: 0.0
+    text: a permanent committee
+  hypernym:
+  - 08341444-n
+  ili: i80888
+  members:
+  - buanchoiste
+  partOfSpeech: n
+08344746-n:
+  definition:
+  - confidence: 0.0
+    text: any meeting for an exchange of ideas
+  hypernym:
+  - 08325427-n
+  ili: i80897
+  members:
+  - seimineár
+  partOfSpeech: n
+08346380-n:
+  definition:
+  - confidence: 0.0
+    text: an assembly (including one or more judges) to conduct judicial business
+  hypernym:
+  - 08180691-n
+  ili: i80907
+  members:
+  - cúirt
+  partOfSpeech: n
+08353115-n:
+  definition:
+  - confidence: 0.0
+    text: the highest court in most states of the United States
+  hypernym:
+  - 08346380-n
+  ili: i80940
+  members:
+  - Ard-Chúirt
+  partOfSpeech: n
+08354251-n:
+  definition:
+  - confidence: 0.0
+    text: an administrative unit of government
+  hypernym:
+  - 08024893-n
+  ili: i80946
+  members:
+  - biúró
+  - gníomhaireacht
+  - oifig
+  - údarás
+  partOfSpeech: n
+08374185-n:
+  definition:
+  - confidence: 0.0
+    text: government workers; usually hired on the basis of competitive examinations
+  hypernym:
+  - 07981699-n
+  ili: i81026
+  members:
+  - státseirbhís
+  partOfSpeech: n
+08374919-n:
+  definition:
+  - confidence: 0.0
+    text: a gathering of the minimal number of members of an organization to conduct
+      business
+  hypernym:
+  - 07991473-n
+  ili: i81031
+  members:
+  - córam
+  partOfSpeech: n
+08375521-n:
+  definition:
+  - confidence: 0.0
+    text: a small unit serving as part of or as the nucleus of a larger political
+      movement
+  hypernym:
+  - 08024893-n
+  ili: i81035
+  members:
+  - cill
+  partOfSpeech: n
+08378256-n:
+  definition:
+  - confidence: 0.0
+    text: a political system in which the supreme power lies in a body of citizens
+      who can elect people to represent them
+  hypernym:
+  - 00031563-n
+  ili: i81050
+  members:
+  - poblacht
+  partOfSpeech: n
+08379382-n:
+  definition:
+  - confidence: 0.0
+    text: a political system governed by a few people
+  hypernym:
+  - 00031563-n
+  ili: i81056
+  members:
+  - olagarcacht
+  partOfSpeech: n
+08380739-n:
+  definition:
+  - confidence: 0.0
+    text: an autocracy governed by a monarch who usually inherits the authority
+  hypernym:
+  - 00031563-n
+  ili: i81063
+  members:
+  - monarcacht
+  partOfSpeech: n
+08381070-n:
+  definition:
+  - confidence: 0.0
+    text: an economic system based on private ownership of capital
+  hypernym:
+  - 08383680-n
+  ili: i81065
+  members:
+  - caipitleachas
+  partOfSpeech: n
+08382782-n:
+  definition:
+  - confidence: 0.0
+    text: a form of socialism that abolishes private ownership
+  hypernym:
+  - 08383680-n
+  ili: i81074
+  members:
+  - cumannachas
+  partOfSpeech: n
+08383680-n:
+  definition:
+  - confidence: 0.0
+    text: the system of production and distribution and consumption
+  hypernym:
+  - 08452398-n
+  ili: i81079
+  members:
+  - geilleagar
+  partOfSpeech: n
+08384266-n:
+  definition:
+  - confidence: 0.0
+    text: an economic system (Europe in 18th century) to increase a nation's wealth
+      by government regulation of all of the nation's commercial interests
+  hypernym:
+  - 08383680-n
+  ili: i81081
+  members:
+  - marsantachas
+  partOfSpeech: n
+08384610-n:
+  definition:
+  - confidence: 0.0
+    text: a social organization in which diversity of racial or religious or ethnic
+      or cultural groups is tolerated
+  hypernym:
+  - 08452398-n
+  ili: i81083
+  members:
+  - iolrachas
+  partOfSpeech: n
+08385684-n:
+  definition:
+  - confidence: 0.0
+    text: a system formed by the interaction of a community of organisms with their
+      physical environment
+  hypernym:
+  - 08452398-n
+  ili: i81088
+  members:
+  - éiceachóras
+  partOfSpeech: n
+08386333-n:
+  definition:
+  - confidence: 0.0
+    text: all the people living at the same time or of approximately the same age
+  hypernym:
+  - 07958392-n
+  ili: i81092
+  members:
+  - glúin
+  partOfSpeech: n
+08390976-n:
+  definition:
+  - confidence: 0.0
+    text: a body of people who settle far from home but maintain ties with their homeland;
+      inhabitants remain nationals of their home state but are not literally under
+      the home state's system of government
+  hypernym:
+  - 07981699-n
+  ili: i81115
+  members:
+  - coilíneacht
+  partOfSpeech: n
+08392981-n:
+  definition:
+  - confidence: 0.0
+    text: a series of things depending on each other as if linked together
+  hypernym:
+  - 00031563-n
+  ili: i81125
+  members:
+  - slabhra
+  - sraith
+  partOfSpeech: n
+08394537-n:
+  definition:
+  - confidence: 0.0
+    text: a series of ordered groupings of people or things within a system
+  hypernym:
+  - 00031563-n
+  ili: i81132
+  members:
+  - céimiúlacht
+  - ordlathas
+  partOfSpeech: n
+08395087-n:
+  definition:
+  - confidence: 0.0
+    text: a classification of organisms into groups based on similarities of structure
+      or origin etc
+  hypernym:
+  - 08394537-n
+  ili: i81135
+  members:
+  - tacsanomaíocht
+  partOfSpeech: n
+08397499-n:
+  definition:
+  - confidence: 0.0
+    text: a group of persons chosen to govern the affairs of a corporation or other
+      large institution
+  hypernym:
+  - 08339911-n
+  ili: i81147
+  members:
+  - stiúrthóireacht
+  partOfSpeech: n
+08398551-n:
+  definition:
+  - confidence: 0.0
+    text: persons appointed by a head of state to head executive departments of government
+      and act as official advisers
+  hypernym:
+  - 08339911-n
+  ili: i81153
+  members:
+  - comh-aireacht
+  partOfSpeech: n
+08401740-n:
+  definition:
+  - confidence: 0.0
+    text: a meeting arranged in advance
+  hypernym:
+  - 07991473-n
+  - 00029677-n
+  ili: i81169
+  members:
+  - coinne
+  partOfSpeech: n
+08403096-n:
+  definition:
+  - confidence: 0.0
+    text: the class occupying the highest position in the social hierarchy
+  hypernym:
+  - 07990472-n
+  ili: i81178
+  members:
+  - uasaicme
+  partOfSpeech: n
+08403286-n:
+  definition:
+  - confidence: 0.0
+    text: a group or class of persons enjoying superior intellectual or social or
+      economic status
+  hypernym:
+  - 08403096-n
+  ili: i81179
+  members:
+  - scothaicme
+  partOfSpeech: n
+08407114-n:
+  definition:
+  - confidence: 0.0
+    text: an army unit consisting of soldiers who fight on foot
+  hypernym:
+  - 08215338-n
+  ili: i81203
+  members:
+  - cos-slua
+  partOfSpeech: n
+08407468-n:
+  definition:
+  - confidence: 0.0
+    text: civilians trained as soldiers but not part of the regular army
+  hypernym:
+  - 08215338-n
+  ili: i81205
+  members:
+  - mílíste
+  partOfSpeech: n
+08409094-n:
+  definition:
+  - confidence: 0.0
+    text: a political movement that uses terror as a weapon to achieve its goals
+  hypernym:
+  - 08481612-n
+  ili: i81212
+  members:
+  - eagraíocht sceimhlitheoireachta
+  partOfSpeech: n
+08414813-n:
+  definition:
+  - confidence: 0.0
+    text: troops trained to fight on horseback
+  hypernym:
+  - 08224937-n
+  ili: i81229
+  members:
+  - marcra
+  - marcshlua
+  partOfSpeech: n
+08415730-n:
+  definition:
+  - confidence: 0.0
+    text: a collection containing a variety of sorts of things
+  hypernym:
+  - 07968050-n
+  ili: i81234
+  members:
+  - meascán
+  - éagsúlacht
+  partOfSpeech: n
+08417922-n:
+  definition:
+  - confidence: 0.0
+    text: the body of members of an organization or group
+  hypernym:
+  - 07981699-n
+  ili: i81246
+  members:
+  - comhaltas
+  partOfSpeech: n
+08418205-n:
+  definition:
+  - confidence: 0.0
+    text: a division of some larger or more complex organization
+  hypernym:
+  - 08024893-n
+  ili: i81247
+  members:
+  - brainse
+  - craobh
+  partOfSpeech: n
+08419399-n:
+  definition:
+  - confidence: 0.0
+    text: a group of representatives or delegates
+  hypernym:
+  - 08024893-n
+  ili: i81255
+  members:
+  - toscaireacht
+  partOfSpeech: n
+08420182-n:
+  definition:
+  - confidence: 0.0
+    text: an organization of missionaries in a foreign land sent to carry on religious
+      work
+  hypernym:
+  - 08026566-n
+  ili: i81260
+  members:
+  - misean
+  partOfSpeech: n
+08423443-n:
+  definition:
+  - confidence: 0.0
+    text: an institution supported by an endowment
+  hypernym:
+  - 08024893-n
+  ili: i81280
+  members:
+  - fondúireacht
+  - foras
+  partOfSpeech: n
+08424287-n:
+  definition:
+  - confidence: 0.0
+    text: an association organized to promote art or science or education
+  hypernym:
+  - 08066153-n
+  ili: i81285
+  members:
+  - institiúid
+  partOfSpeech: n
+08424576-n:
+  definition:
+  - confidence: 0.0
+    text: a collection of things (goods or works of art etc.) for public display
+  hypernym:
+  - 07968050-n
+  ili: i81287
+  members:
+  - taispeántas
+  partOfSpeech: n
+08424796-n:
+  definition:
+  - confidence: 0.0
+    text: an exhibition of art objects (paintings or statues)
+  hypernym:
+  - 08424576-n
+  ili: i81288
+  members:
+  - taispeántas ealaíne
+  partOfSpeech: n
+08425666-n:
+  definition:
+  - confidence: 0.0
+    text: one of two or more contesting groups
+  hypernym:
+  - 08024893-n
+  ili: i81294
+  members:
+  - taobh
+  partOfSpeech: n
+08425857-n:
+  definition:
+  - confidence: 0.0
+    text: a group of people working together temporarily until some goal is achieved
+  hypernym:
+  - 08024893-n
+  ili: i81295
+  members:
+  - meitheal
+  partOfSpeech: n
+08429093-n:
+  definition:
+  - confidence: 0.0
+    text: a preschool for children age 4 to 6 to prepare them for primary school
+  hypernym:
+  - 08024893-n
+  ili: i81314
+  members:
+  - ciondargairdín
+  partOfSpeech: n
+08431338-n:
+  definition:
+  - confidence: 0.0
+    text: a group of people gathered for a special purpose as to plan or discuss an
+      issue or judge a contest etc
+  hypernym:
+  - 07981699-n
+  ili: i81329
+  members:
+  - painéal
+  partOfSpeech: n
+08434758-n:
+  definition:
+  - confidence: 0.0
+    text: a procession of land vehicles traveling together
+  hypernym:
+  - 07968050-n
+  - 00038116-n
+  ili: i81350
+  members:
+  - conbhua
+  partOfSpeech: n
+08437235-n:
+  definition:
+  - confidence: 0.0
+    text: a financial institution that accepts deposits and channels the money into
+      lending activities
+  hypernym:
+  - 08024893-n
+  ili: i81364
+  members:
+  - banc
+  partOfSpeech: n
+08442260-n:
+  definition:
+  - confidence: 0.0
+    text: the aggregation of things (pedestrians or vehicles) coming and going in
+      a particular locality during a specified period of time
+  hypernym:
+  - 07968050-n
+  ili: i81388
+  members:
+  - trácht
+  partOfSpeech: n
+08442513-n:
+  definition:
+  - confidence: 0.0
+    text: traffic created by the movement of aircraft
+  hypernym:
+  - 08442260-n
+  ili: i81389
+  members:
+  - aerthrácht
+  partOfSpeech: n
+08444586-n:
+  definition:
+  - confidence: 0.0
+    text: a procession (of wagons or mules or camels) traveling together in single
+      file
+  hypernym:
+  - 07968050-n
+  - 00038116-n
+  ili: i81403
+  members:
+  - carbhán
+  partOfSpeech: n
+08445442-n:
+  definition:
+  - confidence: 0.0
+    text: a ceremonial procession including people marching
+  hypernym:
+  - 07968050-n
+  - 00038116-n
+  ili: i81408
+  members:
+  - mórshiúl
+  - paráid
+  partOfSpeech: n
+08447160-n:
+  definition:
+  - confidence: 0.0
+    text: a formation of people or things one behind another
+  hypernym:
+  - 00031563-n
+  ili: i81420
+  members:
+  - líne
+  partOfSpeech: n
+08447525-n:
+  definition:
+  - confidence: 0.0
+    text: a formation of people or things one beside another
+  hypernym:
+  - 00031563-n
+  ili: i81421
+  members:
+  - líne
+  partOfSpeech: n
+08448447-n:
+  definition:
+  - confidence: 0.0
+    text: an arrangement of objects or people side by side in a line
+  hypernym:
+  - 08447525-n
+  ili: i81426
+  members:
+  - sraith
+  partOfSpeech: n
+08451269-n:
+  definition:
+  - confidence: 0.0
+    text: an interconnected system of things or people
+  hypernym:
+  - 08452398-n
+  ili: i81445
+  members:
+  - gréasán
+  - líonra
+  partOfSpeech: n
+08452398-n:
+  definition:
+  - confidence: 0.0
+    text: a group of independent but interrelated elements comprising a unified whole
+  hypernym:
+  - 00031563-n
+  ili: i81450
+  members:
+  - córas
+  partOfSpeech: n
+08453769-n:
+  definition:
+  - confidence: 0.0
+    text: all the plant life in a particular region or period
+  hypernym:
+  - 07968050-n
+  ili: i81457
+  members:
+  - flóra
+  - fásra
+  partOfSpeech: n
+08455376-n:
+  definition:
+  - confidence: 0.0
+    text: a growth of similar plants (usually trees) in a particular area
+  hypernym:
+  - 08453769-n
+  ili: i81465
+  members:
+  - clampa
+  partOfSpeech: n
+08455525-n:
+  definition:
+  - confidence: 0.0
+    text: the trees and other plants in a large densely wooded area
+  hypernym:
+  - 08453769-n
+  ili: i81466
+  members:
+  - foraois
+  partOfSpeech: n
+08456014-n:
+  definition:
+  - confidence: 0.0
+    text: an impenetrable equatorial forest
+  hypernym:
+  - 08455525-n
+  ili: i81469
+  members:
+  - dufair
+  partOfSpeech: n
+08456947-n:
+  definition:
+  - confidence: 0.0
+    text: personnel who assist their superior in carrying out an assigned task
+  hypernym:
+  - 08224937-n
+  ili: i81476
+  members:
+  - foireann
+  partOfSpeech: n
+08457622-n:
+  definition:
+  - confidence: 0.0
+    text: a form of government in which the ruler is an absolute dictator (not restricted
+      by a constitution or laws or opposition etc.)
+  hypernym:
+  - 00031563-n
+  ili: i81479
+  members:
+  - deachtóireacht
+  partOfSpeech: n
+08458195-n:
+  definition:
+  - confidence: 0.0
+    text: the collection of rules imposed by authority
+  hypernym:
+  - 07968050-n
+  ili: i81481
+  members:
+  - dlí
+  - reacht
+  partOfSpeech: n
+08473738-n:
+  definition:
+  - confidence: 0.0
+    text: nonelective government officials
+  hypernym:
+  - 07981699-n
+  ili: i81498
+  members:
+  - maorlathas
+  partOfSpeech: n
+08475923-n:
+  definition:
+  - confidence: 0.0
+    text: a series with a definite pattern of advance
+  hypernym:
+  - 00031563-n
+  ili: i81507
+  members:
+  - seicheamh
+  partOfSpeech: n
+08476263-n:
+  definition:
+  - confidence: 0.0
+    text: serial arrangement in which things follow in logical order or a recurrent
+      pattern
+  hypernym:
+  - 00031563-n
+  ili: i81509
+  members:
+  - seicheamh
+  - sraith
+  partOfSpeech: n
+08478606-n:
+  definition:
+  - confidence: 0.0
+    text: dominant course (suggestive of running water) of successive events or ideas
+  hypernym:
+  - 00031563-n
+  ili: i81520
+  members:
+  - sruth
+  partOfSpeech: n
+08479331-n:
+  definition:
+  - confidence: 0.0
+    text: a collection of facts from which conclusions may be drawn
+  hypernym:
+  - 07968050-n
+  ili: i81525
+  members:
+  - sonraí
+  partOfSpeech: n
+08479732-n:
+  definition:
+  - confidence: 0.0
+    text: data about data
+  hypernym:
+  - 08479331-n
+  ili: i81527
+  members:
+  - meiteashonraí
+  partOfSpeech: n
+08481612-n:
+  definition:
+  - confidence: 0.0
+    text: a group of people with a common ideology who try together to achieve certain
+      general goals
+  hypernym:
+  - 00031563-n
+  ili: i81539
+  members:
+  - gluaiseacht
+  partOfSpeech: n
+08492940-n:
+  definition:
+  - confidence: 0.0
+    text: a religious movement of the 16th century that began as an attempt to reform
+      the Roman Catholic Church and resulted in the creation of Protestant churches
+  hypernym:
+  - 08481612-n
+  ili: i81588
+  members:
+  - Reifirméisean
+  partOfSpeech: n
+08496213-n:
+  definition:
+  - confidence: 0.0
+    text: a movement of world Jewry that arose late in the 19th century with the aim
+      of creating a Jewish state in Palestine
+  hypernym:
+  - 08481612-n
+  ili: i81608
+  members:
+  - Síónachas
+  partOfSpeech: n

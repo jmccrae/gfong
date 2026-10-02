@@ -1,0 +1,6292 @@
+06261911-n:
+  definition:
+  - confidence: 0.0
+    text: communication by means of transmitted signals
+  hypernym:
+  - 06262268-n
+  ili: i69361
+  members:
+  - tarchur
+  partOfSpeech: n
+06262268-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of communicating; the activity of conveying information
+  hypernym:
+  - 00030657-n
+  ili: i69362
+  members:
+  - cumarsáid
+  partOfSpeech: n
+06263820-n:
+  definition:
+  - confidence: 0.0
+    text: a communication (usually brief) that is written or spoken or signaled
+  hypernym:
+  - 00033319-n
+  ili: i69368
+  members:
+  - teachtaireacht
+  partOfSpeech: n
+06264799-n:
+  definition:
+  - confidence: 0.0
+    text: a means or instrumentality for storing or communicating information
+  hypernym:
+  - 00022119-n
+  ili: i69373
+  members:
+  - meán
+  partOfSpeech: n
+06266354-n:
+  definition:
+  - confidence: 0.0
+    text: paper used for writing or printing
+  hypernym:
+  - 14998823-n
+  ili: i69378
+  members:
+  - bileog
+  - leathanach
+  - leathán
+  partOfSpeech: n
+06267274-n:
+  definition:
+  - confidence: 0.0
+    text: one side of one leaf (of a book or magazine or newspaper or letter etc.)
+      or the written or pictorial matter it contains
+  hypernym:
+  - 06266354-n
+  ili: i69383
+  members:
+  - leathanach
+  partOfSpeech: n
+06269505-n:
+  definition:
+  - confidence: 0.0
+    text: paper cut to an appropriate size for writing letters; usually with matching
+      envelopes
+  hypernym:
+  - 14998823-n
+  ili: i69397
+  members:
+  - stáiseanóireacht
+  partOfSpeech: n
+06270551-n:
+  definition:
+  - confidence: 0.0
+    text: a path over which electrical signals can pass
+  hypernym:
+  - 06261911-n
+  ili: i69404
+  members:
+  - bealach
+  partOfSpeech: n
+06270774-n:
+  definition:
+  - confidence: 0.0
+    text: (often plural) a means of communication or access
+  hypernym:
+  - 06262268-n
+  ili: i69405
+  members:
+  - bealach
+  partOfSpeech: n
+06271171-n:
+  definition:
+  - confidence: 0.0
+    text: a range of frequencies between two limits
+  hypernym:
+  - 08415730-n
+  ili: i69406
+  members:
+  - banda
+  partOfSpeech: n
+06271913-n:
+  definition:
+  - confidence: 0.0
+    text: a channel for communication between groups
+  hypernym:
+  - 06270774-n
+  ili: i69410
+  members:
+  - idirchaidreamh
+  partOfSpeech: n
+06272397-n:
+  definition:
+  - confidence: 0.0
+    text: transmission that combine media of communication (text and graphics and
+      sound etc.)
+  hypernym:
+  - 06261911-n
+  ili: i69413
+  members:
+  - ilmheáin
+  partOfSpeech: n
+06273220-n:
+  definition:
+  - confidence: 0.0
+    text: a medium that disseminates moving pictures
+  hypernym:
+  - 06264799-n
+  ili: i69416
+  members:
+  - cineama
+  - scannánaíocht
+  partOfSpeech: n
+06274829-n:
+  definition:
+  - confidence: 0.0
+    text: a medium that disseminates via telecommunications
+  hypernym:
+  - 06261911-n
+  ili: i69424
+  members:
+  - craolachán
+  - craoltóireacht
+  partOfSpeech: n
+06275051-n:
+  definition:
+  - confidence: 0.0
+    text: the system whereby messages are transmitted via the post office
+  hypernym:
+  - 06262268-n
+  ili: i69425
+  members:
+  - post
+  partOfSpeech: n
+06277798-n:
+  definition:
+  - confidence: 0.0
+    text: a daily or weekly publication on folded sheets; contains news and articles
+      and advertisements
+  hypernym:
+  - 06264799-n
+  ili: i69441
+  members:
+  - nuachtán
+  - páipéar
+  partOfSpeech: n
+06278308-n:
+  definition:
+  - confidence: 0.0
+    text: a newspaper or official journal
+  hypernym:
+  - 06277798-n
+  ili: i69443
+  members:
+  - iris
+  partOfSpeech: n
+06278749-n:
+  definition:
+  - confidence: 0.0
+    text: nonfictional prose forming an independent part of a publication
+  hypernym:
+  - 00022119-n
+  - 00033319-n
+  ili: i69447
+  members:
+  - alt
+  partOfSpeech: n
+06280961-n:
+  definition:
+  - confidence: 0.0
+    text: a publication (such as a book) that is reprinted without changes or editing
+      and offered again for sale
+  hypernym:
+  - 06601855-n
+  ili: i69458
+  members:
+  - athchló
+  - atheisiúint
+  partOfSpeech: n
+06282431-n:
+  definition:
+  - confidence: 0.0
+    text: (often plural) systems used in transmitting messages over a distance electronically
+  hypernym:
+  - 06264799-n
+  ili: i69468
+  members:
+  - teileachumarsáid
+  partOfSpeech: n
+06282943-n:
+  definition:
+  - confidence: 0.0
+    text: transmitting speech at a distance
+  hypernym:
+  - 06282431-n
+  ili: i69469
+  members:
+  - teileafónaíocht
+  partOfSpeech: n
+06283456-n:
+  definition:
+  - confidence: 0.0
+    text: a method of contacting a person by phone
+  hypernym:
+  - 06282943-n
+  ili: i69471
+  members:
+  - glao
+  partOfSpeech: n
+06286287-n:
+  definition:
+  - confidence: 0.0
+    text: the bags of letters and packages that are transported by the postal service
+  hypernym:
+  - 06263820-n
+  ili: i69489
+  members:
+  - post
+  partOfSpeech: n
+06287788-n:
+  definition:
+  - confidence: 0.0
+    text: medium for communication
+  hypernym:
+  - 06282431-n
+  ili: i69498
+  members:
+  - raidió
+  partOfSpeech: n
+06287933-n:
+  definition:
+  - confidence: 0.0
+    text: broadcasting visual images of stationary or moving objects
+  hypernym:
+  - 06282431-n
+  ili: i69499
+  members:
+  - fís
+  - teilifís
+  partOfSpeech: n
+06288456-n:
+  definition:
+  - confidence: 0.0
+    text: the visible part of a television transmission
+  hypernym:
+  - 00033319-n
+  ili: i69500
+  members:
+  - pictiúr
+  partOfSpeech: n
+06289979-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) a system of world-wide electronic communication in which
+      a computer user can compose a message at one terminal that can be regenerated
+      at the recipient's terminal when the recipient logs in
+  hypernym:
+  - 06261911-n
+  ili: i69508
+  members:
+  - ríomhphost
+  partOfSpeech: n
+06293304-n:
+  definition:
+  - confidence: 0.0
+    text: a systematic means of communicating by the use of sounds or conventional
+      symbols
+  hypernym:
+  - 00033319-n
+  ili: i69527
+  members:
+  - teanga
+  partOfSpeech: n
+06295551-n:
+  definition:
+  - confidence: 0.0
+    text: discourse that surrounds a language unit and helps to determine its interpretation
+  hypernym:
+  - 13831419-n
+  ili: i69536
+  members:
+  - comhthéacs
+  partOfSpeech: n
+06295743-n:
+  definition:
+  - confidence: 0.0
+    text: a string of words satisfying the grammatical rules of a language
+  hypernym:
+  - 06293304-n
+  - 08476263-n
+  ili: i69537
+  members:
+  - abairt
+  partOfSpeech: n
+06297048-n:
+  definition:
+  - confidence: 0.0
+    text: a unit of language that native speakers can identify
+  hypernym:
+  - 13831419-n
+  ili: i69544
+  members:
+  - focal
+  partOfSpeech: n
+06303429-n:
+  definition:
+  - confidence: 0.0
+    text: two words are homonyms if they are pronounced and spelled the same way but
+      have different meanings
+  hypernym:
+  - 06297048-n
+  ili: i69568
+  members:
+  - comhainm
+  partOfSpeech: n
+06303754-n:
+  definition:
+  - confidence: 0.0
+    text: a word that is more specific than a given word
+  hypernym:
+  - 06297048-n
+  ili: i69570
+  members:
+  - téarma cúng
+  - téarma fo-aicmeach
+  partOfSpeech: n
+06305609-n:
+  definition:
+  - confidence: 0.0
+    text: a word or phrase that reads the same backward as forward
+  hypernym:
+  - 06297048-n
+  ili: i69582
+  members:
+  - palandróm
+  partOfSpeech: n
+06314672-n:
+  definition:
+  - confidence: 0.0
+    text: two words that can be interchanged in a context are said to be synonymous
+      relative to that context
+  hypernym:
+  - 06297048-n
+  ili: i69607
+  members:
+  - comhchiallach
+  partOfSpeech: n
+06314878-n:
+  definition:
+  - confidence: 0.0
+    text: a word or expression used for some particular thing
+  hypernym:
+  - 06297048-n
+  ili: i69608
+  members:
+  - téarma
+  partOfSpeech: n
+06315049-n:
+  definition:
+  - confidence: 0.0
+    text: a system of words used to name things in a particular discipline
+  hypernym:
+  - 06297048-n
+  ili: i69609
+  members:
+  - ainmníocht
+  - téarmaíocht
+  partOfSpeech: n
+06319294-n:
+  definition:
+  - confidence: 0.0
+    text: an affix that is added in front of the word
+  hypernym:
+  - 13831419-n
+  ili: i69630
+  members:
+  - réimír
+  partOfSpeech: n
+06319977-n:
+  definition:
+  - confidence: 0.0
+    text: an affix that is added at the end of the word
+  hypernym:
+  - 13831419-n
+  ili: i69634
+  members:
+  - iarmhír
+  partOfSpeech: n
+06325134-n:
+  definition:
+  - confidence: 0.0
+    text: (grammar) an expression including a subject and predicate functioning as
+      a part of a complex sentence
+  hypernym:
+  - 06293304-n
+  - 08476263-n
+  ili: i69662
+  members:
+  - clásal
+  partOfSpeech: n
+06327041-n:
+  definition:
+  - confidence: 0.0
+    text: an expression consisting of one or more words forming a grammatical constituent
+      of a sentence
+  hypernym:
+  - 06293304-n
+  - 08476263-n
+  ili: i69672
+  members:
+  - abairt
+  - frása
+  partOfSpeech: n
+06327806-n:
+  definition:
+  - confidence: 0.0
+    text: (logic) what is predicated of the subject of a proposition; the second term
+      in a proposition is predicated of the first term by means of the copula
+  hypernym:
+  - 06293304-n
+  - 08476263-n
+  ili: i69676
+  members:
+  - preideacáid
+  partOfSpeech: n
+06331794-n:
+  definition:
+  - confidence: 0.0
+    text: a content word that qualifies the meaning of a noun or verb
+  hypernym:
+  - 06297048-n
+  ili: i69700
+  members:
+  - cáilitheoir
+  partOfSpeech: n
+06332695-n:
+  definition:
+  - confidence: 0.0
+    text: a word that expresses an attribute of something
+  hypernym:
+  - 06331794-n
+  ili: i69702
+  members:
+  - aidiacht
+  partOfSpeech: n
+06334277-n:
+  definition:
+  - confidence: 0.0
+    text: the superlative form of an adjective or adverb
+  hypernym:
+  - 06332695-n
+  ili: i69708
+  members:
+  - sárchéim
+  partOfSpeech: n
+06339636-n:
+  definition:
+  - confidence: 0.0
+    text: a grammatical category in inflected languages governing the agreement between
+      nouns and pronouns and adjectives; in some languages it is quite arbitrary but
+      in Indo-European languages it is usually based on sex or animateness
+  hypernym:
+  - 08014145-n
+  ili: i69735
+  members:
+  - inscne
+  partOfSpeech: n
+06344646-n:
+  definition:
+  - confidence: 0.0
+    text: a language unit by which a person or thing is known
+  hypernym:
+  - 13831419-n
+  ili: i69761
+  members:
+  - ainm
+  partOfSpeech: n
+06348677-n:
+  definition:
+  - confidence: 0.0
+    text: the name that precedes the surname
+  hypernym:
+  - 06344646-n
+  ili: i69777
+  members:
+  - céadainm
+  partOfSpeech: n
+06349528-n:
+  definition:
+  - confidence: 0.0
+    text: a name that has been assumed
+  hypernym:
+  - 06344646-n
+  ili: i69782
+  members:
+  - ailias
+  partOfSpeech: n
+06350786-n:
+  definition:
+  - confidence: 0.0
+    text: 'an identifying appellation signifying status or function: e.g. ''Mr.''
+      or ''General'''
+  hypernym:
+  - 06344646-n
+  ili: i69790
+  members:
+  - teideal
+  partOfSpeech: n
+06355208-n:
+  definition:
+  - confidence: 0.0
+    text: the name by which a geographical place is known
+  hypernym:
+  - 06344646-n
+  ili: i69817
+  members:
+  - logainm
+  partOfSpeech: n
+06355341-n:
+  definition:
+  - confidence: 0.0
+    text: a line of text serving to indicate what the passage below it is about
+  hypernym:
+  - 07025650-n
+  ili: i69818
+  members:
+  - ceannteideal
+  - teideal
+  partOfSpeech: n
+06357831-n:
+  definition:
+  - confidence: 0.0
+    text: a general or descriptive heading for a section of a written work
+  hypernym:
+  - 06355341-n
+  ili: i69832
+  members:
+  - teideal
+  partOfSpeech: n
+06358407-n:
+  definition:
+  - confidence: 0.0
+    text: secondary or explanatory title
+  hypernym:
+  - 06357831-n
+  ili: i69835
+  members:
+  - fotheideal
+  partOfSpeech: n
+06358958-n:
+  definition:
+  - confidence: 0.0
+    text: translation of foreign dialogue of a movie or TV program; usually displayed
+      at the bottom of the screen
+  hypernym:
+  - 06548380-n
+  ili: i69839
+  members:
+  - fotheideal
+  partOfSpeech: n
+06361198-n:
+  definition:
+  - confidence: 0.0
+    text: a transcription from one alphabet to another
+  hypernym:
+  - 00033319-n
+  ili: i69850
+  members:
+  - traslitriú
+  partOfSpeech: n
+06361322-n:
+  definition:
+  - confidence: 0.0
+    text: a transcription intended to represent each distinct speech sound with a
+      separate symbol
+  hypernym:
+  - 00033319-n
+  ili: i69851
+  members:
+  - fogharscríobh
+  partOfSpeech: n
+06362609-n:
+  definition:
+  - confidence: 0.0
+    text: a method of representing the sounds of a language by written or printed
+      symbols
+  hypernym:
+  - 00033319-n
+  ili: i69858
+  members:
+  - ceartlitriú
+  - litriú
+  - ortagrafaíocht
+  partOfSpeech: n
+06364852-n:
+  definition:
+  - confidence: 0.0
+    text: forming words with letters according to the principles underlying accepted
+      usage
+  hypernym:
+  - 06362609-n
+  ili: i69869
+  members:
+  - litriú
+  partOfSpeech: n
+06365341-n:
+  definition:
+  - confidence: 0.0
+    text: a coding system used for transmitting messages requiring brevity or secrecy
+  hypernym:
+  - 00033319-n
+  ili: i69872
+  members:
+  - cód
+  partOfSpeech: n
+06366181-n:
+  definition:
+  - confidence: 0.0
+    text: code consisting of a series of vertical bars of variable width that are
+      scanned by a laser; printed on consumer product packages to identify the item
+      for a computer that provides the price and registers inventory information
+  hypernym:
+  - 06365341-n
+  ili: i69876
+  members:
+  - barrachód
+  partOfSpeech: n
+06367112-n:
+  definition:
+  - confidence: 0.0
+    text: a code of letters and digits added to a postal address to aid in the sorting
+      of mail
+  hypernym:
+  - 06365341-n
+  ili: i69881
+  members:
+  - cód poist
+  - postchód
+  partOfSpeech: n
+06367301-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) the symbolic arrangement of data or instructions in a
+      computer program or the set of such instructions
+  hypernym:
+  - 00033319-n
+  ili: i69882
+  members:
+  - cód
+  partOfSpeech: n
+06370307-n:
+  definition:
+  - confidence: 0.0
+    text: a document connected to the World Wide Web and viewable by anyone connected
+      to the internet who has a web browser
+  hypernym:
+  - 06520807-n
+  ili: i69896
+  members:
+  - leathanach gréasáin
+  partOfSpeech: n
+06370600-n:
+  definition:
+  - confidence: 0.0
+    text: a computer connected to the internet that maintains a series of web pages
+      on the World Wide Web; a computer connected to the internet that maintains a
+      series of web pages on the World Wide Web
+  hypernym:
+  - 03086983-n
+  ili: i69898
+  members:
+  - suíomh
+  partOfSpeech: n
+06373177-n:
+  definition:
+  - confidence: 0.0
+    text: a writing system whose characters represent syllables
+  hypernym:
+  - 06362609-n
+  ili: i69911
+  members:
+  - siollabra
+  partOfSpeech: n
+06374360-n:
+  definition:
+  - confidence: 0.0
+    text: the work of a writer; anything expressed in letters of the alphabet (especially
+      when considered from the point of view of style and effect)
+  hypernym:
+  - 00033319-n
+  ili: i69919
+  members:
+  - scríbhinn
+  partOfSpeech: n
+06376048-n:
+  definition:
+  - confidence: 0.0
+    text: creative writing of recognized artistic value
+  hypernym:
+  - 06374360-n
+  ili: i69924
+  members:
+  - litríocht
+  partOfSpeech: n
+06376547-n:
+  definition:
+  - confidence: 0.0
+    text: published writings in a particular style on a particular subject
+  hypernym:
+  - 06374360-n
+  ili: i69925
+  members:
+  - litríocht
+  partOfSpeech: n
+06379324-n:
+  definition:
+  - confidence: 0.0
+    text: an extended fictional work in prose; usually in the form of a story
+  hypernym:
+  - 06422547-n
+  ili: i69939
+  members:
+  - úrscéal
+  partOfSpeech: n
+06383036-n:
+  definition:
+  - confidence: 0.0
+    text: a story about mythical or supernatural beings or events
+  hypernym:
+  - 06374360-n
+  ili: i69960
+  members:
+  - finscéal
+  partOfSpeech: n
+06383718-n:
+  definition:
+  - confidence: 0.0
+    text: a short moral story (often with animal characters)
+  hypernym:
+  - 06374360-n
+  ili: i69963
+  members:
+  - fabhalscéal
+  partOfSpeech: n
+06384303-n:
+  definition:
+  - confidence: 0.0
+    text: a traditional story accepted as history; serves to explain the world view
+      of a people
+  hypernym:
+  - 06374360-n
+  ili: i69966
+  members:
+  - miotas
+  partOfSpeech: n
+06395302-n:
+  definition:
+  - confidence: 0.0
+    text: a lyric poem with complex stanza forms
+  hypernym:
+  - 06374360-n
+  ili: i70029
+  members:
+  - óid
+  partOfSpeech: n
+06399181-n:
+  definition:
+  - confidence: 0.0
+    text: a short line of text that a web site puts on your computer's hard drive
+      when you access the web site
+  hypernym:
+  - 06399623-n
+  ili: i70055
+  members:
+  - fianán
+  partOfSpeech: n
+06399623-n:
+  definition:
+  - confidence: 0.0
+    text: the words of something written
+  hypernym:
+  - 06374360-n
+  ili: i70058
+  members:
+  - téacs
+  partOfSpeech: n
+06400752-n:
+  definition:
+  - confidence: 0.0
+    text: typewritten matter especially a typewritten copy of a manuscript
+  hypernym:
+  - 06374360-n
+  ili: i70062
+  members:
+  - clóscríbhinn
+  partOfSpeech: n
+06402605-n:
+  definition:
+  - confidence: 0.0
+    text: any of the various versions in the development of a written work
+  hypernym:
+  - 06399623-n
+  ili: i70074
+  members:
+  - dréacht
+  partOfSpeech: n
+06403644-n:
+  definition:
+  - confidence: 0.0
+    text: a self-contained part of a larger composition (written or musical)
+  hypernym:
+  - 06374360-n
+  - 07034009-n
+  ili: i70080
+  members:
+  - alt
+  - cuid
+  - rannóg
+  - roinn
+  partOfSpeech: n
+06404578-n:
+  definition:
+  - confidence: 0.0
+    text: a separate section of a legal document (as a statute or contract or will)
+  hypernym:
+  - 06403644-n
+  ili: i70083
+  members:
+  - airteagal
+  - clásal
+  partOfSpeech: n
+06407785-n:
+  definition:
+  - confidence: 0.0
+    text: a subdivision of a written work; usually numbered and titled
+  hypernym:
+  - 06403644-n
+  ili: i70093
+  members:
+  - caibidil
+  partOfSpeech: n
+06408573-n:
+  definition:
+  - confidence: 0.0
+    text: the first section of a communication
+  hypernym:
+  - 06403644-n
+  ili: i70098
+  members:
+  - réamhrá
+  partOfSpeech: n
+06409546-n:
+  definition:
+  - confidence: 0.0
+    text: a short introductory essay preceding the text of a book
+  hypernym:
+  - 06408573-n
+  ili: i70104
+  members:
+  - réamhrá
+  partOfSpeech: n
+06409733-n:
+  definition:
+  - confidence: 0.0
+    text: a preliminary introduction to a statute or constitution (usually explaining
+      its purpose)
+  hypernym:
+  - 06408573-n
+  ili: i70105
+  members:
+  - brollach
+  - réamhrá
+  partOfSpeech: n
+06410980-n:
+  definition:
+  - confidence: 0.0
+    text: supplementary material that is collected and appended at the back of a book
+  hypernym:
+  - 06411274-n
+  ili: i70111
+  members:
+  - aguisín
+  partOfSpeech: n
+06411274-n:
+  definition:
+  - confidence: 0.0
+    text: textual matter that is added onto a publication; usually at the end
+  hypernym:
+  - 06374360-n
+  ili: i70113
+  members:
+  - aguisín
+  partOfSpeech: n
+06411638-n:
+  definition:
+  - confidence: 0.0
+    text: one of several distinct subdivisions of a text intended to separate ideas;
+      the beginning is usually marked by a new indented line
+  hypernym:
+  - 06374360-n
+  ili: i70115
+  members:
+  - mír
+  partOfSpeech: n
+06412153-n:
+  definition:
+  - confidence: 0.0
+    text: a passage selected from a larger work
+  hypernym:
+  - 06403644-n
+  ili: i70117
+  members:
+  - sliocht
+  partOfSpeech: n
+06417342-n:
+  definition:
+  - confidence: 0.0
+    text: letters inscribed (especially words engraved or carved) on something
+  hypernym:
+  - 06374360-n
+  ili: i70148
+  members:
+  - inscríbhinn
+  partOfSpeech: n
+06418864-n:
+  definition:
+  - confidence: 0.0
+    text: handwritten book or document
+  hypernym:
+  - 06374360-n
+  ili: i70158
+  members:
+  - lámhscríbhinn
+  partOfSpeech: n
+06420728-n:
+  definition:
+  - confidence: 0.0
+    text: a treatise advancing a new point of view resulting from research; usually
+      a requirement for an advanced academic degree
+  hypernym:
+  - 06374360-n
+  ili: i70168
+  members:
+  - tráchtas
+  partOfSpeech: n
+06421091-n:
+  definition:
+  - confidence: 0.0
+    text: a detailed and documented treatise on a particular subject
+  hypernym:
+  - 06374360-n
+  ili: i70170
+  members:
+  - monagraf
+  partOfSpeech: n
+06421395-n:
+  definition:
+  - confidence: 0.0
+    text: an essay (especially one written as an assignment)
+  hypernym:
+  - 06374360-n
+  ili: i70172
+  members:
+  - páipéar
+  partOfSpeech: n
+06422547-n:
+  definition:
+  - confidence: 0.0
+    text: a written work or composition published as a book
+  hypernym:
+  - 06601855-n
+  - 06374360-n
+  ili: i70180
+  members:
+  - leabhar
+  partOfSpeech: n
+06425532-n:
+  definition:
+  - confidence: 0.0
+    text: a small book usually having a paper cover
+  hypernym:
+  - 06422547-n
+  ili: i70195
+  members:
+  - bileog
+  - bróisiúr
+  - leabhrán
+  partOfSpeech: n
+06426015-n:
+  definition:
+  - confidence: 0.0
+    text: a book prepared for use in schools or colleges
+  hypernym:
+  - 06422547-n
+  ili: i70198
+  members:
+  - téacsleabhar
+  partOfSpeech: n
+06427849-n:
+  definition:
+  - confidence: 0.0
+    text: a book or pamphlet containing an enumeration of things
+  hypernym:
+  - 06422547-n
+  ili: i70211
+  members:
+  - catalóg
+  partOfSpeech: n
+06428095-n:
+  definition:
+  - confidence: 0.0
+    text: a book containing common expressions in a foreign language along with their
+      translations
+  hypernym:
+  - 06422547-n
+  ili: i70212
+  members:
+  - leabhar frásaí
+  partOfSpeech: n
+06430544-n:
+  definition:
+  - confidence: 0.0
+    text: a reference book containing an alphabetical list of words with information
+      about them
+  hypernym:
+  - 06422547-n
+  ili: i70226
+  members:
+  - foclóir
+  partOfSpeech: n
+06432424-n:
+  definition:
+  - confidence: 0.0
+    text: an alphabetical list of technical terms in some specialized field of knowledge;
+      usually published as an appendix to a text on that field
+  hypernym:
+  - 06422547-n
+  ili: i70238
+  members:
+  - gluais
+  partOfSpeech: n
+06432944-n:
+  definition:
+  - confidence: 0.0
+    text: a concise reference book providing specific information about a subject
+      or location
+  hypernym:
+  - 06422547-n
+  ili: i70241
+  members:
+  - lámhleabhar
+  partOfSpeech: n
+06433328-n:
+  definition:
+  - confidence: 0.0
+    text: a small handbook
+  hypernym:
+  - 06432944-n
+  ili: i70243
+  members:
+  - lámhleabhar
+  partOfSpeech: n
+06434383-n:
+  definition:
+  - confidence: 0.0
+    text: something that offers basic information or instruction
+  hypernym:
+  - 06432944-n
+  ili: i70250
+  members:
+  - eolaire
+  - treoirleabhar
+  partOfSpeech: n
+06435262-n:
+  definition:
+  - confidence: 0.0
+    text: an alphabetical list of names and addresses
+  hypernym:
+  - 06422547-n
+  ili: i70256
+  members:
+  - eolaire
+  partOfSpeech: n
+06437781-n:
+  definition:
+  - confidence: 0.0
+    text: the number is used in calling a particular telephone
+  hypernym:
+  - 06804229-n
+  ili: i70266
+  members:
+  - uimhir theileafóin
+  partOfSpeech: n
+06439057-n:
+  definition:
+  - confidence: 0.0
+    text: a reference work (often in several volumes) containing articles on various
+      topics (often arranged in alphabetical order) dealing with the entire range
+      of human knowledge or with some particular specialty
+  hypernym:
+  - 06422547-n
+  ili: i70273
+  members:
+  - ciclipéid
+  partOfSpeech: n
+06439501-n:
+  definition:
+  - confidence: 0.0
+    text: putting something (as a literary work or a legislative bill) into acceptable
+      form
+  hypernym:
+  - 06374360-n
+  ili: i70275
+  members:
+  - eagarthóireacht
+  partOfSpeech: n
+06440207-n:
+  definition:
+  - confidence: 0.0
+    text: something substituted for an error
+  hypernym:
+  - 06439501-n
+  ili: i70278
+  members:
+  - ceartú
+  - ceartúchán
+  partOfSpeech: n
+06443410-n:
+  definition:
+  - confidence: 0.0
+    text: the sacred writings of the Christian religions
+  hypernym:
+  - 06374360-n
+  ili: i70293
+  members:
+  - Bíobla
+  partOfSpeech: n
+06478678-n:
+  definition:
+  - confidence: 0.0
+    text: a brief statement that presents the main points in a concise form
+  hypernym:
+  - 06735202-n
+  ili: i70442
+  members:
+  - achoimre
+  partOfSpeech: n
+06480894-n:
+  definition:
+  - confidence: 0.0
+    text: a general summary of a subject
+  hypernym:
+  - 06478678-n
+  ili: i70455
+  members:
+  - forbhreathnú
+  - forléargas
+  partOfSpeech: n
+06481744-n:
+  definition:
+  - confidence: 0.0
+    text: writing that provides information (especially information of an official
+      nature)
+  hypernym:
+  - 06374360-n
+  ili: i70460
+  members:
+  - cáipéis
+  - doiciméad
+  partOfSpeech: n
+06482593-n:
+  definition:
+  - confidence: 0.0
+    text: a document listing the alternatives that is used in voting
+  hypernym:
+  - 06481744-n
+  ili: i70462
+  members:
+  - ballóid
+  partOfSpeech: n
+06483016-n:
+  definition:
+  - confidence: 0.0
+    text: a document attesting to the truth of certain stated facts
+  hypernym:
+  - 06481744-n
+  ili: i70465
+  members:
+  - deimhniú
+  - teastas
+  partOfSpeech: n
+06483408-n:
+  definition:
+  - confidence: 0.0
+    text: a document incorporating an institution and specifying its rights; includes
+      the articles of incorporation and the certificate of incorporation
+  hypernym:
+  - 06481744-n
+  ili: i70466
+  members:
+  - cairt
+  partOfSpeech: n
+06484839-n:
+  definition:
+  - confidence: 0.0
+    text: a document granting exclusive right to publish and sell literary or musical
+      or artistic work
+  hypernym:
+  - 06481744-n
+  - 05182180-n
+  ili: i70473
+  members:
+  - cóipcheart
+  partOfSpeech: n
+06485234-n:
+  definition:
+  - confidence: 0.0
+    text: a printed document with spaces in which to write
+  hypernym:
+  - 06481744-n
+  ili: i70475
+  members:
+  - foirm
+  partOfSpeech: n
+06485793-n:
+  definition:
+  - confidence: 0.0
+    text: a form containing a set of questions; submitted to people to gain statistical
+      information
+  hypernym:
+  - 06485234-n
+  ili: i70479
+  members:
+  - ceistiúchán
+  - ceistneoir
+  partOfSpeech: n
+06489042-n:
+  definition:
+  - confidence: 0.0
+    text: a card certifying the identity of the bearer
+  hypernym:
+  - 00033319-n
+  ili: i70494
+  members:
+  - cárta
+  partOfSpeech: n
+06490253-n:
+  definition:
+  - confidence: 0.0
+    text: a document certifying the successful completion of a course of study
+  hypernym:
+  - 06483016-n
+  ili: i70502
+  members:
+  - dioplóma
+  partOfSpeech: n
+06491336-n:
+  definition:
+  - confidence: 0.0
+    text: (law) a document that states some contractual relationship or grants some
+      right
+  hypernym:
+  - 06481744-n
+  ili: i70508
+  members:
+  - ionstraim
+  partOfSpeech: n
+06492991-n:
+  definition:
+  - confidence: 0.0
+    text: a database containing an ordered array of items (names or topics)
+  hypernym:
+  - 06650349-n
+  ili: i70513
+  members:
+  - liosta
+  partOfSpeech: n
+06494090-n:
+  definition:
+  - confidence: 0.0
+    text: a distinct part that can be specified separately in a group of things that
+      could be enumerated on a list
+  hypernym:
+  - 13831419-n
+  ili: i70514
+  members:
+  - mír
+  - pointe
+  - ítim
+  partOfSpeech: n
+06498467-n:
+  definition:
+  - confidence: 0.0
+    text: a list of writings with time and place of publication (such as the writings
+      of a single author or the works referred to in preparing a document etc.)
+  hypernym:
+  - 06492991-n
+  ili: i70536
+  members:
+  - leabharliosta
+  partOfSpeech: n
+06499232-n:
+  definition:
+  - confidence: 0.0
+    text: a list or register of events (appointments or social events or court cases
+      etc.)
+  hypernym:
+  - 06492991-n
+  ili: i70541
+  members:
+  - féilire
+  partOfSpeech: n
+06499734-n:
+  definition:
+  - confidence: 0.0
+    text: a complete list of things; usually arranged systematically
+  hypernym:
+  - 06492991-n
+  ili: i70544
+  members:
+  - catalóg
+  partOfSpeech: n
+06501061-n:
+  definition:
+  - confidence: 0.0
+    text: a list of items (names or tasks etc.) to be checked or consulted
+  hypernym:
+  - 06492991-n
+  ili: i70551
+  members:
+  - seicliosta
+  partOfSpeech: n
+06503777-n:
+  definition:
+  - confidence: 0.0
+    text: an alphabetical listing of names and topics along with page numbers where
+      they are discussed
+  hypernym:
+  - 06492991-n
+  ili: i70569
+  members:
+  - innéacs
+  partOfSpeech: n
+06504930-n:
+  definition:
+  - confidence: 0.0
+    text: a list of dishes available at a restaurant
+  hypernym:
+  - 06492991-n
+  ili: i70577
+  members:
+  - biachlár
+  partOfSpeech: n
+06505383-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) a list of options available to a computer user
+  hypernym:
+  - 06492991-n
+  ili: i70579
+  members:
+  - roghchlár
+  partOfSpeech: n
+06506144-n:
+  definition:
+  - confidence: 0.0
+    text: a list of the financial assets held by an individual or a bank or other
+      financial institution
+  hypernym:
+  - 06492991-n
+  ili: i70584
+  members:
+  - punann
+  partOfSpeech: n
+06506529-n:
+  definition:
+  - confidence: 0.0
+    text: a listing of prices for different goods or services
+  hypernym:
+  - 06492991-n
+  ili: i70586
+  members:
+  - praghasliosta
+  partOfSpeech: n
+06506991-n:
+  definition:
+  - confidence: 0.0
+    text: a list of names
+  hypernym:
+  - 06492991-n
+  ili: i70589
+  members:
+  - uainchlár
+  partOfSpeech: n
+06507319-n:
+  definition:
+  - confidence: 0.0
+    text: an ordered list of times at which things are planned to occur
+  hypernym:
+  - 06492991-n
+  ili: i70591
+  members:
+  - sceideal
+  partOfSpeech: n
+06507616-n:
+  definition:
+  - confidence: 0.0
+    text: a list of applicants winnowed from a longer list who have been deemed suitable
+      and from which the successful person will be chosen
+  hypernym:
+  - 06492991-n
+  ili: i70593
+  members:
+  - gearrliosta
+  partOfSpeech: n
+06508490-n:
+  definition:
+  - confidence: 0.0
+    text: a schedule listing events and the times at which they will take place
+  hypernym:
+  - 06507319-n
+  ili: i70599
+  members:
+  - amchlár
+  - tráthchlár
+  partOfSpeech: n
+06509450-n:
+  definition:
+  - confidence: 0.0
+    text: a character set that includes letters and is used to write a language
+  hypernym:
+  - 06492991-n
+  - 06362609-n
+  ili: i70607
+  members:
+  - aibítir
+  partOfSpeech: n
+06512928-n:
+  definition:
+  - confidence: 0.0
+    text: a document issued by a country to a citizen allowing that person to travel
+      abroad and re-enter the home country
+  hypernym:
+  - 06491336-n
+  ili: i70617
+  members:
+  - pas
+  partOfSpeech: n
+06513132-n:
+  definition:
+  - confidence: 0.0
+    text: a document granting an inventor sole rights to an invention
+  hypernym:
+  - 06481744-n
+  ili: i70618
+  members:
+  - paitinn
+  partOfSpeech: n
+06513909-n:
+  definition:
+  - confidence: 0.0
+    text: a customs document listing the contents put on a ship or plane
+  hypernym:
+  - 06491336-n
+  ili: i70622
+  members:
+  - lastliosta
+  partOfSpeech: n
+06515542-n:
+  definition:
+  - confidence: 0.0
+    text: a collection of papers containing detailed information about a particular
+      person or subject (usually a person's record)
+  hypernym:
+  - 06659969-n
+  ili: i70630
+  members:
+  - comhad
+  - sainchomhad
+  partOfSpeech: n
+06515715-n:
+  definition:
+  - confidence: 0.0
+    text: an item inserted in a written record
+  hypernym:
+  - 06659969-n
+  ili: i70631
+  members:
+  - iontráil
+  partOfSpeech: n
+06516956-n:
+  definition:
+  - confidence: 0.0
+    text: a sequence of related events arranged in chronological order and displayed
+      along a line (usually drawn left to right or top to bottom)
+  hypernym:
+  - 06659969-n
+  ili: i70639
+  members:
+  - amlíne
+  partOfSpeech: n
+06517508-n:
+  definition:
+  - confidence: 0.0
+    text: a reproduction of a written record (e.g. of a legal or school record)
+  hypernym:
+  - 06659969-n
+  ili: i70643
+  members:
+  - cóip
+  partOfSpeech: n
+06518182-n:
+  definition:
+  - confidence: 0.0
+    text: a written proposal or reminder
+  hypernym:
+  - 06659969-n
+  ili: i70648
+  members:
+  - meabhrán
+  - meamram
+  partOfSpeech: n
+06518748-n:
+  definition:
+  - confidence: 0.0
+    text: a message that helps you remember something
+  hypernym:
+  - 06611268-n
+  ili: i70652
+  members:
+  - meabhrúchán
+  partOfSpeech: n
+06519032-n:
+  definition:
+  - confidence: 0.0
+    text: an official written record of names or events or transactions
+  hypernym:
+  - 06659969-n
+  ili: i70654
+  members:
+  - clár
+  - rolla
+  partOfSpeech: n
+06520807-n:
+  definition:
+  - confidence: 0.0
+    text: a set of related records (either written or electronic) kept together
+  hypernym:
+  - 06659969-n
+  ili: i70665
+  members:
+  - comhad
+  partOfSpeech: n
+06523865-n:
+  definition:
+  - confidence: 0.0
+    text: a formal expression by a meeting; agreed to by a vote
+  hypernym:
+  - 06481744-n
+  ili: i70681
+  members:
+  - rún
+  partOfSpeech: n
+06524571-n:
+  definition:
+  - confidence: 0.0
+    text: a verbal or written request for assistance or employment or admission to
+      a school
+  hypernym:
+  - 06525357-n
+  ili: i70684
+  members:
+  - iarratas
+  partOfSpeech: n
+06525357-n:
+  definition:
+  - confidence: 0.0
+    text: a formal message requesting something that is submitted to an authority
+  hypernym:
+  - 06611268-n
+  ili: i70690
+  members:
+  - iarraidh
+  - iarratas
+  partOfSpeech: n
+06527818-n:
+  definition:
+  - confidence: 0.0
+    text: an account of the series of events making up a person's life
+  hypernym:
+  - 06659969-n
+  ili: i70703
+  members:
+  - beathaisnéis
+  partOfSpeech: n
+06528078-n:
+  definition:
+  - confidence: 0.0
+    text: a biography of yourself
+  hypernym:
+  - 06527818-n
+  ili: i70704
+  members:
+  - dírbheathaisnéis
+  partOfSpeech: n
+06528395-n:
+  definition:
+  - confidence: 0.0
+    text: biographical sketch
+  hypernym:
+  - 06527818-n
+  ili: i70706
+  members:
+  - próifíl
+  partOfSpeech: n
+06528946-n:
+  definition:
+  - confidence: 0.0
+    text: an itemized statement of money owed for goods shipped or services rendered
+  hypernym:
+  - 06481744-n
+  ili: i70710
+  members:
+  - bille
+  - cuntas
+  - sonrasc
+  partOfSpeech: n
+06530059-n:
+  definition:
+  - confidence: 0.0
+    text: a negotiable certificate that can be detached and redeemed as needed
+  hypernym:
+  - 06481744-n
+  ili: i70718
+  members:
+  - cúpón
+  - dearbhán
+  partOfSpeech: n
+06530710-n:
+  definition:
+  - confidence: 0.0
+    text: a commercial document showing that the holder is entitled to something (as
+      to ride on public transportation or to enter a public entertainment)
+  hypernym:
+  - 06481744-n
+  ili: i70722
+  members:
+  - ticéad
+  partOfSpeech: n
+06531360-n:
+  definition:
+  - confidence: 0.0
+    text: a complimentary ticket
+  hypernym:
+  - 06530710-n
+  ili: i70725
+  members:
+  - pas
+  partOfSpeech: n
+06532935-n:
+  definition:
+  - confidence: 0.0
+    text: a binding agreement between two or more persons that is enforceable by law
+  hypernym:
+  - 06783066-n
+  - 06491336-n
+  ili: i70736
+  members:
+  - conradh
+  partOfSpeech: n
+06535123-n:
+  definition:
+  - confidence: 0.0
+    text: a contract granting use or occupation of property during a specified time
+      for a specified payment
+  hypernym:
+  - 06532935-n
+  ili: i70744
+  members:
+  - léas
+  partOfSpeech: n
+06535632-n:
+  definition:
+  - confidence: 0.0
+    text: written contract or certificate of insurance
+  hypernym:
+  - 06532935-n
+  ili: i70747
+  members:
+  - polasaí
+  partOfSpeech: n
+06537995-n:
+  definition:
+  - confidence: 0.0
+    text: a certificate or voucher acknowledging a debt
+  hypernym:
+  - 06491336-n
+  ili: i70760
+  members:
+  - bintiúr
+  partOfSpeech: n
+06538610-n:
+  definition:
+  - confidence: 0.0
+    text: a contract granting the right to operate a subsidiary business
+  hypernym:
+  - 06532935-n
+  ili: i70764
+  members:
+  - lamháltas
+  partOfSpeech: n
+06541210-n:
+  definition:
+  - confidence: 0.0
+    text: a commercial document used to request someone to supply something in return
+      for payment and providing specifications and quantities
+  hypernym:
+  - 06481744-n
+  ili: i70778
+  members:
+  - ordú
+  partOfSpeech: n
+06544321-n:
+  definition:
+  - confidence: 0.0
+    text: legal document setting forth rules governing a particular kind of activity
+  hypernym:
+  - 06491336-n
+  ili: i70796
+  members:
+  - dlí
+  partOfSpeech: n
+06545639-n:
+  definition:
+  - confidence: 0.0
+    text: law determining the fundamental political principles of a government
+  hypernym:
+  - 06544321-n
+  ili: i70802
+  members:
+  - bunreacht
+  partOfSpeech: n
+06546909-n:
+  definition:
+  - confidence: 0.0
+    text: the code of laws of the Salian Franks and other German tribes
+  hypernym:
+  - 06680062-n
+  ili: i70807
+  members:
+  - Dlí Saileach
+  partOfSpeech: n
+06547026-n:
+  definition:
+  - confidence: 0.0
+    text: (civil law) a law established by following earlier judicial decisions
+  hypernym:
+  - 08458195-n
+  ili: i70808
+  members:
+  - fasach
+  partOfSpeech: n
+06547213-n:
+  definition:
+  - confidence: 0.0
+    text: law enacted by a legislative body
+  hypernym:
+  - 08458195-n
+  ili: i70809
+  members:
+  - reachtaíocht
+  partOfSpeech: n
+06548380-n:
+  definition:
+  - confidence: 0.0
+    text: a written communication in a second language having the same meaning as
+      the written communication in a first language
+  hypernym:
+  - 06659969-n
+  ili: i70814
+  members:
+  - aistriú
+  - aistriúchán
+  partOfSpeech: n
+06548844-n:
+  definition:
+  - confidence: 0.0
+    text: a statute in draft before it becomes law
+  hypernym:
+  - 06491336-n
+  ili: i70816
+  members:
+  - beart
+  - bille
+  partOfSpeech: n
+06551761-n:
+  definition:
+  - confidence: 0.0
+    text: a legally binding command or decision entered on the court record (as if
+      issued by a court or judge)
+  hypernym:
+  - 06491336-n
+  ili: i70833
+  members:
+  - ordú
+  partOfSpeech: n
+06554038-n:
+  definition:
+  - confidence: 0.0
+    text: a decree that prohibits something
+  hypernym:
+  - 06551761-n
+  ili: i70844
+  members:
+  - cosc
+  - toirmeasc
+  partOfSpeech: n
+06554258-n:
+  definition:
+  - confidence: 0.0
+    text: a judicial order forbidding some action until an event occurs or the order
+      is lifted
+  hypernym:
+  - 06551761-n
+  ili: i70845
+  members:
+  - bac
+  - fanacht
+  partOfSpeech: n
+06554821-n:
+  definition:
+  - confidence: 0.0
+    text: (law) a judicial remedy issued in order to prohibit a party from doing or
+      continuing to do a certain activity
+  hypernym:
+  - 06554038-n
+  ili: i70848
+  members:
+  - urghaire
+  partOfSpeech: n
+06557128-n:
+  definition:
+  - confidence: 0.0
+    text: a legal document signed and sealed and delivered to effect a transfer of
+      property and to show the legal right to possess it
+  hypernym:
+  - 06491336-n
+  ili: i70858
+  members:
+  - gníomhas
+  partOfSpeech: n
+06559050-n:
+  definition:
+  - confidence: 0.0
+    text: a writ from a court commanding police to perform specified acts
+  hypernym:
+  - 06564975-n
+  ili: i70869
+  members:
+  - barántas
+  partOfSpeech: n
+06561652-n:
+  definition:
+  - confidence: 0.0
+    text: a legal document giving official permission to do something
+  hypernym:
+  - 06491336-n
+  ili: i70883
+  members:
+  - cead
+  - ceadúnas
+  partOfSpeech: n
+06563775-n:
+  definition:
+  - confidence: 0.0
+    text: the legal document stating the reasons for a judicial decision
+  hypernym:
+  - 06491336-n
+  ili: i70895
+  members:
+  - breithiúnas
+  - tuairim
+  partOfSpeech: n
+06564975-n:
+  definition:
+  - confidence: 0.0
+    text: (law) a legal document issued by a court or judicial officer
+  hypernym:
+  - 06491336-n
+  ili: i70901
+  members:
+  - eascaire
+  partOfSpeech: n
+06568683-n:
+  definition:
+  - confidence: 0.0
+    text: a writ issued by authority of law; usually compels the defendant's attendance
+      in a civil suit; failure to appear results in a default judgment against the
+      defendant
+  hypernym:
+  - 06564975-n
+  ili: i70919
+  members:
+  - próis
+  partOfSpeech: n
+06571356-n:
+  definition:
+  - confidence: 0.0
+    text: (law) a statement in legal and logical form stating something on behalf
+      of a party to a legal proceeding
+  hypernym:
+  - 06735202-n
+  ili: i70931
+  members:
+  - pléadáil
+  partOfSpeech: n
+06573129-n:
+  definition:
+  - confidence: 0.0
+    text: (law) a defendant's answer by a factual matter (as distinguished from a
+      demurrer)
+  hypernym:
+  - 06571356-n
+  ili: i70937
+  members:
+  - pléadáil
+  partOfSpeech: n
+06576378-n:
+  definition:
+  - confidence: 0.0
+    text: an act passed by a legislative body
+  hypernym:
+  - 06491336-n
+  ili: i70953
+  members:
+  - reacht
+  partOfSpeech: n
+06578068-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) written programs or procedures or rules and associated
+      documentation pertaining to the operation of a computer system and that are
+      stored in read/write memory
+  hypernym:
+  - 06367301-n
+  ili: i70960
+  members:
+  - bogearra
+  - pacáiste
+  partOfSpeech: n
+06581154-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) a sequence of instructions that a computer can interpret
+      and execute
+  hypernym:
+  - 06578068-n
+  ili: i70974
+  members:
+  - ríomhchlár
+  partOfSpeech: n
+06582286-n:
+  definition:
+  - confidence: 0.0
+    text: a program that gives a computer instructions that provide the user with
+      tools to accomplish a task
+  hypernym:
+  - 06581154-n
+  ili: i70976
+  members:
+  - feidhmchlár
+  partOfSpeech: n
+06582823-n:
+  definition:
+  - confidence: 0.0
+    text: a Java application; an application program that uses the client's web browser
+      to provide a user interface
+  hypernym:
+  - 06582286-n
+  ili: i70978
+  members:
+  - feidhmchláirín
+  partOfSpeech: n
+06582981-n:
+  definition:
+  - confidence: 0.0
+    text: an application that divides the user's display into two or more windows
+      that can be scrolled independently
+  hypernym:
+  - 06582286-n
+  ili: i70979
+  members:
+  - fráma
+  partOfSpeech: n
+06583477-n:
+  definition:
+  - confidence: 0.0
+    text: a program used to view HTML documents
+  hypernym:
+  - 06582286-n
+  ili: i70981
+  members:
+  - brabhsálaí
+  partOfSpeech: n
+06585399-n:
+  definition:
+  - confidence: 0.0
+    text: a short set of commands to correct a bug in a computer program
+  hypernym:
+  - 06581154-n
+  ili: i70994
+  members:
+  - paiste
+  partOfSpeech: n
+06587403-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) a program that controls a display for the user (usually
+      on a computer monitor) and that allows the user to interact with the system
+  hypernym:
+  - 06581154-n
+  ili: i71007
+  members:
+  - comhéadan
+  partOfSpeech: n
+06588108-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) a program that translates and executes source language
+      statements one line at a time
+  hypernym:
+  - 06581154-n
+  ili: i71010
+  members:
+  - léirmhínitheoir
+  partOfSpeech: n
+06592128-n:
+  definition:
+  - confidence: 0.0
+    text: a screen-oriented interactive program enabling a user to lay out financial
+      data on the screen
+  hypernym:
+  - 06581154-n
+  ili: i71034
+  members:
+  - scarbhileog
+  partOfSpeech: n
+06594579-n:
+  definition:
+  - confidence: 0.0
+    text: a set sequence of steps, part of larger computer program
+  hypernym:
+  - 06578068-n
+  ili: i71048
+  members:
+  - feidhm
+  partOfSpeech: n
+06598848-n:
+  definition:
+  - confidence: 0.0
+    text: a link from a hypertext file to another location or file; typically activated
+      by clicking on a highlighted word or icon at a particular location on the screen
+  hypernym:
+  - 06367301-n
+  ili: i71070
+  members:
+  - hipearnasc
+  partOfSpeech: n
+06600607-n:
+  definition:
+  - confidence: 0.0
+    text: program listings or technical manuals describing the operation and use of
+      programs
+  hypernym:
+  - 06578068-n
+  ili: i71079
+  members:
+  - doiciméadacht
+  partOfSpeech: n
+06601855-n:
+  definition:
+  - confidence: 0.0
+    text: a copy of a printed work offered for distribution
+  hypernym:
+  - 04606723-n
+  ili: i71085
+  members:
+  - foilseachán
+  partOfSpeech: n
+06602727-n:
+  definition:
+  - confidence: 0.0
+    text: the form in which a text (especially a printed book) is published
+  hypernym:
+  - 06601855-n
+  ili: i71088
+  members:
+  - eagrán
+  partOfSpeech: n
+06605500-n:
+  definition:
+  - confidence: 0.0
+    text: a publication that appears at fixed intervals
+  hypernym:
+  - 06601855-n
+  ili: i71106
+  members:
+  - tréimhseachán
+  partOfSpeech: n
+06607555-n:
+  definition:
+  - confidence: 0.0
+    text: a periodic publication containing pictures and stories and articles of interest
+      to those who purchase it or subscribe to it
+  hypernym:
+  - 06601855-n
+  - 06264799-n
+  ili: i71119
+  members:
+  - iris
+  - irisleabhar
+  partOfSpeech: n
+06609182-n:
+  definition:
+  - confidence: 0.0
+    text: one of a series published periodically
+  hypernym:
+  - 06605500-n
+  ili: i71128
+  members:
+  - eagrán
+  partOfSpeech: n
+06609819-n:
+  definition:
+  - confidence: 0.0
+    text: a periodical dedicated to a particular subject
+  hypernym:
+  - 06605500-n
+  ili: i71131
+  members:
+  - irisleabhar
+  partOfSpeech: n
+06611268-n:
+  definition:
+  - confidence: 0.0
+    text: content communicating a message; what something is about
+  hypernym:
+  - 00033319-n
+  ili: i71140
+  members:
+  - ábhar
+  partOfSpeech: n
+06612141-n:
+  definition:
+  - confidence: 0.0
+    text: the subject matter of a conversation or discussion
+  hypernym:
+  - 06611268-n
+  ili: i71142
+  members:
+  - topaic
+  - téama
+  - ábhar
+  partOfSpeech: n
+06613680-n:
+  definition:
+  - confidence: 0.0
+    text: the message that is intended or expressed or signified
+  hypernym:
+  - 06611268-n
+  ili: i71150
+  members:
+  - brí
+  partOfSpeech: n
+06614825-n:
+  definition:
+  - confidence: 0.0
+    text: the meaning of a word or expression; the way in which a word or expression
+      or situation can be interpreted
+  hypernym:
+  - 06613680-n
+  ili: i71154
+  members:
+  - brí
+  - ciall
+  partOfSpeech: n
+06619161-n:
+  definition:
+  - confidence: 0.0
+    text: a brief version of the essential meaning of something
+  hypernym:
+  - 06613680-n
+  ili: i71180
+  members:
+  - pointe
+  partOfSpeech: n
+06619692-n:
+  definition:
+  - confidence: 0.0
+    text: a message that seems to convey no meaning
+  hypernym:
+  - 06611268-n
+  ili: i71183
+  members:
+  - seafóid
+  partOfSpeech: n
+06625409-n:
+  definition:
+  - confidence: 0.0
+    text: a passage or expression that is quoted or cited
+  hypernym:
+  - 06412153-n
+  ili: i71219
+  members:
+  - athfhriotal
+  - athlua
+  partOfSpeech: n
+06626039-n:
+  definition:
+  - confidence: 0.0
+    text: a form of entertainment that enacts a story by sound and a sequence of images
+      giving the illusion of continuous movement
+  hypernym:
+  - 00022119-n
+  ili: i71223
+  members:
+  - scannán
+  partOfSpeech: n
+06627379-n:
+  definition:
+  - confidence: 0.0
+    text: the principal (full-length) film in a program at a movie theater
+  hypernym:
+  - 06626039-n
+  ili: i71227
+  members:
+  - príomhscannán
+  partOfSpeech: n
+06631935-n:
+  definition:
+  - confidence: 0.0
+    text: a radio or television show
+  hypernym:
+  - 00430033-n
+  ili: i71256
+  members:
+  - clár
+  partOfSpeech: n
+06632357-n:
+  definition:
+  - confidence: 0.0
+    text: a program devoted to current events, often using interviews and commentary
+  hypernym:
+  - 06631935-n
+  ili: i71258
+  members:
+  - nuacht
+  partOfSpeech: n
+06634527-n:
+  definition:
+  - confidence: 0.0
+    text: a serialized program usually dealing with sentimentalized family matters
+      that is broadcast on radio or television (frequently sponsored by a company
+      advertising soap products)
+  hypernym:
+  - 06631935-n
+  ili: i71272
+  members:
+  - sobalchlár
+  - sobaldráma
+  partOfSpeech: n
+06636121-n:
+  definition:
+  - confidence: 0.0
+    text: communication by the exchange of letters
+  hypernym:
+  - 06286287-n
+  ili: i71284
+  members:
+  - comhfhreagras
+  partOfSpeech: n
+06636668-n:
+  definition:
+  - confidence: 0.0
+    text: a written message addressed to a person or organization
+  hypernym:
+  - 06399623-n
+  - 00022119-n
+  ili: i71287
+  members:
+  - litir
+  partOfSpeech: n
+06637569-n:
+  definition:
+  - confidence: 0.0
+    text: a letter from the pope sent to all Roman Catholic bishops throughout the
+      world
+  hypernym:
+  - 06636668-n
+  ili: i71291
+  members:
+  - imlitir
+  partOfSpeech: n
+06638793-n:
+  definition:
+  - confidence: 0.0
+    text: a short personal letter
+  hypernym:
+  - 06636668-n
+  ili: i71301
+  members:
+  - nóta
+  partOfSpeech: n
+06639513-n:
+  definition:
+  - confidence: 0.0
+    text: a rectangular piece of stiff paper used to send messages (may have printed
+      greetings or pictures)
+  hypernym:
+  - 06636121-n
+  ili: i71306
+  members:
+  - cárta
+  partOfSpeech: n
+06642524-n:
+  definition:
+  - confidence: 0.0
+    text: (usually plural) an acknowledgment or expression of good will (especially
+      on meeting)
+  hypernym:
+  - 06611268-n
+  ili: i71323
+  members:
+  - beannacht
+  partOfSpeech: n
+06644013-n:
+  definition:
+  - confidence: 0.0
+    text: kindness in welcoming guests or strangers
+  hypernym:
+  - 06642524-n
+  ili: i71330
+  members:
+  - aíocht
+  partOfSpeech: n
+06645548-n:
+  definition:
+  - confidence: 0.0
+    text: a formal military gesture of respect
+  hypernym:
+  - 06642524-n
+  ili: i71340
+  members:
+  - cúirtéis
+  partOfSpeech: n
+06645870-n:
+  definition:
+  - confidence: 0.0
+    text: an expression of regret at having caused trouble for someone
+  hypernym:
+  - 06611268-n
+  ili: i71342
+  members:
+  - leithscéal
+  partOfSpeech: n
+06646403-n:
+  definition:
+  - confidence: 0.0
+    text: the act of acknowledging that someone has an occasion for celebration
+  hypernym:
+  - 00030657-n
+  ili: i71345
+  members:
+  - comhghairdeas
+  partOfSpeech: n
+06646883-n:
+  definition:
+  - confidence: 0.0
+    text: a message received and understood
+  hypernym:
+  - 06611268-n
+  ili: i71348
+  members:
+  - eolas
+  - faisnéis
+  partOfSpeech: n
+06647838-n:
+  definition:
+  - confidence: 0.0
+    text: misinformation that is deliberately disseminated in order to influence or
+      confuse rivals (foreign enemies or business competitors etc.)
+  hypernym:
+  - 06646883-n
+  ili: i71351
+  members:
+  - bréagaisnéis
+  partOfSpeech: n
+06648034-n:
+  definition:
+  - confidence: 0.0
+    text: information (data or ideas or observations) that can be used or reworked
+      into a finished form
+  hypernym:
+  - 06646883-n
+  ili: i71352
+  members:
+  - ábhar
+  partOfSpeech: n
+06648469-n:
+  definition:
+  - confidence: 0.0
+    text: true confidential information
+  hypernym:
+  - 06646883-n
+  ili: i71354
+  members:
+  - mionsonraí
+  partOfSpeech: n
+06649331-n:
+  definition:
+  - confidence: 0.0
+    text: the organization of information according to preset specifications (usually
+      for computer processing)
+  hypernym:
+  - 06646883-n
+  ili: i71358
+  members:
+  - formáid
+  partOfSpeech: n
+06650349-n:
+  definition:
+  - confidence: 0.0
+    text: an organized body of related information
+  hypernym:
+  - 06646883-n
+  ili: i71362
+  members:
+  - bunachar sonraí
+  partOfSpeech: n
+06652323-n:
+  definition:
+  - confidence: 0.0
+    text: a number or ratio (a value on a scale of measurement) derived from a series
+      of observed facts; can reveal relative changes as a function of time
+  hypernym:
+  - 06646883-n
+  ili: i71372
+  members:
+  - treoiruimhir
+  - táscaire
+  partOfSpeech: n
+06654787-n:
+  definition:
+  - confidence: 0.0
+    text: information about recent and important events
+  hypernym:
+  - 06646883-n
+  ili: i71384
+  members:
+  - focal
+  - nuacht
+  partOfSpeech: n
+06655303-n:
+  definition:
+  - confidence: 0.0
+    text: secret information about an enemy (or potential enemy)
+  hypernym:
+  - 06646883-n
+  ili: i71387
+  members:
+  - faisnéis
+  partOfSpeech: n
+06657156-n:
+  definition:
+  - confidence: 0.0
+    text: a print made by an impression of the ridges in the skin of a finger; often
+      used for biometric identification in criminal investigations
+  hypernym:
+  - 06811608-n
+  ili: i71396
+  members:
+  - méarlorg
+  partOfSpeech: n
+06659006-n:
+  definition:
+  - confidence: 0.0
+    text: a perceptible indication of something not immediately apparent (as a visible
+      clue that something has happened)
+  hypernym:
+  - 00033319-n
+  ili: i71406
+  members:
+  - comhartha
+  - rian
+  partOfSpeech: n
+06659391-n:
+  definition:
+  - confidence: 0.0
+    text: an indication that something has been present
+  hypernym:
+  - 00033319-n
+  ili: i71408
+  members:
+  - rian
+  partOfSpeech: n
+06659969-n:
+  definition:
+  - confidence: 0.0
+    text: anything (such as a document or a phonograph record or a photograph) providing
+      permanent evidence of or information about past events
+  hypernym:
+  - 00033319-n
+  ili: i71411
+  members:
+  - cuntas
+  - taifead
+  partOfSpeech: n
+06660359-n:
+  definition:
+  - confidence: 0.0
+    text: a formal series of statements showing that if one thing is true something
+      else necessarily follows from it
+  hypernym:
+  - 06661469-n
+  ili: i71412
+  members:
+  - cruthúnas
+  partOfSpeech: n
+06661469-n:
+  definition:
+  - confidence: 0.0
+    text: a fact or assertion offered as evidence that something is true
+  hypernym:
+  - 00033319-n
+  ili: i71419
+  members:
+  - argóint
+  partOfSpeech: n
+06663446-n:
+  definition:
+  - confidence: 0.0
+    text: something that provides direction or advice as to a decision or course of
+      action
+  hypernym:
+  - 06611268-n
+  ili: i71431
+  members:
+  - stiúir
+  - treoir
+  partOfSpeech: n
+06664322-n:
+  definition:
+  - confidence: 0.0
+    text: an indication of potential opportunity
+  hypernym:
+  - 06663446-n
+  ili: i71436
+  members:
+  - leid
+  partOfSpeech: n
+06670391-n:
+  definition:
+  - confidence: 0.0
+    text: an upper limit on what is allowed
+  hypernym:
+  - 05780353-n
+  ili: i71467
+  members:
+  - uasteorainn
+  partOfSpeech: n
+06673141-n:
+  definition:
+  - confidence: 0.0
+    text: a limitation on imports
+  hypernym:
+  - 05780353-n
+  ili: i71481
+  members:
+  - cuóta
+  partOfSpeech: n
+06673265-n:
+  definition:
+  - confidence: 0.0
+    text: a government order imposing a trade barrier
+  hypernym:
+  - 05780353-n
+  ili: i71482
+  members:
+  - lánchosc
+  - trádbhac
+  partOfSpeech: n
+06676796-n:
+  definition:
+  - confidence: 0.0
+    text: an authoritative command
+  hypernym:
+  - 06799486-n
+  ili: i71504
+  members:
+  - rialachán
+  partOfSpeech: n
+06677590-n:
+  definition:
+  - confidence: 0.0
+    text: rules governing socially acceptable behavior
+  hypernym:
+  - 06799486-n
+  ili: i71509
+  members:
+  - béasaíocht
+  partOfSpeech: n
+06677853-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) rules determining the format and transmission of data
+  hypernym:
+  - 06799486-n
+  ili: i71511
+  members:
+  - prótacal
+  partOfSpeech: n
+06680062-n:
+  definition:
+  - confidence: 0.0
+    text: a set of rules or principles or laws (especially written ones)
+  hypernym:
+  - 00033319-n
+  ili: i71522
+  members:
+  - cód
+  partOfSpeech: n
+06682609-n:
+  definition:
+  - confidence: 0.0
+    text: a mathematical statement that two expressions are equal
+  hypernym:
+  - 06735202-n
+  ili: i71535
+  members:
+  - cothromóid
+  partOfSpeech: n
+06684229-n:
+  definition:
+  - confidence: 0.0
+    text: a proposal for an appropriate course of action
+  hypernym:
+  - 07176845-n
+  ili: i71545
+  members:
+  - comhairle
+  partOfSpeech: n
+06685887-n:
+  definition:
+  - confidence: 0.0
+    text: something that should remain hidden from others (especially information
+      that is not to be passed on)
+  hypernym:
+  - 06646883-n
+  ili: i71552
+  members:
+  - rún
+  partOfSpeech: n
+06686933-n:
+  definition:
+  - confidence: 0.0
+    text: a secret word or phrase known only to a restricted group
+  hypernym:
+  - 06646883-n
+  ili: i71557
+  members:
+  - pasfhocal
+  partOfSpeech: n
+06687287-n:
+  definition:
+  - confidence: 0.0
+    text: information that is spread for the purpose of promoting some cause
+  hypernym:
+  - 06646883-n
+  ili: i71559
+  members:
+  - bolscaireacht
+  partOfSpeech: n
+06689161-n:
+  definition:
+  - confidence: 0.0
+    text: an integrated course of academic studies
+  hypernym:
+  - 06646883-n
+  ili: i71570
+  members:
+  - clár
+  - curaclam
+  partOfSpeech: n
+06690047-n:
+  definition:
+  - confidence: 0.0
+    text: reproduction by applying ink to paper as for publication
+  hypernym:
+  - 00033319-n
+  ili: i71574
+  members:
+  - priontáil
+  partOfSpeech: n
+06691529-n:
+  definition:
+  - confidence: 0.0
+    text: a printing process that uses an etched or engraved plate; the plate is smeared
+      with ink and wiped clean, then the ink left in the recesses makes the print
+  hypernym:
+  - 06690047-n
+  ili: i71580
+  members:
+  - inghearradh
+  partOfSpeech: n
+06694721-n:
+  definition:
+  - confidence: 0.0
+    text: report or open letter giving informal or confidential news of interest to
+      a special group
+  hypernym:
+  - 06646883-n
+  ili: i71597
+  members:
+  - nuachtlitir
+  partOfSpeech: n
+06695035-n:
+  definition:
+  - confidence: 0.0
+    text: a brief report (especially an official statement issued for immediate publication
+      or broadcast)
+  hypernym:
+  - 06646883-n
+  ili: i71599
+  members:
+  - feasachán
+  partOfSpeech: n
+06697128-n:
+  definition:
+  - confidence: 0.0
+    text: a message that makes a pledge
+  hypernym:
+  - 06611268-n
+  ili: i71613
+  members:
+  - ceangaltas
+  - gealltanas
+  partOfSpeech: n
+06697317-n:
+  definition:
+  - confidence: 0.0
+    text: a commitment to tell the truth (especially in a court of law); to lie under
+      oath is to become subject to prosecution for perjury
+  hypernym:
+  - 06697128-n
+  ili: i71614
+  members:
+  - mionn
+  partOfSpeech: n
+06698201-n:
+  definition:
+  - confidence: 0.0
+    text: a written assurance that some product or service will be provided or will
+      meet certain specifications
+  hypernym:
+  - 06697128-n
+  ili: i71618
+  members:
+  - baránta
+  - barántas
+  - ráthaíocht
+  partOfSpeech: n
+06698499-n:
+  definition:
+  - confidence: 0.0
+    text: a guarantee that an obligation will be met
+  hypernym:
+  - 06698201-n
+  ili: i71619
+  members:
+  - urrús
+  partOfSpeech: n
+06700628-n:
+  definition:
+  - confidence: 0.0
+    text: an endorsement made in a passport that allows the bearer to enter the country
+      issuing it
+  hypernym:
+  - 06611268-n
+  ili: i71629
+  members:
+  - víosa
+  partOfSpeech: n
+06702042-n:
+  definition:
+  - confidence: 0.0
+    text: approval to do something
+  hypernym:
+  - 06611268-n
+  ili: i71636
+  members:
+  - cead
+  partOfSpeech: n
+06702412-n:
+  definition:
+  - confidence: 0.0
+    text: permission for something to happen
+  hypernym:
+  - 06702042-n
+  ili: i71638
+  members:
+  - cead
+  - toil
+  - toiliú
+  partOfSpeech: n
+06704429-n:
+  definition:
+  - confidence: 0.0
+    text: enthusiastic approval
+  hypernym:
+  - 06611268-n
+  ili: i71650
+  members:
+  - gáir
+  partOfSpeech: n
+06707541-n:
+  definition:
+  - confidence: 0.0
+    text: a formal recommendation by a former employer to a potential future employer
+      describing the person's qualifications and dependability
+  hypernym:
+  - 06611268-n
+  ili: i71668
+  members:
+  - teistiméireacht
+  partOfSpeech: n
+06709228-n:
+  definition:
+  - confidence: 0.0
+    text: a tangible symbol signifying approval or distinction
+  hypernym:
+  - 06819327-n
+  ili: i71678
+  members:
+  - duais
+  - onóir
+  partOfSpeech: n
+06710094-n:
+  definition:
+  - confidence: 0.0
+    text: an award conferred by a college or university signifying that the recipient
+      has satisfactorily completed a course of study
+  hypernym:
+  - 06709228-n
+  ili: i71681
+  members:
+  - céim
+  partOfSpeech: n
+06719615-n:
+  definition:
+  - confidence: 0.0
+    text: an award for winning a championship or commemorating some other event
+  hypernym:
+  - 06709228-n
+  ili: i71749
+  members:
+  - bonn
+  partOfSpeech: n
+06735202-n:
+  definition:
+  - confidence: 0.0
+    text: a message that is stated or declared; a communication (oral or written)
+      setting forth particulars or facts etc
+  hypernym:
+  - 06611268-n
+  ili: i71833
+  members:
+  - ráiteas
+  partOfSpeech: n
+06736384-n:
+  definition:
+  - confidence: 0.0
+    text: a statement that is added to or revises or improves a proposal or document
+      (a bill or constitution etc.)
+  hypernym:
+  - 06735202-n
+  ili: i71835
+  members:
+  - leasú
+  partOfSpeech: n
+06737512-n:
+  definition:
+  - confidence: 0.0
+    text: a statement that represents something in words
+  hypernym:
+  - 06735202-n
+  ili: i71841
+  members:
+  - tuairisc
+  partOfSpeech: n
+06737816-n:
+  definition:
+  - confidence: 0.0
+    text: a detailed description of design criteria for a piece of work
+  hypernym:
+  - 06737512-n
+  ili: i71843
+  members:
+  - sonraíocht
+  partOfSpeech: n
+06738626-n:
+  definition:
+  - confidence: 0.0
+    text: a statement that is emphatic and explicit (spoken or written)
+  hypernym:
+  - 06735202-n
+  ili: i71847
+  members:
+  - dearbhú
+  partOfSpeech: n
+06738907-n:
+  definition:
+  - confidence: 0.0
+    text: a formal public statement
+  hypernym:
+  - 06735202-n
+  ili: i71848
+  members:
+  - forógra
+  - fógairt
+  partOfSpeech: n
+06739973-n:
+  definition:
+  - confidence: 0.0
+    text: a public declaration of intentions (as issued by a political party or government)
+  hypernym:
+  - 06738626-n
+  ili: i71854
+  members:
+  - forógra
+  partOfSpeech: n
+06742613-n:
+  definition:
+  - confidence: 0.0
+    text: an assertion of a right (as to money or property)
+  hypernym:
+  - 06738626-n
+  ili: i71864
+  members:
+  - éileamh
+  partOfSpeech: n
+06744551-n:
+  definition:
+  - confidence: 0.0
+    text: a group of symbols that make a mathematical statement
+  hypernym:
+  - 06735202-n
+  ili: i71875
+  members:
+  - foirmle
+  partOfSpeech: n
+06746225-n:
+  definition:
+  - confidence: 0.0
+    text: declaration of an intention or a determination to inflict harm on another
+  hypernym:
+  - 06738626-n
+  ili: i71884
+  members:
+  - bagairt
+  partOfSpeech: n
+06746688-n:
+  definition:
+  - confidence: 0.0
+    text: (law) all the means by which any alleged matter of fact whose truth is investigated
+      at judicial trial is established or disproved
+  hypernym:
+  - 06646883-n
+  ili: i71887
+  members:
+  - fianaise
+  partOfSpeech: n
+06749278-n:
+  definition:
+  - confidence: 0.0
+    text: written declaration made under oath; a written statement sworn to be true
+      before someone legally authorized to administer an oath
+  hypernym:
+  - 06491336-n
+  - 06746688-n
+  ili: i71900
+  members:
+  - mionnscríbhinn
+  partOfSpeech: n
+06753097-n:
+  definition:
+  - confidence: 0.0
+    text: a justification for something existing or happening
+  hypernym:
+  - 06735202-n
+  ili: i71919
+  members:
+  - cúis
+  partOfSpeech: n
+06756201-n:
+  definition:
+  - confidence: 0.0
+    text: a statement that solves a problem or explains how to solve the problem
+  hypernym:
+  - 06735202-n
+  ili: i71933
+  members:
+  - freagra
+  - réiteach
+  - toradh
+  partOfSpeech: n
+06757091-n:
+  definition:
+  - confidence: 0.0
+    text: a concise explanation of the meaning of a word or phrase or symbol
+  hypernym:
+  - 06735202-n
+  ili: i71937
+  members:
+  - sainmhíniú
+  partOfSpeech: n
+06758700-n:
+  definition:
+  - confidence: 0.0
+    text: a statement (either spoken or written) that is made to reply to a question
+      or request or criticism or accusation
+  hypernym:
+  - 06735202-n
+  ili: i71945
+  members:
+  - freagairt
+  - freagra
+  partOfSpeech: n
+06759184-n:
+  definition:
+  - confidence: 0.0
+    text: response to an inquiry or experiment
+  hypernym:
+  - 06758700-n
+  ili: i71947
+  members:
+  - aiseolas
+  partOfSpeech: n
+06760197-n:
+  definition:
+  - confidence: 0.0
+    text: an announcement distributed to members of the press in order to supplement
+      or replace an oral presentation
+  hypernym:
+  - 06735202-n
+  ili: i71952
+  members:
+  - preaseisiúint
+  - preasráiteas
+  partOfSpeech: n
+06760383-n:
+  definition:
+  - confidence: 0.0
+    text: an announcement containing information about an event
+  hypernym:
+  - 06735202-n
+  ili: i71953
+  members:
+  - fógra
+  partOfSpeech: n
+06762595-n:
+  definition:
+  - confidence: 0.0
+    text: a prediction about how something (as the weather) will develop
+  hypernym:
+  - 06735202-n
+  ili: i71965
+  members:
+  - réamh-mheastachán
+  - réamhaisnéis
+  - tuar
+  partOfSpeech: n
+06762868-n:
+  definition:
+  - confidence: 0.0
+    text: a prediction uttered under divine inspiration
+  hypernym:
+  - 06735202-n
+  ili: i71966
+  members:
+  - tairngreacht
+  partOfSpeech: n
+06768279-n:
+  definition:
+  - confidence: 0.0
+    text: an assumption on which rests the validity or effect of something else
+  hypernym:
+  - 06735202-n
+  ili: i71992
+  members:
+  - coinníoll
+  partOfSpeech: n
+06768658-n:
+  definition:
+  - confidence: 0.0
+    text: a stipulated condition
+  hypernym:
+  - 06768279-n
+  ili: i71994
+  members:
+  - foráil
+  partOfSpeech: n
+06768822-n:
+  definition:
+  - confidence: 0.0
+    text: a postulated sequence of possible events
+  hypernym:
+  - 06735202-n
+  ili: i71995
+  members:
+  - cás
+  partOfSpeech: n
+06769542-n:
+  definition:
+  - confidence: 0.0
+    text: a statement that deviates from or perverts the truth
+  hypernym:
+  - 06735202-n
+  ili: i71999
+  members:
+  - bréag
+  partOfSpeech: n
+06770936-n:
+  definition:
+  - confidence: 0.0
+    text: a misleading falsehood
+  hypernym:
+  - 06735202-n
+  ili: i72007
+  members:
+  - mífhaisnéis
+  partOfSpeech: n
+06771774-n:
+  definition:
+  - confidence: 0.0
+    text: a statement that is restrained in ironic contrast to what might have been
+      said
+  hypernym:
+  - 06735202-n
+  ili: i72011
+  members:
+  - maolaisnéis
+  partOfSpeech: n
+06775091-n:
+  definition:
+  - confidence: 0.0
+    text: a statement that limits or restricts some claim
+  hypernym:
+  - 06735202-n
+  ili: i72029
+  members:
+  - forchoimeádas
+  partOfSpeech: n
+06775422-n:
+  definition:
+  - confidence: 0.0
+    text: a written explanation or criticism or illustration that is added to a book
+      or other textual material
+  hypernym:
+  - 06735202-n
+  ili: i72031
+  members:
+  - trácht
+  partOfSpeech: n
+06775984-n:
+  definition:
+  - confidence: 0.0
+    text: a comment or instruction (usually added)
+  hypernym:
+  - 06775422-n
+  ili: i72033
+  members:
+  - nóta
+  partOfSpeech: n
+06776392-n:
+  definition:
+  - confidence: 0.0
+    text: a short note recognizing a source of information or of a quoted passage
+  hypernym:
+  - 06775984-n
+  ili: i72034
+  members:
+  - tagairt
+  partOfSpeech: n
+06776955-n:
+  definition:
+  - confidence: 0.0
+    text: a printed note placed below the text on a printed page
+  hypernym:
+  - 06775984-n
+  ili: i72035
+  members:
+  - fonóta
+  partOfSpeech: n
+06777578-n:
+  definition:
+  - confidence: 0.0
+    text: a reference at one place in a work to information at another place in the
+      same work
+  hypernym:
+  - 06776392-n
+  ili: i72039
+  members:
+  - crostagairt
+  partOfSpeech: n
+06778981-n:
+  definition:
+  - confidence: 0.0
+    text: a remark that calls attention to something or someone
+  hypernym:
+  - 06735202-n
+  ili: i72045
+  members:
+  - tagairt
+  partOfSpeech: n
+06779335-n:
+  definition:
+  - confidence: 0.0
+    text: passing reference or indirect mention
+  hypernym:
+  - 06778981-n
+  ili: i72046
+  members:
+  - tagairt
+  partOfSpeech: n
+06779826-n:
+  definition:
+  - confidence: 0.0
+    text: a remark expressing careful consideration
+  hypernym:
+  - 06735202-n
+  ili: i72049
+  members:
+  - tuairim
+  partOfSpeech: n
+06783066-n:
+  definition:
+  - confidence: 0.0
+    text: the statement (oral or written) of an exchange of promises
+  hypernym:
+  - 06735202-n
+  ili: i72068
+  members:
+  - comhaontú
+  partOfSpeech: n
+06783666-n:
+  definition:
+  - confidence: 0.0
+    text: (usually plural) a statement of what is required as part of an agreement
+  hypernym:
+  - 06735202-n
+  ili: i72069
+  members:
+  - coinníoll
+  - téarma
+  partOfSpeech: n
+06783960-n:
+  definition:
+  - confidence: 0.0
+    text: an agreement between parties (usually arrived at after discussion) fixing
+      obligations of each
+  hypernym:
+  - 06783066-n
+  ili: i72070
+  members:
+  - margadh
+  partOfSpeech: n
+06785061-n:
+  definition:
+  - confidence: 0.0
+    text: a signed written agreement between two or more parties (nations) to perform
+      some action
+  hypernym:
+  - 06783066-n
+  - 06491336-n
+  ili: i72076
+  members:
+  - cúnant
+  partOfSpeech: n
+06786148-n:
+  definition:
+  - confidence: 0.0
+    text: an obligation to pay or do something
+  hypernym:
+  - 06783066-n
+  - 06491336-n
+  ili: i72082
+  members:
+  - fiach
+  partOfSpeech: n
+06786235-n:
+  definition:
+  - confidence: 0.0
+    text: a written agreement between two states or sovereigns
+  hypernym:
+  - 06783066-n
+  - 06491336-n
+  ili: i72083
+  members:
+  - conradh
+  partOfSpeech: n
+06787117-n:
+  definition:
+  - confidence: 0.0
+    text: (diplomacy) an international agreement
+  hypernym:
+  - 06786235-n
+  ili: i72088
+  members:
+  - coinbhinsiún
+  partOfSpeech: n
+06792908-n:
+  definition:
+  - confidence: 0.0
+    text: a representation of a person that is exaggerated for comic effect
+  hypernym:
+  - 06611268-n
+  ili: i72119
+  members:
+  - caracatúr
+  - scigphictiúr
+  partOfSpeech: n
+06793517-n:
+  definition:
+  - confidence: 0.0
+    text: a humorous or satirical drawing published in a newspaper or magazine
+  hypernym:
+  - 06611268-n
+  ili: i72121
+  members:
+  - cartún
+  partOfSpeech: n
+06796625-n:
+  definition:
+  - confidence: 0.0
+    text: the subject matter at issue
+  hypernym:
+  - 06612141-n
+  ili: i72136
+  members:
+  - ceist
+  - saincheist
+  partOfSpeech: n
+06797823-n:
+  definition:
+  - confidence: 0.0
+    text: a problem requiring investigation
+  hypernym:
+  - 06796625-n
+  ili: i72141
+  members:
+  - cás
+  partOfSpeech: n
+06799486-n:
+  definition:
+  - confidence: 0.0
+    text: a message describing how something is to be done
+  hypernym:
+  - 06611268-n
+  ili: i72152
+  members:
+  - treoir
+  partOfSpeech: n
+06801642-n:
+  definition:
+  - confidence: 0.0
+    text: directions for making something
+  hypernym:
+  - 06799486-n
+  ili: i72162
+  members:
+  - oideas
+  partOfSpeech: n
+06804229-n:
+  definition:
+  - confidence: 0.0
+    text: any nonverbal action or gesture that encodes a message
+  hypernym:
+  - 00033319-n
+  ili: i72174
+  members:
+  - comhartha
+  - comharthaíocht
+  partOfSpeech: n
+06806283-n:
+  definition:
+  - confidence: 0.0
+    text: a sign posted in a public place as an advertisement
+  hypernym:
+  - 00033319-n
+  ili: i72183
+  members:
+  - póstaer
+  partOfSpeech: n
+06808977-n:
+  definition:
+  - confidence: 0.0
+    text: a small adhesive token stuck on a letter or package to indicate that postal
+      fees have been paid
+  hypernym:
+  - 06819327-n
+  ili: i72199
+  members:
+  - stampa
+  - stampa poist
+  partOfSpeech: n
+06811608-n:
+  definition:
+  - confidence: 0.0
+    text: a visible indication made on a surface
+  hypernym:
+  - 00033319-n
+  ili: i72212
+  members:
+  - marc
+  partOfSpeech: n
+06812755-n:
+  definition:
+  - confidence: 0.0
+    text: a mark that is long relative to its width
+  hypernym:
+  - 06811608-n
+  ili: i72219
+  members:
+  - líne
+  partOfSpeech: n
+06814438-n:
+  definition:
+  - confidence: 0.0
+    text: a line drawn on a map connecting points of equal height
+  hypernym:
+  - 06812755-n
+  ili: i72228
+  members:
+  - comhrian
+  partOfSpeech: n
+06815643-n:
+  definition:
+  - confidence: 0.0
+    text: a slight indication
+  hypernym:
+  - 00033319-n
+  ili: i72237
+  members:
+  - leid
+  partOfSpeech: n
+06819327-n:
+  definition:
+  - confidence: 0.0
+    text: an arbitrary sign (written or printed) that has acquired a conventional
+      significance
+  hypernym:
+  - 06804229-n
+  ili: i72261
+  members:
+  - siombail
+  partOfSpeech: n
+06820056-n:
+  definition:
+  - confidence: 0.0
+    text: a symbol used to represent a number
+  hypernym:
+  - 06819327-n
+  ili: i72263
+  members:
+  - uimhir
+  partOfSpeech: n
+06821351-n:
+  definition:
+  - confidence: 0.0
+    text: a technical system of symbols used to represent special things
+  hypernym:
+  - 00033319-n
+  ili: i72271
+  members:
+  - nodaireacht
+  partOfSpeech: n
+06825275-n:
+  definition:
+  - confidence: 0.0
+    text: a mathematical notation indicating the number of times a quantity is multiplied
+      by itself
+  hypernym:
+  - 06821351-n
+  ili: i72294
+  members:
+  - cumhacht
+  partOfSpeech: n
+06829793-n:
+  definition:
+  - confidence: 0.0
+    text: a representation of a substance using symbols for its constituent elements
+  hypernym:
+  - 06735202-n
+  ili: i72317
+  members:
+  - foirmle
+  partOfSpeech: n
+06831828-n:
+  definition:
+  - confidence: 0.0
+    text: a written symbol that is used to represent speech
+  hypernym:
+  - 06819327-n
+  ili: i72328
+  members:
+  - carachtar
+  partOfSpeech: n
+06837277-n:
+  definition:
+  - confidence: 0.0
+    text: one of the large alphabetic characters used as the first letter in writing
+      or printing proper names and sometimes for emphasis
+  hypernym:
+  - 06831828-n
+  ili: i72357
+  members:
+  - ceannlitir
+  partOfSpeech: n
+06840553-n:
+  definition:
+  - confidence: 0.0
+    text: a typeface used in ancient Roman inscriptions
+  hypernym:
+  - 06831828-n
+  ili: i72373
+  members:
+  - cló rómhánach
+  partOfSpeech: n
+06841439-n:
+  definition:
+  - confidence: 0.0
+    text: a star-shaped character * used in printing
+  hypernym:
+  - 06831828-n
+  ili: i72378
+  members:
+  - réiltín
+  partOfSpeech: n
+06841868-n:
+  definition:
+  - confidence: 0.0
+    text: the conventional characters of the alphabet used to represent speech
+  hypernym:
+  - 06831828-n
+  ili: i72381
+  members:
+  - litir
+  partOfSpeech: n
+06847188-n:
+  definition:
+  - confidence: 0.0
+    text: the 1st letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72412
+  members:
+  - alfa
+  partOfSpeech: n
+06847295-n:
+  definition:
+  - confidence: 0.0
+    text: the 2nd letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72413
+  members:
+  - béite
+  partOfSpeech: n
+06847401-n:
+  definition:
+  - confidence: 0.0
+    text: the 3rd letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72414
+  members:
+  - gáma
+  partOfSpeech: n
+06847508-n:
+  definition:
+  - confidence: 0.0
+    text: the 4th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72415
+  members:
+  - deilte
+  partOfSpeech: n
+06847615-n:
+  definition:
+  - confidence: 0.0
+    text: the 5th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72416
+  members:
+  - eipsealón
+  partOfSpeech: n
+06847724-n:
+  definition:
+  - confidence: 0.0
+    text: the 6th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72417
+  members:
+  - zéite
+  partOfSpeech: n
+06847830-n:
+  definition:
+  - confidence: 0.0
+    text: the 7th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72418
+  members:
+  - éite
+  partOfSpeech: n
+06847935-n:
+  definition:
+  - confidence: 0.0
+    text: the 8th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72419
+  members:
+  - téite
+  partOfSpeech: n
+06848042-n:
+  definition:
+  - confidence: 0.0
+    text: the 9th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72420
+  members:
+  - ióta
+  partOfSpeech: n
+06848148-n:
+  definition:
+  - confidence: 0.0
+    text: the 10th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72421
+  members:
+  - capa
+  partOfSpeech: n
+06848256-n:
+  definition:
+  - confidence: 0.0
+    text: the 11th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72422
+  members:
+  - lambda
+  partOfSpeech: n
+06848365-n:
+  definition:
+  - confidence: 0.0
+    text: the 12th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72423
+  members:
+  - mú
+  partOfSpeech: n
+06848470-n:
+  definition:
+  - confidence: 0.0
+    text: the 13th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72424
+  members:
+  - nú
+  partOfSpeech: n
+06848575-n:
+  definition:
+  - confidence: 0.0
+    text: the 14th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72425
+  members:
+  - xí
+  partOfSpeech: n
+06848790-n:
+  definition:
+  - confidence: 0.0
+    text: the 16th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72427
+  members:
+  - pí
+  partOfSpeech: n
+06849001-n:
+  definition:
+  - confidence: 0.0
+    text: the 18th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72429
+  members:
+  - sigme
+  partOfSpeech: n
+06849109-n:
+  definition:
+  - confidence: 0.0
+    text: the 19th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72430
+  members:
+  - tó
+  partOfSpeech: n
+06849215-n:
+  definition:
+  - confidence: 0.0
+    text: the 20th letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72431
+  members:
+  - upsalón
+  partOfSpeech: n
+06849325-n:
+  definition:
+  - confidence: 0.0
+    text: the 21st letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72432
+  members:
+  - fí
+  partOfSpeech: n
+06849431-n:
+  definition:
+  - confidence: 0.0
+    text: the 22nd letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72433
+  members:
+  - chí
+  partOfSpeech: n
+06849543-n:
+  definition:
+  - confidence: 0.0
+    text: the 23rd letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72434
+  members:
+  - sí
+  partOfSpeech: n
+06849649-n:
+  definition:
+  - confidence: 0.0
+    text: the last (24th) letter of the Greek alphabet
+  hypernym:
+  - 06841868-n
+  ili: i72435
+  members:
+  - óimige
+  partOfSpeech: n
+06852240-n:
+  definition:
+  - confidence: 0.0
+    text: a blank character used to separate successive words in writing or printing
+  hypernym:
+  - 06831828-n
+  ili: i72459
+  members:
+  - spás
+  partOfSpeech: n
+06853698-n:
+  definition:
+  - confidence: 0.0
+    text: a graphic character that indicates the meaning of a thing without indicating
+      the sounds used to say it
+  hypernym:
+  - 06831828-n
+  ili: i72468
+  members:
+  - idéagram
+  partOfSpeech: n
+06854415-n:
+  definition:
+  - confidence: 0.0
+    text: the marks used to clarify meaning by indicating separation of words into
+      sentences and clauses and phrases
+  hypernym:
+  - 06819327-n
+  ili: i72472
+  members:
+  - poncaíocht
+  partOfSpeech: n
+06855340-n:
+  definition:
+  - confidence: 0.0
+    text: either of two punctuation marks ('[' or ']') used to enclose textual material
+  hypernym:
+  - 06854415-n
+  ili: i72476
+  members:
+  - lúibín
+  partOfSpeech: n
+06855902-n:
+  definition:
+  - confidence: 0.0
+    text: a punctuation mark (',') used to indicate the separation of elements within
+      the grammatical structure of a sentence
+  hypernym:
+  - 06854415-n
+  ili: i72479
+  members:
+  - camóg
+  partOfSpeech: n
+06856198-n:
+  definition:
+  - confidence: 0.0
+    text: a punctuation mark ('-') used between parts of a compound word or between
+      the syllables of a word when the word is divided at the end of a line of text
+  hypernym:
+  - 06854415-n
+  ili: i72481
+  members:
+  - fleasc
+  - fleiscín
+  partOfSpeech: n
+06856570-n:
+  definition:
+  - confidence: 0.0
+    text: a punctuation mark ('.') placed at the end of a declarative sentence to
+      indicate a full stop or after abbreviations
+  hypernym:
+  - 06854415-n
+  ili: i72483
+  members:
+  - pointe
+  partOfSpeech: n
+06857090-n:
+  definition:
+  - confidence: 0.0
+    text: a punctuation mark ('?') placed at the end of a sentence to indicate a question
+  hypernym:
+  - 06854415-n
+  ili: i72485
+  members:
+  - comhartha ceiste
+  partOfSpeech: n
+06857249-n:
+  definition:
+  - confidence: 0.0
+    text: a punctuation mark used to attribute the enclosed text to someone else
+  hypernym:
+  - 06854415-n
+  ili: i72486
+  members:
+  - comhartha athfhriotail
+  partOfSpeech: n
+06857789-n:
+  definition:
+  - confidence: 0.0
+    text: a punctuation mark (';') used to connect independent clauses; indicates
+      a closer relation than does a period
+  hypernym:
+  - 06854415-n
+  ili: i72490
+  members:
+  - leathstad
+  partOfSpeech: n
+06858649-n:
+  definition:
+  - confidence: 0.0
+    text: a name given to a product or service
+  hypernym:
+  - 06344646-n
+  ili: i72495
+  members:
+  - branda
+  - trádainm
+  partOfSpeech: n
+06864792-n:
+  definition:
+  - confidence: 0.0
+    text: a formally registered symbol ('™') identifying the manufacturer or distributor
+      of a product
+  hypernym:
+  - 06819327-n
+  ili: i72497
+  members:
+  - trádmharc
+  partOfSpeech: n
+06868257-n:
+  definition:
+  - confidence: 0.0
+    text: a symbol that is the result of printing or engraving
+  hypernym:
+  - 06819327-n
+  ili: i72499
+  members:
+  - stampa
+  partOfSpeech: n
+06868613-n:
+  definition:
+  - confidence: 0.0
+    text: an identification of a publisher; a publisher's name along with the date
+      and address and edition that is printed at the bottom of the title page
+  hypernym:
+  - 00033319-n
+  ili: i72501
+  members:
+  - inphrionta
+  partOfSpeech: n
+06878395-n:
+  definition:
+  - confidence: 0.0
+    text: a notation representing the pitch and duration of a musical sound
+  hypernym:
+  - 06821351-n
+  ili: i72562
+  members:
+  - nóta
+  partOfSpeech: n
+06890899-n:
+  definition:
+  - confidence: 0.0
+    text: a facial expression of dislike or displeasure
+  hypernym:
+  - 00033319-n
+  ili: i72641
+  members:
+  - grus
+  partOfSpeech: n
+06891121-n:
+  definition:
+  - confidence: 0.0
+    text: a facial expression characterized by turning up the corners of the mouth;
+      usually shows pleasure or amusement
+  hypernym:
+  - 00033319-n
+  ili: i72643
+  members:
+  - miongháire
+  partOfSpeech: n
+06895611-n:
+  definition:
+  - confidence: 0.0
+    text: an emblem (a small piece of plastic or cloth or metal) that signifies your
+      status (rank or membership or affiliation etc.)
+  hypernym:
+  - 00023451-n
+  ili: i72668
+  members:
+  - suaitheantas
+  partOfSpeech: n
+06900491-n:
+  definition:
+  - confidence: 0.0
+    text: a number you choose and use to gain access to various accounts
+  hypernym:
+  - 00033319-n
+  ili: i72692
+  members:
+  - uimhir aitheantais phearsanta
+  partOfSpeech: n
+06901994-n:
+  definition:
+  - confidence: 0.0
+    text: anything that is seen
+  hypernym:
+  - 00033319-n
+  ili: i72701
+  members:
+  - radharc
+  partOfSpeech: n
+06905814-n:
+  definition:
+  - confidence: 0.0
+    text: a performance of music by players or singers not involving theatrical staging
+  hypernym:
+  - 00430033-n
+  ili: i72722
+  members:
+  - ceolchoirm
+  partOfSpeech: n
+06916947-n:
+  definition:
+  - confidence: 0.0
+    text: a human written or spoken language used by a community; opposed to e.g.
+      a computer language
+  hypernym:
+  - 06293304-n
+  ili: i72795
+  members:
+  - teanga
+  partOfSpeech: n
+06917524-n:
+  definition:
+  - confidence: 0.0
+    text: one's native language; the language learned by children and passed from
+      one generation to the next
+  hypernym:
+  - 06916947-n
+  ili: i72796
+  members:
+  - teanga dhúchais
+  partOfSpeech: n
+06918134-n:
+  definition:
+  - confidence: 0.0
+    text: a mother tongue that originates from contact between two languages
+  hypernym:
+  - 06916947-n
+  ili: i72800
+  members:
+  - fásteanga
+  partOfSpeech: n
+06918804-n:
+  definition:
+  - confidence: 0.0
+    text: a trade language widely used in Chad
+  hypernym:
+  - 06916947-n
+  ili: i72804
+  members:
+  - Sangóis
+  partOfSpeech: n
+06928893-n:
+  definition:
+  - confidence: 0.0
+    text: the Iroquoian language spoken by the Cherokee
+  hypernym:
+  - 06916947-n
+  ili: i72881
+  members:
+  - Seiricis
+  partOfSpeech: n
+06929859-n:
+  definition:
+  - confidence: 0.0
+    text: the language of the Quechua which was spoken by the Incas
+  hypernym:
+  - 06916947-n
+  ili: i72889
+  members:
+  - Ceatsuais
+  partOfSpeech: n
+06930056-n:
+  definition:
+  - confidence: 0.0
+    text: the language spoken by the Guarani of Paraguay and Bolivia
+  hypernym:
+  - 06916947-n
+  ili: i72890
+  members:
+  - Guaráinis
+  partOfSpeech: n
+06931088-n:
+  definition:
+  - confidence: 0.0
+    text: the language spoken by the Aleut
+  hypernym:
+  - 06916947-n
+  ili: i72898
+  members:
+  - Ailiúitis
+  partOfSpeech: n
+06932489-n:
+  definition:
+  - confidence: 0.0
+    text: the Athapaskan language spoken by the Navaho
+  hypernym:
+  - 06916947-n
+  ili: i72910
+  members:
+  - Navachóis
+  partOfSpeech: n
+06939575-n:
+  definition:
+  - confidence: 0.0
+    text: a Turkic language spoken by the Turks
+  hypernym:
+  - 06916947-n
+  ili: i72966
+  members:
+  - Tuircis
+  partOfSpeech: n
+06940005-n:
+  definition:
+  - confidence: 0.0
+    text: the Turkic language spoken by the Tatar living from the Volga to the Ural
+      Mountains
+  hypernym:
+  - 06916947-n
+  ili: i72970
+  members:
+  - Tatairis
+  partOfSpeech: n
+06940422-n:
+  definition:
+  - confidence: 0.0
+    text: the Turkic language spoken by the Yakut
+  hypernym:
+  - 06916947-n
+  ili: i72973
+  members:
+  - Iacúitis
+  partOfSpeech: n
+06940513-n:
+  definition:
+  - confidence: 0.0
+    text: the Turkic language spoken by the Kirghiz
+  hypernym:
+  - 06916947-n
+  ili: i72974
+  members:
+  - Cirgisis
+  partOfSpeech: n
+06940729-n:
+  definition:
+  - confidence: 0.0
+    text: the Turkic language spoken by the Chuvash
+  hypernym:
+  - 06916947-n
+  ili: i72976
+  members:
+  - Suvaisis
+  partOfSpeech: n
+06941948-n:
+  definition:
+  - confidence: 0.0
+    text: the Altaic language spoken by Koreans
+  hypernym:
+  - 06916947-n
+  ili: i72984
+  members:
+  - Cóiréis
+  partOfSpeech: n
+06942056-n:
+  definition:
+  - confidence: 0.0
+    text: the language (usually considered to be Altaic) spoken by the Japanese
+  hypernym:
+  - 06916947-n
+  ili: i72985
+  members:
+  - Seapáinis
+  partOfSpeech: n
+06943204-n:
+  definition:
+  - confidence: 0.0
+    text: the dialect of Chinese spoken in Canton and neighboring provinces and in
+      Hong Kong and elsewhere outside China
+  hypernym:
+  - 06916947-n
+  ili: i72991
+  members:
+  - Cantainis
+  partOfSpeech: n
+06945212-n:
+  definition:
+  - confidence: 0.0
+    text: the official language of Burma
+  hypernym:
+  - 06916947-n
+  ili: i73002
+  members:
+  - Burmais
+  partOfSpeech: n
+06946708-n:
+  definition:
+  - confidence: 0.0
+    text: Himalayish language spoken in Tibet
+  hypernym:
+  - 06916947-n
+  ili: i73015
+  members:
+  - Tibéidis
+  partOfSpeech: n
+06948371-n:
+  definition:
+  - confidence: 0.0
+    text: the Tai language of a Buddhist people living in the area of the Mekong River
+      in Thailand and Laos
+  hypernym:
+  - 06916947-n
+  ili: i73028
+  members:
+  - Laoisis
+  partOfSpeech: n
+06950967-n:
+  definition:
+  - confidence: 0.0
+    text: the Polynesian language spoken by the Tongan people
+  hypernym:
+  - 06916947-n
+  ili: i73049
+  members:
+  - Tongais
+  partOfSpeech: n
+06951071-n:
+  definition:
+  - confidence: 0.0
+    text: the Oceanic language spoken on Tahiti
+  hypernym:
+  - 06916947-n
+  ili: i73050
+  members:
+  - Taihítis
+  partOfSpeech: n
+06951163-n:
+  definition:
+  - confidence: 0.0
+    text: the Oceanic language spoken by the Maori in New Zealand
+  hypernym:
+  - 06916947-n
+  ili: i73051
+  members:
+  - Maorais
+  partOfSpeech: n
+06952208-n:
+  definition:
+  - confidence: 0.0
+    text: the Indonesian language spoken on Java
+  hypernym:
+  - 06916947-n
+  ili: i73058
+  members:
+  - Iáivis
+  partOfSpeech: n
+06952518-n:
+  definition:
+  - confidence: 0.0
+    text: official language of the Philippines; based on Tagalog; draws its lexicon
+      from other Philippine languages
+  hypernym:
+  - 06916947-n
+  ili: i73061
+  members:
+  - Filipínis
+  partOfSpeech: n
+06952763-n:
+  definition:
+  - confidence: 0.0
+    text: the language of the Tagalog on which Filipino is based
+  hypernym:
+  - 06952518-n
+  ili: i73062
+  members:
+  - Tagálaigis
+  partOfSpeech: n
+06955461-n:
+  definition:
+  - confidence: 0.0
+    text: the Indo-European language spoken predominantly in Armenia, but also in
+      Azerbaijan
+  hypernym:
+  - 06916947-n
+  ili: i73079
+  members:
+  - Airméinis
+  partOfSpeech: n
+06957482-n:
+  definition:
+  - confidence: 0.0
+    text: the Slavic language of Poland
+  hypernym:
+  - 06916947-n
+  ili: i73090
+  members:
+  - Polainnis
+  partOfSpeech: n
+06957673-n:
+  definition:
+  - confidence: 0.0
+    text: the Slavic language of Czechs
+  hypernym:
+  - 06916947-n
+  ili: i73092
+  members:
+  - Seicis
+  partOfSpeech: n
+06958961-n:
+  definition:
+  - confidence: 0.0
+    text: the official language of Lithuania; belongs to the Baltic branch of Indo-European
+  hypernym:
+  - 06916947-n
+  ili: i73100
+  members:
+  - Liotuáinis
+  partOfSpeech: n
+06959117-n:
+  definition:
+  - confidence: 0.0
+    text: the official language of Latvia; belongs to the Baltic branch of Indo-European
+  hypernym:
+  - 06916947-n
+  ili: i73101
+  members:
+  - Laitvis
+  partOfSpeech: n
+06959794-n:
+  definition:
+  - confidence: 0.0
+    text: an Indo-European language belonging to the West Germanic branch; the official
+      language of Britain and the United States and most of the commonwealth countries
+  hypernym:
+  - 06916947-n
+  ili: i73104
+  members:
+  - Béarla
+  partOfSpeech: n
+06960779-n:
+  definition:
+  - confidence: 0.0
+    text: the nonstandard dialect of natives of the east end of London
+  hypernym:
+  - 06959794-n
+  ili: i73107
+  members:
+  - Cocnais
+  partOfSpeech: n
+06963290-n:
+  definition:
+  - confidence: 0.0
+    text: the standard German language; developed historically from West Germanic
+  hypernym:
+  - 06916947-n
+  ili: i73125
+  members:
+  - Gearmáinis
+  partOfSpeech: n
+06963735-n:
+  definition:
+  - confidence: 0.0
+    text: High German from 1100 to 1500
+  hypernym:
+  - 06963290-n
+  ili: i73127
+  members:
+  - Meán-Ard-Ghearmáinis
+  partOfSpeech: n
+06965334-n:
+  definition:
+  - confidence: 0.0
+    text: the West Germanic language of the Netherlands
+  hypernym:
+  - 06916947-n
+  ili: i73133
+  members:
+  - Ollainnis
+  partOfSpeech: n
+06965467-n:
+  definition:
+  - confidence: 0.0
+    text: one of two official languages of Belgium; closely related to Dutch
+  hypernym:
+  - 06965334-n
+  ili: i73134
+  members:
+  - Pléimeannais
+  partOfSpeech: n
+06965907-n:
+  definition:
+  - confidence: 0.0
+    text: the extinct Germanic language of medieval Scandinavia and Iceland from about
+      to 700 to 1350
+  hypernym:
+  - 06916947-n
+  ili: i73137
+  members:
+  - Sean-Lochlainnis
+  partOfSpeech: n
+06966788-n:
+  definition:
+  - confidence: 0.0
+    text: a Scandinavian language that is the official language of Denmark
+  hypernym:
+  - 06916947-n
+  ili: i73141
+  members:
+  - Danmhairgis
+  partOfSpeech: n
+06966923-n:
+  definition:
+  - confidence: 0.0
+    text: a Scandinavian language that is the official language of Iceland
+  hypernym:
+  - 06916947-n
+  ili: i73142
+  members:
+  - Íoslainnis
+  partOfSpeech: n
+06967043-n:
+  definition:
+  - confidence: 0.0
+    text: a Scandinavian language that is spoken in Norway
+  hypernym:
+  - 06916947-n
+  ili: i73143
+  members:
+  - Ioruais
+  partOfSpeech: n
+06967827-n:
+  definition:
+  - confidence: 0.0
+    text: a Scandinavian language (closely related to Icelandic) that is spoken on
+      the Faroe Islands
+  hypernym:
+  - 06916947-n
+  ili: i73148
+  members:
+  - Faróis
+  partOfSpeech: n
+06970636-n:
+  definition:
+  - confidence: 0.0
+    text: the official language of Estonia; belongs to the Baltic-Finnic family of
+      languages
+  hypernym:
+  - 06916947-n
+  ili: i73165
+  members:
+  - Eastóinis
+  partOfSpeech: n
+06971576-n:
+  definition:
+  - confidence: 0.0
+    text: the official language of Hungary (also spoken in Rumania); belongs to the
+      Ugric family of languages
+  hypernym:
+  - 06916947-n
+  ili: i73172
+  members:
+  - Ungáiris
+  partOfSpeech: n
+06972324-n:
+  definition:
+  - confidence: 0.0
+    text: the Uralic languages spoken by the Samoyed in northwestern Siberia
+  hypernym:
+  - 06916947-n
+  ili: i73177
+  members:
+  - Samóidis
+  partOfSpeech: n
+06973518-n:
+  definition:
+  - confidence: 0.0
+    text: the Celtic language of Ireland
+  hypernym:
+  - 06916947-n
+  ili: i73184
+  members:
+  - Gaeilge
+  partOfSpeech: n
+06973688-n:
+  definition:
+  - confidence: 0.0
+    text: Irish Gaelic up to about 1100
+  hypernym:
+  - 06973518-n
+  ili: i73185
+  members:
+  - Sean-Ghaeilge
+  partOfSpeech: n
+06973773-n:
+  definition:
+  - confidence: 0.0
+    text: Irish Gaelic from 1100 to 1500
+  hypernym:
+  - 06973518-n
+  ili: i73186
+  members:
+  - Meán-Ghaeilge
+  partOfSpeech: n
+06973862-n:
+  definition:
+  - confidence: 0.0
+    text: the Gaelic of Scotland
+  hypernym:
+  - 06916947-n
+  ili: i73187
+  members:
+  - Gaeilge na hAlban
+  partOfSpeech: n
+06973961-n:
+  definition:
+  - confidence: 0.0
+    text: the ancient Gaelic formerly spoken on the Isle of Man; the language is sometimes
+      used on ceremonial occasions
+  hypernym:
+  - 06916947-n
+  ili: i73188
+  members:
+  - Manainnis
+  partOfSpeech: n
+06974297-n:
+  definition:
+  - confidence: 0.0
+    text: a Celtic language of Wales
+  hypernym:
+  - 06916947-n
+  ili: i73190
+  members:
+  - Breatnais
+  partOfSpeech: n
+06974421-n:
+  definition:
+  - confidence: 0.0
+    text: a Celtic language spoken in Cornwall
+  hypernym:
+  - 06916947-n
+  ili: i73191
+  members:
+  - Coirnis
+  partOfSpeech: n
+06974511-n:
+  definition:
+  - confidence: 0.0
+    text: a Celtic language of Brittany
+  hypernym:
+  - 06916947-n
+  ili: i73192
+  members:
+  - Briotáinis
+  partOfSpeech: n
+06977342-n:
+  definition:
+  - confidence: 0.0
+    text: the Italian dialect spoken in Sardinia; sometimes considered a separate
+      language with many loan words from Spanish
+  hypernym:
+  - 06916947-n
+  ili: i73209
+  members:
+  - Sairdínis
+  partOfSpeech: n
+06977643-n:
+  definition:
+  - confidence: 0.0
+    text: the Romance language spoken in France and in countries colonized by France
+  hypernym:
+  - 06916947-n
+  ili: i73211
+  members:
+  - Fraincis
+  partOfSpeech: n
+06979090-n:
+  definition:
+  - confidence: 0.0
+    text: the Romance language spoken in Portugal and Brazil
+  hypernym:
+  - 06916947-n
+  ili: i73220
+  members:
+  - Portaingéilis
+  partOfSpeech: n
+06979234-n:
+  definition:
+  - confidence: 0.0
+    text: a language spoken in Galicia, an autonomous community of Spain
+  hypernym:
+  - 06916947-n
+  ili: i73221
+  members:
+  - Gailísis
+  partOfSpeech: n
+06979369-n:
+  definition:
+  - confidence: 0.0
+    text: the language of the Basque people; of no known relation to any other language
+  hypernym:
+  - 06916947-n
+  ili: i73222
+  members:
+  - Bascais
+  partOfSpeech: n
+06980203-n:
+  definition:
+  - confidence: 0.0
+    text: the Romance language spoken in Catalonia in eastern Spain (related to Spanish
+      and Occitan)
+  hypernym:
+  - 06916947-n
+  ili: i73227
+  members:
+  - Catalóinis
+  partOfSpeech: n
+06980609-n:
+  definition:
+  - confidence: 0.0
+    text: a Rhaeto-Romance dialect spoken in northeastern Italy
+  hypernym:
+  - 06916947-n
+  ili: i73229
+  members:
+  - Friúilis
+  partOfSpeech: n
+06980726-n:
+  definition:
+  - confidence: 0.0
+    text: a Rhaeto-Romance dialect of Romansh spoken in southeastern Switzerland
+  hypernym:
+  - 06916947-n
+  ili: i73230
+  members:
+  - Laidinis
+  partOfSpeech: n
+06981381-n:
+  definition:
+  - confidence: 0.0
+    text: a branch of the Indo-European language family that originated in central
+      Asia during the first millennium A.D.
+  hypernym:
+  - 06916947-n
+  ili: i73235
+  members:
+  - Tocáiris
+  partOfSpeech: n
+06981803-n:
+  definition:
+  - confidence: 0.0
+    text: (Hinduism) an ancient language of India (the language of the Vedas and of
+      Hinduism); an official language of India although it is now used only for religious
+      purposes
+  hypernym:
+  - 06916947-n
+  ili: i73238
+  members:
+  - Sanscrait
+  partOfSpeech: n
+06982496-n:
+  definition:
+  - confidence: 0.0
+    text: the Indic language of the Romani
+  hypernym:
+  - 06981803-n
+  ili: i73240
+  members:
+  - Romainis
+  partOfSpeech: n
+06982590-n:
+  definition:
+  - confidence: 0.0
+    text: the official literary language of Pakistan, closely related to Hindi; widely
+      used in India (mostly by Muslims); written in Arabic script
+  hypernym:
+  - 06916947-n
+  ili: i73241
+  members:
+  - Urdúis
+  partOfSpeech: n
+06982777-n:
+  definition:
+  - confidence: 0.0
+    text: the most widely spoken of modern Indic vernaculars; spoken mostly in the
+      north of India; along with English it is one of the main official languages
+      of India; usually written in Devanagari script
+  hypernym:
+  - 06916947-n
+  ili: i73242
+  members:
+  - Hiondúis
+  partOfSpeech: n
+06983620-n:
+  definition:
+  - confidence: 0.0
+    text: a Magadhan language spoken by the Bengali people; the official language
+      of Bangladesh and Bengal
+  hypernym:
+  - 06981803-n
+  ili: i73247
+  members:
+  - Beangáilis
+  partOfSpeech: n
+06983797-n:
+  definition:
+  - confidence: 0.0
+    text: a Magadhan language that is spoken by the Oriya and is the official language
+      of the Indian state of Orissa
+  hypernym:
+  - 06981803-n
+  ili: i73248
+  members:
+  - Oirísis
+  partOfSpeech: n
+06984128-n:
+  definition:
+  - confidence: 0.0
+    text: the Indic language spoken by the people of India who live in Gujarat in
+      western India
+  hypernym:
+  - 06981803-n
+  ili: i73250
+  members:
+  - Gúisearáitis
+  partOfSpeech: n
+06984279-n:
+  definition:
+  - confidence: 0.0
+    text: the Indic language spoken by people in Pakistan and Punjab
+  hypernym:
+  - 06981803-n
+  ili: i73251
+  members:
+  - Puinseáibis
+  partOfSpeech: n
+06985534-n:
+  definition:
+  - confidence: 0.0
+    text: the official state language of Kashmir
+  hypernym:
+  - 06916947-n
+  ili: i73259
+  members:
+  - Caismíris
+  partOfSpeech: n
+06985645-n:
+  definition:
+  - confidence: 0.0
+    text: the official state language of Nepal
+  hypernym:
+  - 06916947-n
+  ili: i73260
+  members:
+  - Neipeailis
+  partOfSpeech: n
+06987792-n:
+  definition:
+  - confidence: 0.0
+    text: an Iranian language spoken in Afghanistan and Pakistan; the official language
+      of Afghanistan
+  hypernym:
+  - 06916947-n
+  ili: i73274
+  members:
+  - Paistis
+  partOfSpeech: n
+06988562-n:
+  definition:
+  - confidence: 0.0
+    text: the language of the Hittites and the principal language of the Anatolian
+      group of languages; deciphered from cuneiform inscriptions
+  hypernym:
+  - 06916947-n
+  ili: i73278
+  members:
+  - Hitis
+  partOfSpeech: n
+06989052-n:
+  definition:
+  - confidence: 0.0
+    text: the Hellenic branch of the Indo-European family of languages
+  hypernym:
+  - 06916947-n
+  ili: i73283
+  members:
+  - Heilléinic
+  partOfSpeech: n
+06990094-n:
+  definition:
+  - confidence: 0.0
+    text: the Greek language prior to the Roman Empire
+  hypernym:
+  - 06989052-n
+  ili: i73290
+  members:
+  - Sean-Ghréigis
+  partOfSpeech: n
+06991082-n:
+  definition:
+  - confidence: 0.0
+    text: a northern Caucasian language spoken by the Chechen
+  hypernym:
+  - 06916947-n
+  ili: i73296
+  members:
+  - Seisnis
+  partOfSpeech: n
+06991426-n:
+  definition:
+  - confidence: 0.0
+    text: a southern Caucasian language with 3 million speakers and a long literary
+      tradition
+  hypernym:
+  - 06916947-n
+  ili: i73299
+  members:
+  - Seoirsis
+  partOfSpeech: n
+06992617-n:
+  definition:
+  - confidence: 0.0
+    text: a Dravidian language spoken in southern India
+  hypernym:
+  - 06916947-n
+  ili: i73307
+  members:
+  - Cannadais
+  partOfSpeech: n
+06993381-n:
+  definition:
+  - confidence: 0.0
+    text: a Dravidian language spoken by the Telugu in southeastern India
+  hypernym:
+  - 06916947-n
+  ili: i73312
+  members:
+  - Teileagúis
+  partOfSpeech: n
+06999218-n:
+  definition:
+  - confidence: 0.0
+    text: a large family of related languages spoken both in Asia and Africa
+  hypernym:
+  - 06916947-n
+  ili: i73358
+  members:
+  - Afra-Áisic
+  partOfSpeech: n
+06999784-n:
+  definition:
+  - confidence: 0.0
+    text: the ancient Canaanitic language of the Hebrews that has been revived as
+      the official language of Israel
+  hypernym:
+  - 06999218-n
+  ili: i73360
+  members:
+  - Eabhrais
+  partOfSpeech: n
+07000717-n:
+  definition:
+  - confidence: 0.0
+    text: the Semitic language of the Arabs; spoken in a variety of dialects
+  hypernym:
+  - 06999218-n
+  ili: i73365
+  members:
+  - Araibis
+  partOfSpeech: n
+07000967-n:
+  definition:
+  - confidence: 0.0
+    text: a Semitic language originally of the ancient Arameans but still spoken by
+      other people in southwestern Asia
+  hypernym:
+  - 06999218-n
+  ili: i73366
+  members:
+  - Aramais
+  partOfSpeech: n
+07003031-n:
+  definition:
+  - confidence: 0.0
+    text: the liturgical language of the Coptic Church used in Egypt and Ethiopia;
+      written in the Greek alphabet
+  hypernym:
+  - 06999218-n
+  ili: i73379
+  members:
+  - Coptais
+  partOfSpeech: n
+07007268-n:
+  definition:
+  - confidence: 0.0
+    text: a Bantu language closely related to Zulu, with about three million speakers
+  hypernym:
+  - 06916947-n
+  ili: i73408
+  members:
+  - Suaisis
+  partOfSpeech: n
+07007360-n:
+  definition:
+  - confidence: 0.0
+    text: a Bantu language closely related to Zulu, it is the second most common home
+      language in South Africa
+  hypernym:
+  - 06916947-n
+  ili: i73409
+  members:
+  - Cóisis
+  partOfSpeech: n
+07009554-n:
+  definition:
+  - confidence: 0.0
+    text: the West African language of the Wolof in Senegal; related to Fula
+  hypernym:
+  - 06916947-n
+  ili: i73424
+  members:
+  - Volaifis
+  partOfSpeech: n
+07011893-n:
+  definition:
+  - confidence: 0.0
+    text: artwork that helps make something clear or attractive
+  hypernym:
+  - 00033319-n
+  ili: i73440
+  members:
+  - léaráid
+  partOfSpeech: n
+07012462-n:
+  definition:
+  - confidence: 0.0
+    text: a visual display of information
+  hypernym:
+  - 00033319-n
+  ili: i73443
+  members:
+  - cairt
+  - graf
+  partOfSpeech: n
+07012937-n:
+  definition:
+  - confidence: 0.0
+    text: a visual representation of the relations between certain quantities, represented
+      as points, plotted with reference to a set of axes
+  hypernym:
+  - 00033319-n
+  ili: i73445
+  members:
+  - graf
+  partOfSpeech: n
+07016235-n:
+  definition:
+  - confidence: 0.0
+    text: an illustration that is drawn by hand and published in a book, magazine,
+      or newspaper
+  hypernym:
+  - 00033319-n
+  ili: i73461
+  members:
+  - dearadh
+  - líníocht
+  partOfSpeech: n
+07019235-n:
+  definition:
+  - confidence: 0.0
+    text: the art of writing and producing plays
+  hypernym:
+  - 06262268-n
+  ili: i73479
+  members:
+  - drámaíocht
+  partOfSpeech: n
+07020287-n:
+  definition:
+  - confidence: 0.0
+    text: the production of a drama on the stage
+  hypernym:
+  - 00033319-n
+  ili: i73482
+  members:
+  - léiriú
+  partOfSpeech: n
+07021061-n:
+  definition:
+  - confidence: 0.0
+    text: a dramatic work intended for performance by actors on a stage
+  hypernym:
+  - 06374360-n
+  ili: i73487
+  members:
+  - dráma
+  partOfSpeech: n
+07022756-n:
+  definition:
+  - confidence: 0.0
+    text: a subdivision of a play or opera or ballet
+  hypernym:
+  - 06374360-n
+  ili: i73496
+  members:
+  - gníomh
+  partOfSpeech: n
+07023062-n:
+  definition:
+  - confidence: 0.0
+    text: a written version of a play or other dramatic composition; used in preparing
+      for a performance
+  hypernym:
+  - 06374360-n
+  ili: i73498
+  members:
+  - script
+  partOfSpeech: n
+07025650-n:
+  definition:
+  - confidence: 0.0
+    text: text consisting of a row of words written across a page or computer screen
+  hypernym:
+  - 06399623-n
+  ili: i73514
+  members:
+  - líne
+  partOfSpeech: n
+07028624-n:
+  definition:
+  - confidence: 0.0
+    text: light and humorous drama with a happy ending
+  hypernym:
+  - 00033319-n
+  ili: i73531
+  members:
+  - coiméide
+  partOfSpeech: n
+07029364-n:
+  definition:
+  - confidence: 0.0
+    text: a comedy characterized by broad satire and improbable situations
+  hypernym:
+  - 07028624-n
+  ili: i73535
+  members:
+  - fronsa
+  partOfSpeech: n
+07030062-n:
+  definition:
+  - confidence: 0.0
+    text: drama in which the protagonist is overcome by some superior force or circumstance;
+      excites terror or pity
+  hypernym:
+  - 00033319-n
+  ili: i73540
+  members:
+  - traigéide
+  partOfSpeech: n
+07033652-n:
+  definition:
+  - confidence: 0.0
+    text: an artistic form of nonverbal communication
+  hypernym:
+  - 02746552-n
+  ili: i73564
+  members:
+  - damhsa
+  partOfSpeech: n
+07033877-n:
+  definition:
+  - confidence: 0.0
+    text: the representation of dancing by symbols as music is represented by notes
+  hypernym:
+  - 07033652-n
+  ili: i73565
+  members:
+  - cóiréagrafaíocht
+  partOfSpeech: n
+07034009-n:
+  definition:
+  - confidence: 0.0
+    text: an artistic form of auditory communication incorporating instrumental or
+      vocal tones in a structured and continuous manner
+  hypernym:
+  - 00033319-n
+  ili: i73566
+  members:
+  - ceol
+  partOfSpeech: n
+07039708-n:
+  definition:
+  - confidence: 0.0
+    text: serious music performed by a small group of musicians
+  hypernym:
+  - 07034009-n
+  - 05847533-n
+  ili: i73575
+  members:
+  - ceol aireagail
+  partOfSpeech: n
+07039821-n:
+  definition:
+  - confidence: 0.0
+    text: a drama set to music; consists of singing with orchestral accompaniment
+      and an orchestral overture and interludes
+  hypernym:
+  - 07034009-n
+  - 05847533-n
+  ili: i73576
+  members:
+  - ceoldráma
+  partOfSpeech: n
+07041860-n:
+  definition:
+  - confidence: 0.0
+    text: a succession of notes forming a distinctive sequence
+  hypernym:
+  - 07034009-n
+  ili: i73587
+  members:
+  - fonn
+  partOfSpeech: n
+07042734-n:
+  definition:
+  - confidence: 0.0
+    text: (music) melodic subject of a musical composition
+  hypernym:
+  - 07041860-n
+  ili: i73591
+  members:
+  - téama
+  partOfSpeech: n
+07049616-n:
+  definition:
+  - confidence: 0.0
+    text: a song of praise (to God or to a saint or to a nation)
+  hypernym:
+  - 07062058-n
+  - 05847533-n
+  ili: i73630
+  members:
+  - iomann
+  partOfSpeech: n
+07051211-n:
+  definition:
+  - confidence: 0.0
+    text: a musical work that has been created
+  hypernym:
+  - 07034009-n
+  ili: i73641
+  members:
+  - píosa
+  partOfSpeech: n
+07056608-n:
+  definition:
+  - confidence: 0.0
+    text: a contrapuntal piece of music in which a melody in one part is imitated
+      exactly in other parts
+  hypernym:
+  - 07051211-n
+  ili: i73673
+  members:
+  - canóin
+  partOfSpeech: n
+07057021-n:
+  definition:
+  - confidence: 0.0
+    text: a composition for orchestra and a soloist
+  hypernym:
+  - 07034009-n
+  - 05847533-n
+  ili: i73675
+  members:
+  - coinséartó
+  partOfSpeech: n
+07058506-n:
+  definition:
+  - confidence: 0.0
+    text: a long and complex sonata for symphony orchestra
+  hypernym:
+  - 07051211-n
+  ili: i73686
+  members:
+  - siansa
+  partOfSpeech: n
+07062058-n:
+  definition:
+  - confidence: 0.0
+    text: a short musical composition with words
+  hypernym:
+  - 07051211-n
+  ili: i73707
+  members:
+  - amhrán
+  partOfSpeech: n
+07069845-n:
+  definition:
+  - confidence: 0.0
+    text: music in three-four time for dancing a jig
+  hypernym:
+  - 07034009-n
+  ili: i73756
+  members:
+  - port
+  partOfSpeech: n
+07074002-n:
+  definition:
+  - confidence: 0.0
+    text: music of general appeal to teenagers; a bland watered-down version of rock'n'roll
+      with more rhythm and harmony and an emphasis on romantic love
+  hypernym:
+  - 07034009-n
+  - 05847533-n
+  ili: i73786
+  members:
+  - popcheol
+  partOfSpeech: n
+07079780-n:
+  definition:
+  - confidence: 0.0
+    text: rock music with deliberately offensive lyrics expressing anger and social
+      alienation; in part a reaction against progressive rock
+  hypernym:
+  - 07034009-n
+  - 05847533-n
+  ili: i73814
+  members:
+  - punc
+  partOfSpeech: n
+07080082-n:
+  definition:
+  - confidence: 0.0
+    text: a style of jazz played by big bands popular in the 1930s; flowing rhythms
+      but less complex than later styles of jazz
+  hypernym:
+  - 07034009-n
+  - 05847533-n
+  ili: i73816
+  members:
+  - luasc-cheol
+  partOfSpeech: n
+07095931-n:
+  definition:
+  - confidence: 0.0
+    text: the manner in which something is expressed in words
+  hypernym:
+  - 00033319-n
+  ili: i73863
+  members:
+  - foclaíocht
+  partOfSpeech: n
+07097438-n:
+  definition:
+  - confidence: 0.0
+    text: an expert manner of speaking involving control of voice and gesture
+  hypernym:
+  - 00033319-n
+  ili: i73872
+  members:
+  - deaslabhra
+  partOfSpeech: n
+07105779-n:
+  definition:
+  - confidence: 0.0
+    text: a shortened form of a word or phrase
+  hypernym:
+  - 06297048-n
+  ili: i73919
+  members:
+  - giorrúchán
+  partOfSpeech: n
+07106330-n:
+  definition:
+  - confidence: 0.0
+    text: a word formed from the initial letters of the several words in the name
+      and pronounced as one word
+  hypernym:
+  - 06297048-n
+  ili: i73921
+  members:
+  - acrainm
+  partOfSpeech: n
+07121485-n:
+  definition:
+  - confidence: 0.0
+    text: a figure of speech in which an expression is used to refer to something
+      that it does not literally denote in order to suggest a similarity
+  hypernym:
+  - 00033319-n
+  ili: i74009
+  members:
+  - meafar
+  partOfSpeech: n
+07122967-n:
+  definition:
+  - confidence: 0.0
+    text: a figure of speech that expresses a resemblance between things of different
+      kinds (usually formed with 'like' or 'as')
+  hypernym:
+  - 00033319-n
+  ili: i74017
+  members:
+  - samhail
+  partOfSpeech: n
+07123904-n:
+  definition:
+  - confidence: 0.0
+    text: (language) communication by word of mouth
+  hypernym:
+  - 00033319-n
+  ili: i74022
+  members:
+  - caint
+  - urlabhra
+  partOfSpeech: n
+07125323-n:
+  definition:
+  - confidence: 0.0
+    text: the sound made by the vibration of vocal folds modified by the resonance
+      of the vocal tract
+  hypernym:
+  - 00033319-n
+  ili: i74026
+  members:
+  - guth
+  partOfSpeech: n
+07137720-n:
+  definition:
+  - confidence: 0.0
+    text: sharp piercing cry
+  hypernym:
+  - 00033319-n
+  ili: i74092
+  members:
+  - scread
+  partOfSpeech: n
+07138880-n:
+  definition:
+  - confidence: 0.0
+    text: blasphemous language (expressing disrespect for God or for something sacred)
+  hypernym:
+  - 06611268-n
+  ili: i74098
+  members:
+  - blaisféim
+  - diamhasla
+  partOfSpeech: n
+07148021-n:
+  definition:
+  - confidence: 0.0
+    text: an expression that is difficult to articulate clearly
+  hypernym:
+  - 07123904-n
+  ili: i74149
+  members:
+  - rabhlóg
+  partOfSpeech: n
+07148409-n:
+  definition:
+  - confidence: 0.0
+    text: the use of speech for informal exchange of views or ideas or information
+      etc.
+  hypernym:
+  - 07123904-n
+  ili: i74151
+  members:
+  - comhrá
+  partOfSpeech: n
+07149558-n:
+  definition:
+  - confidence: 0.0
+    text: an informal conversation
+  hypernym:
+  - 07148409-n
+  ili: i74157
+  members:
+  - comhrá
+  partOfSpeech: n
+07150442-n:
+  definition:
+  - confidence: 0.0
+    text: an exchange of ideas via conversation
+  hypernym:
+  - 07148409-n
+  ili: i74161
+  members:
+  - caint
+  partOfSpeech: n
+07150914-n:
+  definition:
+  - confidence: 0.0
+    text: a conversation between two persons
+  hypernym:
+  - 07150442-n
+  ili: i74163
+  members:
+  - agallamh
+  - comhrá
+  - idirphlé
+  partOfSpeech: n
+07155367-n:
+  definition:
+  - confidence: 0.0
+    text: an exchange of views on some topic
+  hypernym:
+  - 07123904-n
+  ili: i74187
+  members:
+  - comhrá
+  - díospóireacht
+  partOfSpeech: n
+07155686-n:
+  definition:
+  - confidence: 0.0
+    text: a discussion in which reasons are advanced for and against some proposition
+      or proposal
+  hypernym:
+  - 07155367-n
+  ili: i74188
+  members:
+  - díospóireacht
+  partOfSpeech: n
+07157845-n:
+  definition:
+  - confidence: 0.0
+    text: a conference between two or more people to consider a particular question
+  hypernym:
+  - 07155367-n
+  ili: i74202
+  members:
+  - comhairle
+  - comhairliúchán
+  partOfSpeech: n
+07159542-n:
+  definition:
+  - confidence: 0.0
+    text: a conference at which press and tv reporters ask questions of a politician
+      or other celebrity
+  hypernym:
+  - 07155367-n
+  ili: i74210
+  members:
+  - preasagallamh
+  partOfSpeech: n
+07160216-n:
+  definition:
+  - confidence: 0.0
+    text: a meeting for execution of a group's functions
+  hypernym:
+  - 07155367-n
+  ili: i74213
+  members:
+  - seisiún
+  partOfSpeech: n
+07160666-n:
+  definition:
+  - confidence: 0.0
+    text: a conference of people who are in different locations that is made possible
+      by the use of such telecommunications equipment as closed-circuit television
+  hypernym:
+  - 07155367-n
+  ili: i74215
+  members:
+  - teileachomhdháil
+  partOfSpeech: n
+07162900-n:
+  definition:
+  - confidence: 0.0
+    text: a discussion intended to produce an agreement
+  hypernym:
+  - 07155367-n
+  ili: i74228
+  members:
+  - comhchainteanna
+  - margáil
+  - caibidlíocht
+  - idirbheartaíocht
+  partOfSpeech: n
+07163281-n:
+  definition:
+  - confidence: 0.0
+    text: negotiation between nations
+  hypernym:
+  - 07162900-n
+  ili: i74229
+  members:
+  - taidhleoireacht
+  partOfSpeech: n
+07164544-n:
+  definition:
+  - confidence: 0.0
+    text: the negotiation of the terms of a transaction or agreement
+  hypernym:
+  - 07162900-n
+  ili: i74235
+  members:
+  - margáil
+  partOfSpeech: n
+07164731-n:
+  definition:
+  - confidence: 0.0
+    text: negotiation between an employer and trade union
+  hypernym:
+  - 07162900-n
+  ili: i74236
+  members:
+  - cómhargáil
+  partOfSpeech: n
+07176845-n:
+  definition:
+  - confidence: 0.0
+    text: something proposed (such as a plan or assumption)
+  hypernym:
+  - 06611268-n
+  ili: i74292
+  members:
+  - togra
+  partOfSpeech: n
+07177331-n:
+  definition:
+  - confidence: 0.0
+    text: a proposal offered for acceptance or rejection
+  hypernym:
+  - 07176845-n
+  ili: i74295
+  members:
+  - moladh
+  partOfSpeech: n
+07178244-n:
+  definition:
+  - confidence: 0.0
+    text: a formal proposal for action made to a deliberative assembly for discussion
+      and vote
+  hypernym:
+  - 07176845-n
+  ili: i74300
+  members:
+  - rún
+  - tairiscint
+  partOfSpeech: n
+07179197-n:
+  definition:
+  - confidence: 0.0
+    text: something offered (as a proposal or bid)
+  hypernym:
+  - 06611268-n
+  ili: i74305
+  members:
+  - tairiscint
+  partOfSpeech: n
+07179737-n:
+  definition:
+  - confidence: 0.0
+    text: a formal proposal to buy at a specified price
+  hypernym:
+  - 07179197-n
+  ili: i74307
+  members:
+  - tairiscint
+  partOfSpeech: n
+07180157-n:
+  definition:
+  - confidence: 0.0
+    text: a formal written offer to sell securities (filed with the SEC) that sets
+      forth a plan for a (proposed) business enterprise
+  hypernym:
+  - 07179197-n
+  ili: i74310
+  members:
+  - réamheolaire
+  partOfSpeech: n
+07182229-n:
+  definition:
+  - confidence: 0.0
+    text: something (manuscripts or architectural plans and models or estimates or
+      works of art of all genres etc.) submitted for the judgment of others (as in
+      a competition)
+  hypernym:
+  - 06611268-n
+  ili: i74320
+  members:
+  - aighneacht
+  - iontráil
+  partOfSpeech: n
+07183274-n:
+  definition:
+  - confidence: 0.0
+    text: (often plural) a command given by a superior (e.g., a military or law enforcement
+      officer) that must be obeyed
+  hypernym:
+  - 00030657-n
+  ili: i74324
+  members:
+  - ordú
+  partOfSpeech: n
+07183893-n:
+  definition:
+  - confidence: 0.0
+    text: a verbal command for action
+  hypernym:
+  - 07183274-n
+  ili: i74327
+  members:
+  - focal
+  partOfSpeech: n
+07184731-n:
+  definition:
+  - confidence: 0.0
+    text: a pronouncement encouraging or banning some activity
+  hypernym:
+  - 06738626-n
+  ili: i74333
+  members:
+  - treoir
+  partOfSpeech: n
+07186591-n:
+  definition:
+  - confidence: 0.0
+    text: an explanation or critical interpretation (especially of the Bible)
+  hypernym:
+  - 06735202-n
+  ili: i74343
+  members:
+  - eisigéis
+  partOfSpeech: n
+07188236-n:
+  definition:
+  - confidence: 0.0
+    text: an interpretation of a matter from a particular viewpoint
+  hypernym:
+  - 06735202-n
+  ili: i74350
+  members:
+  - leagan
+  partOfSpeech: n
+07191464-n:
+  definition:
+  - confidence: 0.0
+    text: concurrence of opinion
+  hypernym:
+  - 00030657-n
+  ili: i74366
+  members:
+  - comhréir
+  partOfSpeech: n
+07192584-n:
+  definition:
+  - confidence: 0.0
+    text: a conclusive resolution of a matter and disposition of it
+  hypernym:
+  - 06783066-n
+  ili: i74373
+  members:
+  - socraíocht
+  - socrú
+  partOfSpeech: n
+07194603-n:
+  definition:
+  - confidence: 0.0
+    text: making something valid by formally ratifying or confirming it
+  hypernym:
+  - 00030657-n
+  ili: i74384
+  members:
+  - daingniú
+  partOfSpeech: n
+07196595-n:
+  definition:
+  - confidence: 0.0
+    text: a disagreement or argument about something important
+  hypernym:
+  - 00030657-n
+  ili: i74396
+  members:
+  - díospóid
+  partOfSpeech: n
+07197811-n:
+  definition:
+  - confidence: 0.0
+    text: a contentious speech act; a dispute where there is strong disagreement
+  hypernym:
+  - 07196595-n
+  ili: i74403
+  members:
+  - argóint
+  - conspóid
+  partOfSpeech: n
+07199985-n:
+  definition:
+  - confidence: 0.0
+    text: the verbal act of requesting
+  hypernym:
+  - 00030657-n
+  ili: i74414
+  members:
+  - iarratas
+  partOfSpeech: n
+07200808-n:
+  definition:
+  - confidence: 0.0
+    text: a request (spoken or written) to participate or be present or take part
+      in something
+  hypernym:
+  - 07199985-n
+  - 06636668-n
+  ili: i74417
+  members:
+  - cuireadh
+  partOfSpeech: n
+07201488-n:
+  definition:
+  - confidence: 0.0
+    text: earnest or urgent request
+  hypernym:
+  - 07199985-n
+  ili: i74420
+  members:
+  - achainí
+  partOfSpeech: n
+07205353-n:
+  definition:
+  - confidence: 0.0
+    text: a request
+  hypernym:
+  - 07199985-n
+  ili: i74443
+  members:
+  - glaoch
+  partOfSpeech: n
+07205601-n:
+  definition:
+  - confidence: 0.0
+    text: request for payment of a debt
+  hypernym:
+  - 07199985-n
+  ili: i74445
+  members:
+  - billeáil
+  partOfSpeech: n
+07205939-n:
+  definition:
+  - confidence: 0.0
+    text: an urgent or peremptory request
+  hypernym:
+  - 06525357-n
+  ili: i74447
+  members:
+  - éileamh
+  partOfSpeech: n
+07208256-n:
+  definition:
+  - confidence: 0.0
+    text: an instance of questioning
+  hypernym:
+  - 07199985-n
+  ili: i74460
+  members:
+  - ceist
+  partOfSpeech: n
+07208618-n:
+  definition:
+  - confidence: 0.0
+    text: formal systematic questioning
+  hypernym:
+  - 07199985-n
+  ili: i74461
+  members:
+  - ceistiúchán
+  partOfSpeech: n
+07210735-n:
+  definition:
+  - confidence: 0.0
+    text: the questioning of a person (or a conversation in which information is elicited);
+      often conducted by journalists
+  hypernym:
+  - 07208618-n
+  ili: i74472
+  members:
+  - agallamh
+  partOfSpeech: n
+07211342-n:
+  definition:
+  - confidence: 0.0
+    text: a sentence of inquiry that asks for a reply
+  hypernym:
+  - 06295743-n
+  ili: i74475
+  members:
+  - ceist
+  partOfSpeech: n
+07211681-n:
+  definition:
+  - confidence: 0.0
+    text: a set of questions or exercises evaluating skill or knowledge
+  hypernym:
+  - 06262268-n
+  ili: i74476
+  members:
+  - scrúdú
+  partOfSpeech: n
+07215880-n:
+  definition:
+  - confidence: 0.0
+    text: the speech act of refuting by offering a contrary contention or argument
+  hypernym:
+  - 00030657-n
+  ili: i74498
+  members:
+  - frisnéis
+  partOfSpeech: n
+07217239-n:
+  definition:
+  - confidence: 0.0
+    text: a brief description given for purposes of identification
+  hypernym:
+  - 00030657-n
+  ili: i74504
+  members:
+  - lipéad
+  partOfSpeech: n
+07218048-n:
+  definition:
+  - confidence: 0.0
+    text: a factual statement made by one party in order to induce another party to
+      enter into a contract
+  hypernym:
+  - 06735202-n
+  ili: i74508
+  members:
+  - uiríoll
+  partOfSpeech: n
+07218770-n:
+  definition:
+  - confidence: 0.0
+    text: a statement of taxable goods or of dutiable properties
+  hypernym:
+  - 06735202-n
+  ili: i74513
+  members:
+  - dearbhú
+  partOfSpeech: n
+07220233-n:
+  definition:
+  - confidence: 0.0
+    text: the act of refusing
+  hypernym:
+  - 00030657-n
+  ili: i74523
+  members:
+  - diúltú
+  partOfSpeech: n
+07223368-n:
+  definition:
+  - confidence: 0.0
+    text: an expression of grievance or resentment
+  hypernym:
+  - 00030657-n
+  ili: i74541
+  members:
+  - gearán
+  partOfSpeech: n
+07232442-n:
+  definition:
+  - confidence: 0.0
+    text: detailed instructions, as for a military operation
+  hypernym:
+  - 00030657-n
+  ili: i74590
+  members:
+  - faisnéisiú
+  partOfSpeech: n
+07232584-n:
+  definition:
+  - confidence: 0.0
+    text: the act of informing by verbal report
+  hypernym:
+  - 00030657-n
+  ili: i74591
+  members:
+  - tuairisc
+  - tuarascáil
+  partOfSpeech: n
+07233130-n:
+  definition:
+  - confidence: 0.0
+    text: a written document describing the findings of some individual or group
+  hypernym:
+  - 06481744-n
+  ili: i74593
+  members:
+  - tuairisc
+  - tuarascáil
+  partOfSpeech: n
+07235126-n:
+  definition:
+  - confidence: 0.0
+    text: report of a mission or task
+  hypernym:
+  - 07232584-n
+  - 07208618-n
+  ili: i74605
+  members:
+  - faisnéisiú
+  partOfSpeech: n
+07235433-n:
+  definition:
+  - confidence: 0.0
+    text: the act of giving an account describing incidents or a course of events
+  hypernym:
+  - 07232584-n
+  ili: i74607
+  members:
+  - aithris
+  partOfSpeech: n
+07235754-n:
+  definition:
+  - confidence: 0.0
+    text: a message that tells the particulars of an act or occurrence or course of
+      events; presented in writing or drama or cinema or as a radio or television
+      program
+  hypernym:
+  - 06611268-n
+  ili: i74608
+  members:
+  - scéal
+  partOfSpeech: n
+07238110-n:
+  definition:
+  - confidence: 0.0
+    text: gossip (usually a mixture of truth and untruth) passed around by word of
+      mouth
+  hypernym:
+  - 07232584-n
+  ili: i74620
+  members:
+  - ráfla
+  partOfSpeech: n
+07238811-n:
+  definition:
+  - confidence: 0.0
+    text: a message informing of danger
+  hypernym:
+  - 00030657-n
+  ili: i74624
+  members:
+  - foláireamh
+  - rabhadh
+  partOfSpeech: n
+07241961-n:
+  definition:
+  - confidence: 0.0
+    text: a promise
+  hypernym:
+  - 06697128-n
+  - 00030657-n
+  ili: i74642
+  members:
+  - focal
+  partOfSpeech: n
+07242871-n:
+  definition:
+  - confidence: 0.0
+    text: a mutual promise to marry
+  hypernym:
+  - 06697128-n
+  - 00030657-n
+  ili: i74647
+  members:
+  - cleamhnas
+  - gealltanas
+  partOfSpeech: n
+07243631-n:
+  definition:
+  - confidence: 0.0
+    text: an acknowledgment of appreciation
+  hypernym:
+  - 06611268-n
+  ili: i74652
+  members:
+  - buí
+  - buíochas
+  partOfSpeech: n
+07248890-n:
+  definition:
+  - confidence: 0.0
+    text: a formal charge of wrongdoing brought against a person; the act of imputing
+      blame or guilt
+  hypernym:
+  - 06571356-n
+  ili: i74685
+  members:
+  - cúiseamh
+  partOfSpeech: n
+07249541-n:
+  definition:
+  - confidence: 0.0
+    text: a public instance of reciting or repeating (from memory) something prepared
+      in advance
+  hypernym:
+  - 07253354-n
+  ili: i74688
+  members:
+  - aithris
+  partOfSpeech: n
+07250596-n:
+  definition:
+  - confidence: 0.0
+    text: a legal document calling someone to court to answer an indictment
+  hypernym:
+  - 06491336-n
+  ili: i74694
+  members:
+  - díotchúiseamh
+  partOfSpeech: n
+07250737-n:
+  definition:
+  - confidence: 0.0
+    text: (law) a formal accusation against somebody (often in a court of law)
+  hypernym:
+  - 07248890-n
+  ili: i74695
+  members:
+  - líomhain
+  partOfSpeech: n
+07251419-n:
+  definition:
+  - confidence: 0.0
+    text: (United Kingdom) a written statement of the grounds of complaint made to
+      court of law asking for the grievance to be redressed
+  hypernym:
+  - 07250737-n
+  ili: i74699
+  members:
+  - gearán
+  partOfSpeech: n
+07253354-n:
+  definition:
+  - confidence: 0.0
+    text: the act of delivering a formal spoken communication to an audience
+  hypernym:
+  - 00030657-n
+  ili: i74711
+  members:
+  - aitheasc
+  - óráid
+  partOfSpeech: n
+07255209-n:
+  definition:
+  - confidence: 0.0
+    text: a speech that is open to the public
+  hypernym:
+  - 07253354-n
+  ili: i74721
+  members:
+  - léacht
+  partOfSpeech: n
+07261731-n:
+  definition:
+  - confidence: 0.0
+    text: a message issued in behalf of some product or cause or idea or person or
+      institution
+  hypernym:
+  - 06611268-n
+  ili: i74756
+  members:
+  - bolscaireacht
+  - poiblíocht
+  partOfSpeech: n
+07262593-n:
+  definition:
+  - confidence: 0.0
+    text: a promotion intended to create goodwill for a person or institution
+  hypernym:
+  - 07261731-n
+  ili: i74760
+  members:
+  - caidreamh poiblí
+  partOfSpeech: n
+07263469-n:
+  definition:
+  - confidence: 0.0
+    text: a public promotion of some product or service
+  hypernym:
+  - 07261731-n
+  ili: i74765
+  members:
+  - fógra
+  - fógrán
+  - fógraíocht
+  partOfSpeech: n
+07265007-n:
+  definition:
+  - confidence: 0.0
+    text: an advertisement (usually printed on a page or in a leaflet) intended for
+      wide distribution
+  hypernym:
+  - 07263469-n
+  ili: i74774
+  members:
+  - ciorclán
+  partOfSpeech: n
+07266874-n:
+  definition:
+  - confidence: 0.0
+    text: encouragement; aiding the development of something
+  hypernym:
+  - 06611268-n
+  ili: i74783
+  members:
+  - cothú
+  partOfSpeech: n
+07275291-n:
+  definition:
+  - confidence: 0.0
+    text: a basis for comparison; a reference point against which other things can
+      be evaluated
+  hypernym:
+  - 00033914-n
+  ili: i74827
+  members:
+  - caighdeán
+  - critéar
+  partOfSpeech: n
+07275811-n:
+  definition:
+  - confidence: 0.0
+    text: a standard by which something can be measured or judged
+  hypernym:
+  - 07275291-n
+  ili: i74828
+  members:
+  - tagarmharc
+  partOfSpeech: n
+07276776-n:
+  definition:
+  - confidence: 0.0
+    text: a reference point to shoot at
+  hypernym:
+  - 07277247-n
+  ili: i74833
+  members:
+  - sprioc
+  - targaid
+  partOfSpeech: n
+07277247-n:
+  definition:
+  - confidence: 0.0
+    text: a signal for attracting attention
+  hypernym:
+  - 06804229-n
+  ili: i74837
+  members:
+  - táscaire
+  partOfSpeech: n
+07279488-n:
+  definition:
+  - confidence: 0.0
+    text: signal going into an electronic system
+  hypernym:
+  - 06804229-n
+  ili: i74852
+  members:
+  - ionchur
+  partOfSpeech: n
+07279593-n:
+  definition:
+  - confidence: 0.0
+    text: signal that comes out of an electronic system
+  hypernym:
+  - 06804229-n
+  ili: i74853
+  members:
+  - aschur
+  partOfSpeech: n
+07279743-n:
+  definition:
+  - confidence: 0.0
+    text: the output of a computer in printed form
+  hypernym:
+  - 07279593-n
+  ili: i74854
+  members:
+  - asphrionta
+  partOfSpeech: n
+07280883-n:
+  definition:
+  - confidence: 0.0
+    text: a float attached by rope to the seabed to mark channels in a harbor or underwater
+      hazards; typically brightly-coloured
+  hypernym:
+  - 07277247-n
+  ili: i74863
+  members:
+  - baoi
+  partOfSpeech: n
+07282014-n:
+  definition:
+  - confidence: 0.0
+    text: a staff surmounted by a crook or cross carried by bishops as a symbol of
+      pastoral office
+  hypernym:
+  - 06819327-n
+  ili: i74872
+  members:
+  - bachall
+  partOfSpeech: n
+07284621-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) a graphic symbol (usually a simple picture) that denotes
+      a program or a command or a data file or a concept in a graphical user interface
+  hypernym:
+  - 06819327-n
+  ili: i74889
+  members:
+  - deilbhín
+  partOfSpeech: n
+07285306-n:
+  definition:
+  - confidence: 0.0
+    text: a symbol that establishes the identity of the one bearing it
+  hypernym:
+  - 06819327-n
+  ili: i74891
+  members:
+  - aitheantóir
+  partOfSpeech: n
+07286789-n:
+  definition:
+  - confidence: 0.0
+    text: a company emblem or device
+  hypernym:
+  - 06864792-n
+  ili: i74901
+  members:
+  - lógó
+  partOfSpeech: n
+07287841-n:
+  definition:
+  - confidence: 0.0
+    text: a label written or printed on paper, cardboard, or plastic that is attached
+      to something to indicate its owner, nature, price, etc.
+  hypernym:
+  - 06819327-n
+  ili: i74909
+  members:
+  - clib
+  partOfSpeech: n
+07292089-n:
+  definition:
+  - confidence: 0.0
+    text: something that has been transcribed; a written record (usually typewritten)
+      of dictated or recorded speech
+  hypernym:
+  - 06374360-n
+  ili: i74931
+  members:
+  - tras-scríbhinn
+  partOfSpeech: n
+07294777-n:
+  definition:
+  - confidence: 0.0
+    text: a request by the manufacturer of a defective product to return the product
+      (as for replacement or repair)
+  hypernym:
+  - 07199985-n
+  ili: i74948
+  members:
+  - aisghlaoch
+  partOfSpeech: n
+07295804-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) a message or message fragment
+  hypernym:
+  - 06263820-n
+  ili: i74954
+  members:
+  - paicéad
+  partOfSpeech: n

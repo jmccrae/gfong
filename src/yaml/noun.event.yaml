@@ -1,0 +1,846 @@
+07298313-n:
+  definition:
+  - confidence: 0.0
+    text: an event that happens
+  hypernym:
+  - 00029677-n
+  ili: i74970
+  members:
+  - tarlú
+  - teagmhas
+  partOfSpeech: n
+07304311-n:
+  definition:
+  - confidence: 0.0
+    text: something that causes feelings of wonder
+  hypernym:
+  - 07298313-n
+  ili: i74998
+  members:
+  - iontas
+  partOfSpeech: n
+07305484-n:
+  definition:
+  - confidence: 0.0
+    text: a possible event or occurrence or result
+  hypernym:
+  - 07298313-n
+  ili: i75004
+  members:
+  - cás
+  - teagmhas
+  - teagmhasacht
+  partOfSpeech: n
+07309308-n:
+  definition:
+  - confidence: 0.0
+    text: the consequence of some effort or action
+  hypernym:
+  - 07298313-n
+  ili: i75024
+  members:
+  - toradh
+  partOfSpeech: n
+07310247-n:
+  definition:
+  - confidence: 0.0
+    text: a recompense for worthy acts or retribution for wrongdoing
+  hypernym:
+  - 07298313-n
+  ili: i75031
+  members:
+  - luaíocht
+  partOfSpeech: n
+07311046-n:
+  definition:
+  - confidence: 0.0
+    text: an event that occurs when something passes from one state or phase to another
+  hypernym:
+  - 07298313-n
+  ili: i75036
+  members:
+  - athrú
+  partOfSpeech: n
+07315954-n:
+  definition:
+  - confidence: 0.0
+    text: an unfortunate mishap; especially one causing damage or injury
+  hypernym:
+  - 07298313-n
+  ili: i75057
+  members:
+  - timpiste
+  - tionóisc
+  partOfSpeech: n
+07317454-n:
+  definition:
+  - confidence: 0.0
+    text: the event of something burning (often destructive)
+  hypernym:
+  - 07298313-n
+  ili: i75065
+  members:
+  - dóiteán
+  - tine
+  partOfSpeech: n
+07318315-n:
+  definition:
+  - confidence: 0.0
+    text: a very intense and uncontrolled fire
+  hypernym:
+  - 07317454-n
+  ili: i75070
+  members:
+  - dóiteán
+  partOfSpeech: n
+07320870-n:
+  definition:
+  - confidence: 0.0
+    text: a disgraceful event
+  hypernym:
+  - 07298313-n
+  ili: i75088
+  members:
+  - scannal
+  partOfSpeech: n
+07322095-n:
+  definition:
+  - confidence: 0.0
+    text: a single distinct event
+  hypernym:
+  - 07298313-n
+  ili: i75094
+  members:
+  - eachtra
+  - teagmhas
+  partOfSpeech: n
+07323181-n:
+  definition:
+  - confidence: 0.0
+    text: a violent release of energy caused by a chemical or nuclear reaction
+  hypernym:
+  - 07298313-n
+  ili: i75101
+  members:
+  - pléasc
+  partOfSpeech: n
+07323507-n:
+  definition:
+  - confidence: 0.0
+    text: an occurrence of something
+  hypernym:
+  - 07298313-n
+  ili: i75102
+  members:
+  - cás
+  - sampla
+  partOfSpeech: n
+07324217-n:
+  definition:
+  - confidence: 0.0
+    text: an instance or single occasion for some event
+  hypernym:
+  - 07323507-n
+  ili: i75105
+  members:
+  - uair
+  partOfSpeech: n
+07324399-n:
+  definition:
+  - confidence: 0.0
+    text: a natural event that involves a change in the position or location of something
+  hypernym:
+  - 07298313-n
+  ili: i75106
+  members:
+  - gluaiseacht
+  partOfSpeech: n
+07328414-n:
+  definition:
+  - confidence: 0.0
+    text: a personal or social separation (as between opposing factions)
+  hypernym:
+  - 07311046-n
+  ili: i75125
+  members:
+  - scoilt
+  partOfSpeech: n
+07329438-n:
+  definition:
+  - confidence: 0.0
+    text: an event resulting in great loss and misfortune
+  hypernym:
+  - 07298313-n
+  ili: i75130
+  members:
+  - tubaiste
+  partOfSpeech: n
+07330390-n:
+  definition:
+  - confidence: 0.0
+    text: a severe shortage of food (as through crop failure) resulting in violent
+      hunger and starvation and death
+  hypernym:
+  - 07329438-n
+  ili: i75133
+  members:
+  - gorta
+  partOfSpeech: n
+07332364-n:
+  definition:
+  - confidence: 0.0
+    text: an event that does not accomplish its intended purpose
+  hypernym:
+  - 07298313-n
+  ili: i75145
+  members:
+  - teip
+  partOfSpeech: n
+07333076-n:
+  definition:
+  - confidence: 0.0
+    text: a failure to function normally
+  hypernym:
+  - 07332364-n
+  ili: i75148
+  members:
+  - mífheidhm
+  partOfSpeech: n
+07338522-n:
+  definition:
+  - confidence: 0.0
+    text: an event that is a beginning; a first part or stage of subsequent events
+  hypernym:
+  - 07298313-n
+  ili: i75180
+  members:
+  - tionscnamh
+  partOfSpeech: n
+07339790-n:
+  definition:
+  - confidence: 0.0
+    text: the beginning of anything
+  hypernym:
+  - 07298313-n
+  ili: i75187
+  members:
+  - tosach
+  - tús
+  partOfSpeech: n
+07340590-n:
+  definition:
+  - confidence: 0.0
+    text: the beginning or early stages
+  hypernym:
+  - 07339790-n
+  ili: i75191
+  members:
+  - tús
+  partOfSpeech: n
+07342405-n:
+  definition:
+  - confidence: 0.0
+    text: anything that contributes causally to a result
+  hypernym:
+  - 07338522-n
+  ili: i75200
+  members:
+  - fachtóir
+  partOfSpeech: n
+07342905-n:
+  definition:
+  - confidence: 0.0
+    text: any factor that defines a system and determines (or limits) its performance
+  hypernym:
+  - 07342405-n
+  ili: i75202
+  members:
+  - paraiméadar
+  partOfSpeech: n
+07347556-n:
+  definition:
+  - confidence: 0.0
+    text: a death resulting from an accident or a disaster
+  hypernym:
+  - 07370091-n
+  ili: i75229
+  members:
+  - bás
+  partOfSpeech: n
+07351990-n:
+  definition:
+  - confidence: 0.0
+    text: an instance of change; the rate or magnitude of change
+  hypernym:
+  - 07311046-n
+  ili: i75251
+  members:
+  - athrú
+  - luaineacht
+  partOfSpeech: n
+07353152-n:
+  definition:
+  - confidence: 0.0
+    text: the striking of one body against another
+  hypernym:
+  - 07298313-n
+  ili: i75256
+  members:
+  - imbhualadh
+  partOfSpeech: n
+07355638-n:
+  definition:
+  - confidence: 0.0
+    text: a single complete execution of a periodically repeated phenomenon
+  hypernym:
+  - 07298313-n
+  ili: i75270
+  members:
+  - timthriall
+  partOfSpeech: n
+07362641-n:
+  definition:
+  - confidence: 0.0
+    text: an explosive sound caused by the shock wave of an airplane traveling faster
+      than the speed of sound
+  hypernym:
+  - 07324399-n
+  ili: i75306
+  members:
+  - tormán sonach
+  partOfSpeech: n
+07364792-n:
+  definition:
+  - confidence: 0.0
+    text: a movement back from an impact
+  hypernym:
+  - 07324399-n
+  ili: i75318
+  members:
+  - athphreab
+  partOfSpeech: n
+07366790-n:
+  definition:
+  - confidence: 0.0
+    text: one of a series of ridges that moves across the surface of a liquid (especially
+      across a large body of water)
+  hypernym:
+  - 07324399-n
+  ili: i75330
+  members:
+  - tonn
+  partOfSpeech: n
+07370091-n:
+  definition:
+  - confidence: 0.0
+    text: the event of dying or departure from life
+  hypernym:
+  - 07311046-n
+  ili: i75348
+  members:
+  - bás
+  - éag
+  partOfSpeech: n
+07370487-n:
+  definition:
+  - confidence: 0.0
+    text: a change downward
+  hypernym:
+  - 07311046-n
+  ili: i75349
+  members:
+  - laghdú
+  partOfSpeech: n
+07374199-n:
+  definition:
+  - confidence: 0.0
+    text: a qualitative change
+  hypernym:
+  - 07311046-n
+  ili: i75366
+  members:
+  - aistriú
+  - athrú
+  partOfSpeech: n
+07374677-n:
+  definition:
+  - confidence: 0.0
+    text: transformation of a substance produced by the action of heat
+  hypernym:
+  - 07374199-n
+  ili: i75368
+  members:
+  - pirealú
+  partOfSpeech: n
+07374893-n:
+  definition:
+  - confidence: 0.0
+    text: (chemistry) a change directly from the solid to the gaseous state without
+      becoming liquid
+  hypernym:
+  - 07374199-n
+  ili: i75370
+  members:
+  - néalú
+  partOfSpeech: n
+07376675-n:
+  definition:
+  - confidence: 0.0
+    text: a stopping
+  hypernym:
+  - 07380449-n
+  ili: i75380
+  members:
+  - scor
+  partOfSpeech: n
+07380449-n:
+  definition:
+  - confidence: 0.0
+    text: the event of something ending
+  hypernym:
+  - 07298313-n
+  ili: i75401
+  members:
+  - stop
+  partOfSpeech: n
+07380889-n:
+  definition:
+  - confidence: 0.0
+    text: a variation that deviates from the standard or norm
+  hypernym:
+  - 07351990-n
+  ili: i75403
+  members:
+  - diallas
+  partOfSpeech: n
+07384204-n:
+  definition:
+  - confidence: 0.0
+    text: making or becoming suitable; adjusting to circumstances
+  hypernym:
+  - 07374199-n
+  ili: i75423
+  members:
+  - oiriúnú
+  partOfSpeech: n
+07388202-n:
+  definition:
+  - confidence: 0.0
+    text: an occurrence that involves the production of a union
+  hypernym:
+  - 07298313-n
+  ili: i75437
+  members:
+  - cumasc
+  partOfSpeech: n
+07389356-n:
+  definition:
+  - confidence: 0.0
+    text: an event that combines things in a mixture
+  hypernym:
+  - 07298313-n
+  ili: i75442
+  members:
+  - meascán
+  partOfSpeech: n
+07390005-n:
+  definition:
+  - confidence: 0.0
+    text: an occurrence of thorough mixing
+  hypernym:
+  - 07389356-n
+  ili: i75445
+  members:
+  - cumasc
+  partOfSpeech: n
+07391682-n:
+  definition:
+  - confidence: 0.0
+    text: a short high tone produced as a signal or warning
+  hypernym:
+  - 07298313-n
+  ili: i75458
+  members:
+  - bíp
+  partOfSpeech: n
+07411955-n:
+  definition:
+  - confidence: 0.0
+    text: a booming or crashing noise caused by air expanding along the path of a
+      bolt of lightning
+  hypernym:
+  - 07298313-n
+  ili: i75573
+  members:
+  - toirneach
+  partOfSpeech: n
+07412361-n:
+  definition:
+  - confidence: 0.0
+    text: a metallic tapping sound
+  hypernym:
+  - 07298313-n
+  ili: i75576
+  members:
+  - tic
+  partOfSpeech: n
+07417119-n:
+  definition:
+  - confidence: 0.0
+    text: the periodic rise and fall of the sea level under the gravitational pull
+      of the moon
+  hypernym:
+  - 07298313-n
+  ili: i75606
+  members:
+  - taoide
+  partOfSpeech: n
+07419737-n:
+  definition:
+  - confidence: 0.0
+    text: a slide of large masses of snow and ice and mud down a mountain
+  hypernym:
+  - 07324399-n
+  ili: i75620
+  members:
+  - maidhm shléibhe
+  partOfSpeech: n
+07420493-n:
+  definition:
+  - confidence: 0.0
+    text: the motion characteristic of fluids (liquids or gases)
+  hypernym:
+  - 07324399-n
+  ili: i75626
+  members:
+  - sreabhadh
+  partOfSpeech: n
+07421365-n:
+  definition:
+  - confidence: 0.0
+    text: a steady flow of a fluid (usually from natural causes)
+  hypernym:
+  - 07420493-n
+  ili: i75630
+  members:
+  - sruth
+  partOfSpeech: n
+07424192-n:
+  definition:
+  - confidence: 0.0
+    text: the event of something coming in contact with the body
+  hypernym:
+  - 07298313-n
+  ili: i75648
+  members:
+  - tadhall
+  partOfSpeech: n
+07429340-n:
+  definition:
+  - confidence: 0.0
+    text: the occurrence of two or more things coming together
+  hypernym:
+  - 07298313-n
+  ili: i75678
+  members:
+  - coinbhéirseacht
+  partOfSpeech: n
+07430330-n:
+  definition:
+  - confidence: 0.0
+    text: an event that results in a transformation
+  hypernym:
+  - 07374199-n
+  ili: i75683
+  members:
+  - tiontú
+  partOfSpeech: n
+07431314-n:
+  definition:
+  - confidence: 0.0
+    text: an event that occurs at a critical time
+  hypernym:
+  - 07298313-n
+  ili: i75688
+  members:
+  - am
+  - tráth
+  - uair
+  - ócáid
+  partOfSpeech: n
+07432005-n:
+  definition:
+  - confidence: 0.0
+    text: a sudden unforeseen crisis (usually involving danger) that requires immediate
+      action
+  hypernym:
+  - 07431314-n
+  ili: i75691
+  members:
+  - práinn
+  - éigeandáil
+  partOfSpeech: n
+07434199-n:
+  definition:
+  - confidence: 0.0
+    text: an occurrence of improvement by virtue of preventing loss or injury or other
+      change
+  hypernym:
+  - 07374199-n
+  ili: i75701
+  members:
+  - caomhantas
+  partOfSpeech: n
+07434392-n:
+  definition:
+  - confidence: 0.0
+    text: return to an original state
+  hypernym:
+  - 07374199-n
+  ili: i75702
+  members:
+  - téarnamh
+  partOfSpeech: n
+07435138-n:
+  definition:
+  - confidence: 0.0
+    text: a damage or loss
+  hypernym:
+  - 07435370-n
+  ili: i75707
+  members:
+  - aimhleas
+  partOfSpeech: n
+07435370-n:
+  definition:
+  - confidence: 0.0
+    text: the occurrence of a change for the worse
+  hypernym:
+  - 07311046-n
+  ili: i75709
+  members:
+  - damáiste
+  - dochar
+  - díobháil
+  partOfSpeech: n
+07438709-n:
+  definition:
+  - confidence: 0.0
+    text: a drastic and far-reaching change in ways of thinking and behaving
+  hypernym:
+  - 07311046-n
+  ili: i75727
+  members:
+  - réabhlóid
+  partOfSpeech: n
+07442328-n:
+  definition:
+  - confidence: 0.0
+    text: a sudden decline in strength or number or importance
+  hypernym:
+  - 07374199-n
+  ili: i75745
+  members:
+  - titim
+  partOfSpeech: n
+07444811-n:
+  definition:
+  - confidence: 0.0
+    text: electrical or acoustic activity that can disturb communication
+  hypernym:
+  - 07298313-n
+  ili: i75758
+  members:
+  - trasnaíocht
+  partOfSpeech: n
+07446283-n:
+  definition:
+  - confidence: 0.0
+    text: a crackling or hissing noise caused by electrical interference
+  hypernym:
+  - 07444811-n
+  ili: i75766
+  members:
+  - statach
+  partOfSpeech: n
+07450133-n:
+  definition:
+  - confidence: 0.0
+    text: a widespread outbreak of an infectious disease; many people are infected
+      at the same time
+  hypernym:
+  - 07298313-n
+  ili: i75789
+  members:
+  - eipidéim
+  partOfSpeech: n
+07450313-n:
+  definition:
+  - confidence: 0.0
+    text: an epidemic that is geographically widespread; occurring throughout a region
+      or even throughout the world
+  hypernym:
+  - 07450133-n
+  ili: i75790
+  members:
+  - paindéim
+  partOfSpeech: n
+07455579-n:
+  definition:
+  - confidence: 0.0
+    text: a single complete turn (axial or orbital)
+  hypernym:
+  - 07324399-n
+  ili: i75815
+  members:
+  - imrothlú
+  partOfSpeech: n
+07462994-n:
+  definition:
+  - confidence: 0.0
+    text: an informal social gathering at which there is Scottish or Irish folk music
+      and singing and folk dancing and story telling
+  hypernym:
+  - 07991473-n
+  - 00029677-n
+  ili: i75854
+  members:
+  - céilí
+  partOfSpeech: n
+07464276-n:
+  definition:
+  - confidence: 0.0
+    text: a dance party that lasts all night and electronically synthesized music
+      is played
+  hypernym:
+  - 07991473-n
+  - 00029677-n
+  ili: i75863
+  members:
+  - réabh
+  partOfSpeech: n
+07465442-n:
+  definition:
+  - confidence: 0.0
+    text: a formal event performed on a special occasion
+  hypernym:
+  - 07991473-n
+  - 00029677-n
+  ili: i75871
+  members:
+  - searmanas
+  partOfSpeech: n
+07466063-n:
+  definition:
+  - confidence: 0.0
+    text: a ceremony at which a dead person is buried or cremated
+  hypernym:
+  - 07465442-n
+  ili: i75873
+  members:
+  - sochraid
+  partOfSpeech: n
+07470961-n:
+  definition:
+  - confidence: 0.0
+    text: an occasion on which a winner is selected from among two or more contestants
+  hypernym:
+  - 00029677-n
+  ili: i75896
+  members:
+  - comórtas
+  - iomaíocht
+  partOfSpeech: n
+07471807-n:
+  definition:
+  - confidence: 0.0
+    text: an athletic contest consisting of ten different events
+  hypernym:
+  - 07470961-n
+  ili: i75899
+  members:
+  - deacatlan
+  partOfSpeech: n
+07472513-n:
+  definition:
+  - confidence: 0.0
+    text: an athletic contest consisting of five different events
+  hypernym:
+  - 07470961-n
+  ili: i75904
+  members:
+  - peantatlan
+  partOfSpeech: n
+07475503-n:
+  definition:
+  - confidence: 0.0
+    text: a footrace of 26 miles 385 yards
+  hypernym:
+  - 07470961-n
+  ili: i75922
+  members:
+  - maratón
+  partOfSpeech: n
+07477986-n:
+  definition:
+  - confidence: 0.0
+    text: a footrace of usually 3000 meters over a closed track with hurdles and a
+      water jump
+  hypernym:
+  - 07470961-n
+  ili: i75939
+  members:
+  - léimrás
+  partOfSpeech: n
+07485115-n:
+  definition:
+  - confidence: 0.0
+    text: an athletic competition in which a heavy metal ball is hurled as far as
+      possible
+  hypernym:
+  - 07470961-n
+  ili: i75983
+  members:
+  - cur meáchain
+  partOfSpeech: n
+07487797-n:
+  definition:
+  - confidence: 0.0
+    text: any competition
+  hypernym:
+  - 07470961-n
+  ili: i76000
+  members:
+  - rás
+  partOfSpeech: n
+07488069-n:
+  definition:
+  - confidence: 0.0
+    text: a race between candidates for elective office
+  hypernym:
+  - 07487797-n
+  ili: i76002
+  members:
+  - feachtas
+  partOfSpeech: n
+07488581-n:
+  definition:
+  - confidence: 0.0
+    text: a successful ending of a struggle or contest
+  hypernym:
+  - 07298313-n
+  ili: i76005
+  members:
+  - bua
+  partOfSpeech: n
+07492727-n:
+  definition:
+  - confidence: 0.0
+    text: a sudden happening that brings good fortune (as a sudden opportunity to
+      make money)
+  hypernym:
+  - 07298313-n
+  ili: i76030
+  members:
+  - amhantar
+  partOfSpeech: n

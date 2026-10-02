@@ -1,0 +1,6183 @@
+00038116-n:
+  definition:
+  - rud a dhéantar (seachas rud a deirtear, de ghnáth)
+  hypernym:
+  - 00030657-n
+  ili: i35610
+  members:
+  - beart
+  - gníomh
+  partOfSpeech: n
+00039759-n:
+  definition:
+  - gníomh cómhalartach; imoibriú ar a chéile
+  hypernym:
+  - 00038116-n
+  ili: i35615
+  members:
+  - idirghníomhaíocht
+  - idirghníomhú
+  partOfSpeech: n
+00040035-n:
+  definition:
+  - dlúthchaidreamh
+  hypernym:
+  - 00039759-n
+  ili: i35617
+  members:
+  - teagmháil
+  partOfSpeech: n
+00041158-n:
+  definition:
+  - pribhléidí tráchtála nó pribhléidí eile a mhalartú ar bhonn frithpháirteach
+  hypernym:
+  - 00039759-n
+  ili: i35623
+  members:
+  - cómhalartacht
+  partOfSpeech: n
+00043049-n:
+  definition:
+  - gníomh a chuireann faoi deara go dtarlóidh rud éigin
+  hypernym:
+  - 00030657-n
+  ili: i35632
+  members:
+  - cúisíocht
+  partOfSpeech: n
+00043495-n:
+  definition:
+  - imeacht ó áit nó rud éigin/áit a ghearradh/scaradh den áit/
+  hypernym:
+  - 00030657-n
+  ili: i35634
+  members:
+  - imeacht
+  partOfSpeech: n
+00044347-n:
+  definition:
+  - an gníomh nó an modh chun fáil réidh le rud éigin
+  hypernym:
+  - 00030657-n
+  ili: i35637
+  members:
+  - diúscairt
+  partOfSpeech: n
+00045991-n:
+  definition:
+  - rud a chur chun gluaiseachta agus a threorú
+  hypernym:
+  - 00030657-n
+  ili: i35644
+  members:
+  - tiomáint
+  partOfSpeech: n
+00046648-n:
+  definition:
+  - rud a thabhairt ar ais nó rud atá caillte (nó atá i mbaol a bheith caillte) a
+    shábháil
+  hypernym:
+  - 00030657-n
+  ili: i35646
+  members:
+  - aisghabháil
+  partOfSpeech: n
+00048486-n:
+  definition:
+  - cuntas iomlán ar bhearta aitheanta atá curtha i gcrích
+  hypernym:
+  - 00038116-n
+  ili: i35654
+  members:
+  - teist
+  partOfSpeech: n
+00049115-n:
+  definition:
+  - áit áirithe a bhaint amach
+  hypernym:
+  - 00038116-n
+  ili: i35658
+  members:
+  - teacht
+  partOfSpeech: n
+00049744-n:
+  definition:
+  - gabháil isteach
+  hypernym:
+  - 00049115-n
+  ili: i35661
+  members:
+  - iontráil
+  partOfSpeech: n
+00050857-n:
+  definition:
+  - clárú a dhéanamh
+  hypernym:
+  - 00049744-n
+  ili: i35667
+  members:
+  - clárú
+  - clárúchán
+  partOfSpeech: n
+00052872-n:
+  definition:
+  - dul ar ancaire
+  hypernym:
+  - 00049115-n
+  ili: i35678
+  members:
+  - ancaireacht
+  partOfSpeech: n
+00053320-n:
+  definition:
+  - teacht anuas go talamh (nó go dromchla eile)
+  hypernym:
+  - 00049115-n
+  ili: i35681
+  members:
+  - tuirlingt
+  partOfSpeech: n
+00056907-n:
+  definition:
+  - áit a fhágáil agus dul go ceann eile (go háirithe imeacht ó do thír dhúchais chun
+    socrú síos i dtír eile)
+  hypernym:
+  - 01125416-n
+  ili: i35700
+  members:
+  - eisimirce
+  - imirce
+  partOfSpeech: n
+00057131-n:
+  definition:
+  - bogadh isteach chuig áit (go háirithe dul go tír eile nach í do thír dhúchais
+    chun socrú síos inti)
+  hypernym:
+  - 01125416-n
+  ili: i35701
+  members:
+  - inimirce
+  partOfSpeech: n
+00059157-n:
+  definition:
+  - paisinéirí agus criú ag bordáil loinge nó aerárthaigh
+  hypernym:
+  - 00043495-n
+  ili: i35712
+  members:
+  - bordáil
+  partOfSpeech: n
+00059563-n:
+  definition:
+  - an gníomh le héalú as áit
+  hypernym:
+  - 00030657-n
+  ili: i35715
+  members:
+  - éalú
+  partOfSpeech: n
+00063626-n:
+  definition:
+  - aidhm nó cuspóir a chur i gcrích
+  hypernym:
+  - 00038116-n
+  ili: i35738
+  members:
+  - baint amach
+  - gnóthú
+  partOfSpeech: n
+00066395-n:
+  definition:
+  - riachtanas nó tástáil a chomhlíonadh go sásúil
+  hypernym:
+  - 00063626-n
+  ili: i35752
+  members:
+  - pas
+  partOfSpeech: n
+00067456-n:
+  definition:
+  - gníomh nach n-éiríonn leis; iarracht gan toradh sásúil
+  hypernym:
+  - 00030657-n
+  ili: i35757
+  members:
+  - teip
+  partOfSpeech: n
+00077704-n:
+  definition:
+  - titim tobann ó sheasamh
+  hypernym:
+  - 07298313-n
+  ili: i35812
+  members:
+  - titim
+  partOfSpeech: n
+00078239-n:
+  definition:
+  - ní éigin a fháil ar conradh, nó a ghlacadh ar láimh nó a shealbhú
+  hypernym:
+  - 00030657-n
+  ili: i35815
+  members:
+  - fáil
+  partOfSpeech: n
+00079838-n:
+  definition:
+  - rud a fháil nuair a íoctar as
+  hypernym:
+  - 00078239-n
+  ili: i35822
+  members:
+  - ceannach
+  - ceannachán
+  partOfSpeech: n
+00080032-n:
+  definition:
+  - confidence: 0.0
+    text: the act of purchasing back something previously sold
+  hypernym:
+  - 00079838-n
+  ili: i35823
+  members:
+  - athcheannach
+  partOfSpeech: n
+00080218-n:
+  definition:
+  - urrúis nó tráchtearraí a cheannach nó a dhíol
+  hypernym:
+  - 01092370-n
+  ili: i35824
+  members:
+  - trádáil
+  partOfSpeech: n
+00082392-n:
+  definition:
+  - an próiseas ceannaigh
+  hypernym:
+  - 00079838-n
+  ili: i35836
+  members:
+  - ceannach
+  partOfSpeech: n
+00082656-n:
+  definition:
+  - earraí nó seirbhísí a chuardach nó a cheannach
+  hypernym:
+  - 00082392-n
+  ili: i35837
+  members:
+  - siopadóireacht
+  partOfSpeech: n
+00083574-n:
+  definition:
+  - maoin a fháil trí shliocht nó trí uacht
+  hypernym:
+  - 00078239-n
+  ili: i35842
+  members:
+  - comharbas
+  partOfSpeech: n
+00084549-n:
+  definition:
+  - seilbh a thógáil ar rud éigin
+  hypernym:
+  - 00078239-n
+  ili: i35847
+  members:
+  - soláthar
+  partOfSpeech: n
+00086498-n:
+  definition:
+  - gníomh urghabhála a dhéanann an rialtas
+  hypernym:
+  - 00030657-n
+  ili: i35855
+  members:
+  - coigistíocht
+  partOfSpeech: n
+00087629-n:
+  definition:
+  - foirgneamh a thógáil nó bogadh isteach ann
+  hypernym:
+  - 00030657-n
+  ili: i35861
+  members:
+  - gabháltas
+  partOfSpeech: n
+00088483-n:
+  definition:
+  - breith tugtha ag cúirt dlí
+  hypernym:
+  - 01085569-n
+  ili: i35865
+  members:
+  - dámhachtain
+  partOfSpeech: n
+00089301-n:
+  definition:
+  - maoin a bhaint dá úinéir le héigean
+  hypernym:
+  - 00030657-n
+  ili: i35869
+  members:
+  - gabháil
+  - urghabháil
+  partOfSpeech: n
+00089545-n:
+  definition:
+  - teacht suas le duine nó ar rud (go háirithe coirpeach a thabhairt ar láimh)
+  hypernym:
+  - 00089301-n
+  ili: i35870
+  members:
+  - gabháil
+  partOfSpeech: n
+00091073-n:
+  definition:
+  - teacht ar rud
+  hypernym:
+  - 00030657-n
+  ili: i35877
+  members:
+  - fáil
+  partOfSpeech: n
+00093186-n:
+  definition:
+  - rud a chur ar díol poiblí don té a thairgeann an t-airgead is mó
+  hypernym:
+  - 01119862-n
+  ili: i35890
+  members:
+  - ceant
+  - ceantáil
+  partOfSpeech: n
+00094303-n:
+  definition:
+  - rud a shábháil nó a choimeád slán ó chailliúint nó ó chontúirt
+  hypernym:
+  - 00046648-n
+  ili: i35896
+  members:
+  - tarrtháil
+  partOfSpeech: n
+00097163-n:
+  definition:
+  - earraí nó maoin a thabhairt slán ó dhamáiste nó ó scriosadh
+  hypernym:
+  - 00094303-n
+  ili: i35909
+  members:
+  - tarrtháil
+  partOfSpeech: n
+00098324-n:
+  definition:
+  - gníomh a dhéanamh; gníomhú go rathúil agus úsáid a bhaint as eolas seachas eolas
+    a bheith agat.
+  hypernym:
+  - 00038116-n
+  ili: i35917
+  members:
+  - feidhmíocht
+  partOfSpeech: n
+00099759-n:
+  definition:
+  - freastal ort féin (i siopa grósaera nó i gcaifitéire)
+  hypernym:
+  - 01210099-n
+  ili: i35923
+  members:
+  - féinseirbhís
+  partOfSpeech: n
+00103277-n:
+  definition:
+  - rialú ar threalamh a chur i bhfeidhm le hardteicneolaíocht, úsáidtear crua-earraí
+    leictreonacha de ghnáth
+  hypernym:
+  - 00952969-n
+  ili: i35943
+  members:
+  - uathoibriú
+  partOfSpeech: n
+00103960-n:
+  definition:
+  - rud a chur chun gluaiseachta le héigean
+  hypernym:
+  - 00045991-n
+  ili: i35946
+  members:
+  - lainseáil
+  partOfSpeech: n
+00104654-n:
+  definition:
+  - fórsa a chur i bhfeidhm chun rud éigin a chur chun gluaiseachta
+  hypernym:
+  - 00045991-n
+  ili: i35951
+  members:
+  - tiomáint
+  partOfSpeech: n
+00105069-n:
+  definition:
+  - rud a theilgean (rud a chur chun gluaiseachta tríd an aer trí mhearchorraí géige
+    agus rosta)
+  hypernym:
+  - 00104654-n
+  ili: i35953
+  members:
+  - spreagadh
+  partOfSpeech: n
+00115856-n:
+  definition:
+  - rud a iompar nó a tharlú
+  hypernym:
+  - 00045991-n
+  ili: i36011
+  members:
+  - tarlú
+  - tarraingt
+  partOfSpeech: n
+00116112-n:
+  definition:
+  - rud a iompar (feithicil mar shampla) trí úsáid a bhaint as nascaire nó rópa
+  hypernym:
+  - 00115856-n
+  ili: i36012
+  members:
+  - tarraingt
+  partOfSpeech: n
+00119553-n:
+  definition:
+  - frithluail a chaitheann gach a bhfuil sa bholg amach tríd an mbéal
+  hypernym:
+  - 00860679-n
+  - 00045991-n
+  ili: i36029
+  members:
+  - urlacan
+  partOfSpeech: n
+00122926-n:
+  definition:
+  - (dlí) tarchuir a dhéanamh (go háirithe cás cúirte a tharchur go cúirt eile)
+  hypernym:
+  - 00043049-n
+  ili: i36046
+  members:
+  - sainchúram
+  partOfSpeech: n
+00123481-n:
+  definition:
+  - diúracán a scaoileadh
+  hypernym:
+  - 00045991-n
+  ili: i36049
+  members:
+  - lámhach
+  partOfSpeech: n
+00123774-n:
+  definition:
+  - scaoileadh ar thargaidí
+  hypernym:
+  - 00123481-n
+  ili: i36050
+  members:
+  - lámhach
+  partOfSpeech: n
+00124603-n:
+  definition:
+  - piléar ó ghunna a scaoileadh
+  hypernym:
+  - 00123481-n
+  ili: i36055
+  members:
+  - urchar gunna
+  partOfSpeech: n
+00125700-n:
+  definition:
+  - tadhall coirp a dhéanamh
+  hypernym:
+  - 00030657-n
+  ili: i36063
+  members:
+  - teagmháil
+  partOfSpeech: n
+00139776-n:
+  definition:
+  - rud a ghabháil sna lámha
+  hypernym:
+  - 00030657-n
+  ili: i36147
+  members:
+  - gabháil
+  partOfSpeech: n
+00141472-n:
+  definition:
+  - baint do rud leis na lámha (nó cumas agus scil na láimhe a úsáid), nó rud a láimhseáil
+    ar bhealach meicniúil
+  hypernym:
+  - 00030657-n
+  ili: i36154
+  members:
+  - ionramháil
+  partOfSpeech: n
+00142216-n:
+  definition:
+  - scrúdú agus dioscadh a dhéantar ar mharbhán chun cúis an bháis, nó éifeachtaí
+    galair, a fháil amach
+  hypernym:
+  - 00637093-n
+  ili: i36158
+  members:
+  - scrúdú iarbháis
+  partOfSpeech: n
+00146038-n:
+  definition:
+  - an gníomh a thugann dá rud i dteagmháil lena chéile (do chumarsáid go háirithe)
+  hypernym:
+  - 00038116-n
+  ili: i36175
+  members:
+  - ceangal
+  partOfSpeech: n
+00147392-n:
+  definition:
+  - teacht le chéile (ag cruinniú níos giorra dá chéile)
+  hypernym:
+  - 00146038-n
+  ili: i36181
+  members:
+  - cóineasú
+  partOfSpeech: n
+00152317-n:
+  definition:
+  - cáilíochtaí de ní éigin a chinneadh, de ghnáth trí thaighde nó trí ríomh a dhéantar
+    air.
+  hypernym:
+  - 00030657-n
+  ili: i36210
+  members:
+  - aimsiú
+  - fionnachtain
+  partOfSpeech: n
+00152838-n:
+  definition:
+  - ní éigin a ainmniú nó a shonrú
+  hypernym:
+  - 00152317-n
+  ili: i36212
+  members:
+  - aitheantas
+  - sainaithint
+  partOfSpeech: n
+00153547-n:
+  definition:
+  - an nádúr nó an chúis a bhaineann le feiniméan éigin a aithint
+  hypernym:
+  - 00152838-n
+  ili: i36216
+  members:
+  - diagnóis
+  - fáthmheas
+  partOfSpeech: n
+00157632-n:
+  definition:
+  - úsáid a bhaint as forneart/lámh láidir le cur faoi deara go dtarlódh rud éigin
+  hypernym:
+  - 00043049-n
+  ili: i36237
+  members:
+  - comhéigean
+  partOfSpeech: n
+00159005-n:
+  definition:
+  - tionchar a imirt ar ní éigin trí ghliceas, go háirithe ar mhaithe le do leas féin
+  hypernym:
+  - 00043049-n
+  ili: i36244
+  members:
+  - cúbláil
+  partOfSpeech: n
+00159997-n:
+  definition:
+  - confidence: 0.0
+    text: act of bringing about a desired result
+  hypernym:
+  - 00043049-n
+  ili: i36248
+  members:
+  - spreagadh
+  partOfSpeech: n
+00160216-n:
+  definition:
+  - confidence: 0.0
+    text: inducement (as of a public official) by improper means (as bribery) to violate
+      duty (as by committing a felony)
+  hypernym:
+  - 00159997-n
+  ili: i36249
+  members:
+  - éillitheacht
+  partOfSpeech: n
+00162063-n:
+  definition:
+  - confidence: 0.0
+    text: the act of choosing or selecting
+  hypernym:
+  - 00038116-n
+  ili: i36259
+  members:
+  - rogha
+  - roghnóireacht
+  partOfSpeech: n
+00162708-n:
+  definition:
+  - confidence: 0.0
+    text: (statistics) the selection of a suitable sample for study
+  hypernym:
+  - 00162063-n
+  ili: i36262
+  members:
+  - sampláil
+  partOfSpeech: n
+00164600-n:
+  definition:
+  - confidence: 0.0
+    text: the act of putting a person into a non-elective position
+  hypernym:
+  - 00162063-n
+  ili: i36271
+  members:
+  - ceapachán
+  partOfSpeech: n
+00169326-n:
+  definition:
+  - confidence: 0.0
+    text: the act of maneuvering a vehicle into a location where it can be left temporarily
+  hypernym:
+  - 00162063-n
+  ili: i36295
+  members:
+  - páirceáil
+  partOfSpeech: n
+00172439-n:
+  definition:
+  - confidence: 0.0
+    text: a cunning or deceitful action or device
+  hypernym:
+  - 00162063-n
+  ili: i36314
+  members:
+  - cleas
+  partOfSpeech: n
+00174852-n:
+  definition:
+  - confidence: 0.0
+    text: a way or means to achieve something
+  hypernym:
+  - 00030657-n
+  ili: i36326
+  members:
+  - bealach
+  - bóthar
+  partOfSpeech: n
+00175261-n:
+  definition:
+  - confidence: 0.0
+    text: any maneuver made as part of progress toward a goal
+  hypernym:
+  - 00162063-n
+  ili: i36329
+  members:
+  - beart
+  - céim
+  partOfSpeech: n
+00178297-n:
+  definition:
+  - confidence: 0.0
+    text: a means to an end; not necessarily a principled or ethical one
+  hypernym:
+  - 00030657-n
+  ili: i36344
+  members:
+  - beart
+  - seift
+  partOfSpeech: n
+00182489-n:
+  definition:
+  - confidence: 0.0
+    text: a legislative act is referred for final approval to a popular vote by the
+      electorate
+  hypernym:
+  - 00183062-n
+  ili: i36367
+  members:
+  - reifreann
+  partOfSpeech: n
+00182630-n:
+  definition:
+  - confidence: 0.0
+    text: a vote to select the winner of a position or political office
+  hypernym:
+  - 00183062-n
+  ili: i36368
+  members:
+  - toghchán
+  partOfSpeech: n
+00183062-n:
+  definition:
+  - confidence: 0.0
+    text: the opinion of a group as determined by voting
+  hypernym:
+  - 00038116-n
+  ili: i36369
+  members:
+  - vóta
+  partOfSpeech: n
+00183420-n:
+  definition:
+  - confidence: 0.0
+    text: a preliminary election where delegates or nominees are chosen
+  hypernym:
+  - 00182630-n
+  ili: i36371
+  members:
+  - réamhthoghchán
+  partOfSpeech: n
+00184089-n:
+  definition:
+  - confidence: 0.0
+    text: a special election between regular elections
+  hypernym:
+  - 00182630-n
+  ili: i36375
+  members:
+  - fothoghchán
+  partOfSpeech: n
+00184354-n:
+  definition:
+  - confidence: 0.0
+    text: a choice that is made by counting the number of people in favor of each
+      alternative
+  hypernym:
+  - 00162063-n
+  ili: i36377
+  members:
+  - vóta
+  - vótáil
+  partOfSpeech: n
+00186627-n:
+  definition:
+  - confidence: 0.0
+    text: the delivery of a fetus by surgical incision through the abdominal wall
+      and uterus (from the belief that Julius Caesar was born that way)
+  hypernym:
+  - 00030657-n
+  ili: i36389
+  members:
+  - gearradh Caesarach
+  partOfSpeech: n
+00192829-n:
+  definition:
+  - confidence: 0.0
+    text: the act of changing a fluid by passing it through a filter
+  hypernym:
+  - 00038116-n
+  ili: i36419
+  members:
+  - scagachán
+  partOfSpeech: n
+00196418-n:
+  definition:
+  - confidence: 0.0
+    text: the act of introducing variety (especially in investments or in the variety
+      of goods and services offered)
+  hypernym:
+  - 00038116-n
+  ili: i36439
+  members:
+  - éagsúlú
+  partOfSpeech: n
+00200556-n:
+  definition:
+  - confidence: 0.0
+    text: the act of making something different (as e.g. the size of a garment)
+  hypernym:
+  - 00038116-n
+  ili: i36457
+  members:
+  - modhnú
+  partOfSpeech: n
+00201907-n:
+  definition:
+  - confidence: 0.0
+    text: the act of passing from one state or place to the next
+  hypernym:
+  - 00038116-n
+  ili: i36463
+  members:
+  - aistriú
+  - trasdul
+  partOfSpeech: n
+00202772-n:
+  definition:
+  - confidence: 0.0
+    text: the action of prohibiting or inhibiting or forbidding (or an instance thereof)
+  hypernym:
+  - 00038116-n
+  ili: i36468
+  members:
+  - cosc
+  partOfSpeech: n
+00203133-n:
+  definition:
+  - confidence: 0.0
+    text: the action of opposing something that you disapprove or disagree with
+  hypernym:
+  - 00038116-n
+  ili: i36469
+  members:
+  - freasúra
+  - frithsheasmhacht
+  partOfSpeech: n
+00204602-n:
+  definition:
+  - confidence: 0.0
+    text: deliberately avoiding; keeping away from or preventing from happening
+  hypernym:
+  - 00030657-n
+  ili: i36476
+  members:
+  - seachaint
+  partOfSpeech: n
+00210792-n:
+  definition:
+  - confidence: 0.0
+    text: the act of ending something
+  hypernym:
+  - 00038116-n
+  ili: i36510
+  members:
+  - foirceann
+  partOfSpeech: n
+00211959-n:
+  definition:
+  - confidence: 0.0
+    text: a concluding action
+  hypernym:
+  - 00210792-n
+  ili: i36514
+  members:
+  - críoch
+  partOfSpeech: n
+00213054-n:
+  definition:
+  - confidence: 0.0
+    text: withdrawal from your position or occupation
+  hypernym:
+  - 00210792-n
+  ili: i36519
+  members:
+  - scor
+  partOfSpeech: n
+00214770-n:
+  definition:
+  - confidence: 0.0
+    text: an act exempting someone
+  hypernym:
+  - 00210792-n
+  ili: i36529
+  members:
+  - díolúine
+  partOfSpeech: n
+00217881-n:
+  definition:
+  - confidence: 0.0
+    text: the termination of something by causing so much damage to it that it cannot
+      be repaired or no longer exists
+  hypernym:
+  - 00210792-n
+  ili: i36544
+  members:
+  - scrios
+  partOfSpeech: n
+00220890-n:
+  definition:
+  - confidence: 0.0
+    text: the killing of a human being by another human being
+  hypernym:
+  - 00210792-n
+  ili: i36559
+  members:
+  - dúnbhású
+  partOfSpeech: n
+00221389-n:
+  definition:
+  - confidence: 0.0
+    text: unlawful premeditated killing of a human being by a human being
+  hypernym:
+  - 00220890-n
+  ili: i36562
+  members:
+  - dúnmharú
+  partOfSpeech: n
+00223352-n:
+  definition:
+  - confidence: 0.0
+    text: the act of killing yourself
+  hypernym:
+  - 00210792-n
+  ili: i36576
+  members:
+  - féinmharú
+  partOfSpeech: n
+00224850-n:
+  definition:
+  - confidence: 0.0
+    text: the savage and excessive killing of many people
+  hypernym:
+  - 00221389-n
+  ili: i36585
+  members:
+  - eirleach
+  - sléacht
+  partOfSpeech: n
+00229402-n:
+  definition:
+  - confidence: 0.0
+    text: termination of a business operation by using its assets to discharge its
+      liabilities
+  hypernym:
+  - 00210792-n
+  ili: i36610
+  members:
+  - leachtú
+  partOfSpeech: n
+00232754-n:
+  definition:
+  - confidence: 0.0
+    text: the act of abrogating; an official or legal cancellation
+  hypernym:
+  - 00233253-n
+  ili: i36629
+  members:
+  - aisghairm
+  partOfSpeech: n
+00233253-n:
+  definition:
+  - confidence: 0.0
+    text: the act of cancelling; calling off some arrangement
+  hypernym:
+  - 00038116-n
+  ili: i36631
+  members:
+  - cealúchán
+  partOfSpeech: n
+00236302-n:
+  definition:
+  - confidence: 0.0
+    text: the act of starting something
+  hypernym:
+  - 00038116-n
+  ili: i36647
+  members:
+  - tosach
+  - tús
+  partOfSpeech: n
+00237448-n:
+  definition:
+  - confidence: 0.0
+    text: the act of attaining or gaining access to a new office or right or position
+      (especially the throne)
+  hypernym:
+  - 00063626-n
+  ili: i36649
+  members:
+  - aontachas
+  partOfSpeech: n
+00237945-n:
+  definition:
+  - confidence: 0.0
+    text: the act of forming or establishing something
+  hypernym:
+  - 00236302-n
+  ili: i36652
+  members:
+  - bunaíocht
+  partOfSpeech: n
+00238889-n:
+  definition:
+  - confidence: 0.0
+    text: the act of beginning something new
+  hypernym:
+  - 00236302-n
+  ili: i36655
+  members:
+  - tabhairt isteach
+  partOfSpeech: n
+00240097-n:
+  definition:
+  - confidence: 0.0
+    text: the first of a series of actions
+  hypernym:
+  - 00236302-n
+  ili: i36661
+  members:
+  - tionscnamh
+  partOfSpeech: n
+00241051-n:
+  definition:
+  - confidence: 0.0
+    text: the act of starting something for the first time; introducing something
+      new
+  hypernym:
+  - 00236302-n
+  ili: i36666
+  members:
+  - tionscnamh
+  partOfSpeech: n
+00241805-n:
+  definition:
+  - confidence: 0.0
+    text: the act of installing something (as equipment)
+  hypernym:
+  - 00236302-n
+  ili: i36668
+  members:
+  - feiste
+  - suiteáil
+  partOfSpeech: n
+00244785-n:
+  definition:
+  - confidence: 0.0
+    text: the act of preparing something (as food) by the application of heat
+  hypernym:
+  - 00038116-n
+  ili: i36683
+  members:
+  - cócaireacht
+  - cócaráil
+  partOfSpeech: n
+00248659-n:
+  definition:
+  - confidence: 0.0
+    text: cooking in a liquid that has been brought to a boil
+  hypernym:
+  - 00244785-n
+  ili: i36694
+  members:
+  - bruith
+  partOfSpeech: n
+00249844-n:
+  definition:
+  - confidence: 0.0
+    text: the act of improving something
+  hypernym:
+  - 00038116-n
+  ili: i36702
+  members:
+  - feabhas
+  - feabhsú
+  - feabhsúchán
+  partOfSpeech: n
+00251126-n:
+  definition:
+  - confidence: 0.0
+    text: act of improving by expanding or enlarging or refining
+  hypernym:
+  - 00249844-n
+  ili: i36707
+  members:
+  - forbairt
+  partOfSpeech: n
+00251880-n:
+  definition:
+  - confidence: 0.0
+    text: the act of making something clean
+  hypernym:
+  - 00249844-n
+  ili: i36711
+  members:
+  - glantachán
+  - glantóireacht
+  partOfSpeech: n
+00252887-n:
+  definition:
+  - confidence: 0.0
+    text: cleaning with a mop
+  hypernym:
+  - 00251880-n
+  ili: i36715
+  members:
+  - mapáil
+  partOfSpeech: n
+00255282-n:
+  definition:
+  - confidence: 0.0
+    text: making something sanitary (free of germs) as by sterilizing
+  hypernym:
+  - 00251880-n
+  ili: i36728
+  members:
+  - sláintíocht
+  partOfSpeech: n
+00256577-n:
+  definition:
+  - confidence: 0.0
+    text: the work of cleansing (usually with soap and water)
+  hypernym:
+  - 00576778-n
+  ili: i36736
+  members:
+  - níochán
+  partOfSpeech: n
+00259697-n:
+  definition:
+  - confidence: 0.0
+    text: the act of offering an improvement to replace a mistake; setting right
+  hypernym:
+  - 00249844-n
+  ili: i36756
+  members:
+  - ceartú
+  partOfSpeech: n
+00260020-n:
+  definition:
+  - confidence: 0.0
+    text: act of correcting an error or a fault or an evil
+  hypernym:
+  - 00259697-n
+  ili: i36757
+  members:
+  - cúiteamh
+  - leigheas
+  - sásamh
+  partOfSpeech: n
+00260486-n:
+  definition:
+  - confidence: 0.0
+    text: the act of compensating for service or loss or injury
+  hypernym:
+  - 00259697-n
+  ili: i36760
+  members:
+  - cúiteamh
+  partOfSpeech: n
+00261465-n:
+  definition:
+  - confidence: 0.0
+    text: a change for the better as a result of correcting abuses
+  hypernym:
+  - 00249844-n
+  ili: i36764
+  members:
+  - leasú
+  partOfSpeech: n
+00264485-n:
+  definition:
+  - confidence: 0.0
+    text: the act of making a visible mark on a surface
+  hypernym:
+  - 00038116-n
+  ili: i36781
+  members:
+  - marcáil
+  partOfSpeech: n
+00265962-n:
+  definition:
+  - confidence: 0.0
+    text: the act of improving by renewing and restoring
+  hypernym:
+  - 00249844-n
+  ili: i36790
+  members:
+  - athchóiriú
+  partOfSpeech: n
+00267489-n:
+  definition:
+  - confidence: 0.0
+    text: the act of supplying fresh air and getting rid of foul air
+  hypernym:
+  - 00249844-n
+  ili: i36798
+  members:
+  - aeráil
+  partOfSpeech: n
+00267650-n:
+  definition:
+  - confidence: 0.0
+    text: the act of putting something in working order again
+  hypernym:
+  - 00249844-n
+  ili: i36799
+  members:
+  - deisiúchán
+  partOfSpeech: n
+00268366-n:
+  definition:
+  - confidence: 0.0
+    text: activity involved in maintaining something in good working order
+  hypernym:
+  - 00267650-n
+  ili: i36802
+  members:
+  - coimeád
+  - coinneáil
+  partOfSpeech: n
+00270102-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of constructing something again
+  hypernym:
+  - 00267650-n
+  ili: i36812
+  members:
+  - atógáil
+  partOfSpeech: n
+00271644-n:
+  definition:
+  - confidence: 0.0
+    text: the job of a professional coach
+  hypernym:
+  - 00585404-n
+  ili: i36822
+  members:
+  - traenáil
+  partOfSpeech: n
+00275785-n:
+  definition:
+  - confidence: 0.0
+    text: the act or process of changing the color of something
+  hypernym:
+  - 00038116-n
+  ili: i36844
+  members:
+  - dathúchán
+  partOfSpeech: n
+00277831-n:
+  definition:
+  - confidence: 0.0
+    text: the act of contaminating or polluting; including (either intentionally or
+      accidentally) unwanted substances or factors
+  hypernym:
+  - 00038116-n
+  ili: i36854
+  members:
+  - truailliú
+  partOfSpeech: n
+00280679-n:
+  definition:
+  - confidence: 0.0
+    text: the act of changing location from one place to another
+  hypernym:
+  - 00038116-n
+  ili: i36869
+  members:
+  - gluaiseacht
+  partOfSpeech: n
+00281697-n:
+  definition:
+  - confidence: 0.0
+    text: the act of drawing spatially closer to something
+  hypernym:
+  - 00280679-n
+  ili: i36871
+  members:
+  - ascnamh
+  partOfSpeech: n
+00284412-n:
+  definition:
+  - confidence: 0.0
+    text: the act of traveling by foot
+  hypernym:
+  - 00280679-n
+  ili: i36884
+  members:
+  - siúl
+  partOfSpeech: n
+00285985-n:
+  definition:
+  - confidence: 0.0
+    text: walking by a person who is asleep
+  hypernym:
+  - 00284412-n
+  ili: i36891
+  members:
+  - suansiúl
+  partOfSpeech: n
+00291423-n:
+  definition:
+  - confidence: 0.0
+    text: the act of marching; walking with regular steps (especially in a procession
+      of some kind)
+  hypernym:
+  - 00284412-n
+  ili: i36925
+  members:
+  - máirseáil
+  partOfSpeech: n
+00294760-n:
+  definition:
+  - confidence: 0.0
+    text: the act of running; traveling on foot at a fast pace
+  hypernym:
+  - 00280679-n
+  ili: i36946
+  members:
+  - reathaíocht
+  - rith
+  partOfSpeech: n
+00296527-n:
+  definition:
+  - confidence: 0.0
+    text: the act of going from one place to another
+  hypernym:
+  - 00280679-n
+  ili: i36956
+  members:
+  - taisteal
+  partOfSpeech: n
+00298987-n:
+  definition:
+  - confidence: 0.0
+    text: the business of providing services to tourists
+  hypernym:
+  - 01096649-n
+  ili: i36969
+  members:
+  - turasóireacht
+  partOfSpeech: n
+00299323-n:
+  definition:
+  - confidence: 0.0
+    text: the act of controlling and steering the movement of a vehicle or animal
+  hypernym:
+  - 00296527-n
+  - 00408356-n
+  ili: i36971
+  members:
+  - tiomáint
+  partOfSpeech: n
+00303220-n:
+  definition:
+  - confidence: 0.0
+    text: an instance of traveling by air
+  hypernym:
+  - 00296527-n
+  ili: i36989
+  members:
+  - eitilt
+  partOfSpeech: n
+00307252-n:
+  definition:
+  - confidence: 0.0
+    text: the act of traveling from one place to another
+  hypernym:
+  - 00296527-n
+  ili: i37014
+  members:
+  - aistear
+  - turas
+  partOfSpeech: n
+00308457-n:
+  definition:
+  - confidence: 0.0
+    text: a journey in a vehicle (usually an automobile)
+  hypernym:
+  - 00307252-n
+  ili: i37020
+  members:
+  - tiomáint
+  - turas
+  partOfSpeech: n
+00309196-n:
+  definition:
+  - confidence: 0.0
+    text: a journey for some purpose (usually including the return)
+  hypernym:
+  - 00307252-n
+  ili: i37024
+  members:
+  - cuairt
+  - turas
+  partOfSpeech: n
+00309941-n:
+  definition:
+  - confidence: 0.0
+    text: a journey usually by ship
+  hypernym:
+  - 00307252-n
+  ili: i37029
+  members:
+  - idirthuras
+  partOfSpeech: n
+00310473-n:
+  definition:
+  - confidence: 0.0
+    text: a journey organized for a particular purpose
+  hypernym:
+  - 00307252-n
+  ili: i37033
+  members:
+  - turas
+  partOfSpeech: n
+00311492-n:
+  definition:
+  - confidence: 0.0
+    text: a journey or route all the way around a particular place or area
+  hypernym:
+  - 00307252-n
+  ili: i37041
+  members:
+  - ciorcad
+  - turas
+  partOfSpeech: n
+00312635-n:
+  definition:
+  - confidence: 0.0
+    text: a journey taken for pleasure
+  hypernym:
+  - 00307252-n
+  ili: i37047
+  members:
+  - turas
+  partOfSpeech: n
+00313758-n:
+  definition:
+  - confidence: 0.0
+    text: an ocean trip taken for pleasure
+  hypernym:
+  - 00296527-n
+  ili: i37054
+  members:
+  - cúrsáil
+  partOfSpeech: n
+00316526-n:
+  definition:
+  - confidence: 0.0
+    text: the travel of a commuter
+  hypernym:
+  - 00296527-n
+  ili: i37069
+  members:
+  - comaitéireacht
+  partOfSpeech: n
+00316812-n:
+  definition:
+  - confidence: 0.0
+    text: the act of moving something from one location to another
+  hypernym:
+  - 00038116-n
+  ili: i37071
+  members:
+  - aistriú
+  - iompar
+  partOfSpeech: n
+00318743-n:
+  definition:
+  - confidence: 0.0
+    text: the delivery of goods for sale or disposal
+  hypernym:
+  - 00316812-n
+  ili: i37080
+  members:
+  - coinsíneacht
+  partOfSpeech: n
+00319012-n:
+  definition:
+  - confidence: 0.0
+    text: the delivery and collection of letters and packages
+  hypernym:
+  - 00316812-n
+  ili: i37082
+  members:
+  - post
+  partOfSpeech: n
+00319217-n:
+  definition:
+  - confidence: 0.0
+    text: the act of delivering a writ or summons upon someone
+  hypernym:
+  - 00316812-n
+  ili: i37083
+  members:
+  - seirbheáil
+  partOfSpeech: n
+00320765-n:
+  definition:
+  - confidence: 0.0
+    text: the act of pursuing in an effort to overtake or capture
+  hypernym:
+  - 00280679-n
+  ili: i37092
+  members:
+  - tóir
+  partOfSpeech: n
+00323054-n:
+  definition:
+  - confidence: 0.0
+    text: the enclosure of something in a package or box
+  hypernym:
+  - 00038116-n
+  ili: i37102
+  members:
+  - pacáil
+  partOfSpeech: n
+00323460-n:
+  definition:
+  - confidence: 0.0
+    text: the forceful insertion of a substance under pressure
+  hypernym:
+  - 00038116-n
+  ili: i37105
+  members:
+  - instealladh
+  partOfSpeech: n
+00324882-n:
+  definition:
+  - confidence: 0.0
+    text: the introduction of blood or blood plasma into a vein or artery
+  hypernym:
+  - 00038116-n
+  ili: i37115
+  members:
+  - fuilaistriú
+  partOfSpeech: n
+00326611-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of climbing a mountain
+  hypernym:
+  - 00280679-n
+  ili: i37125
+  members:
+  - sléibhteoireacht
+  partOfSpeech: n
+00329153-n:
+  definition:
+  - confidence: 0.0
+    text: the act of sending an accused person back into custody to await trial (or
+      the continuation of the trial)
+  hypernym:
+  - 00280679-n
+  ili: i37141
+  members:
+  - athchur
+  partOfSpeech: n
+00332776-n:
+  definition:
+  - confidence: 0.0
+    text: a change of position that does not entail a change of location
+  hypernym:
+  - 00038116-n
+  ili: i37159
+  members:
+  - gluaiseacht
+  partOfSpeech: n
+00340602-n:
+  definition:
+  - confidence: 0.0
+    text: the act of reversing the order or place of
+  hypernym:
+  - 00408356-n
+  ili: i37195
+  members:
+  - trasuíomh
+  partOfSpeech: n
+00345085-n:
+  definition:
+  - confidence: 0.0
+    text: the act of assuming or maintaining a seated position
+  hypernym:
+  - 00332776-n
+  ili: i37219
+  members:
+  - suí
+  partOfSpeech: n
+00346752-n:
+  definition:
+  - confidence: 0.0
+    text: the act of vibrating
+  hypernym:
+  - 00332776-n
+  ili: i37228
+  members:
+  - crith
+  partOfSpeech: n
+00349779-n:
+  definition:
+  - confidence: 0.0
+    text: the act of reaching out
+  hypernym:
+  - 00332776-n
+  ili: i37244
+  members:
+  - for-rochtain
+  partOfSpeech: n
+00349906-n:
+  definition:
+  - confidence: 0.0
+    text: the act of assuming or maintaining an erect upright position
+  hypernym:
+  - 00332776-n
+  ili: i37245
+  members:
+  - seasamh
+  partOfSpeech: n
+00352464-n:
+  definition:
+  - confidence: 0.0
+    text: the act of decreasing or reducing something
+  hypernym:
+  - 00038116-n
+  ili: i37258
+  members:
+  - laghdú
+  partOfSpeech: n
+00356517-n:
+  definition:
+  - confidence: 0.0
+    text: the act of making less strict
+  hypernym:
+  - 00352464-n
+  ili: i37280
+  members:
+  - léirscaoileadh
+  partOfSpeech: n
+00357193-n:
+  definition:
+  - confidence: 0.0
+    text: the act of consuming something
+  hypernym:
+  - 00352464-n
+  ili: i37283
+  members:
+  - tomhailt
+  - tomhaltas
+  partOfSpeech: n
+00359116-n:
+  definition:
+  - confidence: 0.0
+    text: the act of grinding to a powder or dust
+  hypernym:
+  - 00045991-n
+  ili: i37293
+  members:
+  - meilt
+  partOfSpeech: n
+00361583-n:
+  definition:
+  - confidence: 0.0
+    text: the act of subtracting (removing a part from the whole)
+  hypernym:
+  - 00352464-n
+  ili: i37308
+  members:
+  - asbhaint
+  partOfSpeech: n
+00363485-n:
+  definition:
+  - confidence: 0.0
+    text: weakening (reducing the concentration) by the addition of water or a thinner
+  hypernym:
+  - 00352464-n
+  ili: i37320
+  members:
+  - caolúchán
+  partOfSpeech: n
+00366535-n:
+  definition:
+  - confidence: 0.0
+    text: the act of increasing (something) in size or volume or quantity or scope
+  hypernym:
+  - 00038116-n
+  ili: i37334
+  members:
+  - méadú
+  partOfSpeech: n
+00373785-n:
+  definition:
+  - confidence: 0.0
+    text: accumulating and storing a reserve supply
+  hypernym:
+  - 00038116-n
+  ili: i37370
+  members:
+  - stoc-charnadh
+  partOfSpeech: n
+00379104-n:
+  definition:
+  - confidence: 0.0
+    text: malicious burning to destroy property
+  hypernym:
+  - 00038116-n
+  ili: i37396
+  members:
+  - coirloscadh
+  partOfSpeech: n
+00379688-n:
+  definition:
+  - confidence: 0.0
+    text: the incineration of a dead body
+  hypernym:
+  - 00038116-n
+  ili: i37399
+  members:
+  - créamadh
+  partOfSpeech: n
+00382488-n:
+  definition:
+  - confidence: 0.0
+    text: the act of making or becoming a single unit
+  hypernym:
+  - 00038116-n
+  ili: i37412
+  members:
+  - aontas
+  partOfSpeech: n
+00386599-n:
+  definition:
+  - confidence: 0.0
+    text: the act or process of dividing
+  hypernym:
+  - 00038116-n
+  ili: i37431
+  members:
+  - deighilt
+  partOfSpeech: n
+00387484-n:
+  definition:
+  - confidence: 0.0
+    text: division of a group into opposing factions
+  hypernym:
+  - 00386599-n
+  ili: i37436
+  members:
+  - scoilt
+  partOfSpeech: n
+00389518-n:
+  definition:
+  - confidence: 0.0
+    text: the act of splitting into two branches
+  hypernym:
+  - 00386599-n
+  ili: i37447
+  members:
+  - ladhráil
+  partOfSpeech: n
+00392407-n:
+  definition:
+  - confidence: 0.0
+    text: the act of removing
+  hypernym:
+  - 00038116-n
+  ili: i37465
+  members:
+  - aistriú
+  partOfSpeech: n
+00395293-n:
+  definition:
+  - confidence: 0.0
+    text: the removal of contaminants
+  hypernym:
+  - 00392407-n
+  ili: i37476
+  members:
+  - dí-éilliú
+  partOfSpeech: n
+00396837-n:
+  definition:
+  - confidence: 0.0
+    text: emptying something accomplished by allowing liquid to run out of it
+  hypernym:
+  - 00392407-n
+  ili: i37485
+  members:
+  - draenáil
+  partOfSpeech: n
+00398155-n:
+  definition:
+  - confidence: 0.0
+    text: deleting parts of publications or correspondence or theatrical performances
+  hypernym:
+  - 00392407-n
+  ili: i37493
+  members:
+  - cinsireacht
+  partOfSpeech: n
+00398761-n:
+  definition:
+  - confidence: 0.0
+    text: the act of dividing or partitioning; separation by the creation of a boundary
+      that divides or keeps apart
+  hypernym:
+  - 00038116-n
+  ili: i37497
+  members:
+  - deighilt
+  partOfSpeech: n
+00401086-n:
+  definition:
+  - confidence: 0.0
+    text: the conversion of bare or cultivated land into forest (originally for the
+      purpose of hunting)
+  hypernym:
+  - 00038116-n
+  ili: i37507
+  members:
+  - foraoisiú
+  partOfSpeech: n
+00404991-n:
+  definition:
+  - confidence: 0.0
+    text: the act of changing something to bring it up to date (usually by adding
+      something)
+  hypernym:
+  - 00038116-n
+  ili: i37529
+  members:
+  - uasdátú
+  partOfSpeech: n
+00408356-n:
+  definition:
+  - confidence: 0.0
+    text: any specific behavior
+  hypernym:
+  - 00030657-n
+  ili: i37550
+  members:
+  - imeacht
+  partOfSpeech: n
+00411260-n:
+  definition:
+  - confidence: 0.0
+    text: a customary way of operation or behavior
+  hypernym:
+  - 00408356-n
+  ili: i37557
+  members:
+  - cleachtas
+  partOfSpeech: n
+00414252-n:
+  definition:
+  - confidence: 0.0
+    text: accepted or habitual practice
+  hypernym:
+  - 00411260-n
+  ili: i37573
+  members:
+  - nós
+  partOfSpeech: n
+00416689-n:
+  definition:
+  - confidence: 0.0
+    text: a course of conduct
+  hypernym:
+  - 00038116-n
+  ili: i37589
+  members:
+  - bealach
+  partOfSpeech: n
+00419916-n:
+  definition:
+  - confidence: 0.0
+    text: an act that exploits or victimizes someone (treats them unfairly)
+  hypernym:
+  - 00411260-n
+  ili: i37607
+  members:
+  - dúshaothrú
+  partOfSpeech: n
+00420921-n:
+  definition:
+  - confidence: 0.0
+    text: cruel or inhumane treatment
+  hypernym:
+  - 00411260-n
+  ili: i37611
+  members:
+  - drochúsáid
+  - mí-úsáid
+  partOfSpeech: n
+00421490-n:
+  definition:
+  - confidence: 0.0
+    text: the act of persecuting (especially on the basis of race or religion)
+  hypernym:
+  - 00420921-n
+  ili: i37614
+  members:
+  - géarleanúint
+  partOfSpeech: n
+00425770-n:
+  definition:
+  - confidence: 0.0
+    text: an act of atrocious cruelty
+  hypernym:
+  - 00420921-n
+  ili: i37637
+  members:
+  - ainghníomh
+  partOfSpeech: n
+00430033-n:
+  definition:
+  - confidence: 0.0
+    text: an activity that is diverting and that holds the attention
+  hypernym:
+  - 00408356-n
+  ili: i37655
+  members:
+  - oirfide
+  - siamsa
+  - siamsaíocht
+  partOfSpeech: n
+00431125-n:
+  definition:
+  - confidence: 0.0
+    text: the act of playing for stakes in the hope of winning (including the payment
+      of a price for a chance to win a prize)
+  hypernym:
+  - 00408356-n
+  ili: i37660
+  members:
+  - cearrbhachas
+  partOfSpeech: n
+00446787-n:
+  definition:
+  - confidence: 0.0
+    text: fighting with the fists
+  hypernym:
+  - 00524569-n
+  ili: i37746
+  members:
+  - dornálaíocht
+  partOfSpeech: n
+00449625-n:
+  definition:
+  - confidence: 0.0
+    text: skating on ice
+  hypernym:
+  - 00524569-n
+  ili: i37763
+  members:
+  - scátáil oighir
+  partOfSpeech: n
+00449733-n:
+  definition:
+  - confidence: 0.0
+    text: ice skating where the skates trace outlines of selected figures
+  hypernym:
+  - 00449625-n
+  ili: i37764
+  members:
+  - scátáil fhíorach
+  partOfSpeech: n
+00450280-n:
+  definition:
+  - confidence: 0.0
+    text: the sport of engaging in contests of speed
+  hypernym:
+  - 00524569-n
+  ili: i37769
+  members:
+  - rásaíocht
+  partOfSpeech: n
+00452356-n:
+  definition:
+  - confidence: 0.0
+    text: the sport of traveling on a bicycle or motorcycle
+  hypernym:
+  - 00524569-n
+  ili: i37782
+  members:
+  - rothaíocht
+  partOfSpeech: n
+00453020-n:
+  definition:
+  - confidence: 0.0
+    text: the activity at a bullfight
+  hypernym:
+  - 00524569-n
+  ili: i37787
+  members:
+  - tarbhchomhrac
+  partOfSpeech: n
+00453279-n:
+  definition:
+  - confidence: 0.0
+    text: the pursuit and killing or capture of wild animals regarded as a sport
+  hypernym:
+  - 00524569-n
+  ili: i37789
+  members:
+  - fiach
+  partOfSpeech: n
+00458406-n:
+  definition:
+  - confidence: 0.0
+    text: (game) the activity of doing something in an agreed succession
+  hypernym:
+  - 00408356-n
+  ili: i37819
+  members:
+  - seal
+  partOfSpeech: n
+00464604-n:
+  definition:
+  - confidence: 0.0
+    text: a game played on an ice rink by two opposing teams of six skaters each who
+      try to knock a flat round puck into the opponents' goal with angled hockey sticks
+  hypernym:
+  - 00524569-n
+  ili: i37855
+  members:
+  - haca oighir
+  partOfSpeech: n
+00465546-n:
+  definition:
+  - confidence: 0.0
+    text: a game played in a swimming pool by two teams of swimmers who try to throw
+      an inflated ball into the opponents' goal
+  hypernym:
+  - 00524569-n
+  ili: i37858
+  members:
+  - póló uisce
+  partOfSpeech: n
+00469063-n:
+  definition:
+  - confidence: 0.0
+    text: a game resembling ice hockey that is played on an open field; two opposing
+      teams use curved hockey sticks try to drive a ball into the opponents' net
+  hypernym:
+  - 00524569-n
+  ili: i37871
+  members:
+  - haca
+  partOfSpeech: n
+00469555-n:
+  definition:
+  - confidence: 0.0
+    text: any of various games played with a ball (round or oval) in which two teams
+      try to kick or carry or propel the ball into each other's goal
+  hypernym:
+  - 00524569-n
+  ili: i37873
+  members:
+  - peil
+  partOfSpeech: n
+00479273-n:
+  definition:
+  - confidence: 0.0
+    text: a football game in which two teams of 11 players try to kick or head a ball
+      into the opponents' goal
+  hypernym:
+  - 00469555-n
+  ili: i37904
+  members:
+  - sacar
+  partOfSpeech: n
+00480898-n:
+  definition:
+  - confidence: 0.0
+    text: a game played in an enclosed court by two or four players who strike the
+      ball with long-handled rackets
+  hypernym:
+  - 00524569-n
+  ili: i37911
+  members:
+  - scuais
+  partOfSpeech: n
+00481222-n:
+  definition:
+  - confidence: 0.0
+    text: a game in which two teams hit an inflated ball over a high net using their
+      hands
+  hypernym:
+  - 00524569-n
+  ili: i37912
+  members:
+  - eitpheil
+  partOfSpeech: n
+00481519-n:
+  definition:
+  - confidence: 0.0
+    text: a game played on a court with light long-handled rackets used to volley
+      a shuttlecock over a net
+  hypernym:
+  - 00524569-n
+  ili: i37914
+  members:
+  - badmantan
+  partOfSpeech: n
+00482004-n:
+  definition:
+  - confidence: 0.0
+    text: a game played on a court by two opposing teams of 5 players; points are
+      scored by throwing the ball through an elevated horizontal hoop
+  hypernym:
+  - 00524569-n
+  ili: i37916
+  members:
+  - cispheil
+  partOfSpeech: n
+00483309-n:
+  definition:
+  - confidence: 0.0
+    text: a game played with rackets by two or four players who hit a ball back and
+      forth over a net that divides the court
+  hypernym:
+  - 00524569-n
+  ili: i37921
+  members:
+  - leadóg
+  partOfSpeech: n
+00489236-n:
+  definition:
+  - confidence: 0.0
+    text: a game played with playing cards
+  hypernym:
+  - 00408356-n
+  ili: i37953
+  members:
+  - cluiche cártaí
+  partOfSpeech: n
+00491580-n:
+  definition:
+  - confidence: 0.0
+    text: any of various card games based on whist for four players
+  hypernym:
+  - 00489236-n
+  ili: i37959
+  members:
+  - beiriste
+  partOfSpeech: n
+00500274-n:
+  definition:
+  - confidence: 0.0
+    text: a game (trademark Ping-Pong) resembling tennis but played on a table with
+      paddles and a light hollow ball
+  hypernym:
+  - 00408356-n
+  ili: i38005
+  members:
+  - leadóg bhoird
+  partOfSpeech: n
+00502315-n:
+  definition:
+  - confidence: 0.0
+    text: a form of pool played with 15 red balls and six balls of other colors and
+      a cue ball
+  hypernym:
+  - 00408356-n
+  ili: i38014
+  members:
+  - snúcar
+  partOfSpeech: n
+00514963-n:
+  definition:
+  - confidence: 0.0
+    text: playing on words or speech sounds
+  hypernym:
+  - 00408356-n
+  ili: i38082
+  members:
+  - imeartas focal
+  partOfSpeech: n
+00522265-n:
+  definition:
+  - confidence: 0.0
+    text: something shown to the public
+  hypernym:
+  - 00430033-n
+  ili: i38128
+  members:
+  - taispeáint
+  - taispeántas
+  partOfSpeech: n
+00523201-n:
+  definition:
+  - confidence: 0.0
+    text: the act of exhibiting
+  hypernym:
+  - 08424576-n
+  - 01232427-n
+  - 00430033-n
+  ili: i38132
+  members:
+  - taispeáint
+  partOfSpeech: n
+00524569-n:
+  definition:
+  - confidence: 0.0
+    text: an active diversion requiring physical exertion and competition
+  hypernym:
+  - 00408356-n
+  ili: i38140
+  members:
+  - spórt
+  partOfSpeech: n
+00529704-n:
+  definition:
+  - confidence: 0.0
+    text: a theatrical representation of a story that is performed to music by trained
+      dancers
+  hypernym:
+  - 00408356-n
+  - 06005806-n
+  ili: i38156
+  members:
+  - bailé
+  partOfSpeech: n
+00563435-n:
+  definition:
+  - confidence: 0.0
+    text: the act of obstructing or deflecting someone's movements
+  hypernym:
+  - 00280679-n
+  ili: i38347
+  members:
+  - blocáil
+  partOfSpeech: n
+00576778-n:
+  definition:
+  - confidence: 0.0
+    text: activity directed toward making or doing something
+  hypernym:
+  - 00408356-n
+  ili: i38422
+  members:
+  - obair
+  - saothar
+  partOfSpeech: n
+00578562-n:
+  definition:
+  - confidence: 0.0
+    text: work done by one person or group that benefits another
+  hypernym:
+  - 00576778-n
+  ili: i38428
+  members:
+  - seirbhís
+  partOfSpeech: n
+00582809-n:
+  definition:
+  - confidence: 0.0
+    text: the work of cutting down trees for timber
+  hypernym:
+  - 00576778-n
+  ili: i38453
+  members:
+  - logáil
+  partOfSpeech: n
+00583425-n:
+  definition:
+  - confidence: 0.0
+    text: the principal activity in your life that you do to earn money
+  hypernym:
+  - 00408356-n
+  ili: i38458
+  members:
+  - gnó
+  - post
+  partOfSpeech: n
+00584283-n:
+  definition:
+  - confidence: 0.0
+    text: the particular occupation for which you are trained
+  hypernym:
+  - 00583425-n
+  ili: i38461
+  members:
+  - gairm
+  partOfSpeech: n
+00584498-n:
+  definition:
+  - confidence: 0.0
+    text: the special line of work you have adopted as your career
+  hypernym:
+  - 00584283-n
+  ili: i38462
+  members:
+  - speisialtóireacht
+  partOfSpeech: n
+00585404-n:
+  definition:
+  - confidence: 0.0
+    text: the occupation for which you are paid
+  hypernym:
+  - 00583425-n
+  ili: i38467
+  members:
+  - fostaíocht
+  - obair
+  partOfSpeech: n
+00586443-n:
+  definition:
+  - confidence: 0.0
+    text: something designed and created to serve a particular function and to afford
+      a particular convenience or service
+  hypernym:
+  - 00022119-n
+  ili: i38472
+  members:
+  - saoráid
+  partOfSpeech: n
+00587299-n:
+  definition:
+  - confidence: 0.0
+    text: a job in an organization
+  hypernym:
+  - 00583425-n
+  ili: i38477
+  members:
+  - post
+  - áit
+  partOfSpeech: n
+00590035-n:
+  definition:
+  - confidence: 0.0
+    text: the position of apprentice
+  hypernym:
+  - 00587299-n
+  ili: i38483
+  members:
+  - printíseacht
+  partOfSpeech: n
+00591162-n:
+  definition:
+  - confidence: 0.0
+    text: the position of chairman
+  hypernym:
+  - 00587299-n
+  ili: i38493
+  members:
+  - cathaoirleacht
+  partOfSpeech: n
+00594952-n:
+  definition:
+  - confidence: 0.0
+    text: the position of a medical intern
+  hypernym:
+  - 00587299-n
+  ili: i38526
+  members:
+  - intéirneacht
+  partOfSpeech: n
+00597922-n:
+  definition:
+  - confidence: 0.0
+    text: the office and function of president
+  hypernym:
+  - 00587299-n
+  ili: i38552
+  members:
+  - uachtaránacht
+  partOfSpeech: n
+00605638-n:
+  definition:
+  - confidence: 0.0
+    text: the position of steward
+  hypernym:
+  - 00587299-n
+  ili: i38595
+  members:
+  - maoirseacht
+  partOfSpeech: n
+00607485-n:
+  definition:
+  - confidence: 0.0
+    text: the skilled practice of a practical occupation
+  hypernym:
+  - 00583425-n
+  ili: i38611
+  members:
+  - ceardaíocht
+  - ceird
+  partOfSpeech: n
+00608489-n:
+  definition:
+  - confidence: 0.0
+    text: the craft of binding books
+  hypernym:
+  - 00607485-n
+  - 00935235-n
+  ili: i38615
+  members:
+  - leabharcheangal
+  partOfSpeech: n
+00608890-n:
+  definition:
+  - confidence: 0.0
+    text: 'the craft of a carpenter: making things out of wood'
+  hypernym:
+  - 00607485-n
+  ili: i38618
+  members:
+  - adhmadóireacht
+  - cearpantóireacht
+  - saoirseacht adhmaid
+  partOfSpeech: n
+00611221-n:
+  definition:
+  - confidence: 0.0
+    text: an occupation requiring special education (especially in the liberal arts
+      or sciences)
+  hypernym:
+  - 00583425-n
+  ili: i38633
+  members:
+  - gairm
+  partOfSpeech: n
+00612720-n:
+  definition:
+  - confidence: 0.0
+    text: the profession of teaching (especially at a school or college or university)
+  hypernym:
+  - 00611221-n
+  ili: i38639
+  members:
+  - oideachas
+  partOfSpeech: n
+00612961-n:
+  definition:
+  - confidence: 0.0
+    text: the profession of reporting or photographing or editing news stories for
+      one of the media
+  hypernym:
+  - 00611221-n
+  ili: i38640
+  members:
+  - iriseoireacht
+  partOfSpeech: n
+00613447-n:
+  definition:
+  - confidence: 0.0
+    text: the learned profession that is mastered by graduate training in a medical
+      school and that is devoted to preventing or alleviating or curing diseases and
+      injuries
+  hypernym:
+  - 00611221-n
+  ili: i38643
+  members:
+  - leigheas
+  - míochaine
+  partOfSpeech: n
+00620470-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of recording business transactions
+  hypernym:
+  - 00583425-n
+  ili: i38678
+  members:
+  - leabharchoimeád
+  partOfSpeech: n
+00621794-n:
+  definition:
+  - confidence: 0.0
+    text: the occupation of taking and printing photographs or making movies
+  hypernym:
+  - 00583425-n
+  ili: i38686
+  members:
+  - grianghrafadóireacht
+  partOfSpeech: n
+00621992-n:
+  definition:
+  - confidence: 0.0
+    text: productive work (especially physical work done for wages)
+  hypernym:
+  - 00576778-n
+  ili: i38687
+  members:
+  - obair
+  - saothar
+  partOfSpeech: n
+00622867-n:
+  definition:
+  - confidence: 0.0
+    text: use of physical or mental energy; hard work
+  hypernym:
+  - 00621992-n
+  ili: i38691
+  members:
+  - saothar
+  - stró
+  partOfSpeech: n
+00625978-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of exerting your muscles in various ways to keep fit
+  hypernym:
+  - 00622867-n
+  ili: i38707
+  members:
+  - aclaíocht
+  - lúthaíocht
+  partOfSpeech: n
+00627233-n:
+  definition:
+  - confidence: 0.0
+    text: exercise that builds muscles through tension
+  hypernym:
+  - 00625978-n
+  ili: i38712
+  members:
+  - corpfhorbairt
+  partOfSpeech: n
+00628078-n:
+  definition:
+  - confidence: 0.0
+    text: a weightlift in which the barbell is lifted to shoulder height and then
+      jerked overhead
+  hypernym:
+  - 00627233-n
+  ili: i38717
+  members:
+  - glan
+  partOfSpeech: n
+00632621-n:
+  definition:
+  - confidence: 0.0
+    text: the exercise of a profession
+  hypernym:
+  - 00948944-n
+  ili: i38744
+  members:
+  - cleachtas
+  partOfSpeech: n
+00632955-n:
+  definition:
+  - confidence: 0.0
+    text: the practice of giving expert advice within a particular field
+  hypernym:
+  - 00632621-n
+  ili: i38745
+  members:
+  - comhairleacht
+  partOfSpeech: n
+00635107-n:
+  definition:
+  - confidence: 0.0
+    text: the work of inquiring into something thoroughly and systematically
+  hypernym:
+  - 00576778-n
+  ili: i38759
+  members:
+  - imscrúdú
+  partOfSpeech: n
+00635519-n:
+  definition:
+  - confidence: 0.0
+    text: an investigation of the component parts of a whole and their relations in
+      making up the whole
+  hypernym:
+  - 00635107-n
+  ili: i38760
+  members:
+  - anailís
+  partOfSpeech: n
+00635829-n:
+  definition:
+  - confidence: 0.0
+    text: the act of counting; reciting numbers in ascending order
+  hypernym:
+  - 00635107-n
+  ili: i38761
+  members:
+  - comhaireamh
+  - scór
+  - áireamh
+  partOfSpeech: n
+00637093-n:
+  definition:
+  - confidence: 0.0
+    text: the act of examining something closely (as for mistakes)
+  hypernym:
+  - 00635107-n
+  ili: i38767
+  members:
+  - scrúdú
+  - scrúdúchán
+  partOfSpeech: n
+00637704-n:
+  definition:
+  - confidence: 0.0
+    text: the act of giving students or candidates a test (as by questions) to determine
+      what they know or have learned
+  hypernym:
+  - 00635107-n
+  ili: i38768
+  members:
+  - scrúdú
+  partOfSpeech: n
+00640799-n:
+  definition:
+  - confidence: 0.0
+    text: the act of conducting a controlled test or investigation
+  hypernym:
+  - 00635107-n
+  ili: i38785
+  members:
+  - turgnamh
+  partOfSpeech: n
+00641218-n:
+  definition:
+  - confidence: 0.0
+    text: the act of subjecting to experimental test in order to determine how well
+      something works
+  hypernym:
+  - 00640799-n
+  ili: i38787
+  members:
+  - tástáil
+  partOfSpeech: n
+00643288-n:
+  definition:
+  - confidence: 0.0
+    text: visual examination of the interior of a hollow body organ by use of an endoscope
+  hypernym:
+  - 00637093-n
+  ili: i38799
+  members:
+  - ionscópacht
+  partOfSpeech: n
+00645746-n:
+  definition:
+  - confidence: 0.0
+    text: a detailed critical inspection
+  hypernym:
+  - 00637093-n
+  ili: i38813
+  members:
+  - staidéar
+  partOfSpeech: n
+00652419-n:
+  definition:
+  - confidence: 0.0
+    text: drawing a comparison in order to show a similarity in some respect
+  hypernym:
+  - 00637093-n
+  ili: i38848
+  members:
+  - analach
+  partOfSpeech: n
+00653709-n:
+  definition:
+  - confidence: 0.0
+    text: close observation of a person or group (usually by the police)
+  hypernym:
+  - 00635107-n
+  ili: i38855
+  members:
+  - faireachas
+  partOfSpeech: n
+00654631-n:
+  definition:
+  - confidence: 0.0
+    text: a periodic count of the population
+  hypernym:
+  - 00635829-n
+  ili: i38860
+  members:
+  - daonáireamh
+  - móráireamh
+  partOfSpeech: n
+00656128-n:
+  definition:
+  - confidence: 0.0
+    text: the work of providing treatment for or attending to someone or something
+  hypernym:
+  - 00576778-n
+  ili: i38871
+  members:
+  - aire
+  - cúram
+  partOfSpeech: n
+00659325-n:
+  definition:
+  - confidence: 0.0
+    text: care provided to improve a situation (especially medical procedures or applications
+      that are intended to relieve illness or injury)
+  hypernym:
+  - 00656128-n
+  ili: i38886
+  members:
+  - cóireáil
+  - idirghabháil
+  partOfSpeech: n
+00660291-n:
+  definition:
+  - confidence: 0.0
+    text: kneading and rubbing parts of the body to increase circulation and promote
+      relaxation
+  hypernym:
+  - 00659325-n
+  ili: i38890
+  members:
+  - suathaireacht
+  partOfSpeech: n
+00662026-n:
+  definition:
+  - confidence: 0.0
+    text: professional care for the hands and fingernails
+  hypernym:
+  - 00656128-n
+  - 00038116-n
+  ili: i38898
+  members:
+  - lámh-mhaisiú
+  partOfSpeech: n
+00667593-n:
+  definition:
+  - confidence: 0.0
+    text: a surgical removal of all or part of a limb
+  hypernym:
+  - 00672594-n
+  ili: i38928
+  members:
+  - teascadh
+  partOfSpeech: n
+00672594-n:
+  definition:
+  - confidence: 0.0
+    text: a medical procedure involving an incision with instruments; performed to
+      repair damage or arrest disease in a living body
+  hypernym:
+  - 01025762-n
+  ili: i38955
+  members:
+  - máinliacht
+  partOfSpeech: n
+00698618-n:
+  definition:
+  - confidence: 0.0
+    text: the act of putting a liquid into the body by means of a syringe
+  hypernym:
+  - 00659325-n
+  ili: i39101
+  members:
+  - instealladh
+  partOfSpeech: n
+00712142-n:
+  definition:
+  - confidence: 0.0
+    text: a method of treating disease with small amounts of remedies that, in large
+      amounts in healthy people, produce symptoms similar to those being treated
+  hypernym:
+  - 00659325-n
+  ili: i39167
+  members:
+  - hoiméapaite
+  partOfSpeech: n
+00715204-n:
+  definition:
+  - confidence: 0.0
+    text: the labor of putting a load of something on or in a vehicle or ship or container
+      etc.
+  hypernym:
+  - 00621992-n
+  ili: i39184
+  members:
+  - lastáil
+  - lódáil
+  partOfSpeech: n
+00715425-n:
+  definition:
+  - confidence: 0.0
+    text: the labor of taking a load of something off of or out of a vehicle or ship
+      or container etc.
+  hypernym:
+  - 00621992-n
+  ili: i39185
+  members:
+  - dílódáil
+  partOfSpeech: n
+00715729-n:
+  definition:
+  - confidence: 0.0
+    text: the act of someone who picks up or takes something
+  hypernym:
+  - 00038116-n
+  ili: i39187
+  members:
+  - gabháil
+  - tógáil
+  partOfSpeech: n
+00716058-n:
+  definition:
+  - confidence: 0.0
+    text: the work of installing the wires for an electrical system or device
+  hypernym:
+  - 00621992-n
+  ili: i39189
+  members:
+  - sreangú
+  partOfSpeech: n
+00720746-n:
+  definition:
+  - confidence: 0.0
+    text: work that you are obliged to perform for moral or legal reasons
+  hypernym:
+  - 00576778-n
+  ili: i39216
+  members:
+  - cúram
+  - dualgas
+  - feidhm
+  partOfSpeech: n
+00720957-n:
+  definition:
+  - confidence: 0.0
+    text: a specific piece of work required to be done as a duty or for a specific
+      fee
+  hypernym:
+  - 00720746-n
+  ili: i39217
+  members:
+  - cúram
+  - obair
+  - tasc
+  partOfSpeech: n
+00721817-n:
+  definition:
+  - confidence: 0.0
+    text: the actions and activities assigned to or required or expected of a person
+      or group
+  hypernym:
+  - 00720746-n
+  ili: i39221
+  members:
+  - feidhm
+  - oifig
+  - ról
+  partOfSpeech: n
+00722683-n:
+  definition:
+  - confidence: 0.0
+    text: the post or function properly or customarily occupied or served by another
+  hypernym:
+  - 00721817-n
+  ili: i39225
+  members:
+  - ionad
+  partOfSpeech: n
+00731836-n:
+  definition:
+  - confidence: 0.0
+    text: the duty of serving as a sentry
+  hypernym:
+  - 00720746-n
+  ili: i39271
+  members:
+  - garda
+  partOfSpeech: n
+00732520-n:
+  definition:
+  - confidence: 0.0
+    text: a special assignment that is given to a person or group
+  hypernym:
+  - 00720746-n
+  ili: i39275
+  members:
+  - cúram
+  - misean
+  - muirear
+  partOfSpeech: n
+00733499-n:
+  definition:
+  - confidence: 0.0
+    text: the detachment of a person from their regular organization for temporary
+      assignment elsewhere
+  hypernym:
+  - 00720746-n
+  ili: i39281
+  members:
+  - iasacht
+  partOfSpeech: n
+00735181-n:
+  definition:
+  - confidence: 0.0
+    text: (law) any wrongdoing for which an action for damages may be brought
+  hypernym:
+  - 00408356-n
+  ili: i39289
+  members:
+  - tort
+  partOfSpeech: n
+00738486-n:
+  definition:
+  - confidence: 0.0
+    text: behavior that breaches the rule or etiquette or custom or morality
+  hypernym:
+  - 00408356-n
+  ili: i39306
+  members:
+  - mírialtacht
+  - neamhrialtacht
+  partOfSpeech: n
+00746935-n:
+  definition:
+  - confidence: 0.0
+    text: morally objectionable behavior
+  hypernym:
+  - 00408356-n
+  ili: i39353
+  members:
+  - olc
+  partOfSpeech: n
+00748513-n:
+  definition:
+  - confidence: 0.0
+    text: creative activity (writing or pictures or films etc.) of no literary or
+      artistic value other than to stimulate sexual desire
+  hypernym:
+  - 00408356-n
+  ili: i39363
+  members:
+  - pornagrafaíocht
+  partOfSpeech: n
+00749453-n:
+  definition:
+  - confidence: 0.0
+    text: offering sexual intercourse for pay
+  hypernym:
+  - 00767761-n
+  ili: i39367
+  members:
+  - meirdreachas
+  - striapachas
+  partOfSpeech: n
+00760148-n:
+  definition:
+  - confidence: 0.0
+    text: apathy and inactivity in the practice of virtue (personified as one of the
+      deadly sins)
+  hypernym:
+  - 00408356-n
+  ili: i39422
+  members:
+  - falsacht
+  - leisce
+  partOfSpeech: n
+00761047-n:
+  definition:
+  - confidence: 0.0
+    text: the calculated use of violence (or the threat of violence) against civilians
+      in order to attain goals that are political or religious or ideological in nature;
+      this is done through intimidation or coercion or instilling fear
+  hypernym:
+  - 01129340-n
+  ili: i39427
+  members:
+  - sceimhlitheoireacht
+  partOfSpeech: n
+00764485-n:
+  definition:
+  - confidence: 0.0
+    text: terrorism using the weapons of biological warfare
+  hypernym:
+  - 00761047-n
+  ili: i39428
+  members:
+  - bithsceimhlitheoireacht
+  partOfSpeech: n
+00767761-n:
+  definition:
+  - confidence: 0.0
+    text: (criminal law) an act punishable by law; usually considered an evil act
+  hypernym:
+  - 00408356-n
+  ili: i39442
+  members:
+  - cion
+  - coir
+  partOfSpeech: n
+00769315-n:
+  definition:
+  - confidence: 0.0
+    text: a threatened or attempted physical attack by someone who appears to be able
+      to cause bodily harm if not stopped
+  hypernym:
+  - 00767761-n
+  ili: i39445
+  members:
+  - ionsaí
+  partOfSpeech: n
+00770581-n:
+  definition:
+  - confidence: 0.0
+    text: intentional deception resulting in injury to another person
+  hypernym:
+  - 00767761-n
+  ili: i39452
+  members:
+  - calaois
+  partOfSpeech: n
+00771759-n:
+  definition:
+  - confidence: 0.0
+    text: a crime less serious than a felony
+  hypernym:
+  - 00767761-n
+  ili: i39457
+  members:
+  - sárú
+  partOfSpeech: n
+00772032-n:
+  definition:
+  - confidence: 0.0
+    text: an act that disregards an agreement or a right
+  hypernym:
+  - 00408356-n
+  ili: i39458
+  members:
+  - sárú
+  partOfSpeech: n
+00777199-n:
+  definition:
+  - confidence: 0.0
+    text: (law) the unlawful act of capturing and carrying away a person against their
+      will and holding them in false imprisonment
+  hypernym:
+  - 00767761-n
+  ili: i39483
+  members:
+  - fuadach
+  partOfSpeech: n
+00777662-n:
+  definition:
+  - confidence: 0.0
+    text: engaging in a racket
+  hypernym:
+  - 00767761-n
+  ili: i39485
+  members:
+  - cambheartaíocht
+  partOfSpeech: n
+00781784-n:
+  definition:
+  - confidence: 0.0
+    text: the act of swindling by some fraudulent scheme
+  hypernym:
+  - 00770581-n
+  ili: i39505
+  members:
+  - calaois
+  partOfSpeech: n
+00782543-n:
+  definition:
+  - confidence: 0.0
+    text: the act of taking something from someone unlawfully
+  hypernym:
+  - 00767761-n
+  ili: i39509
+  members:
+  - gadaíocht
+  - goid
+  partOfSpeech: n
+00783339-n:
+  definition:
+  - confidence: 0.0
+    text: larceny by threat of violence
+  hypernym:
+  - 00782543-n
+  ili: i39512
+  members:
+  - robáil
+  partOfSpeech: n
+00785181-n:
+  definition:
+  - confidence: 0.0
+    text: hijacking on the high seas or in similar contexts; taking a ship or plane
+      away from the control of those who are legally entitled to it
+  hypernym:
+  - 00783339-n
+  ili: i39524
+  members:
+  - píoráideacht
+  partOfSpeech: n
+00786252-n:
+  definition:
+  - confidence: 0.0
+    text: extortion of money by threats to divulge discrediting information
+  hypernym:
+  - 00767761-n
+  ili: i39530
+  members:
+  - dúmhál
+  partOfSpeech: n
+00786699-n:
+  definition:
+  - confidence: 0.0
+    text: entering a building unlawfully with intent to commit a felony or to steal
+      valuable property
+  hypernym:
+  - 00767761-n
+  ili: i39533
+  members:
+  - buirgléireacht
+  partOfSpeech: n
+00787849-n:
+  definition:
+  - confidence: 0.0
+    text: earnest and conscientious activity intended to do or accomplish something
+  hypernym:
+  - 00408356-n
+  ili: i39540
+  members:
+  - iarracht
+  partOfSpeech: n
+00792739-n:
+  definition:
+  - confidence: 0.0
+    text: the act of testing something
+  hypernym:
+  - 00787849-n
+  ili: i39567
+  members:
+  - triail
+  - tástáil
+  partOfSpeech: n
+00797013-n:
+  definition:
+  - confidence: 0.0
+    text: activity planned as a test or trial
+  hypernym:
+  - 00792739-n
+  ili: i39584
+  members:
+  - treoirthionscadal
+  partOfSpeech: n
+00797381-n:
+  definition:
+  - confidence: 0.0
+    text: any piece of work that is undertaken or attempted
+  hypernym:
+  - 00576778-n
+  ili: i39587
+  members:
+  - gnóthas
+  - tionscadal
+  partOfSpeech: n
+00797976-n:
+  definition:
+  - confidence: 0.0
+    text: a wild and exciting undertaking (not necessarily lawful)
+  hypernym:
+  - 00797381-n
+  ili: i39589
+  members:
+  - eachtra
+  partOfSpeech: n
+00798547-n:
+  definition:
+  - confidence: 0.0
+    text: a purposeful or industrious undertaking (especially one that requires effort
+      or boldness)
+  hypernym:
+  - 00797381-n
+  ili: i39592
+  members:
+  - fiontar
+  - gnóthas
+  partOfSpeech: n
+00799906-n:
+  definition:
+  - confidence: 0.0
+    text: a series of actions advancing a principle or tending toward a particular
+      end
+  hypernym:
+  - 00797381-n
+  ili: i39600
+  members:
+  - cúis
+  - feachtas
+  partOfSpeech: n
+00801198-n:
+  definition:
+  - confidence: 0.0
+    text: the campaign of a candidate to be elected
+  hypernym:
+  - 00799906-n
+  ili: i39605
+  members:
+  - iarrthóireacht
+  partOfSpeech: n
+00811126-n:
+  definition:
+  - confidence: 0.0
+    text: the act of having and controlling property
+  hypernym:
+  - 00408356-n
+  ili: i39659
+  members:
+  - seilbh
+  partOfSpeech: n
+00812259-n:
+  definition:
+  - confidence: 0.0
+    text: the act of retaining something
+  hypernym:
+  - 00811126-n
+  ili: i39665
+  members:
+  - coimeád
+  - coinneáil
+  partOfSpeech: n
+00813016-n:
+  definition:
+  - confidence: 0.0
+    text: the act of storing something
+  hypernym:
+  - 00812259-n
+  ili: i39669
+  members:
+  - stóráil
+  partOfSpeech: n
+00813582-n:
+  definition:
+  - confidence: 0.0
+    text: the act of packing or storing away
+  hypernym:
+  - 01096649-n
+  ili: i39673
+  members:
+  - stuáil
+  partOfSpeech: n
+00814187-n:
+  definition:
+  - confidence: 0.0
+    text: the act of grasping
+  hypernym:
+  - 00408356-n
+  ili: i39677
+  members:
+  - greim
+  partOfSpeech: n
+00817462-n:
+  definition:
+  - confidence: 0.0
+    text: the guidance of ships or airplanes from place to place
+  hypernym:
+  - 00408356-n
+  ili: i39693
+  members:
+  - píolótaíocht
+  partOfSpeech: n
+00820339-n:
+  definition:
+  - confidence: 0.0
+    text: (with 'in') guardianship over; in divorce cases it is the right to house
+      and care for and discipline a child
+  hypernym:
+  - 01132241-n
+  ili: i39706
+  members:
+  - coimeád
+  partOfSpeech: n
+00821752-n:
+  definition:
+  - confidence: 0.0
+    text: the act of keeping back or setting aside for some future occasion
+  hypernym:
+  - 00408356-n
+  ili: i39714
+  members:
+  - forchoimeád
+  partOfSpeech: n
+00824631-n:
+  definition:
+  - confidence: 0.0
+    text: a precautionary measure warding off impending danger or damage or injury
+      etc.
+  hypernym:
+  - 00175261-n
+  ili: i39729
+  members:
+  - cosaint
+  partOfSpeech: n
+00825411-n:
+  definition:
+  - confidence: 0.0
+    text: protection from harm
+  hypernym:
+  - 00408356-n
+  ili: i39732
+  members:
+  - cosaint
+  partOfSpeech: n
+00827434-n:
+  definition:
+  - confidence: 0.0
+    text: a sport adapted from jujitsu (using principles of not resisting) and similar
+      to wrestling; developed in Japan
+  hypernym:
+  - 00524569-n
+  ili: i39743
+  members:
+  - júdó
+  partOfSpeech: n
+00829299-n:
+  definition:
+  - confidence: 0.0
+    text: the act of locking something up to protect it
+  hypernym:
+  - 00408356-n
+  ili: i39754
+  members:
+  - glasáil
+  partOfSpeech: n
+00831039-n:
+  definition:
+  - confidence: 0.0
+    text: attention and management implying responsibility for safety
+  hypernym:
+  - 00408356-n
+  ili: i39765
+  members:
+  - ceannas
+  partOfSpeech: n
+00839759-n:
+  definition:
+  - confidence: 0.0
+    text: the process of taking food into the body through the mouth (as by eating)
+  hypernym:
+  - 00001740-n
+  ili: i39805
+  members:
+  - tomhaltas
+  partOfSpeech: n
+00840028-n:
+  definition:
+  - confidence: 0.0
+    text: the act of consuming food
+  hypernym:
+  - 00839759-n
+  ili: i39806
+  members:
+  - itheachán
+  partOfSpeech: n
+00840953-n:
+  definition:
+  - confidence: 0.0
+    text: a reflex response to the passage of electric current through the body
+  hypernym:
+  - 00860679-n
+  ili: i39810
+  members:
+  - turraing
+  partOfSpeech: n
+00842752-n:
+  definition:
+  - confidence: 0.0
+    text: the act of grazing
+  hypernym:
+  - 00840028-n
+  ili: i39820
+  members:
+  - féarach
+  - innilt
+  partOfSpeech: n
+00844789-n:
+  definition:
+  - confidence: 0.0
+    text: the act of consuming liquids
+  hypernym:
+  - 00839759-n
+  ili: i39834
+  members:
+  - ól
+  partOfSpeech: n
+00845915-n:
+  definition:
+  - confidence: 0.0
+    text: activities associated with sexual intercourse
+  hypernym:
+  - 00001740-n
+  ili: i39841
+  members:
+  - gnéas
+  partOfSpeech: n
+00846508-n:
+  definition:
+  - confidence: 0.0
+    text: the act of becoming pregnant; fertilization of an ovum by a spermatozoon
+  hypernym:
+  - 00845915-n
+  ili: i39842
+  members:
+  - coimpeart
+  partOfSpeech: n
+00847184-n:
+  definition:
+  - confidence: 0.0
+    text: sexual activity between individuals, especially the insertion of a man's
+      penis into a woman's vagina until orgasm and ejaculation occur
+  hypernym:
+  - 00845915-n
+  ili: i39846
+  members:
+  - comhriachtain
+  partOfSpeech: n
+00848970-n:
+  definition:
+  - confidence: 0.0
+    text: the act of pairing a male and female for reproductive purposes
+  hypernym:
+  - 00845915-n
+  ili: i39854
+  members:
+  - cúpláil
+  partOfSpeech: n
+00851153-n:
+  definition:
+  - confidence: 0.0
+    text: the sexual activity of conceiving and bearing offspring
+  hypernym:
+  - 00845915-n
+  ili: i39864
+  members:
+  - pórúchán
+  partOfSpeech: n
+00851612-n:
+  definition:
+  - confidence: 0.0
+    text: the act of producing offspring or multiplying by such production
+  hypernym:
+  - 00851153-n
+  ili: i39866
+  members:
+  - giniúint
+  partOfSpeech: n
+00853217-n:
+  definition:
+  - confidence: 0.0
+    text: the act of mating closely related individuals
+  hypernym:
+  - 00848970-n
+  ili: i39873
+  members:
+  - insíolrú
+  - ionphórú
+  partOfSpeech: n
+00857303-n:
+  definition:
+  - confidence: 0.0
+    text: manual stimulation of the genital organs (of yourself or another) for sexual
+      pleasure
+  hypernym:
+  - 00845915-n
+  ili: i39894
+  members:
+  - glacaireacht
+  partOfSpeech: n
+00859293-n:
+  definition:
+  - confidence: 0.0
+    text: a sexual attraction to (or sexual relations with) persons of the opposite
+      sex
+  hypernym:
+  - 00845915-n
+  ili: i39906
+  members:
+  - heitrighnéasacht
+  partOfSpeech: n
+00860679-n:
+  definition:
+  - confidence: 0.0
+    text: a bodily process occurring due to the effect of some antecedent stimulus
+      or agent
+  hypernym:
+  - 00001740-n
+  ili: i39914
+  members:
+  - freagairt
+  partOfSpeech: n
+00870588-n:
+  definition:
+  - confidence: 0.0
+    text: the procedure of calculating; determining something by mathematical or logical
+      methods
+  hypernym:
+  - 01025762-n
+  ili: i39963
+  members:
+  - ríomh
+  - ríomhaireacht
+  - áireamh
+  partOfSpeech: n
+00876484-n:
+  definition:
+  - confidence: 0.0
+    text: act of ascertaining or fixing the value or worth of
+  hypernym:
+  - 00030657-n
+  ili: i39992
+  members:
+  - rátáil
+  partOfSpeech: n
+00879303-n:
+  definition:
+  - confidence: 0.0
+    text: a quick look
+  hypernym:
+  - 00408356-n
+  ili: i40005
+  members:
+  - sracfhéachaint
+  partOfSpeech: n
+00880949-n:
+  definition:
+  - confidence: 0.0
+    text: a formal or official examination
+  hypernym:
+  - 00637093-n
+  ili: i40017
+  members:
+  - cigireacht
+  partOfSpeech: n
+00881724-n:
+  definition:
+  - confidence: 0.0
+    text: the act of observing something (and sometimes keeping a record of it)
+  hypernym:
+  - 00408356-n
+  ili: i40021
+  members:
+  - faireachán
+  - monatóireacht
+  partOfSpeech: n
+00884975-n:
+  definition:
+  - confidence: 0.0
+    text: the activities of educating or instructing; activities that impart knowledge
+      or skill
+  hypernym:
+  - 00408356-n
+  ili: i40040
+  members:
+  - teagasc
+  partOfSpeech: n
+00886144-n:
+  definition:
+  - confidence: 0.0
+    text: education imparted in a series of lessons or meetings
+  hypernym:
+  - 00884975-n
+  ili: i40043
+  members:
+  - cúrsa
+  partOfSpeech: n
+00888377-n:
+  definition:
+  - confidence: 0.0
+    text: education provided by a college or university
+  hypernym:
+  - 00884975-n
+  ili: i40054
+  members:
+  - ardoideachas
+  partOfSpeech: n
+00888759-n:
+  definition:
+  - confidence: 0.0
+    text: the profession of a teacher
+  hypernym:
+  - 00612720-n
+  ili: i40057
+  members:
+  - múinteoireacht
+  - teagasc
+  partOfSpeech: n
+00893192-n:
+  definition:
+  - confidence: 0.0
+    text: a course introducing a new situation or environment
+  hypernym:
+  - 00886144-n
+  ili: i40087
+  members:
+  - treoshuíomh
+  partOfSpeech: n
+00894093-n:
+  definition:
+  - confidence: 0.0
+    text: a brief intensive course for a small group; emphasizes problem solving
+  hypernym:
+  - 00886144-n
+  ili: i40093
+  members:
+  - ceardlann
+  partOfSpeech: n
+00895653-n:
+  definition:
+  - confidence: 0.0
+    text: activity leading to skilled behavior
+  hypernym:
+  - 00408356-n
+  ili: i40103
+  members:
+  - oiliúint
+  - traenáil
+  partOfSpeech: n
+00905007-n:
+  definition:
+  - confidence: 0.0
+    text: (radiology) examination of the inner structure of opaque objects using X
+      rays or other penetrating radiation
+  hypernym:
+  - 00408356-n
+  ili: i40153
+  members:
+  - raideolaíocht
+  partOfSpeech: n
+00905257-n:
+  definition:
+  - confidence: 0.0
+    text: the act of taking and printing photographs
+  hypernym:
+  - 00408356-n
+  ili: i40154
+  members:
+  - grianghrafadóireacht
+  partOfSpeech: n
+00909617-n:
+  definition:
+  - confidence: 0.0
+    text: the act of making a film
+  hypernym:
+  - 00905257-n
+  ili: i40176
+  members:
+  - scannánaíocht
+  partOfSpeech: n
+00910103-n:
+  definition:
+  - confidence: 0.0
+    text: the making of animated cartoons
+  hypernym:
+  - 00909617-n
+  ili: i40179
+  members:
+  - beochan
+  partOfSpeech: n
+00910891-n:
+  definition:
+  - confidence: 0.0
+    text: creating thread
+  hypernym:
+  - 00607485-n
+  - 00935235-n
+  ili: i40183
+  members:
+  - sníomh
+  partOfSpeech: n
+00912746-n:
+  definition:
+  - confidence: 0.0
+    text: the act of constructing something
+  hypernym:
+  - 00408356-n
+  ili: i40195
+  members:
+  - foirgníocht
+  - tógáil
+  partOfSpeech: n
+00913832-n:
+  definition:
+  - confidence: 0.0
+    text: the act of constructing something (as a piece of machinery)
+  hypernym:
+  - 00912746-n
+  ili: i40199
+  members:
+  - cóimeáil
+  partOfSpeech: n
+00916463-n:
+  definition:
+  - confidence: 0.0
+    text: production of a certain amount
+  hypernym:
+  - 00925258-n
+  ili: i40213
+  members:
+  - aschur
+  - toradh
+  - táirgeacht
+  partOfSpeech: n
+00916971-n:
+  definition:
+  - confidence: 0.0
+    text: the production of malt beverages (as beer or ale) from malt and hops by
+      grinding and boiling them and fermenting the result with yeast
+  hypernym:
+  - 00925258-n
+  ili: i40216
+  members:
+  - bríbhéireacht
+  - grúdaireacht
+  partOfSpeech: n
+00917978-n:
+  definition:
+  - confidence: 0.0
+    text: rearing aquatic animals or cultivating aquatic plants for food
+  hypernym:
+  - 00925258-n
+  ili: i40223
+  members:
+  - dobharshaothrú
+  - uisceshaothrú
+  partOfSpeech: n
+00918116-n:
+  definition:
+  - confidence: 0.0
+    text: the cultivation of bees on a commercial scale for the production of honey
+  hypernym:
+  - 00925258-n
+  ili: i40224
+  members:
+  - beachaireacht
+  partOfSpeech: n
+00918295-n:
+  definition:
+  - confidence: 0.0
+    text: the practice of cultivating the land or raising stock
+  hypernym:
+  - 00925258-n
+  ili: i40225
+  members:
+  - feirmeoireacht
+  - talmhaíocht
+  partOfSpeech: n
+00919990-n:
+  definition:
+  - confidence: 0.0
+    text: the cultivation of soil for raising crops
+  hypernym:
+  - 00925258-n
+  ili: i40231
+  members:
+  - curaíocht
+  partOfSpeech: n
+00920197-n:
+  definition:
+  - confidence: 0.0
+    text: the cultivation of plants
+  hypernym:
+  - 00918295-n
+  ili: i40233
+  members:
+  - gairneoireacht
+  - garraíodóireacht
+  partOfSpeech: n
+00922324-n:
+  definition:
+  - confidence: 0.0
+    text: (biology) the growing of microorganisms in a nutrient medium (such as gelatin
+      or agar)
+  hypernym:
+  - 13510240-n
+  ili: i40245
+  members:
+  - saothrán
+  partOfSpeech: n
+00924141-n:
+  definition:
+  - confidence: 0.0
+    text: the act of extracting ores or coal etc. from the earth
+  hypernym:
+  - 00925258-n
+  ili: i40257
+  members:
+  - mianadóireacht
+  partOfSpeech: n
+00925258-n:
+  definition:
+  - confidence: 0.0
+    text: the organized action of making of goods and services for sale
+  hypernym:
+  - 01096649-n
+  ili: i40263
+  members:
+  - tionscal
+  partOfSpeech: n
+00925616-n:
+  definition:
+  - confidence: 0.0
+    text: the development of industry on an extensive scale
+  hypernym:
+  - 00925258-n
+  ili: i40264
+  members:
+  - tionsclaíocht
+  partOfSpeech: n
+00926393-n:
+  definition:
+  - confidence: 0.0
+    text: the making of maps and charts
+  hypernym:
+  - 00030657-n
+  ili: i40267
+  members:
+  - cartagrafaíocht
+  partOfSpeech: n
+00926639-n:
+  definition:
+  - confidence: 0.0
+    text: the act of making something (a product) from raw materials
+  hypernym:
+  - 00408356-n
+  ili: i40269
+  members:
+  - déantúsaíocht
+  - monaraíocht
+  partOfSpeech: n
+00927436-n:
+  definition:
+  - confidence: 0.0
+    text: shaping metal by heating and hammering
+  hypernym:
+  - 00926639-n
+  ili: i40272
+  members:
+  - gaibhniú
+  partOfSpeech: n
+00929892-n:
+  definition:
+  - confidence: 0.0
+    text: the act of working out the form of something (as by making a sketch or outline
+      or plan)
+  hypernym:
+  - 00408356-n
+  ili: i40288
+  members:
+  - dearthóireacht
+  partOfSpeech: n
+00930762-n:
+  definition:
+  - confidence: 0.0
+    text: creating a sequence of instructions to enable the computer to do something
+  hypernym:
+  - 00408356-n
+  ili: i40292
+  members:
+  - ríomhchlárú
+  partOfSpeech: n
+00935235-n:
+  definition:
+  - confidence: 0.0
+    text: the creation of beautiful or significant things
+  hypernym:
+  - 00408356-n
+  ili: i40314
+  members:
+  - ealaín
+  partOfSpeech: n
+00938436-n:
+  definition:
+  - confidence: 0.0
+    text: creating a picture with paints
+  hypernym:
+  - 00935235-n
+  - 06005806-n
+  ili: i40324
+  members:
+  - péintéireacht
+  partOfSpeech: n
+00940354-n:
+  definition:
+  - confidence: 0.0
+    text: the art or method of painting with oil paints
+  hypernym:
+  - 00938436-n
+  ili: i40335
+  members:
+  - péintéireacht ola
+  partOfSpeech: n
+00943420-n:
+  definition:
+  - confidence: 0.0
+    text: a line of approach
+  hypernym:
+  - 00408356-n
+  ili: i40353
+  members:
+  - bealach
+  partOfSpeech: n
+00947217-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of looking thoroughly in order to find something or someone
+  hypernym:
+  - 00408356-n
+  ili: i40374
+  members:
+  - cuardach
+  partOfSpeech: n
+00948944-n:
+  definition:
+  - confidence: 0.0
+    text: the act of using
+  hypernym:
+  - 00408356-n
+  ili: i40384
+  members:
+  - úsáid
+  partOfSpeech: n
+00949535-n:
+  definition:
+  - confidence: 0.0
+    text: improper or excessive use
+  hypernym:
+  - 00948944-n
+  ili: i40386
+  members:
+  - drochúsáid
+  - mí-úsáid
+  partOfSpeech: n
+00950684-n:
+  definition:
+  - confidence: 0.0
+    text: the act of processing used or abandoned materials for use in creating new
+      products
+  hypernym:
+  - 00948944-n
+  ili: i40392
+  members:
+  - athchúrsáil
+  partOfSpeech: n
+00950950-n:
+  definition:
+  - confidence: 0.0
+    text: the act of bringing something to bear; using it for a particular purpose
+  hypernym:
+  - 00948944-n
+  ili: i40394
+  members:
+  - feidhm
+  partOfSpeech: n
+00951878-n:
+  definition:
+  - confidence: 0.0
+    text: the practical application of technical and scientific knowledge to commerce
+      or industry
+  hypernym:
+  - 00611221-n
+  - 00950950-n
+  ili: i40396
+  members:
+  - innealtóireacht
+  partOfSpeech: n
+00952969-n:
+  definition:
+  - confidence: 0.0
+    text: highly advanced technological development (especially in electronics)
+  hypernym:
+  - 00950950-n
+  ili: i40403
+  members:
+  - ardteicneolaíocht
+  partOfSpeech: n
+00954325-n:
+  definition:
+  - confidence: 0.0
+    text: an estimation of the value of a business
+  hypernym:
+  - 00030657-n
+  ili: i40409
+  members:
+  - caipitliú
+  partOfSpeech: n
+00955670-n:
+  definition:
+  - confidence: 0.0
+    text: a hostile meeting of opposing military forces in the course of a war
+  hypernym:
+  - 00038116-n
+  ili: i40416
+  members:
+  - cath
+  - coinbhleacht
+  partOfSpeech: n
+00956422-n:
+  definition:
+  - confidence: 0.0
+    text: (military) military action or resources protecting a country against potential
+      enemies
+  hypernym:
+  - 00038116-n
+  ili: i40418
+  members:
+  - cosaint
+  partOfSpeech: n
+00957171-n:
+  definition:
+  - confidence: 0.0
+    text: activity by a military or naval force (as a maneuver or campaign)
+  hypernym:
+  - 00408356-n
+  ili: i40420
+  members:
+  - oibríocht
+  partOfSpeech: n
+00961007-n:
+  definition:
+  - confidence: 0.0
+    text: an open clash between two opposing groups (or individuals)
+  hypernym:
+  - 00038116-n
+  ili: i40428
+  members:
+  - coimhlint
+  - coinbhleacht
+  - easaontas
+  partOfSpeech: n
+00967515-n:
+  definition:
+  - confidence: 0.0
+    text: an act of aggression (as one against a person who resists)
+  hypernym:
+  - 00038116-n
+  ili: i40459
+  members:
+  - forneart
+  - foréigean
+  partOfSpeech: n
+00967999-n:
+  definition:
+  - confidence: 0.0
+    text: the act of stealing valuable things from a place
+  hypernym:
+  - 00038116-n
+  ili: i40461
+  members:
+  - foghail
+  partOfSpeech: n
+00970259-n:
+  definition:
+  - confidence: 0.0
+    text: several related operations aimed at achieving a particular goal (usually
+      within geographical and temporal constraints)
+  hypernym:
+  - 00957171-n
+  ili: i40474
+  members:
+  - feachtas
+  partOfSpeech: n
+00974725-n:
+  definition:
+  - confidence: 0.0
+    text: (military) an offensive against an enemy (using weapons)
+  hypernym:
+  - 00957171-n
+  ili: i40496
+  members:
+  - ionsaí
+  partOfSpeech: n
+00975181-n:
+  definition:
+  - confidence: 0.0
+    text: the waging of armed conflict against an enemy
+  hypernym:
+  - 00038116-n
+  ili: i40497
+  members:
+  - cogadh
+  - cogaíocht
+  partOfSpeech: n
+00978617-n:
+  definition:
+  - confidence: 0.0
+    text: the act of invading; the act of an army that invades for conquest or plunder
+  hypernym:
+  - 00974725-n
+  ili: i40513
+  members:
+  - ionradh
+  partOfSpeech: n
+00979039-n:
+  definition:
+  - confidence: 0.0
+    text: a sudden short attack
+  hypernym:
+  - 00974725-n
+  ili: i40515
+  members:
+  - ruathar
+  partOfSpeech: n
+00981828-n:
+  definition:
+  - confidence: 0.0
+    text: the use of bombs for sabotage; a tactic frequently used by terrorists
+  hypernym:
+  - 01247442-n
+  ili: i40530
+  members:
+  - buamáil
+  partOfSpeech: n
+00982990-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of keeping the peace by military forces (especially when international
+      military forces enforce a truce between hostile groups or nations)
+  hypernym:
+  - 00957171-n
+  ili: i40536
+  members:
+  - síochánaíocht
+  partOfSpeech: n
+00986695-n:
+  definition:
+  - confidence: 0.0
+    text: the act of reconnoitring (especially to gain information about an enemy
+      or potential enemy)
+  hypernym:
+  - 00957171-n
+  ili: i40555
+  members:
+  - taiscéalaíocht
+  partOfSpeech: n
+00989024-n:
+  definition:
+  - confidence: 0.0
+    text: the act of firing weapons or artillery at an enemy
+  hypernym:
+  - 00974725-n
+  ili: i40566
+  members:
+  - tine
+  partOfSpeech: n
+00990406-n:
+  definition:
+  - confidence: 0.0
+    text: rapid simultaneous discharge of firearms
+  hypernym:
+  - 00989024-n
+  ili: i40570
+  members:
+  - rúisc
+  partOfSpeech: n
+00998911-n:
+  definition:
+  - confidence: 0.0
+    text: the act or process of assigning numbers to phenomena according to a rule
+  hypernym:
+  - 00408356-n
+  ili: i40622
+  members:
+  - tomhas
+  partOfSpeech: n
+01005214-n:
+  definition:
+  - confidence: 0.0
+    text: measurement of the properties of light (especially luminous intensity)
+  hypernym:
+  - 00998911-n
+  ili: i40656
+  members:
+  - fótaiméadracht
+  partOfSpeech: n
+01005512-n:
+  definition:
+  - confidence: 0.0
+    text: the act of discovering or expressing the quantity of something
+  hypernym:
+  - 00998911-n
+  ili: i40658
+  members:
+  - cainníochtú
+  partOfSpeech: n
+01007521-n:
+  definition:
+  - confidence: 0.0
+    text: the practice of measuring angles and distances on the ground so that they
+      can be accurately plotted on a map
+  hypernym:
+  - 00998911-n
+  ili: i40669
+  members:
+  - suirbhéireacht
+  partOfSpeech: n
+01011132-n:
+  definition:
+  - confidence: 0.0
+    text: systematic organization; the act of organizing something according to a
+      system or a rationale
+  hypernym:
+  - 00408356-n
+  ili: i40688
+  members:
+  - cuíchóiriú
+  partOfSpeech: n
+01014654-n:
+  definition:
+  - confidence: 0.0
+    text: the act of distributing things into classes or categories of the same type
+  hypernym:
+  - 00408356-n
+  ili: i40707
+  members:
+  - aicmiúchán
+  partOfSpeech: n
+01015258-n:
+  definition:
+  - confidence: 0.0
+    text: classifying something again (usually in a new category)
+  hypernym:
+  - 01014654-n
+  ili: i40709
+  members:
+  - athaicmiú
+  partOfSpeech: n
+01015913-n:
+  definition:
+  - confidence: 0.0
+    text: classification according to general type
+  hypernym:
+  - 01014654-n
+  ili: i40713
+  members:
+  - tíopeolaíocht
+  partOfSpeech: n
+01016008-n:
+  definition:
+  - confidence: 0.0
+    text: the act of gathering something together
+  hypernym:
+  - 00408356-n
+  ili: i40714
+  members:
+  - bailiú
+  partOfSpeech: n
+01019262-n:
+  definition:
+  - confidence: 0.0
+    text: the act of bearing the weight of or strengthening
+  hypernym:
+  - 00408356-n
+  ili: i40733
+  members:
+  - tacaíocht
+  partOfSpeech: n
+01021314-n:
+  definition:
+  - confidence: 0.0
+    text: the act of repeating over and again (or an instance thereof)
+  hypernym:
+  - 00408356-n
+  ili: i40742
+  members:
+  - athrá
+  partOfSpeech: n
+01021466-n:
+  definition:
+  - confidence: 0.0
+    text: an act of copying
+  hypernym:
+  - 00408356-n
+  ili: i40743
+  members:
+  - cóipeáil
+  - macasamhlú
+  partOfSpeech: n
+01021645-n:
+  definition:
+  - confidence: 0.0
+    text: the act of copying or making a duplicate (or duplicates) of something
+  hypernym:
+  - 01021466-n
+  ili: i40744
+  members:
+  - dúbailt
+  partOfSpeech: n
+01021843-n:
+  definition:
+  - confidence: 0.0
+    text: the act of making copies
+  hypernym:
+  - 01021466-n
+  ili: i40745
+  members:
+  - macasamhlú
+  partOfSpeech: n
+01022430-n:
+  definition:
+  - confidence: 0.0
+    text: the reproduction of sound with little or no distortion
+  hypernym:
+  - 01021843-n
+  ili: i40748
+  members:
+  - ard-dílseacht
+  partOfSpeech: n
+01022712-n:
+  definition:
+  - confidence: 0.0
+    text: the act of reproducing recorded sound
+  hypernym:
+  - 01021843-n
+  ili: i40750
+  members:
+  - athsheinm
+  partOfSpeech: n
+01022878-n:
+  definition:
+  - confidence: 0.0
+    text: copying (or trying to copy) the actions of someone else
+  hypernym:
+  - 01021466-n
+  ili: i40751
+  members:
+  - aithris
+  partOfSpeech: n
+01025762-n:
+  definition:
+  - confidence: 0.0
+    text: a particular course of action intended to achieve a result
+  hypernym:
+  - 00408356-n
+  ili: i40766
+  members:
+  - próiseas
+  partOfSpeech: n
+01027505-n:
+  definition:
+  - confidence: 0.0
+    text: needlessly time-consuming procedure
+  hypernym:
+  - 01187304-n
+  ili: i40774
+  members:
+  - rómhaorlathas
+  partOfSpeech: n
+01033595-n:
+  definition:
+  - confidence: 0.0
+    text: going without clothes as a social practice
+  hypernym:
+  - 00411260-n
+  ili: i40805
+  members:
+  - nochtachas
+  partOfSpeech: n
+01034072-n:
+  definition:
+  - confidence: 0.0
+    text: the act of public worship following prescribed rules
+  hypernym:
+  - 00408356-n
+  ili: i40808
+  members:
+  - seirbhís
+  partOfSpeech: n
+01042422-n:
+  definition:
+  - confidence: 0.0
+    text: (Roman Catholic and Eastern Orthodox Church) the act of admitting a deceased
+      person into the canon of saints
+  hypernym:
+  - 00408356-n
+  ili: i40853
+  members:
+  - canónú
+  partOfSpeech: n
+01044274-n:
+  definition:
+  - confidence: 0.0
+    text: (Roman Catholic Church and Protestant Churches) the celebration of the Eucharist
+  hypernym:
+  - 00408356-n
+  ili: i40862
+  members:
+  - Aifreann
+  partOfSpeech: n
+01050836-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of keeping something secret
+  hypernym:
+  - 00408356-n
+  ili: i40907
+  members:
+  - ceilt
+  - folach
+  partOfSpeech: n
+01051609-n:
+  definition:
+  - confidence: 0.0
+    text: the act of concealing the existence of something by obstructing the view
+      of it
+  hypernym:
+  - 01050836-n
+  ili: i40910
+  members:
+  - clúdach
+  partOfSpeech: n
+01055844-n:
+  definition:
+  - confidence: 0.0
+    text: the act of dwelling in a place
+  hypernym:
+  - 00030657-n
+  ili: i40932
+  members:
+  - cónaí
+  partOfSpeech: n
+01056259-n:
+  definition:
+  - confidence: 0.0
+    text: an act of being a tenant or occupant
+  hypernym:
+  - 01055844-n
+  ili: i40934
+  members:
+  - tionóntacht
+  partOfSpeech: n
+01058335-n:
+  definition:
+  - confidence: 0.0
+    text: a brief stay in the course of a journey
+  hypernym:
+  - 00030657-n
+  ili: i40944
+  members:
+  - stad
+  partOfSpeech: n
+01059124-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of supplying or providing something
+  hypernym:
+  - 00408356-n
+  ili: i40949
+  members:
+  - soláthar
+  partOfSpeech: n
+01059555-n:
+  definition:
+  - confidence: 0.0
+    text: supplying dry land with water by means of ditches etc
+  hypernym:
+  - 01059124-n
+  ili: i40950
+  members:
+  - uisciú
+  partOfSpeech: n
+01061824-n:
+  definition:
+  - confidence: 0.0
+    text: the preservation of mental and physical health by preventing or treating
+      illness through services offered by the health profession
+  hypernym:
+  - 00656128-n
+  ili: i40964
+  members:
+  - cúram sláinte
+  partOfSpeech: n
+01062158-n:
+  definition:
+  - confidence: 0.0
+    text: the act of providing an item for general use or for official purposes (usually
+      in quantity)
+  hypernym:
+  - 01059124-n
+  ili: i40966
+  members:
+  - eisiúint
+  partOfSpeech: n
+01062953-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of supplying a stock of something
+  hypernym:
+  - 01059124-n
+  ili: i40970
+  members:
+  - stocáil
+  partOfSpeech: n
+01064921-n:
+  definition:
+  - confidence: 0.0
+    text: a pause from doing something (as work)
+  hypernym:
+  - 00030657-n
+  ili: i40981
+  members:
+  - sos
+  partOfSpeech: n
+01065863-n:
+  definition:
+  - confidence: 0.0
+    text: the act of waiting (remaining inactive in one place while expecting something)
+  hypernym:
+  - 00030657-n
+  ili: i40986
+  members:
+  - feitheamh
+  partOfSpeech: n
+01066072-n:
+  definition:
+  - confidence: 0.0
+    text: freedom from activity (work or strain or responsibility)
+  hypernym:
+  - 00030657-n
+  ili: i40987
+  members:
+  - scíth
+  - sos
+  partOfSpeech: n
+01068087-n:
+  definition:
+  - confidence: 0.0
+    text: the act of delaying; inactivity resulting in something being put off until
+      a later time
+  hypernym:
+  - 00030657-n
+  ili: i41000
+  members:
+  - moill
+  partOfSpeech: n
+01068805-n:
+  definition:
+  - confidence: 0.0
+    text: act of putting off to a future time
+  hypernym:
+  - 01068087-n
+  ili: i41003
+  members:
+  - iarchur
+  partOfSpeech: n
+01071904-n:
+  definition:
+  - confidence: 0.0
+    text: abstaining from food
+  hypernym:
+  - 00408356-n
+  ili: i41021
+  members:
+  - troscadh
+  partOfSpeech: n
+01073335-n:
+  definition:
+  - confidence: 0.0
+    text: leniency and compassion shown toward offenders by a person or agency charged
+      with administering justice
+  hypernym:
+  - 01140991-n
+  ili: i41029
+  members:
+  - trócaire
+  partOfSpeech: n
+01073670-n:
+  definition:
+  - confidence: 0.0
+    text: an activity that affords enjoyment
+  hypernym:
+  - 00408356-n
+  ili: i41030
+  members:
+  - pléisiúr
+  partOfSpeech: n
+01077041-n:
+  definition:
+  - confidence: 0.0
+    text: the action of an armed force that surrounds a fortified place and isolates
+      it while continuing to attack
+  hypernym:
+  - 00038116-n
+  ili: i41048
+  members:
+  - léigear
+  partOfSpeech: n
+01077970-n:
+  definition:
+  - confidence: 0.0
+    text: the act of stopping something
+  hypernym:
+  - 00030657-n
+  ili: i41052
+  members:
+  - stad
+  partOfSpeech: n
+01079274-n:
+  definition:
+  - confidence: 0.0
+    text: the act of preventing
+  hypernym:
+  - 00030657-n
+  ili: i41058
+  members:
+  - cosc
+  partOfSpeech: n
+01080010-n:
+  definition:
+  - confidence: 0.0
+    text: the act of preventing someone from participating by finding them unqualified
+  hypernym:
+  - 01079274-n
+  ili: i41061
+  members:
+  - dícháiliúchán
+  partOfSpeech: n
+01084472-n:
+  definition:
+  - confidence: 0.0
+    text: the action of changing from colonial to independent status
+  hypernym:
+  - 00038116-n
+  ili: i41079
+  members:
+  - díchoilíniú
+  partOfSpeech: n
+01085001-n:
+  definition:
+  - confidence: 0.0
+    text: the act of distributing or spreading or apportioning
+  hypernym:
+  - 00030657-n
+  ili: i41082
+  members:
+  - dáil
+  - dáileachán
+  partOfSpeech: n
+01085274-n:
+  definition:
+  - confidence: 0.0
+    text: distributing again
+  hypernym:
+  - 01085001-n
+  ili: i41083
+  members:
+  - athdháileadh
+  partOfSpeech: n
+01085569-n:
+  definition:
+  - confidence: 0.0
+    text: the act of distributing by allotting or apportioning; distribution according
+      to a plan
+  hypernym:
+  - 01085001-n
+  ili: i41085
+  members:
+  - cionroinnt
+  partOfSpeech: n
+01087022-n:
+  definition:
+  - confidence: 0.0
+    text: the allotment of some amount by dividing something
+  hypernym:
+  - 01085569-n
+  ili: i41091
+  members:
+  - cion
+  - cuid
+  partOfSpeech: n
+01088280-n:
+  definition:
+  - confidence: 0.0
+    text: the act of conferring an honor or presenting a gift
+  hypernym:
+  - 01085001-n
+  ili: i41098
+  members:
+  - tabhairt
+  partOfSpeech: n
+01091942-n:
+  definition:
+  - confidence: 0.0
+    text: a pledged contribution
+  hypernym:
+  - 01085001-n
+  ili: i41119
+  members:
+  - suibscríbhinn
+  - síntiús
+  partOfSpeech: n
+01092370-n:
+  definition:
+  - confidence: 0.0
+    text: transactions (sales and purchases) having the objective of supplying commodities
+      (goods and services)
+  hypernym:
+  - 01108713-n
+  ili: i41123
+  members:
+  - tráchtáil
+  - trádáil
+  partOfSpeech: n
+01093829-n:
+  definition:
+  - confidence: 0.0
+    text: the commercial exchange (buying and selling on domestic or international
+      markets) of goods and services
+  hypernym:
+  - 01092370-n
+  ili: i41124
+  members:
+  - tráchtáil
+  - trádáil
+  partOfSpeech: n
+01094567-n:
+  definition:
+  - confidence: 0.0
+    text: international trade free of government interference
+  hypernym:
+  - 01093829-n
+  ili: i41127
+  members:
+  - saorthrádáil
+  partOfSpeech: n
+01094898-n:
+  definition:
+  - confidence: 0.0
+    text: commerce conducted electronically (as on the internet)
+  hypernym:
+  - 01092370-n
+  ili: i41129
+  members:
+  - ríomhthráchtáil
+  partOfSpeech: n
+01095009-n:
+  definition:
+  - confidence: 0.0
+    text: reciprocal transfer of equivalent sums of money (especially the currencies
+      of different countries)
+  hypernym:
+  - 01092370-n
+  ili: i41130
+  members:
+  - malairt
+  partOfSpeech: n
+01095590-n:
+  definition:
+  - confidence: 0.0
+    text: disposing of money or property with the expectation that the same thing
+      (or an equivalent) will be returned
+  hypernym:
+  - 00044347-n
+  ili: i41133
+  members:
+  - iasacht
+  partOfSpeech: n
+01095889-n:
+  definition:
+  - confidence: 0.0
+    text: a kind of hedged investment meant to capture slight differences in price;
+      when there is a difference in the price of something on two different markets
+      the arbitrageur simultaneously buys at the lower price and sells at the higher
+      price
+  hypernym:
+  - 01100603-n
+  ili: i41135
+  members:
+  - arbatráiste
+  partOfSpeech: n
+01096649-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of providing goods and services involving financial and commercial
+      and industrial aspects
+  hypernym:
+  - 01092370-n
+  ili: i41138
+  members:
+  - gnó
+  partOfSpeech: n
+01099197-n:
+  definition:
+  - confidence: 0.0
+    text: the world of commercial activity where goods and services are bought and
+      sold
+  hypernym:
+  - 00408356-n
+  ili: i41147
+  members:
+  - margadh
+  partOfSpeech: n
+01100603-n:
+  definition:
+  - confidence: 0.0
+    text: the commercial activity of providing funds and capital
+  hypernym:
+  - 01096649-n
+  ili: i41154
+  members:
+  - airgeadas
+  partOfSpeech: n
+01101014-n:
+  definition:
+  - confidence: 0.0
+    text: the act of financing
+  hypernym:
+  - 01100603-n
+  ili: i41156
+  members:
+  - cistiú
+  - cistiúchán
+  partOfSpeech: n
+01101851-n:
+  definition:
+  - confidence: 0.0
+    text: investing with borrowed money as a way to amplify potential gains (at the
+      risk of greater losses)
+  hypernym:
+  - 01100603-n
+  ili: i41160
+  members:
+  - giaráil
+  partOfSpeech: n
+01102563-n:
+  definition:
+  - confidence: 0.0
+    text: engaging in the business of keeping money for savings and checking accounts
+      or for exchange or for issuing loans and credit etc.
+  hypernym:
+  - 01135602-n
+  ili: i41164
+  members:
+  - baincéireacht
+  partOfSpeech: n
+01102782-n:
+  definition:
+  - confidence: 0.0
+    text: a jointly owned commercial enterprise (usually organized by farmers or consumers)
+      that produces and distributes goods and services and is run for the benefit
+      of its owners
+  hypernym:
+  - 08072983-n
+  ili: i41165
+  members:
+  - comharchumann
+  partOfSpeech: n
+01103234-n:
+  definition:
+  - confidence: 0.0
+    text: the business of drawing public attention to goods and services
+  hypernym:
+  - 01096649-n
+  ili: i41168
+  members:
+  - fógraíocht
+  partOfSpeech: n
+01103863-n:
+  definition:
+  - confidence: 0.0
+    text: the business of issuing printed matter for sale or distribution
+  hypernym:
+  - 01096649-n
+  ili: i41172
+  members:
+  - foilsitheoireacht
+  partOfSpeech: n
+01105064-n:
+  definition:
+  - confidence: 0.0
+    text: the business of producing printed material for sale or distribution
+  hypernym:
+  - 01096649-n
+  ili: i41179
+  members:
+  - clódóireacht
+  partOfSpeech: n
+01106229-n:
+  definition:
+  - confidence: 0.0
+    text: providing food and services
+  hypernym:
+  - 00583425-n
+  ili: i41186
+  members:
+  - lónadóireacht
+  partOfSpeech: n
+01107164-n:
+  definition:
+  - confidence: 0.0
+    text: the commercial enterprise of moving goods and materials
+  hypernym:
+  - 01096649-n
+  ili: i41192
+  members:
+  - iompar
+  partOfSpeech: n
+01107540-n:
+  definition:
+  - confidence: 0.0
+    text: transportation by air
+  hypernym:
+  - 01107164-n
+  ili: i41193
+  members:
+  - aeriompar
+  partOfSpeech: n
+01108713-n:
+  definition:
+  - confidence: 0.0
+    text: the act of transacting within or between groups (as carrying on commercial
+      activities)
+  hypernym:
+  - 00038116-n
+  ili: i41201
+  members:
+  - beart
+  - idirbheart
+  partOfSpeech: n
+01111592-n:
+  definition:
+  - confidence: 0.0
+    text: an equal exchange
+  hypernym:
+  - 01095009-n
+  ili: i41214
+  members:
+  - babhtáil
+  partOfSpeech: n
+01113038-n:
+  definition:
+  - confidence: 0.0
+    text: obtaining funds from a lender
+  hypernym:
+  - 01108713-n
+  ili: i41222
+  members:
+  - iasacht
+  - iasachtaíocht
+  partOfSpeech: n
+01113280-n:
+  definition:
+  - confidence: 0.0
+    text: the act of paying for the use of something (as an apartment or house or
+      car)
+  hypernym:
+  - 01108713-n
+  ili: i41224
+  members:
+  - cíos
+  partOfSpeech: n
+01113857-n:
+  definition:
+  - confidence: 0.0
+    text: the commercial activity of selling and shipping goods to a foreign country
+  hypernym:
+  - 01092370-n
+  ili: i41227
+  members:
+  - onnmhairiúchán
+  partOfSpeech: n
+01114037-n:
+  definition:
+  - confidence: 0.0
+    text: secretly importing prohibited goods or goods on which duty is due
+  hypernym:
+  - 01092370-n
+  ili: i41228
+  members:
+  - smuigleáil
+  - smuigléireacht
+  partOfSpeech: n
+01115977-n:
+  definition:
+  - confidence: 0.0
+    text: buying and selling; especially illicit trade
+  hypernym:
+  - 01092370-n
+  ili: i41235
+  members:
+  - ceannaíocht
+  - trácht
+  partOfSpeech: n
+01116568-n:
+  definition:
+  - confidence: 0.0
+    text: the selling of goods to consumers; usually in small quantities and not for
+      resale
+  hypernym:
+  - 01092370-n
+  ili: i41239
+  members:
+  - miondíol
+  partOfSpeech: n
+01116756-n:
+  definition:
+  - confidence: 0.0
+    text: the selling of goods to merchants; usually in large quantities for resale
+      to consumers
+  hypernym:
+  - 01092370-n
+  ili: i41240
+  members:
+  - mórdhíol
+  partOfSpeech: n
+01116934-n:
+  definition:
+  - confidence: 0.0
+    text: a particular instance of selling
+  hypernym:
+  - 01092370-n
+  ili: i41241
+  members:
+  - díol
+  partOfSpeech: n
+01117910-n:
+  definition:
+  - confidence: 0.0
+    text: selling goods abroad at a price below that charged in the domestic market
+  hypernym:
+  - 01092370-n
+  ili: i41245
+  members:
+  - dumpáil
+  partOfSpeech: n
+01118347-n:
+  definition:
+  - confidence: 0.0
+    text: the use of the telephone as an interactive medium for promotion and sales
+  hypernym:
+  - 01092370-n
+  ili: i41248
+  members:
+  - teileamhargaíocht
+  partOfSpeech: n
+01118527-n:
+  definition:
+  - confidence: 0.0
+    text: automatic transmission and measurement of data from remote sources by wire
+      or radio or other means
+  hypernym:
+  - 00998911-n
+  ili: i41249
+  members:
+  - teiliméadracht
+  partOfSpeech: n
+01119775-n:
+  definition:
+  - confidence: 0.0
+    text: the selling of something purchased
+  hypernym:
+  - 01092370-n
+  ili: i41257
+  members:
+  - athdhíol
+  partOfSpeech: n
+01119862-n:
+  definition:
+  - confidence: 0.0
+    text: the general activity of selling
+  hypernym:
+  - 01092370-n
+  ili: i41258
+  members:
+  - díol
+  - díolachán
+  partOfSpeech: n
+01122769-n:
+  definition:
+  - confidence: 0.0
+    text: the act of paying money
+  hypernym:
+  - 01092370-n
+  ili: i41276
+  members:
+  - íoc
+  - íocaíocht
+  partOfSpeech: n
+01123813-n:
+  definition:
+  - confidence: 0.0
+    text: payment in advance
+  hypernym:
+  - 01122769-n
+  ili: i41281
+  members:
+  - réamhíocaíocht
+  partOfSpeech: n
+01124011-n:
+  definition:
+  - confidence: 0.0
+    text: the act of returning money received previously
+  hypernym:
+  - 01122769-n
+  ili: i41283
+  members:
+  - aisíoc
+  partOfSpeech: n
+01124470-n:
+  definition:
+  - confidence: 0.0
+    text: the act of spending or disbursing money
+  hypernym:
+  - 01122769-n
+  ili: i41286
+  members:
+  - caiteachas
+  partOfSpeech: n
+01125416-n:
+  definition:
+  - confidence: 0.0
+    text: the movement of persons from one country or locality to another
+  hypernym:
+  - 00280679-n
+  ili: i41292
+  members:
+  - imirce
+  partOfSpeech: n
+01127115-n:
+  definition:
+  - confidence: 0.0
+    text: the act of governing; exercising authority
+  hypernym:
+  - 00038116-n
+  ili: i41300
+  members:
+  - rialachas
+  partOfSpeech: n
+01129030-n:
+  definition:
+  - confidence: 0.0
+    text: the cultivation of grapes and grape vines; grape growing
+  hypernym:
+  - 00925258-n
+  ili: i41307
+  members:
+  - fíonsaothrú
+  partOfSpeech: n
+01129340-n:
+  definition:
+  - confidence: 0.0
+    text: the act of enforcing; ensuring observance of or obedience to
+  hypernym:
+  - 00038116-n
+  ili: i41309
+  members:
+  - forfheidhmiúchán
+  partOfSpeech: n
+01129944-n:
+  definition:
+  - confidence: 0.0
+    text: the act of imposing something (as a tax or an embargo)
+  hypernym:
+  - 01129340-n
+  ili: i41312
+  members:
+  - forchur
+  partOfSpeech: n
+01131853-n:
+  definition:
+  - confidence: 0.0
+    text: helping someone grow up to be an accepted member of the community
+  hypernym:
+  - 00038116-n
+  ili: i41322
+  members:
+  - tógáil
+  partOfSpeech: n
+01132241-n:
+  definition:
+  - confidence: 0.0
+    text: the social force that binds you to the courses of action demanded by that
+      force
+  hypernym:
+  - 00038116-n
+  ili: i41323
+  members:
+  - dualgas
+  - oibleagáid
+  partOfSpeech: n
+01135602-n:
+  definition:
+  - confidence: 0.0
+    text: the act of managing something
+  hypernym:
+  - 00038116-n
+  ili: i41343
+  members:
+  - bainistíocht
+  partOfSpeech: n
+01137182-n:
+  definition:
+  - confidence: 0.0
+    text: the management of someone or something
+  hypernym:
+  - 01135602-n
+  ili: i41351
+  members:
+  - cóir
+  - cóireáil
+  - láimhseáil
+  partOfSpeech: n
+01137850-n:
+  definition:
+  - confidence: 0.0
+    text: management by overseeing the performance or operation of a person or group
+  hypernym:
+  - 01135602-n
+  ili: i41354
+  members:
+  - maoirseacht
+  partOfSpeech: n
+01138273-n:
+  definition:
+  - confidence: 0.0
+    text: a method of tending to or managing the affairs of some group of people (especially
+      the group's business affairs)
+  hypernym:
+  - 01135602-n
+  ili: i41356
+  members:
+  - riar
+  - riarachán
+  partOfSpeech: n
+01139306-n:
+  definition:
+  - confidence: 0.0
+    text: the act of administering or being in charge of something
+  hypernym:
+  - 01138273-n
+  ili: i41360
+  members:
+  - reáchtáil
+  partOfSpeech: n
+01140991-n:
+  definition:
+  - confidence: 0.0
+    text: the act of conferring legality or sanction or formal warrant
+  hypernym:
+  - 01135602-n
+  ili: i41368
+  members:
+  - údarú
+  partOfSpeech: n
+01142792-n:
+  definition:
+  - confidence: 0.0
+    text: the act of granting authority to undertake certain functions
+  hypernym:
+  - 01140991-n
+  ili: i41377
+  members:
+  - coimisiún
+  partOfSpeech: n
+01142979-n:
+  definition:
+  - confidence: 0.0
+    text: the commission that is given to a government and its policies through an
+      electoral victory
+  hypernym:
+  - 01142792-n
+  ili: i41378
+  members:
+  - sainordú
+  partOfSpeech: n
+01143160-n:
+  definition:
+  - confidence: 0.0
+    text: authorizing subordinates to make certain decisions
+  hypernym:
+  - 01140991-n
+  ili: i41379
+  members:
+  - tarmligean
+  partOfSpeech: n
+01145325-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of putting or setting in order in advance of some act or purpose
+  hypernym:
+  - 00408356-n
+  ili: i41391
+  members:
+  - ullmhú
+  - ullmhúchán
+  partOfSpeech: n
+01145922-n:
+  definition:
+  - confidence: 0.0
+    text: the distribution of forces in preparation for battle or work
+  hypernym:
+  - 01145325-n
+  ili: i41392
+  members:
+  - imscaradh
+  partOfSpeech: n
+01146646-n:
+  definition:
+  - confidence: 0.0
+    text: an act of formulating a program for a definite course of action
+  hypernym:
+  - 01145325-n
+  ili: i41397
+  members:
+  - pleanáil
+  partOfSpeech: n
+01147872-n:
+  definition:
+  - confidence: 0.0
+    text: the act of controlling by restraining someone or something
+  hypernym:
+  - 00408356-n
+  ili: i41404
+  members:
+  - srian
+  partOfSpeech: n
+01149281-n:
+  definition:
+  - confidence: 0.0
+    text: the act of confining someone in a prison (or as if in a prison)
+  hypernym:
+  - 01147872-n
+  ili: i41410
+  members:
+  - imtheorannú
+  partOfSpeech: n
+01150677-n:
+  definition:
+  - confidence: 0.0
+    text: severely repressive actions
+  hypernym:
+  - 01079274-n
+  ili: i41418
+  members:
+  - cniogbheartaíocht
+  partOfSpeech: n
+01154100-n:
+  definition:
+  - confidence: 0.0
+    text: the act of bringing something under international control
+  hypernym:
+  - 00038116-n
+  ili: i41437
+  members:
+  - idirnáisiúnú
+  partOfSpeech: n
+01156043-n:
+  definition:
+  - confidence: 0.0
+    text: unfair treatment of a person or group on the basis of prejudice
+  hypernym:
+  - 00038116-n
+  ili: i41447
+  members:
+  - leithcheal
+  partOfSpeech: n
+01156868-n:
+  definition:
+  - confidence: 0.0
+    text: discrimination on the basis of a person's age
+  hypernym:
+  - 01156043-n
+  ili: i41451
+  members:
+  - aoiseachas
+  partOfSpeech: n
+01157531-n:
+  definition:
+  - confidence: 0.0
+    text: discriminatory or abusive behavior towards members of another race
+  hypernym:
+  - 01156043-n
+  ili: i41456
+  members:
+  - ciníochas
+  partOfSpeech: n
+01158380-n:
+  definition:
+  - confidence: 0.0
+    text: discriminatory or abusive behavior towards members of the opposite sex
+  hypernym:
+  - 01156043-n
+  ili: i41460
+  members:
+  - gnéasachas
+  partOfSpeech: n
+01160044-n:
+  definition:
+  - confidence: 0.0
+    text: act of reducing or depriving of arms
+  hypernym:
+  - 00038116-n
+  ili: i41468
+  members:
+  - dí-armáil
+  partOfSpeech: n
+01160337-n:
+  definition:
+  - confidence: 0.0
+    text: compulsory military service
+  hypernym:
+  - 00038116-n
+  ili: i41469
+  members:
+  - coinscríobh
+  partOfSpeech: n
+01161177-n:
+  definition:
+  - confidence: 0.0
+    text: the imposition of standards or regulations
+  hypernym:
+  - 00038116-n
+  ili: i41473
+  members:
+  - normalú
+  partOfSpeech: n
+01162829-n:
+  definition:
+  - confidence: 0.0
+    text: the act of punishing, or the infliction of a penalty
+  hypernym:
+  - 00038116-n
+  ili: i41479
+  members:
+  - pionós
+  partOfSpeech: n
+01163648-n:
+  definition:
+  - confidence: 0.0
+    text: the infliction of physical injury on someone convicted of committing a crime
+  hypernym:
+  - 01162829-n
+  ili: i41482
+  members:
+  - pionós corpartha
+  partOfSpeech: n
+01166269-n:
+  definition:
+  - confidence: 0.0
+    text: putting a condemned person to death
+  hypernym:
+  - 01163648-n
+  ili: i41497
+  members:
+  - bású
+  partOfSpeech: n
+01167364-n:
+  definition:
+  - confidence: 0.0
+    text: a form of capital punishment; victim is suspended by the neck from a gallows
+      or gibbet until dead
+  hypernym:
+  - 01166269-n
+  ili: i41503
+  members:
+  - crochadh
+  partOfSpeech: n
+01168748-n:
+  definition:
+  - confidence: 0.0
+    text: the act of changing one thing for another thing
+  hypernym:
+  - 00038116-n
+  ili: i41511
+  members:
+  - malairt
+  - malartú
+  partOfSpeech: n
+01171059-n:
+  definition:
+  - confidence: 0.0
+    text: the act of competing as for profit or a prize
+  hypernym:
+  - 00038116-n
+  ili: i41523
+  members:
+  - iomaíocht
+  partOfSpeech: n
+01172992-n:
+  definition:
+  - confidence: 0.0
+    text: a public act of violence by an unruly mob
+  hypernym:
+  - 00967515-n
+  ili: i41535
+  members:
+  - círéib
+  partOfSpeech: n
+01173452-n:
+  definition:
+  - confidence: 0.0
+    text: the act of fighting; any contest or struggle
+  hypernym:
+  - 00961007-n
+  ili: i41538
+  members:
+  - comhrac
+  - gleic
+  - trodaíocht
+  - troid
+  partOfSpeech: n
+01174134-n:
+  definition:
+  - confidence: 0.0
+    text: the art or sport of fighting with swords (especially the use of foils or
+      epees or sabres to score points under a set of rules)
+  hypernym:
+  - 01173452-n
+  ili: i41539
+  members:
+  - pionsóireacht
+  partOfSpeech: n
+01184392-n:
+  definition:
+  - confidence: 0.0
+    text: a judicial proceeding brought by one party against another; one party prosecutes
+      another for a wrong done or for protection of a right or for prevention of a
+      wrong
+  hypernym:
+  - 01187304-n
+  ili: i41593
+  members:
+  - caingean
+  partOfSpeech: n
+01185144-n:
+  definition:
+  - confidence: 0.0
+    text: a comprehensive term for any proceeding in a court of law whereby an individual
+      seeks a legal remedy
+  hypernym:
+  - 01187304-n
+  ili: i41595
+  members:
+  - cás
+  partOfSpeech: n
+01187304-n:
+  definition:
+  - confidence: 0.0
+    text: (law) the institution of a sequence of steps by which legal judgments are
+      invoked
+  hypernym:
+  - 00038116-n
+  ili: i41607
+  members:
+  - imeacht
+  partOfSpeech: n
+01188101-n:
+  definition:
+  - confidence: 0.0
+    text: (law) a legal proceeding in which the appellant resorts to a higher court
+      for the purpose of obtaining a review of a lower court decision and a reversal
+      of the lower court's judgment or the granting of a new trial
+  hypernym:
+  - 01187304-n
+  ili: i41609
+  members:
+  - achomharc
+  partOfSpeech: n
+01189300-n:
+  definition:
+  - confidence: 0.0
+    text: a legal proceeding in a court; a judicial contest to determine and enforce
+      legal rights
+  hypernym:
+  - 01187304-n
+  ili: i41614
+  members:
+  - dlíthíocht
+  partOfSpeech: n
+01190110-n:
+  definition:
+  - confidence: 0.0
+    text: the proceeding whereby a foreigner is granted citizenship
+  hypernym:
+  - 01187304-n
+  ili: i41618
+  members:
+  - eadóirseacht
+  partOfSpeech: n
+01190300-n:
+  definition:
+  - confidence: 0.0
+    text: (law) the determination by a court of competent jurisdiction on matters
+      submitted to it
+  hypernym:
+  - 00038116-n
+  ili: i41619
+  members:
+  - breithiúnas
+  partOfSpeech: n
+01191772-n:
+  definition:
+  - confidence: 0.0
+    text: (criminal law) a final judgment of guilty in a criminal case and the punishment
+      that is imposed
+  hypernym:
+  - 01190300-n
+  ili: i41624
+  members:
+  - ciontú
+  partOfSpeech: n
+01193374-n:
+  definition:
+  - confidence: 0.0
+    text: the act of deciding as an arbiter; giving authoritative judgment
+  hypernym:
+  - 01190300-n
+  ili: i41630
+  members:
+  - eadráin
+  partOfSpeech: n
+01194465-n:
+  definition:
+  - confidence: 0.0
+    text: the decision of a court on issues of fact or law
+  hypernym:
+  - 01190300-n
+  ili: i41635
+  members:
+  - toradh
+  partOfSpeech: n
+01194640-n:
+  definition:
+  - confidence: 0.0
+    text: (law) the findings of a jury on issues of fact submitted to it for decision;
+      can be used in formulating a judgment
+  hypernym:
+  - 01194465-n
+  ili: i41636
+  members:
+  - fíorasc
+  partOfSpeech: n
+01198357-n:
+  definition:
+  - confidence: 0.0
+    text: (law) the determination of a person's innocence or guilt by due process
+      of law
+  hypernym:
+  - 01187304-n
+  ili: i41656
+  members:
+  - triail
+  partOfSpeech: n
+01200797-n:
+  definition:
+  - confidence: 0.0
+    text: the institution and conduct of legal proceedings against a defendant for
+      criminal behavior
+  hypernym:
+  - 01184392-n
+  ili: i41666
+  members:
+  - ionchúiseamh
+  partOfSpeech: n
+01201855-n:
+  definition:
+  - confidence: 0.0
+    text: a new trial in which issues already litigated and to which the court has
+      already rendered a verdict or decision are reexamined by the same court; occurs
+      when the initial trial is found to have been improper or unfair due to procedural
+      errors
+  hypernym:
+  - 01198357-n
+  ili: i41671
+  members:
+  - atriail
+  partOfSpeech: n
+01202187-n:
+  definition:
+  - confidence: 0.0
+    text: (law) a proceeding (usually by a court) where evidence is taken for the
+      purpose of determining an issue of fact and reaching a decision based on that
+      evidence
+  hypernym:
+  - 01187304-n
+  ili: i41672
+  members:
+  - éisteacht
+  partOfSpeech: n
+01203761-n:
+  definition:
+  - confidence: 0.0
+    text: the legal dissolution of a marriage
+  hypernym:
+  - 00038116-n
+  ili: i41678
+  members:
+  - colscaradh
+  partOfSpeech: n
+01205394-n:
+  definition:
+  - confidence: 0.0
+    text: joint operation or action
+  hypernym:
+  - 00038116-n
+  ili: i41688
+  members:
+  - comhar
+  partOfSpeech: n
+01206166-n:
+  definition:
+  - confidence: 0.0
+    text: acting according to certain accepted standards
+  hypernym:
+  - 01205394-n
+  ili: i41691
+  members:
+  - comhlíontacht
+  partOfSpeech: n
+01207646-n:
+  definition:
+  - confidence: 0.0
+    text: act of working jointly
+  hypernym:
+  - 01205394-n
+  ili: i41699
+  members:
+  - comhar
+  partOfSpeech: n
+01208054-n:
+  definition:
+  - confidence: 0.0
+    text: a middle way between two extremes
+  hypernym:
+  - 01205394-n
+  ili: i41701
+  members:
+  - comhghéilleadh
+  - comhréiteach
+  partOfSpeech: n
+01208317-n:
+  definition:
+  - confidence: 0.0
+    text: the reestablishing of cordial relations
+  hypernym:
+  - 01205394-n
+  ili: i41703
+  members:
+  - athmhuintearas
+  partOfSpeech: n
+01210099-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of contributing to the fulfillment of a need or furtherance
+      of an effort or purpose
+  hypernym:
+  - 00408356-n
+  ili: i41714
+  members:
+  - cabhair
+  - cúnamh
+  partOfSpeech: n
+01211414-n:
+  definition:
+  - confidence: 0.0
+    text: any of various services designed to aid the poor and aged and to increase
+      the welfare of children
+  hypernym:
+  - 00576778-n
+  ili: i41719
+  members:
+  - obair shóisialta
+  partOfSpeech: n
+01211569-n:
+  definition:
+  - confidence: 0.0
+    text: close sociological study of a maladjusted person or family for diagnosis
+      and treatment
+  hypernym:
+  - 00576778-n
+  ili: i41720
+  members:
+  - cásobair
+  partOfSpeech: n
+01211710-n:
+  definition:
+  - confidence: 0.0
+    text: assistance in time of difficulty
+  hypernym:
+  - 01210099-n
+  ili: i41721
+  members:
+  - fóir
+  - fóirithint
+  partOfSpeech: n
+01216376-n:
+  definition:
+  - confidence: 0.0
+    text: the act of providing approval and support
+  hypernym:
+  - 01217882-n
+  ili: i41746
+  members:
+  - cúltaca
+  - tacaíocht
+  partOfSpeech: n
+01216661-n:
+  definition:
+  - confidence: 0.0
+    text: active support of an idea or cause etc.; especially the act of pleading
+      or arguing for something
+  hypernym:
+  - 01210099-n
+  ili: i41747
+  members:
+  - abhcóideacht
+  partOfSpeech: n
+01217526-n:
+  definition:
+  - confidence: 0.0
+    text: the act of sponsoring (either officially or financially)
+  hypernym:
+  - 01210099-n
+  ili: i41752
+  members:
+  - urraíocht
+  partOfSpeech: n
+01217882-n:
+  definition:
+  - confidence: 0.0
+    text: the formal act of approving
+  hypernym:
+  - 01210099-n
+  ili: i41754
+  members:
+  - formheas
+  partOfSpeech: n
+01218392-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of providing for or maintaining by supplying with money or
+      necessities
+  hypernym:
+  - 00408356-n
+  ili: i41756
+  members:
+  - tacaíocht
+  partOfSpeech: n
+01220817-n:
+  definition:
+  - confidence: 0.0
+    text: the act of reserving (a place or passage) or engaging the services of (a
+      person or group)
+  hypernym:
+  - 00038116-n
+  ili: i41768
+  members:
+  - áirithint
+  partOfSpeech: n
+01223473-n:
+  definition:
+  - confidence: 0.0
+    text: manner of acting or controlling yourself
+  hypernym:
+  - 00408356-n
+  ili: i41782
+  members:
+  - iompar
+  - iompraíocht
+  partOfSpeech: n
+01229430-n:
+  definition:
+  - confidence: 0.0
+    text: an act of gracious kindness
+  hypernym:
+  - 00038116-n
+  ili: i41816
+  members:
+  - fabhar
+  partOfSpeech: n
+01232427-n:
+  definition:
+  - confidence: 0.0
+    text: the social act of assembling
+  hypernym:
+  - 00038116-n
+  ili: i41836
+  members:
+  - tionól
+  partOfSpeech: n
+01233339-n:
+  definition:
+  - confidence: 0.0
+    text: the act of convoking
+  hypernym:
+  - 01232427-n
+  ili: i41840
+  members:
+  - comhghairm
+  partOfSpeech: n
+01234656-n:
+  definition:
+  - confidence: 0.0
+    text: a meeting devoted to a particular activity
+  hypernym:
+  - 01232427-n
+  ili: i41848
+  members:
+  - seisiún
+  partOfSpeech: n
+01235962-n:
+  definition:
+  - confidence: 0.0
+    text: the act of being present (at a meeting or event etc.)
+  hypernym:
+  - 00038116-n
+  ili: i41855
+  members:
+  - freastal
+  partOfSpeech: n
+01236192-n:
+  definition:
+  - confidence: 0.0
+    text: formal attendance (in court or at a hearing) of a party in an action
+  hypernym:
+  - 01235962-n
+  ili: i41856
+  members:
+  - láithreas
+  partOfSpeech: n
+01236910-n:
+  definition:
+  - confidence: 0.0
+    text: failure to be present
+  hypernym:
+  - 00038116-n
+  ili: i41861
+  members:
+  - neamhláithreacht
+  partOfSpeech: n
+01237093-n:
+  definition:
+  - confidence: 0.0
+    text: habitual absence from work
+  hypernym:
+  - 01236910-n
+  ili: i41862
+  members:
+  - neamhláithreachas
+  partOfSpeech: n
+01237177-n:
+  definition:
+  - confidence: 0.0
+    text: failure to attend (especially school)
+  hypernym:
+  - 00038116-n
+  ili: i41863
+  members:
+  - múitseáil
+  partOfSpeech: n
+01237823-n:
+  definition:
+  - confidence: 0.0
+    text: action taken in return for an injury or offense
+  hypernym:
+  - 00038116-n
+  ili: i41867
+  members:
+  - díoltas
+  partOfSpeech: n
+01239859-n:
+  definition:
+  - confidence: 0.0
+    text: the action of making something democratic
+  hypernym:
+  - 00038116-n
+  ili: i41878
+  members:
+  - daonlathú
+  partOfSpeech: n
+01240989-n:
+  definition:
+  - confidence: 0.0
+    text: the combination of two or more commercial companies
+  hypernym:
+  - 00038116-n
+  ili: i41883
+  members:
+  - cumasc
+  partOfSpeech: n
+01241629-n:
+  definition:
+  - confidence: 0.0
+    text: the act of sharing in the activities of a group
+  hypernym:
+  - 00038116-n
+  ili: i41886
+  members:
+  - páirt
+  - rannpháirteachas
+  - rannpháirtíocht
+  partOfSpeech: n
+01242775-n:
+  definition:
+  - confidence: 0.0
+    text: the act of intervening (as to mediate a dispute, etc.)
+  hypernym:
+  - 01241629-n
+  ili: i41891
+  members:
+  - idirghabháil
+  partOfSpeech: n
+01242997-n:
+  definition:
+  - confidence: 0.0
+    text: the act of intervening for the purpose of bringing about a settlement
+  hypernym:
+  - 01242775-n
+  ili: i41892
+  members:
+  - idirghabháil
+  partOfSpeech: n
+01243415-n:
+  definition:
+  - confidence: 0.0
+    text: nonparticipation in a dispute or war
+  hypernym:
+  - 00038116-n
+  ili: i41895
+  members:
+  - neodracht
+  partOfSpeech: n
+01246221-n:
+  definition:
+  - confidence: 0.0
+    text: a group's refusal to work in protest against low pay or bad work conditions
+  hypernym:
+  - 00038116-n
+  ili: i41910
+  members:
+  - stailc
+  partOfSpeech: n
+01247442-n:
+  definition:
+  - confidence: 0.0
+    text: a deliberate act of destruction or disruption in which equipment is damaged
+  hypernym:
+  - 00217881-n
+  ili: i41916
+  members:
+  - sabaitéireacht
+  partOfSpeech: n
+01247706-n:
+  definition:
+  - confidence: 0.0
+    text: systematic killing of a racial or cultural group
+  hypernym:
+  - 00210792-n
+  ili: i41918
+  members:
+  - cinedhíothú
+  partOfSpeech: n
+01250738-n:
+  definition:
+  - confidence: 0.0
+    text: the act of admitting someone to enter
+  hypernym:
+  - 00049744-n
+  ili: i41937
+  members:
+  - cead isteach
+  partOfSpeech: n
+01251399-n:
+  definition:
+  - confidence: 0.0
+    text: the act of renewing
+  hypernym:
+  - 00408356-n
+  ili: i41941
+  members:
+  - athnuachan
+  partOfSpeech: n
+01252403-n:
+  definition:
+  - confidence: 0.0
+    text: willful wanton and malicious destruction of the property of others
+  hypernym:
+  - 00217881-n
+  - 00408356-n
+  ili: i41947
+  members:
+  - loitiméireacht
+  partOfSpeech: n
+01252688-n:
+  definition:
+  - confidence: 0.0
+    text: the act of amending or correcting
+  hypernym:
+  - 00259697-n
+  ili: i41949
+  members:
+  - leasú
+  - leasúchán
+  partOfSpeech: n
+01254867-n:
+  definition:
+  - confidence: 0.0
+    text: the act of colonizing; the establishment of colonies
+  hypernym:
+  - 00237945-n
+  ili: i41964
+  members:
+  - coilíniú
+  partOfSpeech: n
+01255647-n:
+  definition:
+  - confidence: 0.0
+    text: the act of emitting; causing to flow forth
+  hypernym:
+  - 00030657-n
+  ili: i41968
+  members:
+  - astaíocht
+  - astú
+  partOfSpeech: n
+01255864-n:
+  definition:
+  - confidence: 0.0
+    text: the act of venting
+  hypernym:
+  - 01255647-n
+  ili: i41969
+  members:
+  - sceith
+  partOfSpeech: n
+01259004-n:
+  definition:
+  - confidence: 0.0
+    text: the activity of leading
+  hypernym:
+  - 00408356-n
+  ili: i41989
+  members:
+  - ceannaireacht
+  partOfSpeech: n
+01261532-n:
+  definition:
+  - confidence: 0.0
+    text: the act (by someone having the authority) of annulling something previously
+      done
+  hypernym:
+  - 00232754-n
+  ili: i42002
+  members:
+  - cúlghairm
+  partOfSpeech: n
+01265206-n:
+  definition:
+  - confidence: 0.0
+    text: the act of taking out money or other capital
+  hypernym:
+  - 00392407-n
+  ili: i42024
+  members:
+  - aistarraingt
+  partOfSpeech: n
+01266204-n:
+  definition:
+  - confidence: 0.0
+    text: the act of getting recruits; enlisting people for the army (or for a job
+      or a cause etc.)
+  hypernym:
+  - 00038116-n
+  ili: i42030
+  members:
+  - earcaíocht
+  partOfSpeech: n
+01268227-n:
+  definition:
+  - confidence: 0.0
+    text: the mass expulsion and killing of one ethnic or religious group in an area
+      by another ethnic or religious group in that area
+  hypernym:
+  - 00038116-n
+  ili: i42043
+  members:
+  - glanadh eitneach
+  partOfSpeech: n

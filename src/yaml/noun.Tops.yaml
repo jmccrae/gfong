@@ -1,0 +1,249 @@
+00001740-n:
+  definition:
+  - an ní a bhraitear, nó an ní a bhfuil eolas air, nó a ghlactar mar thátal go mbíonn
+    a bheithsine féin aige (beo nó neamhbheo)
+  ili: i35545
+  members:
+  - aonán
+  - eintiteas
+  partOfSpeech: n
+00002684-n:
+  definition:
+  - eintiteas atá inláimhsithe agus infheicthe; eintiteas atá in ann scáth a chaitheamh
+  hypernym:
+  - 00001740-n
+  ili: i35549
+  members:
+  - ní
+  - rud
+  - réad
+  - ábhar
+  partOfSpeech: n
+00004475-n:
+  definition:
+  - ní beo a bhfuil ar a chumas (nó a fhorbraíonn an cumas) gníomhú nó feidhmiú go
+    neamhspleách
+  hypernym:
+  - 00002684-n
+  ili: i35553
+  members:
+  - orgánach
+  partOfSpeech: n
+00006484-n:
+  definition:
+  - (bitheolaíocht) an bunaonad struchtúrach agus feidhmeach de gach orgánach; is
+    féidir leo maireachtáil mar aonaid neamhspleácha bheatha (monaid mar shampla)
+    nó féadfaidh siad teacht le chéile agus coilíneachtaí nó fíocháin a chruthú mar
+    a tharlaíonn i gcás ardphlandaithe agus ardainmhithe
+  hypernym:
+  - 00002684-n
+  ili: i35560
+  members:
+  - cill
+  partOfSpeech: n
+00007846-n:
+  definition:
+  - neach daonna; ball den chine daonna
+  hypernym:
+  - 00004475-n
+  ili: i35562
+  members:
+  - duine
+  - neach
+  - pearsa
+  partOfSpeech: n
+00015568-n:
+  definition:
+  - orgánach beo arb é is tréith ann an ghluaiseacht dheonach
+  hypernym:
+  - 00004475-n
+  ili: i35563
+  members:
+  - ainmhí
+  partOfSpeech: n
+00017402-n:
+  definition:
+  - (luibheolaíocht) orgánach beo gan cumas gluaiseachta
+  hypernym:
+  - 00004475-n
+  ili: i35564
+  members:
+  - planda
+  partOfSpeech: n
+00019793-n:
+  definition:
+  - an t-ábhar nithiúil a bhaineann le nádúr an duine nó rud
+  hypernym:
+  - 00021007-n
+  - 13831419-n
+  ili: i35567
+  members:
+  - substaint
+  partOfSpeech: n
+00021007-n:
+  definition:
+  - an ní a bhfuil mais aige agus a líonann spás
+  hypernym:
+  - 00001740-n
+  ili: i35569
+  members:
+  - ábhar
+  partOfSpeech: n
+00021445-n:
+  definition:
+  - substaint ar bith ar féidir le hainmhí a mheitibiliú le haghaidh fuinnimh agus
+    chun fíochán a dhéanamh
+  hypernym:
+  - 00021007-n
+  ili: i35570
+  members:
+  - bia
+  - cothaitheach
+  partOfSpeech: n
+00022119-n:
+  definition:
+  - réad iomlán de dhéantús an duine
+  hypernym:
+  - 00002684-n
+  ili: i35572
+  members:
+  - déantán
+  partOfSpeech: n
+00023083-n:
+  definition:
+  - ceann d'aicme déantán
+  hypernym:
+  - 00022119-n
+  ili: i35573
+  members:
+  - airteagal
+  - earra
+  partOfSpeech: n
+00023451-n:
+  definition:
+  - an toradh síceolaíoch a eascraíonn as tuiscint, foghlaim agus réasúnaíocht
+  hypernym:
+  - 00001740-n
+  ili: i35575
+  members:
+  - eolas
+  - fios
+  - iúl
+  partOfSpeech: n
+00024900-n:
+  definition:
+  - an chaoi ina bhfuil ní éigin i ndáil lena imthosca agus lena phríomhthréithe
+  hypernym:
+  - 00001740-n
+  ili: i35578
+  members:
+  - riocht
+  - staid
+  partOfSpeech: n
+00026390-n:
+  definition:
+  - a bheith ag aireachtáil staideanna mothachtálacha agus mothúchánacha
+  hypernym:
+  - 00024900-n
+  ili: i35579
+  members:
+  - mothúchán
+  partOfSpeech: n
+00027365-n:
+  definition:
+  - pointe nó achar i spás
+  hypernym:
+  - 00002684-n
+  ili: i35580
+  members:
+  - suíomh
+  partOfSpeech: n
+00028468-n:
+  definition:
+  - contanam ina mbraitear imeachtaí ag aistriú ón todhchaí go dtí an aimsir láithreach
+    agus ansin go tráth atá thart
+  hypernym:
+  - 00001740-n
+  ili: i35582
+  members:
+  - am
+  partOfSpeech: n
+00028950-n:
+  definition:
+  - an fhairsinge neamhtheoranta ina bhfuil gach ní; an réigiún spéire éigríochta
+    atá i bhfad amach ó atmaisféar an domhain
+  hypernym:
+  - 00001740-n
+  ili: i35583
+  members:
+  - spás
+  partOfSpeech: n
+00029677-n:
+  definition:
+  - teagmhas éigin a tharlaíonn ag áit agus ag am áirithe
+  hypernym:
+  - 00001740-n
+  ili: i35586
+  members:
+  - cás
+  - imeacht
+  - teagmhas
+  partOfSpeech: n
+00030657-n:
+  definition:
+  - gníomh a dhéanann duine nó a chuireann duine faoi deara go ndéanfar é; gníomhaíocht
+    dhaonna
+  hypernym:
+  - 00029677-n
+  ili: i35588
+  members:
+  - gníomh
+  partOfSpeech: n
+00031563-n:
+  definition:
+  - aon líon d'aonáin (baill) a ghlactar mar aonad
+  hypernym:
+  - 00001740-n
+  ili: i35589
+  members:
+  - grúpa
+  partOfSpeech: n
+00032220-n:
+  definition:
+  - ceangal nó coibhneas a bheith idir rud amháin agus rud eile
+  hypernym:
+  - 00001740-n
+  ili: i35590
+  members:
+  - coibhneas
+  partOfSpeech: n
+00033319-n:
+  definition:
+  - ní éigin a chuirtear in iúl ó nó chuig daoine nó grúpaí, nó eatarthu
+  hypernym:
+  - 00001740-n
+  ili: i35593
+  members:
+  - teachtaireacht
+  partOfSpeech: n
+00033914-n:
+  definition:
+  - an méid atá ann, nó an oiread nithe atá ann, ar féidir leat a thomhas
+  hypernym:
+  - 00001740-n
+  ili: i35594
+  members:
+  - cainníocht
+  - líon
+  - méid
+  partOfSpeech: n
+00034512-n:
+  definition:
+  - aon staid nó próiseas a bhfuil eolas air trí na céadfaí seachas trí imfhios no
+    trí réasúnaíocht
+  hypernym:
+  - 00001740-n
+  ili: i35595
+  members:
+  - feiniméan
+  partOfSpeech: n

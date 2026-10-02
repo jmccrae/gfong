@@ -1,0 +1,774 @@
+13602270-n:
+  definition:
+  - confidence: 0.0
+    text: (elections) more than half of the votes
+  hypernym:
+  - 00033914-n
+  ili: i108074
+  members:
+  - tromlach
+  partOfSpeech: n
+13603216-n:
+  definition:
+  - confidence: 0.0
+    text: a concept of quantity involving zero and units
+  hypernym:
+  - 00033914-n
+  ili: i108079
+  members:
+  - uimhir
+  partOfSpeech: n
+13604927-n:
+  definition:
+  - confidence: 0.0
+    text: any division of quantity accepted as a standard of measurement or exchange
+  hypernym:
+  - 00033914-n
+  ili: i108085
+  members:
+  - aonad
+  partOfSpeech: n
+13607325-n:
+  definition:
+  - confidence: 0.0
+    text: a constant number that serves as a measure of some property or characteristic
+  hypernym:
+  - 13603216-n
+  ili: i108094
+  members:
+  - comhéifeacht
+  partOfSpeech: n
+13612964-n:
+  definition:
+  - confidence: 0.0
+    text: the total number counted
+  hypernym:
+  - 13603216-n
+  ili: i108120
+  members:
+  - comhaireamh
+  - cuntas
+  partOfSpeech: n
+13614422-n:
+  definition:
+  - confidence: 0.0
+    text: any of the numbers (or symbols) that form a product when multiplied together
+  hypernym:
+  - 13603216-n
+  ili: i108129
+  members:
+  - fachtóir
+  partOfSpeech: n
+13620591-n:
+  definition:
+  - confidence: 0.0
+    text: a prescribed number
+  hypernym:
+  - 13603216-n
+  ili: i108165
+  members:
+  - cuóta
+  partOfSpeech: n
+13631405-n:
+  definition:
+  - confidence: 0.0
+    text: the unit of counting in scoring a game or contest
+  hypernym:
+  - 13604927-n
+  ili: i108201
+  members:
+  - pointe
+  partOfSpeech: n
+13632450-n:
+  definition:
+  - confidence: 0.0
+    text: a measure for arcs and angles
+  hypernym:
+  - 13604927-n
+  ili: i108208
+  members:
+  - céim
+  partOfSpeech: n
+13635266-n:
+  definition:
+  - confidence: 0.0
+    text: (abbreviated 'ha') a unit of surface area equal to 100 ares (or 10,000 square
+      meters)
+  hypernym:
+  - 13604927-n
+  ili: i108228
+  members:
+  - heicteár
+  partOfSpeech: n
+13645547-n:
+  definition:
+  - confidence: 0.0
+    text: a metric unit of capacity, formerly defined as the volume of one kilogram
+      of pure water under standard conditions; now equal to 1,000 cubic centimeters
+      (or approximately 1.75 pints)
+  hypernym:
+  - 13604927-n
+  ili: i108290
+  members:
+  - lítear
+  partOfSpeech: n
+13646268-n:
+  definition:
+  - confidence: 0.0
+    text: a metric unit of volume or capacity equal to 1000 liters
+  hypernym:
+  - 13604927-n
+  ili: i108293
+  members:
+  - cililítear
+  partOfSpeech: n
+13647935-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) a sector or group of sectors that function as the smallest
+      data unit permitted
+  hypernym:
+  - 13604927-n
+  ili: i108300
+  members:
+  - bloc
+  partOfSpeech: n
+13665249-n:
+  definition:
+  - confidence: 0.0
+    text: a unit of potential equal to a thousand volts
+  hypernym:
+  - 13604927-n
+  ili: i108402
+  members:
+  - kV
+  partOfSpeech: n
+13666001-n:
+  definition:
+  - confidence: 0.0
+    text: a unit of power equal to 1 joule per second; the power dissipated by a current
+      of 1 ampere flowing across a resistance of 1 ohm
+  hypernym:
+  - 13604927-n
+  ili: i108407
+  members:
+  - vata
+  partOfSpeech: n
+13666240-n:
+  definition:
+  - confidence: 0.0
+    text: a unit of power equal to 1000 watts
+  hypernym:
+  - 13604927-n
+  ili: i108408
+  members:
+  - cileavata
+  partOfSpeech: n
+13671409-n:
+  definition:
+  - confidence: 0.0
+    text: a unit of length equal to one twelfth of a foot
+  hypernym:
+  - 13604927-n
+  ili: i108437
+  members:
+  - orlach
+  partOfSpeech: n
+13671663-n:
+  definition:
+  - confidence: 0.0
+    text: a linear unit of length equal to 12 inches or a third of a yard
+  hypernym:
+  - 13604927-n
+  ili: i108438
+  members:
+  - troigh
+  partOfSpeech: n
+13672690-n:
+  definition:
+  - confidence: 0.0
+    text: a unit of length equal to 220 yards
+  hypernym:
+  - 13604927-n
+  ili: i108443
+  members:
+  - staid
+  partOfSpeech: n
+13678138-n:
+  definition:
+  - confidence: 0.0
+    text: the distance that light travels in a vacuum in 1 year; 5.88 trillion miles
+      or 9.46 trillion kilometers
+  hypernym:
+  - 13604927-n
+  ili: i108480
+  members:
+  - solasbhliain
+  partOfSpeech: n
+13680266-n:
+  definition:
+  - confidence: 0.0
+    text: a metric unit of length equal to one millionth of a meter
+  hypernym:
+  - 13604927-n
+  ili: i108490
+  members:
+  - miocrón
+  partOfSpeech: n
+13680427-n:
+  definition:
+  - confidence: 0.0
+    text: a metric unit of length equal to one thousandth of a meter
+  hypernym:
+  - 13604927-n
+  ili: i108491
+  members:
+  - milliméadar
+  partOfSpeech: n
+13680636-n:
+  definition:
+  - confidence: 0.0
+    text: a metric unit of length equal to one hundredth of a meter
+  hypernym:
+  - 13604927-n
+  ili: i108492
+  members:
+  - ceintiméadar
+  partOfSpeech: n
+13680844-n:
+  definition:
+  - confidence: 0.0
+    text: a metric unit of length equal to one tenth of a meter
+  hypernym:
+  - 13604927-n
+  ili: i108493
+  members:
+  - deiciméadar
+  partOfSpeech: n
+13681046-n:
+  definition:
+  - confidence: 0.0
+    text: the basic unit of length adopted under the Systeme International d'Unites
+      (approximately 1.094 yards)
+  hypernym:
+  - 13604927-n
+  ili: i108494
+  members:
+  - méadar
+  partOfSpeech: n
+13681796-n:
+  definition:
+  - confidence: 0.0
+    text: a metric unit of length equal to 1000 meters (or 0.621371 miles)
+  hypernym:
+  - 13604927-n
+  ili: i108497
+  members:
+  - ciliméadar
+  partOfSpeech: n
+13682449-n:
+  definition:
+  - confidence: 0.0
+    text: a unit of length used in navigation; exactly 1,852 meters; historically
+      based on the distance spanned by one minute of arc in latitude
+  hypernym:
+  - 13604927-n
+  ili: i108501
+  members:
+  - muirmhíle
+  partOfSpeech: n
+13683378-n:
+  definition:
+  - confidence: 0.0
+    text: the basic monetary unit in many countries; equal to 100 cents
+  hypernym:
+  - 13604927-n
+  ili: i108506
+  members:
+  - dollar
+  partOfSpeech: n
+13683925-n:
+  definition:
+  - confidence: 0.0
+    text: the basic monetary unit of most members of the European Union (introduced
+      in 1999); in 2002 twelve European nations (Germany, France, Belgium, Luxembourg,
+      the Netherlands, Italy, Spain, Portugal, Ireland, Greece, Austria, Finland)
+      adopted the euro as their basic unit of money and abandoned their traditional
+      currencies
+  hypernym:
+  - 13604927-n
+  ili: i108507
+  members:
+  - euro
+  partOfSpeech: n
+13697323-n:
+  definition:
+  - confidence: 0.0
+    text: formerly the basic unit of money in Greece
+  hypernym:
+  - 13604927-n
+  ili: i108597
+  members:
+  - drachma
+  partOfSpeech: n
+13731805-n:
+  definition:
+  - confidence: 0.0
+    text: the basic unit of money in Japan; equal to 100 sen
+  hypernym:
+  - 13604927-n
+  ili: i108884
+  members:
+  - yen
+  partOfSpeech: n
+13733165-n:
+  definition:
+  - confidence: 0.0
+    text: 'a unit of pressure: the pressure that will support a column of mercury
+      760 mm high at sea level and 0 degrees centigrade'
+  hypernym:
+  - 13604927-n
+  ili: i108896
+  members:
+  - atmaisféar
+  partOfSpeech: n
+13733960-n:
+  definition:
+  - confidence: 0.0
+    text: (meteorology) a unit of pressure equal to a million dynes per square centimeter
+  hypernym:
+  - 13604927-n
+  ili: i108901
+  members:
+  - bar
+  partOfSpeech: n
+13735738-n:
+  definition:
+  - confidence: 0.0
+    text: a logarithmic unit of sound intensity; 10 times the logarithm of the ratio
+      of the sound intensity to some reference intensity
+  hypernym:
+  - 13604927-n
+  ili: i108913
+  members:
+  - deicibeil
+  partOfSpeech: n
+13736289-n:
+  definition:
+  - confidence: 0.0
+    text: a unit of temperature on a specified scale
+  hypernym:
+  - 13604927-n
+  ili: i108917
+  members:
+  - céim
+  partOfSpeech: n
+13742201-n:
+  definition:
+  - confidence: 0.0
+    text: 16 ounces avoirdupois
+  hypernym:
+  - 13604927-n
+  ili: i108953
+  members:
+  - punt
+  partOfSpeech: n
+13744445-n:
+  definition:
+  - confidence: 0.0
+    text: a unit of apothecary weight equal to an eighth of an ounce or to 60 grains
+  hypernym:
+  - 13604927-n
+  ili: i108968
+  members:
+  - drachma
+  partOfSpeech: n
+13745171-n:
+  definition:
+  - confidence: 0.0
+    text: one thousandth (1/1,000) gram
+  hypernym:
+  - 13604927-n
+  ili: i108972
+  members:
+  - milleagram
+  partOfSpeech: n
+13745822-n:
+  definition:
+  - confidence: 0.0
+    text: a metric unit of weight equal to one thousandth of a kilogram
+  hypernym:
+  - 13604927-n
+  ili: i108977
+  members:
+  - gram
+  partOfSpeech: n
+13746692-n:
+  definition:
+  - confidence: 0.0
+    text: one thousand grams; the basic unit of mass adopted under the Systeme International
+      d'Unites
+  hypernym:
+  - 13604927-n
+  ili: i108982
+  members:
+  - cileagram
+  partOfSpeech: n
+13747698-n:
+  definition:
+  - confidence: 0.0
+    text: a unit of weight equivalent to 1000 kilograms
+  hypernym:
+  - 13604927-n
+  ili: i108988
+  members:
+  - tona
+  partOfSpeech: n
+13748012-n:
+  definition:
+  - confidence: 0.0
+    text: a unit of energy equal to the work done by an electron accelerated through
+      a potential difference of 1 volt
+  hypernym:
+  - 13604927-n
+  ili: i108990
+  members:
+  - leictreonvolta
+  partOfSpeech: n
+13750609-n:
+  definition:
+  - confidence: 0.0
+    text: any of the natural numbers (positive or negative) or zero
+  hypernym:
+  - 13603216-n
+  ili: i109004
+  members:
+  - slánuimhir
+  partOfSpeech: n
+13754218-n:
+  definition:
+  - confidence: 0.0
+    text: the quotient of two rational numbers
+  hypernym:
+  - 13603216-n
+  ili: i109027
+  members:
+  - codán
+  partOfSpeech: n
+13755011-n:
+  definition:
+  - confidence: 0.0
+    text: the dividend of a fraction
+  hypernym:
+  - 13603216-n
+  ili: i109029
+  members:
+  - uimhreoir
+  partOfSpeech: n
+13755206-n:
+  definition:
+  - confidence: 0.0
+    text: the divisor of a fraction
+  hypernym:
+  - 13603216-n
+  ili: i109031
+  members:
+  - ainmneoir
+  partOfSpeech: n
+13755958-n:
+  definition:
+  - confidence: 0.0
+    text: the number by which a multiplicand is multiplied
+  hypernym:
+  - 13603216-n
+  ili: i109036
+  members:
+  - iolraitheoir
+  partOfSpeech: n
+13758939-n:
+  definition:
+  - confidence: 0.0
+    text: one of two equal parts of a divisible whole
+  hypernym:
+  - 13754218-n
+  ili: i109054
+  members:
+  - leath
+  partOfSpeech: n
+13759330-n:
+  definition:
+  - confidence: 0.0
+    text: one of three equal parts of a divisible whole
+  hypernym:
+  - 13754218-n
+  ili: i109057
+  members:
+  - trian
+  partOfSpeech: n
+13759620-n:
+  definition:
+  - confidence: 0.0
+    text: one of four equal parts
+  hypernym:
+  - 13754218-n
+  ili: i109059
+  members:
+  - ceathrú
+  partOfSpeech: n
+13759970-n:
+  definition:
+  - confidence: 0.0
+    text: one part in five equal parts
+  hypernym:
+  - 13754218-n
+  ili: i109061
+  members:
+  - cúigiú
+  partOfSpeech: n
+13760092-n:
+  definition:
+  - confidence: 0.0
+    text: one part in six equal parts
+  hypernym:
+  - 13754218-n
+  ili: i109062
+  members:
+  - séú
+  partOfSpeech: n
+13760375-n:
+  definition:
+  - confidence: 0.0
+    text: one part in nine equal parts
+  hypernym:
+  - 13754218-n
+  ili: i109065
+  members:
+  - naoú
+  partOfSpeech: n
+13760467-n:
+  definition:
+  - confidence: 0.0
+    text: a tenth part; one part in ten equal parts
+  hypernym:
+  - 13754218-n
+  ili: i109066
+  members:
+  - deichiú
+  partOfSpeech: n
+13763162-n:
+  definition:
+  - confidence: 0.0
+    text: one of the elements that collectively form a system of numeration
+  hypernym:
+  - 13750609-n
+  ili: i109085
+  members:
+  - digit
+  - figiúr
+  partOfSpeech: n
+13765745-n:
+  definition:
+  - confidence: 0.0
+    text: two items of the same kind
+  hypernym:
+  - 13763162-n
+  ili: i109099
+  members:
+  - péire
+  partOfSpeech: n
+13767226-n:
+  definition:
+  - confidence: 0.0
+    text: the cardinal number that is the sum of seven and one
+  hypernym:
+  - 13763162-n
+  ili: i109106
+  members:
+  - ocht
+  partOfSpeech: n
+13772555-n:
+  definition:
+  - confidence: 0.0
+    text: ten 10s
+  hypernym:
+  - 13750609-n
+  ili: i109140
+  members:
+  - céad
+  partOfSpeech: n
+13772984-n:
+  definition:
+  - confidence: 0.0
+    text: the cardinal number that is the product of 10 and 100
+  hypernym:
+  - 13750609-n
+  ili: i109144
+  members:
+  - míle
+  partOfSpeech: n
+13773673-n:
+  definition:
+  - confidence: 0.0
+    text: the number that is represented as a one followed by 6 zeros
+  hypernym:
+  - 13750609-n
+  ili: i109149
+  members:
+  - milliún
+  partOfSpeech: n
+13774312-n:
+  definition:
+  - confidence: 0.0
+    text: the number that is represented as a one followed by 12 zeros; in the United
+      Kingdom the usage followed in the United States is frequently seen
+  hypernym:
+  - 13750609-n
+  ili: i109153
+  members:
+  - billiún
+  partOfSpeech: n
+13776433-n:
+  definition:
+  - confidence: 0.0
+    text: a quantity that is added
+  hypernym:
+  - 00033914-n
+  ili: i109165
+  members:
+  - breis
+  - gnóthachan
+  - méadú
+  partOfSpeech: n
+13777962-n:
+  definition:
+  - confidence: 0.0
+    text: the quantity that was caught
+  hypernym:
+  - 00033914-n
+  ili: i109172
+  members:
+  - gabháil
+  partOfSpeech: n
+13779389-n:
+  definition:
+  - confidence: 0.0
+    text: the distance covered by a step
+  hypernym:
+  - 00033914-n
+  ili: i109175
+  members:
+  - céim
+  partOfSpeech: n
+13783311-n:
+  definition:
+  - confidence: 0.0
+    text: a small quantity of something moist or liquid
+  hypernym:
+  - 00033914-n
+  ili: i109191
+  members:
+  - daba
+  partOfSpeech: n
+13783547-n:
+  definition:
+  - confidence: 0.0
+    text: a small piece or quantity of something
+  hypernym:
+  - 00033914-n
+  ili: i109192
+  members:
+  - beagán
+  partOfSpeech: n
+13784857-n:
+  definition:
+  - confidence: 0.0
+    text: a small amount or duration
+  hypernym:
+  - 00033914-n
+  ili: i109200
+  members:
+  - beagán
+  partOfSpeech: n
+13785524-n:
+  definition:
+  - confidence: 0.0
+    text: the smallest possible quantity
+  hypernym:
+  - 00033914-n
+  ili: i109204
+  members:
+  - íosmhéid
+  partOfSpeech: n
+13793430-n:
+  definition:
+  - confidence: 0.0
+    text: a small indefinite number
+  hypernym:
+  - 00033914-n
+  ili: i109274
+  members:
+  - cúpla
+  partOfSpeech: n
+13794246-n:
+  definition:
+  - confidence: 0.0
+    text: the quantity of an active agent (substance or radiation) taken in or absorbed
+      at any one time
+  hypernym:
+  - 00033914-n
+  ili: i109279
+  members:
+  - dáileog
+  partOfSpeech: n
+13796604-n:
+  definition:
+  - confidence: 0.0
+    text: (often followed by 'of') a large number or amount or extent
+  hypernym:
+  - 00033914-n
+  ili: i109294
+  members:
+  - baisc
+  - lán
+  partOfSpeech: n
+13798337-n:
+  definition:
+  - confidence: 0.0
+    text: the largest possible quantity
+  hypernym:
+  - 00033914-n
+  ili: i109301
+  members:
+  - uasmhéid
+  partOfSpeech: n
+13799976-n:
+  definition:
+  - confidence: 0.0
+    text: space for movement
+  hypernym:
+  - 00032220-n
+  ili: i109312
+  members:
+  - spás
+  partOfSpeech: n
+13800883-n:
+  definition:
+  - confidence: 0.0
+    text: space in which vehicles can be parked
+  hypernym:
+  - 13799976-n
+  ili: i109317
+  members:
+  - páirceáil
+  partOfSpeech: n
+13801244-n:
+  definition:
+  - confidence: 0.0
+    text: the amount of 3-dimensional space occupied by an object
+  hypernym:
+  - 00033914-n
+  ili: i109320
+  members:
+  - méid
+  - toirt
+  partOfSpeech: n

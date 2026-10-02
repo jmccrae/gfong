@@ -1,0 +1,1707 @@
+00002669-r:
+  definition:
+  - ar feadh ama an-ghearr roimh
+  example:
+  - is ar éigean a bhí aithne againn orthu
+  ili: i18163
+  members:
+  - gann
+  - tearc
+  - ar éigean
+  - ach
+  partOfSpeech: r
+00003864-r:
+  definition:
+  - dáiríre, ag bun nó ag duine (nó a) nádúr féin
+  example:
+  - Tá sé mímhacánta go bunúsach
+  ili: i18168
+  members:
+  - go bunúsach
+  - dáiríre
+  partOfSpeech: r
+00005103-r:
+  definition:
+  - agus ní rud ar bith eile
+  example:
+  - Ní raibh mé ach ag cur ceist faoi
+  ili: i18177
+  members:
+  - go simplí
+  - ach
+  - aonair
+  - amháin
+  partOfSpeech: r
+00006486-r:
+  definition:
+  - ar an mórgóir go príomha
+  example:
+  - Tá na cuntais seo neamhghníomhach den chuid is mó
+  ili: i18187
+  members:
+  - don chuid is mó
+  - den chuid is mó
+  partOfSpeech: r
+00007414-r:
+  definition:
+  - (de chainníochtaí) neamhbheacht ach sách ceart
+  example:
+  - mhair an searmanas thart ar uair amháin
+  ili: i18193
+  members:
+  - thart ar
+  - timpeall
+  - tuairim is
+  - a bheag nó a mhór
+  - go garbh
+  - a bheagán nó a mhórán
+  - gar do
+  - nó mar sin
+  - beagnach
+  partOfSpeech: r
+00008102-r:
+  definition:
+  - go pointe áirithe, go pointe áirithe, ní go hiomlán
+  example:
+  - Bhraith mé go páirt-milleán
+  ili: i18195
+  members:
+  - i bpáirt
+  - cuid
+  - páirt-
+  - go pointe áirithe
+  partOfSpeech: r
+00008423-r:
+  definition:
+  - go staid iomlán nó go pointe iomlán; go hiomlán
+  example:
+  - bhí sé go hiomlán siúráilte de
+  ili: i19554
+  members:
+  - go huile agus go hiomlán
+  - go hiomlán
+  - ar fad
+  - amach is amach
+  partOfSpeech: r
+00009062-r:
+  definition:
+  - gan ghníomhaí ar bith a bheith páirteach nó san áireamh
+  example:
+  - uirthise a raibh an milleán ar fad
+  ili: i18198
+  members:
+  - an t-aon
+  - aonair
+  - amháin
+  - go hiomlán
+  - ar fad
+  partOfSpeech: r
+00009459-r:
+  definition:
+  - go hiomlán agus gan cháilíocht; úsáidtear go neamhfhoirmiúil mar mhíreanna threise
+  example:
+  - péintéireacht iontach ar fad
+  ili: i18199
+  members:
+  - díreach
+  - ar fad
+  - go hiomlán
+  partOfSpeech: r
+00010928-r:
+  definition:
+  - a mhéid; go hiomlán, ar fad nó go huile is go hiomlán; (úsáidtear 'lán' sa chiall
+    seo mar fhoirm chomhcheangail)
+  example:
+  - lánfhásta
+  ili: i18207
+  members:
+  - go hiomlán
+  - iomlán
+  partOfSpeech: r
+00011555-r:
+  definition:
+  - (úsáidte go minic mar fhoirm comhcheangail) ar bhealach maith nó cuí nó sásúil
+    nó go hardchaighdeán
+  example:
+  - bhí dea-iompar ar na páistí
+  ili: i18211
+  members:
+  - maith
+  - dea-
+  partOfSpeech: r
+00013241-r:
+  definition:
+  - 'go críochnúil nó go hiomlán; go hiomlán: á úsáidtear go minic mar fhoirm chomhcheangail'
+  example:
+  - Tuigtear go maith an fhadhb
+  ili: i18218
+  members:
+  - go maith
+  partOfSpeech: r
+00014747-r:
+  definition:
+  - a bheag nó a mhór
+  example:
+  - Tá eagla orm go raibh an scannán i bhfad os cionn an bhuiséad
+  ili: i18225
+  members:
+  - go mór
+  - go maith
+  partOfSpeech: r
+00017907-r:
+  definition:
+  - úsáidtear mar threiseach, go háirithe chun rud nach bhfuiltear ag súil leis a
+    chur in iúl
+  example:
+  - ní fhéadfainn fiú smaoineamh air!
+  ili: i18242
+  members:
+  - fiú
+  partOfSpeech: r
+00018101-r:
+  definition:
+  - a bheagán, úsáidtear le comparáidí
+  example:
+  - d'fhéach tinn agus bhraith níos measa fós
+  ili: i18243
+  members:
+  - fós
+  - fiú
+  partOfSpeech: r
+00018764-r:
+  definition:
+  - go pointe ar leith (mór nó beag)
+  example:
+  - bhí sé mós fuar
+  ili: i18248
+  members:
+  - cineál
+  - sách
+  - mós
+  partOfSpeech: r
+00019039-r:
+  definition:
+  - a mhéid, go hiomlán, ar fad
+  example:
+  - tá an ceart ar fad agat
+  ili: i18249
+  members:
+  - sách
+  partOfSpeech: r
+00019243-r:
+  definition:
+  - go pointe (ní úsáidtear sa diúltach)
+  example:
+  - cineál blasta
+  ili: i18250
+  members:
+  - cineál
+  partOfSpeech: r
+00019801-r:
+  definition:
+  - i gcónaí; an t-am ar fad agus ag gach ócáid
+  example:
+  - Beidh mé i gcónaí ar fáil duit
+  ili: i18253
+  members:
+  - riamh
+  - in am ar bith
+  - i gcónaí
+  - i dtólamh
+  - an t-am ar fad
+  partOfSpeech: r
+00021214-r:
+  definition:
+  - ar chor ar bith, ní ar aon chúis, ní ag aon phointe san am atá thart nó an todhchaí
+  example:
+  - Ní raibh mé riamh sa tSín
+  ili: i18262
+  members:
+  - riamh
+  - choíche
+  partOfSpeech: r
+00021667-r:
+  definition:
+  - anois is arís agus go hannamh
+  example:
+  - bhí sé sotalach agus fuarchroíoch ó am go ham
+  ili: i18264
+  members:
+  - ó am go ham
+  - ó am go chéile
+  - anois agus arís
+  - corruair
+  - uaireanta
+  - scaití
+  partOfSpeech: r
+00022332-r:
+  definition:
+  - ar ócáidí áirithe nó i gcásanna áirithe ach ní i gcónaí
+  example:
+  - scaití, ba mhian léi a bheith ar ais i Sasana
+  ili: i18266
+  members:
+  - uaireanta
+  - in amanna
+  - scaití
+  partOfSpeech: r
+00022585-r:
+  definition:
+  - go dtí an chéim chéanna (go minic ina dhiadh 'mar')
+  example:
+  - bhí siad chomh hálainn céanna
+  ili: i18267
+  members:
+  - mar
+  - go gcothrom
+  - gach giotán
+  - chomh
+  partOfSpeech: r
+00022855-r:
+  definition:
+  - confidence: 0.0
+    text: of the distant or comparatively distant past
+  ili: i18268
+  members:
+  - fadó
+  partOfSpeech: r
+00024432-r:
+  definition:
+  - leagan diúltach d'fhocal nó grúpa focal
+  example:
+  - níl Fraincis aige
+  ili: i18280
+  members:
+  - ní
+  - neamh
+  partOfSpeech: r
+00025968-r:
+  definition:
+  - i nó ag nó go dtí áit éigin
+  example:
+  - caithfidh sí a bheith áit éigin
+  ili: i18290
+  members:
+  - áit éigin
+  partOfSpeech: r
+00026948-r:
+  definition:
+  - úsáidtear chun a chur in iúl go dtugann ráiteas míniú nó tacaíocht do ráiteas
+    roimhe seo
+  example:
+  - Ar aon nós, tá sé marbh anois
+  ili: i18295
+  members:
+  - in aon chás
+  - ar aon nós
+  - ar aon ráta
+  partOfSpeech: r
+00027761-r:
+  definition:
+  - d'ainneoin a mhalairt (de ghnáth téitear roimh admháil)
+  example:
+  - tá eagla orm, ach é sin ráite, ba mhaith liom triail a bhaint as
+  ili: i18298
+  members:
+  - fós
+  - fós féin
+  - é sin ráite
+  - mar sin féin
+  - áfach ámh
+  - ina dhiaidh sin féin
+  - ina ainneoin sin
+  - d'ainneoin
+  - ar a shon sin is uile
+  - áfach
+  partOfSpeech: r
+00028314-r:
+  definition:
+  - úsáidtear i ráiteas diúltach chun cur síos a dhéanamh ar chás a bhí ann go dtí
+    an pointe seo nó go dtí an lá atá inniu ann
+  example:
+  - Go dtí seo, níor ghlaoigh sé
+  ili: i18300
+  members:
+  - go fóill
+  - go dtí seo
+  partOfSpeech: r
+00029763-r:
+  definition:
+  - ag cur eolas breise in iúl
+  example:
+  - Tá cluichí fichille ríomhaireachta ag éirí níos saoire an t-am ar fad; ar a bharr
+    sin, tá feabhas mór tagtha ar cháilíocht na gcluichí
+  ili: i18309
+  members:
+  - chomh maith leis sin
+  - freisin
+  - fosta
+  - ina theannta sin
+  - lena chois sin
+  - ar a bharr sin
+  partOfSpeech: r
+00030381-r:
+  definition:
+  - go dtí nó ag céim níos airde nó ag céim níos forbartha (úsáidtear 'níos faide'
+    níos minice ná 'tuilleadh' sa chiall teibí seo)
+  example:
+  - níos casta fós ag neamhchinnteacht faoin todhchaí
+  ili: i18311
+  members:
+  - níos faide
+  - tuilleadh
+  partOfSpeech: r
+00031700-r:
+  definition:
+  - ag déanamh tagairt do ghníomh nó coinníoll; gan athrú, cur isteach nó stad
+  example:
+  - tá sé fós te lasmuigh
+  ili: i18316
+  members:
+  - fós
+  - go fóill
+  partOfSpeech: r
+00031911-r:
+  definition:
+  - ní anois
+  example:
+  - ní ann don chailín sin níos mó
+  ili: i18317
+  members:
+  - ní níos mó
+  - ní
+  partOfSpeech: r
+00032194-r:
+  definition:
+  - roimh am sonraithe nó intuigthe
+  example:
+  - Bhain sí a céim amach cheana féin
+  ili: i18319
+  members:
+  - cheana féin
+  - cheana
+  partOfSpeech: r
+00032295-r:
+  definition:
+  - úsáidte chun béim a chur in iúl
+  example:
+  - tá sí an-chumasach
+  ili: i18320
+  members:
+  - an-
+  - rí-
+  - go hiomlán
+  - fíor-
+  - sár-
+  - iontach
+  - go mór
+  partOfSpeech: r
+00033250-r:
+  definition:
+  - confidence: 0.0
+    text: from this time forth; from now on
+  ili: i18326
+  members:
+  - feasta
+  partOfSpeech: r
+00033695-r:
+  definition:
+  - ní rabhthas ach bomaite ó shin
+  example:
+  - tá sé tagtha díreach anois
+  ili: i18330
+  members:
+  - díreach
+  - díreach anois
+  partOfSpeech: r
+00034050-r:
+  definition:
+  - go pointe teoranta; cineál
+  example:
+  - tá sé saghas te
+  ili: i18333
+  members:
+  - beagán
+  - beagáinín
+  - sórt
+  - cineál
+  - saghas
+  - ábhairín
+  - giota beag
+  partOfSpeech: r
+00034309-r:
+  definition:
+  - ar ball beag
+  example:
+  - beidh an dochtúir anseo gan mhoill
+  ili: i18335
+  members:
+  - gan mhoill
+  - go gairid
+  - ar ball beag
+  - go luath
+  - ar ball
+  - sula i bhfad
+  - roimh i bhfad
+  - tar éis tamaill
+  partOfSpeech: r
+00035445-r:
+  definition:
+  - go leor uaireanta agus go rialta
+  example:
+  - ba mhinic a bhuaileamar le chéile fá choinne cupáin chaife
+  ili: i18345
+  members:
+  - go minic
+  - go mion agus go minic
+  partOfSpeech: r
+00035772-r:
+  definition:
+  - ní minic
+  example:
+  - is annamh a bhuaileamar le chéile
+  ili: i18348
+  members:
+  - go hannamh
+  - go fánach
+  partOfSpeech: r
+00036138-r:
+  definition:
+  - go pointe nó méid áirithe
+  example:
+  - sách mór
+  ili: i18350
+  members:
+  - rud beag
+  - beagáinín
+  - ábhairín
+  - réasúnta
+  - measartha
+  - sách
+  - cuibheasach
+  partOfSpeech: r
+00036695-r:
+  definition:
+  - go staid nó pointe teoranta
+  example:
+  - bhí a chuid argóintí ábhairín féin-frithráiteach
+  ili: i18352
+  members:
+  - beagán
+  - beagáinín
+  - rud beag
+  - de bheagán
+  - ábhairín
+  - a bheag nó a mhór
+  - nach mór
+  partOfSpeech: r
+00037620-r:
+  definition:
+  - i gcomhréir le fírinne nó fíric nó an saol mar atá
+  example:
+  - is fíor-Mheiriceánach í anois
+  ili: i18357
+  members:
+  - dáiríre
+  - fíor-
+  - an-
+  partOfSpeech: r
+00038035-r:
+  definition:
+  - go fíorúil (úsáidte go minic chun críche géaraithe)
+  example:
+  - dúirt siad go gclisfidh an carr agus go deimhin chlis sé
+  ili: i18359
+  members:
+  - go deimhin
+  - gan dabht
+  - gan amhras
+  - mar sin
+  partOfSpeech: r
+00039019-r:
+  definition:
+  - mar a bhfuiltear ag súil le
+  example:
+  - dar ndóigh, sheol an dlíodóir bille ollmhór dúinn
+  ili: i18366
+  members:
+  - cinnte
+  - ar ndóigh
+  - dar ndóigh
+  partOfSpeech: r
+00039452-r:
+  definition:
+  - gan dabht ná ceist
+  example:
+  - is léir gur cailleadh iad
+  ili: i18368
+  members:
+  - is léir
+  partOfSpeech: r
+00039730-r:
+  definition:
+  - gan aon amhras
+  example:
+  - tá sé iontach soiléir go bhfuil an freagra mícheart
+  ili: i18370
+  members:
+  - ar ndóigh
+  - amach is amach
+  - go soiléir
+  - go follasach
+  - de réir dealraimh
+  - de réir cosúlachta
+  partOfSpeech: r
+00040353-r:
+  definition:
+  - ag breathnú ar chumaí amháin
+  example:
+  - de réir dealraimh, is minic a thagann barr flúirseach ar thalamh fásaigh de bharr
+    uisiúcháin
+  ili: i18371
+  members:
+  - de réir dealraimh
+  - de réir cosúlachta
+  - mar dhea
+  - is cosúil
+  partOfSpeech: r
+00040777-r:
+  definition:
+  - as an nua
+  example:
+  - bhain sí triail as arís
+  ili: i18372
+  members:
+  - uair amháin eile
+  - arís
+  - arís ar ais
+  - arís eile
+  - athuair
+  partOfSpeech: r
+00042364-r:
+  definition:
+  - gan idirdhealú a dhéanamh idir ceann amháin agus daoine eile
+  example:
+  - tá suim aige i nathracha go ginearálta
+  ili: i18384
+  members:
+  - de ghnáth
+  - go ginearálta
+  - den chuid is mó
+  partOfSpeech: r
+00043413-r:
+  definition:
+  - (úsáidte chun conclúid loighciúil a chur i láthair) mar gheall ar fhíric nó cúis
+    nó toradh
+  example:
+  - dá bhrí sin, caithfidh go bhfuil X fíor
+  ili: i18390
+  members:
+  - mar sin
+  - dá réir sin
+  - dá bharr sin
+  - dá bhrí sin
+  - ar an gcaoi sin
+  - mar sin de
+  partOfSpeech: r
+00046442-r:
+  definition:
+  - ar slite nó ar bhealaí eile
+  example:
+  - tá sé gnách ar shlí eile
+  ili: i18408
+  members:
+  - seachas sin
+  partOfSpeech: r
+00047930-r:
+  definition:
+  - gabh thar teorainneacha normálta nó cuí
+  example:
+  - ró-mhór
+  ili: i18417
+  members:
+  - ró-
+  - go hiomarcach
+  - go hainmheasartha
+  - go neamh-mheasartha
+  - as cuimse
+  partOfSpeech: r
+00048072-r:
+  definition:
+  - le cois
+  example:
+  - tá Mercedes aige chomh maith
+  ili: i18418
+  members:
+  - chomh maith
+  - freisin
+  - fosta
+  - le
+  - mar an gcéanna
+  - mar a chéile
+  partOfSpeech: r
+00048441-r:
+  definition:
+  - mar thoradh deireadh ar chomharbas nó ar phróiseas
+  example:
+  - ar deireadh thiar bhí ar tabhairt isteach
+  ili: i18420
+  members:
+  - ar deireadh
+  - faoi dheireadh
+  - ar deireadh thiar thall
+  - sa deireadh
+  partOfSpeech: r
+00048676-r:
+  definition:
+  - tar éis tréimhse ama neamhshonraithe nó moille an-fhada
+  ili: i18421
+  members:
+  - faoi dheireadh
+  - sa deireadh
+  - ar deireadh thiar
+  partOfSpeech: r
+00049013-r:
+  definition:
+  - sa saol seo
+  example:
+  - Déantar idirdhealú idir an uasaicme agus an mheánaicme mar gheall ar an gcanúint
+    atá ag an ngrúpa
+  ili: i18423
+  members:
+  - inniu
+  - anois
+  - na laethanta seo
+  - sa lá atá inniu ann
+  - faoi láthair
+  - san am i láthair
+  - i láthair na huaire
+  partOfSpeech: r
+00049277-r:
+  definition:
+  - gan mhoill nó gan leisce; gan aon idirthréimhse
+  example:
+  - d'fhreagair sé láithreach bonn
+  ili: i18424
+  members:
+  - láithreach
+  - láithreach bonn
+  - ar an toirt
+  - ar an bpointe
+  - díreach
+  - go tobann
+  - ar an bpointe boise
+  - anois
+  partOfSpeech: r
+00049640-r:
+  definition:
+  - úsáidtear chun ordú nó casaoid nó iarratas
+  example:
+  - clois é seo anois!
+  ili: i18425
+  members:
+  - anois
+  - faoi láthair
+  - i láthair na huaire
+  partOfSpeech: r
+00049758-r:
+  definition:
+  - confidence: 0.0
+    text: at the present moment
+  ili: i18426
+  members:
+  - anois
+  partOfSpeech: r
+00049971-r:
+  definition:
+  - san aimsir láithreach stairiúil; ag pointe seo na tráchtaireachta ar shraith nó
+    imeachtaí roimhe
+  example:
+  - Agus anois, gaireann an tUachtarán John F. Kennedy ar an nGarda Náisiúnta
+  ili: i18427
+  members:
+  - anois
+  - faoi láthair
+  - i láthair na huaire
+  partOfSpeech: r
+00051219-r:
+  definition:
+  - ag déanamh tagairt dá oiread atá cáilíocht ar leith i gceist
+  example:
+  - níor throime é ná páiste
+  ili: i18436
+  members:
+  - ní
+  - ní níos mó
+  partOfSpeech: r
+00052386-r:
+  definition:
+  - gan diall
+  example:
+  - téann an cosán díreach chuig an loch
+  ili: i18442
+  members:
+  - díreach
+  partOfSpeech: r
+00053542-r:
+  definition:
+  - léiriú comhaontaithe a tharlaíonn ag tús abairte de ghnáth
+  ili: i18450
+  members:
+  - ceart go leor
+  partOfSpeech: r
+00054282-r:
+  definition:
+  - beagnach
+  example:
+  - beagnach an chéad rud a chonaic mé nuair a tháinig mé den traein
+  ili: i18455
+  members:
+  - chóir a bheith
+  partOfSpeech: r
+00057267-r:
+  definition:
+  - ar aon bhealach
+  example:
+  - An bhfuil spéis agat in aon chor? Ní, ní in aon chor
+  ili: i18477
+  members:
+  - ar chor ar bith
+  - beag ná mór
+  - in aon chor
+  partOfSpeech: r
+00059624-r:
+  definition:
+  - go pointe nó méid mór
+  example:
+  - tá sí i bhfad níos fearr anois
+  ili: i18493
+  members:
+  - i bhfad
+  partOfSpeech: r
+00060145-r:
+  definition:
+  - comparáideach de 'go maith', ar bhealach níos fearr nó ar bhealach níos tairbhí
+    nó níos tarraingtí nó go pointe níos mó etc.
+  example:
+  - Níor chan sí níos fearr riamh
+  ili: i18497
+  members:
+  - níos fearr
+  partOfSpeech: r
+00060392-r:
+  definition:
+  - ag dul chun cinn i méid nó déine
+  example:
+  - d'éirigh sí ag éirí in ísle brí níos mó
+  ili: i18498
+  members:
+  - níos mó
+  - de réir a chéile
+  - níos mó agus níos mó
+  partOfSpeech: r
+00061170-r:
+  definition:
+  - tráth níos luaithe nó roimhe sin
+  example:
+  - bhí cónaí uirthi i Chicago roimhe seo
+  ili: i18503
+  members:
+  - roimhe sin
+  - réamh-
+  partOfSpeech: r
+00061477-r:
+  definition:
+  - níos luaithe ó thaobh ama de; roimhe sin
+  example:
+  - Bhí aithne agam uirthi roimhe
+  ili: i18504
+  members:
+  - roimh
+  - roimhe
+  - níos luaithe
+  partOfSpeech: r
+00061741-r:
+  definition:
+  - ag tarlú ag am i ndiaidh ama thagartha
+  example:
+  - ghabh sé a leithscéal ina dhiaidh sin
+  ili: i18505
+  members:
+  - ina dhiaidh sin
+  - tar éis
+  - tar éis sin
+  - níos déanaí
+  - ar ball
+  - níos deireanaí
+  - níos moille
+  partOfSpeech: r
+00063395-r:
+  definition:
+  - confidence: 0.0
+    text: (sentence connectors) because of the reason given
+  ili: i18516
+  members:
+  - dá réir sin
+  partOfSpeech: r
+00063710-r:
+  definition:
+  - in ionad nó mar mhalairt ar
+  example:
+  - Rinneadh Felix ina zó-eolaí ina ionad sin
+  ili: i18518
+  members:
+  - ina ionad sin
+  - é sin nó
+  - de rogha air sin
+  partOfSpeech: r
+00067181-r:
+  definition:
+  - ag nó i dtosaigh
+  example:
+  - Feicim soilse baile amach romhainn
+  ili: i18544
+  members:
+  - os comhair
+  - roimh
+  - romhainn
+  partOfSpeech: r
+00071565-r:
+  definition:
+  - sa cheantar nó sa chomharsanacht
+  example:
+  - cúpla lucht féachana ag seasamh timpeall
+  ili: i18567
+  members:
+  - timpeall
+  partOfSpeech: r
+00071856-r:
+  definition:
+  - confidence: 0.0
+    text: from beginning to end; throughout
+  ili: i18569
+  members:
+  - timpeall
+  partOfSpeech: r
+00073433-r:
+  definition:
+  - (maidir le gníomhaíochtaí nó staideanna) a bheith beagán gann nó níor baineadh
+    amach rud éigin go hiomlán
+  example:
+  - tá an tasc beagnach críochnaithe
+  ili: i18578
+  members:
+  - faoi
+  - beagnach
+  - a bheag nó a mhór
+  - geall le
+  - ionann is
+  - nach mór
+  - chóir a bheith
+  partOfSpeech: r
+00074163-r:
+  definition:
+  - don chuid is mó
+  example:
+  - tá spéis aige go príomha sna féileacáin
+  ili: i18582
+  members:
+  - go príomha
+  partOfSpeech: r
+00074361-r:
+  definition:
+  - san am atá thart
+  example:
+  - tamall fada ó shin
+  ili: i18583
+  members:
+  - ó shin
+  partOfSpeech: r
+00074467-r:
+  definition:
+  - confidence: 0.0
+    text: in or to or toward a past time
+  ili: i18584
+  members:
+  - siar
+  partOfSpeech: r
+00074673-r:
+  definition:
+  - ar chúl nó ar aghaidh nó i dtreo
+  example:
+  - bhog sé ar ais
+  ili: i18585
+  members:
+  - cúl
+  - siar
+  - ar gcúl
+  - i ndiadh
+  partOfSpeech: r
+00075427-r:
+  definition:
+  - i nó go dtí nó i dtreo suímh a luadh cheana féin
+  example:
+  - chuaigh sí ar ais go dtí teach a tuismitheoirí
+  ili: i18588
+  members:
+  - ar ais
+  partOfSpeech: r
+00079765-r:
+  definition:
+  - le linn oíche an lae inniu
+  example:
+  - buail isteach anocht
+  ili: i18618
+  members:
+  - tráthnóna
+  - anocht
+  partOfSpeech: r
+00080266-r:
+  definition:
+  - (i scríbhinn) ag áit níos luaithe
+  example:
+  - féach thuas
+  ili: i18622
+  members:
+  - os cionn
+  - taobh thuas de
+  - thuas
+  partOfSpeech: r
+00080519-r:
+  definition:
+  - confidence: 0.0
+    text: in or to a place that is higher
+  ili: i18624
+  members:
+  - thuas
+  partOfSpeech: r
+00081836-r:
+  definition:
+  - gach lá, gan cailleadh lá
+  example:
+  - buaileann sé isteach go laethúil
+  ili: i18632
+  members:
+  - laethúil
+  partOfSpeech: r
+00084573-r:
+  definition:
+  - go pointe nó méid níos mó mar atá coitianta
+  example:
+  - bhí sé thar a bheith cáiréiseach faoi litriú
+  ili: i18654
+  members:
+  - go háirithe
+  - go mór mór
+  - go speisialta
+  - thar a bheith
+  - iontach
+  partOfSpeech: r
+00086161-r:
+  definition:
+  - le luas
+  example:
+  - oibríonn sé go gasta
+  ili: i19269
+  members:
+  - gan aon mhoill
+  - caol díreach
+  - ar an toirt
+  - go tapa
+  - go gasta
+  - go sciobtha
+  - go mear
+  partOfSpeech: r
+00089896-r:
+  definition:
+  - go pointe nó méid ard; go fabhrach nó ag cur meas in iúl
+  example:
+  - thar a bheith rathúil
+  ili: i18690
+  members:
+  - thar a bheith
+  - rí-
+  - fíor-
+  - sár
+  - go hard
+  - go mór
+  partOfSpeech: r
+00095870-r:
+  definition:
+  - de réir brí spáis nó brí meafaraí, ó leibhéal nó suíomh ard go leibhéal nó suíomh
+    níos ísle
+  example:
+  - ná tit síos
+  ili: i18734
+  members:
+  - síos
+  - anuas
+  partOfSpeech: r
+00096391-r:
+  definition:
+  - confidence: 0.0
+    text: paid in cash at time of purchase
+  ili: i18736
+  members:
+  - síos
+  partOfSpeech: r
+00096883-r:
+  definition:
+  - de réir brí spáis nó brí meafaraí, ó shuíomh níos ísle go suíomh níos airde
+  example:
+  - breathnaigh suas!
+  ili: i18740
+  members:
+  - suas
+  - aníos
+  - in airde
+  partOfSpeech: r
+00098390-r:
+  definition:
+  - ag nó go dtí nó i dtreo teach duine nó clainne
+  example:
+  - Fanann sé sa bhaile gach deireadh seachtaine
+  ili: i18751
+  members:
+  - baile
+  - abhaile
+  partOfSpeech: r
+00099264-r:
+  definition:
+  - a mhalairt
+  example:
+  - in áit díomá a chur ar na páistí, rinne sé dhá chleas gasta eile sular fhág sé
+  ili: i18757
+  members:
+  - in áit
+  - in ionad
+  partOfSpeech: r
+00099891-r:
+  definition:
+  - úsáidtear chun breischéim aidiachtaí agus dobhriathra áirithe a dhéanamh, ag tabhairt
+    le fios go bhfuil luach níos mó i gceist leis an aidiacht nó leis an dobhriathar
+  example:
+  - níos spéisiúla
+  ili: i18760
+  members:
+  - a mhór
+  - a mhórán
+  - níos
+  - tuilleadh
+  partOfSpeech: r
+00100077-r:
+  definition:
+  - úsáidtear chun breischéim aidiachtaí agus dobhriathair áirithe a dhéanamh, tugtar
+    le fios go bhfuil luach níos lú i gceist leis an aidiacht nó leis an dobhriathar
+  example:
+  - a bheag nó a mhór spéisiúil
+  ili: i18761
+  members:
+  - a bheag nó a mhór
+  - níos lú
+  partOfSpeech: r
+00100262-r:
+  definition:
+  - i gcomparáid le mórán, a bheag nó a mhór
+  example:
+  - oibríonn sé níos mó anois
+  ili: i18762
+  members:
+  - níos mó
+  partOfSpeech: r
+00101601-r:
+  definition:
+  - ag nó go dtí nó achar mór sa spás
+  example:
+  - shiubhail sé i bhfad
+  ili: i18771
+  members:
+  - i bhfad
+  partOfSpeech: r
+00101873-r:
+  definition:
+  - go pointe suntasach
+  example:
+  - rud i bhfad níos fearr atá á dhéanamh agam
+  ili: i18773
+  members:
+  - i bhfad
+  partOfSpeech: r
+00103286-r:
+  definition:
+  - roimh aon rud eile
+  example:
+  - ar dtús, caithfimid smaoineamh faoin nathair ghairtéir
+  ili: i18782
+  members:
+  - ar dtús
+  - ar an gcéad dul síos
+  partOfSpeech: r
+00104262-r:
+  definition:
+  - an t-am tosaigh
+  example:
+  - nuair a chonaic Felix nathair ghairtéir den chéad uair
+  ili: i18789
+  members:
+  - céad
+  partOfSpeech: r
+00104546-r:
+  definition:
+  - confidence: 0.0
+    text: forward in time or order or degree
+  ili: i18792
+  members:
+  - amach
+  partOfSpeech: r
+00105032-r:
+  definition:
+  - ní níos lú ná
+  example:
+  - caitheadh dhá uair ar a laghad ag déanamh staidéar ar an lámhleabhar
+  ili: i18796
+  members:
+  - ar a laghad
+  partOfSpeech: r
+00105348-r:
+  definition:
+  - mura mbeadh ann ach é sin
+  example:
+  - ar aon chuma, tháinig sé slán
+  ili: i18798
+  members:
+  - ar aon nós
+  - ar aon chuma
+  - ar scor ar bith
+  - pé scéal é
+  partOfSpeech: r
+00107608-r:
+  definition:
+  - faoi ghnáth-choinníollacha
+  example:
+  - dé ghnáth, bhí sí déanach
+  ili: i18813
+  members:
+  - de ghnáth
+  - go hiondúil
+  - go neamhshuntasach
+  - go coitianta
+  - go forleathan
+  partOfSpeech: r
+00108184-r:
+  definition:
+  - san am fíordhéanaí atá thart
+  example:
+  - bhí sé i bPáras le déanaí
+  ili: i18816
+  members:
+  - de déanach
+  - le déanaí
+  - déanach
+  partOfSpeech: r
+00109247-r:
+  definition:
+  - san áit seo nó ag an áit seo; an áit ina bhfuil an cainteoir nó an scríbhneoir
+  example:
+  - Oibrím anseo
+  ili: i18823
+  members:
+  - anseo
+  partOfSpeech: r
+00109541-r:
+  definition:
+  - sa chás seo nó ar an bpointe nó sonra seo
+  example:
+  - céard atá ar siúl anseo?
+  ili: i18825
+  members:
+  - anseo
+  partOfSpeech: r
+00109681-r:
+  definition:
+  - confidence: 0.0
+    text: in this place or thing or document
+  ili: i18826
+  members:
+  - anseo
+  partOfSpeech: r
+00109919-r:
+  definition:
+  - san áit nó láthair sin nó ag an áit nó láthair sin
+  example:
+  - bhí siad ina gcónaí ansin le blianta
+  ili: i18828
+  members:
+  - ansin
+  - ann
+  partOfSpeech: r
+00111276-r:
+  definition:
+  - confidence: 0.0
+    text: within a building
+  ili: i18838
+  members:
+  - istigh
+  - laistigh
+  partOfSpeech: r
+00111402-r:
+  definition:
+  - confidence: 0.0
+    text: outside a building
+  ili: i18839
+  members:
+  - amuigh
+  - lasmuigh
+  partOfSpeech: r
+00111558-r:
+  definition:
+  - confidence: 0.0
+    text: on the inside
+  ili: i18840
+  members:
+  - istigh
+  - laistigh
+  partOfSpeech: r
+00112352-r:
+  definition:
+  - úsáidtear chun an sárchéim a dhéanamh, a bheith is mó ó thaobh tomhais nó méid
+    de
+  example:
+  - is é an rí-chobra an nathair is dainséaraí
+  ili: i18846
+  members:
+  - is mó
+  partOfSpeech: r
+00118527-r:
+  definition:
+  - ina dhiaidh nó tamall ina dhiaidh (úsáidte go minic mar nascóirí abairte)
+  example:
+  - ansin d'fhág sé
+  ili: i18890
+  members:
+  - mar sin
+  - ansin
+  partOfSpeech: r
+00118799-r:
+  definition:
+  - ag an am sin
+  example:
+  - Bhí mé óg ag an am sin
+  ili: i18891
+  members:
+  - an uair úd
+  - an tráth úd
+  - ag an am úd
+  - ag an am sin
+  - ansin
+  partOfSpeech: r
+00118928-r:
+  definition:
+  - más amhlaidh an cás nó mar thoradh
+  example:
+  - murar thóg sé é, mar sin cé a thóg é?
+  ili: i18892
+  members:
+  - mar sin
+  partOfSpeech: r
+00119259-r:
+  definition:
+  - ar bhealach a éascaíonn
+  example:
+  - d'fhair sé na nathracha ionas gur féidir leis cur síos a dhéanamh ar a n-iompar
+  ili: i18894
+  members:
+  - ionas
+  partOfSpeech: r
+00119765-r:
+  definition:
+  - ar ócáid amháin
+  example:
+  - bhuail mé léi tráth dá raibh
+  ili: i18897
+  members:
+  - uair amháin
+  - geábh amháin
+  - trá dá raibh
+  - tráth
+  partOfSpeech: r
+00119861-r:
+  definition:
+  - tráth roimhe sin
+  example:
+  - ag am amháin bhí grá aige di
+  ili: i18898
+  members:
+  - uair amháin
+  - tráth
+  - tráth dá raibh
+  - sean
+  partOfSpeech: r
+00120034-r:
+  definition:
+  - (deafach) áfach
+  example:
+  - d'fhéadfadh sé a bheith míthaitneamhach, áfach
+  ili: i18899
+  members:
+  - áfach
+  - ámh
+  - mar sin féin
+  partOfSpeech: r
+00120473-r:
+  definition:
+  - (codarsnach) ó thaobh eile de
+  example:
+  - ar an lámh eile, tá sí ró-uaillmhianach ar a son féin
+  ili: i18902
+  members:
+  - ar an lámh eile
+  - ansin arís
+  partOfSpeech: r
+00120979-r:
+  definition:
+  - ag an tóirt céanna
+  example:
+  - dúirt siad ag an am céanna
+  ili: i18905
+  members:
+  - ag an am céanna
+  partOfSpeech: r
+00122019-r:
+  definition:
+  - ar an mbealach léirithe
+  example:
+  - coinnigh an scuab chun
+  ili: i18911
+  members:
+  - mar sin
+  - dá bhrí sin
+  - amhlaidh
+  partOfSpeech: r
+00138870-r:
+  definition:
+  - ar nós nó ar bhealach comhchosúil
+  example:
+  - Bhí tionchar mar an gcéanna aige
+  ili: i19057
+  members:
+  - mar an gcéanna
+  - mar a chéile
+  - amhlaidh
+  partOfSpeech: r
+00139421-r:
+  definition:
+  - le deimhneacht shuntasach; gan mórán amhrais
+  example:
+  - Is dócha go bhfuil sé as an tír
+  ili: i19060
+  members:
+  - is dóichí ná a mhalairt
+  - de réir cosúlachta
+  - gach seans
+  - is dócha
+  partOfSpeech: r
+00145758-r:
+  definition:
+  - go cinnte nó go dearfach
+  example:
+  - is cinnte gur tuar dóchais é an toradh
+  ili: i19112
+  members:
+  - cinnte
+  - cinnte dearfa
+  - siúráilte
+  - siúráilte glan
+  - gan dabht
+  - go deimhin
+  - gan amhras
+  - gan aon agó
+  partOfSpeech: r
+00146749-r:
+  definition:
+  - a oiread agus is gá
+  example:
+  - ar ith mé dóthain?
+  ili: i19117
+  members:
+  - neart
+  - go leor
+  - fuílleach
+  partOfSpeech: r
+00147423-r:
+  definition:
+  - ag aon am
+  example:
+  - ar chaith tú tobac riamh?
+  ili: i19122
+  members:
+  - riamh
+  partOfSpeech: r
+00147630-r:
+  definition:
+  - go pointe an-mhór
+  example:
+  - tá an smaoineamh sin chomh follasach
+  ili: i19124
+  members:
+  - chomh
+  partOfSpeech: r
+00147962-r:
+  definition:
+  - i staid nó slí amhlaidh, go háirithe mar a léiríodh nó mar a cuireadh in iúl
+  example:
+  - Tá siad sásta agus tá súil agam go mbeidh siad i gcónaí mar sin
+  ili: i19126
+  members:
+  - amhlaidh
+  - mar sin
+  partOfSpeech: r
+00148422-r:
+  definition:
+  - go céim chomh mór sin
+  example:
+  - is leanbh den sórt sin é
+  ili: i19129
+  members:
+  - a leithéid de
+  - chomh
+  - an oiread sin
+  partOfSpeech: r
+00148912-r:
+  definition:
+  - gan stró (úsáidtear 'éasca' uaireanta go neamhfhoirmiúil le haghaidh 'go héasca')
+  example:
+  - bhí sceitimíní uirthi go héasca
+  ili: i19134
+  members:
+  - go héasca
+  - éasca
+  partOfSpeech: r
+00149927-r:
+  definition:
+  - i ndáiríre, le fírinne
+  example:
+  - déanta na fírinne, is iontach gur tháinig gach duine amach slán
+  ili: i19140
+  members:
+  - déanta na fírinne
+  - le bheith cruinn faoi
+  - is é fírinne an scéil go
+  partOfSpeech: r
+00150568-r:
+  definition:
+  - is é fírinne an scéil
+  example:
+  - in ainm a bheith neamhspleách ach ní neamhspleách go dáiríre
+  ili: i19142
+  members:
+  - an-
+  - dáiríre
+  partOfSpeech: r
+00151192-r:
+  definition:
+  - admhaigh
+  example:
+  - chun a bheith cinnte, ní aon Einstein é
+  ili: i19145
+  members:
+  - a bheith cinnte
+  - gan amhras
+  - gan dabht
+  partOfSpeech: r
+00154701-r:
+  definition:
+  - ag tabhairt aire nó ag tabhairt airde
+  example:
+  - d'amharc siad go cúramach
+  ili: i19175
+  members:
+  - go cúramach
+  partOfSpeech: r
+00156754-r:
+  definition:
+  - de ghnáth, mar riail
+  example:
+  - de ghnáth, ní chuireann sé báisteach anseo
+  ili: i19191
+  members:
+  - go ginearálta
+  - den chuid is mó
+  - níos minice ná a mhalairt
+  partOfSpeech: r
+00159090-r:
+  definition:
+  - gan éinne eile nó rud ar bith eile
+  example:
+  - d'fhan an páiste sa bhaile ina aonar
+  ili: i19209
+  members:
+  - aonair
+  - ina aonar
+  - gan tionlacan
+  partOfSpeech: r
+00159432-r:
+  definition:
+  - beaichte a chur in iúl
+  example:
+  - Bhí sé ag déanamh go díreach mar a ndúirt sí dó
+  ili: i19211
+  members:
+  - díreach
+  - go díreach
+  - go beacht
+  - go cruinn
+  - go baileach
+  - go cruinn díreach
+  - go pointeáilte
+  partOfSpeech: r
+00160239-r:
+  definition:
+  - mar shampla
+  example:
+  - tóg nathair choiréalach, mar shampla
+  ili: i19216
+  members:
+  - mar shampla
+  - cuir i gcás
+  - abraimis
+  - m.s
+  partOfSpeech: r
+00162033-r:
+  definition:
+  - ar mhodh coibhneasta, trí chomparáid le rud éigin eile
+  example:
+  - tá an cás sách ciúin anois
+  ili: i19229
+  members:
+  - measartha
+  - réasúnta
+  partOfSpeech: r
+00162829-r:
+  definition:
+  - gan luas
+  example:
+  - labhair sé go mall
+  ili: i19235
+  members:
+  - mall
+  - go mall
+  - go héasca
+  - go furasta
+  partOfSpeech: r
+00167240-r:
+  definition:
+  - ar feadh tréimhse sínte nó i bhfad i gcéin
+  example:
+  - ardú céime atá thar téarma
+  ili: i19264
+  members:
+  - fada
+  partOfSpeech: r
+00228167-r:
+  definition:
+  - confidence: 0.0
+    text: at or to a point across intervening space etc.
+  ili: i19697
+  members:
+  - anonn
+  - thall
+  partOfSpeech: r
+00234593-r:
+  definition:
+  - as baile
+  example:
+  - chuaigh siad amach aréir
+  ili: i19745
+  members:
+  - amuigh
+  partOfSpeech: r
+00234667-r:
+  definition:
+  - ó rud nó áit nó suíomh áirithe
+  example:
+  - rith sí ar shiúl ón leon
+  ili: i19746
+  members:
+  - ar shiúl
+  - chun bealaigh
+  partOfSpeech: r
+00235026-r:
+  definition:
+  - confidence: 0.0
+    text: from one's possession
+  ili: i19747
+  members:
+  - amach
+  partOfSpeech: r
+00235144-r:
+  definition:
+  - ag bogadh sa treo eile ó áit, go háirithe áit atá foriata nó faoi cheilt
+  example:
+  - tháinig an cat amach faoin leaba
+  ili: i19748
+  members:
+  - amach
+  partOfSpeech: r
+00245502-r:
+  definition:
+  - confidence: 0.0
+    text: in a northern direction
+  ili: i19821
+  members:
+  - thuaidh
+  partOfSpeech: r
+00247755-r:
+  definition:
+  - úsáidtear le haghaidh béime
+  example:
+  - Ní féidir liom cur suas leis a thuilleadh
+  ili: i19839
+  members:
+  - go díreach
+  partOfSpeech: r
+00301501-r:
+  definition:
+  - trí sheans
+  example:
+  - b'fhéidir cuirfidh sí glaoch air amárach
+  ili: i20231
+  members:
+  - b'fhéidir
+  - seans
+  partOfSpeech: r
+00325301-r:
+  definition:
+  - confidence: 0.0
+    text: to, toward, or in the west
+  ili: i20377
+  members:
+  - siar
+  - thiar
+  partOfSpeech: r
+00325415-r:
+  definition:
+  - confidence: 0.0
+    text: toward the west
+  ili: i20378
+  members:
+  - siar
+  partOfSpeech: r
+00417873-r:
+  definition:
+  - níos mó ná mar is gá
+  example:
+  - itheann sí an iomarca
+  ili: i20994
+  members:
+  - an iomarca
+  partOfSpeech: r
+00504204-r:
+  definition:
+  - chuig nó i dtreo an taobh istigh de
+  example:
+  - tar isteach
+  ili: i21651
+  members:
+  - isteach
+  partOfSpeech: r

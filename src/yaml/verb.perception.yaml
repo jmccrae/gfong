@@ -1,0 +1,423 @@
+02110460-v:
+  definition:
+  - braith trí theagmháil fhisiceach, m.s. ón gcraiceann nó ó na matáin
+  example:
+  - Bhraith sé an ghaoth
+  hypernym:
+  - 02110960-v
+  ili: i32295
+  members:
+  - braith
+  - mothaigh
+  partOfSpeech: v
+02110960-v:
+  definition:
+  - confidence: 0.0
+    text: to become aware of through the senses
+  hypernym:
+  - 00600349-v
+  ili: i32296
+  members:
+  - braith
+  partOfSpeech: v
+02111702-v:
+  definition:
+  - confidence: 0.0
+    text: register (perceptual input)
+  hypernym:
+  - 02110960-v
+  ili: i32298
+  members:
+  - faigh
+  partOfSpeech: v
+02112480-v:
+  definition:
+  - gabh trí (gabh trí ríochtaí meabhracha nó fisiceacha nó taithí a bheith agat)
+  example:
+  - chuaigh sí trí phróiseas iarratais
+  hypernym:
+  - 00109468-v
+  ili: i32302
+  members:
+  - téigh trí
+  - gabh trí
+  partOfSpeech: v
+02114674-v:
+  definition:
+  - téigh faoi nó mair trí taithí dheacair
+  example:
+  - Bhí go leor trialacha againn le dul tríd
+  hypernym:
+  - 00109468-v
+  ili: i32312
+  members:
+  - braith
+  - feic
+  - téigh trí
+  partOfSpeech: v
+02122959-v:
+  definition:
+  - tabhair faoi deara nó braith
+  example:
+  - Thug sí faoi deara go raibh duine ag leanúint ina diaidh
+  hypernym:
+  - 02110960-v
+  ili: i32349
+  members:
+  - tabhair faoi deara
+  partOfSpeech: v
+02123398-v:
+  definition:
+  - breathnú go cúramach nó aird a thabhairt ar
+  example:
+  - Tabhair aird ar an imoibriú ceimiceach seo
+  hypernym:
+  - 01022014-v
+  ili: i32351
+  members:
+  - tabhair faoi deara
+  partOfSpeech: v
+02132751-v:
+  definition:
+  - confidence: 0.0
+    text: be a witness to
+  hypernym:
+  - 02154940-v
+  ili: i32398
+  members:
+  - feic
+  partOfSpeech: v
+02133338-v:
+  definition:
+  - braith nó a bheith comhaimseartha le
+  example:
+  - Thugamar faoi deara go raibh an bua ag na Poblachtaigh
+  hypernym:
+  - 02114674-v
+  ili: i32401
+  members:
+  - feic
+  - tabhair faoi deara
+  - aithin
+  partOfSpeech: v
+02133754-v:
+  definition:
+  - léirstean a bheith agat nó ábaltacht léirstean a bheith agat trí amharc
+  example:
+  - Caithfidh tú a bheith i do bhreathnóir maith chun na mionsonraí ar fad a fheiceáil
+  hypernym:
+  - 02110960-v
+  ili: i32402
+  members:
+  - feic
+  - féach
+  partOfSpeech: v
+02134989-v:
+  definition:
+  - braith le haird; stánadh a threorú; breathnaigh
+  example:
+  - Bhreathnaigh sí ar an stráice mór talún
+  hypernym:
+  - 02372362-v
+  ili: i32408
+  members:
+  - breathnaigh
+  - féach
+  - amharc
+  partOfSpeech: v
+02137210-v:
+  definition:
+  - a bheith ag breathnú le súile géara
+  example:
+  - D'amharc na scoláirí ar an múinteoir le hiontas
+  hypernym:
+  - 02134989-v
+  ili: i32416
+  members:
+  - stán
+  - féach
+  - breathnaigh
+  - amharc
+  partOfSpeech: v
+02137900-v:
+  definition:
+  - tabhair le tuiscint gur rud áirithe atá ann nó go bhfuil gné áirithe i gceist
+    le rud
+  example:
+  - Tá cuma uirthi a bheith ina codladh
+  hypernym:
+  - 02139137-v
+  ili: i32420
+  members:
+  - breathnaigh
+  - féach
+  - cuma a bheith ar
+  - cosúlacht a bheith ar
+  - dealraigh
+  partOfSpeech: v
+02139137-v:
+  definition:
+  - (de thairiscint) is cosúil a bheith fíor, dóchúil nó soiléir
+  example:
+  - Is léir go bhfuil an-tallann aige
+  hypernym:
+  - 02681865-v
+  ili: i32425
+  members:
+  - is léir
+  - is dóigh
+  - is cosúil
+  - cuma a bheith ar
+  partOfSpeech: v
+02139392-v:
+  definition:
+  - breathnaigh ar bhealach cinnte
+  example:
+  - Déarfainn seo suimiúil
+  hypernym:
+  - 02137900-v
+  ili: i32426
+  members:
+  - fuaimnigh
+  partOfSpeech: v
+02141357-v:
+  definition:
+  - léirigh nó tabhair ar ais
+  example:
+  - Léiríonn an gníomh seo a chreidimh dhílis
+  hypernym:
+  - 00925764-v
+  ili: i32438
+  members:
+  - machnaigh
+  partOfSpeech: v
+02141597-v:
+  definition:
+  - infheicthe nó faoi deara a dhéanamh
+  example:
+  - Thaispeáin sí a cumas le haghaidh cócaireachta
+  hypernym:
+  - 00126072-v
+  ili: i32440
+  members:
+  - taispeáint
+  partOfSpeech: v
+02144506-v:
+  definition:
+  - taispeáin, a dhéanamh infheicthe nó soiléir
+  example:
+  - Tá saothar Goya á dtaispeáint ag an Músaem Cathrach an mhí seo
+  hypernym:
+  - 02141597-v
+  ili: i32454
+  members:
+  - taispeáin
+  partOfSpeech: v
+02147756-v:
+  definition:
+  - rud a shoiléiriú
+  example:
+  - Tógtar amach na héadaí gléineacha le linn an tsamhraidh
+  hypernym:
+  - 02141597-v
+  ili: i32470
+  members:
+  - bain amach
+  - tóg amach
+  - nocht
+  partOfSpeech: v
+02149298-v:
+  definition:
+  - cosc a fheiceáil nó a fháil amach
+  example:
+  - ceilt an t-airgead
+  hypernym:
+  - 02372362-v
+  ili: i32478
+  members:
+  - ceilt
+  partOfSpeech: v
+02153218-v:
+  definition:
+  - cuir pictiúr i láthair ag taispeántas
+  example:
+  - Léiríonn sí a madraí go minic
+  hypernym:
+  - 02141597-v
+  ili: i32498
+  members:
+  - taispeáin
+  - léirigh
+  - cuir i láthair
+  partOfSpeech: v
+02154940-v:
+  definition:
+  - a bheith ag breathnú go haireach
+  example:
+  - féach ar chluiche cispheile
+  hypernym:
+  - 02134989-v
+  ili: i32507
+  members:
+  - féach ar
+  - breathnaigh ar
+  - amharc ar
+  - fair ar
+  - coimhéad ar
+  - féach
+  partOfSpeech: v
+02155378-v:
+  definition:
+  - feic nó féach
+  example:
+  - amharc ar chlár ar an teilifís
+  hypernym:
+  - 02154940-v
+  ili: i32509
+  members:
+  - féach ar
+  - feic
+  - amharc ar
+  - breathnaigh ar
+  partOfSpeech: v
+02158139-v:
+  definition:
+  - confidence: 0.0
+    text: search or seek
+  hypernym:
+  - 02154940-v
+  ili: i32522
+  members:
+  - cuardaigh
+  partOfSpeech: v
+02158938-v:
+  definition:
+  - rialaigh nó tar ar bheithsine, láithreacht nó fíric faoi aireachtáil amhairc
+  example:
+  - Thug sí faoi deara leibhéil arda luaidhe san uisce a ólann sí
+  hypernym:
+  - 02168177-v
+  ili: i32526
+  members:
+  - aimsigh
+  - tabhair faoi deara
+  - tar ar
+  - fair
+  - braith
+  partOfSpeech: v
+02167732-v:
+  definition:
+  - confidence: 0.0
+    text: keep tabs on; keep an eye on; keep under surveillance
+  hypernym:
+  - 02154940-v
+  ili: i32568
+  members:
+  - déan faireachán
+  partOfSpeech: v
+02168177-v:
+  definition:
+  - confidence: 0.0
+    text: catch sight of; to perceive with the eyes
+  hypernym:
+  - 02110960-v
+  ili: i32570
+  members:
+  - feic
+  partOfSpeech: v
+02169748-v:
+  definition:
+  - caith súil ar, breathnaigh gairid ar
+  example:
+  - Chaith sí súil ar an bpáipéar
+  hypernym:
+  - 02134989-v
+  ili: i32579
+  members:
+  - súil a thabhairt de
+  partOfSpeech: v
+02169987-v:
+  definition:
+  - confidence: 0.0
+    text: look over carefully
+  hypernym:
+  - 02154940-v
+  ili: i32580
+  members:
+  - iniúch
+  - scrúdaigh
+  partOfSpeech: v
+02170904-v:
+  definition:
+  - machnamh cúramach ar
+  example:
+  - smaoinigh ar fhéidearthacht ina mbogaimid
+  hypernym:
+  - 00632042-v
+  ili: i32586
+  members:
+  - smaoinigh ar
+  - cuimhnigh ar
+  - déan staidéar ar
+  - meas
+  partOfSpeech: v
+02174146-v:
+  definition:
+  - fuaim a bhrath trí na céadfa éisteachta
+  hypernym:
+  - 02110960-v
+  ili: i32603
+  members:
+  - clois
+  - cluin
+  partOfSpeech: v
+02174335-v:
+  definition:
+  - clois le cuspóir
+  example:
+  - Éist le fuaim na dordveidhle seo
+  hypernym:
+  - 02110960-v
+  ili: i32604
+  members:
+  - éist
+  partOfSpeech: v
+02175483-v:
+  definition:
+  - éist agus aird a thabhairt
+  example:
+  - Éist le d'athair
+  hypernym:
+  - 00724156-v
+  ili: i32609
+  members:
+  - éist
+  - tabhair aire
+  partOfSpeech: v
+02197640-v:
+  definition:
+  - brath leis na gcéadfaí
+  example:
+  - Phioc na gardaí príosún airdeallacha na ciontaithe a bhí ag teitheadh as an dorchadas
+  hypernym:
+  - 02158938-v
+  ili: i32720
+  members:
+  - feic
+  - idirdhealaigh
+  - inis óna chéile
+  - aithin
+  - pioc amach
+  - déan amach
+  - sainaithin
+  partOfSpeech: v
+02199916-v:
+  definition:
+  - confidence: 0.0
+    text: make sweeter in taste
+  hypernym:
+  - 00126072-v
+  ili: i32730
+  members:
+  - milsigh
+  partOfSpeech: v

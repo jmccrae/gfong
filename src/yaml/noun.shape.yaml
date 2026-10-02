@@ -1,0 +1,360 @@
+13882990-n:
+  definition:
+  - confidence: 0.0
+    text: a three-dimensional object, structurally rigid, usually resistant to changes
+      of shape or volume
+  hypernym:
+  - 00001740-n
+  ili: i109764
+  members:
+  - solad
+  partOfSpeech: n
+13883265-n:
+  definition:
+  - confidence: 0.0
+    text: (mathematics) an unbounded two-dimensional shape
+  hypernym:
+  - 00001740-n
+  ili: i109765
+  members:
+  - plána
+  partOfSpeech: n
+13886392-n:
+  definition:
+  - confidence: 0.0
+    text: a length (straight or curved) without breadth or thickness; the trace of
+      a moving point
+  hypernym:
+  - 00001740-n
+  ili: i109781
+  members:
+  - líne
+  partOfSpeech: n
+13893319-n:
+  definition:
+  - confidence: 0.0
+    text: a straight line at right angles to another line
+  hypernym:
+  - 13886392-n
+  ili: i109817
+  members:
+  - ingear
+  partOfSpeech: n
+13893574-n:
+  definition:
+  - confidence: 0.0
+    text: a straight line that is the limiting value of a curve; can be considered
+      as tangent at infinity
+  hypernym:
+  - 13886392-n
+  ili: i109819
+  members:
+  - asamtóit
+  partOfSpeech: n
+13895231-n:
+  definition:
+  - confidence: 0.0
+    text: a shape whose base is a circle and whose sides taper up to a point
+  hypernym:
+  - 00001740-n
+  ili: i109829
+  members:
+  - cón
+  partOfSpeech: n
+13896141-n:
+  definition:
+  - confidence: 0.0
+    text: ellipse in which the two axes are of equal length; a plane curve generated
+      by one point moving at a constant distance from a fixed point
+  hypernym:
+  - 00001740-n
+  ili: i109834
+  members:
+  - ciorcal
+  partOfSpeech: n
+13897824-n:
+  definition:
+  - confidence: 0.0
+    text: something with a round shape resembling a flat circular plate
+  hypernym:
+  - 00001740-n
+  ili: i109843
+  members:
+  - diosca
+  partOfSpeech: n
+13898031-n:
+  definition:
+  - confidence: 0.0
+    text: a toroidal shape
+  hypernym:
+  - 13882990-n
+  ili: i109844
+  members:
+  - fáinne
+  partOfSpeech: n
+13901273-n:
+  definition:
+  - confidence: 0.0
+    text: (geometry) a plane rectangle with four equal sides and four right angles;
+      a four-sided regular polygon
+  hypernym:
+  - 13906003-n
+  ili: i109860
+  members:
+  - cearnóg
+  partOfSpeech: n
+13901783-n:
+  definition:
+  - confidence: 0.0
+    text: a four-sided polygon
+  hypernym:
+  - 00001740-n
+  ili: i109863
+  members:
+  - ceathairshleasán
+  partOfSpeech: n
+13901977-n:
+  definition:
+  - confidence: 0.0
+    text: a three-sided polygon
+  hypernym:
+  - 00001740-n
+  ili: i109864
+  members:
+  - triantán
+  partOfSpeech: n
+13903832-n:
+  definition:
+  - confidence: 0.0
+    text: a quadrilateral whose opposite sides are both parallel and equal in length
+  hypernym:
+  - 13901783-n
+  ili: i109876
+  members:
+  - comhthreomharán
+  partOfSpeech: n
+13904933-n:
+  definition:
+  - confidence: 0.0
+    text: a six-sided polygon
+  hypernym:
+  - 00001740-n
+  ili: i109883
+  members:
+  - heicseagán
+  partOfSpeech: n
+13905144-n:
+  definition:
+  - confidence: 0.0
+    text: a seven-sided polygon
+  hypernym:
+  - 00001740-n
+  ili: i109885
+  members:
+  - heipteagán
+  partOfSpeech: n
+13905220-n:
+  definition:
+  - confidence: 0.0
+    text: an eight-sided polygon
+  hypernym:
+  - 00001740-n
+  ili: i109886
+  members:
+  - ochtagán
+  partOfSpeech: n
+13905618-n:
+  definition:
+  - confidence: 0.0
+    text: a parallelogram with four equal sides; an oblique-angled equilateral parallelogram
+  hypernym:
+  - 13903832-n
+  ili: i109891
+  members:
+  - rombas
+  partOfSpeech: n
+13906003-n:
+  definition:
+  - confidence: 0.0
+    text: a parallelogram with four right angles
+  hypernym:
+  - 13903832-n
+  ili: i109893
+  members:
+  - dronuilleog
+  partOfSpeech: n
+13907168-n:
+  definition:
+  - confidence: 0.0
+    text: a polyhedron with two congruent and parallel faces (the bases) and whose
+      lateral faces are parallelograms
+  hypernym:
+  - 13882990-n
+  ili: i109900
+  members:
+  - priosma
+  partOfSpeech: n
+13909064-n:
+  definition:
+  - confidence: 0.0
+    text: a plane curve formed by the intersection of a right circular cone and a
+      plane parallel to an element of the curve
+  hypernym:
+  - 00001740-n
+  ili: i109911
+  members:
+  - parabóil
+  partOfSpeech: n
+13910202-n:
+  definition:
+  - confidence: 0.0
+    text: the space between two lines or planes that intersect; the inclination of
+      one line to another; measured in degrees or radians
+  hypernym:
+  - 13933399-n
+  ili: i109918
+  members:
+  - uillinn
+  partOfSpeech: n
+13917127-n:
+  definition:
+  - confidence: 0.0
+    text: something that bulges out or is protuberant or projects from its surroundings
+  hypernym:
+  - 13882990-n
+  ili: i109955
+  members:
+  - easbhrú
+  partOfSpeech: n
+13918679-n:
+  definition:
+  - confidence: 0.0
+    text: any thickened enlargement
+  hypernym:
+  - 13882990-n
+  ili: i109962
+  members:
+  - nód
+  partOfSpeech: n
+13918910-n:
+  definition:
+  - confidence: 0.0
+    text: any shape resembling the curved shape of the moon in its first or last quarters
+  hypernym:
+  - 13886392-n
+  ili: i109964
+  members:
+  - corrán
+  partOfSpeech: n
+13922097-n:
+  definition:
+  - confidence: 0.0
+    text: an object with a spherical shape
+  hypernym:
+  - 00001740-n
+  ili: i109982
+  members:
+  - grán
+  - liathróid
+  partOfSpeech: n
+13924116-n:
+  definition:
+  - confidence: 0.0
+    text: a small rounded mass of a substance
+  hypernym:
+  - 13922097-n
+  ili: i109993
+  members:
+  - millín
+  partOfSpeech: n
+13924278-n:
+  definition:
+  - confidence: 0.0
+    text: a shape that is spherical and small
+  hypernym:
+  - 00001740-n
+  ili: i109995
+  members:
+  - braon
+  partOfSpeech: n
+13926085-n:
+  definition:
+  - confidence: 0.0
+    text: a line determining the limits of an area
+  hypernym:
+  - 13886392-n
+  ili: i110004
+  members:
+  - teorainn
+  partOfSpeech: n
+13926582-n:
+  definition:
+  - confidence: 0.0
+    text: the outside boundary or surface of something
+  hypernym:
+  - 13926085-n
+  ili: i110006
+  members:
+  - imeall
+  partOfSpeech: n
+13933399-n:
+  definition:
+  - confidence: 0.0
+    text: an empty area (usually bounded in some way between things)
+  hypernym:
+  - 00027365-n
+  ili: i110044
+  members:
+  - spás
+  partOfSpeech: n
+13934060-n:
+  definition:
+  - confidence: 0.0
+    text: a connecting point at which several lines come together
+  hypernym:
+  - 00001740-n
+  ili: i110046
+  members:
+  - nód
+  partOfSpeech: n
+13934887-n:
+  definition:
+  - confidence: 0.0
+    text: a very small circular shape
+  hypernym:
+  - 13897824-n
+  ili: i110051
+  members:
+  - pointe
+  partOfSpeech: n
+13936007-n:
+  definition:
+  - confidence: 0.0
+    text: a narrowing that reduces the flow through a channel
+  hypernym:
+  - 05071206-n
+  ili: i110058
+  members:
+  - scrogall
+  partOfSpeech: n
+13937870-n:
+  definition:
+  - confidence: 0.0
+    text: a polyhedron having a polygonal base and triangular sides with a common
+      vertex
+  hypernym:
+  - 13882990-n
+  ili: i110068
+  members:
+  - pirimid
+  partOfSpeech: n
+13938146-n:
+  definition:
+  - confidence: 0.0
+    text: any polyhedron having four plane faces
+  hypernym:
+  - 13882990-n
+  ili: i110070
+  members:
+  - teitrihéadrán
+  partOfSpeech: n

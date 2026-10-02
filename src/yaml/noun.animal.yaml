@@ -1,0 +1,3383 @@
+01316879-n:
+  definition:
+  - confidence: 0.0
+    text: any unwanted and destructive insect or other animal that attacks food or
+      crops or livestock etc.
+  hypernym:
+  - 00015568-n
+  ili: i42250
+  members:
+  - lotnaid
+  partOfSpeech: n
+01320872-n:
+  definition:
+  - confidence: 0.0
+    text: a single domestic animal
+  hypernym:
+  - 00015568-n
+  ili: i42274
+  members:
+  - ceann
+  partOfSpeech: n
+01321385-n:
+  definition:
+  - confidence: 0.0
+    text: a domesticated animal kept for companionship or amusement
+  hypernym:
+  - 00015568-n
+  ili: i42277
+  members:
+  - peata
+  partOfSpeech: n
+01324070-n:
+  definition:
+  - confidence: 0.0
+    text: any immature animal
+  hypernym:
+  - 00015568-n
+  ili: i42292
+  members:
+  - óga
+  partOfSpeech: n
+01325095-n:
+  definition:
+  - confidence: 0.0
+    text: a young dog
+  hypernym:
+  - 02086723-n
+  - 01324070-n
+  ili: i42298
+  members:
+  - coileán
+  partOfSpeech: n
+01327072-n:
+  definition:
+  - confidence: 0.0
+    text: any animal that feeds on flesh
+  hypernym:
+  - 02155392-n
+  ili: i42313
+  members:
+  - carnabhóir
+  - feoiliteoir
+  partOfSpeech: n
+01327251-n:
+  definition:
+  - confidence: 0.0
+    text: any animal that feeds chiefly on grass and other plants
+  hypernym:
+  - 00015568-n
+  ili: i42314
+  members:
+  - heirbeabhóir
+  - luibhiteoir
+  partOfSpeech: n
+01328932-n:
+  definition:
+  - confidence: 0.0
+    text: any organism of microscopic size
+  hypernym:
+  - 00004475-n
+  ili: i42325
+  members:
+  - miocrorgánach
+  partOfSpeech: n
+01331343-n:
+  definition:
+  - confidence: 0.0
+    text: (virology) ultramicroscopic infectious agent that replicates itself only
+      within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA
+      or RNA) wrapped in a thin coat of protein
+  hypernym:
+  - 01328932-n
+  ili: i42336
+  members:
+  - víreas
+  partOfSpeech: n
+01351171-n:
+  definition:
+  - confidence: 0.0
+    text: (microbiology) single-celled or noncellular spherical or spiral or rod-shaped
+      organisms lacking chlorophyll that reproduce by fission; important as pathogens
+      and for biochemical properties; taxonomy is difficult; often considered to be
+      plants
+  hypernym:
+  - 01328932-n
+  ili: i42419
+  members:
+  - baictéar
+  partOfSpeech: n
+01386279-n:
+  definition:
+  - confidence: 0.0
+    text: the aggregate of small plant and animal organisms that float or drift in
+      great numbers in fresh or salt water
+  hypernym:
+  - 00004475-n
+  ili: i42598
+  members:
+  - planctón
+  partOfSpeech: n
+01387132-n:
+  definition:
+  - confidence: 0.0
+    text: a minute life form (especially a disease-causing bacterium); the term is
+      not in technical use
+  hypernym:
+  - 01328932-n
+  ili: i42603
+  members:
+  - ginidín
+  partOfSpeech: n
+01387328-n:
+  definition:
+  - confidence: 0.0
+    text: an animal or plant that lives in or on a host (another animal or plant);
+      it obtains nourishment from the host without benefiting or killing the host
+  hypernym:
+  - 00004475-n
+  ili: i42604
+  members:
+  - paraisít
+  - seadán
+  partOfSpeech: n
+01388168-n:
+  definition:
+  - confidence: 0.0
+    text: an animal or plant that nourishes and supports a parasite; it does not benefit
+      and is often harmed by the association
+  hypernym:
+  - 00004475-n
+  ili: i42607
+  members:
+  - óstach
+  partOfSpeech: n
+01399755-n:
+  definition:
+  - confidence: 0.0
+    text: primitive chlorophyll-containing mainly aquatic eukaryotic organisms lacking
+      true stems and roots and leaves
+  hypernym:
+  - 01328932-n
+  ili: i42665
+  members:
+  - alga
+  - algaí
+  partOfSpeech: n
+01400138-n:
+  definition:
+  - confidence: 0.0
+    text: plant growing in the sea, especially marine algae
+  hypernym:
+  - 01399755-n
+  ili: i42666
+  members:
+  - feamainn
+  partOfSpeech: n
+01407748-n:
+  definition:
+  - confidence: 0.0
+    text: brown algae seaweed with serrated edges
+  hypernym:
+  - 01399755-n
+  ili: i42710
+  members:
+  - míoránach
+  partOfSpeech: n
+01407891-n:
+  definition:
+  - confidence: 0.0
+    text: a common rockweed used in preparing kelp and as manure
+  hypernym:
+  - 01399755-n
+  ili: i42711
+  members:
+  - barrchonlach
+  partOfSpeech: n
+01417274-n:
+  definition:
+  - confidence: 0.0
+    text: dark purple edible seaweed of the Atlantic coasts of Europe and North America
+  hypernym:
+  - 01399755-n
+  ili: i42763
+  members:
+  - carraigín
+  partOfSpeech: n
+01418267-n:
+  definition:
+  - confidence: 0.0
+    text: an organism with cells characteristic of all life forms except primitive
+      microorganisms such as bacteria; i.e. an organism with 'good' or membrane-bound
+      nuclei in its cells
+  hypernym:
+  - 00004475-n
+  ili: i42770
+  members:
+  - eocarót
+  partOfSpeech: n
+01442155-n:
+  definition:
+  - confidence: 0.0
+    text: any of various freshwater fish of the family Cyprinidae
+  hypernym:
+  - 02514684-n
+  ili: i42853
+  members:
+  - carbán
+  partOfSpeech: n
+01443405-n:
+  definition:
+  - confidence: 0.0
+    text: freshwater dace-like game fish of Europe and western Asia noted for ability
+      to survive outside water
+  hypernym:
+  - 02514684-n
+  ili: i42861
+  members:
+  - cúramán
+  partOfSpeech: n
+01445091-n:
+  definition:
+  - confidence: 0.0
+    text: European freshwater food fish having a greenish back
+  hypernym:
+  - 02514684-n
+  ili: i42872
+  members:
+  - róiste
+  partOfSpeech: n
+01445351-n:
+  definition:
+  - confidence: 0.0
+    text: European freshwater fish resembling the roach
+  hypernym:
+  - 02514684-n
+  ili: i42874
+  members:
+  - deargán
+  - ruán
+  partOfSpeech: n
+01445884-n:
+  definition:
+  - confidence: 0.0
+    text: small slender European freshwater fish often used as bait by anglers
+  hypernym:
+  - 02514684-n
+  ili: i42878
+  members:
+  - brannóg
+  partOfSpeech: n
+01446178-n:
+  definition:
+  - confidence: 0.0
+    text: small golden or orange-red freshwater fishes of Eurasia used as pond or
+      aquarium fishes
+  hypernym:
+  - 02514684-n
+  ili: i42880
+  members:
+  - iasc órga
+  partOfSpeech: n
+01455728-n:
+  definition:
+  - confidence: 0.0
+    text: European dory
+  hypernym:
+  - 02514684-n
+  ili: i42937
+  members:
+  - deoraí
+  partOfSpeech: n
+01457958-n:
+  definition:
+  - confidence: 0.0
+    text: of rivers and coastal regions
+  hypernym:
+  - 02514684-n
+  ili: i42950
+  members:
+  - garmachán
+  partOfSpeech: n
+01461483-n:
+  definition:
+  - confidence: 0.0
+    text: an animal organism in the early stages of growth and differentiation that
+      in higher forms merge into fetal stages but in lower forms terminate in commencement
+      of larval life
+  hypernym:
+  - 00015568-n
+  ili: i42973
+  members:
+  - suth
+  partOfSpeech: n
+01462432-n:
+  definition:
+  - confidence: 0.0
+    text: an unborn or unhatched vertebrate in the later stages of development showing
+      the main recognizable features of the mature animal
+  hypernym:
+  - 01474323-n
+  ili: i42977
+  members:
+  - féatas
+  partOfSpeech: n
+01463098-n:
+  definition:
+  - confidence: 0.0
+    text: animal reproductive body consisting of an ovum or embryo together with nutritive
+      and protective envelopes; especially the thin-shelled reproductive body laid
+      by e.g. female birds
+  hypernym:
+  - 05465549-n
+  ili: i42980
+  members:
+  - ubh
+  partOfSpeech: n
+01474323-n:
+  definition:
+  - confidence: 0.0
+    text: animals having a bony or cartilaginous skeleton with a segmented spinal
+      column and a large brain enclosed in a skull or cranium
+  hypernym:
+  - 00015568-n
+  ili: i43040
+  members:
+  - veirteabrach
+  partOfSpeech: n
+01484971-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous elongate mostly marine carnivorous fishes with heterocercal
+      caudal fins and tough skin covered with small toothlike scales
+  hypernym:
+  - 02514684-n
+  ili: i43092
+  members:
+  - siorc
+  partOfSpeech: n
+01486471-n:
+  definition:
+  - confidence: 0.0
+    text: voracious pointed-nose shark of northern Atlantic and Pacific
+  hypernym:
+  - 01484971-n
+  ili: i43100
+  members:
+  - craosaire
+  partOfSpeech: n
+01488120-n:
+  definition:
+  - confidence: 0.0
+    text: large harmless plankton-eating northern shark; often swims slowly or floats
+      at the sea surface
+  hypernym:
+  - 01484971-n
+  ili: i43110
+  members:
+  - ainmhí na seolta
+  - cearbhán
+  - liopadaileap
+  - seoltóir
+  - Cetorhinus maximus
+  partOfSpeech: n
+01498134-n:
+  definition:
+  - confidence: 0.0
+    text: sharks with broad flat bodies and winglike pectoral fins but that swim the
+      way sharks do
+  hypernym:
+  - 01484971-n
+  ili: i43165
+  members:
+  - bráthair
+  partOfSpeech: n
+01498342-n:
+  definition:
+  - confidence: 0.0
+    text: cartilaginous fishes having horizontally flattened bodies and enlarged winglike
+      pectoral fins with gills on the underside; most swim by moving the pectoral
+      fins
+  hypernym:
+  - 02514684-n
+  ili: i43166
+  members:
+  - roc
+  partOfSpeech: n
+01503801-n:
+  definition:
+  - confidence: 0.0
+    text: large edible rays having a long snout and thick tail with pectoral fins
+      continuous with the head; swim by undulating the edges of the pectoral fins
+  hypernym:
+  - 01498342-n
+  ili: i43196
+  members:
+  - sciata
+  partOfSpeech: n
+01505702-n:
+  definition:
+  - confidence: 0.0
+    text: warm-blooded egg-laying vertebrates characterized by feathers and forelimbs
+      modified as wings
+  hypernym:
+  - 01474323-n
+  ili: i43203
+  members:
+  - éan
+  partOfSpeech: n
+01521519-n:
+  definition:
+  - confidence: 0.0
+    text: fast-running African flightless bird with two-toed feet; largest living
+      bird
+  hypernym:
+  - 01505702-n
+  ili: i43235
+  members:
+  - ostrais
+  partOfSpeech: n
+01522514-n:
+  definition:
+  - confidence: 0.0
+    text: large Australian flightless bird similar to the ostrich but smaller
+  hypernym:
+  - 01505702-n
+  ili: i43241
+  members:
+  - éamú
+  partOfSpeech: n
+01529988-n:
+  definition:
+  - confidence: 0.0
+    text: small brownish European songbird
+  hypernym:
+  - 01505702-n
+  ili: i43275
+  members:
+  - donnóg
+  partOfSpeech: n
+01530558-n:
+  definition:
+  - confidence: 0.0
+    text: brown-speckled European lark noted for singing while hovering at a great
+      height
+  hypernym:
+  - 01505702-n
+  ili: i43279
+  members:
+  - circín starraiceach
+  - fuiseog
+  partOfSpeech: n
+01531486-n:
+  definition:
+  - confidence: 0.0
+    text: a common pipit that is brown above and white below; widely distributed in
+      northern and central Europe and in Asia
+  hypernym:
+  - 01505702-n
+  ili: i43285
+  members:
+  - riabhóg mhóna
+  partOfSpeech: n
+01533080-n:
+  definition:
+  - confidence: 0.0
+    text: small European finch with a cheerful song
+  hypernym:
+  - 01505702-n
+  ili: i43289
+  members:
+  - rí rua
+  partOfSpeech: n
+01533216-n:
+  definition:
+  - confidence: 0.0
+    text: Eurasian finch
+  hypernym:
+  - 01505702-n
+  ili: i43290
+  members:
+  - breacán
+  partOfSpeech: n
+01533819-n:
+  definition:
+  - confidence: 0.0
+    text: small European finch having a crimson face and yellow-and-black wings
+  hypernym:
+  - 01505702-n
+  ili: i43293
+  members:
+  - lasair choille
+  partOfSpeech: n
+01536534-n:
+  definition:
+  - confidence: 0.0
+    text: finch with a bill whose tips cross when closed
+  hypernym:
+  - 01505702-n
+  ili: i43310
+  members:
+  - crosghob
+  partOfSpeech: n
+01536796-n:
+  definition:
+  - confidence: 0.0
+    text: common European finch mostly black and white with red throat and breast
+  hypernym:
+  - 01505702-n
+  ili: i43312
+  members:
+  - corcrán coille
+  partOfSpeech: n
+01540700-n:
+  definition:
+  - confidence: 0.0
+    text: European bunting inhabiting marshy areas
+  hypernym:
+  - 01505702-n
+  ili: i43335
+  members:
+  - gealóg ghiolcaí
+  partOfSpeech: n
+01540841-n:
+  definition:
+  - confidence: 0.0
+    text: European bunting the male being bright yellow
+  hypernym:
+  - 01505702-n
+  ili: i43336
+  members:
+  - buíóg
+  partOfSpeech: n
+01559826-n:
+  definition:
+  - confidence: 0.0
+    text: songbirds characteristically having brownish upper plumage with a spotted
+      breast
+  hypernym:
+  - 01505702-n
+  ili: i43450
+  members:
+  - smólach
+  partOfSpeech: n
+01560603-n:
+  definition:
+  - confidence: 0.0
+    text: large European thrush that feeds on mistletoe berries
+  hypernym:
+  - 01559826-n
+  ili: i43452
+  members:
+  - liatráisc
+  partOfSpeech: n
+01560790-n:
+  definition:
+  - confidence: 0.0
+    text: common Old World thrush noted for its song
+  hypernym:
+  - 01559826-n
+  ili: i43453
+  members:
+  - smólach ceoil
+  partOfSpeech: n
+01560948-n:
+  definition:
+  - confidence: 0.0
+    text: medium-sized Eurasian thrush seen chiefly in winter
+  hypernym:
+  - 01559826-n
+  ili: i43454
+  members:
+  - sacán
+  partOfSpeech: n
+01561102-n:
+  definition:
+  - confidence: 0.0
+    text: small European thrush having reddish flanks
+  hypernym:
+  - 01559826-n
+  ili: i43455
+  members:
+  - deargán sneachta
+  partOfSpeech: n
+01561235-n:
+  definition:
+  - confidence: 0.0
+    text: common black European thrush
+  hypernym:
+  - 01559826-n
+  ili: i43456
+  members:
+  - céirseach
+  partOfSpeech: n
+01561406-n:
+  definition:
+  - confidence: 0.0
+    text: European thrush common in rocky areas; the male has blackish plumage with
+      a white band around the neck
+  hypernym:
+  - 01559826-n
+  ili: i43457
+  members:
+  - lon creige
+  partOfSpeech: n
+01562746-n:
+  definition:
+  - confidence: 0.0
+    text: European songbird noted for its melodious nocturnal song
+  hypernym:
+  - 01559826-n
+  ili: i43465
+  members:
+  - filiméala
+  partOfSpeech: n
+01563434-n:
+  definition:
+  - confidence: 0.0
+    text: common European chat with black plumage and a reddish-brown breast
+  hypernym:
+  - 01559826-n
+  ili: i43470
+  members:
+  - caislín cloch
+  partOfSpeech: n
+01563576-n:
+  definition:
+  - confidence: 0.0
+    text: brown-and-buff European songbird of grassy meadows
+  hypernym:
+  - 01559826-n
+  ili: i43471
+  members:
+  - caislín aitinn
+  partOfSpeech: n
+01566586-n:
+  definition:
+  - confidence: 0.0
+    text: European kinglet with a black-bordered yellow crown patch
+  hypernym:
+  - 01505702-n
+  ili: i43490
+  members:
+  - cíorbhuí
+  partOfSpeech: n
+01567555-n:
+  definition:
+  - confidence: 0.0
+    text: greyish-brown Old World warbler with a white throat and underparts
+  hypernym:
+  - 01505702-n
+  ili: i43496
+  members:
+  - gilphíb
+  partOfSpeech: n
+01576539-n:
+  definition:
+  - confidence: 0.0
+    text: migratory American songbird
+  hypernym:
+  - 01505702-n
+  ili: i43551
+  members:
+  - bobóilinc
+  partOfSpeech: n
+01581669-n:
+  definition:
+  - confidence: 0.0
+    text: black birds having a raucous call
+  hypernym:
+  - 01505702-n
+  ili: i43582
+  members:
+  - préachán
+  partOfSpeech: n
+01582051-n:
+  definition:
+  - confidence: 0.0
+    text: common gregarious Old World bird about the size and color of the American
+      crow
+  hypernym:
+  - 01505702-n
+  ili: i43585
+  members:
+  - rúcach
+  partOfSpeech: n
+01582219-n:
+  definition:
+  - confidence: 0.0
+    text: common black-and-grey Eurasian bird noted for thievery
+  hypernym:
+  - 01505702-n
+  ili: i43586
+  members:
+  - cág
+  partOfSpeech: n
+01606971-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous carnivorous birds that hunt and kill other animals
+  hypernym:
+  - 01505702-n
+  ili: i43737
+  members:
+  - éan creiche
+  partOfSpeech: n
+01609313-n:
+  definition:
+  - confidence: 0.0
+    text: small hawk of Eurasia and northern Africa
+  hypernym:
+  - 01606971-n
+  ili: i43746
+  members:
+  - spioróg
+  partOfSpeech: n
+01610603-n:
+  definition:
+  - confidence: 0.0
+    text: the common European short-winged hawk
+  hypernym:
+  - 01606971-n
+  ili: i43754
+  members:
+  - clamhán
+  partOfSpeech: n
+01612597-n:
+  definition:
+  - confidence: 0.0
+    text: Old World harrier frequenting marshy regions
+  hypernym:
+  - 01606971-n
+  ili: i43766
+  members:
+  - cromán móna
+  partOfSpeech: n
+01614113-n:
+  definition:
+  - confidence: 0.0
+    text: a widely distributed falcon formerly used in falconry
+  hypernym:
+  - 01606971-n
+  ili: i43774
+  members:
+  - fabhcún gorm
+  partOfSpeech: n
+01614610-n:
+  definition:
+  - confidence: 0.0
+    text: small Old World falcon that hovers in the air against a wind
+  hypernym:
+  - 01606971-n
+  ili: i43777
+  members:
+  - pocaire gaoithe
+  partOfSpeech: n
+01614916-n:
+  definition:
+  - confidence: 0.0
+    text: small falcon of Europe and America having dark plumage with black-barred
+      tail; used in falconry
+  hypernym:
+  - 01606971-n
+  ili: i43779
+  members:
+  - meirliún
+  partOfSpeech: n
+01615117-n:
+  definition:
+  - confidence: 0.0
+    text: small Old World falcon formerly trained and flown at small birds
+  hypernym:
+  - 01606971-n
+  ili: i43780
+  members:
+  - fabhcún coille
+  partOfSpeech: n
+01616984-n:
+  definition:
+  - confidence: 0.0
+    text: large eagle of mountainous regions of the Northern Hemisphere having a golden-brown
+      head and neck
+  hypernym:
+  - 01606971-n
+  ili: i43791
+  members:
+  - iolar fíréan
+  partOfSpeech: n
+01617566-n:
+  definition:
+  - confidence: 0.0
+    text: a large eagle of North America that has a white head and dark wings and
+      body
+  hypernym:
+  - 01606971-n
+  ili: i43795
+  members:
+  - iolar maol
+  partOfSpeech: n
+01618727-n:
+  definition:
+  - confidence: 0.0
+    text: large harmless hawk found worldwide that feeds on fish and builds a bulky
+      nest often occupied for years
+  hypernym:
+  - 01606971-n
+  ili: i43802
+  members:
+  - coirneach
+  partOfSpeech: n
+01619736-n:
+  definition:
+  - confidence: 0.0
+    text: large vulture of southern Europe and northern Africa having pale plumage
+      with black wings
+  hypernym:
+  - 01606971-n
+  ili: i43807
+  members:
+  - badhbh ghríofa
+  partOfSpeech: n
+01621144-n:
+  definition:
+  - confidence: 0.0
+    text: large long-legged African bird of prey that feeds on reptiles
+  hypernym:
+  - 01606971-n
+  ili: i43816
+  members:
+  - peannaire
+  - rúnaí
+  partOfSpeech: n
+01627474-n:
+  definition:
+  - confidence: 0.0
+    text: slender European owl of coniferous forests with long ear tufts
+  hypernym:
+  - 01606971-n
+  ili: i43854
+  members:
+  - ceann cait
+  partOfSpeech: n
+01628203-n:
+  definition:
+  - confidence: 0.0
+    text: mottled buff and white owl often inhabiting barns and other structures;
+      important in rodent control
+  hypernym:
+  - 01606971-n
+  ili: i43859
+  members:
+  - scréachóg reilige
+  partOfSpeech: n
+01642406-n:
+  definition:
+  - confidence: 0.0
+    text: any of various tailless stout-bodied amphibians with long hind limbs for
+      leaping; semiaquatic and terrestrial species
+  hypernym:
+  - 01474323-n
+  ili: i43933
+  members:
+  - frog
+  partOfSpeech: n
+01649289-n:
+  definition:
+  - confidence: 0.0
+    text: common brownish-yellow short-legged toad of western Europe; runs rather
+      than hops
+  hypernym:
+  - 01642406-n
+  ili: i43969
+  members:
+  - cnádán
+  partOfSpeech: n
+01663732-n:
+  definition:
+  - confidence: 0.0
+    text: any cold-blooded vertebrate of the class Reptilia including tortoises, turtles,
+      snakes, lizards, alligators, crocodiles, and extinct forms
+  hypernym:
+  - 01474323-n
+  ili: i44029
+  members:
+  - reiptíl
+  partOfSpeech: n
+01665425-n:
+  definition:
+  - confidence: 0.0
+    text: any of various aquatic and land reptiles having a bony shell and flipper-like
+      limbs for swimming
+  hypernym:
+  - 01663732-n
+  ili: i44036
+  members:
+  - turtar
+  partOfSpeech: n
+01686774-n:
+  definition:
+  - confidence: 0.0
+    text: alert agile lizard with reduced limbs and an elongated body covered with
+      shiny scales; more dependent on moisture than most lizards; found in tropical
+      regions worldwide
+  hypernym:
+  - 01663732-n
+  ili: i44153
+  members:
+  - scinc
+  partOfSpeech: n
+01692790-n:
+  definition:
+  - confidence: 0.0
+    text: small burrowing legless European lizard with tiny eyes; popularly believed
+      to be blind
+  hypernym:
+  - 01663732-n
+  ili: i44187
+  members:
+  - earcán caoch
+  partOfSpeech: n
+01702472-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous extinct terrestrial reptiles of the Mesozoic era
+  hypernym:
+  - 01663732-n
+  ili: i44243
+  members:
+  - dineasár
+  partOfSpeech: n
+01729333-n:
+  definition:
+  - confidence: 0.0
+    text: limbless scaly elongate reptile; some are venomous
+  hypernym:
+  - 01663732-n
+  ili: i44390
+  members:
+  - nathair
+  partOfSpeech: n
+01761398-n:
+  definition:
+  - confidence: 0.0
+    text: the dead body of an animal especially one slaughtered and dressed for food
+  hypernym:
+  - 00002684-n
+  ili: i44574
+  members:
+  - conablach
+  partOfSpeech: n
+01770302-n:
+  definition:
+  - confidence: 0.0
+    text: invertebrate having jointed limbs and a segmented body with an exoskeleton
+      made of chitin
+  hypernym:
+  - 01908302-n
+  ili: i44580
+  members:
+  - artrapód
+  partOfSpeech: n
+01771988-n:
+  definition:
+  - confidence: 0.0
+    text: air-breathing arthropods characterized by simple eyes and four pairs of
+      legs
+  hypernym:
+  - 01770302-n
+  ili: i44586
+  members:
+  - araicnid
+  partOfSpeech: n
+01774863-n:
+  definition:
+  - confidence: 0.0
+    text: predatory arachnid with eight legs, two poison fangs, two feelers, and usually
+      two silk-spinning organs at the back end of the body; they spin silk to make
+      cocoons for eggs or traps for prey
+  hypernym:
+  - 01771988-n
+  ili: i44602
+  members:
+  - damhán alla
+  partOfSpeech: n
+01782270-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous very small to minute arachnids often infesting animals or
+      plants or stored foods
+  hypernym:
+  - 01771988-n
+  ili: i44640
+  members:
+  - fíneog
+  partOfSpeech: n
+01794266-n:
+  definition:
+  - confidence: 0.0
+    text: a domestic fowl bred for flesh or eggs; believed to have been developed
+      from the red jungle fowl
+  hypernym:
+  - 01505702-n
+  ili: i44707
+  members:
+  - sicín
+  partOfSpeech: n
+01794683-n:
+  definition:
+  - confidence: 0.0
+    text: young bird especially of domestic fowl
+  hypernym:
+  - 01794266-n
+  - 01324070-n
+  ili: i44709
+  members:
+  - sicín
+  partOfSpeech: n
+01795281-n:
+  definition:
+  - confidence: 0.0
+    text: adult female chicken
+  hypernym:
+  - 01794266-n
+  ili: i44714
+  members:
+  - béaróg
+  - cearc
+  partOfSpeech: n
+01795890-n:
+  definition:
+  - confidence: 0.0
+    text: young hen usually less than a year old
+  hypernym:
+  - 01795281-n
+  ili: i44719
+  members:
+  - eireog
+  partOfSpeech: n
+01796799-n:
+  definition:
+  - confidence: 0.0
+    text: large gallinaceous bird with fan-shaped tail; widely domesticated for food
+  hypernym:
+  - 01505702-n
+  ili: i44726
+  members:
+  - turcaí
+  partOfSpeech: n
+01799661-n:
+  definition:
+  - confidence: 0.0
+    text: large black Old World grouse
+  hypernym:
+  - 02155643-n
+  - 01505702-n
+  ili: i44744
+  members:
+  - capall coille
+  partOfSpeech: n
+01810137-n:
+  definition:
+  - confidence: 0.0
+    text: small Old World gallinaceous game birds
+  hypernym:
+  - 02155643-n
+  - 01505702-n
+  ili: i44811
+  members:
+  - patraisc
+  partOfSpeech: n
+01811747-n:
+  definition:
+  - confidence: 0.0
+    text: a west African bird having dark plumage mottled with white; native to Africa
+      but raised for food in many parts of the world
+  hypernym:
+  - 01505702-n
+  ili: i44821
+  members:
+  - guine
+  partOfSpeech: n
+01813884-n:
+  definition:
+  - confidence: 0.0
+    text: extinct heavy flightless bird of Mauritius related to pigeons
+  hypernym:
+  - 01505702-n
+  ili: i44833
+  members:
+  - dódó
+  partOfSpeech: n
+01814550-n:
+  definition:
+  - confidence: 0.0
+    text: wild and domesticated birds having a heavy body and short legs
+  hypernym:
+  - 01505702-n
+  ili: i44837
+  members:
+  - colúr
+  partOfSpeech: n
+01815303-n:
+  definition:
+  - confidence: 0.0
+    text: pale grey Eurasian pigeon having black-striped wings from which most domestic
+      species are descended
+  hypernym:
+  - 01814550-n
+  ili: i44841
+  members:
+  - colm aille
+  partOfSpeech: n
+01822375-n:
+  definition:
+  - confidence: 0.0
+    text: small grey Australian parrot with a yellow crested head
+  hypernym:
+  - 01505702-n
+  ili: i44885
+  members:
+  - cocaitíl
+  partOfSpeech: n
+01824510-n:
+  definition:
+  - confidence: 0.0
+    text: small Australian parakeet usually light green with black and yellow markings
+      in the wild but bred in many colors
+  hypernym:
+  - 01505702-n
+  ili: i44899
+  members:
+  - budragár
+  partOfSpeech: n
+01847773-n:
+  definition:
+  - confidence: 0.0
+    text: freshwater aquatic bird
+  hypernym:
+  - 01505702-n
+  ili: i45040
+  members:
+  - éan uisce
+  partOfSpeech: n
+01848972-n:
+  definition:
+  - confidence: 0.0
+    text: small wild or domesticated web-footed broad-billed swimming bird usually
+      having a depressed body and short legs
+  hypernym:
+  - 01847773-n
+  ili: i45045
+  members:
+  - lacha
+  partOfSpeech: n
+01850447-n:
+  definition:
+  - confidence: 0.0
+    text: wild dabbling duck from which domestic ducks are descended; widely distributed
+  hypernym:
+  - 01848972-n
+  ili: i45052
+  members:
+  - mallard
+  partOfSpeech: n
+01851289-n:
+  definition:
+  - confidence: 0.0
+    text: freshwater duck of Eurasia and northern Africa related to mallards and teals
+  hypernym:
+  - 01848972-n
+  ili: i45058
+  members:
+  - lacha rua
+  - rualacha
+  partOfSpeech: n
+01851617-n:
+  definition:
+  - confidence: 0.0
+    text: freshwater duck of the Northern Hemisphere having a broad flat bill
+  hypernym:
+  - 01848972-n
+  ili: i45060
+  members:
+  - spadalach
+  partOfSpeech: n
+01851798-n:
+  definition:
+  - confidence: 0.0
+    text: long-necked river duck of the Old and New Worlds having elongated central
+      tail feathers
+  hypernym:
+  - 01848972-n
+  ili: i45061
+  members:
+  - biorearrach
+  partOfSpeech: n
+01852504-n:
+  definition:
+  - confidence: 0.0
+    text: reddish-brown stiff-tailed duck of North America and northern South America
+  hypernym:
+  - 01848972-n
+  ili: i45066
+  members:
+  - lacha rua
+  partOfSpeech: n
+01853679-n:
+  definition:
+  - confidence: 0.0
+    text: heavy-bodied Old World diving duck having a grey-and-black body and reddish
+      head
+  hypernym:
+  - 01848972-n
+  ili: i45073
+  members:
+  - lacha mhásach
+  - póiseard
+  partOfSpeech: n
+01855312-n:
+  definition:
+  - confidence: 0.0
+    text: large crested wild duck of Central America and South America; widely domesticated
+  hypernym:
+  - 01848972-n
+  ili: i45084
+  members:
+  - musclacha
+  partOfSpeech: n
+01857829-n:
+  definition:
+  - confidence: 0.0
+    text: smallest merganser and most expert diver; found in northern Eurasia
+  hypernym:
+  - 01848972-n
+  ili: i45099
+  members:
+  - síolta gheal
+  partOfSpeech: n
+01859194-n:
+  definition:
+  - confidence: 0.0
+    text: common grey wild goose of Europe; ancestor of many domestic breeds
+  hypernym:
+  - 01847773-n
+  ili: i45107
+  members:
+  - gé ghlas
+  partOfSpeech: n
+01860492-n:
+  definition:
+  - confidence: 0.0
+    text: European goose smaller than the brant; breeds in the far north
+  hypernym:
+  - 01847773-n
+  ili: i45115
+  members:
+  - gé ghiúrainn
+  partOfSpeech: n
+01864419-n:
+  definition:
+  - confidence: 0.0
+    text: any warm-blooded vertebrate having the skin more or less covered with hair;
+      young are born alive except for the small subclass of monotremes and nourished
+      with milk
+  hypernym:
+  - 01474323-n
+  ili: i45139
+  members:
+  - mamach
+  partOfSpeech: n
+01877075-n:
+  definition:
+  - confidence: 0.0
+    text: mammals of which the females have a pouch (the marsupium) containing the
+      teats where the young are fed and carried
+  hypernym:
+  - 01864419-n
+  ili: i45160
+  members:
+  - marsúipiach
+  partOfSpeech: n
+01885355-n:
+  definition:
+  - confidence: 0.0
+    text: sluggish tailless Australian arboreal marsupial with grey furry ears and
+      coat; feeds on eucalyptus leaves and bark
+  hypernym:
+  - 01877075-n
+  ili: i45209
+  members:
+  - cóála
+  partOfSpeech: n
+01890115-n:
+  definition:
+  - confidence: 0.0
+    text: any animals kept for use or profit
+  hypernym:
+  - 01864419-n
+  ili: i45231
+  members:
+  - beostoc
+  partOfSpeech: n
+01890537-n:
+  definition:
+  - confidence: 0.0
+    text: young of domestic cattle
+  hypernym:
+  - 01324070-n
+  ili: i45234
+  members:
+  - gamhain
+  - lao
+  partOfSpeech: n
+01898376-n:
+  definition:
+  - confidence: 0.0
+    text: body covering of a living animal
+  hypernym:
+  - 00002684-n
+  ili: i45286
+  members:
+  - craiceann
+  partOfSpeech: n
+01906397-n:
+  definition:
+  - confidence: 0.0
+    text: hard outer covering or case of certain organisms such as arthropods and
+      turtles
+  hypernym:
+  - 00002684-n
+  ili: i45339
+  members:
+  - blaosc
+  - carapás
+  partOfSpeech: n
+01908302-n:
+  definition:
+  - confidence: 0.0
+    text: any animal lacking a backbone or notochord; the term is not used as a scientific
+      classification
+  hypernym:
+  - 00015568-n
+  ili: i45352
+  members:
+  - inveirteabrach
+  partOfSpeech: n
+01918452-n:
+  definition:
+  - confidence: 0.0
+    text: marine colonial polyp characterized by a calcareous skeleton; masses in
+      a variety of shapes often forming reefs
+  hypernym:
+  - 01908302-n
+  ili: i45404
+  members:
+  - coiréal
+  partOfSpeech: n
+01924944-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous relatively small elongated soft-bodied animals especially
+      of the phyla Annelida and Chaetognatha and Nematoda and Nemertea and Platyhelminthes;
+      also many insect larvae
+  hypernym:
+  - 01908302-n
+  ili: i45441
+  members:
+  - péist
+  partOfSpeech: n
+01934161-n:
+  definition:
+  - confidence: 0.0
+    text: small threadlike worm infesting human intestines and rectum especially in
+      children
+  hypernym:
+  - 01924944-n
+  ili: i45492
+  members:
+  - snáthphéist
+  partOfSpeech: n
+01943377-n:
+  definition:
+  - confidence: 0.0
+    text: invertebrate having a soft unsegmented body usually enclosed in a shell
+  hypernym:
+  - 01908302-n
+  ili: i45535
+  members:
+  - moileasc
+  - sliogiasc
+  partOfSpeech: n
+01947031-n:
+  definition:
+  - confidence: 0.0
+    text: freshwater or marine or terrestrial gastropod mollusk usually having an
+      external enclosing spiral shell
+  hypernym:
+  - 01943377-n
+  ili: i45553
+  members:
+  - seilide
+  partOfSpeech: n
+01959122-n:
+  definition:
+  - confidence: 0.0
+    text: burrowing marine mollusk living on sand or mud; the shell closes with viselike
+      firmness
+  hypernym:
+  - 01943377-n
+  ili: i45622
+  members:
+  - breallach
+  partOfSpeech: n
+01963100-n:
+  definition:
+  - confidence: 0.0
+    text: marine mollusks having a rough irregular shell; found on the sea bed mostly
+      in coastal waters
+  hypernym:
+  - 01943377-n
+  ili: i45647
+  members:
+  - oisre
+  partOfSpeech: n
+01966212-n:
+  definition:
+  - confidence: 0.0
+    text: marine or freshwater bivalve mollusk that lives attached to rocks etc.
+  hypernym:
+  - 01943377-n
+  ili: i45666
+  members:
+  - diúilicín
+  partOfSpeech: n
+01973921-n:
+  definition:
+  - confidence: 0.0
+    text: widely distributed fast-moving ten-armed cephalopod mollusk having a long
+      tapered body with triangular tail fins
+  hypernym:
+  - 01943377-n
+  ili: i45710
+  members:
+  - scuid
+  partOfSpeech: n
+01977414-n:
+  definition:
+  - confidence: 0.0
+    text: any mainly aquatic arthropod usually having a segmented body and chitinous
+      exoskeleton
+  hypernym:
+  - 01770302-n
+  ili: i45729
+  members:
+  - crústach
+  partOfSpeech: n
+01979598-n:
+  definition:
+  - confidence: 0.0
+    text: decapod having eyes on short stalks and a broad flattened carapace with
+      a small abdomen folded under the thorax and pincers
+  hypernym:
+  - 01977414-n
+  ili: i45737
+  members:
+  - portán
+  partOfSpeech: n
+01985291-n:
+  definition:
+  - confidence: 0.0
+    text: any of several edible marine crustaceans of the families Homaridae and Nephropsidae
+      and Palinuridae
+  hypernym:
+  - 01977414-n
+  ili: i45771
+  members:
+  - gliomach
+  partOfSpeech: n
+01989447-n:
+  definition:
+  - confidence: 0.0
+    text: small slender-bodied chiefly marine decapod crustaceans with a long tail
+      and single pair of pincers; many species are edible
+  hypernym:
+  - 01977414-n
+  ili: i45796
+  members:
+  - séacla
+  partOfSpeech: n
+02018451-n:
+  definition:
+  - confidence: 0.0
+    text: common Eurasian rail that frequents grain fields
+  hypernym:
+  - 01505702-n
+  ili: i45963
+  members:
+  - gearr goirt
+  - traonach
+  partOfSpeech: n
+02018720-n:
+  definition:
+  - confidence: 0.0
+    text: Eurasian rail of swamps and marshes
+  hypernym:
+  - 01505702-n
+  ili: i45965
+  members:
+  - gearr breac
+  partOfSpeech: n
+02019470-n:
+  definition:
+  - confidence: 0.0
+    text: black gallinule that inhabits ponds and lakes
+  hypernym:
+  - 01505702-n
+  ili: i45969
+  members:
+  - cearc uisce
+  partOfSpeech: n
+02026646-n:
+  definition:
+  - confidence: 0.0
+    text: American plover of inland waters and fields having a distinctive cry
+  hypernym:
+  - 01505702-n
+  ili: i46008
+  members:
+  - feadóg ghlórach
+  partOfSpeech: n
+02026839-n:
+  definition:
+  - confidence: 0.0
+    text: rare plover of upland areas of Eurasia
+  hypernym:
+  - 01505702-n
+  ili: i46009
+  members:
+  - amadán móinteach
+  partOfSpeech: n
+02030689-n:
+  definition:
+  - confidence: 0.0
+    text: a common Old World wading bird with long red legs
+  hypernym:
+  - 01505702-n
+  ili: i46030
+  members:
+  - cosdeargán
+  - laidhrín trá
+  partOfSpeech: n
+02031554-n:
+  definition:
+  - confidence: 0.0
+    text: a sandpiper that breeds in the Arctic and winters in the Southern Hemisphere
+  hypernym:
+  - 01505702-n
+  ili: i46036
+  members:
+  - cnota
+  partOfSpeech: n
+02036783-n:
+  definition:
+  - confidence: 0.0
+    text: large wading bird that resembles a curlew; has a long slightly upturned
+      bill
+  hypernym:
+  - 01505702-n
+  ili: i46071
+  members:
+  - guilbneach
+  partOfSpeech: n
+02045987-n:
+  definition:
+  - confidence: 0.0
+    text: common tern of Eurasia and America having white black and grey plumage
+  hypernym:
+  - 01505702-n
+  ili: i46124
+  members:
+  - geabhróg
+  partOfSpeech: n
+02048518-n:
+  definition:
+  - confidence: 0.0
+    text: black-and-white northern Atlantic auk having a compressed sharp-edged bill
+  hypernym:
+  - 01505702-n
+  ili: i46139
+  members:
+  - crosán
+  partOfSpeech: n
+02052967-n:
+  definition:
+  - confidence: 0.0
+    text: large Old World grebe with black ear tufts
+  hypernym:
+  - 01505702-n
+  ili: i46168
+  members:
+  - foitheach mór
+  - lúnadán
+  partOfSpeech: n
+02053463-n:
+  definition:
+  - confidence: 0.0
+    text: small European grebe
+  hypernym:
+  - 01505702-n
+  ili: i46171
+  members:
+  - spágaire tonn
+  partOfSpeech: n
+02056690-n:
+  definition:
+  - confidence: 0.0
+    text: large voracious dark-colored long-necked seabird with a distensible pouch
+      for holding fish; used in Asia to catch fish
+  hypernym:
+  - 01505702-n
+  ili: i46191
+  members:
+  - broigheall
+  partOfSpeech: n
+02058457-n:
+  definition:
+  - confidence: 0.0
+    text: short-legged flightless birds of cold southern especially Antarctic regions
+      having webbed feet and wings modified as flippers
+  hypernym:
+  - 01505702-n
+  ili: i46202
+  members:
+  - piongain
+  partOfSpeech: n
+02062786-n:
+  definition:
+  - confidence: 0.0
+    text: heavy short-tailed oceanic bird of polar regions
+  hypernym:
+  - 01505702-n
+  ili: i46227
+  members:
+  - fulmaire
+  partOfSpeech: n
+02063222-n:
+  definition:
+  - confidence: 0.0
+    text: small black-and-white shearwater common in the northeastern Atlantic
+  hypernym:
+  - 01505702-n
+  ili: i46230
+  members:
+  - cánóg dhubh
+  partOfSpeech: n
+02063870-n:
+  definition:
+  - confidence: 0.0
+    text: sooty black petrel with white markings; of the northern Atlantic and Mediterranean
+  hypernym:
+  - 01505702-n
+  ili: i46234
+  members:
+  - gearr róid
+  - peadairín na stoirme
+  partOfSpeech: n
+02065083-n:
+  definition:
+  - confidence: 0.0
+    text: 'large aquatic carnivorous mammal with fin-like forelimbs no hind limbs,
+      including: whales, dolphins, porpoises, narwhals'
+  hypernym:
+  - 01864419-n
+  ili: i46241
+  members:
+  - céiticeach
+  partOfSpeech: n
+02065397-n:
+  definition:
+  - confidence: 0.0
+    text: any of the larger cetacean mammals having a streamlined body and breathing
+      through a blowhole on the head
+  hypernym:
+  - 02065083-n
+  ili: i46242
+  members:
+  - míol mór
+  partOfSpeech: n
+02069893-n:
+  definition:
+  - confidence: 0.0
+    text: large whale with a large cavity in the head containing spermaceti and oil;
+      also a source of ambergris
+  hypernym:
+  - 02065397-n
+  ili: i46265
+  members:
+  - caisealóid
+  partOfSpeech: n
+02071627-n:
+  definition:
+  - confidence: 0.0
+    text: any of various small toothed whales with a beaklike snout; larger than porpoises
+  hypernym:
+  - 02065397-n
+  ili: i46274
+  members:
+  - deilf
+  partOfSpeech: n
+02073946-n:
+  definition:
+  - confidence: 0.0
+    text: predatory black-and-white toothed whale with large dorsal fin; common in
+      cold seas
+  hypernym:
+  - 02071627-n
+  ili: i46288
+  members:
+  - cráin dhubh
+  partOfSpeech: n
+02075145-n:
+  definition:
+  - confidence: 0.0
+    text: small Arctic whale the male having a long spiral ivory tusk
+  hypernym:
+  - 02065397-n
+  ili: i46295
+  members:
+  - narbhal
+  partOfSpeech: n
+02078264-n:
+  definition:
+  - confidence: 0.0
+    text: an animal that feeds on both animal and vegetable substances
+  hypernym:
+  - 00015568-n
+  ili: i46311
+  members:
+  - omnabhóir
+  - uiliteoir
+  partOfSpeech: n
+02078848-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous marine mammals that come on shore to breed; chiefly of cold
+      regions
+  hypernym:
+  - 01864419-n
+  ili: i46314
+  members:
+  - rón
+  partOfSpeech: n
+02085443-n:
+  definition:
+  - confidence: 0.0
+    text: nocturnal burrowing mammal of the grasslands of Africa that feeds on termites;
+      sole extant representative of the order Tubulidentata
+  hypernym:
+  - 01864419-n
+  ili: i46354
+  members:
+  - arcán talún
+  partOfSpeech: n
+02086723-n:
+  definition:
+  - confidence: 0.0
+    text: a member of the genus Canis (probably descended from the common wolf) that
+      has been domesticated by man since prehistoric times; occurs in many breeds
+  hypernym:
+  - 01864419-n
+  ili: i46360
+  members:
+  - gadhar
+  - madra
+  partOfSpeech: n
+02088272-n:
+  definition:
+  - confidence: 0.0
+    text: an old breed of tiny short-haired dog with protruding eyes from Mexico held
+      to antedate Aztec civilization
+  hypernym:
+  - 02086723-n
+  ili: i46367
+  members:
+  - sí-abhabha
+  partOfSpeech: n
+02088588-n:
+  definition:
+  - confidence: 0.0
+    text: breed of toy dogs having a long straight silky white coat
+  hypernym:
+  - 02086723-n
+  ili: i46369
+  members:
+  - measán Máltach
+  partOfSpeech: n
+02090890-n:
+  definition:
+  - confidence: 0.0
+    text: smooth-haired breed of hound with short legs and long ears
+  hypernym:
+  - 02086723-n
+  ili: i46383
+  members:
+  - baiséadach
+  partOfSpeech: n
+02093786-n:
+  definition:
+  - confidence: 0.0
+    text: small slender dog of greyhound type developed in England
+  hypernym:
+  - 02086723-n
+  ili: i46405
+  members:
+  - fuipéad
+  partOfSpeech: n
+02095120-n:
+  definition:
+  - confidence: 0.0
+    text: any of several usually small short-bodied breeds originally trained to hunt
+      animals living underground
+  hypernym:
+  - 02086723-n
+  ili: i46413
+  members:
+  - brocaire
+  partOfSpeech: n
+02102253-n:
+  definition:
+  - confidence: 0.0
+    text: an English breed having a long silky golden coat
+  hypernym:
+  - 02086723-n
+  ili: i46457
+  members:
+  - aimseadóir buí
+  partOfSpeech: n
+02109314-n:
+  definition:
+  - confidence: 0.0
+    text: breed of large shepherd dogs used in police work and as a guide for the
+      blind
+  hypernym:
+  - 02086723-n
+  ili: i46499
+  members:
+  - alsáiseach
+  partOfSpeech: n
+02110741-n:
+  definition:
+  - confidence: 0.0
+    text: a breed of stocky medium-sized short-haired dog with a brindled coat and
+      square-jawed muzzle developed in Germany
+  hypernym:
+  - 02086723-n
+  ili: i46509
+  members:
+  - bocsaeir
+  partOfSpeech: n
+02111699-n:
+  definition:
+  - confidence: 0.0
+    text: very large powerful smooth-coated breed of dog
+  hypernym:
+  - 02086723-n
+  ili: i46515
+  members:
+  - danar mór
+  partOfSpeech: n
+02112993-n:
+  definition:
+  - confidence: 0.0
+    text: a large breed having a smooth white coat with black or brown spots; originated
+      in Dalmatia
+  hypernym:
+  - 02086723-n
+  ili: i46525
+  members:
+  - dalmátach
+  partOfSpeech: n
+02114670-n:
+  definition:
+  - confidence: 0.0
+    text: breed of very small compact long-haired dogs of the spitz type
+  hypernym:
+  - 02086723-n
+  ili: i46535
+  members:
+  - madra Pomaránach
+  partOfSpeech: n
+02117507-n:
+  definition:
+  - confidence: 0.0
+    text: small wolf native to western North America
+  hypernym:
+  - 01864419-n
+  ili: i46553
+  members:
+  - cadhóit
+  partOfSpeech: n
+02124272-n:
+  definition:
+  - confidence: 0.0
+    text: feline mammal usually having thick soft fur and no ability to roar
+  hypernym:
+  - 01864419-n
+  ili: i46593
+  members:
+  - cat
+  partOfSpeech: n
+02125600-n:
+  definition:
+  - confidence: 0.0
+    text: young domestic cat
+  hypernym:
+  - 01324070-n
+  ili: i46602
+  members:
+  - piscín
+  partOfSpeech: n
+02127963-n:
+  definition:
+  - confidence: 0.0
+    text: large American feline resembling a lion
+  hypernym:
+  - 01864419-n
+  ili: i46618
+  members:
+  - cúgar
+  partOfSpeech: n
+02128146-n:
+  definition:
+  - confidence: 0.0
+    text: nocturnal wildcat of Central America and South America having a dark-spotted
+      buff-brown coat
+  hypernym:
+  - 01864419-n
+  ili: i46619
+  members:
+  - osalat
+  partOfSpeech: n
+02130134-n:
+  definition:
+  - confidence: 0.0
+    text: small lynx of North America
+  hypernym:
+  - 01864419-n
+  ili: i46632
+  members:
+  - bobchat
+  partOfSpeech: n
+02131037-n:
+  definition:
+  - confidence: 0.0
+    text: large feline of African and Asian forests usually having a tawny coat with
+      black spots
+  hypernym:
+  - 01864419-n
+  ili: i46637
+  members:
+  - liopard
+  partOfSpeech: n
+02131409-n:
+  definition:
+  - confidence: 0.0
+    text: large feline of upland central Asia having long thick whitish fur
+  hypernym:
+  - 01864419-n
+  ili: i46640
+  members:
+  - liopard sneachta
+  partOfSpeech: n
+02131577-n:
+  definition:
+  - confidence: 0.0
+    text: a large spotted feline of tropical America similar to the leopard; in some
+      classifications considered a member of the genus Felis
+  hypernym:
+  - 01864419-n
+  ili: i46641
+  members:
+  - iaguar
+  partOfSpeech: n
+02131817-n:
+  definition:
+  - confidence: 0.0
+    text: large gregarious predatory feline of Africa and India having a tawny coat
+      with a shaggy mane in the male
+  hypernym:
+  - 01864419-n
+  ili: i46642
+  members:
+  - leon
+  partOfSpeech: n
+02132256-n:
+  definition:
+  - confidence: 0.0
+    text: large feline of forests in most of Asia having a tawny coat with black stripes;
+      endangered
+  hypernym:
+  - 01864419-n
+  ili: i46645
+  members:
+  - tíogar
+  partOfSpeech: n
+02132960-n:
+  definition:
+  - confidence: 0.0
+    text: long-legged spotted cat of Africa and southwestern Asia having nonretractile
+      claws; the swiftest mammal; can be trained to run down game
+  hypernym:
+  - 01864419-n
+  ili: i46651
+  members:
+  - síota
+  partOfSpeech: n
+02134305-n:
+  definition:
+  - confidence: 0.0
+    text: massive plantigrade carnivorous or omnivorous mammals with long shaggy coats
+      and strong claws
+  hypernym:
+  - 01864419-n
+  ili: i46658
+  members:
+  - béar
+  partOfSpeech: n
+02135232-n:
+  definition:
+  - confidence: 0.0
+    text: powerful brownish-yellow bear of the uplands of western North America
+  hypernym:
+  - 02134305-n
+  ili: i46663
+  members:
+  - béar liath
+  partOfSpeech: n
+02136736-n:
+  definition:
+  - confidence: 0.0
+    text: white bear of Arctic regions
+  hypernym:
+  - 02134305-n
+  ili: i46671
+  members:
+  - béar bán
+  partOfSpeech: n
+02141851-n:
+  definition:
+  - confidence: 0.0
+    text: nocturnal mouselike mammal with forelimbs modified to form membranous wings
+      and anatomical adaptations for echolocation by which they navigate
+  hypernym:
+  - 01864419-n
+  ili: i46702
+  members:
+  - bás dorcha
+  - sciathán leathair
+  partOfSpeech: n
+02153134-n:
+  definition:
+  - confidence: 0.0
+    text: any of various tropical American bats of the family Desmodontidae that bite
+      mammals and birds to feed on their blood
+  hypernym:
+  - 02141851-n
+  ili: i46768
+  members:
+  - vaimpír
+  partOfSpeech: n
+02154277-n:
+  definition:
+  - confidence: 0.0
+    text: a movable organ for flying (one of a pair)
+  hypernym:
+  - 05305022-n
+  ili: i46774
+  members:
+  - sciathán
+  partOfSpeech: n
+02155392-n:
+  definition:
+  - confidence: 0.0
+    text: any animal that lives by preying on other animals
+  hypernym:
+  - 00015568-n
+  ili: i46780
+  members:
+  - creachadóir
+  partOfSpeech: n
+02155643-n:
+  definition:
+  - confidence: 0.0
+    text: animal hunted for food or sport
+  hypernym:
+  - 00015568-n
+  ili: i46782
+  members:
+  - géim
+  partOfSpeech: n
+02160209-n:
+  definition:
+  - confidence: 0.0
+    text: the posterior part of the body of a vertebrate especially when elongated
+      and extending beyond the trunk or main part of the body
+  hypernym:
+  - 09408804-n
+  ili: i46811
+  members:
+  - eireaball
+  partOfSpeech: n
+02162607-n:
+  definition:
+  - confidence: 0.0
+    text: small air-breathing arthropod
+  hypernym:
+  - 01770302-n
+  ili: i46823
+  members:
+  - feithid
+  partOfSpeech: n
+02165949-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous minute wingless primitive insects possessing a special abdominal
+      appendage that allows the characteristic nearly perpetual springing pattern;
+      found in soil rich in organic debris or on the surface of snow or water
+  hypernym:
+  - 02162607-n
+  ili: i46838
+  members:
+  - preabaire
+  partOfSpeech: n
+02177311-n:
+  definition:
+  - confidence: 0.0
+    text: any of various large European beetles destructive to vegetation as both
+      larvae and adult
+  hypernym:
+  - 02162607-n
+  ili: i46901
+  members:
+  - cearnamhán
+  partOfSpeech: n
+02180427-n:
+  definition:
+  - confidence: 0.0
+    text: bores through wood making a ticking sound popularly thought to presage death
+  hypernym:
+  - 02162607-n
+  ili: i46920
+  members:
+  - ciaróg oíche
+  partOfSpeech: n
+02181369-n:
+  definition:
+  - confidence: 0.0
+    text: greyish weevil that lays its eggs in cotton bolls destroying the cotton
+  hypernym:
+  - 02162607-n
+  ili: i46925
+  members:
+  - cruimh chadáis
+  partOfSpeech: n
+02186509-n:
+  definition:
+  - confidence: 0.0
+    text: wingless usually flattened bloodsucking insect parasitic on warm-blooded
+      animals
+  hypernym:
+  - 02162607-n
+  ili: i46955
+  members:
+  - míol
+  partOfSpeech: n
+02187819-n:
+  definition:
+  - confidence: 0.0
+    text: a louse that infests the pubic region of the human body
+  hypernym:
+  - 02186509-n
+  ili: i46963
+  members:
+  - míol crúbach
+  partOfSpeech: n
+02193442-n:
+  definition:
+  - confidence: 0.0
+    text: common fly that frequents human habitations and spreads many diseases
+  hypernym:
+  - 02162607-n
+  ili: i46992
+  members:
+  - cuil tí
+  partOfSpeech: n
+02229622-n:
+  definition:
+  - confidence: 0.0
+    text: migratory grasshoppers of warm regions having short antennae
+  hypernym:
+  - 02162607-n
+  ili: i47205
+  members:
+  - lócaiste
+  partOfSpeech: n
+02243169-n:
+  definition:
+  - confidence: 0.0
+    text: bug of temperate regions that infests especially beds and feeds on human
+      blood
+  hypernym:
+  - 02162607-n
+  ili: i47284
+  members:
+  - míol leapa
+  partOfSpeech: n
+02273275-n:
+  definition:
+  - confidence: 0.0
+    text: silver-grey wingless insect found in houses feeding on book bindings and
+      starched clothing
+  hypernym:
+  - 02162607-n
+  ili: i47465
+  members:
+  - gilín
+  partOfSpeech: n
+02276911-n:
+  definition:
+  - confidence: 0.0
+    text: diurnal insect typically having a slender body with knobbed antennae and
+      broad colorful wings
+  hypernym:
+  - 02162607-n
+  ili: i47485
+  members:
+  - féileacán
+  partOfSpeech: n
+02281909-n:
+  definition:
+  - confidence: 0.0
+    text: European butterfly having reddish-brown wings each marked with a purple
+      eyespot
+  hypernym:
+  - 02276911-n
+  ili: i47513
+  members:
+  - péacóg
+  partOfSpeech: n
+02282624-n:
+  definition:
+  - confidence: 0.0
+    text: large migratory American butterfly having deep orange wings with black and
+      white markings; the larvae feed on milkweed
+  hypernym:
+  - 02276911-n
+  ili: i47517
+  members:
+  - bleachtfhéileacán
+  partOfSpeech: n
+02303449-n:
+  definition:
+  - confidence: 0.0
+    text: the commercially bred hairless white caterpillar of the domestic silkworm
+      moth which spins a cocoon that can be processed to yield silk fiber; the principal
+      source of commercial silk
+  hypernym:
+  - 02313712-n
+  ili: i47636
+  members:
+  - seiriceán
+  partOfSpeech: n
+02304587-n:
+  definition:
+  - confidence: 0.0
+    text: large moth of temperate forests of Eurasia having heavily scaled transparent
+      wings
+  hypernym:
+  - 02162607-n
+  ili: i47640
+  members:
+  - impire
+  partOfSpeech: n
+02313712-n:
+  definition:
+  - confidence: 0.0
+    text: the immature free-living form of most invertebrates and amphibians and fish
+      which at hatching from the egg is fundamentally unlike its parent and must metamorphose
+  hypernym:
+  - 00015568-n
+  ili: i47693
+  members:
+  - larbha
+  partOfSpeech: n
+02315396-n:
+  definition:
+  - confidence: 0.0
+    text: silky envelope spun by the larvae of many insects to protect pupas and by
+      spiders to protect eggs
+  hypernym:
+  - 00002684-n
+  ili: i47702
+  members:
+  - cocún
+  partOfSpeech: n
+02325276-n:
+  definition:
+  - confidence: 0.0
+    text: eggs of female fish
+  hypernym:
+  - 01463098-n
+  ili: i47758
+  members:
+  - eochraí
+  partOfSpeech: n
+02326697-n:
+  definition:
+  - confidence: 0.0
+    text: any of various burrowing animals of the family Leporidae having long ears
+      and short tails; some domesticated and raised for pets or food
+  hypernym:
+  - 01864419-n
+  ili: i47766
+  members:
+  - coinín
+  partOfSpeech: n
+02332053-n:
+  definition:
+  - confidence: 0.0
+    text: relatively small placental mammals having a single pair of constantly growing
+      incisor teeth specialized for gnawing
+  hypernym:
+  - 01864419-n
+  ili: i47794
+  members:
+  - creimire
+  partOfSpeech: n
+02332897-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous small rodents typically resembling diminutive rats having
+      pointed snouts and small ears on elongated bodies with slender usually hairless
+      tails
+  hypernym:
+  - 02332053-n
+  ili: i47795
+  members:
+  - luch
+  partOfSpeech: n
+02333698-n:
+  definition:
+  - confidence: 0.0
+    text: any of various long-tailed rodents similar to but larger than a mouse
+  hypernym:
+  - 02332053-n
+  ili: i47798
+  members:
+  - francach
+  partOfSpeech: n
+02340797-n:
+  definition:
+  - confidence: 0.0
+    text: beaver-like aquatic rodent of North America with dark glossy brown fur
+  hypernym:
+  - 02332053-n
+  ili: i47840
+  members:
+  - muscfhrancach
+  partOfSpeech: n
+02347180-n:
+  definition:
+  - confidence: 0.0
+    text: any of various short-tailed furry-footed rodents of circumpolar distribution
+  hypernym:
+  - 02332053-n
+  ili: i47878
+  members:
+  - leimín
+  partOfSpeech: n
+02364239-n:
+  definition:
+  - confidence: 0.0
+    text: reddish brown North American marmot
+  hypernym:
+  - 02332053-n
+  ili: i47977
+  members:
+  - úitseach
+  partOfSpeech: n
+02369611-n:
+  definition:
+  - confidence: 0.0
+    text: aquatic South American rodent resembling a small beaver; bred for its fur
+  hypernym:
+  - 02332053-n
+  ili: i48012
+  members:
+  - cadhpú
+  partOfSpeech: n
+02373012-n:
+  definition:
+  - confidence: 0.0
+    text: mammary gland of bovids (cows and sheep and goats)
+  hypernym:
+  - 05305022-n
+  ili: i48034
+  members:
+  - úth
+  partOfSpeech: n
+02373458-n:
+  definition:
+  - confidence: 0.0
+    text: any of a number of mammals with hooves that are superficially similar but
+      not necessarily closely related taxonomically
+  hypernym:
+  - 01864419-n
+  ili: i48036
+  members:
+  - crúbach
+  partOfSpeech: n
+02377103-n:
+  definition:
+  - confidence: 0.0
+    text: solid-hoofed herbivorous quadruped domesticated since prehistoric times
+  hypernym:
+  - 02373458-n
+  ili: i48054
+  members:
+  - capall
+  partOfSpeech: n
+02379833-n:
+  definition:
+  - confidence: 0.0
+    text: uncastrated adult male horse
+  hypernym:
+  - 02377103-n
+  ili: i48069
+  members:
+  - stail
+  partOfSpeech: n
+02379943-n:
+  definition:
+  - confidence: 0.0
+    text: adult male horse kept for breeding
+  hypernym:
+  - 02379833-n
+  ili: i48070
+  members:
+  - graí
+  partOfSpeech: n
+02392211-n:
+  definition:
+  - confidence: 0.0
+    text: domestic beast of burden descended from the African wild ass; patient but
+      stubborn
+  hypernym:
+  - 02373458-n
+  ili: i48163
+  members:
+  - asal
+  partOfSpeech: n
+02392753-n:
+  definition:
+  - confidence: 0.0
+    text: hybrid offspring of a male donkey and a female horse; usually sterile
+  hypernym:
+  - 02373458-n
+  ili: i48168
+  members:
+  - miúil
+  partOfSpeech: n
+02392910-n:
+  definition:
+  - confidence: 0.0
+    text: hybrid offspring of a male horse and a female donkey or ass; usually sterile
+  hypernym:
+  - 02373458-n
+  ili: i48169
+  members:
+  - ráineach
+  partOfSpeech: n
+02397655-n:
+  definition:
+  - confidence: 0.0
+    text: stout-bodied short-legged omnivorous animals
+  hypernym:
+  - 02373458-n
+  ili: i48197
+  members:
+  - muc
+  partOfSpeech: n
+02398058-n:
+  definition:
+  - confidence: 0.0
+    text: domestic swine
+  hypernym:
+  - 02397655-n
+  ili: i48199
+  members:
+  - muc
+  partOfSpeech: n
+02398346-n:
+  definition:
+  - confidence: 0.0
+    text: a young pig
+  hypernym:
+  - 01324070-n
+  ili: i48200
+  members:
+  - banbh
+  partOfSpeech: n
+02398740-n:
+  definition:
+  - confidence: 0.0
+    text: an adult female hog
+  hypernym:
+  - 02397655-n
+  ili: i48204
+  members:
+  - cráin
+  partOfSpeech: n
+02399079-n:
+  definition:
+  - confidence: 0.0
+    text: Old World wild swine having a narrow body and prominent tusks from which
+      most domestic swine come; introduced in United States
+  hypernym:
+  - 02397655-n
+  ili: i48206
+  members:
+  - torc allta
+  partOfSpeech: n
+02401173-n:
+  definition:
+  - confidence: 0.0
+    text: massive thick-skinned herbivorous animal living in or around rivers of tropical
+      Africa
+  hypernym:
+  - 02373458-n
+  ili: i48219
+  members:
+  - dobhareach
+  partOfSpeech: n
+02401652-n:
+  definition:
+  - confidence: 0.0
+    text: any of various cud-chewing hoofed mammals having a stomach divided into
+      four (occasionally three) compartments
+  hypernym:
+  - 02373458-n
+  ili: i48221
+  members:
+  - athchogantach
+  partOfSpeech: n
+02405077-n:
+  definition:
+  - confidence: 0.0
+    text: domesticated bovine animals as a group regardless of sex or age
+  hypernym:
+  - 02401652-n
+  ili: i48233
+  members:
+  - eallach
+  partOfSpeech: n
+02405977-n:
+  definition:
+  - confidence: 0.0
+    text: uncastrated adult male of domestic cattle
+  hypernym:
+  - 02405077-n
+  ili: i48237
+  members:
+  - tarbh
+  partOfSpeech: n
+02406106-n:
+  definition:
+  - confidence: 0.0
+    text: 'female of domestic cattle:'
+  hypernym:
+  - 02405077-n
+  ili: i48238
+  members:
+  - bó
+  partOfSpeech: n
+02407954-n:
+  definition:
+  - confidence: 0.0
+    text: large long-haired wild ox of Tibet often domesticated
+  hypernym:
+  - 02401652-n
+  ili: i48249
+  members:
+  - geac
+  partOfSpeech: n
+02411075-n:
+  definition:
+  - confidence: 0.0
+    text: an Asian buffalo that is often domesticated for use as a draft animal
+  hypernym:
+  - 02401652-n
+  ili: i48272
+  members:
+  - buabhall uisce
+  partOfSpeech: n
+02413348-n:
+  definition:
+  - confidence: 0.0
+    text: large shaggy-haired brown bison of North American plains
+  hypernym:
+  - 02401652-n
+  ili: i48286
+  members:
+  - buabhall
+  partOfSpeech: n
+02414351-n:
+  definition:
+  - confidence: 0.0
+    text: woolly usually horned ruminant mammal related to the goat
+  hypernym:
+  - 02401652-n
+  ili: i48291
+  members:
+  - caora
+  partOfSpeech: n
+02415086-n:
+  definition:
+  - confidence: 0.0
+    text: young sheep
+  hypernym:
+  - 01324070-n
+  ili: i48296
+  members:
+  - uan
+  partOfSpeech: n
+02419165-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous agile ruminants related to sheep but having a beard and
+      straight horns
+  hypernym:
+  - 02401652-n
+  ili: i48325
+  members:
+  - gabhar
+  partOfSpeech: n
+02422442-n:
+  definition:
+  - confidence: 0.0
+    text: graceful Old World ruminant with long legs and horns directed upward and
+      backward; includes gazelles, springboks, impalas, addax, gerenuks, blackbucks,
+      dik-diks
+  hypernym:
+  - 02401652-n
+  ili: i48347
+  members:
+  - antalóp
+  partOfSpeech: n
+02425345-n:
+  definition:
+  - confidence: 0.0
+    text: African antelope with ridged curved horns; moves with enormous leaps
+  hypernym:
+  - 02422442-n
+  ili: i48363
+  members:
+  - iompála
+  partOfSpeech: n
+02432691-n:
+  definition:
+  - confidence: 0.0
+    text: distinguished from Bovidae by the male's having solid deciduous antlers
+  hypernym:
+  - 02401652-n
+  ili: i48406
+  members:
+  - fia
+  partOfSpeech: n
+02433768-n:
+  definition:
+  - confidence: 0.0
+    text: common deer of temperate Europe and Asia
+  hypernym:
+  - 02432691-n
+  ili: i48412
+  members:
+  - fia rua
+  partOfSpeech: n
+02435629-n:
+  definition:
+  - confidence: 0.0
+    text: large northern deer with enormous flattened antlers in the male; called
+      'elk' in Europe and 'moose' in North America
+  hypernym:
+  - 02432691-n
+  ili: i48424
+  members:
+  - mús
+  partOfSpeech: n
+02436556-n:
+  definition:
+  - confidence: 0.0
+    text: Arctic deer with large antlers in both sexes; called 'reindeer' in Eurasia
+      and 'caribou' in North America
+  hypernym:
+  - 02432691-n
+  ili: i48431
+  members:
+  - réinfhia
+  partOfSpeech: n
+02439767-n:
+  definition:
+  - confidence: 0.0
+    text: cud-chewing mammal used as a draft or saddle animal in desert regions
+  hypernym:
+  - 02373458-n
+  ili: i48451
+  members:
+  - camall
+  partOfSpeech: n
+02439943-n:
+  definition:
+  - confidence: 0.0
+    text: one-humped camel of the hot deserts of northern Africa and southwestern
+      Asia
+  hypernym:
+  - 02439767-n
+  ili: i48452
+  members:
+  - dromadaire
+  partOfSpeech: n
+02441211-n:
+  definition:
+  - confidence: 0.0
+    text: small wild cud-chewing Andean animal similar to the guanaco but smaller;
+      valued for its fleecy undercoat
+  hypernym:
+  - 02373458-n
+  ili: i48460
+  members:
+  - viciúna
+  partOfSpeech: n
+02441664-n:
+  definition:
+  - confidence: 0.0
+    text: tallest living quadruped; having a spotted coat and small horns and very
+      long neck and legs; of savannahs of tropical Africa
+  hypernym:
+  - 02401652-n
+  ili: i48463
+  members:
+  - sioráf
+  partOfSpeech: n
+02442560-n:
+  definition:
+  - confidence: 0.0
+    text: a clawed foot of an animal especially a quadruped
+  hypernym:
+  - 09408804-n
+  ili: i48469
+  members:
+  - lapa
+  partOfSpeech: n
+02444803-n:
+  definition:
+  - confidence: 0.0
+    text: mustelid of Northern Hemisphere in its white winter coat
+  hypernym:
+  - 01864419-n
+  ili: i48477
+  members:
+  - eirmín
+  partOfSpeech: n
+02445745-n:
+  definition:
+  - confidence: 0.0
+    text: dark brown mustelid of woodlands of Eurasia that gives off an unpleasant
+      odor when threatened
+  hypernym:
+  - 01864419-n
+  ili: i48484
+  members:
+  - cat coille
+  partOfSpeech: n
+02445977-n:
+  definition:
+  - confidence: 0.0
+    text: domesticated albino variety of the European polecat bred for hunting rats
+      and rabbits
+  hypernym:
+  - 02445745-n
+  ili: i48485
+  members:
+  - firéad
+  partOfSpeech: n
+02451981-n:
+  definition:
+  - confidence: 0.0
+    text: musteline mammal of northern Eurasia
+  hypernym:
+  - 01864419-n
+  ili: i48523
+  members:
+  - glutan
+  partOfSpeech: n
+02452926-n:
+  definition:
+  - confidence: 0.0
+    text: dark brown marten of northern Eurasian coniferous forests
+  hypernym:
+  - 01864419-n
+  ili: i48529
+  members:
+  - cat crainn
+  partOfSpeech: n
+02453057-n:
+  definition:
+  - confidence: 0.0
+    text: marten of northern Asian forests having luxuriant dark brown fur
+  hypernym:
+  - 01864419-n
+  ili: i48530
+  members:
+  - sáible
+  partOfSpeech: n
+02472103-n:
+  definition:
+  - confidence: 0.0
+    text: a larval frog or toad
+  hypernym:
+  - 02313712-n
+  ili: i48644
+  members:
+  - torbán
+  partOfSpeech: n
+02474924-n:
+  definition:
+  - confidence: 0.0
+    text: any living or extinct member of the family Hominidae characterized by superior
+      intelligence, articulate speech, and erect carriage
+  hypernym:
+  - 01864419-n
+  ili: i48657
+  members:
+  - duine
+  partOfSpeech: n
+02477709-n:
+  definition:
+  - confidence: 0.0
+    text: extinct robust human of Middle Paleolithic in Europe and western Asia
+  hypernym:
+  - 02474924-n
+  ili: i48669
+  members:
+  - Néandartálach
+  partOfSpeech: n
+02483126-n:
+  definition:
+  - confidence: 0.0
+    text: large long-armed ape of Borneo and Sumatra having arboreal habits
+  hypernym:
+  - 01864419-n
+  ili: i48700
+  members:
+  - órang-útan
+  partOfSpeech: n
+02484454-n:
+  definition:
+  - confidence: 0.0
+    text: intelligent somewhat arboreal ape of equatorial African forests
+  hypernym:
+  - 01864419-n
+  ili: i48708
+  members:
+  - simpeansaí
+  partOfSpeech: n
+02488002-n:
+  definition:
+  - confidence: 0.0
+    text: white and olive green East African monkey with long white tufts of hair
+      beside the face
+  hypernym:
+  - 01864419-n
+  ili: i48725
+  members:
+  - gribhéad
+  partOfSpeech: n
+02489710-n:
+  definition:
+  - confidence: 0.0
+    text: similar to the mandrill but smaller and less brightly colored
+  hypernym:
+  - 01864419-n
+  ili: i48737
+  members:
+  - drill
+  partOfSpeech: n
+02506148-n:
+  definition:
+  - confidence: 0.0
+    text: five-toed pachyderm
+  hypernym:
+  - 01864419-n
+  ili: i48832
+  members:
+  - eilifint
+  partOfSpeech: n
+02511828-n:
+  definition:
+  - confidence: 0.0
+    text: arboreal fruit-eating mammal of tropical America with a long prehensile
+      tail
+  hypernym:
+  - 01864419-n
+  ili: i48864
+  members:
+  - cinceasú
+  partOfSpeech: n
+02513400-n:
+  definition:
+  - confidence: 0.0
+    text: respiratory organ of aquatic animals that breathe oxygen dissolved in water
+  hypernym:
+  - 05305022-n
+  ili: i48872
+  members:
+  - geolbhach
+  partOfSpeech: n
+02514684-n:
+  definition:
+  - confidence: 0.0
+    text: any of various mostly cold-blooded aquatic vertebrates usually having scales
+      and breathing through gills
+  hypernym:
+  - 01474323-n
+  ili: i48880
+  members:
+  - iasc
+  partOfSpeech: n
+02525030-n:
+  definition:
+  - confidence: 0.0
+    text: major food fish of Arctic and cold-temperate waters
+  hypernym:
+  - 02514684-n
+  ili: i48936
+  members:
+  - trosc
+  partOfSpeech: n
+02525353-n:
+  definition:
+  - confidence: 0.0
+    text: one of the world's most important commercial fishes
+  hypernym:
+  - 02525030-n
+  ili: i48938
+  members:
+  - Gadus morhua
+  partOfSpeech: n
+02525497-n:
+  definition:
+  - confidence: 0.0
+    text: closely related to Atlantic cod
+  hypernym:
+  - 02525030-n
+  ili: i48939
+  members:
+  - Gadus macrocephalus
+  partOfSpeech: n
+02525741-n:
+  definition:
+  - confidence: 0.0
+    text: a food fish of the Atlantic waters of Europe resembling the cod; sometimes
+      placed in genus Gadus
+  hypernym:
+  - 02514684-n
+  ili: i48941
+  members:
+  - faoitín
+  partOfSpeech: n
+02526058-n:
+  definition:
+  - confidence: 0.0
+    text: elongate freshwater cod of northern Europe and Asia and North America having
+      barbels around its mouth
+  hypernym:
+  - 02525030-n
+  ili: i48943
+  members:
+  - lota
+  partOfSpeech: n
+02526508-n:
+  definition:
+  - confidence: 0.0
+    text: important food fish on both sides of the Atlantic; related to cod but usually
+      smaller
+  hypernym:
+  - 02514684-n
+  ili: i48946
+  members:
+  - cadóg
+  partOfSpeech: n
+02526833-n:
+  definition:
+  - confidence: 0.0
+    text: important food and game fish of northern seas (especially the northern Atlantic);
+      related to cod
+  hypernym:
+  - 02514684-n
+  ili: i48948
+  members:
+  - mangach
+  partOfSpeech: n
+02527155-n:
+  definition:
+  - confidence: 0.0
+    text: any of several marine food fishes related to cod
+  hypernym:
+  - 02514684-n
+  ili: i48950
+  members:
+  - colmóir
+  partOfSpeech: n
+02527751-n:
+  definition:
+  - confidence: 0.0
+    text: elongated marine food fish of Greenland and northern Europe; often salted
+      and dried
+  hypernym:
+  - 02514684-n
+  ili: i48955
+  members:
+  - langa
+  partOfSpeech: n
+02528334-n:
+  definition:
+  - confidence: 0.0
+    text: deep-sea fish with a large head and body and long tapering tail
+  hypernym:
+  - 02514684-n
+  ili: i48959
+  members:
+  - gránádóir
+  partOfSpeech: n
+02528752-n:
+  definition:
+  - confidence: 0.0
+    text: voracious snakelike marine or freshwater fishes with smooth slimy usually
+      scaleless skin and having a continuous vertical fin but no ventral fins
+  hypernym:
+  - 02514684-n
+  ili: i48961
+  members:
+  - eascann
+  partOfSpeech: n
+02534659-n:
+  definition:
+  - confidence: 0.0
+    text: commercially important food fish of northern waters of both Atlantic and
+      Pacific
+  hypernym:
+  - 02514684-n
+  ili: i48991
+  members:
+  - scadán
+  partOfSpeech: n
+02535233-n:
+  definition:
+  - confidence: 0.0
+    text: any of various small edible herring or related food fishes frequently canned
+  hypernym:
+  - 02514684-n
+  ili: i48994
+  members:
+  - sairdín
+  partOfSpeech: n
+02535840-n:
+  definition:
+  - confidence: 0.0
+    text: small fishes found in great schools along coasts of Europe; smaller and
+      rounder than herring
+  hypernym:
+  - 02514684-n
+  ili: i48998
+  members:
+  - pilséar
+  partOfSpeech: n
+02536465-n:
+  definition:
+  - confidence: 0.0
+    text: small herring-like plankton-eating fishes often canned whole or as paste;
+      abundant in tropical waters worldwide
+  hypernym:
+  - 02514684-n
+  ili: i49002
+  members:
+  - ainseabhaí
+  partOfSpeech: n
+02537365-n:
+  definition:
+  - confidence: 0.0
+    text: any of various large food and game fishes of northern waters; usually migrate
+      from salt to fresh water to spawn
+  hypernym:
+  - 02514684-n
+  ili: i49007
+  members:
+  - bradán
+  partOfSpeech: n
+02539716-n:
+  definition:
+  - confidence: 0.0
+    text: any of various game and food fishes of cool fresh waters mostly smaller
+      than typical salmons
+  hypernym:
+  - 02514684-n
+  ili: i49019
+  members:
+  - breac
+  partOfSpeech: n
+02545589-n:
+  definition:
+  - confidence: 0.0
+    text: any of various small silver-scaled salmon-like marine fishes
+  hypernym:
+  - 02514684-n
+  ili: i49053
+  members:
+  - airgintín
+  partOfSpeech: n
+02550878-n:
+  definition:
+  - confidence: 0.0
+    text: fishes having large mouths with a wormlike filament attached for luring
+      prey
+  hypernym:
+  - 02514684-n
+  ili: i49084
+  members:
+  - láimhíneach
+  partOfSpeech: n
+02563739-n:
+  definition:
+  - confidence: 0.0
+    text: any of several elongate long-snouted freshwater game and food fishes widely
+      distributed in cooler parts of the Northern Hemisphere
+  hypernym:
+  - 02514684-n
+  ili: i49144
+  members:
+  - liús
+  partOfSpeech: n
+02568204-n:
+  definition:
+  - confidence: 0.0
+    text: nontechnical name for any of numerous edible marine and freshwater spiny-finned
+      fishes
+  hypernym:
+  - 02514684-n
+  ili: i49169
+  members:
+  - doingean
+  partOfSpeech: n
+02571078-n:
+  definition:
+  - confidence: 0.0
+    text: brown fish of the Atlantic and Mediterranean found around rocks and shipwrecks
+  hypernym:
+  - 02514684-n
+  ili: i49184
+  members:
+  - breac raice
+  partOfSpeech: n
+02583461-n:
+  definition:
+  - confidence: 0.0
+    text: large elongated compressed food fish of the Atlantic waters of Europe
+  hypernym:
+  - 02514684-n
+  ili: i49258
+  members:
+  - bolmán
+  partOfSpeech: n
+02584588-n:
+  definition:
+  - confidence: 0.0
+    text: large slender food and game fish widely distributed in warm seas (especially
+      around Hawaii)
+  hypernym:
+  - 02514684-n
+  ili: i49265
+  members:
+  - dorád
+  partOfSpeech: n
+02602928-n:
+  definition:
+  - confidence: 0.0
+    text: brightly colored tropical fishes with chin barbels
+  hypernym:
+  - 02514684-n
+  ili: i49370
+  members:
+  - milléad dearg
+  partOfSpeech: n
+02603974-n:
+  definition:
+  - confidence: 0.0
+    text: freshwater or coastal food fishes a spindle-shaped body; found worldwide
+  hypernym:
+  - 02514684-n
+  ili: i49376
+  members:
+  - milléad
+  partOfSpeech: n
+02626797-n:
+  definition:
+  - confidence: 0.0
+    text: any of various fishes of the family Scombridae
+  hypernym:
+  - 02514684-n
+  ili: i49513
+  members:
+  - maicréal
+  - ronnach
+  partOfSpeech: n
+02627617-n:
+  definition:
+  - confidence: 0.0
+    text: small mackerel found nearly worldwide
+  hypernym:
+  - 02626797-n
+  ili: i49517
+  members:
+  - Scomber japonicus
+  partOfSpeech: n
+02629392-n:
+  definition:
+  - confidence: 0.0
+    text: any very large marine food and game fish of the genus Thunnus; related to
+      mackerel; chiefly of warm waters
+  hypernym:
+  - 02514684-n
+  ili: i49527
+  members:
+  - tuinnín
+  partOfSpeech: n
+02632346-n:
+  definition:
+  - confidence: 0.0
+    text: 'large toothless marine food fish with a long swordlike upper jaw; not completely
+      cold-blooded i.e. they are able to warm their brains and eyes: worldwide in
+      warm waters but feed on cold ocean floor coming to surface at night'
+  hypernym:
+  - 02514684-n
+  ili: i49542
+  members:
+  - colgán
+  partOfSpeech: n
+02642872-n:
+  definition:
+  - confidence: 0.0
+    text: large primitive fishes valued for their flesh and roe; widely distributed
+      in the North Temperate Zone
+  hypernym:
+  - 02514684-n
+  ili: i49605
+  members:
+  - bradán fearna
+  partOfSpeech: n
+02649924-n:
+  definition:
+  - confidence: 0.0
+    text: small tadpole-shaped cold-water fishes with pelvic fins forming a sucker;
+      related to lumpfish
+  hypernym:
+  - 02514684-n
+  ili: i49645
+  members:
+  - gnamhán
+  partOfSpeech: n
+02659300-n:
+  definition:
+  - confidence: 0.0
+    text: among the largest bony fish; pelagic fish having an oval compressed body
+      with high dorsal and anal fins and caudal fin reduced to a rudder-like lobe;
+      worldwide in warm waters
+  hypernym:
+  - 02514684-n
+  ili: i49699
+  members:
+  - iasc gréine
+  partOfSpeech: n
+02659998-n:
+  definition:
+  - confidence: 0.0
+    text: any of several families of fishes having flattened bodies that swim along
+      the sea floor on one side of the body with both eyes on the upper side
+  hypernym:
+  - 02514684-n
+  ili: i49702
+  members:
+  - leathóg
+  partOfSpeech: n
+02660324-n:
+  definition:
+  - confidence: 0.0
+    text: any of various European and non-European marine flatfish
+  hypernym:
+  - 02659998-n
+  ili: i49703
+  members:
+  - leith
+  partOfSpeech: n
+02661161-n:
+  definition:
+  - confidence: 0.0
+    text: large European food fish
+  hypernym:
+  - 02659998-n
+  ili: i49707
+  members:
+  - leathóg bhallach
+  partOfSpeech: n
+02662838-n:
+  definition:
+  - confidence: 0.0
+    text: marine food fish of the northern Atlantic or northern Pacific; the largest
+      flatfish and one of the largest teleost fishes
+  hypernym:
+  - 02659998-n
+  ili: i49718
+  members:
+  - haileabó
+  partOfSpeech: n
+02665623-n:
+  definition:
+  - confidence: 0.0
+    text: European food fish
+  hypernym:
+  - 02659998-n
+  ili: i49735
+  members:
+  - broit
+  partOfSpeech: n
+02665841-n:
+  definition:
+  - confidence: 0.0
+    text: a large brownish European flatfish
+  hypernym:
+  - 02659998-n
+  ili: i49737
+  members:
+  - turbard
+  partOfSpeech: n
+02666479-n:
+  definition:
+  - confidence: 0.0
+    text: right-eyed flatfish; many are valued as food; most common in warm seas especially
+      European
+  hypernym:
+  - 02659998-n
+  ili: i49741
+  members:
+  - sól
+  partOfSpeech: n

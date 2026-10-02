@@ -1,0 +1,770 @@
+Eabhrais:
+  n:
+    sense:
+    - id: 'eabhrais%1:10:00::'
+      synset: 06999784-n
+Eastóinis:
+  n:
+    sense:
+    - id: 'eastóinis%1:10:00::'
+      synset: 06970636-n
+eachaire:
+  n:
+    sense:
+    - id: 'eachaire%1:18:00::'
+      synset: 10663740-n
+eachtarshuíomh:
+  n:
+    sense:
+    - id: 'eachtarshuíomh%1:09:00::'
+      synset: 05810555-n
+eachtra:
+  n:
+    sense:
+    - id: 'eachtra%1:04:00::'
+      synset: 00797976-n
+    - id: 'eachtra%1:11:01::'
+      synset: 07322095-n
+eachtrach:
+  a:
+    sense:
+    - id: 'eachtrach%3:00:00::'
+      synset: 00951310-a
+  s:
+    sense:
+    - id: eachtrach%5:00:01:eachtrannach:01
+      synset: 01041567-s
+eachtraigh:
+  v:
+    sense:
+    - id: 'eachtraigh%2:32:00::'
+      synset: 00955248-v
+eachtrannach:
+  a:
+    sense:
+    - id: 'eachtrannach%3:00:00::'
+      synset: 01038689-a
+    - id: 'eachtrannach%3:00:01::'
+      synset: 01041222-a
+  n:
+    sense:
+    - id: 'eachtrannach%1:18:02::'
+      synset: 10123254-n
+eacnamaí:
+  n:
+    sense:
+    - id: 'eacnamaí%1:18:00::'
+      synset: 10063451-n
+eacnamaíoch:
+  a:
+    sense:
+    - id: 'eacnamaíoch%3:01:00::'
+      synset: 02727475-a
+eacnamaíocht:
+  n:
+    sense:
+    - id: 'eacnamaíocht%1:09:00::'
+      synset: 06158935-n
+eadráin:
+  n:
+    sense:
+    - id: 'eadráin%1:04:00::'
+      synset: 01193374-n
+eadránaí:
+  n:
+    sense:
+    - id: 'eadránaí%1:18:00::'
+      synset: 09822852-n
+eadóirseacht:
+  n:
+    sense:
+    - id: 'eadóirseacht%1:04:00::'
+      synset: 01190110-n
+eadóirsigh:
+  v:
+    sense:
+    - id: 'eadóirsigh%2:30:00::'
+      synset: 00413217-v
+eagar:
+  n:
+    sense:
+    - id: 'eagar%1:14:00::'
+      synset: 07955622-n
+eagarthóir:
+  n:
+    sense:
+    - id: 'eagarthóir%1:18:00::'
+      synset: 10064687-n
+eagarthóireacht:
+  n:
+    sense:
+    - id: 'eagarthóireacht%1:10:00::'
+      synset: 06439501-n
+eagla:
+  n:
+    sense:
+    - id: 'eagla%1:12:00::'
+      synset: 07534492-n
+eaglais:
+  n:
+    sense:
+    - id: 'eaglais%1:06:00::'
+      synset: 03031762-n
+    - id: 'eaglais%1:14:01::'
+      synset: 08099479-n
+eagraigh:
+  v:
+    sense:
+    - id: 'eagraigh%2:30:00::'
+      synset: 00405549-v
+    - id: 'eagraigh%2:36:01::'
+      synset: 01737358-v
+    - id: 'eagraigh%2:41:02::'
+      synset: 02453050-v
+    - id: 'eagraigh%2:41:03::'
+      synset: 02528530-v
+eagraíocht:
+  n:
+    sense:
+    - id: 'eagraíocht%1:14:00::'
+      synset: 08024893-n
+eagraíocht neamhrialtasach:
+  n:
+    sense:
+    - id: 'eagraíocht_neamhrialtasach%1:14:00::'
+      synset: 08026566-n
+eagraíocht sceimhlitheoireachta:
+  n:
+    sense:
+    - id: 'eagraíocht_sceimhlitheoireachta%1:14:00::'
+      synset: 08409094-n
+eagraíochtúil:
+  a:
+    sense:
+    - id: 'eagraíochtúil%3:01:00::'
+      synset: 02909528-a
+eagrán:
+  n:
+    sense:
+    - id: 'eagrán%1:10:00::'
+      synset: 06602727-n
+    - id: 'eagrán%1:10:01::'
+      synset: 06609182-n
+eagrúchán:
+  n:
+    sense:
+    - id: 'eagrúchán%1:09:00::'
+      synset: 05734541-n
+ealaín:
+  n:
+    sense:
+    - id: 'ealaín%1:04:00::'
+      synset: 00935235-n
+    - id: 'ealaín%1:06:01::'
+      synset: 02746552-n
+ealaíontóir:
+  n:
+    sense:
+    - id: 'ealaíontóir%1:18:00::'
+      synset: 09831743-n
+eallach:
+  n:
+    sense:
+    - id: 'eallach%1:05:00::'
+      synset: 02405077-n
+eangach:
+  n:
+    sense:
+    - id: 'eangach%1:06:00::'
+      synset: 04003385-n
+earcaigh:
+  v:
+    sense:
+    - id: 'earcaigh%2:41:00::'
+      synset: 02476750-v
+earcaitheoir:
+  n:
+    sense:
+    - id: 'earcaitheoir%1:18:00::'
+      synset: 10532301-n
+earcaíocht:
+  n:
+    sense:
+    - id: 'earcaíocht%1:04:00::'
+      synset: 01266204-n
+earcán caoch:
+  n:
+    sense:
+    - id: 'earcán_caoch%1:05:00::'
+      synset: 01692790-n
+earnáil:
+  n:
+    sense:
+    - id: 'earnáil%1:14:00::'
+      synset: 07983333-n
+earnálach:
+  a:
+    sense:
+    - id: 'earnálach%3:01:00::'
+      synset: 02805366-a
+earra:
+  n:
+    sense:
+    - id: 'earra%1:03:00::'
+      synset: 00023083-n
+    - id: 'earra%1:06:01::'
+      synset: 03080712-n
+earrach:
+  n:
+    sense:
+    - id: 'earrach%1:28:00::'
+      synset: 15261841-n
+earráideach:
+  s:
+    sense:
+    - id: earráideach%5:00:00:mícheart:00
+      synset: 00635789-s
+easair:
+  n:
+    sense:
+    - id: 'easair%1:06:00::'
+      synset: 02823567-n
+easaontach:
+  n:
+    sense:
+    - id: 'easaontach%1:18:00::'
+      synset: 10037746-n
+easaontaigh:
+  v:
+    sense:
+    - id: 'easaontaigh%2:32:00::'
+      synset: 00806464-v
+easaontas:
+  n:
+    sense:
+    - id: 'easaontas%1:04:00::'
+      synset: 00961007-n
+easaontóir:
+  n:
+    sense:
+    - id: 'easaontóir%1:18:00::'
+      synset: 10037746-n
+easbhrú:
+  n:
+    sense:
+    - id: 'easbhrú%1:25:00::'
+      synset: 13917127-n
+eascair as:
+  v:
+    sense:
+    - id: 'eascair_as%2:42:00::'
+      synset: 02640648-v
+eascaire:
+  n:
+    sense:
+    - id: 'eascaire%1:10:00::'
+      synset: 06564975-n
+eascann:
+  n:
+    sense:
+    - id: 'eascann%1:05:00::'
+      synset: 02528752-n
+eascra:
+  n:
+    sense:
+    - id: 'eascra%1:06:00::'
+      synset: 02818969-n
+easna:
+  n:
+    sense:
+    - id: 'easna%1:06:00::'
+      synset: 04094238-n
+easnamh:
+  n:
+    sense:
+    - id: 'easnamh%1:26:00::'
+      synset: 14447018-n
+    - id: 'easnamh%1:26:01::'
+      synset: 14472871-n
+    - id: 'easnamh%1:07:02::'
+      synset: 05121671-n
+    - id: 'easnamh%1:07:03::'
+      synset: 05170169-n
+easnamhach:
+  a:
+    sense:
+    - id: 'easnamhach%3:00:00::'
+      synset: 02344427-a
+easpa:
+  n:
+    sense:
+    - id: 'easpa%1:26:00::'
+      synset: 13984260-n
+    - id: 'easpa%1:26:01::'
+      synset: 14335599-n
+    - id: 'easpa%1:26:02::'
+      synset: 14472871-n
+    - id: 'easpa%1:07:04::'
+      synset: 05121671-n
+    - id: 'easpa%1:07:05::'
+      synset: 05170169-n
+  v:
+    sense:
+    - id: 'easpa%2:42:03::'
+      synset: 02638434-v
+easpach:
+  a:
+    sense:
+    - id: 'easpach%3:00:00::'
+      synset: 02344427-a
+easpag:
+  n:
+    sense:
+    - id: 'easpag%1:06:00::'
+      synset: 02847294-n
+    - id: 'easpag%1:18:01::'
+      synset: 09876606-n
+easpórtáil:
+  v:
+    sense:
+    - id: 'easpórtáil%2:40:00::'
+      synset: 02351405-v
+eastát:
+  n:
+    sense:
+    - id: 'eastát%1:21:00::'
+      synset: 13267561-n
+    - id: 'eastát%1:21:01::'
+      synset: 13271829-n
+eastát réadach:
+  n:
+    sense:
+    - id: 'eastát_réadach%1:21:00::'
+      synset: 13267374-n
+eastóscadh:
+  n:
+    sense:
+    - id: 'eastóscadh%1:22:00::'
+      synset: 13499728-n
+eastóscán:
+  n:
+    sense:
+    - id: 'eastóscán%1:27:00::'
+      synset: 14872955-n
+eatramh:
+  n:
+    sense:
+    - id: 'eatramh%1:28:00::'
+      synset: 15294470-n
+    - id: 'eatramh%1:09:01::'
+      synset: 06025625-n
+eatramhach:
+  s:
+    sense:
+    - id: eatramhach%5:00:00:sealadach:01
+      synset: 01761995-s
+eatánól:
+  n:
+    sense:
+    - id: 'eatánól%1:27:00::'
+      synset: 14733426-n
+eibhear:
+  n:
+    sense:
+    - id: 'eibhear%1:27:00::'
+      synset: 14914437-n
+eibleacht:
+  n:
+    sense:
+    - id: 'eibleacht%1:27:00::'
+      synset: 14698745-n
+eiblitheoir:
+  n:
+    sense:
+    - id: 'eiblitheoir%1:27:00::'
+      synset: 14698569-n
+eidhneán nimhe:
+  n:
+    sense:
+    - id: 'eidhneán_nimhe%1:20:00::'
+      synset: 12787629-n
+eile:
+  a:
+    sense:
+    - id: 'eile%3:00:00::'
+      synset: 02076759-a
+eileatram:
+  n:
+    sense:
+    - id: 'eileatram%1:06:00::'
+      synset: 03512024-n
+eilifint:
+  n:
+    sense:
+    - id: 'eilifint%1:05:00::'
+      synset: 02506148-n
+eilimint:
+  n:
+    sense:
+    - id: 'eilimint%1:27:00::'
+      synset: 14647071-n
+    - id: 'eilimint%1:09:01::'
+      synset: 05877576-n
+eiliminteach:
+  a:
+    sense:
+    - id: 'eiliminteach%3:01:00::'
+      synset: 02730131-a
+eimfiséime:
+  n:
+    sense:
+    - id: 'eimfiséime%1:26:00::'
+      synset: 14170862-n
+eimpíreach:
+  a:
+    sense:
+    - id: 'eimpíreach%3:00:00::'
+      synset: 00862104-a
+einsím:
+  n:
+    sense:
+    - id: 'einsím%1:27:00::'
+      synset: 14757125-n
+eintiteas:
+  n:
+    sense:
+    - id: 'eintiteas%1:03:00::'
+      synset: 00001740-n
+eipeaglotas:
+  n:
+    sense:
+    - id: 'eipeaglotas%1:08:00::'
+      synset: 05309251-n
+eipidéim:
+  n:
+    sense:
+    - id: 'eipidéim%1:11:00::'
+      synset: 07450133-n
+eipidéimeolaíocht:
+  n:
+    sense:
+    - id: 'eipidéimeolaíocht%1:09:00::'
+      synset: 06059555-n
+eipsealón:
+  n:
+    sense:
+    - id: 'eipsealón%1:10:00::'
+      synset: 06847615-n
+eirbiam:
+  n:
+    sense:
+    - id: 'eirbiam%1:27:00::'
+      synset: 14661166-n
+eireaball:
+  n:
+    sense:
+    - id: 'eireaball%1:05:00::'
+      synset: 02160209-n
+eireog:
+  n:
+    sense:
+    - id: 'eireog%1:05:00::'
+      synset: 01795890-n
+eirgeanamaíoch:
+  a:
+    sense:
+    - id: 'eirgeanamaíoch%3:01:00::'
+      synset: 02732613-a
+eirgeanamaíocht:
+  n:
+    sense:
+    - id: 'eirgeanamaíocht%1:09:00::'
+      synset: 06135974-n
+eirleach:
+  n:
+    sense:
+    - id: 'eirleach%1:04:00::'
+      synset: 00224850-n
+eirmín:
+  n:
+    sense:
+    - id: 'eirmín%1:05:00::'
+      synset: 02444803-n
+eisceachtúil:
+  s:
+    sense:
+    - id: eisceachtúil%5:00:00:neamhchoitianta:00
+      synset: 00490174-s
+eiseachaid:
+  v:
+    sense:
+    - id: 'eiseachaid%2:41:00::'
+      synset: 02509014-v
+eiseachas:
+  n:
+    sense:
+    - id: 'eiseachas%1:09:00::'
+      synset: 05979622-n
+eiseamal:
+  n:
+    sense:
+    - id: 'eiseamal%1:09:00::'
+      synset: 05830599-n
+eiseamláir:
+  n:
+    sense:
+    - id: 'eiseamláir%1:09:00::'
+      synset: 05828980-n
+eiseamláireach:
+  a:
+    sense:
+    - id: 'eiseamláireach%3:00:00::'
+      synset: 02596887-a
+    - id: 'eiseamláireach%3:00:01::'
+      synset: 01775648-a
+eisiach:
+  a:
+    sense:
+    - id: 'eisiach%3:00:00::'
+      synset: 02160400-a
+eisiaigh:
+  v:
+    sense:
+    - id: 'eisiaigh%2:31:00::'
+      synset: 00617464-v
+eisiamh:
+  n:
+    sense:
+    - id: 'eisiamh%1:09:00::'
+      synset: 05715216-n
+eisigh:
+  v:
+    sense:
+    - id: 'eisigh%2:32:00::'
+      synset: 00969657-v
+    - id: 'eisigh%2:41:01::'
+      synset: 02484912-v
+eisigéis:
+  n:
+    sense:
+    - id: 'eisigéis%1:10:00::'
+      synset: 07186591-n
+eisimirce:
+  n:
+    sense:
+    - id: 'eisimirce%1:04:00::'
+      synset: 00056907-n
+eisitheoir:
+  n:
+    sense:
+    - id: 'eisitheoir%1:14:00::'
+      synset: 08071902-n
+eisiúint:
+  n:
+    sense:
+    - id: 'eisiúint%1:04:00::'
+      synset: 01062158-n
+eisreachtaigh:
+  v:
+    sense:
+    - id: 'eisreachtaigh%2:32:00::'
+      synset: 00797525-v
+eisíoc:
+  v:
+    sense:
+    - id: 'eisíoc%2:40:00::'
+      synset: 02306463-v
+eisíontas:
+  n:
+    sense:
+    - id: 'eisíontas%1:27:00::'
+      synset: 14607850-n
+eiteán:
+  n:
+    sense:
+    - id: 'eiteán%1:06:00::'
+      synset: 02863755-n
+    - id: 'eiteán%1:06:01::'
+      synset: 04219349-n
+eitic:
+  n:
+    sense:
+    - id: 'eitic%1:09:00::'
+      synset: 05964886-n
+eiticiúil:
+  a:
+    sense:
+    - id: 'eiticiúil%3:01:01::'
+      synset: 02734299-a
+    - id: 'eiticiúil%3:00:02::'
+      synset: 00908608-a
+  s:
+    sense:
+    - id: eiticiúil%5:00:00:ceart:01
+      synset: 02042493-s
+eiticí:
+  n:
+    sense:
+    - id: 'eiticí%1:18:00::'
+      synset: 10084873-n
+eitil:
+  v:
+    sense:
+    - id: 'eitil%2:38:00::'
+      synset: 01944262-v
+    - id: 'eitil%2:38:01::'
+      synset: 01944952-v
+eitilt:
+  n:
+    sense:
+    - id: 'eitilt%1:04:00::'
+      synset: 00303220-n
+eitinn:
+  n:
+    sense:
+    - id: 'eitinn%1:26:00::'
+      synset: 14166897-n
+eitleoir:
+  n:
+    sense:
+    - id: 'eitleoir%1:18:00::'
+      synset: 10452928-n
+eitleán:
+  n:
+    sense:
+    - id: 'eitleán%1:06:00::'
+      synset: 02694015-n
+eitleán troda:
+  n:
+    sense:
+    - id: 'eitleán_troda%1:06:00::'
+      synset: 03339975-n
+eitlíocht:
+  n:
+    sense:
+    - id: 'eitlíocht%1:09:00::'
+      synset: 05643033-n
+eitneach:
+  a:
+    sense:
+    - id: 'eitneach%3:00:00::'
+      synset: 02256437-a
+eitneachas:
+  n:
+    sense:
+    - id: 'eitneachas%1:07:00::'
+      synset: 04806382-n
+eitneagrafaí:
+  n:
+    sense:
+    - id: 'eitneagrafaí%1:18:00::'
+      synset: 10085450-n
+eitneolaí:
+  n:
+    sense:
+    - id: 'eitneolaí%1:18:00::'
+      synset: 10085565-n
+eitneolaíocht:
+  n:
+    sense:
+    - id: 'eitneolaíocht%1:09:00::'
+      synset: 06156331-n
+eitpheil:
+  n:
+    sense:
+    - id: 'eitpheil%1:04:00::'
+      synset: 00481222-n
+eocarót:
+  n:
+    sense:
+    - id: 'eocarót%1:05:00::'
+      synset: 01418267-n
+eochair:
+  n:
+    sense:
+    - id: 'eochair%1:06:00::'
+      synset: 03618503-n
+    - id: 'eochair%1:09:01::'
+      synset: 05802065-n
+eochraí:
+  n:
+    sense:
+    - id: 'eochraí%1:05:00::'
+      synset: 02325276-n
+    - id: 'eochraí%1:13:01::'
+      synset: 07815254-n
+eochróir:
+  n:
+    sense:
+    - id: 'eochróir%1:18:00::'
+      synset: 10169387-n
+eolach:
+  a:
+    sense:
+    - id: 'eolach%3:00:00::'
+      synset: 00191603-a
+eolaire:
+  n:
+    sense:
+    - id: 'eolaire%1:10:00::'
+      synset: 06434383-n
+    - id: 'eolaire%1:10:01::'
+      synset: 06435262-n
+eolas:
+  n:
+    sense:
+    - id: 'eolas%1:03:00::'
+      synset: 00023451-n
+    - id: 'eolas%1:09:01::'
+      synset: 05683749-n
+    - id: 'eolas%1:09:02::'
+      synset: 05825271-n
+    - id: 'eolas%1:10:03::'
+      synset: 06646883-n
+eolas a bheith ag:
+  v:
+    sense:
+    - id: 'eolas_a_bheith_ag%2:31:00::'
+      synset: 00596016-v
+eolaí:
+  n:
+    sense:
+    - id: 'eolaí%1:18:00::'
+      synset: 10580065-n
+eolaíoch:
+  a:
+    sense:
+    - id: 'eolaíoch%3:00:00::'
+      synset: 02091950-a
+    - id: 'eolaíoch%3:01:01::'
+      synset: 02804097-a
+eolaíocht:
+  n:
+    sense:
+    - id: 'eolaíocht%1:09:00::'
+      synset: 06008975-n
+eolaíocht leabharlainne:
+  n:
+    sense:
+    - id: 'eolaíocht_leabharlainne%1:09:00::'
+      synset: 06180608-n
+eolaíocht shóisialta:
+  n:
+    sense:
+    - id: 'eolaíocht_shóisialta%1:09:00::'
+      synset: 06152605-n
+eoraipiam:
+  n:
+    sense:
+    - id: 'eoraipiam%1:27:00::'
+      synset: 14661354-n
+eorpach:
+  a:
+    sense:
+    - id: 'eorpach%3:01:00::'
+      synset: 02979870-a
+euro:
+  n:
+    sense:
+    - id: 'euro%1:23:00::'
+      synset: 13683925-n

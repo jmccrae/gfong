@@ -1,0 +1,908 @@
+01208838-v:
+  definition:
+  - déan teagmháil fhisiciúil le, tar i dteagmháil le
+  example:
+  - Buail an chloch le haghaidh ádh mór
+  hypernym:
+  - 02372362-v
+  ili: i27654
+  members:
+  - buail
+  - teagmhaigh
+  partOfSpeech: v
+01210571-v:
+  definition:
+  - confidence: 0.0
+    text: form a cover over
+  hypernym:
+  - 02372362-v
+  ili: i27662
+  members:
+  - clúdaigh
+  partOfSpeech: v
+01216829-v:
+  definition:
+  - a fháil i lámha duine, tóg go fisiceach
+  example:
+  - Tóg briosca!
+  hypernym:
+  - 02215637-v
+  ili: i27693
+  members:
+  - tóg
+  - faigh greim ar
+  - glac
+  partOfSpeech: v
+01217701-v:
+  definition:
+  - glac i gcoimeád
+  example:
+  - ghabh na póilíní na coirpigh amhrasta
+  hypernym:
+  - 01216829-v
+  ili: i27698
+  members:
+  - pioc suas
+  - gabháil
+  - beir ar
+  - sáinnigh
+  - gabh
+  partOfSpeech: v
+01217985-v:
+  definition:
+  - confidence: 0.0
+    text: succeed in catching or seizing, especially after a chase
+  hypernym:
+  - 01216829-v
+  ili: i27699
+  members:
+  - gabh
+  partOfSpeech: v
+01219234-v:
+  definition:
+  - a bheith i lámha duine nó a bheith i ngreim duine
+  example:
+  - Beir greim ar an mbabhla seo ar feadh bomaite, le do thoil
+  hypernym:
+  - 02208144-v
+  ili: i27706
+  members:
+  - beir ar
+  - coinnigh
+  partOfSpeech: v
+01219607-v:
+  definition:
+  - tacaíocht fhisiciúil a bheith acu; iompar meáchan na
+  example:
+  - Coinníonn an léas suas an díon
+  hypernym:
+  - 02372362-v
+  ili: i27707
+  members:
+  - cothaigh
+  - coinnigh
+  - déan
+  - iompair
+  partOfSpeech: v
+01227308-v:
+  definition:
+  - confidence: 0.0
+    text: handle and cause to function
+  hypernym:
+  - 01208838-v
+  ili: i27747
+  members:
+  - rialaigh
+  partOfSpeech: v
+01238728-v:
+  definition:
+  - buail in aghaidh,téigh i dteagmháil tobann le
+  example:
+  - Bhuail an carr crann
+  hypernym:
+  - 01208838-v
+  ili: i27808
+  members:
+  - buail
+  - téigh i bhfeidhm ar
+  - buail in aghaidh
+  partOfSpeech: v
+01241204-v:
+  definition:
+  - confidence: 0.0
+    text: deliver a sharp blow or push
+  hypernym:
+  - 01208838-v
+  ili: i27821
+  members:
+  - buail
+  partOfSpeech: v
+01265500-v:
+  definition:
+  - confidence: 0.0
+    text: remove the skin from
+  hypernym:
+  - 00173351-v
+  ili: i27964
+  members:
+  - scamh
+  partOfSpeech: v
+01275580-v:
+  definition:
+  - confidence: 0.0
+    text: to mark, or produce an imprint in or on something
+  hypernym:
+  - 00109468-v
+  ili: i28024
+  members:
+  - stampáil
+  partOfSpeech: v
+01276378-v:
+  definition:
+  - confidence: 0.0
+    text: affix a stamp to
+  hypernym:
+  - 01299048-v
+  ili: i28029
+  members:
+  - stampáil
+  partOfSpeech: v
+01280538-v:
+  definition:
+  - confidence: 0.0
+    text: bend or lay so that one part covers the other
+  hypernym:
+  - 00109468-v
+  ili: i28055
+  members:
+  - fill
+  partOfSpeech: v
+01297878-v:
+  definition:
+  - confidence: 0.0
+    text: cause to become joined or linked
+  hypernym:
+  - 01357376-v
+  ili: i28152
+  members:
+  - ceangail
+  partOfSpeech: v
+01299048-v:
+  definition:
+  - confidence: 0.0
+    text: cause to be attached
+  hypernym:
+  - 01357376-v
+  ili: i28157
+  members:
+  - ceangail
+  partOfSpeech: v
+01318273-v:
+  definition:
+  - déan iarracht a aimsiú, nó déan iarracht beithsine de a dheimhniú
+  example:
+  - Tá na Gardaí ag lorg leideanna
+  hypernym:
+  - 02372362-v
+  ili: i28263
+  members:
+  - cuardaigh
+  - lorg
+  - bí ag tóraíocht
+  - bí ar thóir
+  - iarr
+  partOfSpeech: v
+01322669-v:
+  definition:
+  - confidence: 0.0
+    text: gather, as of natural products
+  hypernym:
+  - 01383303-v
+  ili: i28286
+  members:
+  - bain
+  - buain
+  partOfSpeech: v
+01325518-v:
+  definition:
+  - confidence: 0.0
+    text: kill (animals) usually for food consumption
+  hypernym:
+  - 01326622-v
+  ili: i28301
+  members:
+  - maraigh
+  partOfSpeech: v
+01326622-v:
+  definition:
+  - a chur faoi deara a bhású; a chur chun báis, de ghnáth d'aon ghnó nó go feasach
+  example:
+  - Mharaigh an fear seo roinnt daoine nuair a thriail sé banc a robáil
+  hypernym:
+  - 00126072-v
+  ili: i28306
+  members:
+  - maraigh
+  partOfSpeech: v
+01335412-v:
+  definition:
+  - clúdach a sholáthar nó a chur faoi deara a chumhdach
+  example:
+  - a haghaidh a chlúdach le ciarsúr
+  hypernym:
+  - 02372362-v
+  ili: i28352
+  members:
+  - clúdaigh
+  - cumhdaigh
+  partOfSpeech: v
+01343121-v:
+  definition:
+  - confidence: 0.0
+    text: cause to be firmly attached
+  hypernym:
+  - 01299048-v
+  ili: i28393
+  members:
+  - greamaigh
+  - socraigh
+  partOfSpeech: v
+01347791-v:
+  definition:
+  - bogadh ionas go gcuirtear bac ar oscailt nó ar phasáiste; druid
+  example:
+  - Dún an doras
+  hypernym:
+  - 01854282-v
+  ili: i28418
+  members:
+  - dún
+  partOfSpeech: v
+01348685-v:
+  definition:
+  - a chur faoi deara a oscailt nó a bheith oscailte
+  example:
+  - D'oscail Mary doras an chairr
+  hypernym:
+  - 00126072-v
+  ili: i28422
+  members:
+  - oscail
+  partOfSpeech: v
+01353852-v:
+  definition:
+  - confidence: 0.0
+    text: remove, usually with some force or effort; also used in an abstract sense
+  hypernym:
+  - 00173351-v
+  ili: i28448
+  members:
+  - bain
+  partOfSpeech: v
+01356108-v:
+  definition:
+  - confidence: 0.0
+    text: close with or as if with a seal
+  hypernym:
+  - 00261534-v
+  ili: i28461
+  members:
+  - séalaigh
+  partOfSpeech: v
+01357376-v:
+  definition:
+  - confidence: 0.0
+    text: connect, fasten, or put together two or more pieces
+  hypernym:
+  - 02372362-v
+  ili: i28468
+  members:
+  - ceangail
+  - nasc
+  partOfSpeech: v
+01376509-v:
+  definition:
+  - confidence: 0.0
+    text: be discharged in sprays of liquid
+  hypernym:
+  - 01381221-v
+  ili: i28579
+  members:
+  - spraeáil
+  partOfSpeech: v
+01381221-v:
+  definition:
+  - dáil nó scaip go forleathan
+  example:
+  - Scaip na hionróirí a dteanga ar fud na tíre
+  hypernym:
+  - 01854282-v
+  ili: i28602
+  members:
+  - scaip
+  - leath
+  partOfSpeech: v
+01382469-v:
+  definition:
+  - confidence: 0.0
+    text: deploy anew
+  hypernym:
+  - 01381221-v
+  ili: i28607
+  members:
+  - athdháil
+  partOfSpeech: v
+01382630-v:
+  definition:
+  - confidence: 0.0
+    text: distribute anew
+  hypernym:
+  - 01381221-v
+  ili: i28608
+  members:
+  - athdháil
+  partOfSpeech: v
+01382787-v:
+  definition:
+  - confidence: 0.0
+    text: become distributed or widespread
+  hypernym:
+  - 01835473-v
+  ili: i28609
+  members:
+  - leath
+  - scaip
+  partOfSpeech: v
+01383303-v:
+  definition:
+  - tabhair le chéile nó tar le chéile
+  example:
+  - bailigh roinnt clocha
+  hypernym:
+  - 00658247-v
+  ili: i28612
+  members:
+  - bailigh
+  partOfSpeech: v
+01384737-v:
+  definition:
+  - confidence: 0.0
+    text: look for and gather
+  hypernym:
+  - 01383303-v
+  ili: i28618
+  members:
+  - pioc
+  partOfSpeech: v
+01407698-v:
+  definition:
+  - cúis le bogadh trí bhualadh
+  example:
+  - buail liathróid
+  hypernym:
+  - 01854282-v
+  ili: i28752
+  members:
+  - buail
+  partOfSpeech: v
+01422127-v:
+  definition:
+  - confidence: 0.0
+    text: change the arrangement or position of
+  hypernym:
+  - 01854282-v
+  ili: i28827
+  members:
+  - suaith
+  partOfSpeech: v
+01424276-v:
+  definition:
+  - confidence: 0.0
+    text: put or introduce into something
+  hypernym:
+  - 01299048-v
+  ili: i28839
+  members:
+  - cuir isteach
+  partOfSpeech: v
+01433863-v:
+  definition:
+  - confidence: 0.0
+    text: touch with the lips or press the lips (against someone's mouth or other
+      body part) as an expression of love, greeting, etc.
+  hypernym:
+  - 01208838-v
+  ili: i28884
+  members:
+  - póg
+  partOfSpeech: v
+01435927-v:
+  definition:
+  - téigh nó tar sa tóir ar agus tabhair nó tóg ar ais
+  example:
+  - Tabhair leat na leabhair sin faoi mo choinne, le do thoil
+  hypernym:
+  - 01854282-v
+  ili: i28895
+  members:
+  - tabhair le
+  - faigh
+  - téigh
+  partOfSpeech: v
+01439891-v:
+  definition:
+  - a chur faoi deara nó a ordú a thógáil, a dhíriú, nó a tharchur go dtí áit eile
+  example:
+  - Sheol sé na teachtaireachtaí lár an bhaile chuig na daoine cearta agus chodail
+    sé
+  hypernym:
+  - 01854282-v
+  ili: i28915
+  members:
+  - seol
+  - seol amach
+  partOfSpeech: v
+01440941-v:
+  definition:
+  - confidence: 0.0
+    text: bring to a destination, make a delivery
+  hypernym:
+  - 01435927-v
+  ili: i28920
+  members:
+  - seachaid
+  - tabhair
+  partOfSpeech: v
+01441539-v:
+  definition:
+  - a chur faoi deara a bheith i staid nó coinníoll áirithe
+  example:
+  - Thug na blianta fada oibre líon scileanna dóibh
+  hypernym:
+  - 00126072-v
+  ili: i28923
+  members:
+  - tabhair
+  partOfSpeech: v
+01441809-v:
+  definition:
+  - greim a fháil ar an ngluaisne a urghabháil nó a shrianadh nó stop a chur leis
+    an tairiscint de
+  example:
+  - Beir an liathróid
+  hypernym:
+  - 01216829-v
+  ili: i28924
+  members:
+  - beir
+  - gabh
+  partOfSpeech: v
+01442758-v:
+  definition:
+  - bog ar aghaidh nó suas chun teagmhaigh le, sa chiall mheafarach freisin
+  example:
+  - Téann an Rialtas i dteagmháil leis na daoine
+  hypernym:
+  - 01835473-v
+  ili: i28928
+  members:
+  - sín
+  - téigh i dteagmháil le
+  partOfSpeech: v
+01445640-v:
+  definition:
+  - poll a dhéanamh, go háirithe le cumhacht pointeáilte nó uirlis láimhe
+  example:
+  - ná druil anseo, tá píopa gáis
+  hypernym:
+  - 01854282-v
+  ili: i28941
+  members:
+  - druileáil
+  - toll
+  partOfSpeech: v
+01449876-v:
+  definition:
+  - brú nó fórsa a chur ar
+  example:
+  - Brúigh sé síos ar na boird
+  hypernym:
+  - 01208838-v
+  ili: i28964
+  members:
+  - brúigh
+  partOfSpeech: v
+01450719-v:
+  definition:
+  - a chur faoi deara a bhogadh faoi tharraingt
+  example:
+  - vaigín a tharraingt
+  hypernym:
+  - 01854282-v
+  ili: i28967
+  members:
+  - tarraing
+  partOfSpeech: v
+01452567-v:
+  definition:
+  - a bhogadh agus a thacú, i bhfeithicil nó i lámha duine nó ar chorp duine
+  example:
+  - Caithfidh tú do chuid fearais champála a iompar
+  hypernym:
+  - 01854282-v
+  ili: i28975
+  members:
+  - iompair
+  - aistrigh
+  partOfSpeech: v
+01457042-v:
+  definition:
+  - confidence: 0.0
+    text: drag behind
+  hypernym:
+  - 01450719-v
+  ili: i28994
+  members:
+  - tarraing
+  partOfSpeech: v
+01457421-v:
+  definition:
+  - confidence: 0.0
+    text: draw slowly or heavily
+  hypernym:
+  - 01450719-v
+  ili: i28996
+  members:
+  - tarlaigh
+  partOfSpeech: v
+01464634-v:
+  definition:
+  - confidence: 0.0
+    text: to bring or combine together or with something else
+  hypernym:
+  - 00126072-v
+  ili: i29033
+  members:
+  - measc
+  partOfSpeech: v
+01466592-v:
+  definition:
+  - confidence: 0.0
+    text: put into a proper or systematic order
+  hypernym:
+  - 01496967-v
+  ili: i29041
+  members:
+  - socraigh
+  partOfSpeech: v
+01469999-v:
+  definition:
+  - confidence: 0.0
+    text: extend on all sides of simultaneously; encircle
+  hypernym:
+  - 02372362-v
+  ili: i29056
+  members:
+  - timpeallaigh
+  partOfSpeech: v
+01476839-v:
+  definition:
+  - confidence: 0.0
+    text: lay out orderly or logically in a line or as if in a line
+  hypernym:
+  - 01466592-v
+  ili: i29088
+  members:
+  - leag amach
+  partOfSpeech: v
+01477180-v:
+  definition:
+  - confidence: 0.0
+    text: release, as from one's grip
+  hypernym:
+  - 02372362-v
+  ili: i29090
+  members:
+  - scaoil
+  partOfSpeech: v
+01484705-v:
+  definition:
+  - a bheith ar fionraí nó a chrochadh
+  example:
+  - Bhí an bratach ar crochadh ar an mballa
+  hypernym:
+  - 02661230-v
+  ili: i29128
+  members:
+  - croch
+  partOfSpeech: v
+01487784-v:
+  definition:
+  - confidence: 0.0
+    text: put into a box
+  hypernym:
+  - 01469999-v
+  ili: i29144
+  members:
+  - pacáistigh
+  partOfSpeech: v
+01489634-v:
+  definition:
+  - confidence: 0.0
+    text: make into a bundle
+  hypernym:
+  - 01469999-v
+  ili: i29154
+  members:
+  - cuach
+  partOfSpeech: v
+01490749-v:
+  definition:
+  - confidence: 0.0
+    text: remove the load from (a container or vehicle)
+  hypernym:
+  - 00173351-v
+  ili: i29161
+  members:
+  - díluchtaigh
+  partOfSpeech: v
+01492094-v:
+  definition:
+  - confidence: 0.0
+    text: remove (cargo, people, etc.) from and leave
+  hypernym:
+  - 01440941-v
+  ili: i29170
+  members:
+  - díluchtaigh
+  partOfSpeech: v
+01492646-v:
+  definition:
+  - confidence: 0.0
+    text: fill or place a load on
+  hypernym:
+  - 00453467-v
+  ili: i29173
+  members:
+  - luchtaigh
+  partOfSpeech: v
+01493229-v:
+  definition:
+  - confidence: 0.0
+    text: load anew
+  hypernym:
+  - 00453467-v
+  ili: i29175
+  members:
+  - athlódáil
+  partOfSpeech: v
+01493347-v:
+  definition:
+  - confidence: 0.0
+    text: place a new load on
+  hypernym:
+  - 01492646-v
+  ili: i29176
+  members:
+  - athluchtaigh
+  partOfSpeech: v
+01495891-v:
+  definition:
+  - confidence: 0.0
+    text: fill by packing tightly
+  hypernym:
+  - 01469999-v
+  ili: i29192
+  members:
+  - stuáil
+  partOfSpeech: v
+01496398-v:
+  definition:
+  - a chur faoi deara a bheith i staid áirithe; a chur faoi deara rud a bheith i gceangal
+    ar leith
+  example:
+  - Chuir an t-amhrán sin dea-ghiúmar orm
+  hypernym:
+  - 00126072-v
+  ili: i29195
+  members:
+  - cuir
+  partOfSpeech: v
+01496967-v:
+  definition:
+  - a chur in áit áirithe nó i láthair theibí
+  example:
+  - Cuir do chuid earraí anseo
+  hypernym:
+  - 01854282-v
+  ili: i29197
+  members:
+  - leag
+  - socraigh
+  - cuir
+  - leabaigh
+  - feistigh
+  - suigh
+  partOfSpeech: v
+01507886-v:
+  definition:
+  - dírigh i dtreo duine de bharr na cumhachta síceolaíche nó na buanna fisiceach
+    atá aige nó aici
+  example:
+  - Tarraingíonn a dathúlacht amharc go leor fir
+  hypernym:
+  - 01450719-v
+  ili: i29252
+  members:
+  - tarraing
+  - meall
+  partOfSpeech: v
+01508590-v:
+  definition:
+  - confidence: 0.0
+    text: attract and fix
+  hypernym:
+  - 01507886-v
+  ili: i29253
+  members:
+  - tarraing
+  partOfSpeech: v
+01511000-v:
+  definition:
+  - teilg tríd an aer
+  example:
+  - caith friosbaí
+  hypernym:
+  - 01854282-v
+  ili: i29265
+  members:
+  - caith
+  partOfSpeech: v
+01514891-v:
+  definition:
+  - confidence: 0.0
+    text: push, propel, or press with force
+  hypernym:
+  - 01854282-v
+  ili: i29282
+  members:
+  - tiomáin
+  partOfSpeech: v
+01528454-v:
+  definition:
+  - feidhmigh mar a bhfuiltear ag súil leis nuair a úsáidtear é
+  example:
+  - Ní fheidhmeoidh an mheaisín níocháin mura bhfuil sí plugáilte isteach
+  hypernym:
+  - 01716563-v
+  ili: i29358
+  members:
+  - oibrigh
+  - feidhmigh
+  - bí ar siúl
+  - bí ag gabháil
+  partOfSpeech: v
+01545905-v:
+  definition:
+  - a bheith i suíomh ina bhfuil uachtar coir duine ingearach agus é tacaithe ag tóin
+    an duine sin
+  hypernym:
+  - 02661230-v
+  ili: i29448
+  members:
+  - suigh
+  - suigh síos
+  partOfSpeech: v
+01548893-v:
+  definition:
+  - a bheith i do sheasamh; a bheith ingearach
+  example:
+  - Bhí orainn a bheith inár seasamh le linn an léirithe ar fad!
+  hypernym:
+  - 02661230-v
+  ili: i29462
+  members:
+  - seas
+  - bí i do sheasamh
+  - éirigh i do sheasamh
+  - seas suas
+  partOfSpeech: v
+01549783-v:
+  definition:
+  - a bheith ag luí, a bheith sínte; a bheith i suíomh cothrománach
+  example:
+  - Luigh an fear tinn sa leaba an lá ar fad
+  hypernym:
+  - 02661230-v
+  ili: i29466
+  members:
+  - luigh
+  partOfSpeech: v
+01552202-v:
+  definition:
+  - confidence: 0.0
+    text: remove by erasing or crossing out or as if by drawing a line
+  hypernym:
+  - 00173351-v
+  ili: i29479
+  members:
+  - bain
+  partOfSpeech: v
+01555301-v:
+  definition:
+  - scaradh le huirlise nó amhail is go bhfuil uirlis ann
+  example:
+  - Gearr an rópa
+  hypernym:
+  - 01854282-v
+  ili: i29494
+  members:
+  - gearr
+  partOfSpeech: v
+01566925-v:
+  definition:
+  - scrios go hiomlán, damáistiú go deo
+  example:
+  - Tá mo charr scriosta agat trí shiúcra a dhoirteadh san umar!
+  hypernym:
+  - 02372362-v
+  ili: i29552
+  members:
+  - scrios
+  partOfSpeech: v
+01572394-v:
+  definition:
+  - socruithe le húsáid
+  example:
+  - suiteáil an leicneán agus an triomadóir
+  hypernym:
+  - 01496967-v
+  ili: i29577
+  members:
+  - bunaigh
+  - cuir isteach
+  - suiteáil
+  partOfSpeech: v
+01576107-v:
+  definition:
+  - confidence: 0.0
+    text: tear or be torn violently
+  hypernym:
+  - 01576346-v
+  ili: i29595
+  members:
+  - srac
+  partOfSpeech: v
+01576346-v:
+  definition:
+  - scar nó a chur faoi deara scar go tobann
+  example:
+  - Bhris an rópa
+  hypernym:
+  - 01854282-v
+  ili: i29596
+  members:
+  - bris
+  - stróic
+  - réab
+  partOfSpeech: v
+01585566-v:
+  definition:
+  - confidence: 0.0
+    text: make a mark or lines on a surface
+  hypernym:
+  - 00126072-v
+  ili: i29642
+  members:
+  - tarraing
+  partOfSpeech: v
+01591414-v:
+  definition:
+  - confidence: 0.0
+    text: attach a tag or label to
+  hypernym:
+  - 01299048-v
+  ili: i29672
+  members:
+  - lipéadaigh
+  partOfSpeech: v

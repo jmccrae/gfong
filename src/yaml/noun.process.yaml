@@ -1,0 +1,474 @@
+13445095-n:
+  definition:
+  - confidence: 0.0
+    text: (chemistry) a process in which one substance permeates another; a fluid
+      permeates or is dissolved by a liquid or solid
+  hypernym:
+  - 00001740-n
+  ili: i107286
+  members:
+  - ionsú
+  partOfSpeech: n
+13445356-n:
+  definition:
+  - confidence: 0.0
+    text: (physics) the process in which incident radiated energy is retained without
+      reflection or transmission on passing through a medium
+  hypernym:
+  - 00001740-n
+  ili: i107287
+  members:
+  - ionsú
+  partOfSpeech: n
+13446598-n:
+  definition:
+  - confidence: 0.0
+    text: (astronomy) the formation of a celestial object by the effect of gravity
+      pulling together surrounding objects and gases
+  hypernym:
+  - 13518338-n
+  ili: i107293
+  members:
+  - fuilleamh
+  partOfSpeech: n
+13448251-n:
+  definition:
+  - confidence: 0.0
+    text: the process of adapting to something (such as environmental conditions)
+  hypernym:
+  - 00001740-n
+  ili: i107302
+  members:
+  - oiriúnú
+  partOfSpeech: n
+13459075-n:
+  definition:
+  - confidence: 0.0
+    text: the serial execution of computer programs
+  hypernym:
+  - 00001740-n
+  ili: i107364
+  members:
+  - baiscphróiseáil
+  partOfSpeech: n
+13466652-n:
+  definition:
+  - confidence: 0.0
+    text: a series of chemical reactions in which the product of one is a reactant
+      in the next
+  hypernym:
+  - 13468534-n
+  ili: i107404
+  members:
+  - imoibriú slabhrúil
+  partOfSpeech: n
+13468534-n:
+  definition:
+  - confidence: 0.0
+    text: (chemistry) a process in which one or more substances are changed into others
+  hypernym:
+  - 00001740-n
+  ili: i107410
+  members:
+  - imoibriúchán
+  partOfSpeech: n
+13469951-n:
+  definition:
+  - confidence: 0.0
+    text: a process used for separating mixtures by virtue of differences in absorbency
+  hypernym:
+  - 00001740-n
+  ili: i107415
+  members:
+  - crómatagrafaíocht
+  partOfSpeech: n
+13471379-n:
+  definition:
+  - confidence: 0.0
+    text: a process in which a substance reacts with oxygen to give heat and light
+  hypernym:
+  - 13468534-n
+  ili: i107424
+  members:
+  - dóchán
+  partOfSpeech: n
+13472521-n:
+  definition:
+  - confidence: 0.0
+    text: the process of changing from a gaseous to a liquid or solid state
+  hypernym:
+  - 00001740-n
+  ili: i107430
+  members:
+  - comhdhlúthú
+  partOfSpeech: n
+13473520-n:
+  definition:
+  - confidence: 0.0
+    text: gradual healing (through rest) after sickness or injury
+  hypernym:
+  - 13512819-n
+  ili: i107435
+  members:
+  - téarnamh
+  partOfSpeech: n
+13473787-n:
+  definition:
+  - confidence: 0.0
+    text: the transfer of heat through a fluid (liquid or gas) caused by molecular
+      motion
+  hypernym:
+  - 00001740-n
+  ili: i107436
+  members:
+  - comhiompar
+  partOfSpeech: n
+13474333-n:
+  definition:
+  - confidence: 0.0
+    text: the process of becoming cooler; a falling temperature
+  hypernym:
+  - 00001740-n
+  ili: i107439
+  members:
+  - fuarú
+  partOfSpeech: n
+13474601-n:
+  definition:
+  - confidence: 0.0
+    text: erosion by chemical action
+  hypernym:
+  - 00001740-n
+  ili: i107440
+  members:
+  - creimeadh
+  partOfSpeech: n
+13481024-n:
+  definition:
+  - confidence: 0.0
+    text: a contraction of economic activity resulting in a decline of prices
+  hypernym:
+  - 00001740-n
+  ili: i107470
+  members:
+  - díbhoilsciú
+  partOfSpeech: n
+13481771-n:
+  definition:
+  - confidence: 0.0
+    text: the process of extracting moisture
+  hypernym:
+  - 13499728-n
+  ili: i107474
+  members:
+  - díhiodráitiú
+  partOfSpeech: n
+13482365-n:
+  definition:
+  - confidence: 0.0
+    text: the ability and desire to purchase goods and services
+  hypernym:
+  - 00001740-n
+  ili: i107477
+  members:
+  - éileamh
+  partOfSpeech: n
+13486023-n:
+  definition:
+  - confidence: 0.0
+    text: a process in which something passes by degrees to a different stage (especially
+      a more advanced or mature stage)
+  hypernym:
+  - 00001740-n
+  ili: i107495
+  members:
+  - forbairt
+  - forás
+  partOfSpeech: n
+13486733-n:
+  definition:
+  - confidence: 0.0
+    text: (physics) the process in which there is movement of a substance from an
+      area of high concentration of that substance to an area of lower concentration
+  hypernym:
+  - 00001740-n
+  ili: i107498
+  members:
+  - idirleathadh
+  partOfSpeech: n
+13489119-n:
+  definition:
+  - confidence: 0.0
+    text: separation into component parts
+  hypernym:
+  - 00001740-n
+  ili: i107510
+  members:
+  - tuaslagaíocht
+  partOfSpeech: n
+13493328-n:
+  definition:
+  - confidence: 0.0
+    text: (chemistry) a chemical decomposition reaction produced by passing an electric
+      current through a solution containing ions
+  hypernym:
+  - 13468534-n
+  ili: i107533
+  members:
+  - leictriliú
+  partOfSpeech: n
+13499728-n:
+  definition:
+  - confidence: 0.0
+    text: the process of obtaining something from a mixture or compound by chemical
+      or physical or mechanical means
+  hypernym:
+  - 00001740-n
+  ili: i107565
+  members:
+  - eastóscadh
+  partOfSpeech: n
+13500583-n:
+  definition:
+  - confidence: 0.0
+    text: the process in which part of the output of a system is returned to its input
+      in order to regulate its further output
+  hypernym:
+  - 00001740-n
+  ili: i107569
+  members:
+  - aischothú
+  partOfSpeech: n
+13502051-n:
+  definition:
+  - confidence: 0.0
+    text: the process of combustion of inflammable materials producing heat and light
+      and (often) smoke
+  hypernym:
+  - 13471379-n
+  ili: i107576
+  members:
+  - bladhm
+  - lasair
+  - tine
+  partOfSpeech: n
+13509313-n:
+  definition:
+  - confidence: 0.0
+    text: growth to a global or worldwide scale
+  hypernym:
+  - 00001740-n
+  ili: i107615
+  members:
+  - domhandú
+  partOfSpeech: n
+13509513-n:
+  definition:
+  - confidence: 0.0
+    text: an increase in the average temperature of the earth's atmosphere (especially
+      a sustained increase that causes climatic changes)
+  hypernym:
+  - 00001740-n
+  ili: i107616
+  members:
+  - téamh domhanda
+  partOfSpeech: n
+13510240-n:
+  definition:
+  - confidence: 0.0
+    text: (biology) the process of an individual organism growing organically; a purely
+      biological unfolding of events involved in an organism changing gradually from
+      a simple to a more complex level
+  hypernym:
+  - 00001740-n
+  ili: i107620
+  members:
+  - forbairt
+  - fás
+  partOfSpeech: n
+13512263-n:
+  definition:
+  - confidence: 0.0
+    text: the process of becoming hard or solid by cooling or drying or crystallization
+  hypernym:
+  - 00001740-n
+  ili: i107625
+  members:
+  - soladú
+  partOfSpeech: n
+13512667-n:
+  definition:
+  - confidence: 0.0
+    text: the production of young from an egg
+  hypernym:
+  - 13554089-n
+  ili: i107626
+  members:
+  - gor
+  partOfSpeech: n
+13512819-n:
+  definition:
+  - confidence: 0.0
+    text: the natural process by which the body repairs itself
+  hypernym:
+  - 00001740-n
+  ili: i107627
+  members:
+  - leigheas
+  partOfSpeech: n
+13518338-n:
+  definition:
+  - confidence: 0.0
+    text: a process of becoming larger or longer or more numerous or more important
+  hypernym:
+  - 00001740-n
+  ili: i107658
+  members:
+  - méadú
+  partOfSpeech: n
+13529854-n:
+  definition:
+  - confidence: 0.0
+    text: the conversion of a solid or a gas into a liquid
+  hypernym:
+  - 00001740-n
+  ili: i107716
+  members:
+  - leachtú
+  partOfSpeech: n
+13533709-n:
+  definition:
+  - confidence: 0.0
+    text: the atomic process that occurs during a chemical reaction
+  hypernym:
+  - 00001740-n
+  ili: i107737
+  members:
+  - meicníocht
+  partOfSpeech: n
+13534950-n:
+  definition:
+  - confidence: 0.0
+    text: the monthly discharge of blood from the uterus of nonpregnant women from
+      puberty to menopause
+  hypernym:
+  - 00001740-n
+  ili: i107742
+  members:
+  - míostrú
+  partOfSpeech: n
+13535517-n:
+  definition:
+  - confidence: 0.0
+    text: the organic processes (in a cell or organism) that are necessary for life
+  hypernym:
+  - 00001740-n
+  ili: i107743
+  members:
+  - meitibileacht
+  partOfSpeech: n
+13546128-n:
+  definition:
+  - confidence: 0.0
+    text: (computer science) data processing in which the result is completely specified
+      by a rule (especially the processing that results from a single instruction)
+  hypernym:
+  - 13562370-n
+  ili: i107795
+  members:
+  - oibríocht
+  partOfSpeech: n
+13554089-n:
+  definition:
+  - confidence: 0.0
+    text: the process of giving birth
+  hypernym:
+  - 00001740-n
+  ili: i107827
+  members:
+  - breith
+  partOfSpeech: n
+13557997-n:
+  definition:
+  - confidence: 0.0
+    text: the process of producing images of objects on photosensitive surfaces
+  hypernym:
+  - 00001740-n
+  ili: i107845
+  members:
+  - grianghrafadóireacht
+  partOfSpeech: n
+13562370-n:
+  definition:
+  - confidence: 0.0
+    text: preparing or putting through a prescribed procedure
+  hypernym:
+  - 00001740-n
+  ili: i107868
+  members:
+  - próiseáil
+  partOfSpeech: n
+13566387-n:
+  definition:
+  - confidence: 0.0
+    text: the spontaneous emission of a stream of particles or electromagnetic rays
+      in nuclear decay
+  hypernym:
+  - 00001740-n
+  ili: i107891
+  members:
+  - radaighníomhaíocht
+  partOfSpeech: n
+13569128-n:
+  definition:
+  - confidence: 0.0
+    text: filling again by supplying what has been used up
+  hypernym:
+  - 00001740-n
+  ili: i107905
+  members:
+  - athsholáthar
+  partOfSpeech: n
+13577118-n:
+  definition:
+  - confidence: 0.0
+    text: (technology) a process that acts to absorb or remove energy or a substance
+      from a system
+  hypernym:
+  - 00001740-n
+  ili: i107947
+  members:
+  - slogaide
+  partOfSpeech: n
+13586113-n:
+  definition:
+  - confidence: 0.0
+    text: the working together of two things (muscles or drugs for example) to produce
+      an effect greater than the sum of their individual effects
+  hypernym:
+  - 00001740-n
+  ili: i107994
+  members:
+  - sineirgíocht
+  partOfSpeech: n
+13586582-n:
+  definition:
+  - confidence: 0.0
+    text: the process of producing a chemical compound (usually by the union of simpler
+      chemical compounds)
+  hypernym:
+  - 00001740-n
+  ili: i107996
+  members:
+  - sintéis
+  partOfSpeech: n
+13592966-n:
+  definition:
+  - confidence: 0.0
+    text: the social process whereby cities grow and societies become more urban
+  hypernym:
+  - 00001740-n
+  ili: i108031
+  members:
+  - uirbiú
+  partOfSpeech: n

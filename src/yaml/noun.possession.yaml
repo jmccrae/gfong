@@ -1,0 +1,1210 @@
+13262498-n:
+  definition:
+  - confidence: 0.0
+    text: the right to buy or sell property at an agreed price; the right is purchased
+      and if it is not exercised by a stated date the money is forfeited
+  hypernym:
+  - 06491336-n
+  ili: i106227
+  members:
+  - rogha
+  partOfSpeech: n
+13265007-n:
+  definition:
+  - confidence: 0.0
+    text: something owned; any tangible or intangible possession that is owned by
+      someone
+  hypernym:
+  - 00032220-n
+  ili: i106242
+  members:
+  - gabháltas
+  - maoin
+  partOfSpeech: n
+13267374-n:
+  definition:
+  - confidence: 0.0
+    text: property consisting of houses and land
+  hypernym:
+  - 13265007-n
+  ili: i106253
+  members:
+  - eastát réadach
+  partOfSpeech: n
+13267561-n:
+  definition:
+  - confidence: 0.0
+    text: extensive landed property (especially in the country) retained by the owner
+      for their own use
+  hypernym:
+  - 13267374-n
+  ili: i106254
+  members:
+  - eastát
+  partOfSpeech: n
+13268611-n:
+  definition:
+  - confidence: 0.0
+    text: a holding in the form of shares of corporations
+  hypernym:
+  - 13265007-n
+  ili: i106260
+  members:
+  - scairshealbhóireacht
+  partOfSpeech: n
+13270053-n:
+  definition:
+  - confidence: 0.0
+    text: land or property held under a lease
+  hypernym:
+  - 13267561-n
+  ili: i106270
+  members:
+  - léasacht
+  partOfSpeech: n
+13271829-n:
+  definition:
+  - confidence: 0.0
+    text: everything you own; all of your assets (whether real property or personal
+      property) and liabilities
+  hypernym:
+  - 13265007-n
+  ili: i106282
+  members:
+  - eastát
+  partOfSpeech: n
+13273412-n:
+  definition:
+  - confidence: 0.0
+    text: an estate where cash crops are grown on a large scale (especially in tropical
+      areas)
+  hypernym:
+  - 13267561-n
+  ili: i106293
+  members:
+  - plandáil
+  partOfSpeech: n
+13274322-n:
+  definition:
+  - confidence: 0.0
+    text: something added to what you already have
+  hypernym:
+  - 00032220-n
+  ili: i106298
+  members:
+  - breis
+  partOfSpeech: n
+13274650-n:
+  definition:
+  - confidence: 0.0
+    text: an advantageous purchase
+  hypernym:
+  - 00032220-n
+  ili: i106300
+  members:
+  - ceannach
+  partOfSpeech: n
+13275704-n:
+  definition:
+  - confidence: 0.0
+    text: the amount by which the revenue of a business exceeds its cost of operating
+  hypernym:
+  - 00032220-n
+  ili: i106306
+  members:
+  - gnóthachan
+  partOfSpeech: n
+13276044-n:
+  definition:
+  - confidence: 0.0
+    text: the financial gain (earned or unearned) accruing over a given period of
+      time
+  hypernym:
+  - 13275704-n
+  ili: i106308
+  members:
+  - ioncam
+  partOfSpeech: n
+13277590-n:
+  definition:
+  - confidence: 0.0
+    text: the entire amount of income before any deductions are made
+  hypernym:
+  - 00032220-n
+  ili: i106316
+  members:
+  - ioncam
+  partOfSpeech: n
+13278881-n:
+  definition:
+  - confidence: 0.0
+    text: payment to the holder of a patent or copyright or resource for the right
+      to use their property
+  hypernym:
+  - 13299398-n
+  ili: i106322
+  members:
+  - ríchíos
+  partOfSpeech: n
+13279261-n:
+  definition:
+  - confidence: 0.0
+    text: the excess of revenues over outlays in a given period of time (including
+      depreciation and other non-cash expenses)
+  hypernym:
+  - 13276044-n
+  ili: i106325
+  members:
+  - brabús
+  - glanioncam
+  partOfSpeech: n
+13281089-n:
+  definition:
+  - confidence: 0.0
+    text: the income or profit arising from such transactions as the sale of land
+      or other property
+  hypernym:
+  - 13276044-n
+  ili: i106335
+  members:
+  - fáltas
+  - toradh
+  partOfSpeech: n
+13283812-n:
+  definition:
+  - confidence: 0.0
+    text: that which is inherited; a title or property or estate that passes by law
+      to the heir on the death of the owner
+  hypernym:
+  - 00032220-n
+  ili: i106351
+  members:
+  - oidhreacht
+  partOfSpeech: n
+13284678-n:
+  definition:
+  - confidence: 0.0
+    text: (law) a gift of personal property by will
+  hypernym:
+  - 13285910-n
+  - 13283812-n
+  ili: i106355
+  members:
+  - leagáid
+  - oidhreacht
+  - tiomnacht
+  partOfSpeech: n
+13285910-n:
+  definition:
+  - confidence: 0.0
+    text: something acquired without compensation
+  hypernym:
+  - 00032220-n
+  ili: i106363
+  members:
+  - bronntanas
+  partOfSpeech: n
+13287193-n:
+  definition:
+  - confidence: 0.0
+    text: financial aid provided to a student on the basis of academic merit
+  hypernym:
+  - 13289169-n
+  ili: i106368
+  members:
+  - scoláireacht
+  partOfSpeech: n
+13288037-n:
+  definition:
+  - confidence: 0.0
+    text: a grant paid by a government to an enterprise that benefits the public
+  hypernym:
+  - 13285910-n
+  ili: i106373
+  members:
+  - fóirdheontas
+  partOfSpeech: n
+13289169-n:
+  definition:
+  - confidence: 0.0
+    text: something given for victory or superiority in a contest or competition or
+      for winning a lottery
+  hypernym:
+  - 13285910-n
+  ili: i106380
+  members:
+  - duais
+  partOfSpeech: n
+13289865-n:
+  definition:
+  - confidence: 0.0
+    text: something presented as a gift
+  hypernym:
+  - 13285910-n
+  ili: i106384
+  members:
+  - bronntanas
+  partOfSpeech: n
+13290913-n:
+  definition:
+  - confidence: 0.0
+    text: an amount of money contributed
+  hypernym:
+  - 00032220-n
+  ili: i106391
+  members:
+  - ranníocaíocht
+  partOfSpeech: n
+13291061-n:
+  definition:
+  - confidence: 0.0
+    text: a voluntary gift (as of money or service or ideas) made to some worthwhile
+      cause
+  hypernym:
+  - 13285910-n
+  ili: i106392
+  members:
+  - deonachán
+  - tabhartas
+  partOfSpeech: n
+13292343-n:
+  definition:
+  - confidence: 0.0
+    text: the capital that provides income for an institution
+  hypernym:
+  - 00032220-n
+  ili: i106400
+  members:
+  - dearlaic
+  partOfSpeech: n
+13294177-n:
+  definition:
+  - confidence: 0.0
+    text: an additional payment (or other remuneration) to employees as a means of
+      increasing output
+  hypernym:
+  - 13299398-n
+  ili: i106412
+  members:
+  - bónas
+  partOfSpeech: n
+13296311-n:
+  definition:
+  - confidence: 0.0
+    text: money paid out; an amount spent
+  hypernym:
+  - 00032220-n
+  ili: i106425
+  members:
+  - caiteachas
+  partOfSpeech: n
+13296870-n:
+  definition:
+  - confidence: 0.0
+    text: the total spent for goods or services including money and time and labor
+  hypernym:
+  - 13296311-n
+  ili: i106427
+  members:
+  - costas
+  partOfSpeech: n
+13298202-n:
+  definition:
+  - confidence: 0.0
+    text: the expense of maintaining property (e.g., paying property taxes and utilities
+      and insurance); it does not include depreciation or the cost of financing or
+      income taxes
+  hypernym:
+  - 13296870-n
+  ili: i106434
+  members:
+  - forchostais
+  partOfSpeech: n
+13299398-n:
+  definition:
+  - confidence: 0.0
+    text: a sum of money paid or a claim discharged
+  hypernym:
+  - 13296870-n
+  ili: i106441
+  members:
+  - íocaíocht
+  partOfSpeech: n
+13300285-n:
+  definition:
+  - confidence: 0.0
+    text: something that remunerates
+  hypernym:
+  - 13299398-n
+  ili: i106444
+  members:
+  - pá
+  - tuarastal
+  - íocaíocht
+  partOfSpeech: n
+13302153-n:
+  definition:
+  - confidence: 0.0
+    text: a payment for consecutive issues of a newspaper or magazine for a given
+      period of time
+  hypernym:
+  - 13299398-n
+  ili: i106456
+  members:
+  - síntiús
+  partOfSpeech: n
+13303030-n:
+  definition:
+  - confidence: 0.0
+    text: payment or reward (as for service rendered)
+  hypernym:
+  - 13299398-n
+  ili: i106462
+  members:
+  - cúiteamh
+  partOfSpeech: n
+13303184-n:
+  definition:
+  - confidence: 0.0
+    text: money returned to a payer
+  hypernym:
+  - 13299398-n
+  ili: i106463
+  members:
+  - aisíoc
+  partOfSpeech: n
+13303298-n:
+  definition:
+  - confidence: 0.0
+    text: a refund of some fraction of the amount paid
+  hypernym:
+  - 13303184-n
+  ili: i106464
+  members:
+  - lacáiste
+  partOfSpeech: n
+13304643-n:
+  definition:
+  - confidence: 0.0
+    text: court-ordered support paid by one spouse to another after they are separated
+  hypernym:
+  - 13299398-n
+  ili: i106472
+  members:
+  - ailiúnas
+  partOfSpeech: n
+13305585-n:
+  definition:
+  - confidence: 0.0
+    text: payment made to a person in a position of trust to corrupt their judgment
+  hypernym:
+  - 13299398-n
+  ili: i106480
+  members:
+  - breab
+  partOfSpeech: n
+13306642-n:
+  definition:
+  - confidence: 0.0
+    text: a portion of something (especially money)
+  hypernym:
+  - 00032220-n
+  ili: i106485
+  members:
+  - tráinse
+  partOfSpeech: n
+13310767-n:
+  definition:
+  - confidence: 0.0
+    text: a proportional share assigned to each participant
+  hypernym:
+  - 00032220-n
+  ili: i106510
+  members:
+  - cuóta
+  partOfSpeech: n
+13310868-n:
+  definition:
+  - confidence: 0.0
+    text: money set aside (as by a legislature) for a specific purpose
+  hypernym:
+  - 13405730-n
+  ili: i106511
+  members:
+  - leithreasú
+  partOfSpeech: n
+13311025-n:
+  definition:
+  - confidence: 0.0
+    text: compensation paid (to someone) for damages or losses or money already spent
+      etc.
+  hypernym:
+  - 13303030-n
+  ili: i106512
+  members:
+  - aisíoc
+  partOfSpeech: n
+13312212-n:
+  definition:
+  - confidence: 0.0
+    text: a compensating equivalent
+  hypernym:
+  - 13303030-n
+  ili: i106517
+  members:
+  - fritháireamh
+  partOfSpeech: n
+13315526-n:
+  definition:
+  - confidence: 0.0
+    text: income from capital investment paid in a series of regular payments
+  hypernym:
+  - 13299398-n
+  ili: i106537
+  members:
+  - blianacht
+  partOfSpeech: n
+13316680-n:
+  definition:
+  - confidence: 0.0
+    text: a payment or series of payments made by the lessee to an owner for use of
+      some property, facility, equipment, or service
+  hypernym:
+  - 13315526-n
+  ili: i106542
+  members:
+  - cíos
+  partOfSpeech: n
+13320271-n:
+  definition:
+  - confidence: 0.0
+    text: a complete payment consisting of a single sum of money
+  hypernym:
+  - 13299398-n
+  ili: i106563
+  members:
+  - cnapshuim
+  partOfSpeech: n
+13320674-n:
+  definition:
+  - confidence: 0.0
+    text: payment of a debt or obligation
+  hypernym:
+  - 13299398-n
+  ili: i106566
+  members:
+  - aisíocaíocht
+  partOfSpeech: n
+13321434-n:
+  definition:
+  - confidence: 0.0
+    text: act of failing to meet a financial obligation
+  hypernym:
+  - 00067456-n
+  ili: i106571
+  members:
+  - mainneachtain
+  partOfSpeech: n
+13322350-n:
+  definition:
+  - confidence: 0.0
+    text: money extracted as a penalty
+  hypernym:
+  - 13299398-n
+  ili: i106577
+  members:
+  - fíneáil
+  partOfSpeech: n
+13322642-n:
+  definition:
+  - confidence: 0.0
+    text: payment for insurance
+  hypernym:
+  - 13299398-n
+  ili: i106579
+  members:
+  - préimh
+  partOfSpeech: n
+13327892-n:
+  definition:
+  - confidence: 0.0
+    text: the price charged for some article or service
+  hypernym:
+  - 13296870-n
+  ili: i106612
+  members:
+  - táille
+  partOfSpeech: n
+13329169-n:
+  definition:
+  - confidence: 0.0
+    text: the sum charged for riding in a public conveyance
+  hypernym:
+  - 13327892-n
+  ili: i106619
+  members:
+  - táille
+  partOfSpeech: n
+13329886-n:
+  definition:
+  - confidence: 0.0
+    text: a charge imposed and collected
+  hypernym:
+  - 00032220-n
+  ili: i106625
+  members:
+  - tobhach
+  partOfSpeech: n
+13330021-n:
+  definition:
+  - confidence: 0.0
+    text: charge against a citizen's person or property or activity for the support
+      of government
+  hypernym:
+  - 13329886-n
+  ili: i106626
+  members:
+  - cáin
+  partOfSpeech: n
+13337021-n:
+  definition:
+  - confidence: 0.0
+    text: a government tax on imports or exports
+  hypernym:
+  - 13330021-n
+  ili: i106669
+  members:
+  - dleacht
+  - taraif
+  partOfSpeech: n
+13337354-n:
+  definition:
+  - confidence: 0.0
+    text: a tax that is measured by the amount of business done (not on property or
+      income from real estate)
+  hypernym:
+  - 13330021-n
+  ili: i106670
+  members:
+  - mál
+  partOfSpeech: n
+13338024-n:
+  definition:
+  - confidence: 0.0
+    text: money collected under a tariff
+  hypernym:
+  - 13337021-n
+  ili: i106674
+  members:
+  - custam
+  partOfSpeech: n
+13338291-n:
+  definition:
+  - confidence: 0.0
+    text: a tax imposed on ships that enter the US; based on the tonnage of the ship
+  hypernym:
+  - 13337021-n
+  ili: i106676
+  members:
+  - tonnáiste
+  partOfSpeech: n
+13339606-n:
+  definition:
+  - confidence: 0.0
+    text: a fixed charge for borrowing money; usually a percentage of the amount borrowed
+  hypernym:
+  - 13327892-n
+  ili: i106686
+  members:
+  - ús
+  partOfSpeech: n
+13340054-n:
+  definition:
+  - confidence: 0.0
+    text: the percentage of a sum of money charged for its use
+  hypernym:
+  - 13346032-n
+  ili: i106689
+  members:
+  - ráta úis
+  partOfSpeech: n
+13341190-n:
+  definition:
+  - confidence: 0.0
+    text: a fixed charge for a privilege or for professional services
+  hypernym:
+  - 13327892-n
+  ili: i106696
+  members:
+  - táille
+  partOfSpeech: n
+13341882-n:
+  definition:
+  - confidence: 0.0
+    text: a fee for services rendered based on a percentage of an amount received
+      or collected or agreed to be paid (as distinguished from a salary)
+  hypernym:
+  - 13341190-n
+  ili: i106699
+  members:
+  - coimisiún
+  partOfSpeech: n
+13344335-n:
+  definition:
+  - confidence: 0.0
+    text: a fee charged in advance to retain the services of someone
+  hypernym:
+  - 13341190-n
+  ili: i106715
+  members:
+  - comaoin
+  partOfSpeech: n
+13344771-n:
+  definition:
+  - confidence: 0.0
+    text: a fee levied for the use of roads or bridges
+  hypernym:
+  - 13341190-n
+  ili: i106718
+  members:
+  - dola
+  partOfSpeech: n
+13345848-n:
+  definition:
+  - confidence: 0.0
+    text: the charge for mailing something
+  hypernym:
+  - 13327892-n
+  ili: i106726
+  members:
+  - postas
+  partOfSpeech: n
+13346032-n:
+  definition:
+  - confidence: 0.0
+    text: amount of a charge or payment relative to some basis
+  hypernym:
+  - 13327892-n
+  ili: i106728
+  members:
+  - ráta
+  partOfSpeech: n
+13346527-n:
+  definition:
+  - confidence: 0.0
+    text: an additional charge (as for items previously omitted or as a penalty for
+      failure to exercise common caution or common skill)
+  hypernym:
+  - 13327892-n
+  ili: i106730
+  members:
+  - formhuirear
+  partOfSpeech: n
+13348698-n:
+  definition:
+  - confidence: 0.0
+    text: something that is lost
+  hypernym:
+  - 00032220-n
+  ili: i106744
+  members:
+  - caill
+  - cailliúint
+  - caillteanas
+  partOfSpeech: n
+13354252-n:
+  definition:
+  - confidence: 0.0
+    text: money that is invested with an expectation of profit
+  hypernym:
+  - 00032220-n
+  ili: i106772
+  members:
+  - infheistíocht
+  partOfSpeech: n
+13354435-n:
+  definition:
+  - confidence: 0.0
+    text: the ownership interest of shareholders in a corporation
+  hypernym:
+  - 00032220-n
+  ili: i106773
+  members:
+  - cothromas
+  partOfSpeech: n
+13354848-n:
+  definition:
+  - confidence: 0.0
+    text: the capital raised by a corporation through the issue of shares entitling
+      holders to an ownership interest (equity)
+  hypernym:
+  - 13375435-n
+  ili: i106776
+  members:
+  - stoc
+  partOfSpeech: n
+13358337-n:
+  definition:
+  - confidence: 0.0
+    text: the price at which buyers and sellers trade the item in an open marketplace
+  hypernym:
+  - 04731092-n
+  ili: i106795
+  members:
+  - margadhluach
+  partOfSpeech: n
+13363150-n:
+  definition:
+  - confidence: 0.0
+    text: any of the equal portions into which the capital stock of a corporation
+      is divided and ownership of which is evidenced by a stock certificate
+  hypernym:
+  - 13437518-n
+  ili: i106820
+  members:
+  - scair
+  partOfSpeech: n
+13363707-n:
+  definition:
+  - confidence: 0.0
+    text: an investment that is very risky but could yield great profits
+  hypernym:
+  - 13354252-n
+  ili: i106823
+  members:
+  - amhantraíocht
+  partOfSpeech: n
+13365819-n:
+  definition:
+  - confidence: 0.0
+    text: promise of reimbursement in the case of loss; paid to people or companies
+      so concerned about hazards that they have made prepayments to an insurance company
+  hypernym:
+  - 00032220-n
+  ili: i106834
+  members:
+  - árachas
+  partOfSpeech: n
+13369471-n:
+  definition:
+  - confidence: 0.0
+    text: sharing the risk by insurance companies; part or all of the insurer's risk
+      is assumed by other companies in return for part of the premium paid by the
+      insured
+  hypernym:
+  - 13365819-n
+  ili: i106851
+  members:
+  - athárachas
+  partOfSpeech: n
+13370410-n:
+  definition:
+  - confidence: 0.0
+    text: property that your creditor can claim in case you default on your obligation
+  hypernym:
+  - 00032220-n
+  ili: i106855
+  members:
+  - urrús
+  partOfSpeech: n
+13372293-n:
+  definition:
+  - confidence: 0.0
+    text: the amount of collateral a customer deposits with a broker when borrowing
+      from the broker to buy securities
+  hypernym:
+  - 13299398-n
+  ili: i106865
+  members:
+  - corrlach
+  - lamháil
+  partOfSpeech: n
+13373153-n:
+  definition:
+  - confidence: 0.0
+    text: a conditional conveyance of property as security for the repayment of a
+      loan
+  hypernym:
+  - 00032220-n
+  ili: i106870
+  members:
+  - morgáiste
+  partOfSpeech: n
+13373880-n:
+  definition:
+  - confidence: 0.0
+    text: a security pledged for the repayment of a loan
+  hypernym:
+  - 00032220-n
+  ili: i106875
+  members:
+  - comhthaobhacht
+  partOfSpeech: n
+13374295-n:
+  definition:
+  - confidence: 0.0
+    text: an abundance of material possessions and resources
+  hypernym:
+  - 00032220-n
+  ili: i106878
+  members:
+  - saibhreas
+  partOfSpeech: n
+13375435-n:
+  definition:
+  - confidence: 0.0
+    text: assets available for use in the production of further assets
+  hypernym:
+  - 00032220-n
+  ili: i106885
+  members:
+  - caipiteal
+  partOfSpeech: n
+13378158-n:
+  definition:
+  - confidence: 0.0
+    text: the funds of a government or institution or individual
+  hypernym:
+  - 00032220-n
+  ili: i106898
+  members:
+  - státchiste
+  partOfSpeech: n
+13379722-n:
+  definition:
+  - confidence: 0.0
+    text: a reserve of money set aside for some purpose
+  hypernym:
+  - 13405730-n
+  ili: i106908
+  members:
+  - ciste
+  partOfSpeech: n
+13381671-n:
+  definition:
+  - confidence: 0.0
+    text: something (as property) held by one party (the trustee) for the benefit
+      of another (the beneficiary)
+  hypernym:
+  - 13265007-n
+  ili: i106920
+  members:
+  - iontaobhas
+  partOfSpeech: n
+13386459-n:
+  definition:
+  - confidence: 0.0
+    text: the financial means whereby one lives
+  hypernym:
+  - 00032220-n
+  ili: i106945
+  members:
+  - coinneáil
+  - maireachtáil
+  partOfSpeech: n
+13386871-n:
+  definition:
+  - confidence: 0.0
+    text: financial resources provided to make some project possible
+  hypernym:
+  - 00032220-n
+  ili: i106946
+  members:
+  - cistiúchán
+  partOfSpeech: n
+13388243-n:
+  definition:
+  - confidence: 0.0
+    text: a supply of something available for future use
+  hypernym:
+  - 13279261-n
+  ili: i106954
+  members:
+  - stór
+  partOfSpeech: n
+13393576-n:
+  definition:
+  - confidence: 0.0
+    text: a smooth lustrous round structure inside the shell of a clam or oyster;
+      much valued as a jewel
+  hypernym:
+  - 03601980-n
+  ili: i106987
+  members:
+  - péarla
+  partOfSpeech: n
+13395454-n:
+  definition:
+  - confidence: 0.0
+    text: arrangement for deferred payment for goods and services
+  hypernym:
+  - 13299398-n
+  ili: i106998
+  members:
+  - creidmheas
+  partOfSpeech: n
+13397064-n:
+  definition:
+  - confidence: 0.0
+    text: an amount paid before it is earned
+  hypernym:
+  - 00032220-n
+  ili: i107008
+  members:
+  - airleacan
+  - réamhíocaíocht
+  partOfSpeech: n
+13402318-n:
+  definition:
+  - confidence: 0.0
+    text: money deposited in a bank or some similar institution
+  hypernym:
+  - 13379722-n
+  ili: i107038
+  members:
+  - taisce
+  partOfSpeech: n
+13402907-n:
+  definition:
+  - confidence: 0.0
+    text: a written order directing a bank to pay money
+  hypernym:
+  - 06491336-n
+  ili: i107042
+  members:
+  - seic
+  partOfSpeech: n
+13405337-n:
+  definition:
+  - confidence: 0.0
+    text: a regular payment to a person that is intended to allow them to subsist
+      without working
+  hypernym:
+  - 13299398-n
+  ili: i107055
+  members:
+  - pinsean
+  partOfSpeech: n
+13405730-n:
+  definition:
+  - confidence: 0.0
+    text: the most common medium of exchange; functions as legal tender
+  hypernym:
+  - 07275291-n
+  ili: i107057
+  members:
+  - airgead
+  partOfSpeech: n
+13406253-n:
+  definition:
+  - confidence: 0.0
+    text: British money; especially the pound sterling as the basic monetary unit
+      of the UK
+  hypernym:
+  - 13407086-n
+  ili: i107059
+  members:
+  - steirling
+  partOfSpeech: n
+13407086-n:
+  definition:
+  - confidence: 0.0
+    text: the metal or paper medium of exchange that is presently used
+  hypernym:
+  - 07275291-n
+  ili: i107064
+  members:
+  - airgeadra
+  partOfSpeech: n
+13407787-n:
+  definition:
+  - confidence: 0.0
+    text: money in the form of bills or coins
+  hypernym:
+  - 13407086-n
+  ili: i107068
+  members:
+  - airgead tirim
+  partOfSpeech: n
+13409418-n:
+  definition:
+  - confidence: 0.0
+    text: a flat metal piece (usually a disc) used as money
+  hypernym:
+  - 13407086-n
+  ili: i107076
+  members:
+  - bonn
+  partOfSpeech: n
+13414935-n:
+  definition:
+  - confidence: 0.0
+    text: a piece of paper money (especially one issued by a central bank)
+  hypernym:
+  - 13407086-n
+  ili: i107118
+  members:
+  - bille
+  - nóta
+  partOfSpeech: n
+13417070-n:
+  definition:
+  - confidence: 0.0
+    text: a piece of paper money worth one dollar
+  hypernym:
+  - 13414935-n
+  ili: i107131
+  members:
+  - dollar
+  partOfSpeech: n
+13418347-n:
+  definition:
+  - confidence: 0.0
+    text: money or goods or services owed by one person to another
+  hypernym:
+  - 00032220-n
+  ili: i107139
+  members:
+  - fiach
+  - fiachas
+  partOfSpeech: n
+13420126-n:
+  definition:
+  - confidence: 0.0
+    text: the temporary provision of money (usually at interest)
+  hypernym:
+  - 13418347-n
+  ili: i107149
+  members:
+  - iasacht
+  partOfSpeech: n
+13421835-n:
+  definition:
+  - confidence: 0.0
+    text: the original amount of a debt on which interest is calculated
+  hypernym:
+  - 13418347-n
+  ili: i107159
+  members:
+  - bunairgead
+  - príomhshuim
+  partOfSpeech: n
+13425137-n:
+  definition:
+  - confidence: 0.0
+    text: a record of the financial situation of an institution on a particular date
+      by listing its assets and the claims against those assets
+  hypernym:
+  - 00033319-n
+  ili: i107177
+  members:
+  - clár comhardaithe
+  partOfSpeech: n
+13425421-n:
+  definition:
+  - confidence: 0.0
+    text: a record in which commercial accounts are recorded
+  hypernym:
+  - 00033319-n
+  ili: i107179
+  members:
+  - mórleabhar
+  partOfSpeech: n
+13426980-n:
+  definition:
+  - confidence: 0.0
+    text: an accounting entry acknowledging sums that are owing
+  hypernym:
+  - 00033319-n
+  ili: i107188
+  members:
+  - dochar
+  partOfSpeech: n
+13429196-n:
+  definition:
+  - confidence: 0.0
+    text: that part of the earnings of a corporation that is distributed to its shareholders;
+      usually paid quarterly
+  hypernym:
+  - 13279261-n
+  ili: i107200
+  members:
+  - díbhinn
+  partOfSpeech: n
+13430153-n:
+  definition:
+  - confidence: 0.0
+    text: equality between the totals of the credit and debit sides of an account
+  hypernym:
+  - 04755139-n
+  ili: i107206
+  members:
+  - iarmhéid
+  partOfSpeech: n
+13432330-n:
+  definition:
+  - confidence: 0.0
+    text: an inspection of the accounting procedures and records by a trained accountant
+      or CPA
+  hypernym:
+  - 00033319-n
+  ili: i107215
+  members:
+  - iniúchóireacht
+  partOfSpeech: n
+13434666-n:
+  definition:
+  - confidence: 0.0
+    text: the amount (of money or goods or services) that is considered to be a fair
+      equivalent for something else
+  hypernym:
+  - 00033914-n
+  ili: i107228
+  members:
+  - luach
+  partOfSpeech: n
+13435332-n:
+  definition:
+  - confidence: 0.0
+    text: a record of deposits and withdrawals and interest held by depositors at
+      certain banks
+  hypernym:
+  - 00033319-n
+  ili: i107231
+  members:
+  - pasleabhar
+  partOfSpeech: n
+13437518-n:
+  definition:
+  - confidence: 0.0
+    text: a formal declaration that documents a fact of relevance to finance and investment;
+      the holder has a right to receive interest or dividends
+  hypernym:
+  - 06491336-n
+  ili: i107247
+  members:
+  - urrús
+  partOfSpeech: n
+13438583-n:
+  definition:
+  - confidence: 0.0
+    text: a certificate of debt (usually interest-bearing or discounted) that is issued
+      by a government or corporation in order to raise money; the issuer is required
+      to pay a fixed sum annually until maturity and then a fixed sum to repay the
+      principal
+  hypernym:
+  - 13437518-n
+  ili: i107251
+  members:
+  - banna
+  partOfSpeech: n
+13443005-n:
+  definition:
+  - confidence: 0.0
+    text: a sum of money allocated for a particular purpose
+  hypernym:
+  - 13379722-n
+  ili: i107272
+  members:
+  - buiséad
+  partOfSpeech: n

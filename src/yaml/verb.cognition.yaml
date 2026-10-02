@@ -1,0 +1,1233 @@
+00590283-v:
+  definition:
+  - nádúr nó ciall de a thuiscint nó eolas a bheith ag faoi
+  example:
+  - Níor thuig sí a fear céile
+  hypernym:
+  - 00596016-v
+  ili: i24710
+  members:
+  - tuig
+  partOfSpeech: v
+00592510-v:
+  definition:
+  - braith go meabhrach (smaoineamh nó cúrsaí)
+  example:
+  - Tuigim anois!
+  hypernym:
+  - 00630153-v
+  ili: i24720
+  members:
+  - tuig
+  - aithin
+  - bain amach
+  - feic
+  partOfSpeech: v
+00594278-v:
+  definition:
+  - glac (duine) mar a éilítear nó glac lena chumhacht agus lena údarás
+  example:
+  - Aithníodh Prionsa na Corónach mar an fíor-oidhre ar an ríchathaoir
+  hypernym:
+  - 00688348-v
+  ili: i24728
+  members:
+  - aithin
+  - admhaigh
+  partOfSpeech: v
+00595732-v:
+  definition:
+  - aithne a chur ar dhuine nó rud
+  example:
+  - Níl aithne aici ar an gcumadóir seo
+  hypernym:
+  - 00596016-v
+  ili: i24735
+  members:
+  - aithin
+  - bí aithne ag
+  partOfSpeech: v
+00596016-v:
+  definition:
+  - a bheith feasach faoi fhíric nó í a thuiscint; eolas nó faisnéis a bheith agat
+    faoi
+  example:
+  - Tá a fhios agam gur ag insint bréag don phobal a bhí an tUachtarán
+  ili: i24736
+  members:
+  - bí a fhios ag
+  - eolas a bheith ag
+  partOfSpeech: v
+00597330-v:
+  definition:
+  - a bheith eolach faoi conas rud éigin a dhéanamh
+  example:
+  - D'fhoghlaim sí ceird na cniotála
+  hypernym:
+  - 00596016-v
+  ili: i24741
+  members:
+  - foghlaim
+  - bí taithí ag ar
+  - bí a fhios ag
+  partOfSpeech: v
+00598039-v:
+  definition:
+  - eolas pearsanta a bheith agat ar stáit, cásanna, mothúcháin nó braistintí
+  example:
+  - Tá taithí agam ar an mothúchán seo.
+  hypernym:
+  - 02114674-v
+  ili: i24745
+  members:
+  - taithigh
+  - mair
+  - a fhios a bheith agat
+  partOfSpeech: v
+00599310-v:
+  definition:
+  - eolas nó scileanna a ghnóthú
+  example:
+  - D'fhoghlaim sí damhsa óna deirfiúr
+  hypernym:
+  - 02293158-v
+  ili: i24750
+  members:
+  - foghlaim
+  partOfSpeech: v
+00600349-v:
+  definition:
+  - aithne a chur ar nó éirigh feasach, de ghnáth faoi thimpiste
+  example:
+  - D'fhoghlaim mé go bhfuil beirt pháistí fásta aici
+  hypernym:
+  - 02372362-v
+  ili: i24755
+  members:
+  - foghlaim
+  - faigh amach
+  - feic
+  - clois
+  - tar ar
+  - beir ar
+  partOfSpeech: v
+00601387-v:
+  definition:
+  - bheith i do mhac léinn ar ábhar áirithe
+  example:
+  - Tá sí ag léamh don scrúdú an bharra
+  hypernym:
+  - 02372362-v
+  ili: i24760
+  members:
+  - déan
+  - staidéar a dhéanamh
+  - léigh
+  - foghlaim
+  partOfSpeech: v
+00604693-v:
+  definition:
+  - cruthaigh trí oiliúint agus teagasc
+  example:
+  - Tá an seanmháistir ag ullmhú veidhleadóirí den chéad scoth
+  hypernym:
+  - 00830768-v
+  ili: i24776
+  members:
+  - forbair
+  - oil
+  - ullmhaigh
+  - oideachas a chur ar
+  partOfSpeech: v
+00609334-v:
+  definition:
+  - eolas a thabhairt chun cuimhne; cuimhne a bheith ag
+  example:
+  - Ní cuimhin liom rud ar bith dá shórt a rá
+  hypernym:
+  - 00630153-v
+  ili: i24799
+  members:
+  - smaoinigh
+  - tabhair chun cuimhne
+  - cuimhnigh ar
+  - cuimhnigh
+  - meabhraigh
+  partOfSpeech: v
+00611237-v:
+  definition:
+  - a choinneáil i gcuimhne chun críche airde nó machnaimh
+  example:
+  - Cuimhnigh ar an Alamo
+  hypernym:
+  - 00630153-v
+  ili: i24808
+  members:
+  - smaoinigh ar
+  - cuimhnigh ar
+  partOfSpeech: v
+00611721-v:
+  definition:
+  - a chur as an intinn; cosc a chur ar an gcuimhne
+  example:
+  - Rinne mé iarrachtaí na cuimhní gránna seo a bhrú faoi chois
+  hypernym:
+  - 02292634-v
+  ili: i24810
+  members:
+  - brúigh faoi chois
+  - déan dearmad
+  partOfSpeech: v
+00612092-v:
+  definition:
+  - confidence: 0.0
+    text: put in the mind of someone
+  hypernym:
+  - 02372362-v
+  ili: i24812
+  members:
+  - meabhraigh
+  partOfSpeech: v
+00615374-v:
+  definition:
+  - téigh nó fág taobh thiar de, ceachtar acu d'aon ghnó nó de bharr faillí nó neamairt
+  example:
+  - D'fhág sí an áit ina ciseadh tar éis di a bhogadh amach
+  hypernym:
+  - 01839438-v
+  ili: i24826
+  members:
+  - fág
+  partOfSpeech: v
+00617464-v:
+  definition:
+  - cosc a chur ar áireamh nó a mheas nó a ghlacadh
+  example:
+  - Fágadh na drochthorthaí as an áireamh sa tuarascáil
+  hypernym:
+  - 00472642-v
+  ili: i24834
+  members:
+  - tóg amach
+  - fág amach
+  - fág ar lár
+  - seachas
+  - eisiaigh
+  partOfSpeech: v
+00620568-v:
+  definition:
+  - aithin mar, céannacht duine nó rud éigin a bhunú
+  example:
+  - D'aithin sí an fear ar an bpóstaer 'theastaigh'
+  hypernym:
+  - 00701581-v
+  ili: i24849
+  members:
+  - aithin
+  - áirigh
+  - sainaithin
+  partOfSpeech: v
+00621282-v:
+  definition:
+  - confidence: 0.0
+    text: mistake one thing for another
+  hypernym:
+  - 00609334-v
+  ili: i24852
+  members:
+  - measc
+  partOfSpeech: v
+00624823-v:
+  definition:
+  - confidence: 0.0
+    text: make sense of; assign a meaning to
+  hypernym:
+  - 00590283-v
+  ili: i24866
+  members:
+  - forléirigh
+  partOfSpeech: v
+00626148-v:
+  definition:
+  - rud éigin a léirmhíniú ar bhealach áirithe; brí nó tuiscint ar leith a chur in
+    iúl
+  example:
+  - Léigh mé an seoladh seo mar aoir
+  hypernym:
+  - 00624823-v
+  ili: i24872
+  members:
+  - tóg
+  - léigh
+  partOfSpeech: v
+00626756-v:
+  definition:
+  - ciall a bhaint as rud atá scríofa nó priontáilte
+  example:
+  - fógra a léamh
+  hypernym:
+  - 00624823-v
+  ili: i24875
+  members:
+  - léigh
+  partOfSpeech: v
+00630153-v:
+  definition:
+  - an intinn nó cumas réasúnaíochta a úsáid nó a chur i bhfeidhm chun tátail, cinntí
+    a dhéanamh, nó chun teacht ar réiteach nó ar bhreithiúnais
+  example:
+  - Smaoinigh mé faoi le linn an lae ar fad agus níl aon dul chun cinn á dhéanamh
+    agam
+  hypernym:
+  - 02372362-v
+  ili: i24893
+  members:
+  - smaoinigh
+  partOfSpeech: v
+00632042-v:
+  definition:
+  - machnamh domhain a dhéanamh ar ábhar
+  example:
+  - Rinne mé dianmhachnamh ar na himeachtaí an tráthnóna
+  hypernym:
+  - 00630153-v
+  ili: i24900
+  members:
+  - tuairimigh
+  - cuimhnigh ar
+  - machnaigh
+  - meabhraigh
+  - smaoinigh faoi
+  - cíor
+  - smaoinigh ar
+  - smaoinigh
+  - scailtín a dhéanamh de
+  - dianmhachnamh a dhéanamh ar
+  - machnaigh ar
+  partOfSpeech: v
+00633399-v:
+  definition:
+  - a bheith ag súil le, creid, nó glac
+  example:
+  - Samhlaím go bhfuil tuilleadh airgid tuillte aici agus a húrscéal foilsithe
+  hypernym:
+  - 00721658-v
+  ili: i24904
+  members:
+  - smaoinigh
+  - tomhais
+  - samhlaigh
+  - síl
+  - ceap
+  - glac
+  - tuairimigh
+  - meas
+  - creid
+  partOfSpeech: v
+00633898-v:
+  definition:
+  - glac le cás agus é a chreidiúint; glac le gan dearbhú nó fianaise
+  example:
+  - Glacaim leis go raibh a thraein déanach
+  hypernym:
+  - 00721658-v
+  ili: i24905
+  members:
+  - glac le
+  - toimhdigh
+  - déan talamh slán de
+  - meas
+  partOfSpeech: v
+00635105-v:
+  definition:
+  - creid go háirithe ar fhorais éiginnte nó trialach
+  example:
+  - Cheap eolaithe go raibh dineasáir mhóra ina gcónaí i seascainn
+  hypernym:
+  - 00721658-v
+  ili: i24910
+  members:
+  - tuairimigh
+  - glac le
+  - ceap
+  - geall chun críche ar leith
+  - hipitéis a thabhairt
+  - teoiric a bheartú
+  partOfSpeech: v
+00636134-v:
+  definition:
+  - cinneadh a dhéanamh de réir réasúnaíochta, tarraing nó tar ar chonclúid
+  example:
+  - Rinneamar amach go raibh sé níos saoire áit a fháil ar cíos ná teach a cheannach
+  hypernym:
+  - 00630153-v
+  ili: i24913
+  members:
+  - déan amach
+  - cinn
+  - conclúidigh
+  partOfSpeech: v
+00636568-v:
+  definition:
+  - teacht ar réiteach (fadhb nó ceist) nó tuiscint a fháil ar bhrí
+  example:
+  - ar réitigh tú an fhadhb?
+  hypernym:
+  - 00590283-v
+  ili: i24914
+  members:
+  - oibrigh
+  - oibrigh amach
+  - réitigh
+  - déan amach
+  - lí
+  partOfSpeech: v
+00638236-v:
+  definition:
+  - chúis trí asbhaint, bunaigh trí asbhaint
+  hypernym:
+  - 00636134-v
+  ili: i24922
+  members:
+  - díorthaigh
+  - tátal
+  - asbhaint
+  partOfSpeech: v
+00638550-v:
+  definition:
+  - úsáid mar bhonn le haghaidh; bunaithe ar
+  example:
+  - breithiúnas a bhunú ar bheagán breathnóireachta
+  hypernym:
+  - 01631641-v
+  ili: i24923
+  members:
+  - bunaigh
+  partOfSpeech: v
+00638921-v:
+  definition:
+  - áireamh matamaitice nó ríomh a dhéanamh
+  hypernym:
+  - 00630153-v
+  ili: i24925
+  members:
+  - oibrigh amach
+  - meas
+  - déan amach
+  - áirigh
+  - ríomh
+  partOfSpeech: v
+00640499-v:
+  definition:
+  - confidence: 0.0
+    text: perform mathematical and logical operations on (data) according to programmed
+      instructions in order to obtain the required information
+  hypernym:
+  - 00638921-v
+  ili: i24929
+  members:
+  - próiseáil
+  partOfSpeech: v
+00643760-v:
+  definition:
+  - confidence: 0.0
+    text: perform a division
+  hypernym:
+  - 00638921-v
+  ili: i24946
+  members:
+  - roinn
+  partOfSpeech: v
+00644306-v:
+  definition:
+  - confidence: 0.0
+    text: estimate the value of something based on known values
+  hypernym:
+  - 00638921-v
+  ili: i24949
+  members:
+  - idirshuigh
+  partOfSpeech: v
+00646245-v:
+  definition:
+  - machnamh a dhéanamh go mion agus déantar anailís chun teacht ar ghnéithe nó cialla
+    riachtanacha
+  example:
+  - déan anailís ar shoinéad de chuid Shakespeare
+  hypernym:
+  - 00692380-v
+  ili: i24957
+  members:
+  - déan staidéar
+  - déan anailís
+  - iniúch
+  - scrúdaigh
+  - anailísigh
+  partOfSpeech: v
+00648747-v:
+  definition:
+  - tomhais rud nó duine éigin a chinneadh, tomhais a ghlacadh de
+  example:
+  - Tomhais fad an bhalla
+  hypernym:
+  - 00699355-v
+  ili: i24969
+  members:
+  - tomhais
+  - tomhais amach
+  - na tomhais a chinneadh
+  partOfSpeech: v
+00649877-v:
+  definition:
+  - confidence: 0.0
+    text: inquire into
+  hypernym:
+  - 00646245-v
+  ili: i24975
+  members:
+  - iniúch
+  partOfSpeech: v
+00652006-v:
+  definition:
+  - marcáil chomh difriúil
+  example:
+  - Dealaímid roinnt cineálacha mailpe
+  hypernym:
+  - 00620568-v
+  ili: i24985
+  members:
+  - dealaigh
+  - idirdhealaigh
+  - aithin
+  - inis óna chéile
+  partOfSpeech: v
+00654571-v:
+  definition:
+  - scrúdaigh agus na cosúlachtaí nó na difríochtaí a lua
+  example:
+  - Rinne John comparáid idir a chuid gruaige agus an ghruaig dá chara
+  hypernym:
+  - 00646245-v
+  ili: i24995
+  members:
+  - déan comparáid
+  partOfSpeech: v
+00656296-v:
+  definition:
+  - confidence: 0.0
+    text: arrange or order by classes or categories
+  hypernym:
+  - 00630153-v
+  ili: i25002
+  members:
+  - aicmigh
+  partOfSpeech: v
+00658247-v:
+  definition:
+  - confidence: 0.0
+    text: arrange into a group or groups
+  hypernym:
+  - 00656296-v
+  ili: i25009
+  members:
+  - grúpáil
+  partOfSpeech: v
+00659723-v:
+  definition:
+  - confidence: 0.0
+    text: assign a rank or rating to
+  hypernym:
+  - 00630153-v
+  ili: i25016
+  members:
+  - rangaigh
+  - rátáil
+  partOfSpeech: v
+00663742-v:
+  definition:
+  - scrúdaigh chun cruinneas, cáilíocht nó riocht a chinneadh
+  example:
+  - seiceáil na coscáin
+  hypernym:
+  - 00646245-v
+  ili: i25036
+  members:
+  - téigh siar ar
+  - seiceáil
+  - oibrigh amach
+  - seiceáil isteach
+  - seiceáil amach
+  - fiosraigh faoi
+  partOfSpeech: v
+00664507-v:
+  definition:
+  - a bheith cúramach nó cinnte agus ag déanamh ruda; déan cinnte de rud
+  example:
+  - Sheiceáil sé go raibh na comhlaí teann
+  hypernym:
+  - 00667804-v
+  ili: i25039
+  members:
+  - seiceáil
+  - cosaint a thabhairt ar
+  - cinntigh
+  - dearbhaigh
+  - smachtaigh
+  partOfSpeech: v
+00666194-v:
+  definition:
+  - confidence: 0.0
+    text: establish the authenticity of something
+  hypernym:
+  - 00822637-v
+  ili: i25047
+  members:
+  - fíordheimhnigh
+  partOfSpeech: v
+00666706-v:
+  definition:
+  - bailíocht ruda a dheimhniú, de bharr sampla, míniúcháin nó turgnaimh
+  example:
+  - Léirigh an turgnamh guagacht na comhdhúile
+  hypernym:
+  - 00667804-v
+  ili: i25049
+  members:
+  - taispeáin
+  - léirigh
+  - cruthaigh
+  - faigh amach
+  - deimhnigh
+  partOfSpeech: v
+00667394-v:
+  definition:
+  - tionscain, achtaigh nó bunaigh
+  example:
+  - dlíthe a dhéanamh
+  hypernym:
+  - 01620211-v
+  ili: i25052
+  members:
+  - déan
+  - leag síos
+  - bunaigh
+  partOfSpeech: v
+00667804-v:
+  definition:
+  - bunaigh nó neartaigh mar atá le fianaise nó fíricí nua
+  example:
+  - dheimhnigh a scéal mo dhabhtanna
+  hypernym:
+  - 02372362-v
+  ili: i25055
+  members:
+  - cothaigh
+  - cruthaigh
+  - deimhnigh
+  - tacaigh le
+  - comhdhearbhaigh
+  - daingnigh
+  - dearbhaigh
+  partOfSpeech: v
+00670017-v:
+  definition:
+  - cuir suas le rud éigin nó duine éigin míthaitneamhach
+  example:
+  - Ní féidir liom a cháineadh leanúnach a sheasamh
+  hypernym:
+  - 00803980-v
+  ili: i25064
+  members:
+  - fulaingt
+  - iompróidh
+  - díolama
+  - cuir suas
+  - seas
+  - fan amach
+  - boilg
+  - tacaigh
+  - brostaigh
+  partOfSpeech: v
+00672910-v:
+  definition:
+  - confidence: 0.0
+    text: have or maintain a position or stand on an issue
+  hypernym:
+  - 00630153-v
+  ili: i25075
+  members:
+  - seas
+  partOfSpeech: v
+00674352-v:
+  definition:
+  - breithiúnas a dhéanamh ar bhonn sealadach nó meastachán a dhéanamh de (cainníochtaí
+    nó am)
+  example:
+  - Measaim go meánn an sicín seo trí phunt
+  hypernym:
+  - 00638921-v
+  ili: i25082
+  members:
+  - meas
+  - tomhais
+  - déan breithiúnas ar
+  partOfSpeech: v
+00676526-v:
+  definition:
+  - pioc amach ó roinnt roghanna eile
+  example:
+  - Tóg aon cheann de na cártaí seo
+  hypernym:
+  - 00699355-v
+  ili: i25092
+  members:
+  - tóg
+  - roghnaigh
+  - pioc
+  - pioc amach
+  - togair
+  partOfSpeech: v
+00678369-v:
+  definition:
+  - confidence: 0.0
+    text: select carefully from a group
+  hypernym:
+  - 00676526-v
+  ili: i25099
+  members:
+  - pioc
+  partOfSpeech: v
+00681308-v:
+  definition:
+  - roghnaigh mar mhalairt ar cheann eile
+  example:
+  - Roghnaím an t-iasc thar na cúrsaí feola sa bhialann seo
+  hypernym:
+  - 00676526-v
+  ili: i25115
+  members:
+  - roghnaigh
+  - is fearr le
+  partOfSpeech: v
+00683348-v:
+  definition:
+  - meas nó measúnaigh an cineál, cailíocht, cumas, méid nó tábhacht le
+  example:
+  - Déanfaidh duine gairmiúil na seoda teaghlaigh a mheas
+  hypernym:
+  - 00630153-v
+  ili: i25125
+  members:
+  - tomhais
+  - meas
+  - measúnaigh
+  partOfSpeech: v
+00685199-v:
+  definition:
+  - glac mar go bhfuil sé fíor
+  example:
+  - Chreid mé a thuairisc
+  hypernym:
+  - 00688348-v
+  ili: i25132
+  members:
+  - creid
+  partOfSpeech: v
+00686739-v:
+  definition:
+  - meas mar rud de chuid
+  example:
+  - Áirím thú ar liosta na n-eascraíonn
+  hypernym:
+  - 00692380-v
+  ili: i25140
+  members:
+  - bheith san áireamh
+  - áirigh
+  partOfSpeech: v
+00688348-v:
+  definition:
+  - meas nó sealbhú mar fíor
+  example:
+  - Ní féidir liom glacadh le dogma na heaglaise seo
+  hypernym:
+  - 00630153-v
+  ili: i25147
+  members:
+  - glac le
+  - glac
+  partOfSpeech: v
+00691086-v:
+  definition:
+  - bhreithiúnas a dhéanamh; tuairim a fháil
+  example:
+  - Measaim go bhfuil sé an-chliste
+  hypernym:
+  - 00630153-v
+  ili: i25161
+  members:
+  - smaoinigh
+  - ceap
+  - creid
+  - síl
+  - meas
+  partOfSpeech: v
+00691692-v:
+  definition:
+  - breathnaigh ó mar nó smaoinigh ar
+  example:
+  - Bhreathnaigh sí ar an gceist seo mar gur jóc a bhí ann
+  hypernym:
+  - 00691086-v
+  ili: i25163
+  members:
+  - tabhair ar
+  - smaoinigh ar
+  - cuimhnigh ar
+  - breathnaigh ar
+  - meas a bheith ag ar
+  partOfSpeech: v
+00692071-v:
+  definition:
+  - mothúchán nó dearcadh fút féin a bheith agat mar fhreagra ar iompar nó dearcadh
+    duine
+  example:
+  - Mhothaigh sí beag agus neamhthábhachtach
+  hypernym:
+  - 00691086-v
+  ili: i25164
+  members:
+  - mothaigh
+  partOfSpeech: v
+00692380-v:
+  definition:
+  - measta a bheith
+  example:
+  - Amharcann sí ar chúrsaí ar bhealach difriúil
+  hypernym:
+  - 00691086-v
+  ili: i25165
+  members:
+  - feic
+  - meas
+  - creid
+  - síl
+  - ceap
+  - breathnaigh
+  - amharc
+  - féach
+  partOfSpeech: v
+00695546-v:
+  definition:
+  - coinneáil i gcuimhne nó léirigh mar creideamh láidir
+  example:
+  - déan deimhin do
+  hypernym:
+  - 00692380-v
+  ili: i25179
+  members:
+  - sealbhaigh
+  - meas
+  - glacadh le haghaidh amharc mar
+  partOfSpeech: v
+00695834-v:
+  definition:
+  - confidence: 0.0
+    text: regard highly; think much of
+  hypernym:
+  - 00692380-v
+  ili: i25180
+  members:
+  - urramaigh
+  partOfSpeech: v
+00697955-v:
+  definition:
+  - confidence: 0.0
+    text: look at again; examine again
+  hypernym:
+  - 00646245-v
+  ili: i25190
+  members:
+  - athbhreithnigh
+  partOfSpeech: v
+00698828-v:
+  definition:
+  - confidence: 0.0
+    text: examine carefully for accuracy with the intent of verification
+  hypernym:
+  - 00646245-v
+  ili: i25194
+  members:
+  - iniúch
+  partOfSpeech: v
+00699355-v:
+  definition:
+  - tar ar chinneadh faoi rud
+  example:
+  - Faoi dheireadh, i ndiaidh an-chuid machnaimh, rinneamar cinneadh
+  hypernym:
+  - 00630153-v
+  ili: i25196
+  members:
+  - déan cinneadh
+  - socraigh
+  - rialaigh
+  - déan suas
+  - beartaigh
+  - cinn
+  partOfSpeech: v
+00700621-v:
+  definition:
+  - confidence: 0.0
+    text: bring to an end; settle conclusively
+  hypernym:
+  - 00353480-v
+  ili: i25202
+  members:
+  - breithnigh
+  - cinn
+  - réitigh
+  - socraigh
+  partOfSpeech: v
+00701581-v:
+  definition:
+  - deisigh go deifnídeach nó go húdarásach
+  example:
+  - na rialacha a leag amach
+  hypernym:
+  - 02372362-v
+  ili: i25206
+  members:
+  - socraigh
+  - rialaigh
+  partOfSpeech: v
+00702806-v:
+  definition:
+  - cruth nó tionchar, treoir a thabhairt do
+  example:
+  - is minic a chinneann taithí cumas
+  hypernym:
+  - 01649143-v
+  ili: i25212
+  members:
+  - cruth
+  - rialaigh
+  - múnlaigh
+  - tionchar
+  - cinn
+  partOfSpeech: v
+00706456-v:
+  definition:
+  - pleananna a dhéanamh do rud éigin
+  example:
+  - Tá turas á phleanáil aige lena chlann
+  hypernym:
+  - 00630153-v
+  ili: i25230
+  members:
+  - pleanáil
+  partOfSpeech: v
+00706993-v:
+  definition:
+  - an toil agus an rún aicsean a chur i gcrích ag an duine
+  example:
+  - Tá plean aige bheith i scoil iarchéime an bhliain seo chugainn
+  hypernym:
+  - 00710367-v
+  ili: i25232
+  members:
+  - pleanáil
+  partOfSpeech: v
+00707813-v:
+  definition:
+  - beartaigh le roinnt féidearthacht a chomhlíonadh
+  example:
+  - Tá súil agam go mbeidh an obair seo críochnaithe agam tráthnóna amárach
+  hypernym:
+  - 00706993-v
+  ili: i25236
+  members:
+  - tabhair faoi
+  - bheith ag súil
+  partOfSpeech: v
+00708633-v:
+  definition:
+  - confidence: 0.0
+    text: make up plans or basic details for
+  hypernym:
+  - 00706456-v
+  ili: i25240
+  members:
+  - dréachtaigh
+  partOfSpeech: v
+00710367-v:
+  definition:
+  - a bheith ar intinn ag agus mar chuspóir
+  example:
+  - Níl dochar ar bith i gceist agam
+  hypernym:
+  - 02372362-v
+  ili: i25248
+  members:
+  - i gceist ag
+  - meas
+  - ceap
+  partOfSpeech: v
+00713544-v:
+  definition:
+  - cur san áireamh, bheith ar intinn ag
+  example:
+  - Smaoinigh sé ar an spadhar maidir le ag bogadh go Meiriceá Theas
+  hypernym:
+  - 00736077-v
+  ili: i25264
+  members:
+  - smaoinigh ar
+  partOfSpeech: v
+00713964-v:
+  definition:
+  - meas a bheith dóchúil
+  hypernym:
+  - 00630153-v
+  ili: i25266
+  members:
+  - meas
+  - ceap
+  - tuar
+  - ríomh
+  - comhair ar aghaidh
+  partOfSpeech: v
+00715072-v:
+  definition:
+  - nasc loighciúil nó fánach a dhéanamh
+  example:
+  - Ní féidir liom an dá phíosa fianaise seo a cheangal le chéile
+  hypernym:
+  - 00630153-v
+  ili: i25271
+  members:
+  - ceangal
+  - nasc
+  - bain
+  - ceangail
+  partOfSpeech: v
+00716979-v:
+  definition:
+  - confidence: 0.0
+    text: bring to a close
+  hypernym:
+  - 00353480-v
+  ili: i25278
+  members:
+  - críochnaigh
+  partOfSpeech: v
+00717144-v:
+  definition:
+  - creid ar bhun mothúcháin, iomais, nó cúiseanna éiginnte
+  example:
+  - ceapaim nach bhfuil sé tógtha liom
+  hypernym:
+  - 00636134-v
+  ili: i25279
+  members:
+  - creid
+  - síl
+  - meas
+  - ceap
+  - braith
+  - bí den tuairim
+  - mothaigh
+  partOfSpeech: v
+00717773-v:
+  definition:
+  - confidence: 0.0
+    text: decide with authority
+  hypernym:
+  - 00699355-v
+  ili: i25282
+  members:
+  - rialaigh
+  partOfSpeech: v
+00719282-v:
+  definition:
+  - freagairt nó frithghníomhú a léiriú do rud
+  hypernym:
+  - 02372362-v
+  ili: i25289
+  members:
+  - frithghníomhaigh
+  - freagair
+  partOfSpeech: v
+00721514-v:
+  definition:
+  - confidence: 0.0
+    text: respond to a signal
+  hypernym:
+  - 00719282-v
+  ili: i25299
+  members:
+  - freagair
+  partOfSpeech: v
+00721658-v:
+  definition:
+  - smaoinigh ar rud mar go bhfuil sé dóchúil nó ina fhéidearthacht
+  example:
+  - Tá na meitéareolaithe ag súil le báisteach don lá amárach
+  hypernym:
+  - 00630153-v
+  ili: i25300
+  members:
+  - bí ag súil le
+  - bí ag tnúth le
+  - bí ag dúil le
+  partOfSpeech: v
+00721987-v:
+  definition:
+  - bheith ag súil le rud gur dócha a tharlóidh
+  example:
+  - Bhíomar ag súil le gaolta ag tabhairt cuairt
+  hypernym:
+  - 00630153-v
+  ili: i25301
+  members:
+  - bí ag súil le
+  - fan ar
+  - fan le
+  partOfSpeech: v
+00723022-v:
+  definition:
+  - bheith muiníneach faoi rud éigin
+  example:
+  - Creidim go dtiocfaidh sé ar ais ón gcogadh
+  hypernym:
+  - 00721658-v
+  ili: i25306
+  members:
+  - creid
+  - muinín
+  partOfSpeech: v
+00724156-v:
+  definition:
+  - confidence: 0.0
+    text: direct one's attention on something
+  hypernym:
+  - 00630153-v
+  ili: i25312
+  members:
+  - dírigh
+  partOfSpeech: v
+00726112-v:
+  definition:
+  - acmhainn a thabhairt nó a shannadh do dhuine nó do chúis ar leith
+  example:
+  - Cuirfidh mé an t-airgead seo in áirithe le haghaidh do chuid taighde
+  hypernym:
+  - 02299397-v
+  ili: i25321
+  members:
+  - cuir i leataobh
+  - cuir in áirithe
+  - ceadaigh
+  - cuí
+  - leithreasaigh
+  partOfSpeech: v
+00728262-v:
+  definition:
+  - leag ar nó creidiúint a thabhairt do
+  example:
+  - Leagamar an luachan seo ar Shakespeare
+  hypernym:
+  - 00630153-v
+  ili: i25331
+  members:
+  - cur i leith
+  - cuir síos do
+  - tabhair
+  - leag ar
+  partOfSpeech: v
+00730579-v:
+  definition:
+  - a bheith go hiomlán feasach faoi
+  hypernym:
+  - 00596016-v
+  ili: i25342
+  members:
+  - tuig
+  - aithin
+  partOfSpeech: v
+00731071-v:
+  definition:
+  - confidence: 0.0
+    text: follow, discover, or ascertain the course of development of something
+  hypernym:
+  - 00646245-v
+  ili: i25345
+  members:
+  - lean
+  partOfSpeech: v
+00731363-v:
+  definition:
+  - a bheith le guí nó mian chun cur amach a fháil ar rud éigin
+  example:
+  - D'fhiosraigh sé cé a thóg an séipéal álainn seo
+  hypernym:
+  - 02382049-v
+  ili: i25346
+  members:
+  - fiosraigh
+  - fiafraigh
+  - cuir ceist
+  partOfSpeech: v
+00732037-v:
+  definition:
+  - intinn tagairt a dhéanamh do
+  example:
+  - Bím ag smaoineamh ar bhia maith nuair a labhraím faoin Fhrainc
+  hypernym:
+  - 00715072-v
+  ili: i25349
+  members:
+  - bheith i gcuimhne
+  - smaoineamh ar
+  - ciallaigh
+  partOfSpeech: v
+00732743-v:
+  definition:
+  - leirigh, foirmligh, nó bain san intinn
+  example:
+  - Tarraingím líne anseo
+  hypernym:
+  - 01620211-v
+  ili: i25353
+  members:
+  - tarraing
+  - léirigh
+  partOfSpeech: v
+00734247-v:
+  definition:
+  - tiomnaigh
+  example:
+  - smaoinigh ar
+  hypernym:
+  - 00630153-v
+  ili: i25360
+  members:
+  - tabhair
+  - mol
+  partOfSpeech: v
+00736077-v:
+  definition:
+  - rud a chur sa mheá agus ag tabhairt samplaí de
+  example:
+  - Tóg cás na Síne, mar shampla
+  hypernym:
+  - 00630153-v
+  ili: i25370
+  members:
+  - déileáil
+  - tóg
+  - breathnaigh
+  - smaoinigh faoi
+  - cuimhnigh ar
+  - machnaigh ar
+  partOfSpeech: v

@@ -1,0 +1,252 @@
+00001740-v:
+  definition:
+  - confidence: 0.0
+    text: draw air into, and expel out of, the lungs
+  hypernym:
+  - 02372362-v
+  ili: i21778
+  members:
+  - análaigh
+  partOfSpeech: v
+00010428-v:
+  definition:
+  - iompair ar bhealach áirithe, iompar áirithe a thaispeáint, iompair
+  example:
+  - Ba chóir duit gníomhú mar dhuine fásta
+  hypernym:
+  - 02372362-v
+  ili: i21819
+  members:
+  - iompar
+  - díbirt
+  - déan
+  - éigiontaigh
+  - gníomhaigh
+  partOfSpeech: v
+00014735-v:
+  definition:
+  - a bheith i do chodladh
+  hypernym:
+  - 01549783-v
+  ili: i21840
+  members:
+  - codail
+  - bí i do chodladh
+  partOfSpeech: v
+00018806-v:
+  definition:
+  - confidence: 0.0
+    text: cause to become awake or conscious
+  hypernym:
+  - 00126072-v
+  ili: i21860
+  members:
+  - dúisigh
+  partOfSpeech: v
+00028558-v:
+  definition:
+  - gotha gnúise a athrú faoi na beola a shíneadh, go minic chun pléisiúr a chur in
+    iúl
+  hypernym:
+  - 02382049-v
+  ili: i21904
+  members:
+  - déan miongháire
+  - déan meangadh gáire
+  partOfSpeech: v
+00031813-v:
+  definition:
+  - gáire a dhéanamh
+  hypernym:
+  - 01062889-v
+  ili: i21925
+  members:
+  - bí ag gáire
+  - déan gáire
+  - léirigh áthas
+  - taispeáin greann
+  partOfSpeech: v
+00035769-v:
+  definition:
+  - confidence: 0.0
+    text: clean one's body or parts thereof, as by washing
+  hypernym:
+  - 00206293-v
+  ili: i21945
+  members:
+  - glan
+  partOfSpeech: v
+00052091-v:
+  definition:
+  - a bheith gléasta i
+  example:
+  - Bhí sí ag caitheamh éadaí buí ar an lá sin
+  hypernym:
+  - 02208144-v
+  ili: i22034
+  members:
+  - caith
+  - bí ar
+  partOfSpeech: v
+00054856-v:
+  definition:
+  - confidence: 0.0
+    text: have offspring or produce more individuals of a given animal or plant
+  hypernym:
+  - 01620211-v
+  ili: i22048
+  members:
+  - atáirg
+  partOfSpeech: v
+00056076-v:
+  definition:
+  - confidence: 0.0
+    text: have young (animals) or reproduce (organisms)
+  hypernym:
+  - 00054856-v
+  ili: i22054
+  members:
+  - póraigh
+  partOfSpeech: v
+00063866-v:
+  definition:
+  - confidence: 0.0
+    text: provide physical relief, as from pain
+  hypernym:
+  - 00206293-v
+  ili: i22098
+  members:
+  - maolaigh
+  partOfSpeech: v
+00064414-v:
+  definition:
+  - confidence: 0.0
+    text: give trouble or pain to
+  hypernym:
+  - 00126072-v
+  ili: i22100
+  members:
+  - gortaigh
+  partOfSpeech: v
+00064841-v:
+  definition:
+  - confidence: 0.0
+    text: be in pain
+  hypernym:
+  - 01775456-v
+  ili: i22102
+  members:
+  - fulaing
+  partOfSpeech: v
+00065141-v:
+  definition:
+  - a bheith ag fulaingt mar gheall ar, a bheith tinn
+  example:
+  - Tá airtríteas aici
+  hypernym:
+  - 00064841-v
+  ili: i22103
+  members:
+  - ag
+  - roimh
+  partOfSpeech: v
+00065410-v:
+  definition:
+  - dul faoi (mar ghortuithe agus tinnis)
+  example:
+  - D'fhulaing sí briseadh sa timpiste
+  hypernym:
+  - 02112480-v
+  ili: i22105
+  members:
+  - faigh
+  - fulaing
+  - a bheith ag
+  partOfSpeech: v
+00065962-v:
+  definition:
+  - deora a chaillfidh mar gheall ar bhrón, buile nó pian
+  example:
+  - Chaoin sí go géar nuair a chuala sí scéala a bháis
+  hypernym:
+  - 01062889-v
+  ili: i22107
+  members:
+  - caoin
+  partOfSpeech: v
+00069650-v:
+  definition:
+  - confidence: 0.0
+    text: cause injuries or bodily harm to
+  hypernym:
+  - 00064414-v
+  ili: i22125
+  members:
+  - gortaigh
+  partOfSpeech: v
+00070949-v:
+  definition:
+  - confidence: 0.0
+    text: subject to torture
+  hypernym:
+  - 00069650-v
+  ili: i22131
+  members:
+  - céas
+  partOfSpeech: v
+00081834-v:
+  definition:
+  - feabhas a chur ar riocht na
+  example:
+  - Cuideoidh na piollairí seo an t-othar
+  hypernym:
+  - 00206293-v
+  ili: i22181
+  members:
+  - cuidigh le
+  partOfSpeech: v
+00082316-v:
+  definition:
+  - confidence: 0.0
+    text: provide relief for
+  hypernym:
+  - 02519853-v
+  ili: i22183
+  members:
+  - leigheas
+  partOfSpeech: v
+00086072-v:
+  definition:
+  - confidence: 0.0
+    text: give an injection to
+  hypernym:
+  - 02519853-v
+  ili: i22202
+  members:
+  - insteall
+  partOfSpeech: v
+00094214-v:
+  definition:
+  - teacht chun (gnéithe agus tréithe fisiceacha) a athrú nó dul faoi
+  example:
+  - D'fhás sé féasóg
+  hypernym:
+  - 00109468-v
+  ili: i22243
+  members:
+  - faigh
+  - fás
+  - forbair
+  - gin
+  partOfSpeech: v
+00105712-v:
+  definition:
+  - bheith feasach ar staid fhisiciúil, mheabhrach nó mhothúnach
+  example:
+  - Tá mo slaghdán imithe - mothaím go breá inniu
+  hypernym:
+  - 02110960-v
+  ili: i22302
+  members:
+  - mothaigh
+  partOfSpeech: v

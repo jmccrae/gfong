@@ -1,0 +1,621 @@
+11430006-n:
+  definition:
+  - confidence: 0.0
+    text: the disappearance of electrical resistance at very low temperatures
+  hypernym:
+  - 11533251-n
+  ili: i97557
+  members:
+  - forsheoltacht
+  partOfSpeech: n
+11430412-n:
+  definition:
+  - confidence: 0.0
+    text: the formation of crystals
+  hypernym:
+  - 00034512-n
+  ili: i97560
+  members:
+  - criostalú
+  partOfSpeech: n
+11430739-n:
+  definition:
+  - confidence: 0.0
+    text: a phenomenon that follows and is caused by some previous phenomenon
+  hypernym:
+  - 00034512-n
+  ili: i97562
+  members:
+  - iarmhairt
+  - toradh
+  - éifeacht
+  partOfSpeech: n
+11431724-n:
+  definition:
+  - confidence: 0.0
+    text: the consequences of an event (especially a catastrophic event)
+  hypernym:
+  - 11430739-n
+  ili: i97564
+  members:
+  - toradh
+  partOfSpeech: n
+11434525-n:
+  definition:
+  - confidence: 0.0
+    text: a forceful consequence; a strong effect
+  hypernym:
+  - 11430739-n
+  ili: i97576
+  members:
+  - feidhm
+  - tionchar
+  - éifeacht
+  partOfSpeech: n
+11436836-n:
+  definition:
+  - confidence: 0.0
+    text: a remote or indirect consequence of some action
+  hypernym:
+  - 11430739-n
+  ili: i97587
+  members:
+  - éifeacht
+  partOfSpeech: n
+11438574-n:
+  definition:
+  - confidence: 0.0
+    text: an unknown and unpredictable phenomenon that leads to a favorable outcome
+  hypernym:
+  - 00034512-n
+  ili: i97595
+  members:
+  - ádh
+  partOfSpeech: n
+11440945-n:
+  definition:
+  - confidence: 0.0
+    text: an ordered array of the components of an emission or wave
+  hypernym:
+  - 07955622-n
+  ili: i97601
+  members:
+  - speictream
+  partOfSpeech: n
+11442711-n:
+  definition:
+  - confidence: 0.0
+    text: a cloud of solid or liquid particles in a gas
+  hypernym:
+  - 00034512-n
+  ili: i97609
+  members:
+  - aerasól
+  partOfSpeech: n
+11444066-n:
+  definition:
+  - confidence: 0.0
+    text: an electric current that reverses direction sinusoidally
+  hypernym:
+  - 11472635-n
+  ili: i97617
+  members:
+  - sruth ailtéarnach
+  partOfSpeech: n
+11453254-n:
+  definition:
+  - confidence: 0.0
+    text: the random motion of small particles suspended in a gas or liquid
+  hypernym:
+  - 07324399-n
+  ili: i97666
+  members:
+  - brúnghluaisne
+  partOfSpeech: n
+11453660-n:
+  definition:
+  - confidence: 0.0
+    text: an electrical phenomenon whereby an electric charge is stored
+  hypernym:
+  - 00034512-n
+  ili: i97669
+  members:
+  - toilleas
+  partOfSpeech: n
+11456397-n:
+  definition:
+  - confidence: 0.0
+    text: an electrical force linking atoms
+  hypernym:
+  - 11479041-n
+  ili: i97685
+  members:
+  - nasc
+  partOfSpeech: n
+11460617-n:
+  definition:
+  - confidence: 0.0
+    text: weather cold enough to cause freezing
+  hypernym:
+  - 11545095-n
+  ili: i97709
+  members:
+  - sioc
+  partOfSpeech: n
+11463628-n:
+  definition:
+  - confidence: 0.0
+    text: a flow of electricity through a conductor
+  hypernym:
+  - 00034512-n
+  ili: i97727
+  members:
+  - sruth leictreach
+  partOfSpeech: n
+11467030-n:
+  definition:
+  - confidence: 0.0
+    text: when light passes sharp edges or goes through narrow slits the rays are
+      deflected and produce fringes of light and dark bands
+  hypernym:
+  - 00034512-n
+  ili: i97745
+  members:
+  - díraonadh
+  partOfSpeech: n
+11469756-n:
+  definition:
+  - confidence: 0.0
+    text: the product of voltage and current
+  hypernym:
+  - 11473433-n
+  ili: i97759
+  members:
+  - vatacht
+  partOfSpeech: n
+11470244-n:
+  definition:
+  - confidence: 0.0
+    text: a physical phenomenon associated with stationary or moving electrons and
+      protons
+  hypernym:
+  - 00034512-n
+  ili: i97763
+  members:
+  - leictreachas
+  partOfSpeech: n
+11472635-n:
+  definition:
+  - confidence: 0.0
+    text: (physics) a thermodynamic quantity equivalent to the capacity of a physical
+      system to do work; the units of energy are joules or ergs
+  hypernym:
+  - 00034512-n
+  ili: i97771
+  members:
+  - fuinneamh
+  partOfSpeech: n
+11473433-n:
+  definition:
+  - confidence: 0.0
+    text: (physics) the rate of doing work; measured in watts (= joules/second)
+  hypernym:
+  - 00034512-n
+  ili: i97773
+  members:
+  - cumhacht
+  partOfSpeech: n
+11476318-n:
+  definition:
+  - confidence: 0.0
+    text: (ecology) a community of organisms where each member is eaten in turn by
+      another member
+  hypernym:
+  - 00034512-n
+  ili: i97787
+  members:
+  - biashlabhra
+  partOfSpeech: n
+11477177-n:
+  definition:
+  - confidence: 0.0
+    text: the space around a radiating body within which its electromagnetic oscillations
+      can exert force on another similar body not in contact with it
+  hypernym:
+  - 00034512-n
+  ili: i97792
+  members:
+  - réimse
+  partOfSpeech: n
+11478519-n:
+  definition:
+  - confidence: 0.0
+    text: light emitted during absorption of radiation of some other (invisible) wavelength
+  hypernym:
+  - 11494354-n
+  ili: i97800
+  members:
+  - fluaraiseacht
+  partOfSpeech: n
+11478731-n:
+  definition:
+  - confidence: 0.0
+    text: droplets of water vapor suspended in the air near the ground
+  hypernym:
+  - 11442711-n
+  ili: i97801
+  members:
+  - ceo
+  partOfSpeech: n
+11479041-n:
+  definition:
+  - confidence: 0.0
+    text: (physics) the influence that produces a change in a physical quantity
+  hypernym:
+  - 00034512-n
+  ili: i97803
+  members:
+  - fórsa
+  partOfSpeech: n
+11480680-n:
+  definition:
+  - confidence: 0.0
+    text: the friction between a body and the surface on which it moves (as between
+      an automobile tire and the road)
+  hypernym:
+  - 11524062-n
+  ili: i97810
+  members:
+  - tarraingt
+  partOfSpeech: n
+11482925-n:
+  definition:
+  - confidence: 0.0
+    text: a violent weather condition with winds 64-72 knots (11 on the Beaufort scale)
+      and precipitation and thunder and lightning
+  hypernym:
+  - 00034512-n
+  ili: i97824
+  members:
+  - stoirm
+  partOfSpeech: n
+11484542-n:
+  definition:
+  - confidence: 0.0
+    text: (physics) the force of attraction between all masses in the universe; especially
+      the attraction of the earth's mass for bodies near its surface
+  hypernym:
+  - 11479041-n
+  ili: i97834
+  members:
+  - domhantarraingt
+  partOfSpeech: n
+11486442-n:
+  definition:
+  - confidence: 0.0
+    text: a form of energy that is transferred by a difference in temperature
+  hypernym:
+  - 11472635-n
+  ili: i97844
+  members:
+  - teas
+  - téamh
+  partOfSpeech: n
+11494354-n:
+  definition:
+  - confidence: 0.0
+    text: (physics) electromagnetic radiation that can produce a visual sensation
+  hypernym:
+  - 11519684-n
+  ili: i97892
+  members:
+  - solas
+  partOfSpeech: n
+11496830-n:
+  definition:
+  - confidence: 0.0
+    text: light not due to incandescence; occurs at low temperatures
+  hypernym:
+  - 11494354-n
+  ili: i97901
+  members:
+  - lonracht
+  partOfSpeech: n
+11498321-n:
+  definition:
+  - confidence: 0.0
+    text: a vibration of large amplitude produced by a relatively small vibration
+      near the same frequency of vibration as the natural frequency of the resonating
+      system
+  hypernym:
+  - 07324399-n
+  ili: i97910
+  members:
+  - athshondas
+  partOfSpeech: n
+11501734-n:
+  definition:
+  - confidence: 0.0
+    text: the path followed by an object moving through space
+  hypernym:
+  - 00034512-n
+  ili: i97926
+  members:
+  - conair
+  - ruthag
+  partOfSpeech: n
+11503385-n:
+  definition:
+  - confidence: 0.0
+    text: a turning force produced by an object acting at a distance (or a measure
+      of that force)
+  hypernym:
+  - 11479041-n
+  ili: i97936
+  members:
+  - móimint
+  partOfSpeech: n
+11505767-n:
+  definition:
+  - confidence: 0.0
+    text: the rays of the sun
+  hypernym:
+  - 11494354-n
+  ili: i97951
+  members:
+  - grian
+  partOfSpeech: n
+11507108-n:
+  definition:
+  - confidence: 0.0
+    text: the localized death of living cells (as from infection or the interruption
+      of blood supply)
+  hypernym:
+  - 00034512-n
+  ili: i97959
+  members:
+  - morgadh
+  partOfSpeech: n
+11515038-n:
+  definition:
+  - confidence: 0.0
+    text: the falling to earth of any form of water (rain or snow or hail or sleet
+      or mist)
+  hypernym:
+  - 11545095-n
+  ili: i98000
+  members:
+  - frasaíocht
+  partOfSpeech: n
+11519684-n:
+  definition:
+  - confidence: 0.0
+    text: energy that is radiated or transmitted in the form of rays or waves or particles
+  hypernym:
+  - 11472635-n
+  ili: i98023
+  members:
+  - radaíocht
+  partOfSpeech: n
+11521386-n:
+  definition:
+  - confidence: 0.0
+    text: the entire spectrum of electromagnetic frequencies used for communications;
+      includes frequencies used for radio and radar and television
+  hypernym:
+  - 11440945-n
+  ili: i98032
+  members:
+  - speictream raidió
+  partOfSpeech: n
+11521648-n:
+  definition:
+  - confidence: 0.0
+    text: a radio wave that can be modulated in order to transmit a signal
+  hypernym:
+  - 11519684-n
+  ili: i98033
+  members:
+  - iompróir
+  partOfSpeech: n
+11521799-n:
+  definition:
+  - confidence: 0.0
+    text: water falling in drops from vapor condensed in the atmosphere
+  hypernym:
+  - 11515038-n
+  ili: i98034
+  members:
+  - báisteach
+  - fearthainn
+  partOfSpeech: n
+11524062-n:
+  definition:
+  - confidence: 0.0
+    text: any mechanical force that tends to retard or oppose motion
+  hypernym:
+  - 00034512-n
+  ili: i98046
+  members:
+  - friotaíocht
+  partOfSpeech: n
+11524231-n:
+  definition:
+  - confidence: 0.0
+    text: a material's capacity to conduct electricity; measured as the reciprocal
+      of electrical resistance
+  hypernym:
+  - 00034512-n
+  ili: i98047
+  members:
+  - seoltas
+  partOfSpeech: n
+11524386-n:
+  definition:
+  - confidence: 0.0
+    text: a material's opposition to the flow of electric current; measured in ohms
+  hypernym:
+  - 00034512-n
+  ili: i98048
+  members:
+  - friotaíocht
+  partOfSpeech: n
+11524731-n:
+  definition:
+  - confidence: 0.0
+    text: opposition to the flow of electric current resulting from inductance and
+      capacitance (rather than resistance)
+  hypernym:
+  - 00034512-n
+  ili: i98050
+  members:
+  - freasaitheacht
+  partOfSpeech: n
+11525316-n:
+  definition:
+  - confidence: 0.0
+    text: the phenomenon of resistance to motion through a fluid
+  hypernym:
+  - 11524062-n
+  ili: i98053
+  members:
+  - cúltarraingt
+  partOfSpeech: n
+11528510-n:
+  definition:
+  - confidence: 0.0
+    text: a cloud of fine particles suspended in a gas
+  hypernym:
+  - 11442711-n
+  ili: i98071
+  members:
+  - deatach
+  partOfSpeech: n
+11529484-n:
+  definition:
+  - confidence: 0.0
+    text: a crystal of snow
+  hypernym:
+  - 15071467-n
+  ili: i98076
+  members:
+  - calóg shneachta
+  partOfSpeech: n
+11530641-n:
+  definition:
+  - confidence: 0.0
+    text: a sudden eruption of intense high-energy radiation from the sun's surface;
+      associated with sunspots and radio interference
+  hypernym:
+  - 11519684-n
+  ili: i98083
+  members:
+  - grianbhladhm
+  partOfSpeech: n
+11533251-n:
+  definition:
+  - confidence: 0.0
+    text: the transmission of heat or electricity or sound
+  hypernym:
+  - 00034512-n
+  ili: i98097
+  members:
+  - seoltacht
+  partOfSpeech: n
+11533790-n:
+  definition:
+  - confidence: 0.0
+    text: (astronomy) a shift in the spectra of very distant galaxies toward longer
+      wavelengths (toward the red end of the spectrum); generally interpreted as evidence
+      that the universe is expanding
+  hypernym:
+  - 00034512-n
+  ili: i98100
+  members:
+  - deargaistriú
+  partOfSpeech: n
+11534441-n:
+  definition:
+  - confidence: 0.0
+    text: sudden violent winds; often accompanied by precipitation
+  hypernym:
+  - 11546388-n
+  ili: i98104
+  members:
+  - cóch
+  partOfSpeech: n
+11535238-n:
+  definition:
+  - confidence: 0.0
+    text: (physics) force that produces strain on a physical body
+  hypernym:
+  - 11479041-n
+  ili: i98110
+  members:
+  - strus
+  partOfSpeech: n
+11540135-n:
+  definition:
+  - confidence: 0.0
+    text: a twisting force
+  hypernym:
+  - 11479041-n
+  ili: i98138
+  members:
+  - casmhóimint
+  - torc
+  partOfSpeech: n
+11541578-n:
+  definition:
+  - confidence: 0.0
+    text: a tropical cyclone occurring in the western Pacific or Indian oceans
+  hypernym:
+  - 11482925-n
+  ili: i98147
+  members:
+  - tíofún
+  partOfSpeech: n
+11543971-n:
+  definition:
+  - confidence: 0.0
+    text: the rate at which energy is drawn from a source that produces a flow of
+      electricity in a circuit; expressed in volts
+  hypernym:
+  - 00034512-n
+  ili: i98163
+  members:
+  - voltas
+  partOfSpeech: n
+11545095-n:
+  definition:
+  - confidence: 0.0
+    text: the atmospheric conditions that comprise the state of the atmosphere in
+      terms of temperature and wind and clouds and precipitation
+  hypernym:
+  - 00034512-n
+  ili: i98170
+  members:
+  - aimsir
+  partOfSpeech: n
+11546388-n:
+  definition:
+  - confidence: 0.0
+    text: air moving (sometimes with considerable force) from an area of high pressure
+      to an area of low pressure
+  hypernym:
+  - 11545095-n
+  ili: i98175
+  members:
+  - gaoth
+  partOfSpeech: n
+11548418-n:
+  definition:
+  - confidence: 0.0
+    text: the phenomenon of floating (remaining on the surface of a liquid without
+      sinking)
+  hypernym:
+  - 00034512-n
+  ili: i98182
+  members:
+  - snámhacht
+  partOfSpeech: n

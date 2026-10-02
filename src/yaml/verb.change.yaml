@@ -1,0 +1,1229 @@
+00109468-v:
+  definition:
+  - cuir in oiriúint ; éirí difriúil go bunúsach; ag cailleadh a bhun-cineálacha nó
+    a bun-cineálacha
+  example:
+  - D'aithrigh sí go hiomlán agus í ag fás
+  hypernym:
+  - 02372362-v
+  ili: i22325
+  members:
+  - athraigh
+  partOfSpeech: v
+00117793-v:
+  definition:
+  - bheith fágtha i staid ar leith
+  example:
+  - Bhí an gúna fós fliuch tar éis iarracht leantach é a thriomú
+  hypernym:
+  - 02661230-v
+  ili: i22349
+  members:
+  - fan
+  - bí fágtha
+  - fós
+  partOfSpeech: v
+00120124-v:
+  definition:
+  - airíonna a chur ar rud
+  example:
+  - fearg a chur ar dhuine
+  hypernym:
+  - 00126072-v
+  ili: i22361
+  members:
+  - cuir
+  - déan
+  - cuir ar
+  partOfSpeech: v
+00120483-v:
+  definition:
+  - confidence: 0.0
+    text: cause to become
+  hypernym:
+  - 00120124-v
+  ili: i22362
+  members:
+  - déan
+  partOfSpeech: v
+00120604-v:
+  definition:
+  - a chur faoi deara a bhogadh; a chur faoi deara a bheith i suíomh nó staid áirithe
+  example:
+  - Chuir sé na peileadóirí i suíomhanna nua
+  hypernym:
+  - 00120124-v
+  ili: i22363
+  members:
+  - cuir
+  - lig
+  - scaoil
+  partOfSpeech: v
+00120854-v:
+  definition:
+  - téigh faoi
+  example:
+  - Bhain rith tapa ar na ceapa
+  hypernym:
+  - 00109468-v
+  ili: i22364
+  members:
+  - bain
+  - braith
+  partOfSpeech: v
+00122978-v:
+  definition:
+  - éirí difriúil ar bhealach éigin faoi leith, gan na tréithe nó na gnéithe a bhí
+    ann roimhe a chailleadh go buan
+  example:
+  - athraíonn a giúmar de réir na haimsire
+  hypernym:
+  - 02372362-v
+  ili: i22376
+  members:
+  - athraigh
+  partOfSpeech: v
+00125649-v:
+  definition:
+  - athraigh ina choinníoll de réir a chéile, airí nó tréith áirithe a ghlacadh; éirigh
+  example:
+  - D'éirigh an aimsir gránna
+  hypernym:
+  - 00109468-v
+  ili: i22387
+  members:
+  - fás
+  - éirigh
+  - iompaigh
+  partOfSpeech: v
+00126072-v:
+  definition:
+  - a chur faoi deara a athrú; déan difriúil; údar claochlaithe
+  example:
+  - Is léir gur athraigh teacht an tionscail ghluaisteán patrún fáis na cathrach
+  hypernym:
+  - 00772482-v
+  ili: i22389
+  members:
+  - athraigh
+  - mionathraigh
+  partOfSpeech: v
+00136799-v:
+  definition:
+  - fág gan athrú nó gan cur isteach air nó staon ó ghlacadh
+  example:
+  - fág é mar atá
+  hypernym:
+  - 02731589-v
+  ili: i22406
+  members:
+  - fág
+  - lig do
+  - fág i do dhiaidh
+  partOfSpeech: v
+00137133-v:
+  definition:
+  - tionchar a chur ar
+  example:
+  - An rachaidh na rialacha nua i bhfeidhm orm?
+  hypernym:
+  - 00126072-v
+  ili: i22407
+  members:
+  - téigh i bhfeidhm ar
+  - tionchar a imirt ar
+  - téigh i gcion ar
+  - bain le
+  partOfSpeech: v
+00140571-v:
+  definition:
+  - confidence: 0.0
+    text: change over, change around, as to a new order or sequence
+  hypernym:
+  - 00109468-v
+  ili: i22420
+  members:
+  - aistrigh
+  partOfSpeech: v
+00149403-v:
+  definition:
+  - dul nó a bheith i staid nó coinníoll áirithe
+  example:
+  - D'éirigh sé an-fheargach nuair a chuala sé an drochscéala
+  hypernym:
+  - 00109468-v
+  ili: i22460
+  members:
+  - bí ar
+  - éirigh
+  partOfSpeech: v
+00151509-v:
+  definition:
+  - laghdú i méid, fairsinge nó raon
+  example:
+  - Laghdaigh an méid obair bhaile i dtreo dheireadh an tseimeastair
+  hypernym:
+  - 00109468-v
+  ili: i22469
+  members:
+  - laghdaigh
+  - ísligh
+  partOfSpeech: v
+00153083-v:
+  definition:
+  - a dhéanamh níos mó
+  example:
+  - Faoi dheireadh, mhéadaigh an saoiste a tuarastal
+  hypernym:
+  - 00126072-v
+  ili: i22474
+  members:
+  - méadaigh
+  - ardaigh
+  partOfSpeech: v
+00154586-v:
+  definition:
+  - confidence: 0.0
+    text: make larger
+  hypernym:
+  - 00153083-v
+  ili: i22479
+  members:
+  - méadaigh
+  partOfSpeech: v
+00154951-v:
+  definition:
+  - méadú ar luach nó go pointe níos airde
+  example:
+  - d'ardaigh praghsanna go géar
+  hypernym:
+  - 00231172-v
+  ili: i22482
+  members:
+  - éirigh
+  - dul suas
+  - ardaigh
+  - méadaigh
+  partOfSpeech: v
+00155677-v:
+  definition:
+  - confidence: 0.0
+    text: grow by addition
+  hypernym:
+  - 00156409-v
+  ili: i22486
+  members:
+  - fabhraigh
+  partOfSpeech: v
+00156409-v:
+  definition:
+  - éirigh níos mó ó thaobh toise nó méid de
+  example:
+  - Mhéadaigh an méid oibre
+  hypernym:
+  - 00109468-v
+  ili: i22491
+  members:
+  - méadaigh
+  partOfSpeech: v
+00158311-v:
+  definition:
+  - leibhéal nó méid rud éigin a ardú
+  example:
+  - ardú mo thuarastal
+  hypernym:
+  - 00153083-v
+  ili: i22501
+  members:
+  - ardaigh
+  partOfSpeech: v
+00158612-v:
+  definition:
+  - confidence: 0.0
+    text: increase in amount by collecting or gathering
+  hypernym:
+  - 00156409-v
+  ili: i22503
+  members:
+  - carn
+  partOfSpeech: v
+00160069-v:
+  definition:
+  - confidence: 0.0
+    text: make similar
+  hypernym:
+  - 00126072-v
+  ili: i22510
+  members:
+  - comhshamhlaigh
+  partOfSpeech: v
+00162496-v:
+  definition:
+  - duine nó rud a chur in ionad (eile atá briste nó mí-éifeachtach nó caillte nó
+    nach bhfuil ag obair a thuilleadh nó a thugann mar a bhfuiltear ag súil leis)
+  example:
+  - Tháinig sé in áit an tsean lann rásúir
+  hypernym:
+  - 01634614-v
+  ili: i22522
+  members:
+  - tar in áit
+  partOfSpeech: v
+00163249-v:
+  definition:
+  - confidence: 0.0
+    text: make brighter and prettier
+  hypernym:
+  - 01634614-v
+  ili: i22524
+  members:
+  - athchóirigh
+  partOfSpeech: v
+00171865-v:
+  definition:
+  - confidence: 0.0
+    text: change the use of and make available or usable
+  hypernym:
+  - 00206293-v
+  ili: i22569
+  members:
+  - forbair
+  partOfSpeech: v
+00173351-v:
+  definition:
+  - rud nithiúil a bhaint, faoi rud teibí a ardú, a bhrú chun cinn nó a bhaint
+  example:
+  - bagairt a bhaint
+  hypernym:
+  - 02372362-v
+  ili: i22577
+  members:
+  - tóg
+  - tóg amach
+  - bain
+  - tarraing
+  partOfSpeech: v
+00182551-v:
+  definition:
+  - suimiú a dhéanamh; cuir nó tabhair le chéile le; méadaigh an cáilíocht, cainníocht,
+    méid nó scóip de
+  example:
+  - Chuireamar beirt scoláirí sa shuanlios sin
+  hypernym:
+  - 00156409-v
+  ili: i22623
+  members:
+  - suimigh
+  - cuir
+  partOfSpeech: v
+00191849-v:
+  definition:
+  - confidence: 0.0
+    text: make inactive
+  hypernym:
+  - 00126072-v
+  ili: i22675
+  members:
+  - díghníomhachtaigh
+  partOfSpeech: v
+00201227-v:
+  definition:
+  - confidence: 0.0
+    text: cut or eliminate
+  hypernym:
+  - 00683348-v
+  ili: i22727
+  members:
+  - scrios
+  partOfSpeech: v
+00206293-v:
+  definition:
+  - a fheabhsú
+  example:
+  - Chuir an t-eagarthóir feabhas ar an lámhscríbhinn lena chuid athruithe
+  hypernym:
+  - 00126072-v
+  ili: i22752
+  members:
+  - feabhsaigh
+  - feabhas a chur ar
+  - leasaigh
+  partOfSpeech: v
+00207592-v:
+  definition:
+  - confidence: 0.0
+    text: to improve what was old or outdated
+  hypernym:
+  - 00206293-v
+  ili: i22755
+  members:
+  - uasghrádaigh
+  partOfSpeech: v
+00221295-v:
+  definition:
+  - déan láidir nó níos láidre
+  example:
+  - Neartóidh an cleachtadh seo do chorp uachtarach
+  hypernym:
+  - 00126072-v
+  ili: i22826
+  members:
+  - neartaigh
+  - casaoid
+  - láidrigh
+  - treisigh
+  partOfSpeech: v
+00222898-v:
+  definition:
+  - confidence: 0.0
+    text: make stronger
+  hypernym:
+  - 00221295-v
+  ili: i22834
+  members:
+  - neartaigh
+  - treisigh
+  partOfSpeech: v
+00225327-v:
+  definition:
+  - confidence: 0.0
+    text: lessen the strength of
+  hypernym:
+  - 00126072-v
+  ili: i22847
+  members:
+  - lagaigh
+  partOfSpeech: v
+00228662-v:
+  definition:
+  - confidence: 0.0
+    text: supply with water, as with channels or ditches or streams
+  hypernym:
+  - 00126072-v
+  ili: i22863
+  members:
+  - uiscigh
+  partOfSpeech: v
+00229452-v:
+  definition:
+  - confidence: 0.0
+    text: undergo the process of distillation
+  hypernym:
+  - 00109468-v
+  ili: i22867
+  members:
+  - driog
+  partOfSpeech: v
+00229706-v:
+  definition:
+  - confidence: 0.0
+    text: extract by the process of distillation
+  hypernym:
+  - 01620211-v
+  ili: i22868
+  members:
+  - driog
+  partOfSpeech: v
+00230031-v:
+  definition:
+  - confidence: 0.0
+    text: increase the level of
+  hypernym:
+  - 00156409-v
+  ili: i22869
+  members:
+  - méadaigh
+  partOfSpeech: v
+00230459-v:
+  definition:
+  - confidence: 0.0
+    text: make better or more attractive
+  hypernym:
+  - 00206293-v
+  ili: i22871
+  members:
+  - feabhsaigh
+  partOfSpeech: v
+00231172-v:
+  definition:
+  - éirigh níos nó, méadaigh nó gnóthaigh
+  example:
+  - D'éirigh an fhadhb ró-chasta dom
+  hypernym:
+  - 00156409-v
+  ili: i22874
+  members:
+  - fás
+  - éirigh
+  - méadaigh
+  partOfSpeech: v
+00231983-v:
+  definition:
+  - méadú i méid trí phróiseas nádúrtha
+  example:
+  - Ní fhásann arbhar anseo
+  hypernym:
+  - 00231172-v
+  ili: i22877
+  members:
+  - fás
+  partOfSpeech: v
+00234091-v:
+  definition:
+  - cuir teorainneacha ar (fairsinge nó méid nó rochtain)
+  example:
+  - srian a chur ar úsáid an charrchlóis seo
+  hypernym:
+  - 02372362-v
+  ili: i22888
+  members:
+  - ceangail
+  - tacht
+  - srian
+  - teorannaigh
+  partOfSpeech: v
+00241017-v:
+  definition:
+  - confidence: 0.0
+    text: make smaller
+  hypernym:
+  - 00442400-v
+  ili: i22918
+  members:
+  - laghdaigh
+  partOfSpeech: v
+00247103-v:
+  definition:
+  - confidence: 0.0
+    text: increase twofold
+  hypernym:
+  - 00153083-v
+  ili: i22948
+  members:
+  - dúbail
+  partOfSpeech: v
+00251067-v:
+  definition:
+  - confidence: 0.0
+    text: develop and reach maturity; undergo maturation
+  hypernym:
+  - 00231172-v
+  ili: i22969
+  members:
+  - aibigh
+  partOfSpeech: v
+00253876-v:
+  definition:
+  - foirmigh nó cnuasaigh go seasta
+  example:
+  - D'ardaigh an seasa in aghaidh phlean an bhainisteora go tapa
+  hypernym:
+  - 00231172-v
+  ili: i22980
+  members:
+  - cuir i dtoll a chéile
+  - ardaigh forbair
+  - cuir le chéile
+  - cuir chun cinn
+  partOfSpeech: v
+00261534-v:
+  definition:
+  - athneartaigh trí pháirt a athsholáthar nó rud atá stróicthe nó briste a chur le
+    chéile
+  example:
+  - Dheisigh sí a teilifíseán
+  hypernym:
+  - 00206293-v
+  ili: i23020
+  members:
+  - dochtúireacht a dhéanamh ar
+  - deisigh
+  - buiséal
+  - trácht ar
+  - athneartaigh
+  - cneasaigh
+  partOfSpeech: v
+00272510-v:
+  definition:
+  - confidence: 0.0
+    text: make unstable
+  hypernym:
+  - 00126072-v
+  ili: i23078
+  members:
+  - díchobhsaigh
+  partOfSpeech: v
+00291064-v:
+  definition:
+  - confidence: 0.0
+    text: increase in extent or intensity
+  hypernym:
+  - 00153083-v
+  ili: i23178
+  members:
+  - géaraigh
+  partOfSpeech: v
+00292635-v:
+  definition:
+  - solas a thabhairt isteach
+  example:
+  - Éadromaíonn an lampa seo an seomra beagán
+  hypernym:
+  - 00109468-v
+  ili: i23187
+  members:
+  - soilsigh
+  - éadromaigh
+  partOfSpeech: v
+00296478-v:
+  definition:
+  - confidence: 0.0
+    text: make fine adjustments or divide into marked intervals for optimal measuring
+  hypernym:
+  - 00296959-v
+  ili: i23206
+  members:
+  - calabraigh
+  partOfSpeech: v
+00296959-v:
+  definition:
+  - confidence: 0.0
+    text: alter or regulate so as to achieve accuracy or conform to a standard
+  hypernym:
+  - 00126072-v
+  ili: i23208
+  members:
+  - coigeartaigh
+  partOfSpeech: v
+00300122-v:
+  definition:
+  - confidence: 0.0
+    text: fix or adjust the time, amount, degree, or rate of
+  hypernym:
+  - 00296959-v
+  ili: i23223
+  members:
+  - modhnaigh
+  partOfSpeech: v
+00300361-v:
+  definition:
+  - confidence: 0.0
+    text: make fit for, or change to suit a new purpose
+  hypernym:
+  - 00126072-v
+  ili: i23224
+  members:
+  - oiriúnaigh
+  partOfSpeech: v
+00318689-v:
+  definition:
+  - confidence: 0.0
+    text: lengthen in time; cause to be or last longer
+  hypernym:
+  - 00153083-v
+  ili: i23319
+  members:
+  - fadaigh
+  - sín
+  partOfSpeech: v
+00334996-v:
+  definition:
+  - confidence: 0.0
+    text: become separated into pieces or fragments
+  hypernym:
+  - 00109468-v
+  ili: i23406
+  members:
+  - bris
+  partOfSpeech: v
+00340744-v:
+  definition:
+  - go bhfuil rud éigin ag tarlú
+  example:
+  - Céard atá ag tarlú?
+  ili: i23435
+  members:
+  - tarlaigh
+  - téigh thart
+  - tit amach
+  - bí ar siúl
+  - bí ag dul ar aghaidh
+  partOfSpeech: v
+00342572-v:
+  definition:
+  - tarlaigh; amhail in am trátha
+  example:
+  - Tháinig an chéad rath trí lá ina dhiaidh sin
+  hypernym:
+  - 00340744-v
+  ili: i23444
+  members:
+  - tar
+  partOfSpeech: v
+00346415-v:
+  definition:
+  - confidence: 0.0
+    text: take the first step or steps in carrying out an action
+  hypernym:
+  - 02372362-v
+  ili: i23466
+  members:
+  - tosaigh
+  partOfSpeech: v
+00349400-v:
+  definition:
+  - bonn a chur faoi chúrsaí; a chur faoi deara a thosú
+  example:
+  - Thosaigh rialtas SAM cogadh sa Mheánoirthear
+  hypernym:
+  - 00772482-v
+  ili: i23481
+  members:
+  - tosaigh
+  - cuir tús le
+  - tionscain
+  partOfSpeech: v
+00350758-v:
+  definition:
+  - confidence: 0.0
+    text: take up or begin anew
+  hypernym:
+  - 02685709-v
+  ili: i23487
+  members:
+  - atosaigh
+  partOfSpeech: v
+00353212-v:
+  definition:
+  - rud éigin a bheith nó a dhéanamh ar deireadh
+  example:
+  - Dár críoch sé suas ag pósadh a stór ardscoile
+  hypernym:
+  - 02372362-v
+  ili: i23501
+  members:
+  - ráinigh
+  - críochnaigh
+  - deireadh a chur le
+  - tabhair chun críche
+  - críochnaigh suas
+  partOfSpeech: v
+00353480-v:
+  definition:
+  - tabhair chun deiridh nó a stopadh
+  example:
+  - Chríochnaigh sí a gcairdeas nuair a fuair sí amach go raibh sé ciontaithe i gcoir
+    am amháin
+  hypernym:
+  - 00126072-v
+  ili: i23502
+  members:
+  - foirceann
+  - críochnaigh
+  partOfSpeech: v
+00356609-v:
+  definition:
+  - confidence: 0.0
+    text: bring the association of to an end or cause to break up
+  hypernym:
+  - 00353480-v
+  ili: i23517
+  members:
+  - díscaoil
+  partOfSpeech: v
+00359085-v:
+  definition:
+  - bás a fháil ar shlí fhisiceach agus gach gné coirp agus feidhmeanna riachtanacha
+    a chailleadh
+  example:
+  - Fuair sí bás i ndiaidh catha in éadan na hailse
+  hypernym:
+  - 00109468-v
+  ili: i23529
+  members:
+  - faigh bás
+  - básaigh
+  - bí ar shlí na fírinne
+  - éag
+  - síothlaigh
+  - téigh i léig
+  - téigh in éag
+  - titim maol marbh
+  - titim fuar marbh
+  - anáil deiridh a tharraingt
+  - stiúgadh
+  partOfSpeech: v
+00361585-v:
+  definition:
+  - teacht ann i ndiaidh breithe
+  example:
+  - Rugadh ar fheirm í
+  hypernym:
+  - 00109468-v
+  ili: i23539
+  members:
+  - beir
+  partOfSpeech: v
+00364146-v:
+  definition:
+  - confidence: 0.0
+    text: stop a process or a habit by imposing a freeze on it
+  hypernym:
+  - 00353480-v
+  ili: i23553
+  members:
+  - fionraigh
+  partOfSpeech: v
+00368338-v:
+  definition:
+  - confidence: 0.0
+    text: become one
+  hypernym:
+  - 00109468-v
+  ili: i23573
+  members:
+  - cumaisc
+  partOfSpeech: v
+00371917-v:
+  definition:
+  - confidence: 0.0
+    text: make hot or hotter
+  hypernym:
+  - 00126072-v
+  ili: i23590
+  members:
+  - téigh
+  partOfSpeech: v
+00373611-v:
+  definition:
+  - confidence: 0.0
+    text: make warm or warmer
+  hypernym:
+  - 00126072-v
+  ili: i23599
+  members:
+  - téigh
+  partOfSpeech: v
+00374806-v:
+  definition:
+  - confidence: 0.0
+    text: change to ice
+  hypernym:
+  - 00109468-v
+  ili: i23605
+  members:
+  - reoigh
+  partOfSpeech: v
+00381095-v:
+  definition:
+  - confidence: 0.0
+    text: change the order or arrangement of
+  hypernym:
+  - 00109468-v
+  ili: i23635
+  members:
+  - trasuigh
+  partOfSpeech: v
+00383306-v:
+  definition:
+  - confidence: 0.0
+    text: change or alter in form, appearance, or nature
+  hypernym:
+  - 00126072-v
+  ili: i23647
+  members:
+  - claochlaigh
+  partOfSpeech: v
+00395719-v:
+  definition:
+  - confidence: 0.0
+    text: mix together different elements
+  hypernym:
+  - 00109468-v
+  ili: i23707
+  members:
+  - measc
+  partOfSpeech: v
+00405308-v:
+  definition:
+  - confidence: 0.0
+    text: construct or form anew or provide with a new structure
+  hypernym:
+  - 00405549-v
+  ili: i23751
+  members:
+  - athbhunaigh
+  partOfSpeech: v
+00405549-v:
+  definition:
+  - confidence: 0.0
+    text: bring order and organization to
+  hypernym:
+  - 01466592-v
+  ili: i23752
+  members:
+  - eagraigh
+  partOfSpeech: v
+00406161-v:
+  definition:
+  - confidence: 0.0
+    text: make central
+  hypernym:
+  - 00126072-v
+  ili: i23754
+  members:
+  - comhchruinnigh
+  partOfSpeech: v
+00407168-v:
+  definition:
+  - a chur faoi deara a bheith réidh nó oiriúnach nó feistithe roimh ré chun críche
+    áirithe nó chun a úsáid nó i gcomhair imeachta, srl.
+  example:
+  - Réitigh na páistí le dul ar scoil!
+  hypernym:
+  - 00126072-v
+  ili: i23758
+  members:
+  - cóirigh
+  - ullmhaigh
+  - réitigh
+  - socraigh
+  partOfSpeech: v
+00413217-v:
+  definition:
+  - confidence: 0.0
+    text: make into a citizen
+  hypernym:
+  - 00126072-v
+  ili: i23784
+  members:
+  - eadóirsigh
+  partOfSpeech: v
+00414120-v:
+  definition:
+  - confidence: 0.0
+    text: take into one's family
+  hypernym:
+  - 02210054-v
+  ili: i23789
+  members:
+  - uchtaigh
+  partOfSpeech: v
+00423043-v:
+  definition:
+  - a bheith le feiceáil nó i radharc
+  example:
+  - Go tobann, bhí sé le feiceáil ag an mbainis
+  hypernym:
+  - 00543200-v
+  ili: i23836
+  members:
+  - feic
+  - tar
+  - taispeáin
+  partOfSpeech: v
+00424655-v:
+  definition:
+  - éirigh infheicthe
+  example:
+  - Tháinig sí go dtí an sochraid
+  hypernym:
+  - 00423043-v
+  ili: i23843
+  members:
+  - tar
+  - bí i láthair
+  - nocht
+  - tar isteach
+  - tar amach
+  partOfSpeech: v
+00424924-v:
+  definition:
+  - teacht amach i radharc, amhail ó cheilt
+  example:
+  - Go tobann, tháinig an dílseánach as a oifig
+  hypernym:
+  - 00423043-v
+  ili: i23844
+  members:
+  - nocht
+  partOfSpeech: v
+00426920-v:
+  definition:
+  - bheith eisithe nó foilsithe
+  example:
+  - An raibh do leabhar is déanaí le feiceáil go fóill?
+  hypernym:
+  - 00340744-v
+  ili: i23855
+  members:
+  - le feiceáil
+  - tar amach
+  partOfSpeech: v
+00427911-v:
+  definition:
+  - dul as amharc gan rabhadh nó míniú
+  example:
+  - D'imigh sé gan tásc ná tuairisc
+  hypernym:
+  - 00122978-v
+  ili: i23860
+  members:
+  - imigh
+  - imigh as amharc
+  partOfSpeech: v
+00428755-v:
+  definition:
+  - confidence: 0.0
+    text: make small or insignificant
+  hypernym:
+  - 00442400-v
+  ili: i23864
+  members:
+  - laghdaigh
+  partOfSpeech: v
+00429536-v:
+  definition:
+  - confidence: 0.0
+    text: make as big or large as possible
+  hypernym:
+  - 00153083-v
+  ili: i23868
+  members:
+  - méadaigh
+  - uasmhéadaigh
+  partOfSpeech: v
+00430013-v:
+  definition:
+  - gearr siar ar; laghdú a dhéanamh
+  example:
+  - iontógáil do chuid saille laethúla a laghdú
+  hypernym:
+  - 00442400-v
+  ili: i23870
+  members:
+  - laghdaigh
+  - gearr
+  - ísligh
+  - bearr
+  - ciorraigh
+  partOfSpeech: v
+00435327-v:
+  definition:
+  - confidence: 0.0
+    text: stop operating or functioning
+  hypernym:
+  - 00109468-v
+  ili: i23899
+  members:
+  - teip
+  partOfSpeech: v
+00442400-v:
+  definition:
+  - confidence: 0.0
+    text: make become smaller
+  hypernym:
+  - 00126072-v
+  ili: i23932
+  members:
+  - laghdaigh
+  partOfSpeech: v
+00453467-v:
+  definition:
+  - a chur faoi deara a bheith lán, de réir brí meafaraí chomh maith
+  example:
+  - coimeádán a líonadh
+  hypernym:
+  - 00126072-v
+  ili: i23984
+  members:
+  - líon
+  partOfSpeech: v
+00456874-v:
+  definition:
+  - confidence: 0.0
+    text: make complete or perfect; supply what is wanting or form the complement to
+  hypernym:
+  - 00296959-v
+  ili: i24001
+  members:
+  - comhlánaigh
+  partOfSpeech: v
+00467564-v:
+  definition:
+  - confidence: 0.0
+    text: make into a whole or make part of a whole
+  hypernym:
+  - 01464634-v
+  ili: i24051
+  members:
+  - comhtháthaigh
+  - ionchorpraigh
+  partOfSpeech: v
+00472642-v:
+  definition:
+  - scoir, críochnaigh nó tóg amach
+  example:
+  - Déanaimis deireadh leis an gcúrsa ar iairiglifí Akkadian
+  hypernym:
+  - 01622948-v
+  ili: i24074
+  members:
+  - deireadh a chur le
+  - fáil réidh le
+  - déan ar shiúl leis
+  - múch
+  - díothaigh
+  partOfSpeech: v
+00482670-v:
+  definition:
+  - confidence: 0.0
+    text: organize into a code or system, such as a body of law
+  hypernym:
+  - 01466592-v
+  ili: i24121
+  members:
+  - códaigh
+  partOfSpeech: v
+00485097-v:
+  definition:
+  - deireadh a chur le
+  example:
+  - Chríochnaigh sé le glantachán na soithí
+  hypernym:
+  - 00353480-v
+  ili: i24131
+  members:
+  - críochnaigh
+  - cuir i gcrích
+  partOfSpeech: v
+00493031-v:
+  definition:
+  - confidence: 0.0
+    text: use as a quantifier
+  hypernym:
+  - 00949109-v
+  ili: i24169
+  members:
+  - cainníochtaigh
+  partOfSpeech: v
+00495205-v:
+  definition:
+  - confidence: 0.0
+    text: place or set apart
+  hypernym:
+  - 00652006-v
+  ili: i24180
+  members:
+  - scoith
+  partOfSpeech: v
+00513958-v:
+  definition:
+  - tabhair cumasach nó ábalta do thasc éigin
+  example:
+  - Cuirfidh an scil seo ar do chumas post a fháil ar Wall Street
+  hypernym:
+  - 00126072-v
+  ili: i24283
+  members:
+  - cumasaigh
+  partOfSpeech: v
+00516235-v:
+  definition:
+  - faoi réir próisis nó cóireála, agus é mar aidhm riocht a fheabhsú nó a leigheas
+    chun críche éigin
+  example:
+  - cáis a phróiseáil
+  hypernym:
+  - 00137133-v
+  ili: i24293
+  members:
+  - próiseáil
+  partOfSpeech: v
+00519475-v:
+  definition:
+  - confidence: 0.0
+    text: make easier
+  hypernym:
+  - 02553283-v
+  ili: i24308
+  members:
+  - éascaigh
+  partOfSpeech: v
+00523831-v:
+  definition:
+  - láimhseáiltear (rud) ar bhealach sonraithe (teibí)
+  example:
+  - Caitheadh leis na gnéithe sibhialtachta seo go holc agus le dímheas
+  hypernym:
+  - 00109468-v
+  ili: i24333
+  members:
+  - caith le
+  - faigh
+  - tabhaigh
+  - tabhair faoi deara
+  - tarraing
+  partOfSpeech: v
+00525762-v:
+  definition:
+  - foirm, bua nó gné áirithe a ghlacadh
+  example:
+  - Bhí tuin dhubhach le cloisteáil ina ghuth
+  hypernym:
+  - 00109468-v
+  ili: i24342
+  members:
+  - glac le
+  - glac ar
+  - glac
+  - tar i gceannas
+  - bí
+  - gabh
+  partOfSpeech: v
+00532569-v:
+  definition:
+  - confidence: 0.0
+    text: set lower
+  hypernym:
+  - 00126072-v
+  ili: i24381
+  members:
+  - ísligh
+  partOfSpeech: v
+00541315-v:
+  definition:
+  - confidence: 0.0
+    text: extend in scope or range or area
+  hypernym:
+  - 00153083-v
+  ili: i24436
+  members:
+  - fadaigh
+  - leathnaigh
+  - sín
+  partOfSpeech: v
+00543200-v:
+  definition:
+  - staid, baint, coinníoll, úsáid nó suíomh a shroicheadh
+  example:
+  - Thosaigh an t-uisce ag fiuchadh
+  hypernym:
+  - 00109468-v
+  ili: i24445
+  members:
+  - tosaigh
+  - tosaigh a bheith
+  partOfSpeech: v
+00546637-v:
+  definition:
+  - faigh trí thaithí
+  example:
+  - Bhí dúil mhór agam sa teilifís
+  hypernym:
+  - 00109468-v
+  ili: i24465
+  members:
+  - forbairt
+  - fáil
+  partOfSpeech: v

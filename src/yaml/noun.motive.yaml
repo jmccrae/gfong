@@ -1,0 +1,43 @@
+09201896-n:
+  definition:
+  - confidence: 0.0
+    text: a rational motive for a belief or action
+  hypernym:
+  - 00001740-n
+  ili: i84878
+  members:
+  - cúis
+  - fáth
+  - réasún
+  partOfSpeech: n
+09202673-n:
+  definition:
+  - confidence: 0.0
+    text: a positive motivational influence
+  hypernym:
+  - 00001740-n
+  ili: i84882
+  members:
+  - dreasacht
+  partOfSpeech: n
+09203015-n:
+  definition:
+  - confidence: 0.0
+    text: a negative motivational influence
+  hypernym:
+  - 00001740-n
+  ili: i84884
+  members:
+  - dídhreasacht
+  partOfSpeech: n
+09207033-n:
+  definition:
+  - confidence: 0.0
+    text: motivation deriving logically from ethical or moral principles that govern
+      a person's thoughts and actions
+  hypernym:
+  - 00001740-n
+  ili: i84908
+  members:
+  - coinsias
+  partOfSpeech: n

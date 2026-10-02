@@ -1,0 +1,1669 @@
+07572999-n:
+  definition:
+  - confidence: 0.0
+    text: a particular item of prepared food
+  hypernym:
+  - 07586285-n
+  ili: i76476
+  members:
+  - mias
+  partOfSpeech: n
+07575758-n:
+  definition:
+  - confidence: 0.0
+    text: inexpensive food (hamburgers or chicken or milkshakes) prepared and served
+      quickly
+  hypernym:
+  - 07586285-n
+  ili: i76477
+  members:
+  - mearbhia
+  partOfSpeech: n
+07576677-n:
+  definition:
+  - confidence: 0.0
+    text: a prescribed selection of foods
+  hypernym:
+  - 00021445-n
+  ili: i76483
+  members:
+  - aiste bia
+  partOfSpeech: n
+07584383-n:
+  definition:
+  - confidence: 0.0
+    text: coarse, indigestible plant food low in nutrients; its bulk stimulates intestinal
+      peristalsis
+  hypernym:
+  - 00021445-n
+  ili: i76529
+  members:
+  - gairbhseach
+  partOfSpeech: n
+07584671-n:
+  definition:
+  - confidence: 0.0
+    text: fine powdery foodstuff obtained by grinding and sifting the meal of a cereal
+      grain
+  hypernym:
+  - 00021445-n
+  ili: i76531
+  members:
+  - plúr
+  partOfSpeech: n
+07585802-n:
+  definition:
+  - confidence: 0.0
+    text: a protein substance that remains when starch is removed from cereal grains;
+      gives cohesiveness to dough
+  hypernym:
+  - 14752903-n
+  ili: i76538
+  members:
+  - glútan
+  partOfSpeech: n
+07586285-n:
+  definition:
+  - confidence: 0.0
+    text: a source of materials to nourish the body
+  hypernym:
+  - 00021445-n
+  ili: i76542
+  members:
+  - cothú
+  partOfSpeech: n
+07588423-n:
+  definition:
+  - confidence: 0.0
+    text: food preserved by freezing
+  hypernym:
+  - 00021445-n
+  ili: i76553
+  members:
+  - bia reoite
+  partOfSpeech: n
+07589261-n:
+  definition:
+  - confidence: 0.0
+    text: the food served and eaten at one time
+  hypernym:
+  - 07586285-n
+  ili: i76560
+  members:
+  - béile
+  partOfSpeech: n
+07590641-n:
+  definition:
+  - confidence: 0.0
+    text: a midday meal
+  hypernym:
+  - 07589261-n
+  ili: i76567
+  members:
+  - lón
+  partOfSpeech: n
+07591291-n:
+  definition:
+  - confidence: 0.0
+    text: the main meal of the day served in the evening or at midday
+  hypernym:
+  - 07589261-n
+  ili: i76571
+  members:
+  - dinnéar
+  partOfSpeech: n
+07591549-n:
+  definition:
+  - confidence: 0.0
+    text: a light evening meal; served in early evening if dinner is at midday or
+      served late in the evening at bedtime
+  hypernym:
+  - 07589261-n
+  ili: i76572
+  members:
+  - suipéar
+  partOfSpeech: n
+07592939-n:
+  definition:
+  - confidence: 0.0
+    text: a light informal meal
+  hypernym:
+  - 07589261-n
+  ili: i76581
+  members:
+  - sneaic
+  partOfSpeech: n
+07593928-n:
+  definition:
+  - confidence: 0.0
+    text: an individual quantity of food or drink taken as part of a meal
+  hypernym:
+  - 00033914-n
+  ili: i76587
+  members:
+  - cuid
+  partOfSpeech: n
+07598762-n:
+  definition:
+  - confidence: 0.0
+    text: liquid food especially of meat or fish or vegetable stock often containing
+      pieces of solid food
+  hypernym:
+  - 07572999-n
+  ili: i76617
+  members:
+  - anraith
+  partOfSpeech: n
+07600158-n:
+  definition:
+  - confidence: 0.0
+    text: a thin soup of meat or fish or vegetable stock
+  hypernym:
+  - 07598762-n
+  ili: i76624
+  members:
+  - brat
+  partOfSpeech: n
+07600779-n:
+  definition:
+  - confidence: 0.0
+    text: liquid in which meat and vegetables are simmered; used as a basis for e.g.
+      soups or sauces
+  hypernym:
+  - 07598762-n
+  ili: i76630
+  members:
+  - stoc
+  partOfSpeech: n
+07615569-n:
+  definition:
+  - confidence: 0.0
+    text: a preparation (usually made of sweetened chicle) for chewing
+  hypernym:
+  - 07586285-n
+  ili: i76737
+  members:
+  - guma
+  partOfSpeech: n
+07617570-n:
+  definition:
+  - confidence: 0.0
+    text: a food made from roasted ground cacao beans
+  hypernym:
+  - 15071467-n
+  - 00021445-n
+  ili: i76751
+  members:
+  - seacláid
+  partOfSpeech: n
+07621083-n:
+  definition:
+  - confidence: 0.0
+    text: soft creamy candy
+  hypernym:
+  - 07586285-n
+  ili: i76773
+  members:
+  - faoiste
+  partOfSpeech: n
+07622970-n:
+  definition:
+  - confidence: 0.0
+    text: a black candy flavored with the dried root of the licorice plant
+  hypernym:
+  - 07586285-n
+  ili: i76789
+  members:
+  - liocras
+  partOfSpeech: n
+07625449-n:
+  definition:
+  - confidence: 0.0
+    text: a dish served as the last course of a meal
+  hypernym:
+  - 07586285-n
+  ili: i76811
+  members:
+  - milseog
+  partOfSpeech: n
+07630109-n:
+  definition:
+  - confidence: 0.0
+    text: frozen dessert containing cream and sugar and flavoring
+  hypernym:
+  - 07625449-n
+  ili: i76839
+  members:
+  - uachtar reoite
+  partOfSpeech: n
+07634613-n:
+  definition:
+  - confidence: 0.0
+    text: sweetened mixture of milk and eggs baked or boiled or frozen
+  hypernym:
+  - 07572999-n
+  ili: i76875
+  members:
+  - custard
+  partOfSpeech: n
+07644479-n:
+  definition:
+  - confidence: 0.0
+    text: food made from or based on a mixture of flour, sugar, eggs, and fat, typically
+      cooked in an oven
+  hypernym:
+  - 15071467-n
+  - 00021445-n
+  ili: i76949
+  members:
+  - cáca
+  partOfSpeech: n
+07645698-n:
+  definition:
+  - confidence: 0.0
+    text: made with sweetened cream cheese and eggs and cream baked in a crumb crust
+  hypernym:
+  - 07644479-n
+  ili: i76954
+  members:
+  - císte cáise
+  partOfSpeech: n
+07657308-n:
+  definition:
+  - confidence: 0.0
+    text: pancake batter baked in a waffle iron
+  hypernym:
+  - 07644479-n
+  ili: i77043
+  members:
+  - vaiféal
+  partOfSpeech: n
+07658080-n:
+  definition:
+  - confidence: 0.0
+    text: fruit preserved by cooking with sugar
+  hypernym:
+  - 07586285-n
+  ili: i77049
+  members:
+  - subh
+  partOfSpeech: n
+07658542-n:
+  definition:
+  - confidence: 0.0
+    text: preserve of crushed fruit
+  hypernym:
+  - 07658080-n
+  ili: i77052
+  members:
+  - subh
+  partOfSpeech: n
+07660576-n:
+  definition:
+  - confidence: 0.0
+    text: the flesh of a chicken used for food
+  hypernym:
+  - 07665463-n
+  ili: i77065
+  members:
+  - sicín
+  partOfSpeech: n
+07665463-n:
+  definition:
+  - confidence: 0.0
+    text: the flesh of animals (including fishes and birds and snails) used as food
+  hypernym:
+  - 15071467-n
+  - 00021445-n
+  ili: i77100
+  members:
+  - feoil
+  partOfSpeech: n
+07667383-n:
+  definition:
+  - confidence: 0.0
+    text: viscera and trimmings of a butchered animal often considered inedible by
+      humans
+  hypernym:
+  - 07665463-n
+  ili: i77110
+  members:
+  - scairteach
+  partOfSpeech: n
+07668097-n:
+  definition:
+  - confidence: 0.0
+    text: edible glands of an animal
+  hypernym:
+  - 07665463-n
+  ili: i77116
+  members:
+  - briseán
+  partOfSpeech: n
+07668920-n:
+  definition:
+  - confidence: 0.0
+    text: meat from a deer used as food
+  hypernym:
+  - 07665463-n
+  ili: i77124
+  members:
+  - fiafheoil
+  partOfSpeech: n
+07669003-n:
+  definition:
+  - confidence: 0.0
+    text: a piece of meat that has been cut from an animal carcass
+  hypernym:
+  - 07665463-n
+  ili: i77125
+  members:
+  - gearradh
+  partOfSpeech: n
+07674287-n:
+  definition:
+  - confidence: 0.0
+    text: a cut of meat taken from the side and back of an animal between the ribs
+      and the rump
+  hypernym:
+  - 07669003-n
+  ili: i77159
+  members:
+  - luan
+  partOfSpeech: n
+07675810-n:
+  definition:
+  - confidence: 0.0
+    text: a boneless steak cut from the tenderloin of beef
+  hypernym:
+  - 07669003-n
+  ili: i77169
+  members:
+  - filléad
+  partOfSpeech: n
+07679337-n:
+  definition:
+  - confidence: 0.0
+    text: meat from an adult domestic bovine
+  hypernym:
+  - 07665463-n
+  ili: i77197
+  members:
+  - mairteoil
+  partOfSpeech: n
+07681053-n:
+  definition:
+  - confidence: 0.0
+    text: meat from a calf
+  hypernym:
+  - 07665463-n
+  ili: i77210
+  members:
+  - laofheoil
+  partOfSpeech: n
+07682478-n:
+  definition:
+  - confidence: 0.0
+    text: meat from a mature domestic sheep
+  hypernym:
+  - 07665463-n
+  ili: i77221
+  members:
+  - caoireoil
+  partOfSpeech: n
+07685636-n:
+  definition:
+  - confidence: 0.0
+    text: meat cut from the thigh of a hog (usually smoked)
+  hypernym:
+  - 07669003-n
+  ili: i77246
+  members:
+  - liamhás
+  partOfSpeech: n
+07686178-n:
+  definition:
+  - confidence: 0.0
+    text: back and sides of a hog salted and dried or smoked; usually sliced thin
+      and fried
+  hypernym:
+  - 07669003-n
+  ili: i77251
+  members:
+  - bagún
+  partOfSpeech: n
+07688166-n:
+  definition:
+  - confidence: 0.0
+    text: soft white semisolid fat obtained by rendering the fatty tissue of the hog
+  hypernym:
+  - 14963045-n
+  ili: i77265
+  members:
+  - blonag
+  partOfSpeech: n
+07688535-n:
+  definition:
+  - confidence: 0.0
+    text: hard fat around the kidneys and loins in beef and sheep
+  hypernym:
+  - 14963045-n
+  ili: i77268
+  members:
+  - geir
+  partOfSpeech: n
+07688659-n:
+  definition:
+  - confidence: 0.0
+    text: a spread made chiefly from vegetable oils and used as a substitute for butter
+  hypernym:
+  - 07825344-n
+  ili: i77269
+  members:
+  - margairín
+  partOfSpeech: n
+07691372-n:
+  definition:
+  - confidence: 0.0
+    text: highly seasoned minced meat stuffed in casings
+  hypernym:
+  - 07665463-n
+  ili: i77287
+  members:
+  - ispín
+  partOfSpeech: n
+07693492-n:
+  definition:
+  - confidence: 0.0
+    text: highly seasoned fatty sausage of pork and beef usually dried
+  hypernym:
+  - 07691372-n
+  ili: i77301
+  members:
+  - salámaí
+  partOfSpeech: n
+07695101-n:
+  definition:
+  - confidence: 0.0
+    text: food made from dough of flour or meal and usually raised with yeast or baking
+      powder and then baked
+  hypernym:
+  - 15071467-n
+  - 00021445-n
+  ili: i77313
+  members:
+  - arán
+  partOfSpeech: n
+07698883-n:
+  definition:
+  - confidence: 0.0
+    text: a technical name for the bread used in the service of Mass or Holy Communion
+  hypernym:
+  - 07695101-n
+  ili: i77334
+  members:
+  - abhlann
+  partOfSpeech: n
+07705587-n:
+  definition:
+  - confidence: 0.0
+    text: slice of sweet raised bread baked again until it is brown and hard and crisp
+  hypernym:
+  - 07695101-n
+  ili: i77382
+  members:
+  - rosca
+  partOfSpeech: n
+07714660-n:
+  definition:
+  - confidence: 0.0
+    text: shaped and dried dough made from flour and water and sometimes egg
+  hypernym:
+  - 15071467-n
+  - 00021445-n
+  ili: i77445
+  members:
+  - pasta
+  partOfSpeech: n
+07716709-n:
+  definition:
+  - confidence: 0.0
+    text: pasta in the form of slender tubes
+  hypernym:
+  - 07714660-n
+  ili: i77461
+  members:
+  - macarón
+  partOfSpeech: n
+07718541-n:
+  definition:
+  - confidence: 0.0
+    text: a breakfast food prepared from grain
+  hypernym:
+  - 15071467-n
+  - 00021445-n
+  ili: i77475
+  members:
+  - gránach
+  partOfSpeech: n
+07721456-n:
+  definition:
+  - confidence: 0.0
+    text: fresh fruits and vegetable grown for the market
+  hypernym:
+  - 15071467-n
+  - 00021445-n
+  ili: i77499
+  members:
+  - toradh
+  partOfSpeech: n
+07723196-n:
+  definition:
+  - confidence: 0.0
+    text: edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet
+      fruits of any of numerous herbaceous plant
+  hypernym:
+  - 07721456-n
+  ili: i77501
+  members:
+  - glasra
+  partOfSpeech: n
+07726361-n:
+  definition:
+  - confidence: 0.0
+    text: an edible tuber native to South America; a staple food of Ireland
+  hypernym:
+  - 07723196-n
+  ili: i77515
+  members:
+  - práta
+  partOfSpeech: n
+07728304-n:
+  definition:
+  - confidence: 0.0
+    text: a thin crisp slice of potato fried in deep fat
+  hypernym:
+  - 07572999-n
+  ili: i77528
+  members:
+  - criospa
+  partOfSpeech: n
+07732103-n:
+  definition:
+  - confidence: 0.0
+    text: small cucumber-shaped vegetable marrow; typically dark green
+  hypernym:
+  - 07723196-n
+  ili: i77552
+  members:
+  - cúirséad
+  partOfSpeech: n
+07734217-n:
+  definition:
+  - confidence: 0.0
+    text: cylindrical green fruit with thin green rind and white flesh eaten as a
+      vegetable; related to melons
+  hypernym:
+  - 07723196-n
+  ili: i77565
+  members:
+  - cúcamar
+  partOfSpeech: n
+07734416-n:
+  definition:
+  - confidence: 0.0
+    text: small prickly cucumber
+  hypernym:
+  - 07734217-n
+  ili: i77566
+  members:
+  - gircín
+  partOfSpeech: n
+07737962-n:
+  definition:
+  - confidence: 0.0
+    text: an aromatic flavorful vegetable
+  hypernym:
+  - 07723196-n
+  ili: i77592
+  members:
+  - oinniún
+  partOfSpeech: n
+07738922-n:
+  definition:
+  - confidence: 0.0
+    text: small mild-flavored onion-like or garlic-like clustered bulbs used for seasoning
+  hypernym:
+  - 07737962-n
+  ili: i77599
+  members:
+  - seallóid
+  partOfSpeech: n
+07740688-n:
+  definition:
+  - confidence: 0.0
+    text: any of various edible seeds of plants of the family Leguminosae used for
+      food
+  hypernym:
+  - 07723196-n
+  ili: i77610
+  members:
+  - pónaire
+  partOfSpeech: n
+07741352-n:
+  definition:
+  - confidence: 0.0
+    text: seed of a pea plant used for food
+  hypernym:
+  - 07723196-n
+  ili: i77613
+  members:
+  - pis
+  partOfSpeech: n
+07746382-n:
+  definition:
+  - confidence: 0.0
+    text: stalks eaten raw or cooked or used as seasoning
+  hypernym:
+  - 07723196-n
+  ili: i77650
+  members:
+  - soilire
+  partOfSpeech: n
+07746831-n:
+  definition:
+  - confidence: 0.0
+    text: crisp spiky leaves with somewhat bitter taste
+  hypernym:
+  - 07723196-n
+  ili: i77653
+  members:
+  - siocaire
+  partOfSpeech: n
+07754329-n:
+  definition:
+  - confidence: 0.0
+    text: the rind of a fruit or vegetable
+  hypernym:
+  - 14604877-n
+  ili: i77703
+  members:
+  - craiceann
+  partOfSpeech: n
+07755101-n:
+  definition:
+  - confidence: 0.0
+    text: fruit with red or yellow or green skin and sweet to tart crisp whitish flesh
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77708
+  members:
+  - úll
+  partOfSpeech: n
+07758680-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous small and pulpy edible fruits; used as desserts or in making
+      jams and jellies and preserves
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77735
+  members:
+  - caor
+  - sméar
+  partOfSpeech: n
+07762162-n:
+  definition:
+  - confidence: 0.0
+    text: orange fruit resembling a plum; edible when fully ripe
+  hypernym:
+  - 07758680-n
+  ili: i77755
+  members:
+  - dátphluma
+  partOfSpeech: n
+07763031-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous fruits of the genus Citrus having thick rind and juicy pulp;
+      grown in warm regions
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77760
+  members:
+  - citreas
+  partOfSpeech: n
+07765558-n:
+  definition:
+  - confidence: 0.0
+    text: yellow oval fruit with juicy acidic flesh
+  hypernym:
+  - 07763031-n
+  ili: i77775
+  members:
+  - líomóid
+  partOfSpeech: n
+07765707-n:
+  definition:
+  - confidence: 0.0
+    text: the green acidic fruit of any of various lime trees
+  hypernym:
+  - 07763031-n
+  ili: i77776
+  members:
+  - líoma
+  partOfSpeech: n
+07765945-n:
+  definition:
+  - confidence: 0.0
+    text: large yellow fruit with somewhat acid juicy pulp; usual serving consists
+      of a half
+  hypernym:
+  - 07763031-n
+  ili: i77778
+  members:
+  - seadóg
+  partOfSpeech: n
+07766848-n:
+  definition:
+  - confidence: 0.0
+    text: downy yellow to rosy-colored fruit resembling a small peach
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77784
+  members:
+  - aibreog
+  partOfSpeech: n
+07766980-n:
+  definition:
+  - confidence: 0.0
+    text: downy juicy fruit with sweet yellowish or whitish flesh
+  hypernym:
+  - 13159085-n
+  - 07721456-n
+  ili: i77785
+  members:
+  - péitseog
+  partOfSpeech: n
+07767124-n:
+  definition:
+  - confidence: 0.0
+    text: a variety or mutation of the peach that has a smooth skin
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77786
+  members:
+  - neachtairín
+  partOfSpeech: n
+07767427-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous varieties of small to medium-sized round or oval fruit having
+      a smooth skin and a single pit
+  hypernym:
+  - 13159085-n
+  - 07721456-n
+  ili: i77788
+  members:
+  - pluma
+  partOfSpeech: n
+07768640-n:
+  definition:
+  - confidence: 0.0
+    text: dried grape
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77797
+  members:
+  - rísín
+  partOfSpeech: n
+07769089-n:
+  definition:
+  - confidence: 0.0
+    text: fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh
+      or preserved or dried
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77801
+  members:
+  - fige
+  partOfSpeech: n
+07769568-n:
+  definition:
+  - confidence: 0.0
+    text: elongated crescent-shaped yellow fruit with soft sweet flesh
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77804
+  members:
+  - banana
+  partOfSpeech: n
+07771065-n:
+  definition:
+  - confidence: 0.0
+    text: powder of ground roasted cacao beans with most of the fat removed
+  hypernym:
+  - 00021445-n
+  ili: i77812
+  members:
+  - cócó
+  partOfSpeech: n
+07771387-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous fruits of the gourd family having a hard rind and sweet
+      juicy flesh
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77814
+  members:
+  - mealbhacán
+  partOfSpeech: n
+07772927-n:
+  definition:
+  - confidence: 0.0
+    text: large oblong or roundish melon with a hard green rind and sweet watery red
+      or occasionally yellowish pulp
+  hypernym:
+  - 07771387-n
+  ili: i77823
+  members:
+  - mealbhacán uisce
+  partOfSpeech: n
+07773108-n:
+  definition:
+  - confidence: 0.0
+    text: a red fruit with a single hard stone
+  hypernym:
+  - 13159085-n
+  - 07721456-n
+  ili: i77824
+  members:
+  - silín
+  partOfSpeech: n
+07774656-n:
+  definition:
+  - confidence: 0.0
+    text: any of various juicy fruit of the genus Vitis with green or purple skins;
+      grow in clusters
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77835
+  members:
+  - fíonchaor
+  partOfSpeech: n
+07780131-n:
+  definition:
+  - confidence: 0.0
+    text: large oval tropical fruit having smooth skin, juicy aromatic pulp, and a
+      large hairy seed
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77869
+  members:
+  - mangó
+  partOfSpeech: n
+07780823-n:
+  definition:
+  - confidence: 0.0
+    text: a pear-shaped tropical fruit with green or blackish skin and rich yellowish
+      pulp enclosing a single large seed
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77873
+  members:
+  - abhacád
+  partOfSpeech: n
+07781049-n:
+  definition:
+  - confidence: 0.0
+    text: sweet edible fruit of the date palm with a single long woody seed
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77874
+  members:
+  - dáta
+  partOfSpeech: n
+07781337-n:
+  definition:
+  - confidence: 0.0
+    text: tropical fruit having yellow skin and pink pulp; eaten fresh or used for
+      e.g. jellies
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77876
+  members:
+  - guábha
+  partOfSpeech: n
+07783320-n:
+  definition:
+  - confidence: 0.0
+    text: one-seeded fruit of the European olive tree usually pickled and used as
+      a relish
+  hypernym:
+  - 13159085-n
+  - 07825344-n
+  ili: i77889
+  members:
+  - ológ
+  partOfSpeech: n
+07783823-n:
+  definition:
+  - confidence: 0.0
+    text: sweet juicy gritty-textured fruit available in many varieties
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77892
+  members:
+  - piorra
+  partOfSpeech: n
+07784399-n:
+  definition:
+  - confidence: 0.0
+    text: starchy banana-like fruit; eaten (always cooked) as a staple vegetable throughout
+      the tropics
+  hypernym:
+  - 07723196-n
+  ili: i77897
+  members:
+  - plantán
+  partOfSpeech: n
+07785560-n:
+  definition:
+  - confidence: 0.0
+    text: aromatic acid-tasting pear-shaped fruit used in preserves
+  hypernym:
+  - 07721456-n
+  - 13155706-n
+  ili: i77905
+  members:
+  - cainche
+  partOfSpeech: n
+07788123-n:
+  definition:
+  - confidence: 0.0
+    text: kidney-shaped nut edible only when roasted
+  hypernym:
+  - 13157333-n
+  ili: i77922
+  members:
+  - cnó caisiú
+  partOfSpeech: n
+07788250-n:
+  definition:
+  - confidence: 0.0
+    text: edible nut of any of various chestnut trees of the genus Castanea
+  hypernym:
+  - 13157333-n
+  ili: i77923
+  members:
+  - castán
+  partOfSpeech: n
+07796603-n:
+  definition:
+  - confidence: 0.0
+    text: important warm-water fatty fish of the genus Thunnus of the family Scombridae;
+      usually served as steaks
+  hypernym:
+  - 15071467-n
+  - 00021445-n
+  ili: i77970
+  members:
+  - tuinnín
+  partOfSpeech: n
+07814961-n:
+  definition:
+  - confidence: 0.0
+    text: small fatty European fish; usually smoked or canned like sardines
+  hypernym:
+  - 15071467-n
+  - 00021445-n
+  ili: i78090
+  members:
+  - salán
+  partOfSpeech: n
+07815254-n:
+  definition:
+  - confidence: 0.0
+    text: fish eggs or egg-filled ovary; having a grainy texture
+  hypernym:
+  - 15071467-n
+  - 00021445-n
+  ili: i78092
+  members:
+  - eochraí
+  partOfSpeech: n
+07815555-n:
+  definition:
+  - confidence: 0.0
+    text: salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre
+  hypernym:
+  - 07815254-n
+  ili: i78094
+  members:
+  - caibheár
+  partOfSpeech: n
+07816067-n:
+  definition:
+  - confidence: 0.0
+    text: food for domestic livestock
+  hypernym:
+  - 00021445-n
+  ili: i78098
+  members:
+  - bia
+  partOfSpeech: n
+07816716-n:
+  definition:
+  - confidence: 0.0
+    text: coarse food (especially for livestock) composed of entire plants or the
+      leaves and stalks of a cereal crop
+  hypernym:
+  - 07816067-n
+  ili: i78101
+  members:
+  - farae
+  partOfSpeech: n
+07817067-n:
+  definition:
+  - confidence: 0.0
+    text: bulky food like grass or hay for browsing or grazing horses or cattle
+  hypernym:
+  - 07816716-n
+  ili: i78103
+  members:
+  - foráiste
+  partOfSpeech: n
+07817318-n:
+  definition:
+  - confidence: 0.0
+    text: fodder harvested while green and kept succulent by partial fermentation
+      as in a silo
+  hypernym:
+  - 07816067-n
+  ili: i78104
+  members:
+  - sadhlas
+  partOfSpeech: n
+07818002-n:
+  definition:
+  - confidence: 0.0
+    text: grass mowed and cured for use as fodder
+  hypernym:
+  - 07816716-n
+  ili: i78109
+  members:
+  - féar tirim
+  partOfSpeech: n
+07818393-n:
+  definition:
+  - confidence: 0.0
+    text: foodstuff prepared from the starchy grains of cereal grasses
+  hypernym:
+  - 00021445-n
+  ili: i78112
+  members:
+  - grán
+  - gránach
+  partOfSpeech: n
+07820299-n:
+  definition:
+  - confidence: 0.0
+    text: grains used as food either unpolished or more often polished
+  hypernym:
+  - 07818393-n
+  ili: i78125
+  members:
+  - rís
+  partOfSpeech: n
+07822197-n:
+  definition:
+  - confidence: 0.0
+    text: food mixtures either arranged on a plate or tossed and served with a moist
+      dressing; usually consisting of or including greens
+  hypernym:
+  - 07572999-n
+  ili: i78140
+  members:
+  - sailéad
+  partOfSpeech: n
+07825344-n:
+  definition:
+  - confidence: 0.0
+    text: something added to food primarily for the savor it imparts
+  hypernym:
+  - 00021445-n
+  ili: i78162
+  members:
+  - blastanas
+  - blastán
+  partOfSpeech: n
+07829083-n:
+  definition:
+  - confidence: 0.0
+    text: white crystalline form of especially sodium chloride used to season and
+      preserve food
+  hypernym:
+  - 07825344-n
+  ili: i78175
+  members:
+  - salann
+  partOfSpeech: n
+07830901-n:
+  definition:
+  - confidence: 0.0
+    text: pungent rhizome of the common ginger plant; used fresh as a seasoning especially
+      in Asian cookery
+  hypernym:
+  - 07825344-n
+  ili: i78188
+  members:
+  - sinséar
+  partOfSpeech: n
+07832702-n:
+  definition:
+  - confidence: 0.0
+    text: leaves used sparingly in soups and stews
+  hypernym:
+  - 07825344-n
+  ili: i78200
+  members:
+  - cearbhas
+  partOfSpeech: n
+07835456-n:
+  definition:
+  - confidence: 0.0
+    text: pungent powder or paste prepared from ground mustard seeds
+  hypernym:
+  - 07825344-n
+  ili: i78219
+  members:
+  - mustard
+  partOfSpeech: n
+07836473-n:
+  definition:
+  - confidence: 0.0
+    text: aromatic fresh or dried grey-green leaves used widely as seasoning for meats
+      and fowl and game etc
+  hypernym:
+  - 07825344-n
+  ili: i78226
+  members:
+  - sáiste
+  partOfSpeech: n
+07838173-n:
+  definition:
+  - confidence: 0.0
+    text: thick spicy sauce made from tomatoes
+  hypernym:
+  - 07825344-n
+  ili: i78237
+  members:
+  - citseap
+  partOfSpeech: n
+07844963-n:
+  definition:
+  - confidence: 0.0
+    text: sour-tasting liquid produced usually by oxidation of the alcohol in wine
+      or cider and used as a condiment or food preservative
+  hypernym:
+  - 07825344-n
+  ili: i78285
+  members:
+  - fínéagar
+  partOfSpeech: n
+07845388-n:
+  definition:
+  - confidence: 0.0
+    text: flavorful relish or dressing or topping served as an accompaniment to food
+  hypernym:
+  - 07825344-n
+  ili: i78288
+  members:
+  - anlann
+  partOfSpeech: n
+07847243-n:
+  definition:
+  - confidence: 0.0
+    text: sauce made with a puree of tomatoes (or strained tomatoes) with savory vegetables
+      and other seasonings; can be used on pasta
+  hypernym:
+  - 07845388-n
+  ili: i78295
+  members:
+  - anlann trátaí
+  partOfSpeech: n
+07847426-n:
+  definition:
+  - confidence: 0.0
+    text: mayonnaise with chopped pickles and sometimes capers and shallots and parsley
+      and hard-cooked egg; sauce for seafood especially fried fish
+  hypernym:
+  - 07845388-n
+  ili: i78296
+  members:
+  - anlann tartair
+  partOfSpeech: n
+07857013-n:
+  definition:
+  - confidence: 0.0
+    text: the white part of an egg; the nutritive and protective gelatinous substance
+      surrounding the yolk consisting mainly of albumin dissolved in water
+  hypernym:
+  - 00021445-n
+  ili: i78363
+  members:
+  - gealacán
+  partOfSpeech: n
+07857321-n:
+  definition:
+  - confidence: 0.0
+    text: the yellow spherical part of an egg that is surrounded by the albumen
+  hypernym:
+  - 00021445-n
+  ili: i78364
+  members:
+  - buíocán
+  partOfSpeech: n
+07860018-n:
+  definition:
+  - confidence: 0.0
+    text: a white nutritious liquid secreted by mammals and used as food by human
+      beings
+  hypernym:
+  - 07897775-n
+  ili: i78383
+  members:
+  - bainne
+  partOfSpeech: n
+07863174-n:
+  definition:
+  - confidence: 0.0
+    text: the part of milk containing the butterfat
+  hypernym:
+  - 00021445-n
+  ili: i78406
+  members:
+  - uachtar
+  partOfSpeech: n
+07864314-n:
+  definition:
+  - confidence: 0.0
+    text: an edible emulsion of fat globules made by churning milk or cream; for cooking
+      and table use
+  hypernym:
+  - 15071467-n
+  - 00021445-n
+  ili: i78414
+  members:
+  - im
+  partOfSpeech: n
+07865888-n:
+  definition:
+  - confidence: 0.0
+    text: coagulated milk; used to make cheese
+  hypernym:
+  - 00021445-n
+  ili: i78424
+  members:
+  - gruth
+  partOfSpeech: n
+07866305-n:
+  definition:
+  - confidence: 0.0
+    text: a solid food prepared from the pressed curd of milk
+  hypernym:
+  - 15071467-n
+  - 00021445-n
+  ili: i78427
+  members:
+  - cáis
+  partOfSpeech: n
+07867274-n:
+  definition:
+  - confidence: 0.0
+    text: soft unripened cheese made of sweet milk and cream
+  hypernym:
+  - 07866305-n
+  ili: i78430
+  members:
+  - cáis uachtair
+  partOfSpeech: n
+07868895-n:
+  definition:
+  - confidence: 0.0
+    text: hard smooth-textured cheese; originally made in Cheddar in southwestern
+      England
+  hypernym:
+  - 07866305-n
+  ili: i78445
+  members:
+  - céadar
+  partOfSpeech: n
+07871486-n:
+  definition:
+  - confidence: 0.0
+    text: a spread made from ground peanuts
+  hypernym:
+  - 07825344-n
+  ili: i78468
+  members:
+  - im piseanna talún
+  partOfSpeech: n
+07874954-n:
+  definition:
+  - confidence: 0.0
+    text: a sweet yellow liquid produced by bees
+  hypernym:
+  - 07825344-n
+  ili: i78491
+  members:
+  - mil
+  partOfSpeech: n
+07875260-n:
+  definition:
+  - confidence: 0.0
+    text: a white crystalline carbohydrate used as a sweetener and preservative
+  hypernym:
+  - 07825344-n
+  ili: i78493
+  members:
+  - siúcra
+  partOfSpeech: n
+07875559-n:
+  definition:
+  - confidence: 0.0
+    text: a thick sweet sticky liquid
+  hypernym:
+  - 07825344-n
+  ili: i78494
+  members:
+  - síoróip
+  partOfSpeech: n
+07889783-n:
+  definition:
+  - confidence: 0.0
+    text: Italian open pie made of thin bread dough spread with a spiced mixture of
+      e.g. tomato sauce and cheese
+  hypernym:
+  - 07572999-n
+  ili: i78596
+  members:
+  - píotsa
+  partOfSpeech: n
+07897775-n:
+  definition:
+  - confidence: 0.0
+    text: any liquid suitable for drinking
+  hypernym:
+  - 00021445-n
+  - 14964524-n
+  ili: i78658
+  members:
+  - deoch
+  partOfSpeech: n
+07900542-n:
+  definition:
+  - confidence: 0.0
+    text: a liquor or brew containing alcohol as the active agent
+  hypernym:
+  - 07897775-n
+  - 03252323-n
+  ili: i78673
+  members:
+  - alcól
+  partOfSpeech: n
+07901198-n:
+  definition:
+  - confidence: 0.0
+    text: a single serving of a beverage
+  hypernym:
+  - 07593928-n
+  ili: i78674
+  members:
+  - deoch
+  - ól
+  partOfSpeech: n
+07902824-n:
+  definition:
+  - confidence: 0.0
+    text: a general name for alcoholic beverages made by fermenting a cereal (or mixture
+      of cereals) flavored with hops
+  hypernym:
+  - 07900542-n
+  ili: i78683
+  members:
+  - beoir
+  partOfSpeech: n
+07903074-n:
+  definition:
+  - confidence: 0.0
+    text: beer drawn from a keg
+  hypernym:
+  - 07902824-n
+  ili: i78684
+  members:
+  - beoir bhairille
+  partOfSpeech: n
+07904884-n:
+  definition:
+  - confidence: 0.0
+    text: a cereal grain (usually barley) that is kiln-dried after having been germinated
+      by soaking in water; used especially in brewing and distilling
+  hypernym:
+  - 07818393-n
+  ili: i78696
+  members:
+  - braich
+  partOfSpeech: n
+07906327-n:
+  definition:
+  - confidence: 0.0
+    text: a strong very dark heavy-bodied ale made from pale malt and roasted unmalted
+      barley and (often) caramel malt with hops
+  hypernym:
+  - 07902824-n
+  ili: i78704
+  members:
+  - leann dubh
+  partOfSpeech: n
+07907701-n:
+  definition:
+  - confidence: 0.0
+    text: fermented juice (of grapes especially)
+  hypernym:
+  - 07900542-n
+  ili: i78715
+  members:
+  - fíon
+  partOfSpeech: n
+07915083-n:
+  definition:
+  - confidence: 0.0
+    text: any of several white wines flavored with aromatic herbs; used as aperitifs
+      or in mixed drinks
+  hypernym:
+  - 07907701-n
+  ili: i78763
+  members:
+  - fíon mormónta
+  partOfSpeech: n
+07917065-n:
+  definition:
+  - confidence: 0.0
+    text: sweet dark-red dessert wine originally from Portugal
+  hypernym:
+  - 07907701-n
+  ili: i78775
+  members:
+  - pórt
+  partOfSpeech: n
+07917198-n:
+  definition:
+  - confidence: 0.0
+    text: dry to sweet amber wine from the Jerez region of southern Spain or similar
+      wines produced elsewhere; usually drunk as an aperitif
+  hypernym:
+  - 07907701-n
+  ili: i78776
+  members:
+  - seiris
+  partOfSpeech: n
+07917827-n:
+  definition:
+  - confidence: 0.0
+    text: an alcoholic beverage that is distilled rather than fermented
+  hypernym:
+  - 07900542-n
+  ili: i78781
+  members:
+  - biotáille
+  partOfSpeech: n
+07919448-n:
+  definition:
+  - confidence: 0.0
+    text: distilled from wine or fermented fruit juice
+  hypernym:
+  - 07917827-n
+  ili: i78790
+  members:
+  - branda
+  partOfSpeech: n
+07921278-n:
+  definition:
+  - confidence: 0.0
+    text: liquor distilled from fermented molasses
+  hypernym:
+  - 07917827-n
+  ili: i78804
+  members:
+  - rum
+  partOfSpeech: n
+07922351-n:
+  definition:
+  - confidence: 0.0
+    text: unaged colorless liquor originating in Russia
+  hypernym:
+  - 07917827-n
+  ili: i78811
+  members:
+  - vodca
+  partOfSpeech: n
+07922524-n:
+  definition:
+  - confidence: 0.0
+    text: a liquor made from fermented mash of grain
+  hypernym:
+  - 07917827-n
+  ili: i78812
+  members:
+  - fuisce
+  - uisce beatha
+  partOfSpeech: n
+07924183-n:
+  definition:
+  - confidence: 0.0
+    text: strong highly flavored sweet liquor usually drunk after a meal
+  hypernym:
+  - 07900542-n
+  ili: i78822
+  members:
+  - licéar
+  partOfSpeech: n
+07927917-n:
+  definition:
+  - confidence: 0.0
+    text: a short mixed drink
+  hypernym:
+  - 07900542-n
+  ili: i78847
+  members:
+  - manglam
+  partOfSpeech: n
+07937695-n:
+  definition:
+  - confidence: 0.0
+    text: a beverage made from juice pressed from apples
+  hypernym:
+  - 07897775-n
+  ili: i78920
+  members:
+  - ceirtlis
+  - leann úll
+  partOfSpeech: n
+07939004-n:
+  definition:
+  - confidence: 0.0
+    text: a beverage made from cocoa powder and milk and sugar; usually drunk hot
+  hypernym:
+  - 07897775-n
+  ili: i78929
+  members:
+  - seacláid the
+  partOfSpeech: n
+07939988-n:
+  definition:
+  - confidence: 0.0
+    text: the liquid part that can be extracted from plant or animal tissue by squeezing
+      or cooking
+  hypernym:
+  - 00021445-n
+  ili: i78937
+  members:
+  - sú
+  partOfSpeech: n
+07940895-n:
+  definition:
+  - confidence: 0.0
+    text: grape juice before or during fermentation
+  hypernym:
+  - 07897775-n
+  ili: i78943
+  members:
+  - úrfhíon
+  partOfSpeech: n
+07943437-n:
+  definition:
+  - confidence: 0.0
+    text: nonalcoholic beverage (usually carbonated)
+  hypernym:
+  - 07897775-n
+  ili: i78965
+  members:
+  - deoch neamh-mheisciúil
+  partOfSpeech: n
+07945759-n:
+  definition:
+  - confidence: 0.0
+    text: a beverage consisting of an infusion of ground coffee beans
+  hypernym:
+  - 07897775-n
+  ili: i78981
+  members:
+  - caife
+  partOfSpeech: n
+07949514-n:
+  definition:
+  - confidence: 0.0
+    text: a beverage made by steeping tea leaves in water
+  hypernym:
+  - 07897775-n
+  ili: i79004
+  members:
+  - tae
+  partOfSpeech: n

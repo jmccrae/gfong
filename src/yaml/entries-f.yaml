@@ -1,0 +1,3156 @@
+Faróis:
+  n:
+    sense:
+    - id: 'faróis%1:10:00::'
+      synset: 06967827-n
+Feabhra:
+  n:
+    sense:
+    - id: 'feabhra%1:28:00::'
+      synset: 15235282-n
+Filipínis:
+  n:
+    sense:
+    - id: 'filipínis%1:10:00::'
+      synset: 06952518-n
+Fraincis:
+  n:
+    sense:
+    - id: 'fraincis%1:10:00::'
+      synset: 06977643-n
+Friúilis:
+  n:
+    sense:
+    - id: 'friúilis%1:10:00::'
+      synset: 06980609-n
+fabhalscéal:
+  n:
+    sense:
+    - id: 'fabhalscéal%1:10:00::'
+      synset: 06383718-n
+fabhalscéalaí:
+  n:
+    sense:
+    - id: 'fabhalscéalaí%1:18:00::'
+      synset: 10095317-n
+fabhar:
+  n:
+    sense:
+    - id: 'fabhar%1:04:00::'
+      synset: 01229430-n
+fabhcún coille:
+  n:
+    sense:
+    - id: 'fabhcún_coille%1:05:00::'
+      synset: 01615117-n
+fabhcún gorm:
+  n:
+    sense:
+    - id: 'fabhcún_gorm%1:05:00::'
+      synset: 01614113-n
+fabhrach:
+  a:
+    sense:
+    - id: 'fabhrach%3:00:00::'
+      synset: 00065504-a
+    - id: 'fabhrach%3:00:01::'
+      synset: 00999158-a
+fabhraigh:
+  v:
+    sense:
+    - id: 'fabhraigh%2:30:00::'
+      synset: 00155677-v
+fabht:
+  n:
+    sense:
+    - id: 'fabht%1:26:00::'
+      synset: 14487787-n
+    - id: 'fabht%1:26:01::'
+      synset: 14488259-n
+fabhtach:
+  a:
+    sense:
+    - id: 'fabhtach%3:00:00::'
+      synset: 01757421-a
+fabraic:
+  n:
+    sense:
+    - id: 'fabraic%1:06:00::'
+      synset: 03314753-n
+fachtóir:
+  n:
+    sense:
+    - id: 'fachtóir%1:23:00::'
+      synset: 13614422-n
+    - id: 'fachtóir%1:11:01::'
+      synset: 07342405-n
+fad:
+  n:
+    sense:
+    - id: 'fad%1:28:00::'
+      synset: 15158573-n
+    - id: 'fad%1:07:01::'
+      synset: 05058400-n
+    - id: 'fad%1:07:02::'
+      synset: 05091408-n
+    - id: 'fad%1:07:03::'
+      synset: 05136466-n
+fada:
+  a:
+    sense:
+    - id: 'fada%3:00:00::'
+      synset: 01436368-a
+    - id: 'fada%3:00:01::'
+      synset: 01440837-a
+  r:
+    sense:
+    - id: 'fada%4:02:03::'
+      synset: 00167240-r
+  s:
+    sense:
+    - id: fada%5:00:02:fada:01
+      synset: 01442029-s
+fadaigh:
+  v:
+    sense:
+    - id: 'fadaigh%2:30:00::'
+      synset: 00318689-v
+    - id: 'fadaigh%2:30:01::'
+      synset: 00541315-v
+fadbhreathnaitheacht:
+  n:
+    sense:
+    - id: 'fadbhreathnaitheacht%1:09:00::'
+      synset: 05813285-n
+fadálach:
+  s:
+    sense:
+    - id: fadálach%5:00:00:fada:01
+      synset: 01442029-s
+fadó:
+  r:
+    sense:
+    - id: 'fadó%4:02:00::'
+      synset: 00022855-r
+faiche:
+  n:
+    sense:
+    - id: 'faiche%1:15:00::'
+      synset: 08609148-n
+faigh:
+  v:
+    sense:
+    - id: 'faigh%2:29:00::'
+      synset: 00065410-v
+    - id: 'faigh%2:29:01::'
+      synset: 00094214-v
+    - id: 'faigh%2:30:02::'
+      synset: 00523831-v
+    - id: 'faigh%2:35:03::'
+      synset: 01435927-v
+    - id: 'faigh%2:36:04::'
+      synset: 01632781-v
+    - id: 'faigh%2:39:05::'
+      synset: 02111702-v
+    - id: 'faigh%2:40:06::'
+      synset: 02214901-v
+    - id: 'faigh%2:40:07::'
+      synset: 02215637-v
+    - id: 'faigh%2:40:08::'
+      synset: 02218118-v
+    - id: 'faigh%2:40:09::'
+      synset: 02240906-v
+    - id: 'faigh%2:40:10::'
+      synset: 02242867-v
+    - id: 'faigh%2:40:11::'
+      synset: 02243552-v
+    - id: 'faigh%2:40:12::'
+      synset: 02252785-v
+    - id: 'faigh%2:40:13::'
+      synset: 02253273-v
+    - id: 'faigh%2:40:14::'
+      synset: 02293158-v
+faigh amach:
+  v:
+    sense:
+    - id: 'faigh_amach%2:31:00::'
+      synset: 00600349-v
+    - id: 'faigh_amach%2:31:01::'
+      synset: 00666706-v
+    - id: 'faigh_amach%2:32:02::'
+      synset: 00935783-v
+    - id: 'faigh_amach%2:32:03::'
+      synset: 00920843-v
+    - id: 'faigh_amach%2:32:04::'
+      synset: 00922307-v
+faigh ar ais:
+  v:
+    sense:
+    - id: 'faigh_ar_ais%2:40:00::'
+      synset: 02252785-v
+    - id: 'faigh_ar_ais%2:40:01::'
+      synset: 02290474-v
+faigh arís:
+  v:
+    sense:
+    - id: 'faigh_arís%2:40:00::'
+      synset: 02252785-v
+    - id: 'faigh_arís%2:40:01::'
+      synset: 02290474-v
+faigh bás:
+  v:
+    sense:
+    - id: 'faigh_bás%2:30:00::'
+      synset: 00359085-v
+faigh greim ar:
+  v:
+    sense:
+    - id: 'faigh_greim_ar%2:35:00::'
+      synset: 01216829-v
+faigh tríd:
+  v:
+    sense:
+    - id: 'faigh_tríd%2:32:00::'
+      synset: 00745330-v
+faighin:
+  n:
+    sense:
+    - id: 'faighin%1:08:00::'
+      synset: 05528762-n
+faighteoir:
+  n:
+    sense:
+    - id: 'faighteoir%1:18:00::'
+      synset: 09651094-n
+faillí a dhéanamh i:
+  v:
+    sense:
+    - id: 'faillí_a_dhéanamh_i%2:41:00::'
+      synset: 02534950-v
+fair:
+  v:
+    sense:
+    - id: 'fair%2:32:00::'
+      synset: 01022014-v
+    - id: 'fair%2:39:01::'
+      synset: 02158938-v
+    - id: 'fair%2:41:02::'
+      synset: 02460829-v
+fair ar:
+  v:
+    sense:
+    - id: 'fair_ar%2:39:00::'
+      synset: 02154940-v
+faireachas:
+  n:
+    sense:
+    - id: 'faireachas%1:04:00::'
+      synset: 00653709-n
+    - id: 'faireachas%1:09:01::'
+      synset: 05713669-n
+faireachán:
+  n:
+    sense:
+    - id: 'faireachán%1:04:00::'
+      synset: 00881724-n
+faireog aidréineach:
+  n:
+    sense:
+    - id: 'faireog_aidréineach%1:08:00::'
+      synset: 05338719-n
+fairsing:
+  a:
+    sense:
+    - id: 'fairsing%3:00:00::'
+      synset: 02571278-a
+  s:
+    sense:
+    - id: fairsing%5:00:01:cuimsitheach:02
+      synset: 00528239-s
+faisean:
+  n:
+    sense:
+    - id: 'faisean%1:09:00::'
+      synset: 05758654-n
+faisisteachas:
+  n:
+    sense:
+    - id: 'faisisteachas%1:09:00::'
+      synset: 06227881-n
+faisnéis:
+  n:
+    sense:
+    - id: 'faisnéis%1:10:00::'
+      synset: 06646883-n
+    - id: 'faisnéis%1:10:01::'
+      synset: 06655303-n
+faisnéisiú:
+  n:
+    sense:
+    - id: 'faisnéisiú%1:10:00::'
+      synset: 07232442-n
+    - id: 'faisnéisiú%1:10:01::'
+      synset: 07235126-n
+falsacht:
+  n:
+    sense:
+    - id: 'falsacht%1:04:00::'
+      synset: 00760148-n
+fan:
+  v:
+    sense:
+    - id: 'fan%2:30:00::'
+      synset: 00117793-v
+    - id: 'fan%2:42:01::'
+      synset: 02643286-v
+    - id: 'fan%2:42:02::'
+      synset: 02690747-v
+    - id: 'fan%2:42:03::'
+      synset: 02733337-v
+    - id: 'fan%2:38:04::'
+      synset: 01861378-v
+    - id: 'fan%2:42:05::'
+      synset: 02647547-v
+    - id: 'fan%2:42:06::'
+      synset: 02643676-v
+    - id: 'fan%2:42:07::'
+      synset: 02644022-v
+fan amach:
+  v:
+    sense:
+    - id: 'fan_amach%2:31:00::'
+      synset: 00670017-v
+fan ar:
+  v:
+    sense:
+    - id: 'fan_ar%2:31:00::'
+      synset: 00721987-v
+fan in áit:
+  v:
+    sense:
+    - id: 'fan_in_áit%2:42:00::'
+      synset: 02733337-v
+fan le:
+  v:
+    sense:
+    - id: 'fan_le%2:31:00::'
+      synset: 00721987-v
+fanacht:
+  n:
+    sense:
+    - id: 'fanacht%1:10:00::'
+      synset: 06554258-n
+faoi:
+  r:
+    sense:
+    - id: 'faoi%4:02:00::'
+      synset: 00073433-r
+faoi dheireadh:
+  r:
+    sense:
+    - id: 'faoi_dheireadh%4:02:00::'
+      synset: 00048441-r
+    - id: 'faoi_dheireadh%4:02:01::'
+      synset: 00048676-r
+faoi láthair:
+  r:
+    sense:
+    - id: 'faoi_láthair%4:02:00::'
+      synset: 00049013-r
+    - id: 'faoi_láthair%4:02:01::'
+      synset: 00049971-r
+    - id: 'faoi_láthair%4:02:02::'
+      synset: 00049640-r
+faoi seach:
+  s:
+    sense:
+    - id: faoi_seach%5:00:00:aonair:03
+      synset: 00496454-s
+faoileoir:
+  n:
+    sense:
+    - id: 'faoileoir%1:06:00::'
+      synset: 03444738-n
+faoiseamh:
+  n:
+    sense:
+    - id: 'faoiseamh%1:12:01::'
+      synset: 07508420-n
+  v:
+    sense:
+    - id: 'faoiseamh%2:41:00::'
+      synset: 02556565-v
+faoiste:
+  n:
+    sense:
+    - id: 'faoiste%1:13:00::'
+      synset: 07621083-n
+faoitín:
+  n:
+    sense:
+    - id: 'faoitín%1:05:00::'
+      synset: 02525741-n
+faomh:
+  v:
+    sense:
+    - id: 'faomh%2:32:00::'
+      synset: 00808164-v
+farae:
+  n:
+    sense:
+    - id: 'farae%1:13:00::'
+      synset: 07816716-n
+farasbarr:
+  n:
+    sense:
+    - id: 'farasbarr%1:07:00::'
+      synset: 05127014-n
+fardal:
+  n:
+    sense:
+    - id: 'fardal%1:06:00::'
+      synset: 04328672-n
+farraige:
+  n:
+    sense:
+    - id: 'farraige%1:17:00::'
+      synset: 09449666-n
+faró:
+  n:
+    sense:
+    - id: 'faró%1:18:00::'
+      synset: 10440761-n
+fasach:
+  n:
+    sense:
+    - id: 'fasach%1:09:00::'
+      synset: 05829846-n
+    - id: 'fasach%1:10:01::'
+      synset: 06547026-n
+fathachréalta:
+  n:
+    sense:
+    - id: 'fathachréalta%1:17:00::'
+      synset: 09311675-n
+feabhas:
+  n:
+    sense:
+    - id: 'feabhas%1:04:00::'
+      synset: 00249844-n
+    - id: 'feabhas%1:07:01::'
+      synset: 04736044-n
+feabhas a chur ar:
+  v:
+    sense:
+    - id: 'feabhas_a_chur_ar%2:30:00::'
+      synset: 00206293-v
+feabhrán:
+  n:
+    sense:
+    - id: 'feabhrán%1:20:00::'
+      synset: 12960634-n
+feabhsaigh:
+  v:
+    sense:
+    - id: 'feabhsaigh%2:30:00::'
+      synset: 00206293-v
+    - id: 'feabhsaigh%2:30:01::'
+      synset: 00230459-v
+feabhsú:
+  n:
+    sense:
+    - id: 'feabhsú%1:04:00::'
+      synset: 00249844-n
+feabhsúchán:
+  n:
+    sense:
+    - id: 'feabhsúchán%1:04:00::'
+      synset: 00249844-n
+feachtas:
+  n:
+    sense:
+    - id: 'feachtas%1:04:00::'
+      synset: 00799906-n
+    - id: 'feachtas%1:04:01::'
+      synset: 00970259-n
+    - id: 'feachtas%1:11:02::'
+      synset: 07488069-n
+feadhnacht:
+  n:
+    sense:
+    - id: 'feadhnacht%1:14:00::'
+      synset: 08253359-n
+feadán:
+  n:
+    sense:
+    - id: 'feadán%1:06:00::'
+      synset: 04500800-n
+feadóg ghlórach:
+  n:
+    sense:
+    - id: 'feadóg_ghlórach%1:05:00::'
+      synset: 02026646-n
+feadóg stáin:
+  n:
+    sense:
+    - id: 'feadóg_stáin%1:06:00::'
+      synset: 03918337-n
+feallmharaigh:
+  v:
+    sense:
+    - id: 'feallmharaigh%2:41:00::'
+      synset: 02488589-v
+fealsamh:
+  n:
+    sense:
+    - id: 'fealsamh%1:18:00::'
+      synset: 10443334-n
+fealsúnach:
+  a:
+    sense:
+    - id: 'fealsúnach%3:01:00::'
+      synset: 02869320-a
+fealsúnacht:
+  n:
+    sense:
+    - id: 'fealsúnacht%1:09:00::'
+      synset: 05952149-n
+feamainn:
+  n:
+    sense:
+    - id: 'feamainn%1:05:00::'
+      synset: 01400138-n
+fean:
+  n:
+    sense:
+    - id: 'fean%1:06:00::'
+      synset: 03324991-n
+fear:
+  n:
+    sense:
+    - id: 'fear%1:18:00::'
+      synset: 09927483-n
+    - id: 'fear%1:18:01::'
+      synset: 10213586-n
+    - id: 'fear%1:18:02::'
+      synset: 10306910-n
+fear céile:
+  n:
+    sense:
+    - id: 'fear_céile%1:18:00::'
+      synset: 10213586-n
+fear feasa:
+  n:
+    sense:
+    - id: 'fear_feasa%1:18:00::'
+      synset: 10325946-n
+fear gnó:
+  n:
+    sense:
+    - id: 'fear_gnó%1:18:00::'
+      synset: 09901459-n
+fearamón:
+  n:
+    sense:
+    - id: 'fearamón%1:27:00::'
+      synset: 14871060-n
+fearann:
+  n:
+    sense:
+    - id: 'fearann%1:15:00::'
+      synset: 08574028-n
+    - id: 'fearann%1:15:01::'
+      synset: 08691133-n
+fearas:
+  n:
+    sense:
+    - id: 'fearas%1:06:00::'
+      synset: 02730750-n
+    - id: 'fearas%1:06:01::'
+      synset: 02732963-n
+    - id: 'fearas%1:06:02::'
+      synset: 03298959-n
+    - id: 'fearas%1:06:03::'
+      synset: 03358462-n
+    - id: 'fearas%1:06:04::'
+      synset: 03435869-n
+    - id: 'fearas%1:06:05::'
+      synset: 03624859-n
+fearthainn:
+  n:
+    sense:
+    - id: 'fearthainn%1:19:00::'
+      synset: 11521799-n
+feasach:
+  a:
+    sense:
+    - id: 'feasach%3:00:00::'
+      synset: 00191603-a
+    - id: 'feasach%3:00:01::'
+      synset: 01309228-a
+feasacht:
+  n:
+    sense:
+    - id: 'feasacht%1:09:00::'
+      synset: 05683749-n
+feasachán:
+  n:
+    sense:
+    - id: 'feasachán%1:10:00::'
+      synset: 06695035-n
+feasta:
+  r:
+    sense:
+    - id: 'feasta%4:02:00::'
+      synset: 00033250-r
+feathal:
+  n:
+    sense:
+    - id: 'feathal%1:06:00::'
+      synset: 03287502-n
+feic:
+  v:
+    sense:
+    - id: 'feic%2:30:00::'
+      synset: 00423043-v
+    - id: 'feic%2:31:01::'
+      synset: 00592510-v
+    - id: 'feic%2:31:02::'
+      synset: 00600349-v
+    - id: 'feic%2:31:03::'
+      synset: 00692380-v
+    - id: 'feic%2:36:04::'
+      synset: 01638974-v
+    - id: 'feic%2:38:05::'
+      synset: 02026953-v
+    - id: 'feic%2:39:06::'
+      synset: 02114674-v
+    - id: 'feic%2:39:07::'
+      synset: 02132751-v
+    - id: 'feic%2:39:08::'
+      synset: 02133754-v
+    - id: 'feic%2:39:09::'
+      synset: 02155378-v
+    - id: 'feic%2:39:10::'
+      synset: 02168177-v
+    - id: 'feic%2:39:11::'
+      synset: 02197640-v
+    - id: 'feic%2:39:12::'
+      synset: 02133338-v
+    - id: 'feic%2:32:13::'
+      synset: 00922307-v
+feiceálach:
+  a:
+    sense:
+    - id: 'feiceálach%3:00:00::'
+      synset: 00583156-a
+feidearálach:
+  a:
+    sense:
+    - id: 'feidearálach%3:00:00::'
+      synset: 01109822-a
+feidhm:
+  n:
+    sense:
+    - id: 'feidhm%1:24:00::'
+      synset: 13806028-n
+    - id: 'feidhm%1:04:01::'
+      synset: 00720746-n
+    - id: 'feidhm%1:04:02::'
+      synset: 00721817-n
+    - id: 'feidhm%1:04:03::'
+      synset: 00950950-n
+    - id: 'feidhm%1:07:04::'
+      synset: 05156572-n
+    - id: 'feidhm%1:10:05::'
+      synset: 06594579-n
+    - id: 'feidhm%1:19:06::'
+      synset: 11434525-n
+feidhmchláirín:
+  n:
+    sense:
+    - id: 'feidhmchláirín%1:10:00::'
+      synset: 06582823-n
+feidhmchlár:
+  n:
+    sense:
+    - id: 'feidhmchlár%1:10:00::'
+      synset: 06582286-n
+feidhmeach:
+  a:
+    sense:
+    - id: 'feidhmeach%3:00:00::'
+      synset: 01094001-a
+feidhmeannach:
+  n:
+    sense:
+    - id: 'feidhmeannach%1:18:00::'
+      synset: 10392072-n
+feidhmigh:
+  v:
+    sense:
+    - id: 'feidhmigh%2:34:00::'
+      synset: 01168409-v
+    - id: 'feidhmigh%2:35:01::'
+      synset: 01528454-v
+    - id: 'feidhmigh%2:36:02::'
+      synset: 01716563-v
+    - id: 'feidhmigh%2:41:03::'
+      synset: 02531113-v
+    - id: 'feidhmigh%2:42:04::'
+      synset: 02676679-v
+    - id: 'feidhmigh%2:42:05::'
+      synset: 02682599-v
+    - id: 'feidhmigh%2:42:06::'
+      synset: 02677402-v
+feidhmiúil:
+  a:
+    sense:
+    - id: 'feidhmiúil%3:00:00::'
+      synset: 01094001-a
+feidhmiúlacht:
+  n:
+    sense:
+    - id: 'feidhmiúlacht%1:07:00::'
+      synset: 05158619-n
+feidhmíocht:
+  n:
+    sense:
+    - id: 'feidhmíocht%1:04:00::'
+      synset: 00098324-n
+feil:
+  v:
+    sense:
+    - id: 'feil%2:42:00::'
+      synset: 02708690-v
+feileastram:
+  n:
+    sense:
+    - id: 'feileastram%1:20:00::'
+      synset: 12435107-n
+feiliúnach:
+  s:
+    sense:
+    - id: feiliúnach%5:00:00:oiriúnach:00
+      synset: 01024501-s
+feilt:
+  n:
+    sense:
+    - id: 'feilt%1:06:00::'
+      synset: 03331740-n
+feimineachas:
+  n:
+    sense:
+    - id: 'feimineachas%1:09:00::'
+      synset: 05976640-n
+feiniméan:
+  n:
+    sense:
+    - id: 'feiniméan%1:03:00::'
+      synset: 00034512-n
+feirdhris:
+  n:
+    sense:
+    - id: 'feirdhris%1:20:00::'
+      synset: 12641871-n
+feirm:
+  n:
+    sense:
+    - id: 'feirm%1:06:00::'
+      synset: 03327044-n
+feirmeoir:
+  n:
+    sense:
+    - id: 'feirmeoir%1:18:00::'
+      synset: 10098586-n
+feirmeoireacht:
+  n:
+    sense:
+    - id: 'feirmeoireacht%1:04:00::'
+      synset: 00918295-n
+feirmiam:
+  n:
+    sense:
+    - id: 'feirmiam%1:27:00::'
+      synset: 14661517-n
+feisciú:
+  n:
+    sense:
+    - id: 'feisciú%1:20:00::'
+      synset: 12142127-n
+feiste:
+  n:
+    sense:
+    - id: 'feiste%1:04:00::'
+      synset: 00241805-n
+    - id: 'feiste%1:06:01::'
+      synset: 03187746-n
+feisteas:
+  n:
+    sense:
+    - id: 'feisteas%1:06:00::'
+      synset: 02759103-n
+    - id: 'feisteas%1:06:01::'
+      synset: 03358462-n
+    - id: 'feisteas%1:06:02::'
+      synset: 03435869-n
+feistigh:
+  v:
+    sense:
+    - id: 'feistigh%2:35:00::'
+      synset: 01496967-v
+    - id: 'feistigh%2:40:01::'
+      synset: 02344409-v
+feitheamh:
+  n:
+    sense:
+    - id: 'feitheamh%1:04:00::'
+      synset: 01065863-n
+feithicil:
+  n:
+    sense:
+    - id: 'feithicil%1:06:00::'
+      synset: 04531608-n
+feithid:
+  n:
+    sense:
+    - id: 'feithid%1:05:00::'
+      synset: 02162607-n
+feithideolaí:
+  n:
+    sense:
+    - id: 'feithideolaí%1:18:00::'
+      synset: 10079712-n
+feithideolaíocht:
+  n:
+    sense:
+    - id: 'feithideolaíocht%1:09:00::'
+      synset: 06081825-n
+feithidicíd:
+  n:
+    sense:
+    - id: 'feithidicíd%1:27:00::'
+      synset: 14944099-n
+feodachas:
+  n:
+    sense:
+    - id: 'feodachas%1:14:00::'
+      synset: 07988872-n
+feoil:
+  n:
+    sense:
+    - id: 'feoil%1:08:00::'
+      synset: 05275611-n
+    - id: 'feoil%1:13:01::'
+      synset: 07665463-n
+feoiliteoir:
+  n:
+    sense:
+    - id: 'feoiliteoir%1:05:00::'
+      synset: 01327072-n
+feorán corraigh:
+  n:
+    sense:
+    - id: 'feorán_corraigh%1:20:00::'
+      synset: 12873330-n
+fia:
+  n:
+    sense:
+    - id: 'fia%1:05:00::'
+      synset: 02432691-n
+fia rua:
+  n:
+    sense:
+    - id: 'fia_rua%1:05:00::'
+      synset: 02433768-n
+fiabhras:
+  n:
+    sense:
+    - id: 'fiabhras%1:26:00::'
+      synset: 14388761-n
+fiabhras ballach:
+  n:
+    sense:
+    - id: 'fiabhras_ballach%1:26:00::'
+      synset: 14164972-n
+fiabhras dubh:
+  n:
+    sense:
+    - id: 'fiabhras_dubh%1:26:00::'
+      synset: 14164972-n
+fiacail:
+  n:
+    sense:
+    - id: 'fiacail%1:08:00::'
+      synset: 05290245-n
+fiach:
+  n:
+    sense:
+    - id: 'fiach%1:21:00::'
+      synset: 13418347-n
+    - id: 'fiach%1:04:01::'
+      synset: 00453279-n
+    - id: 'fiach%1:10:02::'
+      synset: 06786148-n
+fiachas:
+  n:
+    sense:
+    - id: 'fiachas%1:21:00::'
+      synset: 13418347-n
+fiachóir:
+  n:
+    sense:
+    - id: 'fiachóir%1:18:00::'
+      synset: 10017160-n
+fiaclóir:
+  n:
+    sense:
+    - id: 'fiaclóir%1:18:00::'
+      synset: 10023944-n
+fiaclóireacht:
+  n:
+    sense:
+    - id: 'fiaclóireacht%1:09:00::'
+      synset: 06056961-n
+fiadhúlra:
+  n:
+    sense:
+    - id: 'fiadhúlra%1:14:00::'
+      synset: 08010218-n
+fiafheoil:
+  n:
+    sense:
+    - id: 'fiafheoil%1:13:00::'
+      synset: 07668920-n
+fiafraigh:
+  v:
+    sense:
+    - id: 'fiafraigh%2:31:00::'
+      synset: 00731363-v
+    - id: 'fiafraigh%2:32:01::'
+      synset: 00786389-v
+fial:
+  n:
+    sense:
+    - id: 'fial%1:06:00::'
+      synset: 03929501-n
+fianaigh:
+  v:
+    sense:
+    - id: 'fianaigh%2:32:00::'
+      synset: 01017253-v
+fianaise:
+  n:
+    sense:
+    - id: 'fianaise%1:09:00::'
+      synset: 05832256-n
+    - id: 'fianaise%1:10:01::'
+      synset: 06746688-n
+fianaise a dhéanamh:
+  v:
+    sense:
+    - id: 'fianaise_a_dhéanamh%2:32:00::'
+      synset: 01017253-v
+fianaise a thabhairt:
+  v:
+    sense:
+    - id: 'fianaise_a_thabhairt%2:32:00::'
+      synset: 01017253-v
+fianán:
+  n:
+    sense:
+    - id: 'fianán%1:10:00::'
+      synset: 06399181-n
+fianú:
+  v:
+    sense:
+    - id: 'fianú%2:32:00::'
+      synset: 00822637-v
+fiar:
+  v:
+    sense:
+    - id: 'fiar%2:38:00::'
+      synset: 02042202-v
+fiche:
+  a:
+    sense:
+    - id: 'fiche%3:00:00::'
+      synset: 02195956-a
+fiche a ceathair:
+  a:
+    sense:
+    - id: 'fiche_a_ceathair%3:00:00::'
+      synset: 02196359-a
+fiche a cúig:
+  a:
+    sense:
+    - id: 'fiche_a_cúig%3:00:00::'
+      synset: 02196456-a
+fichillín:
+  n:
+    sense:
+    - id: 'fichillín%1:06:00::'
+      synset: 03907828-n
+fichiú:
+  n:
+    sense:
+    - id: 'fichiú%1:24:00::'
+      synset: 13871081-n
+fidil:
+  n:
+    sense:
+    - id: 'fidil%1:06:00::'
+      synset: 04544161-n
+fige:
+  n:
+    sense:
+    - id: 'fige%1:13:00::'
+      synset: 07769089-n
+figiúr:
+  n:
+    sense:
+    - id: 'figiúr%1:23:00::'
+      synset: 13763162-n
+figín:
+  n:
+    sense:
+    - id: 'figín%1:06:00::'
+      synset: 03935898-n
+file:
+  n:
+    sense:
+    - id: 'file%1:18:00::'
+      synset: 10463768-n
+filiméad:
+  n:
+    sense:
+    - id: 'filiméad%1:06:00::'
+      synset: 03341520-n
+filiméala:
+  n:
+    sense:
+    - id: 'filiméala%1:05:00::'
+      synset: 01562746-n
+fill:
+  v:
+    sense:
+    - id: 'fill%2:35:00::'
+      synset: 01280538-v
+    - id: 'fill%2:38:01::'
+      synset: 02008888-v
+fillteán:
+  n:
+    sense:
+    - id: 'fillteán%1:06:00::'
+      synset: 03381125-n
+filléad:
+  n:
+    sense:
+    - id: 'filléad%1:13:00::'
+      synset: 07675810-n
+fine:
+  n:
+    sense:
+    - id: 'fine%1:14:00::'
+      synset: 08124465-n
+finideach:
+  a:
+    sense:
+    - id: 'finideach%3:00:00::'
+      synset: 01010155-a
+finné:
+  n:
+    sense:
+    - id: 'finné%1:18:00::'
+      synset: 10805709-n
+finscéal:
+  n:
+    sense:
+    - id: 'finscéal%1:10:00::'
+      synset: 06383036-n
+finscéalaí:
+  n:
+    sense:
+    - id: 'finscéalaí%1:18:00::'
+      synset: 10095317-n
+fiobúl:
+  n:
+    sense:
+    - id: 'fiobúl%1:08:00::'
+      synset: 05601956-n
+fioghual:
+  n:
+    sense:
+    - id: 'fioghual%1:27:00::'
+      synset: 14709457-n
+fionlannach:
+  a:
+    sense:
+    - id: 'fionlannach%3:01:00::'
+      synset: 02971099-a
+fionnachtain:
+  n:
+    sense:
+    - id: 'fionnachtain%1:04:00::'
+      synset: 00152317-n
+fionnadh:
+  n:
+    sense:
+    - id: 'fionnadh%1:27:00::'
+      synset: 14788240-n
+fionnuisce:
+  n:
+    sense:
+    - id: 'fionnuisce%1:27:00::'
+      synset: 15033893-n
+fionraigh:
+  v:
+    sense:
+    - id: 'fionraigh%2:30:00::'
+      synset: 00364146-v
+fionraíocht:
+  n:
+    sense:
+    - id: 'fionraíocht%1:26:00::'
+      synset: 14034107-n
+fiontar:
+  n:
+    sense:
+    - id: 'fiontar%1:04:00::'
+      synset: 00798547-n
+    - id: 'fiontar%1:14:01::'
+      synset: 08072983-n
+fiontraí:
+  n:
+    sense:
+    - id: 'fiontraí%1:18:00::'
+      synset: 10080160-n
+fiord:
+  n:
+    sense:
+    - id: 'fiord%1:17:00::'
+      synset: 09304010-n
+fios:
+  n:
+    sense:
+    - id: 'fios%1:03:00::'
+      synset: 00023451-n
+fioscach:
+  a:
+    sense:
+    - id: 'fioscach%3:01:00::'
+      synset: 02858779-a
+fiosrach:
+  a:
+    sense:
+    - id: 'fiosrach%3:00:00::'
+      synset: 00191603-a
+fiosracht:
+  n:
+    sense:
+    - id: 'fiosracht%1:09:00::'
+      synset: 05690411-n
+fiosraigh:
+  v:
+    sense:
+    - id: 'fiosraigh%2:31:00::'
+      synset: 00731363-v
+fiosraigh faoi:
+  v:
+    sense:
+    - id: 'fiosraigh_faoi%2:31:00::'
+      synset: 00663742-v
+firéad:
+  n:
+    sense:
+    - id: 'firéad%1:05:00::'
+      synset: 02445977-n
+fis:
+  n:
+    sense:
+    - id: 'fis%1:27:00::'
+      synset: 15009942-n
+fiseolaí:
+  n:
+    sense:
+    - id: 'fiseolaí%1:18:00::'
+      synset: 10449729-n
+fiseolaíocht:
+  n:
+    sense:
+    - id: 'fiseolaíocht%1:09:00::'
+      synset: 06090110-n
+fisic:
+  n:
+    sense:
+    - id: 'fisic%1:09:00::'
+      synset: 06100457-n
+fisiceach:
+  a:
+    sense:
+    - id: 'fisiceach%3:01:00::'
+      synset: 02790581-a
+    - id: 'fisiceach%3:00:02::'
+      synset: 01782757-a
+  s:
+    sense:
+    - id: fisiceach%5:00:01:ábhartha:01
+      synset: 00629845-s
+fisiceoir:
+  n:
+    sense:
+    - id: 'fisiceoir%1:18:00::'
+      synset: 10447768-n
+fisiciúil:
+  a:
+    sense:
+    - id: 'fisiciúil%3:00:00::'
+      synset: 01782757-a
+fisiteiripeoir:
+  n:
+    sense:
+    - id: 'fisiteiripeoir%1:18:00::'
+      synset: 10447528-n
+fithis:
+  n:
+    sense:
+    - id: 'fithis%1:15:00::'
+      synset: 08629606-n
+fithiseach:
+  a:
+    sense:
+    - id: 'fithiseach%3:01:00::'
+      synset: 02990830-a
+fiáin:
+  a:
+    sense:
+    - id: 'fiáin%3:00:00::'
+      synset: 02397788-a
+fiú:
+  r:
+    sense:
+    - id: 'fiú%4:02:00::'
+      synset: 00017907-r
+    - id: 'fiú%4:02:01::'
+      synset: 00018101-r
+fiúntach:
+  a:
+    sense:
+    - id: 'fiúntach%3:00:00::'
+      synset: 01500270-a
+fiúntas:
+  n:
+    sense:
+    - id: 'fiúntas%1:07:00::'
+      synset: 04814129-n
+fiús:
+  n:
+    sense:
+    - id: 'fiús%1:07:00::'
+      synset: 05041628-n
+flaith:
+  n:
+    sense:
+    - id: 'flaith%1:18:00::'
+      synset: 10648006-n
+flaithiúil:
+  a:
+    sense:
+    - id: 'flaithiúil%3:00:00::'
+      synset: 01114727-a
+flannbhuí:
+  a:
+    sense:
+    - id: 'flannbhuí%3:00:00::'
+      synset: 00379954-a
+flapa:
+  n:
+    sense:
+    - id: 'flapa%1:06:00::'
+      synset: 03362222-n
+fleasc:
+  n:
+    sense:
+    - id: 'fleasc%1:10:00::'
+      synset: 06856198-n
+fleascán:
+  n:
+    sense:
+    - id: 'fleascán%1:06:00::'
+      synset: 03364412-n
+fleiscín:
+  n:
+    sense:
+    - id: 'fleiscín%1:10:00::'
+      synset: 06856198-n
+fliuch:
+  a:
+    sense:
+    - id: 'fliuch%3:00:00::'
+      synset: 02558087-a
+fliú:
+  n:
+    sense:
+    - id: 'fliú%1:26:00::'
+      synset: 14145979-n
+fliúit Shasanach:
+  n:
+    sense:
+    - id: 'fliúit_shasanach%1:06:00::'
+      synset: 03348200-n
+fliúiteadóir:
+  n:
+    sense:
+    - id: 'fliúiteadóir%1:18:00::'
+      synset: 10118014-n
+fliúiteog:
+  n:
+    sense:
+    - id: 'fliúiteog%1:06:00::'
+      synset: 03935329-n
+flocas:
+  n:
+    sense:
+    - id: 'flocas%1:27:00::'
+      synset: 15001007-n
+flosc:
+  n:
+    sense:
+    - id: 'flosc%1:28:00::'
+      synset: 15303118-n
+fluairín:
+  n:
+    sense:
+    - id: 'fluairín%1:27:00::'
+      synset: 14661685-n
+fluaraiseach:
+  a:
+    sense:
+    - id: 'fluaraiseach%3:00:00::'
+      synset: 00272285-a
+fluaraiseacht:
+  n:
+    sense:
+    - id: 'fluaraiseacht%1:19:00::'
+      synset: 11478519-n
+flóra:
+  n:
+    sense:
+    - id: 'flóra%1:14:00::'
+      synset: 08453769-n
+flúirse:
+  n:
+    sense:
+    - id: 'flúirse%1:07:00::'
+      synset: 05122340-n
+fo-ghúna:
+  n:
+    sense:
+    - id: 'fo-ghúna%1:06:00::'
+      synset: 03926859-n
+fo-ithir:
+  n:
+    sense:
+    - id: 'fo-ithir%1:27:00::'
+      synset: 14719999-n
+fo-thacar:
+  n:
+    sense:
+    - id: 'fo-thacar%1:14:00::'
+      synset: 08017651-n
+fo-uirbeach:
+  a:
+    sense:
+    - id: 'fo-uirbeach%3:01:00::'
+      synset: 02815413-a
+fo-éadach:
+  n:
+    sense:
+    - id: 'fo-éadach%1:06:00::'
+      synset: 04515458-n
+focal:
+  n:
+    sense:
+    - id: 'focal%1:10:00::'
+      synset: 06297048-n
+    - id: 'focal%1:10:01::'
+      synset: 06654787-n
+    - id: 'focal%1:10:02::'
+      synset: 07183893-n
+    - id: 'focal%1:10:03::'
+      synset: 07241961-n
+fochoiste:
+  n:
+    sense:
+    - id: 'fochoiste%1:14:00::'
+      synset: 08342923-n
+fochomhlacht:
+  n:
+    sense:
+    - id: 'fochomhlacht%1:14:00::'
+      synset: 08020377-n
+fochonraitheoir:
+  n:
+    sense:
+    - id: 'fochonraitheoir%1:18:00::'
+      synset: 10687302-n
+fochuideachta:
+  n:
+    sense:
+    - id: 'fochuideachta%1:14:00::'
+      synset: 08020377-n
+foclaíocht:
+  n:
+    sense:
+    - id: 'foclaíocht%1:10:00::'
+      synset: 07095931-n
+focleolaí:
+  n:
+    sense:
+    - id: 'focleolaí%1:18:00::'
+      synset: 10442970-n
+focleolaíocht:
+  n:
+    sense:
+    - id: 'focleolaíocht%1:09:00::'
+      synset: 06180756-n
+foclóir:
+  n:
+    sense:
+    - id: 'foclóir%1:10:00::'
+      synset: 06430544-n
+fofhine:
+  n:
+    sense:
+    - id: 'fofhine%1:14:00::'
+      synset: 08125593-n
+foghail:
+  n:
+    sense:
+    - id: 'foghail%1:04:00::'
+      synset: 00967999-n
+fogharscríobh:
+  n:
+    sense:
+    - id: 'fogharscríobh%1:10:00::'
+      synset: 06361322-n
+foghlaim:
+  n:
+    sense:
+    - id: 'foghlaim%1:09:04::'
+      synset: 05760541-n
+  v:
+    sense:
+    - id: 'foghlaim%2:31:00::'
+      synset: 00599310-v
+    - id: 'foghlaim%2:31:01::'
+      synset: 00600349-v
+    - id: 'foghlaim%2:31:02::'
+      synset: 00601387-v
+    - id: 'foghlaim%2:32:03::'
+      synset: 00830768-v
+    - id: 'foghlaim%2:31:05::'
+      synset: 00597330-v
+    - id: 'foghlaim%2:32:06::'
+      synset: 00922307-v
+foghlaimeoir:
+  n:
+    sense:
+    - id: 'foghlaimeoir%1:18:00::'
+      synset: 10271476-n
+foghrúpa:
+  n:
+    sense:
+    - id: 'foghrúpa%1:14:00::'
+      synset: 08017525-n
+foighne:
+  n:
+    sense:
+    - id: 'foighne%1:07:00::'
+      synset: 04647895-n
+foilseachán:
+  n:
+    sense:
+    - id: 'foilseachán%1:10:00::'
+      synset: 06601855-n
+foilsigh:
+  v:
+    sense:
+    - id: 'foilsigh%2:32:00::'
+      synset: 00969657-v
+    - id: 'foilsigh%2:36:01::'
+      synset: 01749530-v
+foilsithe:
+  a:
+    sense:
+    - id: 'foilsithe%3:00:00::'
+      synset: 00472920-a
+foilsitheoir:
+  n:
+    sense:
+    - id: 'foilsitheoir%1:14:00::'
+      synset: 08079459-n
+    - id: 'foilsitheoir%1:18:01::'
+      synset: 10510894-n
+foilsitheoireacht:
+  n:
+    sense:
+    - id: 'foilsitheoireacht%1:04:00::'
+      synset: 01103863-n
+foilsiú:
+  v:
+    sense:
+    - id: 'foilsiú%2:32:00::'
+      synset: 00969657-v
+foinse:
+  n:
+    sense:
+    - id: 'foinse%1:15:00::'
+      synset: 08524579-n
+foirceann:
+  n:
+    sense:
+    - id: 'foirceann%1:04:01::'
+      synset: 00210792-n
+    - id: 'foirceann%1:15:02::'
+      synset: 08583557-n
+  v:
+    sense:
+    - id: 'foirceann%2:30:00::'
+      synset: 00353480-v
+foireann:
+  n:
+    sense:
+    - id: 'foireann%1:14:00::'
+      synset: 08013131-n
+    - id: 'foireann%1:14:01::'
+      synset: 08224937-n
+    - id: 'foireann%1:14:02::'
+      synset: 08225481-n
+    - id: 'foireann%1:14:03::'
+      synset: 08259720-n
+    - id: 'foireann%1:14:04::'
+      synset: 08456947-n
+foirfe:
+  a:
+    sense:
+    - id: 'foirfe%3:00:00::'
+      synset: 01753804-a
+foirfeacht:
+  n:
+    sense:
+    - id: 'foirfeacht%1:26:00::'
+      synset: 14482870-n
+foirgneamh:
+  n:
+    sense:
+    - id: 'foirgneamh%1:06:00::'
+      synset: 02916498-n
+foirgnigh:
+  v:
+    sense:
+    - id: 'foirgnigh%2:36:00::'
+      synset: 01658171-v
+foirgníocht:
+  n:
+    sense:
+    - id: 'foirgníocht%1:04:00::'
+      synset: 00912746-n
+foirm:
+  n:
+    sense:
+    - id: 'foirm%1:07:00::'
+      synset: 05071206-n
+    - id: 'foirm%1:10:01::'
+      synset: 06485234-n
+foirmigh:
+  v:
+    sense:
+    - id: 'foirmigh%2:32:00::'
+      synset: 00927844-v
+    - id: 'foirmigh%2:36:01::'
+      synset: 01635953-v
+    - id: 'foirmigh%2:42:02::'
+      synset: 02629987-v
+foirmiúil:
+  a:
+    sense:
+    - id: 'foirmiúil%3:00:00::'
+      synset: 01045598-a
+foirmiúlacht:
+  n:
+    sense:
+    - id: 'foirmiúlacht%1:07:00::'
+      synset: 04918597-n
+foirmle:
+  n:
+    sense:
+    - id: 'foirmle%1:10:00::'
+      synset: 06744551-n
+    - id: 'foirmle%1:10:01::'
+      synset: 06829793-n
+foirnéis:
+  n:
+    sense:
+    - id: 'foirnéis%1:06:00::'
+      synset: 03409359-n
+foitheach mór:
+  n:
+    sense:
+    - id: 'foitheach_mór%1:05:00::'
+      synset: 02052967-n
+folach:
+  n:
+    sense:
+    - id: 'folach%1:04:00::'
+      synset: 01050836-n
+folachánaí:
+  n:
+    sense:
+    - id: 'folachánaí%1:18:00::'
+      synset: 10679910-n
+folaigh:
+  v:
+    sense:
+    - id: 'folaigh%2:42:00::'
+      synset: 02639021-v
+folamh:
+  a:
+    sense:
+    - id: 'folamh%3:00:00::'
+      synset: 01090234-a
+  s:
+    sense:
+    - id: folamh%5:00:01:folamh:00
+      synset: 01090782-s
+    - id: folamh%5:00:02:folamh:00
+      synset: 01091666-s
+folcadán:
+  n:
+    sense:
+    - id: 'folcadán%1:06:00::'
+      synset: 02811600-n
+follasach:
+  a:
+    sense:
+    - id: 'follasach%3:00:00::'
+      synset: 00429900-a
+    - id: 'follasach%3:00:01::'
+      synset: 00943706-a
+    - id: 'follasach%3:00:02::'
+      synset: 01622205-a
+  s:
+    sense:
+    - id: follasach%5:00:03:soiléir:02
+      synset: 01622528-s
+    - id: follasach%5:00:04:soiléir:02
+      synset: 01623870-s
+foláireamh:
+  n:
+    sense:
+    - id: 'foláireamh%1:10:00::'
+      synset: 07238811-n
+folús:
+  n:
+    sense:
+    - id: 'folús%1:26:00::'
+      synset: 14479502-n
+folúsghlantóir:
+  n:
+    sense:
+    - id: 'folúsghlantóir%1:06:00::'
+      synset: 04525118-n
+fomhuireán:
+  n:
+    sense:
+    - id: 'fomhuireán%1:06:00::'
+      synset: 04354832-n
+fondúireacht:
+  n:
+    sense:
+    - id: 'fondúireacht%1:14:00::'
+      synset: 08423443-n
+fonn:
+  n:
+    sense:
+    - id: 'fonn%1:10:00::'
+      synset: 07041860-n
+fonnadh:
+  n:
+    sense:
+    - id: 'fonnadh%1:06:00::'
+      synset: 03014127-n
+fonnmhaireacht:
+  n:
+    sense:
+    - id: 'fonnmhaireacht%1:07:00::'
+      synset: 04651869-n
+fonsa:
+  n:
+    sense:
+    - id: 'fonsa%1:06:00::'
+      synset: 03539152-n
+fonóta:
+  n:
+    sense:
+    - id: 'fonóta%1:10:00::'
+      synset: 06776955-n
+for-rochtain:
+  n:
+    sense:
+    - id: 'for-rochtain%1:04:00::'
+      synset: 00349779-n
+foraois:
+  n:
+    sense:
+    - id: 'foraois%1:14:00::'
+      synset: 08455525-n
+foraoiseacht:
+  n:
+    sense:
+    - id: 'foraoiseacht%1:09:00::'
+      synset: 06081484-n
+foraoiseoir:
+  n:
+    sense:
+    - id: 'foraoiseoir%1:18:00::'
+      synset: 10124525-n
+foraoisiú:
+  n:
+    sense:
+    - id: 'foraoisiú%1:04:00::'
+      synset: 00401086-n
+foras:
+  n:
+    sense:
+    - id: 'foras%1:24:00::'
+      synset: 13813124-n
+    - id: 'foras%1:09:01::'
+      synset: 05832256-n
+    - id: 'foras%1:14:02::'
+      synset: 08423443-n
+forba:
+  n:
+    sense:
+    - id: 'forba%1:26:00::'
+      synset: 14386888-n
+forbair:
+  v:
+    sense:
+    - id: 'forbair%2:29:00::'
+      synset: 00094214-v
+    - id: 'forbair%2:30:01::'
+      synset: 00171865-v
+    - id: 'forbair%2:31:02::'
+      synset: 00604693-v
+    - id: 'forbair%2:36:03::'
+      synset: 01742478-v
+    - id: 'forbair%2:36:04::'
+      synset: 01742655-v
+    - id: 'forbair%2:42:05::'
+      synset: 02630344-v
+forbairt:
+  n:
+    sense:
+    - id: 'forbairt%1:22:00::'
+      synset: 13486023-n
+    - id: 'forbairt%1:22:01::'
+      synset: 13510240-n
+    - id: 'forbairt%1:04:03::'
+      synset: 00251126-n
+  v:
+    sense:
+    - id: 'forbairt%2:30:02::'
+      synset: 00546637-v
+forbartha:
+  a:
+    sense:
+    - id: 'forbartha%3:00:00::'
+      synset: 00745450-a
+forbhreathnú:
+  n:
+    sense:
+    - id: 'forbhreathnú%1:10:00::'
+      synset: 06480894-n
+forbróir:
+  n:
+    sense:
+    - id: 'forbróir%1:18:00::'
+      synset: 10029716-n
+forc:
+  n:
+    sense:
+    - id: 'forc%1:06:00::'
+      synset: 03388794-n
+forcardaitheoir:
+  n:
+    sense:
+    - id: 'forcardaitheoir%1:06:00::'
+      synset: 03389198-n
+forchoimeád:
+  n:
+    sense:
+    - id: 'forchoimeád%1:04:01::'
+      synset: 00821752-n
+  v:
+    sense:
+    - id: 'forchoimeád%2:40:00::'
+      synset: 02219267-v
+forchoimeádas:
+  n:
+    sense:
+    - id: 'forchoimeádas%1:10:00::'
+      synset: 06775091-n
+forchostais:
+  n:
+    sense:
+    - id: 'forchostais%1:21:00::'
+      synset: 13298202-n
+forchraiceann:
+  n:
+    sense:
+    - id: 'forchraiceann%1:08:00::'
+      synset: 05534590-n
+forchuir:
+  v:
+    sense:
+    - id: 'forchuir%2:40:00::'
+      synset: 02311442-v
+forchur:
+  n:
+    sense:
+    - id: 'forchur%1:04:00::'
+      synset: 01129944-n
+forchéimnigh:
+  v:
+    sense:
+    - id: 'forchéimnigh%2:38:00::'
+      synset: 02026014-v
+forchéimnitheach:
+  a:
+    sense:
+    - id: 'forchéimnitheach%3:00:00::'
+      synset: 01882105-a
+forfheidhmiúchán:
+  n:
+    sense:
+    - id: 'forfheidhmiúchán%1:04:00::'
+      synset: 01129340-n
+forghabhálaí:
+  n:
+    sense:
+    - id: 'forghabhálaí%1:18:00::'
+      synset: 10762203-n
+forghéill:
+  v:
+    sense:
+    - id: 'forghéill%2:40:00::'
+      synset: 02308311-v
+foriaigh:
+  v:
+    sense:
+    - id: 'foriaigh%2:41:00::'
+      synset: 02458316-v
+forimeallach:
+  a:
+    sense:
+    - id: 'forimeallach%3:00:00::'
+      synset: 00332344-a
+    - id: 'forimeallach%3:00:01::'
+      synset: 00952756-a
+  n:
+    sense:
+    - id: 'forimeallach%1:06:02::'
+      synset: 03922839-n
+foriomlán:
+  s:
+    sense:
+    - id: foriomlán%5:00:00:comhlán:01
+      synset: 01587354-s
+forleatach:
+  a:
+    sense:
+    - id: 'forleatach%3:00:00::'
+      synset: 00470786-a
+forleathan:
+  a:
+    sense:
+    - id: 'forleathan%3:00:00::'
+      synset: 02571278-a
+  s:
+    sense:
+    - id: forleathan%5:00:01:cuimsitheach:02
+      synset: 00528239-s
+    - id: forleathan%5:00:02:ginearálta:00
+      synset: 01106569-s
+forlámhas:
+  n:
+    sense:
+    - id: 'forlámhas%1:26:00::'
+      synset: 14465996-n
+forlámhaí:
+  n:
+    sense:
+    - id: 'forlámhaí%1:18:00::'
+      synset: 10762203-n
+forléargas:
+  n:
+    sense:
+    - id: 'forléargas%1:10:00::'
+      synset: 06480894-n
+forléirigh:
+  v:
+    sense:
+    - id: 'forléirigh%2:31:00::'
+      synset: 00624823-v
+forlíon:
+  v:
+    sense:
+    - id: 'forlíon%2:40:00::'
+      synset: 02347128-v
+forlíontach:
+  a:
+    sense:
+    - id: 'forlíontach%3:00:00::'
+      synset: 00049236-a
+formaildéad:
+  n:
+    sense:
+    - id: 'formaildéad%1:27:00::'
+      synset: 14897347-n
+formheas:
+  n:
+    sense:
+    - id: 'formheas%1:04:01::'
+      synset: 01217882-n
+  v:
+    sense:
+    - id: 'formheas%2:32:00::'
+      synset: 00808164-v
+formhuirear:
+  n:
+    sense:
+    - id: 'formhuirear%1:21:00::'
+      synset: 13346527-n
+formhór:
+  a:
+    sense:
+    - id: 'formhór%3:00:01::'
+      synset: 01561513-a
+  n:
+    sense:
+    - id: 'formhór%1:07:00::'
+      synset: 05129822-n
+formáid:
+  n:
+    sense:
+    - id: 'formáid%1:07:00::'
+      synset: 04684742-n
+    - id: 'formáid%1:10:01::'
+      synset: 06649331-n
+forneart:
+  n:
+    sense:
+    - id: 'forneart%1:04:00::'
+      synset: 00967515-n
+foroinn:
+  n:
+    sense:
+    - id: 'foroinn%1:06:00::'
+      synset: 04355626-n
+forordaigh:
+  v:
+    sense:
+    - id: 'forordaigh%2:32:00::'
+      synset: 00749139-v
+forsheoltacht:
+  n:
+    sense:
+    - id: 'forsheoltacht%1:19:00::'
+      synset: 11430006-n
+forsheomra:
+  n:
+    sense:
+    - id: 'forsheomra%1:06:00::'
+      synset: 02718424-n
+foráil:
+  n:
+    sense:
+    - id: 'foráil%1:10:00::'
+      synset: 06768658-n
+foráiste:
+  n:
+    sense:
+    - id: 'foráiste%1:13:00::'
+      synset: 07817067-n
+forás:
+  n:
+    sense:
+    - id: 'forás%1:22:00::'
+      synset: 13486023-n
+forásach:
+  a:
+    sense:
+    - id: 'forásach%3:00:00::'
+      synset: 01882105-a
+    - id: 'forásach%3:00:01::'
+      synset: 00578540-a
+foréigean:
+  n:
+    sense:
+    - id: 'foréigean%1:04:00::'
+      synset: 00967515-n
+foréigneach:
+  a:
+    sense:
+    - id: 'foréigneach%3:00:00::'
+      synset: 02520937-a
+forógra:
+  n:
+    sense:
+    - id: 'forógra%1:10:00::'
+      synset: 06738907-n
+    - id: 'forógra%1:10:01::'
+      synset: 06739973-n
+fosciorta:
+  n:
+    sense:
+    - id: 'fosciorta%1:06:00::'
+      synset: 03926859-n
+fosfar:
+  n:
+    sense:
+    - id: 'fosfar%1:27:00::'
+      synset: 14673375-n
+fosta:
+  r:
+    sense:
+    - id: 'fosta%4:02:00::'
+      synset: 00029763-r
+    - id: 'fosta%4:02:01::'
+      synset: 00048072-r
+fostaigh:
+  v:
+    sense:
+    - id: 'fostaigh%2:41:00::'
+      synset: 02414542-v
+fostaí:
+  n:
+    sense:
+    - id: 'fostaí%1:18:00::'
+      synset: 10073616-n
+fostaíocht:
+  n:
+    sense:
+    - id: 'fostaíocht%1:04:00::'
+      synset: 00585404-n
+    - id: 'fostaíocht%1:26:01::'
+      synset: 13991539-n
+fostóir:
+  n:
+    sense:
+    - id: 'fostóir%1:18:00::'
+      synset: 10074465-n
+fotheideal:
+  n:
+    sense:
+    - id: 'fotheideal%1:10:00::'
+      synset: 06358407-n
+    - id: 'fotheideal%1:10:01::'
+      synset: 06358958-n
+fothoghchán:
+  n:
+    sense:
+    - id: 'fothoghchán%1:04:00::'
+      synset: 00184089-n
+fothrach:
+  n:
+    sense:
+    - id: 'fothrach%1:06:00::'
+      synset: 04125729-n
+fotháirge:
+  n:
+    sense:
+    - id: 'fotháirge%1:06:00::'
+      synset: 02933876-n
+frainciam:
+  n:
+    sense:
+    - id: 'frainciam%1:27:00::'
+      synset: 14662042-n
+francach:
+  a:
+    sense:
+    - id: 'francach%3:01:00::'
+      synset: 02969938-a
+  n:
+    sense:
+    - id: 'francach%1:05:01::'
+      synset: 02333698-n
+franclus:
+  n:
+    sense:
+    - id: 'franclus%1:20:00::'
+      synset: 12044195-n
+fraoch:
+  n:
+    sense:
+    - id: 'fraoch%1:20:00::'
+      synset: 12254046-n
+frasaíocht:
+  n:
+    sense:
+    - id: 'frasaíocht%1:19:00::'
+      synset: 11515038-n
+fraschanna:
+  n:
+    sense:
+    - id: 'fraschanna%1:06:00::'
+      synset: 04567578-n
+freagair:
+  v:
+    sense:
+    - id: 'freagair%2:31:00::'
+      synset: 00719282-v
+    - id: 'freagair%2:31:01::'
+      synset: 00721514-v
+    - id: 'freagair%2:32:02::'
+      synset: 00817348-v
+    - id: 'freagair%2:42:03::'
+      synset: 02663315-v
+freagairt:
+  n:
+    sense:
+    - id: 'freagairt%1:04:00::'
+      synset: 00860679-n
+    - id: 'freagairt%1:10:01::'
+      synset: 06758700-n
+freagra:
+  n:
+    sense:
+    - id: 'freagra%1:10:00::'
+      synset: 06756201-n
+    - id: 'freagra%1:10:01::'
+      synset: 06758700-n
+freagrach:
+  a:
+    sense:
+    - id: 'freagrach%3:00:00::'
+      synset: 02003975-a
+    - id: 'freagrach%3:00:01::'
+      synset: 00325776-a
+freagracht:
+  n:
+    sense:
+    - id: 'freagracht%1:26:00::'
+      synset: 14554005-n
+freagróir:
+  n:
+    sense:
+    - id: 'freagróir%1:18:00::'
+      synset: 10544006-n
+freasaitheacht:
+  n:
+    sense:
+    - id: 'freasaitheacht%1:19:00::'
+      synset: 11524731-n
+freastail:
+  v:
+    sense:
+    - id: 'freastail%2:34:00::'
+      synset: 01185006-v
+    - id: 'freastail%2:42:01::'
+      synset: 02618797-v
+freastail ar:
+  v:
+    sense:
+    - id: 'freastail_ar%2:42:00::'
+      synset: 02676679-v
+freastail do:
+  v:
+    sense:
+    - id: 'freastail_do%2:42:00::'
+      synset: 02708690-v
+freastal:
+  n:
+    sense:
+    - id: 'freastal%1:04:00::'
+      synset: 01235962-n
+freastal ar:
+  v:
+    sense:
+    - id: 'freastal_ar%2:42:00::'
+      synset: 02618797-v
+freastalaí:
+  n:
+    sense:
+    - id: 'freastalaí%1:06:00::'
+      synset: 04182208-n
+    - id: 'freastalaí%1:18:01::'
+      synset: 10783051-n
+freastalaí beáir:
+  n:
+    sense:
+    - id: 'freastalaí_beáir%1:18:00::'
+      synset: 09860576-n
+freasúra:
+  n:
+    sense:
+    - id: 'freasúra%1:04:00::'
+      synset: 00203133-n
+freisin:
+  r:
+    sense:
+    - id: 'freisin%4:02:00::'
+      synset: 00029763-r
+    - id: 'freisin%4:02:01::'
+      synset: 00048072-r
+friotaíocht:
+  n:
+    sense:
+    - id: 'friotaíocht%1:19:00::'
+      synset: 11524062-n
+    - id: 'friotaíocht%1:19:01::'
+      synset: 11524386-n
+friotóir:
+  n:
+    sense:
+    - id: 'friotóir%1:06:00::'
+      synset: 04087045-n
+frisnéis:
+  n:
+    sense:
+    - id: 'frisnéis%1:10:00::'
+      synset: 07215880-n
+frithaigéad:
+  n:
+    sense:
+    - id: 'frithaigéad%1:27:00::'
+      synset: 14802178-n
+frithchaiteach:
+  a:
+    sense:
+    - id: 'frithchaiteach%3:00:00::'
+      synset: 02014978-a
+frithchaiteoir:
+  n:
+    sense:
+    - id: 'frithchaiteoir%1:06:00::'
+      synset: 04076388-n
+frithghníomhach:
+  s:
+    sense:
+    - id: frithghníomhach%5:00:00:íogair:00
+      synset: 02112456-s
+frithghníomhaigh:
+  v:
+    sense:
+    - id: 'frithghníomhaigh%2:31:00::'
+      synset: 00719282-v
+frithnimh:
+  n:
+    sense:
+    - id: 'frithnimh%1:06:00::'
+      synset: 02722499-n
+frithpháirteach:
+  a:
+    sense:
+    - id: 'frithpháirteach%3:00:00::'
+      synset: 01952167-a
+    - id: 'frithpháirteach%3:00:01::'
+      synset: 02159888-a
+frithreo:
+  n:
+    sense:
+    - id: 'frithreo%1:27:00::'
+      synset: 14790543-n
+frithsceimhlitheoireacht:
+  n:
+    sense:
+    - id: 'frithsceimhlitheoireacht%1:09:00::'
+      synset: 05915328-n
+frithsheasmhach:
+  a:
+    sense:
+    - id: 'frithsheasmhach%3:00:00::'
+      synset: 02372182-a
+frithsheasmhacht:
+  n:
+    sense:
+    - id: 'frithsheasmhacht%1:04:00::'
+      synset: 00203133-n
+fritháireamh:
+  n:
+    sense:
+    - id: 'fritháireamh%1:21:00::'
+      synset: 13312212-n
+fritorthúil:
+  s:
+    sense:
+    - id: fritorthúil%5:00:00:dochrach:01
+      synset: 01165421-s
+frog:
+  n:
+    sense:
+    - id: 'frog%1:05:00::'
+      synset: 01642406-n
+fronsa:
+  n:
+    sense:
+    - id: 'fronsa%1:10:00::'
+      synset: 07029364-n
+fruchtós:
+  n:
+    sense:
+    - id: 'fruchtós%1:27:00::'
+      synset: 14899083-n
+fruiligh:
+  v:
+    sense:
+    - id: 'fruiligh%2:41:00::'
+      synset: 02414542-v
+frustrachas:
+  n:
+    sense:
+    - id: 'frustrachas%1:12:00::'
+      synset: 07556254-n
+fráma:
+  n:
+    sense:
+    - id: 'fráma%1:06:00::'
+      synset: 03396310-n
+    - id: 'fráma%1:06:01::'
+      synset: 04233599-n
+    - id: 'fráma%1:10:02::'
+      synset: 06582981-n
+frása:
+  n:
+    sense:
+    - id: 'frása%1:10:00::'
+      synset: 06327041-n
+fréamh:
+  n:
+    sense:
+    - id: 'fréamh%1:20:00::'
+      synset: 13145876-n
+fréamhshamhail:
+  n:
+    sense:
+    - id: 'fréamhshamhail%1:09:00::'
+      synset: 05946242-n
+fréamhstoc:
+  n:
+    sense:
+    - id: 'fréamhstoc%1:20:00::'
+      synset: 13148062-n
+fuadach:
+  n:
+    sense:
+    - id: 'fuadach%1:04:00::'
+      synset: 00777199-n
+fuaim:
+  n:
+    sense:
+    - id: 'fuaim%1:07:00::'
+      synset: 04988388-n
+fuaimiúil:
+  a:
+    sense:
+    - id: 'fuaimiúil%3:01:00::'
+      synset: 02879771-a
+fuaimnigh:
+  v:
+    sense:
+    - id: 'fuaimnigh%2:39:00::'
+      synset: 02139392-v
+fual:
+  n:
+    sense:
+    - id: 'fual%1:27:00::'
+      synset: 14879875-n
+fuar:
+  a:
+    sense:
+    - id: 'fuar%3:00:00::'
+      synset: 01254201-a
+    - id: 'fuar%3:00:01::'
+      synset: 01260684-a
+fuarthán:
+  n:
+    sense:
+    - id: 'fuarthán%1:27:00::'
+      synset: 14846311-n
+fuarú:
+  n:
+    sense:
+    - id: 'fuarú%1:22:00::'
+      synset: 13474333-n
+fuascail:
+  v:
+    sense:
+    - id: 'fuascail%2:40:00::'
+      synset: 02261806-v
+fuath:
+  n:
+    sense:
+    - id: 'fuath%1:12:00::'
+      synset: 07561835-n
+fuath gorm:
+  n:
+    sense:
+    - id: 'fuath_gorm%1:20:00::'
+      synset: 12915367-n
+fuil:
+  n:
+    sense:
+    - id: 'fuil%1:08:00::'
+      synset: 05407190-n
+fuil shróine:
+  n:
+    sense:
+    - id: 'fuil_shróine%1:26:00::'
+      synset: 14394397-n
+fuilaistriú:
+  n:
+    sense:
+    - id: 'fuilaistriú%1:04:00::'
+      synset: 00324882-n
+fuilleamh:
+  n:
+    sense:
+    - id: 'fuilleamh%1:22:00::'
+      synset: 13446598-n
+fuinneamh:
+  n:
+    sense:
+    - id: 'fuinneamh%1:07:00::'
+      synset: 05043116-n
+    - id: 'fuinneamh%1:19:01::'
+      synset: 11472635-n
+fuinneog:
+  n:
+    sense:
+    - id: 'fuinneog%1:06:00::'
+      synset: 04594951-n
+    - id: 'fuinneog%1:06:01::'
+      synset: 04596042-n
+fuinniúil:
+  a:
+    sense:
+    - id: 'fuinniúil%3:00:00::'
+      synset: 00811761-a
+fuip:
+  n:
+    sense:
+    - id: 'fuip%1:06:00::'
+      synset: 04585055-n
+fuipéad:
+  n:
+    sense:
+    - id: 'fuipéad%1:05:00::'
+      synset: 02093786-n
+fuirseoir:
+  n:
+    sense:
+    - id: 'fuirseoir%1:18:00::'
+      synset: 09959604-n
+fuisce:
+  n:
+    sense:
+    - id: 'fuisce%1:13:00::'
+      synset: 07922524-n
+fuiseog:
+  n:
+    sense:
+    - id: 'fuiseog%1:05:00::'
+      synset: 01530558-n
+fulaing:
+  v:
+    sense:
+    - id: 'fulaing%2:29:00::'
+      synset: 00064841-v
+    - id: 'fulaing%2:29:01::'
+      synset: 00065410-v
+    - id: 'fulaing%2:42:02::'
+      synset: 02624202-v
+fulaingt:
+  n:
+    sense:
+    - id: 'fulaingt%1:07:01::'
+      synset: 05040565-n
+  v:
+    sense:
+    - id: 'fulaingt%2:31:00::'
+      synset: 00670017-v
+fulmaire:
+  n:
+    sense:
+    - id: 'fulmaire%1:05:00::'
+      synset: 02062786-n
+fungaicíd:
+  n:
+    sense:
+    - id: 'fungaicíd%1:06:00::'
+      synset: 02723112-n
+fungas:
+  n:
+    sense:
+    - id: 'fungas%1:20:00::'
+      synset: 13013628-n
+furasta:
+  a:
+    sense:
+    - id: 'furasta%3:00:00::'
+      synset: 00752852-a
+fuílleach:
+  a:
+    sense:
+    - id: 'fuílleach%3:00:02::'
+      synset: 00929746-a
+  n:
+    sense:
+    - id: 'fuílleach%1:24:00::'
+      synset: 13833030-n
+  r:
+    sense:
+    - id: 'fuílleach%4:02:01::'
+      synset: 00146749-r
+fuíoll:
+  n:
+    sense:
+    - id: 'fuíoll%1:27:00::'
+      synset: 15029068-n
+fág:
+  v:
+    sense:
+    - id: 'fág%2:38:00::'
+      synset: 01852660-v
+    - id: 'fág%2:38:01::'
+      synset: 02013448-v
+    - id: 'fág%2:38:02::'
+      synset: 02019450-v
+    - id: 'fág%2:40:03::'
+      synset: 02233837-v
+    - id: 'fág%2:40:04::'
+      synset: 02301114-v
+    - id: 'fág%2:42:05::'
+      synset: 02727313-v
+    - id: 'fág%2:42:06::'
+      synset: 02641740-v
+    - id: 'fág%2:42:07::'
+      synset: 02735289-v
+    - id: 'fág%2:31:08::'
+      synset: 00615374-v
+    - id: 'fág%2:30:09::'
+      synset: 00136799-v
+fág amach:
+  v:
+    sense:
+    - id: 'fág_amach%2:31:00::'
+      synset: 00617464-v
+fág ar lár:
+  v:
+    sense:
+    - id: 'fág_ar_lár%2:31:00::'
+      synset: 00617464-v
+fág i do dhiaidh:
+  v:
+    sense:
+    - id: 'fág_i_do_dhiaidh%2:30:00::'
+      synset: 00136799-v
+fágtha:
+  a:
+    sense:
+    - id: 'fágtha%3:00:00::'
+      synset: 00929746-a
+fáidh:
+  n:
+    sense:
+    - id: 'fáidh%1:18:00::'
+      synset: 10503475-n
+fáil:
+  n:
+    sense:
+    - id: 'fáil%1:04:01::'
+      synset: 00078239-n
+    - id: 'fáil%1:04:02::'
+      synset: 00091073-n
+  v:
+    sense:
+    - id: 'fáil%2:30:00::'
+      synset: 00546637-v
+fáil réidh le:
+  v:
+    sense:
+    - id: 'fáil_réidh_le%2:30:00::'
+      synset: 00472642-v
+fáilteoir:
+  n:
+    sense:
+    - id: 'fáilteoir%1:18:00::'
+      synset: 10530662-n
+fáinne:
+  n:
+    sense:
+    - id: 'fáinne%1:25:00::'
+      synset: 13898031-n
+    - id: 'fáinne%1:06:01::'
+      synset: 03539152-n
+    - id: 'fáinne%1:06:02::'
+      synset: 04099721-n
+    - id: 'fáinne%1:06:03::'
+      synset: 04100053-n
+    - id: 'fáinne%1:14:04::'
+      synset: 08260983-n
+fáisc:
+  v:
+    sense:
+    - id: 'fáisc%2:41:00::'
+      synset: 02510211-v
+fáiscín:
+  n:
+    sense:
+    - id: 'fáiscín%1:06:00::'
+      synset: 03047943-n
+fáiscín páipéir:
+  n:
+    sense:
+    - id: 'fáiscín_páipéir%1:06:00::'
+      synset: 03892459-n
+fál:
+  n:
+    sense:
+    - id: 'fál%1:06:00::'
+      synset: 03332179-n
+fáltas:
+  n:
+    sense:
+    - id: 'fáltas%1:21:00::'
+      synset: 13281089-n
+fána:
+  n:
+    sense:
+    - id: 'fána%1:17:00::'
+      synset: 09460358-n
+fánaí:
+  n:
+    sense:
+    - id: 'fánaí%1:18:01::'
+      synset: 10379458-n
+  v:
+    sense:
+    - id: 'fánaí%2:38:00::'
+      synset: 01885173-v
+fás:
+  n:
+    sense:
+    - id: 'fás%1:22:00::'
+      synset: 13510240-n
+  v:
+    sense:
+    - id: 'fás%2:29:01::'
+      synset: 00094214-v
+    - id: 'fás%2:30:02::'
+      synset: 00125649-v
+    - id: 'fás%2:30:03::'
+      synset: 00231172-v
+    - id: 'fás%2:36:04::'
+      synset: 01743695-v
+    - id: 'fás%2:42:05::'
+      synset: 02630344-v
+    - id: 'fás%2:30:06::'
+      synset: 00231983-v
+fásach:
+  n:
+    sense:
+    - id: 'fásach%1:15:00::'
+      synset: 08522594-n
+fásra:
+  n:
+    sense:
+    - id: 'fásra%1:14:00::'
+      synset: 08453769-n
+fásteanga:
+  n:
+    sense:
+    - id: 'fásteanga%1:10:00::'
+      synset: 06918134-n
+fáth:
+  n:
+    sense:
+    - id: 'fáth%1:16:00::'
+      synset: 09201896-n
+fáthmheas:
+  n:
+    sense:
+    - id: 'fáthmheas%1:04:00::'
+      synset: 00153547-n
+féach:
+  v:
+    sense:
+    - id: 'féach%2:31:00::'
+      synset: 00692380-v
+    - id: 'féach%2:39:01::'
+      synset: 02133754-v
+    - id: 'féach%2:39:02::'
+      synset: 02134989-v
+    - id: 'féach%2:39:03::'
+      synset: 02137210-v
+    - id: 'féach%2:39:04::'
+      synset: 02137900-v
+    - id: 'féach%2:39:05::'
+      synset: 02154940-v
+    - id: 'féach%2:41:06::'
+      synset: 02498679-v
+    - id: 'féach%2:41:07::'
+      synset: 02535833-v
+    - id: 'féach%2:32:08::'
+      synset: 00922307-v
+féach ar:
+  v:
+    sense:
+    - id: 'féach_ar%2:39:00::'
+      synset: 02154940-v
+    - id: 'féach_ar%2:39:01::'
+      synset: 02155378-v
+    - id: 'féach_ar%2:41:02::'
+      synset: 02460829-v
+féar:
+  n:
+    sense:
+    - id: 'féar%1:20:00::'
+      synset: 12122650-n
+féar caorach:
+  n:
+    sense:
+    - id: 'féar_caorach%1:20:00::'
+      synset: 12142352-n
+féar tirim:
+  n:
+    sense:
+    - id: 'féar_tirim%1:13:00::'
+      synset: 07818002-n
+féarach:
+  n:
+    sense:
+    - id: 'féarach%1:04:00::'
+      synset: 00842752-n
+    - id: 'féarach%1:15:01::'
+      synset: 08633625-n
+féarthalamh:
+  n:
+    sense:
+    - id: 'féarthalamh%1:15:00::'
+      synset: 08615857-n
+féasta:
+  n:
+    sense:
+    - id: 'féasta%1:14:00::'
+      synset: 08270561-n
+féasóg:
+  n:
+    sense:
+    - id: 'féasóg%1:08:00::'
+      synset: 05269065-n
+féatas:
+  n:
+    sense:
+    - id: 'féatas%1:05:00::'
+      synset: 01462432-n
+féichiúnaí:
+  n:
+    sense:
+    - id: 'féichiúnaí%1:18:00::'
+      synset: 10017160-n
+féideartha:
+  a:
+    sense:
+    - id: 'féideartha%3:00:01::'
+      synset: 00044573-a
+  s:
+    sense:
+    - id: féideartha%5:00:00:indéanta:02
+      synset: 01828067-s
+féidearthacht:
+  n:
+    sense:
+    - id: 'féidearthacht%1:07:00::'
+      synset: 05159611-n
+    - id: 'féidearthacht%1:09:01::'
+      synset: 05800018-n
+féile:
+  n:
+    sense:
+    - id: 'féile%1:28:00::'
+      synset: 15187435-n
+féileacán:
+  n:
+    sense:
+    - id: 'féileacán%1:05:00::'
+      synset: 02276911-n
+féilire:
+  n:
+    sense:
+    - id: 'féilire%1:28:00::'
+      synset: 15198526-n
+    - id: 'féilire%1:10:01::'
+      synset: 06499232-n
+féimheacht:
+  n:
+    sense:
+    - id: 'féimheacht%1:26:00::'
+      synset: 14502017-n
+féin:
+  s:
+    sense:
+    - id: féin%5:00:00:pearsanta:00
+      synset: 01773236-s
+féinics:
+  n:
+    sense:
+    - id: 'féinics%1:18:00::'
+      synset: 09524068-n
+féiniúlacht:
+  n:
+    sense:
+    - id: 'féiniúlacht%1:09:00::'
+      synset: 05771409-n
+féinmharú:
+  n:
+    sense:
+    - id: 'féinmharú%1:04:00::'
+      synset: 00223352-n
+féinseirbhís:
+  n:
+    sense:
+    - id: 'féinseirbhís%1:04:00::'
+      synset: 00099759-n
+féith:
+  n:
+    sense:
+    - id: 'féith%1:08:00::'
+      synset: 05426061-n
+féithleog:
+  n:
+    sense:
+    - id: 'féithleog%1:20:00::'
+      synset: 13121436-n
+fí:
+  n:
+    sense:
+    - id: 'fí%1:10:00::'
+      synset: 06849325-n
+fíneog:
+  n:
+    sense:
+    - id: 'fíneog%1:05:00::'
+      synset: 01782270-n
+fíneáil:
+  n:
+    sense:
+    - id: 'fíneáil%1:21:00::'
+      synset: 13322350-n
+fíniúin:
+  n:
+    sense:
+    - id: 'fíniúin%1:20:00::'
+      synset: 13121436-n
+    - id: 'fíniúin%1:20:01::'
+      synset: 13165571-n
+fínéagar:
+  n:
+    sense:
+    - id: 'fínéagar%1:13:00::'
+      synset: 07844963-n
+fíochán:
+  n:
+    sense:
+    - id: 'fíochán%1:08:00::'
+      synset: 05274844-n
+fíodóir:
+  n:
+    sense:
+    - id: 'fíodóir%1:18:00::'
+      synset: 10791858-n
+fíon:
+  n:
+    sense:
+    - id: 'fíon%1:13:00::'
+      synset: 07907701-n
+fíon mormónta:
+  n:
+    sense:
+    - id: 'fíon_mormónta%1:13:00::'
+      synset: 07915083-n
+fíonchaor:
+  n:
+    sense:
+    - id: 'fíonchaor%1:13:00::'
+      synset: 07774656-n
+fíonghort:
+  n:
+    sense:
+    - id: 'fíonghort%1:06:00::'
+      synset: 04543333-n
+fíonsaothrú:
+  n:
+    sense:
+    - id: 'fíonsaothrú%1:04:00::'
+      synset: 01129030-n
+fíor:
+  a:
+    sense:
+    - id: 'fíor%3:00:00::'
+      synset: 01939402-a
+    - id: 'fíor%3:00:01::'
+      synset: 02469730-a
+    - id: 'fíor%3:00:02::'
+      synset: 00634232-a
+fíor-:
+  r:
+    sense:
+    - id: 'fíor-%4:02:00::'
+      synset: 00032295-r
+    - id: 'fíor-%4:02:01::'
+      synset: 00037620-r
+    - id: 'fíor-%4:02:02::'
+      synset: 00089896-r
+  s:
+    sense:
+    - id: fíor-%5:00:03:urghnách:00
+      synset: 01682215-s
+fíoraigh:
+  v:
+    sense:
+    - id: 'fíoraigh%2:36:00::'
+      synset: 01648288-v
+fíoras:
+  n:
+    sense:
+    - id: 'fíoras%1:09:00::'
+      synset: 05825522-n
+fíorasach:
+  a:
+    sense:
+    - id: 'fíorasach%3:01:00::'
+      synset: 02910364-a
+fíorasc:
+  n:
+    sense:
+    - id: 'fíorasc%1:04:00::'
+      synset: 01194640-n
+fíordheimhnigh:
+  v:
+    sense:
+    - id: 'fíordheimhnigh%2:31:00::'
+      synset: 00666194-v
+fíormhaith:
+  s:
+    sense:
+    - id: fíormhaith%5:00:00:urghnách:00
+      synset: 01681111-s
+fíorúil:
+  s:
+    sense:
+    - id: fíorúil%5:00:00:bunúsach:02
+      synset: 00905309-s
+fíric:
+  n:
+    sense:
+    - id: 'fíric%1:09:00::'
+      synset: 05825522-n
+fírinneach:
+  a:
+    sense:
+    - id: 'fírinneach%3:00:00::'
+      synset: 02469730-a
+fís:
+  n:
+    sense:
+    - id: 'fís%1:10:00::'
+      synset: 06287933-n
+físeán:
+  n:
+    sense:
+    - id: 'físeán%1:06:00::'
+      synset: 04541422-n
+fócas:
+  n:
+    sense:
+    - id: 'fócas%1:07:00::'
+      synset: 04710583-n
+fócasach:
+  s:
+    sense:
+    - id: fócasach%5:00:00:lárnach:00
+      synset: 00331802-s
+fógair:
+  v:
+    sense:
+    - id: 'fógair%2:32:00::'
+      synset: 00824028-v
+    - id: 'fógair%2:32:01::'
+      synset: 00973682-v
+    - id: 'fógair%2:32:02::'
+      synset: 00976399-v
+    - id: 'fógair%2:32:03::'
+      synset: 00978685-v
+    - id: 'fógair%2:32:04::'
+      synset: 00979368-v
+    - id: 'fógair%2:32:05::'
+      synset: 01012145-v
+    - id: 'fógair%2:32:06::'
+      synset: 00967903-v
+fógairt:
+  n:
+    sense:
+    - id: 'fógairt%1:10:00::'
+      synset: 06738907-n
+fógra:
+  n:
+    sense:
+    - id: 'fógra%1:10:00::'
+      synset: 06760383-n
+    - id: 'fógra%1:10:01::'
+      synset: 07263469-n
+fógraíocht:
+  n:
+    sense:
+    - id: 'fógraíocht%1:04:00::'
+      synset: 01103234-n
+    - id: 'fógraíocht%1:10:01::'
+      synset: 07263469-n
+fógrán:
+  n:
+    sense:
+    - id: 'fógrán%1:10:00::'
+      synset: 07263469-n
+fógróir:
+  n:
+    sense:
+    - id: 'fógróir%1:18:00::'
+      synset: 09793385-n
+fóibe:
+  n:
+    sense:
+    - id: 'fóibe%1:26:00::'
+      synset: 14404821-n
+fóinteach:
+  a:
+    sense:
+    - id: 'fóinteach%3:00:00::'
+      synset: 01199079-a
+fóir:
+  n:
+    sense:
+    - id: 'fóir%1:04:00::'
+      synset: 01211710-n
+fóirdheonaigh:
+  v:
+    sense:
+    - id: 'fóirdheonaigh%2:40:00::'
+      synset: 02221492-v
+fóirdheontas:
+  n:
+    sense:
+    - id: 'fóirdheontas%1:21:00::'
+      synset: 13288037-n
+fóirithint:
+  n:
+    sense:
+    - id: 'fóirithint%1:04:00::'
+      synset: 01211710-n
+fómhar:
+  n:
+    sense:
+    - id: 'fómhar%1:20:00::'
+      synset: 13106624-n
+    - id: 'fómhar%1:28:01::'
+      synset: 15261656-n
+fón:
+  n:
+    sense:
+    - id: 'fón%1:06:00::'
+      synset: 04408223-n
+fón póca:
+  n:
+    sense:
+    - id: 'fón_póca%1:06:00::'
+      synset: 02995984-n
+fóntas:
+  n:
+    sense:
+    - id: 'fóntas%1:14:00::'
+      synset: 08202676-n
+fóram:
+  n:
+    sense:
+    - id: 'fóram%1:14:00::'
+      synset: 08326684-n
+fórsa:
+  n:
+    sense:
+    - id: 'fórsa%1:14:00::'
+      synset: 08215338-n
+    - id: 'fórsa%1:18:01::'
+      synset: 10480990-n
+    - id: 'fórsa%1:19:02::'
+      synset: 11479041-n
+fórsaí armtha:
+  n:
+    sense:
+    - id: 'fórsaí_armtha%1:14:00::'
+      synset: 08215965-n
+fórsáil:
+  v:
+    sense:
+    - id: 'fórsáil%2:41:00::'
+      synset: 02510211-v
+fós:
+  r:
+    sense:
+    - id: 'fós%4:02:00::'
+      synset: 00018101-r
+    - id: 'fós%4:02:01::'
+      synset: 00027761-r
+    - id: 'fós%4:02:02::'
+      synset: 00031700-r
+  v:
+    sense:
+    - id: 'fós%2:30:03::'
+      synset: 00117793-v
+fós féin:
+  r:
+    sense:
+    - id: 'fós_féin%4:02:00::'
+      synset: 00027761-r
+fótachóip:
+  n:
+    sense:
+    - id: 'fótachóip%1:06:00::'
+      synset: 03930933-n
+fótachóipire:
+  n:
+    sense:
+    - id: 'fótachóipire%1:06:00::'
+      synset: 03930801-n
+fótagrafach:
+  a:
+    sense:
+    - id: 'fótagrafach%3:01:00::'
+      synset: 02849477-a
+fótaiméadracht:
+  n:
+    sense:
+    - id: 'fótaiméadracht%1:04:00::'
+      synset: 01005214-n
+fótaisféar:
+  n:
+    sense:
+    - id: 'fótaisféar%1:17:00::'
+      synset: 09414279-n
+fótón:
+  n:
+    sense:
+    - id: 'fótón%1:17:00::'
+      synset: 09414116-n

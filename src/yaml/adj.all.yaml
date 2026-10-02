@@ -1,0 +1,8748 @@
+00001740-a:
+  definition:
+  - a bhfuil na hacmhainní nó scileanna nó saineolas nó údarás ag duine chun rud a
+    dhéanamh
+  example:
+  - a bheith ábalta snámh
+  ili: i1
+  members:
+  - ábalta
+  - in ann
+  - inniúil
+  partOfSpeech: a
+00005204-a:
+  definition:
+  - confidence: 0.0
+    text: perfect or complete or pure
+  ili: i22
+  members:
+  - absalóideach
+  - iomlán
+  partOfSpeech: a
+00006050-a:
+  definition:
+  - measta trí chomparáid, ní cinnte ná iomlán
+  example:
+  - strainséir gaolta
+  ili: i27
+  members:
+  - gaolta
+  - comparáideach
+  - coibhneasta
+  partOfSpeech: a
+00012381-a:
+  definition:
+  - confidence: 0.0
+    text: being or characterized by concepts or their formation
+  ili: i56
+  members:
+  - coincheapúil
+  partOfSpeech: a
+00013179-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being perceived by the senses; not abstract or imaginary
+  ili: i59
+  members:
+  - nithiúil
+  partOfSpeech: a
+  similar:
+  - 00013681-s
+00013681-s:
+  definition:
+  - confidence: 0.0
+    text: capable of being treated as fact
+  ili: i61
+  members:
+  - inláimhsithe
+  partOfSpeech: s
+  similar:
+  - 00013179-a
+00017820-a:
+  definition:
+  - confidence: 0.0
+    text: worthy of acceptance or satisfactory
+  ili: i84
+  members:
+  - inghlactha
+  partOfSpeech: a
+00021803-a:
+  definition:
+  - confidence: 0.0
+    text: conforming exactly or almost exactly to fact or to a standard or performing
+      with total accuracy
+  ili: i103
+  members:
+  - beacht
+  - cruinn
+  partOfSpeech: a
+00027712-a:
+  definition:
+  - confidence: 0.0
+    text: generally approved or compelling recognition
+  ili: i134
+  members:
+  - aitheanta
+  partOfSpeech: a
+00039507-a:
+  definition:
+  - confidence: 0.0
+    text: (of a policy or person or action) controlling a situation by causing something
+      to happen rather than waiting to respond to it after it happens
+  ili: i199
+  members:
+  - réamhghníomhach
+  partOfSpeech: a
+00039705-a:
+  definition:
+  - confidence: 0.0
+    text: lacking in energy or will
+  ili: i200
+  members:
+  - éighníomhach
+  partOfSpeech: a
+00043985-a:
+  definition:
+  - confidence: 0.0
+    text: presently existing in fact and not merely potential or possible
+  ili: i223
+  members:
+  - iarbhír
+  partOfSpeech: a
+00044573-a:
+  definition:
+  - ann cheana féin i bhféidearthacht
+  example:
+  - fadhb fhéideartha
+  ili: i225
+  members:
+  - féideartha
+  partOfSpeech: a
+00045343-a:
+  definition:
+  - confidence: 0.0
+    text: being long-lasting and recurrent or characterized by long suffering
+  ili: i229
+  members:
+  - ainsealach
+  partOfSpeech: a
+00046329-a:
+  definition:
+  - confidence: 0.0
+    text: having a capacity for adaptation
+  ili: i235
+  members:
+  - oiriúnaitheach
+  partOfSpeech: a
+00048680-a:
+  definition:
+  - confidence: 0.0
+    text: increasing by successive addition
+  ili: i250
+  members:
+  - carnach
+  partOfSpeech: a
+00049078-a:
+  definition:
+  - níos mó nó sa bhreis
+  example:
+  - glaoigh ar níos mó trúpaí
+  ili: i252
+  members:
+  - breise
+  - sa bhreis
+  partOfSpeech: a
+00049236-a:
+  definition:
+  - confidence: 0.0
+    text: acting as or providing a complement (something that completes the whole)
+  ili: i253
+  members:
+  - comhlántach
+  - forlíontach
+  partOfSpeech: a
+00049486-a:
+  definition:
+  - confidence: 0.0
+    text: increasing gradually by regular degrees or additions
+  ili: i254
+  members:
+  - incriminteach
+  partOfSpeech: a
+00051936-a:
+  definition:
+  - confidence: 0.0
+    text: lacking the requisite qualities or resources to meet a task
+  ili: i267
+  members:
+  - neamhdhóthanach
+  partOfSpeech: a
+00052912-a:
+  definition:
+  - confidence: 0.0
+    text: tending to adhere
+  ili: i271
+  members:
+  - greamaitheach
+  partOfSpeech: a
+00065107-a:
+  definition:
+  - confidence: 0.0
+    text: promoting or enhancing well-being
+  ili: i340
+  members:
+  - maith
+  - tairbheach
+  - tairbhiúil
+  partOfSpeech: a
+00065504-a:
+  definition:
+  - confidence: 0.0
+    text: manifesting partiality
+  ili: i342
+  members:
+  - fabhrach
+  - idirdhealaitheach
+  partOfSpeech: a
+00067647-a:
+  definition:
+  - confidence: 0.0
+    text: worthy of being recommended or suggested; prudent or wise
+  ili: i351
+  members:
+  - inmholta
+  partOfSpeech: a
+00069175-a:
+  definition:
+  - confidence: 0.0
+    text: depending on free oxygen or air
+  ili: i358
+  members:
+  - aeróbach
+  partOfSpeech: a
+00069669-a:
+  definition:
+  - confidence: 0.0
+    text: living or active in the absence of free oxygen
+  ili: i361
+  members:
+  - anaeróbach
+  partOfSpeech: a
+00075743-a:
+  definition:
+  - confidence: 0.0
+    text: affirming or giving assent
+  ili: i395
+  members:
+  - dearfach
+  partOfSpeech: a
+00090253-a:
+  definition:
+  - confidence: 0.0
+    text: causing irritation or annoyance
+  ili: i472
+  members:
+  - cráiteach
+  partOfSpeech: a
+00094409-a:
+  definition:
+  - confidence: 0.0
+    text: legally transferable to the ownership of another
+  ili: i491
+  members:
+  - inaistrithe
+  partOfSpeech: a
+00096133-a:
+  definition:
+  - gan saol a bheith acu a thuilleadh nó an chuma air a bhfuil nó ag súil le saol
+    a bheith acu
+  example:
+  - tá an néaróg mharbh
+  ili: i500
+  members:
+  - marbh
+  partOfSpeech: a
+00101395-a:
+  definition:
+  - confidence: 0.0
+    text: arranged in order according to the alphabet
+  ili: i531
+  members:
+  - aibítreach
+  partOfSpeech: a
+00104850-a:
+  definition:
+  - confidence: 0.0
+    text: having a strong desire for success or achievement
+  ili: i550
+  members:
+  - uaillmhianach
+  partOfSpeech: a
+00111308-a:
+  definition:
+  - confidence: 0.0
+    text: of a circuit or device having an output that is proportional to the input
+  ili: i587
+  members:
+  - analógach
+  partOfSpeech: a
+00111512-a:
+  definition:
+  - confidence: 0.0
+    text: of a circuit or device that represents magnitudes in digits
+  ili: i588
+  members:
+  - digiteach
+  partOfSpeech: a
+00113042-a:
+  definition:
+  - confidence: 0.0
+    text: using or skilled in using analysis (i.e., separating a whole — intellectual
+      or substantial — into its elemental parts or basic principles)
+  ili: i595
+  members:
+  - anailíseach
+  partOfSpeech: a
+00121594-a:
+  definition:
+  - confidence: 0.0
+    text: being or having an unknown or unnamed source
+  ili: i639
+  members:
+  - anaithnid
+  partOfSpeech: a
+00123436-a:
+  definition:
+  - confidence: 0.0
+    text: following in time or order
+  ili: i649
+  members:
+  - iartheachtach
+  partOfSpeech: a
+  similar:
+  - 00123654-s
+00123654-s:
+  definition:
+  - confidence: 0.0
+    text: occurring with or following as a consequence
+  ili: i650
+  members:
+  - iarmhartach
+  partOfSpeech: s
+  similar:
+  - 00123436-a
+00124949-a:
+  definition:
+  - confidence: 0.0
+    text: operating or living or growing in water
+  ili: i655
+  members:
+  - uisceach
+  partOfSpeech: a
+00128705-a:
+  definition:
+  - ar tí a lua nó a shonrú
+  example:
+  - na míreanna seo a leanas
+  ili: i676
+  members:
+  - thíosluaite
+  - i ndiaidh
+  - a leanas
+  partOfSpeech: a
+00128838-a:
+  definition:
+  - go díreach tar éis (in am nó ord)
+  example:
+  - an lá dár gcionn
+  ili: i677
+  members:
+  - dár gcionn
+  - an chéad (rud) eile
+  - ina dhiaidh sin
+  - tar éis
+  partOfSpeech: a
+00135772-a:
+  definition:
+  - oiriúnach do dhuine nó d'áit nó riocht ar leith etc
+  example:
+  - leabhar nach bhfuil oiriúnach do pháistí
+  ili: i720
+  members:
+  - cuí
+  - iomchuí
+  - oiriúnach
+  partOfSpeech: a
+00136789-a:
+  definition:
+  - confidence: 0.0
+    text: not suitable for a particular occasion etc
+  ili: i725
+  members:
+  - mí-oiriúnach
+  - míchuí
+  - neamhchuí
+  partOfSpeech: a
+  similar:
+  - 00137256-s
+00137256-s:
+  definition:
+  - confidence: 0.0
+    text: not appropriate for a purpose or occasion
+  ili: i727
+  members:
+  - míchuí
+  partOfSpeech: s
+  similar:
+  - 00136789-a
+00137973-a:
+  definition:
+  - confidence: 0.0
+    text: subject to or requiring payment especially as specified
+  ili: i731
+  members:
+  - iníoctha
+  partOfSpeech: a
+00138769-a:
+  definition:
+  - confidence: 0.0
+    text: subject to repayment
+  ili: i735
+  members:
+  - in-aisíoctha
+  partOfSpeech: a
+00143675-a:
+  definition:
+  - confidence: 0.0
+    text: (used of persons or the military) characterized by having or bearing arms
+  ili: i766
+  members:
+  - armtha
+  partOfSpeech: a
+00144857-a:
+  definition:
+  - confidence: 0.0
+    text: protected by armor (used of persons or things military)
+  ili: i775
+  members:
+  - armúrtha
+  partOfSpeech: a
+00167408-a:
+  definition:
+  - confidence: 0.0
+    text: pleasing to the eye or mind especially through beauty or charm
+  ili: i900
+  members:
+  - tarraingteach
+  partOfSpeech: a
+00174481-a:
+  definition:
+  - confidence: 0.0
+    text: carrying developing offspring within the body or being about to produce
+      new life
+  ili: i934
+  members:
+  - torrach
+  partOfSpeech: a
+00179875-a:
+  definition:
+  - confidence: 0.0
+    text: endowed with authority
+  ili: i962
+  members:
+  - údaraithe
+  partOfSpeech: a
+00180786-a:
+  definition:
+  - confidence: 0.0
+    text: not endowed with authority
+  ili: i967
+  members:
+  - neamhúdaraithe
+  partOfSpeech: a
+00181225-a:
+  definition:
+  - confidence: 0.0
+    text: sanctioned by or consistent with or operating under the law determining
+      the fundamental political principles of a government
+  ili: i970
+  members:
+  - bunreachtúil
+  partOfSpeech: a
+00182776-a:
+  definition:
+  - confidence: 0.0
+    text: operating with minimal human intervention; independent of external control
+  ili: i980
+  members:
+  - uathoibríoch
+  partOfSpeech: a
+00184353-a:
+  definition:
+  - infhaighte nó so-aimsithe agus réidh le húsáid nó le seirbhísiú
+  example:
+  - bíonn múchtóir dóiteáin ar fáil i gcónaí
+  ili: i990
+  members:
+  - ar fáil
+  - infhaighte
+  partOfSpeech: a
+00191603-a:
+  definition:
+  - (uaireanta ina dhiaidh sin ag 'an') a bhfuil nó a léiríonn eolas nó tuiscint nó
+    réadú nó dearcadh
+  example:
+  - bhí a fhios aige ar naimhdeas a chéile comhraic
+  ili: i1027
+  members:
+  - feasach
+  - fiosrach
+  - eolach
+  partOfSpeech: a
+00195081-a:
+  definition:
+  - confidence: 0.0
+    text: provoking horror
+  ili: i1039
+  members:
+  - uafásach
+  partOfSpeech: a
+00195400-a:
+  definition:
+  - confidence: 0.0
+    text: causing fear or dread or terror
+  ili: i1040
+  members:
+  - uafásach
+  partOfSpeech: a
+00196525-a:
+  definition:
+  - confidence: 0.0
+    text: provoking fear or terror
+  ili: i1043
+  members:
+  - scanrúil
+  partOfSpeech: a
+00219320-a:
+  definition:
+  - confidence: 0.0
+    text: delighting the senses or exciting intellectual or emotional admiration
+  ili: i1196
+  members:
+  - álainn
+  partOfSpeech: a
+  similar:
+  - 00221401-s
+  - 00221674-s
+00221401-s:
+  definition:
+  - confidence: 0.0
+    text: appealing to the emotions as well as the eye
+  ili: i1204
+  members:
+  - álainn
+  partOfSpeech: s
+  similar:
+  - 00219320-a
+00221674-s:
+  definition:
+  - confidence: 0.0
+    text: pleasing by delicacy or grace; not imposing
+  ili: i1206
+  members:
+  - deas
+  partOfSpeech: s
+  similar:
+  - 00219320-a
+00222548-a:
+  definition:
+  - confidence: 0.0
+    text: displeasing to the senses
+  ili: i1212
+  members:
+  - gránna
+  partOfSpeech: a
+00226323-a:
+  definition:
+  - confidence: 0.0
+    text: having the nature of or resulting from malice
+  ili: i1237
+  members:
+  - mailíseach
+  partOfSpeech: a
+00229099-a:
+  definition:
+  - (sárchéim de 'go maith') a bhfuil na gnéithe is dearfacha i gceist
+  example:
+  - an scannán is fearr i mbliana
+  ili: i1251
+  members:
+  - is fearr
+  partOfSpeech: a
+  similar:
+  - 00230237-s
+00230237-s:
+  definition:
+  - confidence: 0.0
+    text: most desirable possible under a restriction expressed or implied
+  ili: i1256
+  members:
+  - barrmhaith
+  - optamach
+  partOfSpeech: s
+  similar:
+  - 00229099-a
+00231927-a:
+  definition:
+  - (breischéim 'maith') níos fearr ná ceann eile (den aicme nó tacar nó cineál céanna)
+    ó thaobh feabhais nó cáilíochta nó inmhianaitheachta nó oiriúnachta; níos oilte
+    ná ceann eile
+  example:
+  - Is tusa an fear níos fearr, a Gunga Din
+  ili: i1267
+  members:
+  - níos fearr
+  partOfSpeech: a
+00234346-a:
+  definition:
+  - confidence: 0.0
+    text: tending or intended to correct or counteract or restore to a normal condition
+  ili: i1279
+  members:
+  - ceartaitheach
+  partOfSpeech: a
+00238581-a:
+  definition:
+  - confidence: 0.0
+    text: involving only one part or side
+  ili: i1308
+  members:
+  - aontaobhach
+  partOfSpeech: a
+00238832-a:
+  definition:
+  - confidence: 0.0
+    text: having many parts or sides
+  ili: i1310
+  members:
+  - iltaobhach
+  partOfSpeech: a
+  similar:
+  - 00241600-s
+00241600-s:
+  definition:
+  - confidence: 0.0
+    text: involving three parties or elements
+  ili: i1335
+  members:
+  - trípháirteach
+  partOfSpeech: s
+  similar:
+  - 00238832-a
+00248114-a:
+  definition:
+  - confidence: 0.0
+    text: (of reputation) free from blemishes
+  ili: i1380
+  members:
+  - dosmálta
+  partOfSpeech: a
+00263658-a:
+  definition:
+  - confidence: 0.0
+    text: possessing or displaying courage; able to face and deal with danger or fear
+      without flinching
+  ili: i1475
+  members:
+  - cróga
+  partOfSpeech: a
+  similar:
+  - 00265436-s
+00265436-s:
+  definition:
+  - confidence: 0.0
+    text: having or showing valor
+  ili: i1482
+  members:
+  - cróga
+  partOfSpeech: s
+  similar:
+  - 00263658-a
+00272285-a:
+  definition:
+  - confidence: 0.0
+    text: emitting light during exposure to radiation from an external source
+  ili: i1518
+  members:
+  - fluaraiseach
+  partOfSpeech: a
+00272679-a:
+  definition:
+  - confidence: 0.0
+    text: emitting light as a result of being heated
+  ili: i1520
+  members:
+  - gealbhruthach
+  partOfSpeech: a
+00273948-a:
+  definition:
+  - gan solas nó gile nó easpa solais nó gile, scáthaithe nó dubh
+  example:
+  - ina suí i gcúinne dorcha
+  ili: i1528
+  members:
+  - dorcha
+  partOfSpeech: a
+00279417-a:
+  definition:
+  - confidence: 0.0
+    text: emitting or reflecting light readily or in large amounts
+  ili: i1557
+  members:
+  - geal
+  partOfSpeech: a
+  similar:
+  - 00280198-s
+00280198-s:
+  definition:
+  - confidence: 0.0
+    text: softly bright or radiant
+  ili: i1559
+  members:
+  - lonrúil
+  partOfSpeech: s
+  similar:
+  - 00279417-a
+00287080-a:
+  definition:
+  - confidence: 0.0
+    text: free from undue bias or preconceived opinions
+  ili: i1590
+  members:
+  - neamhchlaonta
+  partOfSpeech: a
+00289948-a:
+  definition:
+  - confidence: 0.0
+    text: physically and forcibly separated into pieces or cracked or split
+  ili: i1605
+  members:
+  - briste
+  partOfSpeech: a
+00293803-a:
+  definition:
+  - confidence: 0.0
+    text: actively or fully engaged or occupied
+  ili: i1626
+  members:
+  - gnóthach
+  partOfSpeech: a
+00298907-a:
+  definition:
+  - confidence: 0.0
+    text: advocating or following the socialist principles
+  ili: i1655
+  members:
+  - sóisialach
+  partOfSpeech: a
+00309819-a:
+  definition:
+  - confidence: 0.0
+    text: exercising caution or showing care or attention
+  ili: i1707
+  members:
+  - cúramach
+  partOfSpeech: a
+  similar:
+  - 00311231-s
+  - 00312303-s
+00311231-s:
+  definition:
+  - forbartha nó curtha i gcrích go cúramach agus go mion
+  example:
+  - plean mionsonraithe
+  ili: i1712
+  members:
+  - mionsonraithe
+  - ilchasta
+  - tuilleadh forbartha
+  - mionsonrach
+  partOfSpeech: s
+  similar:
+  - 00309819-a
+00312303-s:
+  definition:
+  - confidence: 0.0
+    text: painstakingly careful and accurate
+  ili: i1718
+  members:
+  - críochnúil
+  - iomlán
+  partOfSpeech: s
+  similar:
+  - 00309819-a
+00324097-a:
+  definition:
+  - confidence: 0.0
+    text: involving or constituting a cause; causing
+  ili: i1796
+  members:
+  - cúisíoch
+  partOfSpeech: a
+00325776-a:
+  definition:
+  - confidence: 0.0
+    text: being the agent or cause
+  ili: i1804
+  members:
+  - freagrach
+  partOfSpeech: a
+00330729-a:
+  definition:
+  - confidence: 0.0
+    text: in or near a center or constituting a center; the inner area
+  ili: i1832
+  members:
+  - lárnach
+  partOfSpeech: a
+  similar:
+  - 00331802-s
+  - 00331928-s
+00331802-s:
+  definition:
+  - confidence: 0.0
+    text: having or localized centrally at a focus
+  ili: i1839
+  members:
+  - fócasach
+  partOfSpeech: s
+  similar:
+  - 00330729-a
+00331928-s:
+  definition:
+  - confidence: 0.0
+    text: relating to or situated in or extending toward the middle
+  ili: i1840
+  members:
+  - meánach
+  partOfSpeech: s
+  similar:
+  - 00330729-a
+00332344-a:
+  definition:
+  - confidence: 0.0
+    text: on or near an edge or constituting an outer boundary; the outer area
+  ili: i1843
+  members:
+  - forimeallach
+  - imeallach
+  partOfSpeech: a
+00337066-a:
+  definition:
+  - confidence: 0.0
+    text: not established beyond doubt; still undecided or unknown
+  ili: i1870
+  members:
+  - éiginnte
+  partOfSpeech: a
+00337729-a:
+  definition:
+  - a bheith gan dabht nó éiginnteacht; muiníneach agus ceannasach
+  example:
+  - a bheith cinnte faoina rath
+  ili: i1873
+  members:
+  - cinnte
+  - siúráilte
+  partOfSpeech: a
+00338302-a:
+  definition:
+  - confidence: 0.0
+    text: lacking or indicating lack of confidence or assurance
+  ili: i1875
+  members:
+  - éiginnte
+  partOfSpeech: a
+00341524-a:
+  definition:
+  - confidence: 0.0
+    text: (usually followed by 'to') governed by fate
+  ili: i1889
+  members:
+  - ceaptha
+  partOfSpeech: a
+00343148-a:
+  definition:
+  - confidence: 0.0
+    text: endorsed authoritatively as having met certain requirements
+  ili: i1897
+  members:
+  - deimhnithe
+  partOfSpeech: a
+00343800-a:
+  definition:
+  - confidence: 0.0
+    text: lacking requisite official documentation or endorsement
+  ili: i1901
+  members:
+  - neamhdheimhnithe
+  partOfSpeech: a
+00343913-a:
+  definition:
+  - confidence: 0.0
+    text: incapable of being avoided or prevented
+  ili: i1902
+  members:
+  - dosheachanta
+  partOfSpeech: a
+  similar:
+  - 00344258-s
+00344258-s:
+  definition:
+  - confidence: 0.0
+    text: impossible to avoid or evade
+  ili: i1904
+  members:
+  - dosheachanta
+  partOfSpeech: s
+  similar:
+  - 00343913-a
+00344599-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being avoided or warded off
+  ili: i1906
+  members:
+  - inseachanta
+  partOfSpeech: a
+00347949-a:
+  definition:
+  - confidence: 0.0
+    text: tending to vary often or widely
+  ili: i1924
+  members:
+  - luaineach
+  partOfSpeech: a
+00358006-a:
+  definition:
+  - confidence: 0.0
+    text: typical or distinctive
+  ili: i1981
+  members:
+  - sainiúil
+  partOfSpeech: a
+  similar:
+  - 00358636-s
+00358636-s:
+  definition:
+  - confidence: 0.0
+    text: of a feature that helps to distinguish a person or thing
+  ili: i1983
+  members:
+  - sainiúil
+  partOfSpeech: s
+  similar:
+  - 00358006-a
+00371003-a:
+  definition:
+  - confidence: 0.0
+    text: having the deep slightly brownish color of gold
+  ili: i2033
+  members:
+  - órga
+  partOfSpeech: a
+00371931-a:
+  definition:
+  - den dath idirmheánach idir glas agus corcairghorm, a bhfuil dath cosúil leis an
+    spéir shoiléir
+  example:
+  - aimsir gheal ghorm mhí Dheireadh Fómhair
+  ili: i2040
+  members:
+  - gorm
+  partOfSpeech: a
+00373173-a:
+  definition:
+  - de dhath atá cosúil le dath adhmaid nó cré
+  ili: i2050
+  members:
+  - donn
+  - cineál donn
+  - dúdhonn
+  - donnrua
+  partOfSpeech: a
+00377031-a:
+  definition:
+  - den dath idir gorm agus buí sa speictream datha; cosúil leis an dath féir úr
+  example:
+  - crann glas
+  ili: i2084
+  members:
+  - glas
+  - scothghlas
+  - dúghlas
+  - glas éadrom
+  partOfSpeech: a
+00379954-a:
+  definition:
+  - confidence: 0.0
+    text: of the color between red and yellow; similar to the color of a ripe orange
+  ili: i2110
+  members:
+  - flannbhuí
+  partOfSpeech: a
+00382159-a:
+  definition:
+  - de dhath ag deireadh an speictrim datha (in aice le oráiste); cosúil le dath na
+    fola nó silíní nó trátaí nó rúibíneacha
+  ili: i2130
+  members:
+  - scarlóideach
+  - cródhearg
+  - dearg
+  - scothdhearg
+  - rúibín
+  - rúibíneach
+  - corcairdhearg
+  - bándearg silíneach
+  - caordhearg
+  partOfSpeech: a
+00386818-a:
+  definition:
+  - confidence: 0.0
+    text: of the color intermediate between green and orange in the color spectrum;
+      of something resembling the color of an egg yolk
+  ili: i2170
+  members:
+  - buí
+  partOfSpeech: a
+00393873-a:
+  definition:
+  - a bheith ar an dath neamhchrómatach don uasdorchadais, ar beagán nó gan fordath
+    de bharr beagnach gach solas teagmhais a ionsú
+  example:
+  - seicéid leathar dubha
+  ili: i2222
+  members:
+  - dubh
+  partOfSpeech: a
+00394166-a:
+  definition:
+  - a bheith ina dhath neamhchrómatach uaséadroime; le beagán datha nó dath ar bith
+    de bharr frithchaithimh nach mór an tsolais ar fad
+  example:
+  - chomh geal le sneachta na haon oíche
+  ili: i2223
+  members:
+  - bán
+  - geal
+  partOfSpeech: a
+00410517-a:
+  definition:
+  - confidence: 0.0
+    text: (used of color) having a dark hue
+  ili: i2320
+  members:
+  - dorcha
+  partOfSpeech: a
+00412963-a:
+  definition:
+  - confidence: 0.0
+    text: having a high state of culture and development both social and technological
+  ili: i2334
+  members:
+  - sibhialta
+  partOfSpeech: a
+00414699-a:
+  definition:
+  - confidence: 0.0
+    text: of or relating to the first significant period of a civilization, culture,
+      area of study, etc.
+  ili: i2343
+  members:
+  - clasaiceach
+  partOfSpeech: a
+00417683-a:
+  definition:
+  - confidence: 0.0
+    text: of or pertaining to classified information or matters affecting national
+      security
+  ili: i2359
+  members:
+  - íogair
+  partOfSpeech: a
+00418932-a:
+  definition:
+  - confidence: 0.0
+    text: free from dirt or impurities; or having clean habits
+  ili: i2367
+  members:
+  - glan
+  partOfSpeech: a
+00420808-a:
+  definition:
+  - confidence: 0.0
+    text: soiled or likely to soil with dirt or grime
+  ili: i2378
+  members:
+  - salach
+  partOfSpeech: a
+  similar:
+  - 00423109-s
+00423109-s:
+  definition:
+  - confidence: 0.0
+    text: disgustingly dirty; filled or smeared with offensive matter
+  ili: i2388
+  members:
+  - salach
+  partOfSpeech: s
+  similar:
+  - 00420808-a
+00428404-a:
+  definition:
+  - confidence: 0.0
+    text: exhibiting or caused by radioactivity
+  ili: i2416
+  members:
+  - radaighníomhach
+  partOfSpeech: a
+00429900-a:
+  definition:
+  - follasach gan cheist san intinn
+  example:
+  - dainséir soiléir agus reatha
+  ili: i2425
+  members:
+  - soiléir
+  - follasach
+  - léir
+  partOfSpeech: a
+00432720-a:
+  definition:
+  - confidence: 0.0
+    text: not clearly expressed or understood
+  ili: i2435
+  members:
+  - doiléir
+  partOfSpeech: a
+00433489-a:
+  definition:
+  - confidence: 0.0
+    text: transmitting light; able to be seen through with clarity
+  ili: i2437
+  members:
+  - trédhearcach
+  partOfSpeech: a
+00441328-a:
+  definition:
+  - confidence: 0.0
+    text: lacking or marked by lack of intellectual acuity
+  ili: i2478
+  members:
+  - amaideach
+  - dúr
+  partOfSpeech: a
+00444934-a:
+  definition:
+  - confidence: 0.0
+    text: located far away spatially
+  ili: i2494
+  members:
+  - cianda
+  - iargúlta
+  partOfSpeech: a
+00446553-a:
+  definition:
+  - nach bhfuil i bhfad i gcéin ó thaobh ama nó spáis nó céime nó imthosca
+  example:
+  - timpeall comharsana
+  ili: i2502
+  members:
+  - cóngarach
+  - beagnach
+  partOfSpeech: a
+00448955-a:
+  definition:
+  - ag nó laistigh d'achar gearr sa spás nó am nó a bhfuil gnéithe in aice lena chéile
+  example:
+  - gearr do mheán lae
+  ili: i2515
+  members:
+  - cóngarach
+  - gearr
+  partOfSpeech: a
+  similar:
+  - 00449787-s
+  - 00449506-s
+00449506-s:
+  definition:
+  - is gaire sa spás nó sa suíomh; láithreach tadhlach gan spás idirghabhála
+  example:
+  - bhí seomraí in aice leis
+  ili: i2516
+  members:
+  - taobh le taobh
+  - in aice le
+  - is deise
+  partOfSpeech: s
+  similar:
+  - 00448955-a
+00449787-s:
+  definition:
+  - confidence: 0.0
+    text: completely enveloping
+  ili: i2517
+  members:
+  - comhthimpeallach
+  partOfSpeech: s
+  similar:
+  - 00448955-a
+00466504-a:
+  definition:
+  - confidence: 0.0
+    text: marked by an orderly, logical, and aesthetically consistent relation of
+      parts
+  ili: i2620
+  members:
+  - comhleanúnach
+  partOfSpeech: a
+00469231-a:
+  definition:
+  - confidence: 0.0
+    text: formed of separate units gathered into a mass or whole
+  ili: i2635
+  members:
+  - comhiomlán
+  partOfSpeech: a
+00470786-a:
+  definition:
+  - confidence: 0.0
+    text: spreading or spread throughout
+  ili: i2642
+  members:
+  - forleatach
+  partOfSpeech: a
+00472920-a:
+  definition:
+  - confidence: 0.0
+    text: prepared and printed for distribution and sale
+  ili: i2654
+  members:
+  - foilsithe
+  partOfSpeech: a
+00473062-a:
+  definition:
+  - confidence: 0.0
+    text: not published
+  ili: i2655
+  members:
+  - neamhfhoilsithe
+  partOfSpeech: a
+00475648-a:
+  definition:
+  - confidence: 0.0
+    text: easily ignited
+  ili: i2673
+  members:
+  - inlasta
+  partOfSpeech: a
+00485037-a:
+  definition:
+  - confidence: 0.0
+    text: out of proportion
+  ili: i2724
+  members:
+  - díréireach
+  partOfSpeech: a
+00485135-a:
+  definition:
+  - confidence: 0.0
+    text: connected with or engaged in or sponsored by or used in commerce or commercial
+      enterprises
+  ili: i2725
+  members:
+  - tráchtálach
+  partOfSpeech: a
+00487699-a:
+  definition:
+  - confidence: 0.0
+    text: having no special distinction or quality; widely known or commonly encountered;
+      average or ordinary or usual
+  ili: i2739
+  members:
+  - coiteann
+  - coitianta
+  - gnách
+  partOfSpeech: a
+00489640-a:
+  definition:
+  - confidence: 0.0
+    text: not common or ordinarily encountered; unusually great in amount or remarkable
+      in character or kind
+  ili: i2747
+  members:
+  - neamhchoitianta
+  partOfSpeech: a
+  similar:
+  - 00490174-s
+00490174-s:
+  definition:
+  - confidence: 0.0
+    text: surpassing what is common or usual or expected
+  ili: i2748
+  members:
+  - eisceachtúil
+  - speisialta
+  - áirithe
+  partOfSpeech: s
+  similar:
+  - 00489640-a
+00491099-a:
+  definition:
+  - a tharlaíonn nó a bhfuil taithí acu nó a breathnóidh go minic nó i gcomhréir le
+    cleachtas nó nós imeachta rialta
+  example:
+  - fás na glasraí is gnách
+  ili: i2753
+  members:
+  - gnách-
+  - gnách
+  partOfSpeech: a
+00492026-a:
+  definition:
+  - ní gnách nó coitianta nó gnáth
+  example:
+  - radharc na háilleachta neamhghnách
+  ili: i2757
+  members:
+  - neamhghnách
+  partOfSpeech: a
+00494722-a:
+  definition:
+  - a bhaineann le pobal ina iomláine nó páirt a ghlacadh ann, poiblí
+  example:
+  - ar son an leasa choitinn
+  ili: i2771
+  members:
+  - coiteann
+  partOfSpeech: a
+  similar:
+  - 00495342-s
+00495342-s:
+  definition:
+  - confidence: 0.0
+    text: affecting the people or community as a whole
+  ili: i2773
+  members:
+  - poiblí
+  partOfSpeech: s
+  similar:
+  - 00494722-a
+00495505-a:
+  definition:
+  - a bheith nó a bheith mar shaintréith aon rud amháin nó aon duine amháin
+  example:
+  - sainriachtanais gach othair
+  ili: i2774
+  members:
+  - aonair
+  - ar leith
+  - sain-
+  - indibhidiúil
+  partOfSpeech: a
+  similar:
+  - 00496454-s
+00496454-s:
+  definition:
+  - cuimhnigh ar ar bhonn indibhidiúil
+  example:
+  - na baill faoi seach sa chlub
+  ili: i2778
+  members:
+  - roinnt
+  - faoi seach
+  - éagsúla
+  partOfSpeech: s
+  similar:
+  - 00495505-a
+00505894-a:
+  definition:
+  - confidence: 0.0
+    text: able to be compared or worthy of comparison
+  ili: i2839
+  members:
+  - inchurtha
+  partOfSpeech: a
+00508211-a:
+  definition:
+  - confidence: 0.0
+    text: showing or having compassion
+  ili: i2847
+  members:
+  - atruach
+  partOfSpeech: a
+00509948-a:
+  definition:
+  - confidence: 0.0
+    text: existing together in harmony
+  ili: i2856
+  members:
+  - comhchuí
+  partOfSpeech: a
+00510104-a:
+  definition:
+  - confidence: 0.0
+    text: not compatible
+  ili: i2857
+  members:
+  - neamh-chomhoiriúnach
+  partOfSpeech: a
+00513664-a:
+  definition:
+  - confidence: 0.0
+    text: lacking the ability or skill to perform effectively; inadequate
+  ili: i2874
+  members:
+  - mí-éifeachtach
+  partOfSpeech: a
+00514412-a:
+  definition:
+  - confidence: 0.0
+    text: involving competition or competitiveness
+  ili: i2878
+  members:
+  - iomaíoch
+  partOfSpeech: a
+00516809-a:
+  definition:
+  - ag cur san áireamh na comhpháirteanna ar fad gan eisceacht; aonad amháin atá ann
+    nó an méid nó achar iomlán san áireamh; iomlán
+  example:
+  - thug sé a aird go hiomlán air
+  ili: i2893
+  members:
+  - iomlán
+  partOfSpeech: a
+  similar:
+  - 00517305-s
+00517305-s:
+  definition:
+  - an chainníocht nó an méid iomlán san áireamh; iomlán
+  example:
+  - scriosadh baile iomlán de bharr creatha talún
+  ili: i2894
+  members:
+  - iomlán
+  - lán
+  - uile
+  - uilig
+  - ar fad
+  - go léir
+  partOfSpeech: s
+  similar:
+  - 00516809-a
+00518464-a:
+  definition:
+  - confidence: 0.0
+    text: constituting or comprising a part or fraction of a possible whole or entirety
+  ili: i2900
+  members:
+  - codánach
+  partOfSpeech: a
+00522139-a:
+  definition:
+  - béile iomlán
+  ili: i2921
+  members:
+  - iomlán
+  - comhlán
+  - críochnaithe
+  partOfSpeech: a
+  similar:
+  - 00524524-s
+00524524-s:
+  definition:
+  - confidence: 0.0
+    text: performed comprehensively and completely; not superficial or partial
+  ili: i2931
+  members:
+  - cuimsitheach
+  - uileghabhálach
+  partOfSpeech: s
+  similar:
+  - 00522139-a
+00526870-a:
+  definition:
+  - confidence: 0.0
+    text: being or affecting only a part; not total
+  ili: i2945
+  members:
+  - páirteach
+  partOfSpeech: a
+00527630-a:
+  definition:
+  - confidence: 0.0
+    text: including all or everything
+  ili: i2949
+  members:
+  - cuimsitheach
+  - uileghabhálach
+  partOfSpeech: a
+  similar:
+  - 00528239-s
+  - 00529364-s
+  - 00530372-s
+00528239-s:
+  definition:
+  - fairsing i raon feidhme nó ábhar
+  example:
+  - méaduithe pá uilechoiteanna
+  ili: i2950
+  members:
+  - iomlán
+  - leathan
+  - ollmhór
+  - ar bhonn uilechoiteann
+  - uile-chuimsitheach
+  - gach rud san áireamh
+  - forleathan
+  - cuimsithe
+  - fairsing
+  partOfSpeech: s
+  similar:
+  - 00527630-a
+00529364-s:
+  definition:
+  - confidence: 0.0
+    text: of worldwide scope or applicability
+  ili: i2955
+  members:
+  - uilechoiteann
+  - uilíoch
+  partOfSpeech: s
+  similar:
+  - 00527630-a
+00530372-s:
+  definition:
+  - confidence: 0.0
+    text: full in all respects
+  ili: i2960
+  members:
+  - iomlánach
+  partOfSpeech: s
+  similar:
+  - 00527630-a
+00535112-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being comprehended or understood
+  ili: i2981
+  members:
+  - sothuigthe
+  partOfSpeech: a
+  similar:
+  - 00535672-s
+00535672-s:
+  definition:
+  - confidence: 0.0
+    text: capable of being apprehended or understood
+  ili: i2983
+  members:
+  - intuigthe
+  - sothuigthe
+  partOfSpeech: s
+  similar:
+  - 00535112-a
+00548866-a:
+  definition:
+  - confidence: 0.0
+    text: expressing much in few words
+  ili: i3058
+  members:
+  - achomair
+  partOfSpeech: a
+  similar:
+  - 00549386-s
+00549386-s:
+  definition:
+  - confidence: 0.0
+    text: concise and succinct
+  ili: i3060
+  members:
+  - achomair
+  partOfSpeech: s
+  similar:
+  - 00548866-a
+00552502-a:
+  definition:
+  - confidence: 0.0
+    text: forming an end or termination; especially putting an end to doubt or question
+  ili: i3072
+  members:
+  - cinntitheach
+  partOfSpeech: a
+00557545-a:
+  definition:
+  - confidence: 0.0
+    text: imposing or depending on or containing a condition
+  ili: i3099
+  members:
+  - coinníollach
+  partOfSpeech: a
+  similar:
+  - 00558544-s
+00558544-s:
+  definition:
+  - confidence: 0.0
+    text: under terms not final or fully worked out or agreed upon
+  ili: i3103
+  members:
+  - sealadach
+  partOfSpeech: s
+  similar:
+  - 00557545-a
+00558935-a:
+  definition:
+  - confidence: 0.0
+    text: not conditional
+  ili: i3105
+  members:
+  - neamhchoinníollach
+  partOfSpeech: a
+00559447-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being enforced
+  ili: i3108
+  members:
+  - infhorghníomhaithe
+  partOfSpeech: a
+00568607-a:
+  definition:
+  - confidence: 0.0
+    text: having a common boundary or edge; abutting; touching
+  ili: i3158
+  members:
+  - cóngarach
+  partOfSpeech: a
+00576723-a:
+  definition:
+  - confidence: 0.0
+    text: resistant to change, particularly in relation to politics or religion
+  ili: i3203
+  members:
+  - coimeádach
+  partOfSpeech: a
+00578540-a:
+  definition:
+  - confidence: 0.0
+    text: favoring or promoting reform (often by government action)
+  ili: i3213
+  members:
+  - forásach
+  partOfSpeech: a
+00579031-a:
+  definition:
+  - confidence: 0.0
+    text: (sometimes followed by 'with') in agreement or consistent or reliable
+  ili: i3216
+  members:
+  - comhsheasmhach
+  partOfSpeech: a
+00580271-a:
+  definition:
+  - confidence: 0.0
+    text: displaying a lack of consistency
+  ili: i3222
+  members:
+  - contrártha
+  - neamhréireach
+  partOfSpeech: a
+00583156-a:
+  definition:
+  - confidence: 0.0
+    text: having a quality that thrusts itself into attention
+  ili: i3236
+  members:
+  - feiceálach
+  - suntasach
+  partOfSpeech: a
+00587481-a:
+  definition:
+  - confidence: 0.0
+    text: constructing or tending to construct or improve or promote development
+  ili: i3251
+  members:
+  - cuiditheach
+  partOfSpeech: a
+00588876-a:
+  definition:
+  - confidence: 0.0
+    text: causing destruction or much damage
+  ili: i3258
+  members:
+  - díobhálach
+  - scriosach
+  partOfSpeech: a
+  similar:
+  - 00590069-s
+00590069-s:
+  definition:
+  - confidence: 0.0
+    text: of a substance, especially a strong acid; capable of destroying or eating
+      away by chemical action
+  ili: i3262
+  members:
+  - creimneach
+  partOfSpeech: s
+  similar:
+  - 00588876-a
+00592037-a:
+  definition:
+  - confidence: 0.0
+    text: filled with satisfaction
+  ili: i3272
+  members:
+  - sásta
+  partOfSpeech: a
+00595708-a:
+  definition:
+  - confidence: 0.0
+    text: never-ceasing
+  ili: i3295
+  members:
+  - leanúnach
+  - seasmhach
+  partOfSpeech: a
+00596473-a:
+  definition:
+  - confidence: 0.0
+    text: stopping and starting at irregular intervals
+  ili: i3299
+  members:
+  - uaineach
+  partOfSpeech: a
+00597095-a:
+  definition:
+  - confidence: 0.0
+    text: continuing in time or space without interruption
+  ili: i3303
+  members:
+  - leanúnach
+  partOfSpeech: a
+00604427-a:
+  definition:
+  - confidence: 0.0
+    text: marked by or capable of arousing controversy
+  ili: i3341
+  members:
+  - conspóideach
+  partOfSpeech: a
+  similar:
+  - 00604937-s
+00604937-s:
+  definition:
+  - confidence: 0.0
+    text: involving or likely to cause controversy
+  ili: i3343
+  members:
+  - conspóideach
+  partOfSpeech: s
+  similar:
+  - 00604427-a
+00607261-a:
+  definition:
+  - confidence: 0.0
+    text: suited to your comfort or purpose or needs
+  ili: i3356
+  members:
+  - áisiúil
+  partOfSpeech: a
+00607893-a:
+  definition:
+  - confidence: 0.0
+    text: following accepted customs and proprieties
+  ili: i3361
+  members:
+  - gnásúil
+  partOfSpeech: a
+00612923-a:
+  definition:
+  - confidence: 0.0
+    text: (weapons) deriving destructive energy from the release of atomic energy
+  ili: i3384
+  members:
+  - núicléach
+  partOfSpeech: a
+00613438-a:
+  definition:
+  - confidence: 0.0
+    text: consisting of or derived from tradition
+  ili: i3387
+  members:
+  - traidisiúnta
+  partOfSpeech: a
+00622827-a:
+  definition:
+  - confidence: 0.0
+    text: accomplished by collaboration
+  ili: i3454
+  members:
+  - comhoibritheach
+  partOfSpeech: a
+00626700-a:
+  definition:
+  - mór nó réasúnta mór i líon nó méid nó méid nó pointe
+  example:
+  - méid suntasach
+  ili: i3474
+  members:
+  - suntasach
+  - mór
+  partOfSpeech: a
+  similar:
+  - 00627729-s
+00627729-s:
+  definition:
+  - tábhacht, méid nó fiú suntasach
+  example:
+  - buaite le corrlach suntasach
+  ili: i3478
+  members:
+  - suntasach
+  - substaintiúil
+  partOfSpeech: s
+  similar:
+  - 00626700-a
+00629641-a:
+  definition:
+  - confidence: 0.0
+    text: derived from or composed of matter
+  ili: i3485
+  members:
+  - ábhartha
+  partOfSpeech: a
+  similar:
+  - 00629845-s
+00629845-s:
+  definition:
+  - confidence: 0.0
+    text: having substance or material existence; perceptible to the senses
+  ili: i3486
+  members:
+  - fisiceach
+  partOfSpeech: s
+  similar:
+  - 00629641-a
+00634232-a:
+  definition:
+  - saor ó earráid, gó háirithe ag cloí le fíric nó le fírinne
+  example:
+  - an freagra ceart
+  ili: i3513
+  members:
+  - ceart
+  - cruinn
+  - cuí
+  - fíor
+  partOfSpeech: a
+00635278-a:
+  definition:
+  - confidence: 0.0
+    text: not correct; not in conformity with fact or truth
+  ili: i3517
+  members:
+  - mícheart
+  partOfSpeech: a
+  similar:
+  - 00635789-s
+00635789-s:
+  definition:
+  - confidence: 0.0
+    text: containing or characterized by error
+  ili: i3518
+  members:
+  - earráideach
+  - lochtach
+  partOfSpeech: s
+  similar:
+  - 00635278-a
+00646272-a:
+  definition:
+  - confidence: 0.0
+    text: having the ability or power to create
+  ili: i3578
+  members:
+  - cruthaitheach
+  partOfSpeech: a
+00647861-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being believed
+  ili: i3585
+  members:
+  - inchreidte
+  partOfSpeech: a
+00648515-a:
+  definition:
+  - confidence: 0.0
+    text: beyond belief or understanding
+  ili: i3588
+  members:
+  - dochreidte
+  partOfSpeech: a
+00654957-a:
+  definition:
+  - confidence: 0.0
+    text: at or of a point at which a property or phenomenon suffers an abrupt change
+      especially having enough mass to sustain a chain reaction
+  ili: i3620
+  members:
+  - criticiúil
+  partOfSpeech: a
+00658802-a:
+  definition:
+  - confidence: 0.0
+    text: of extreme importance; vital to the resolution of a crisis
+  ili: i3644
+  members:
+  - ríthábhachtach
+  partOfSpeech: a
+  similar:
+  - 00659530-s
+00659530-s:
+  definition:
+  - confidence: 0.0
+    text: being of crucial importance
+  ili: i3647
+  members:
+  - ríthábhachtach
+  partOfSpeech: s
+  similar:
+  - 00658802-a
+00671045-a:
+  definition:
+  - confidence: 0.0
+    text: currently happening
+  ili: i3711
+  members:
+  - leanúnach
+  partOfSpeech: a
+00679196-a:
+  definition:
+  - confidence: 0.0
+    text: occurring by turns; first one and then the other
+  ili: i3764
+  members:
+  - malartach
+  partOfSpeech: a
+00681291-a:
+  definition:
+  - confidence: 0.0
+    text: completing its life cycle within a year
+  ili: i3778
+  members:
+  - bliantúil
+  partOfSpeech: a
+00681740-a:
+  definition:
+  - confidence: 0.0
+    text: lasting three seasons or more
+  ili: i3780
+  members:
+  - ilbhliantúil
+  partOfSpeech: a
+00685207-a:
+  definition:
+  - confidence: 0.0
+    text: lacking or deprived of the sense of hearing wholly or in part
+  ili: i3799
+  members:
+  - bodhar
+  partOfSpeech: a
+00687757-a:
+  definition:
+  - confidence: 0.0
+    text: determining or having the power to determine an outcome
+  ili: i3814
+  members:
+  - cinntitheach
+  partOfSpeech: a
+  similar:
+  - 00688059-s
+00688059-s:
+  definition:
+  - confidence: 0.0
+    text: having the power or quality of deciding
+  ili: i3815
+  members:
+  - cinntitheach
+  partOfSpeech: s
+  similar:
+  - 00687757-a
+00692950-a:
+  definition:
+  - confidence: 0.0
+    text: acceptable as a deduction (especially as a tax deduction)
+  ili: i3841
+  members:
+  - inasbhainte
+  partOfSpeech: a
+00693335-a:
+  definition:
+  - confidence: 0.0
+    text: having great spatial extension or penetration downward or inward from an
+      outer surface or backward or laterally or outward from a center; sometimes used
+      in combination
+  ili: i3844
+  members:
+  - domhain
+  partOfSpeech: a
+00694973-a:
+  definition:
+  - confidence: 0.0
+    text: lacking physical depth; having little spatial extension downward or inward
+      from an outer surface or backward or outward from a center
+  ili: i3850
+  members:
+  - éadomhain
+  partOfSpeech: a
+00699967-a:
+  definition:
+  - confidence: 0.0
+    text: inclined to comply
+  ili: i3876
+  members:
+  - géilliúil
+  partOfSpeech: a
+00702031-a:
+  definition:
+  - confidence: 0.0
+    text: resulting from or employing derivation
+  ili: i3887
+  members:
+  - díorthach
+  partOfSpeech: a
+00702966-a:
+  definition:
+  - confidence: 0.0
+    text: not derived from or reducible to something else; basic
+  ili: i3891
+  members:
+  - príomhúil
+  partOfSpeech: a
+00704329-a:
+  definition:
+  - deimhneach ach ní sonraithe nó aitheanta
+  example:
+  - cuir suim áirithe airgid i leataobh gach uile seachtain
+  ili: i3898
+  members:
+  - áirithe
+  - ar leith
+  partOfSpeech: a
+00704924-a:
+  definition:
+  - confidence: 0.0
+    text: vague or not clearly defined or stated
+  ili: i3901
+  members:
+  - éiginnte
+  partOfSpeech: a
+  similar:
+  - 00706087-s
+00706087-s:
+  definition:
+  - éiginnte ó thaobh ama nó suímh de
+  example:
+  - tiocfaidh sé lá amháin
+  ili: i3906
+  members:
+  - amháin
+  partOfSpeech: s
+  similar:
+  - 00704924-a
+00712660-a:
+  definition:
+  - confidence: 0.0
+    text: easily broken or damaged or destroyed
+  ili: i3936
+  members:
+  - leochaileach
+  partOfSpeech: a
+00714525-a:
+  definition:
+  - confidence: 0.0
+    text: demanding strict attention to rules and procedures
+  ili: i3946
+  members:
+  - dian
+  partOfSpeech: a
+00717023-a:
+  definition:
+  - confidence: 0.0
+    text: compelling immediate action
+  ili: i3958
+  members:
+  - práinneach
+  partOfSpeech: a
+00718584-a:
+  definition:
+  - confidence: 0.0
+    text: characterized by or advocating or based upon the principles of democracy
+      or social equality
+  ili: i3967
+  members:
+  - daonlathach
+  partOfSpeech: a
+  similar:
+  - 00720006-s
+00720006-s:
+  definition:
+  - confidence: 0.0
+    text: being or characteristic of government by representation in which citizens
+      exercise power through elected officers and representatives
+  ili: i3974
+  members:
+  - ionadaíoch
+  partOfSpeech: s
+  similar:
+  - 00718584-a
+00722368-a:
+  definition:
+  - confidence: 0.0
+    text: based on or subject to individual discretion or preference or sometimes
+      impulse or caprice
+  ili: i3981
+  members:
+  - treallach
+  partOfSpeech: a
+  similar:
+  - 00723263-s
+00723263-s:
+  definition:
+  - confidence: 0.0
+    text: having or using the ability to act or decide according to your own discretion
+      or judgment
+  ili: i3984
+  members:
+  - lánroghnach
+  partOfSpeech: s
+  similar:
+  - 00722368-a
+00727525-a:
+  definition:
+  - confidence: 0.0
+    text: worthy of reliance or trust
+  ili: i4009
+  members:
+  - iontaofa
+  partOfSpeech: a
+00729216-a:
+  definition:
+  - confidence: 0.0
+    text: relying on or requiring a person or thing for support, supply, or what is
+      needed
+  ili: i4017
+  members:
+  - cleithiúnach
+  - spleách
+  partOfSpeech: a
+00731008-a:
+  definition:
+  - saor ó smacht agus srian seachtrach
+  example:
+  - intinn neamhspleách
+  ili: i4026
+  members:
+  - neamhspleách
+  partOfSpeech: a
+  similar:
+  - 00731669-s
+  - 00732063-s
+00731669-s:
+  definition:
+  - confidence: 0.0
+    text: (of persons) free from external control and constraint in e.g. action and
+      judgment
+  ili: i4028
+  members:
+  - neamhspleách
+  partOfSpeech: s
+  similar:
+  - 00731008-a
+00732063-s:
+  definition:
+  - confidence: 0.0
+    text: having separated or advocating separation from another entity or policy
+      or attitude
+  ili: i4030
+  members:
+  - scarúnaíoch
+  partOfSpeech: s
+  similar:
+  - 00731008-a
+00735604-a:
+  definition:
+  - confidence: 0.0
+    text: not supporting or favoring either side in a war, dispute, or contest
+  ili: i4053
+  members:
+  - neodrach
+  partOfSpeech: a
+00735987-a:
+  definition:
+  - confidence: 0.0
+    text: pertaining to giving directives or rules
+  ili: i4055
+  members:
+  - saintreorach
+  partOfSpeech: a
+00736213-a:
+  definition:
+  - confidence: 0.0
+    text: serving to describe or inform or characterized by description
+  ili: i4056
+  members:
+  - tuairisciúil
+  partOfSpeech: a
+00736491-a:
+  definition:
+  - confidence: 0.0
+    text: worth having or seeking or achieving
+  ili: i4058
+  members:
+  - inmhianaithe
+  partOfSpeech: a
+00745450-a:
+  definition:
+  - confidence: 0.0
+    text: being changed over time so as to be e.g. stronger or more complete or more
+      useful
+  ili: i4111
+  members:
+  - forbartha
+  partOfSpeech: a
+00748528-a:
+  definition:
+  - gan a bheith éasca; ag éileamh ar chuid mhór iarrachta corpartha nó meabhraí chun
+    tasc a bhaint amach nó a thuiscint nó a mhaireachtáil
+  example:
+  - tasc deacair
+  ili: i4128
+  members:
+  - deacair
+  - casta
+  - crua
+  - dian
+  - doiligh
+  partOfSpeech: a
+00752852-a:
+  definition:
+  - gan aon deacracht; ag teastáil ar bheagán iarrachta
+  example:
+  - post éasca
+  ili: i4147
+  members:
+  - éasca
+  - furasta
+  partOfSpeech: a
+00764460-a:
+  definition:
+  - confidence: 0.0
+    text: direct in spatial dimensions; proceeding without deviation or interruption;
+      straight and short
+  ili: i4206
+  members:
+  - díreach
+  partOfSpeech: a
+00767176-a:
+  definition:
+  - confidence: 0.0
+    text: (of a current) flowing in one direction only
+  ili: i4218
+  members:
+  - díreach
+  partOfSpeech: a
+00774039-a:
+  definition:
+  - confidence: 0.0
+    text: having no intervening persons, agents, conditions
+  ili: i4247
+  members:
+  - díreach
+  partOfSpeech: a
+00774552-a:
+  definition:
+  - confidence: 0.0
+    text: having intervening factors or persons or influences
+  ili: i4249
+  members:
+  - indíreach
+  - neamhdhíreach
+  partOfSpeech: a
+00781922-a:
+  definition:
+  - confidence: 0.0
+    text: situated farthest from point of attachment or origin, as of a limb or bone
+  ili: i4291
+  members:
+  - aimhneasach
+  partOfSpeech: a
+00789239-a:
+  definition:
+  - confidence: 0.0
+    text: impossible of undergoing division
+  ili: i4328
+  members:
+  - doroinnte
+  partOfSpeech: a
+00794782-a:
+  definition:
+  - tionchar nó smacht a bheith agat ar
+  example:
+  - tá ról ceannasach ag an teilifís i ndearcadh an phobail a mhúnlú
+  ili: i4356
+  members:
+  - ceannasach
+  partOfSpeech: a
+  similar:
+  - 00795757-s
+00795757-s:
+  definition:
+  - confidence: 0.0
+    text: having superior power and influence
+  ili: i4360
+  members:
+  - ardcheannasach
+  - sáraitheach
+  partOfSpeech: s
+  similar:
+  - 00794782-a
+00800668-a:
+  definition:
+  - confidence: 0.0
+    text: suitable for drinking
+  ili: i4388
+  members:
+  - inólta
+  partOfSpeech: a
+00811761-a:
+  definition:
+  - confidence: 0.0
+    text: characterized by action or forcefulness or force of personality
+  ili: i4452
+  members:
+  - dinimiciúil
+  - fuinniúil
+  partOfSpeech: a
+00816521-a:
+  definition:
+  - ag nó gar do thús tréimhse ama nó do thús cúrsaí nó roimh an ghnáthama nó an t-am
+    a bhfuiltear ag súil leis
+  example:
+  - maidin luath
+  ili: i4479
+  members:
+  - luath
+  partOfSpeech: a
+00820050-a:
+  definition:
+  - a bheith nó a tharlaíonn ag ard tréimhse ama nó tar éis gnáth-ama nó ama ionchais
+  example:
+  - tráthnóna déanach
+  ili: i4495
+  members:
+  - deireanach
+  - déanach
+  partOfSpeech: a
+00820993-a:
+  definition:
+  - confidence: 0.0
+    text: being or occurring at an early stage of development
+  ili: i4500
+  members:
+  - luath
+  partOfSpeech: a
+00832318-a:
+  definition:
+  - confidence: 0.0
+    text: suitable for use as food
+  ili: i4556
+  members:
+  - inite
+  partOfSpeech: a
+00833035-a:
+  definition:
+  - confidence: 0.0
+    text: not suitable for food
+  ili: i4560
+  members:
+  - do-ite
+  partOfSpeech: a
+00837737-a:
+  definition:
+  - ag táirgeadh nó in ann toradh beartaithe a tháirgeadh nó a bhfuil éifeacht buailte
+    aige
+  example:
+  - bhí mótar aer-fuaraithe níos éifeachtaí ná scioból cailleach le haghaidh iompar
+    fad-achair tapa
+  ili: i4584
+  members:
+  - éifeachtach
+  - éifeachtúil
+  partOfSpeech: a
+00839148-a:
+  definition:
+  - confidence: 0.0
+    text: not producing an intended effect
+  ili: i4589
+  members:
+  - neamhéifeachtach
+  partOfSpeech: a
+00843158-a:
+  definition:
+  - confidence: 0.0
+    text: being effective without wasting time or effort or expense
+  ili: i4607
+  members:
+  - éifeachtach
+  partOfSpeech: a
+  similar:
+  - 00843642-s
+00843642-s:
+  definition:
+  - confidence: 0.0
+    text: productive relative to the cost
+  ili: i4609
+  members:
+  - cost-éifeachtúil
+  partOfSpeech: s
+  similar:
+  - 00843158-a
+00844441-a:
+  definition:
+  - confidence: 0.0
+    text: not producing desired results; wasteful
+  ili: i4614
+  members:
+  - neamhéifeachtach
+  partOfSpeech: a
+00850164-a:
+  definition:
+  - confidence: 0.0
+    text: appointed by nomination
+  ili: i4647
+  members:
+  - ainmnithe
+  partOfSpeech: a
+00850938-a:
+  definition:
+  - confidence: 0.0
+    text: possible but not necessary; left to personal choice
+  ili: i4653
+  members:
+  - roghnach
+  partOfSpeech: a
+00851890-a:
+  definition:
+  - confidence: 0.0
+    text: required by rule
+  ili: i4660
+  members:
+  - sainordaitheach
+  - éigeantach
+  partOfSpeech: a
+00854923-a:
+  definition:
+  - confidence: 0.0
+    text: qualified for or allowed or worthy of being chosen
+  ili: i4678
+  members:
+  - incháilithe
+  partOfSpeech: a
+00856167-a:
+  definition:
+  - confidence: 0.0
+    text: not eligible
+  ili: i4685
+  members:
+  - neamh-incháilithe
+  partOfSpeech: a
+00862104-a:
+  definition:
+  - confidence: 0.0
+    text: derived from experiment and observation rather than theory
+  ili: i4713
+  members:
+  - eimpíreach
+  partOfSpeech: a
+00863798-a:
+  definition:
+  - confidence: 0.0
+    text: concerned primarily with theories or hypotheses rather than practical considerations
+  ili: i4721
+  members:
+  - teoiriciúil
+  partOfSpeech: a
+  similar:
+  - 00864403-s
+  - 00865005-s
+00864403-s:
+  definition:
+  - confidence: 0.0
+    text: based primarily on surmise rather than adequate evidence
+  ili: i4724
+  members:
+  - hipitéiseach
+  partOfSpeech: s
+  similar:
+  - 00863798-a
+00865005-s:
+  definition:
+  - confidence: 0.0
+    text: not based on fact or investigation
+  ili: i4725
+  members:
+  - barúlach
+  partOfSpeech: s
+  similar:
+  - 00863798-a
+00880654-a:
+  definition:
+  - confidence: 0.0
+    text: serving in or intended for exploration or discovery
+  ili: i4812
+  members:
+  - taiscéalaíoch
+  partOfSpeech: a
+00882272-a:
+  definition:
+  - confidence: 0.0
+    text: designed to find information or ascertain facts
+  ili: i4820
+  members:
+  - imscrúdaitheach
+  partOfSpeech: a
+00883449-a:
+  definition:
+  - déanta níos mó i méid nó méid nó céim
+  ili: i4826
+  members:
+  - méadaithe
+  partOfSpeech: a
+00893124-a:
+  definition:
+  - a bhfuil an chainníocht chéanna, an luach nó an tomhas céanna acu le ceann eile
+  example:
+  - ar théarmaí comhionanna
+  ili: i4878
+  members:
+  - céanna
+  - comhionann
+  - cothrom
+  - ionann
+  partOfSpeech: a
+  similar:
+  - 00893644-s
+00893644-s:
+  definition:
+  - confidence: 0.0
+    text: being essentially equal to something
+  ili: i4879
+  members:
+  - coibhéiseach
+  - cothrom
+  - ionann
+  partOfSpeech: s
+  similar:
+  - 00893124-a
+00895672-a:
+  definition:
+  - confidence: 0.0
+    text: poorly balanced or matched in quantity or value or measure
+  ili: i4893
+  members:
+  - míchothrom
+  - éagothrom
+  partOfSpeech: a
+00896734-a:
+  definition:
+  - confidence: 0.0
+    text: being in a state of proper equilibrium
+  ili: i4900
+  members:
+  - cothrom
+  partOfSpeech: a
+00898735-a:
+  definition:
+  - confidence: 0.0
+    text: open to two or more interpretations; or of uncertain nature or significance;
+      or (often) intended to mislead
+  ili: i4912
+  members:
+  - débhríoch
+  partOfSpeech: a
+00903909-a:
+  definition:
+  - confidence: 0.0
+    text: basic and fundamental
+  ili: i4935
+  members:
+  - bunúsach
+  partOfSpeech: a
+  similar:
+  - 00905143-s
+  - 00905309-s
+00905143-s:
+  definition:
+  - confidence: 0.0
+    text: of or relating to the real nature or essential elements of something
+  ili: i4942
+  members:
+  - mór
+  - substaintiúil
+  - ábhartha
+  partOfSpeech: s
+  similar:
+  - 00903909-a
+00905309-s:
+  definition:
+  - confidence: 0.0
+    text: existing in essence or effect though not in actual fact
+  ili: i4943
+  members:
+  - fíorúil
+  partOfSpeech: s
+  similar:
+  - 00903909-a
+00907116-a:
+  definition:
+  - confidence: 0.0
+    text: urgently needed; absolutely necessary
+  ili: i4951
+  members:
+  - criticiúil
+  - riachtanach
+  - ríthábhachtach
+  partOfSpeech: a
+00908608-a:
+  definition:
+  - confidence: 0.0
+    text: conforming to accepted standards of social or professional behavior
+  ili: i4958
+  members:
+  - eiticiúil
+  partOfSpeech: a
+00913184-a:
+  definition:
+  - confidence: 0.0
+    text: having a surface without slope, tilt in which no part is higher or lower
+      than another
+  ili: i4980
+  members:
+  - comhréidh
+  - cothrom
+  - leata
+  partOfSpeech: a
+00916834-a:
+  definition:
+  - confidence: 0.0
+    text: of or relating to or part of trees or shrubs bearing cones and evergreen
+      leaves
+  ili: i5002
+  members:
+  - buaircíneach
+  partOfSpeech: a
+00917535-a:
+  definition:
+  - confidence: 0.0
+    text: marked by strict and particular and complete accordance with fact
+  ili: i5006
+  members:
+  - baileach
+  - cruinn
+  partOfSpeech: a
+00919820-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being exchanged for or replaced by something of equal value
+  ili: i5018
+  members:
+  - in-chomhshóite
+  - inmhalartaithe
+  partOfSpeech: a
+00921070-a:
+  definition:
+  - confidence: 0.0
+    text: of goods or commodities; freely exchangeable for or replaceable by another
+      of like nature or kind in the satisfaction of an obligation
+  ili: i5024
+  members:
+  - idirmhalartach
+  partOfSpeech: a
+00929061-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being renewed; replaceable
+  ili: i5074
+  members:
+  - in-athnuaite
+  partOfSpeech: a
+00929746-a:
+  definition:
+  - nach ídithe
+  example:
+  - builín feola fágtha
+  ili: i5078
+  members:
+  - corr
+  - fágtha
+  - fuílleach
+  partOfSpeech: a
+00936423-a:
+  definition:
+  - confidence: 0.0
+    text: high in price or charging high prices
+  ili: i5114
+  members:
+  - costasach
+  - daor
+  partOfSpeech: a
+00941928-a:
+  definition:
+  - confidence: 0.0
+    text: still legally acceptable
+  ili: i5143
+  members:
+  - bailí
+  partOfSpeech: a
+00943706-a:
+  definition:
+  - confidence: 0.0
+    text: precisely and clearly expressed or readily observable; leaving nothing to
+      implication
+  ili: i5151
+  members:
+  - follasach
+  partOfSpeech: a
+  similar:
+  - 00944238-s
+  - 00944417-s
+00944238-s:
+  definition:
+  - confidence: 0.0
+    text: clearly defined or formulated
+  ili: i5153
+  members:
+  - cinntitheach
+  partOfSpeech: s
+  similar:
+  - 00943706-a
+00944417-s:
+  definition:
+  - confidence: 0.0
+    text: not tacit or implied
+  ili: i5154
+  members:
+  - sainráite
+  partOfSpeech: s
+  similar:
+  - 00943706-a
+00944754-a:
+  definition:
+  - confidence: 0.0
+    text: implied though not directly expressed; inherent in the nature of something
+  ili: i5157
+  members:
+  - intuigthe
+  partOfSpeech: a
+  similar:
+  - 00945209-s
+00945209-s:
+  definition:
+  - confidence: 0.0
+    text: in the nature of something though not readily apparent
+  ili: i5158
+  members:
+  - bunúsach
+  partOfSpeech: s
+  similar:
+  - 00944754-a
+00951310-a:
+  definition:
+  - confidence: 0.0
+    text: happening or arising or located outside or beyond some limits or especially
+      surface
+  ili: i5194
+  members:
+  - eachtrach
+  - seachtrach
+  partOfSpeech: a
+00951878-a:
+  definition:
+  - confidence: 0.0
+    text: happening or arising or located within some limits or especially surface
+  ili: i5197
+  members:
+  - inmheánach
+  partOfSpeech: a
+  similar:
+  - 00952323-s
+00952323-s:
+  definition:
+  - confidence: 0.0
+    text: inside and toward a center
+  ili: i5199
+  members:
+  - inmheánach
+  partOfSpeech: s
+  similar:
+  - 00951878-a
+00952756-a:
+  definition:
+  - confidence: 0.0
+    text: being on the outside or further from a center
+  ili: i5202
+  members:
+  - forimeallach
+  - seachtrach
+  partOfSpeech: a
+00955021-a:
+  definition:
+  - confidence: 0.0
+    text: located inward
+  ili: i5216
+  members:
+  - inmheánach
+  partOfSpeech: a
+00959321-a:
+  definition:
+  - confidence: 0.0
+    text: free from favoritism or self-interest or bias or deception; conforming with
+      established standards or rules
+  ili: i5245
+  members:
+  - cothrom
+  - cóir
+  partOfSpeech: a
+00960366-a:
+  definition:
+  - confidence: 0.0
+    text: not fair; marked by injustice or partiality or deception
+  ili: i5250
+  members:
+  - míchothrom
+  - míchóir
+  - éagothrom
+  - éagórach
+  partOfSpeech: a
+00961341-a:
+  definition:
+  - confidence: 0.0
+    text: fair to all parties as dictated by reason and conscience
+  ili: i5254
+  members:
+  - cothrom
+  - cothromasach
+  partOfSpeech: a
+00970318-a:
+  definition:
+  - bheith cinnte as an ngnáth agus gan choinne; beagán corr nó fiú beagán aisteach
+  example:
+  - móradh aisteach a bhí doshonraithe
+  ili: i5298
+  members:
+  - aisteach
+  - neamhghnách
+  partOfSpeech: a
+  similar:
+  - 00971199-s
+00971199-s:
+  definition:
+  - thar nó ag imeacht ón ngnáthnós nó óna bhfuiltear ag súil leis
+  example:
+  - blas hibrideach aisteach
+  ili: i5301
+  members:
+  - uatha
+  - ait
+  - aisteach
+  - rumaí
+  partOfSpeech: s
+  similar:
+  - 00970318-a
+00979699-a:
+  definition:
+  - confidence: 0.0
+    text: acting or moving or capable of acting or moving quickly
+  ili: i5342
+  members:
+  - gasta
+  - mear
+  - tapa
+  partOfSpeech: a
+  similar:
+  - 00982222-s
+  - 00982557-s
+  - 00982888-s
+00982222-s:
+  definition:
+  - confidence: 0.0
+    text: occurring with no delay
+  ili: i5354
+  members:
+  - meandrach
+  partOfSpeech: s
+  similar:
+  - 00979699-a
+00982557-s:
+  definition:
+  - confidence: 0.0
+    text: accomplished rapidly and without delay
+  ili: i5356
+  members:
+  - gasta
+  - tapa
+  partOfSpeech: s
+  similar:
+  - 00979699-a
+00982888-s:
+  definition:
+  - confidence: 0.0
+    text: done or occurring in a brief period of time
+  ili: i5357
+  members:
+  - gasta
+  - mear
+  - tapa
+  partOfSpeech: s
+  similar:
+  - 00979699-a
+00995188-a:
+  definition:
+  - confidence: 0.0
+    text: containing or composed of fat
+  ili: i5428
+  members:
+  - sailleach
+  partOfSpeech: a
+  similar:
+  - 00995782-s
+00995782-s:
+  definition:
+  - confidence: 0.0
+    text: containing an unusual amount of grease or oil
+  ili: i5431
+  members:
+  - olúil
+  partOfSpeech: s
+  similar:
+  - 00995188-a
+00996879-a:
+  definition:
+  - confidence: 0.0
+    text: bringing death
+  ili: i5437
+  members:
+  - marfach
+  partOfSpeech: a
+  similar:
+  - 00997017-s
+  - 00997235-s
+00997017-s:
+  definition:
+  - confidence: 0.0
+    text: causing or capable of causing death
+  ili: i5438
+  members:
+  - marfach
+  partOfSpeech: s
+  similar:
+  - 00996879-a
+00997235-s:
+  definition:
+  - confidence: 0.0
+    text: of an instrument of certain death
+  ili: i5439
+  members:
+  - marfach
+  partOfSpeech: s
+  similar:
+  - 00996879-a
+00999158-a:
+  definition:
+  - confidence: 0.0
+    text: encouraging or approving or pleasing
+  ili: i5452
+  members:
+  - fabhrach
+  partOfSpeech: a
+00999867-a:
+  definition:
+  - confidence: 0.0
+    text: not encouraging or approving or pleasing
+  ili: i5455
+  members:
+  - neamhfhabhrach
+  partOfSpeech: a
+  similar:
+  - 01000455-s
+01000455-s:
+  definition:
+  - confidence: 0.0
+    text: contrary to your interests or welfare
+  ili: i5457
+  members:
+  - dochrach
+  - díobhálach
+  partOfSpeech: s
+  similar:
+  - 00999867-a
+01007109-a:
+  definition:
+  - confidence: 0.0
+    text: having finished or arrived at completion
+  ili: i5494
+  members:
+  - déanta
+  partOfSpeech: a
+01010155-a:
+  definition:
+  - confidence: 0.0
+    text: bounded or limited in magnitude or spatial or temporal extent
+  ili: i5513
+  members:
+  - finideach
+  partOfSpeech: a
+01013306-a:
+  definition:
+  - confidence: 0.0
+    text: serving to open or begin
+  ili: i5529
+  members:
+  - réamhráiteach
+  partOfSpeech: a
+01013868-a:
+  definition:
+  - ag tarlú ag an deireadh nó ag teacht chun críche
+  example:
+  - chuir a bhfocail deiridh iontas orainn
+  ili: i5532
+  members:
+  - deiridh
+  - deireanach
+  - scoir
+  partOfSpeech: a
+01014459-a:
+  definition:
+  - a bheith roimh gach ní eile ó thaobh ama nó spáis nó méid de
+  example:
+  - an chéad teach ar dheis
+  ili: i5535
+  members:
+  - 1ú
+  - chéad
+  partOfSpeech: a
+01016876-a:
+  definition:
+  - ag teacht i ndiadh a chéile in am nó spás nó céim nó a bheith mar an t-aon cheann
+    atá fágtha
+  example:
+  - an uair dheireanach a chonaic mé Párás
+  ili: i5545
+  members:
+  - deireanach
+  - deiridh
+  partOfSpeech: a
+01018989-a:
+  definition:
+  - confidence: 0.0
+    text: second last
+  ili: i5554
+  members:
+  - leathdhéanach
+  partOfSpeech: a
+01024009-a:
+  definition:
+  - confidence: 0.0
+    text: meeting adequate standards for a purpose
+  ili: i5582
+  members:
+  - oiriúnach
+  partOfSpeech: a
+  similar:
+  - 01024501-s
+01024501-s:
+  definition:
+  - confidence: 0.0
+    text: meant or adapted for an occasion or use
+  ili: i5584
+  members:
+  - cuí
+  - feiliúnach
+  - oiriúnach
+  partOfSpeech: s
+  similar:
+  - 01024009-a
+01024917-a:
+  definition:
+  - confidence: 0.0
+    text: below the required standards for a purpose
+  ili: i5586
+  members:
+  - mí-oiriúnach
+  partOfSpeech: a
+  similar:
+  - 01025223-s
+01025223-s:
+  definition:
+  - confidence: 0.0
+    text: not meant or adapted for a particular purpose
+  ili: i5588
+  members:
+  - mí-oiriúnach
+  partOfSpeech: s
+  similar:
+  - 01024917-a
+01025680-a:
+  definition:
+  - confidence: 0.0
+    text: able to flex; able to bend easily
+  ili: i5591
+  members:
+  - solúbtha
+  partOfSpeech: a
+01031778-a:
+  definition:
+  - confidence: 0.0
+    text: able to adjust readily to different conditions
+  ili: i5622
+  members:
+  - solúbtha
+  partOfSpeech: a
+01038689-a:
+  definition:
+  - confidence: 0.0
+    text: being or from or characteristic of another place or part of the world
+  ili: i5669
+  members:
+  - coimhthíoch
+  - eachtrannach
+  partOfSpeech: a
+01040065-a:
+  definition:
+  - confidence: 0.0
+    text: originating where it is found
+  ili: i5677
+  members:
+  - dúchasach
+  partOfSpeech: a
+01041222-a:
+  definition:
+  - confidence: 0.0
+    text: of concern to or concerning the affairs of other nations (other than your
+      own)
+  ili: i5683
+  members:
+  - eachtrannach
+  partOfSpeech: a
+  similar:
+  - 01041567-s
+01041567-s:
+  definition:
+  - confidence: 0.0
+    text: from or between other countries
+  ili: i5685
+  members:
+  - eachtrach
+  partOfSpeech: s
+  similar:
+  - 01041222-a
+01042014-a:
+  definition:
+  - confidence: 0.0
+    text: inside the country
+  ili: i5687
+  members:
+  - inmheánach
+  partOfSpeech: a
+01045598-a:
+  definition:
+  - confidence: 0.0
+    text: being in accord with established forms and conventions and requirements
+      (as e.g. of formal dress)
+  ili: i5708
+  members:
+  - foirmiúil
+  partOfSpeech: a
+01051260-a:
+  definition:
+  - bainteach leis an dara rogha de dhá rud nó beirt daoine a bhí luaite (nó an ceann
+    nó cinn dheireanach)
+  example:
+  - sa dara cás
+  ili: i5735
+  members:
+  - an dara
+  - deireanach
+  - déanach
+  partOfSpeech: a
+01054589-a:
+  definition:
+  - confidence: 0.0
+    text: deserving or inciting pity
+  ili: i5749
+  members:
+  - bocht
+  partOfSpeech: a
+01056127-a:
+  definition:
+  - confidence: 0.0
+    text: having a strong pleasant odor
+  ili: i5755
+  members:
+  - aramatach
+  partOfSpeech: a
+01064144-a:
+  definition:
+  - confidence: 0.0
+    text: not capable of being moved
+  ili: i5811
+  members:
+  - do-aistrithe
+  partOfSpeech: a
+01065188-a:
+  definition:
+  - gan a bheith teoranta nó bac; nach bhfuil faoi éigeantas nó srianadh
+  example:
+  - fiontar saor
+  ili: i5818
+  members:
+  - saor
+  partOfSpeech: a
+  similar:
+  - 01066082-s
+01066082-s:
+  definition:
+  - confidence: 0.0
+    text: (of political bodies) not controlled by outside forces
+  ili: i5820
+  members:
+  - neamhspleách
+  - uathrialach
+  partOfSpeech: s
+  similar:
+  - 01065188-a
+01071383-a:
+  definition:
+  - confidence: 0.0
+    text: recently made, produced, or harvested
+  ili: i5852
+  members:
+  - nua
+  - úr
+  partOfSpeech: a
+01074886-a:
+  definition:
+  - confidence: 0.0
+    text: not canned or otherwise preserved
+  ili: i5874
+  members:
+  - úr
+  partOfSpeech: a
+01078338-a:
+  definition:
+  - ar saintréith de chuid carad nó a fheileann do chara
+  example:
+  - comhairle chairdiúil
+  ili: i5897
+  members:
+  - cairdiúil
+  - muinteartha
+  partOfSpeech: a
+01085280-a:
+  definition:
+  - confidence: 0.0
+    text: producing new life or offspring
+  ili: i5936
+  members:
+  - atáirgeach
+  partOfSpeech: a
+01086845-a:
+  definition:
+  - ina bhfuil an oiread nó an oiread agus is féidir nó gnáth
+  example:
+  - gloine lán
+  ili: i5947
+  members:
+  - lán
+  - iomlán
+  partOfSpeech: a
+  similar:
+  - 01089350-s
+01089350-s:
+  definition:
+  - confidence: 0.0
+    text: filled with a great quantity
+  ili: i5960
+  members:
+  - ualaithe
+  partOfSpeech: s
+  similar:
+  - 01086845-a
+01090234-a:
+  definition:
+  - ag sealbhú nó ag coinneáil faic
+  example:
+  - gloine folamh
+  ili: i5968
+  members:
+  - folamh
+  partOfSpeech: a
+  similar:
+  - 01090782-s
+  - 01091666-s
+01090782-s:
+  definition:
+  - confidence: 0.0
+    text: (of a surface) not written or printed on
+  ili: i5970
+  members:
+  - bán
+  - folamh
+  partOfSpeech: s
+  similar:
+  - 01090234-a
+01091666-s:
+  definition:
+  - confidence: 0.0
+    text: without an occupant or incumbent
+  ili: i5975
+  members:
+  - folamh
+  partOfSpeech: s
+  similar:
+  - 01090234-a
+01094001-a:
+  definition:
+  - confidence: 0.0
+    text: designed for or capable of a particular function or use
+  ili: i5990
+  members:
+  - feidhmeach
+  - feidhmiúil
+  partOfSpeech: a
+01094927-a:
+  definition:
+  - confidence: 0.0
+    text: serving an esthetic rather than a useful purpose
+  ili: i5995
+  members:
+  - ornáideach
+  partOfSpeech: a
+01096064-a:
+  definition:
+  - confidence: 0.0
+    text: not functioning properly
+  ili: i6000
+  members:
+  - cearr
+  partOfSpeech: a
+01105084-a:
+  definition:
+  - a bheith bainteach le gach baill nó an chuid is mó de na baill i gcatagóir nó
+    grúpa
+  example:
+  - an pobal i gcoitinne
+  ili: i6058
+  members:
+  - ginearálta
+  - i gcoitinne
+  partOfSpeech: a
+  similar:
+  - 01105857-s
+  - 01106144-s
+  - 01106569-s
+01105857-s:
+  definition:
+  - confidence: 0.0
+    text: applicable to an entire class or group
+  ili: i6061
+  members:
+  - ginearálta
+  partOfSpeech: s
+  similar:
+  - 01105084-a
+01106144-s:
+  definition:
+  - confidence: 0.0
+    text: involving only main features
+  ili: i6063
+  members:
+  - ginearálta
+  partOfSpeech: s
+  similar:
+  - 01105084-a
+01106569-s:
+  definition:
+  - confidence: 0.0
+    text: widely circulated or diffused
+  ili: i6066
+  members:
+  - forleathan
+  partOfSpeech: s
+  similar:
+  - 01105084-a
+01106714-a:
+  definition:
+  - (uaireanta ina dhiaidh sin ag 'go') a bhaineann le nó arb iad is sainairíonna
+    nó idirdhealú a dhéanamh idir rud éigin ar leith nó speisialta nó uathúil
+  example:
+  - rialacha le cur i bhfeidhm ar leith
+  ili: i6067
+  members:
+  - sonrach
+  - sainiúil
+  - áirithe
+  partOfSpeech: a
+  similar:
+  - 01107719-s
+  - 01108153-s
+01107719-s:
+  definition:
+  - a bheith ag baint go sainiúil le duine nó rud nó catagóir
+  example:
+  - seo na héilimh ar leith don phoist
+  ili: i6071
+  members:
+  - speisialta
+  - áirithe
+  - ar leith
+  - aisteach
+  - ait
+  - saoithiúil
+  - leithleach
+  partOfSpeech: s
+  similar:
+  - 01106714-a
+01108153-s:
+  definition:
+  - deighilte agus éagsúil ó dhaoine eile den ghrúpa nó den chatagóir chéanna
+  example:
+  - spéis in ealaíontóir ar leith amháin
+  ili: i6072
+  members:
+  - áirithe
+  - ar leith
+  - sonrach
+  partOfSpeech: s
+  similar:
+  - 01106714-a
+01109822-a:
+  definition:
+  - náisiúnta, go háirithe maidir le tagairt do rialtas na Stát Aontaithe seachas
+    rialtas na mballaonad
+  example:
+  - an Biúró um Imscrúduithe Feidearálach
+  ili: i6079
+  members:
+  - feidearálach
+  partOfSpeech: a
+01110098-a:
+  definition:
+  - a bheith bainteach le riarachán cathrach nó baile nó ceantair seachas ceantar
+    mór
+  example:
+  - tacsaithe áitiúla
+  ili: i6080
+  members:
+  - áitiúil
+  partOfSpeech: a
+01111666-a:
+  definition:
+  - confidence: 0.0
+    text: withdrawn from a center or place of concentration; especially having power
+      or function dispersed from a central to local authorities
+  ili: i6088
+  members:
+  - díláraithe
+  partOfSpeech: a
+01112409-a:
+  definition:
+  - confidence: 0.0
+    text: characterizing or showing skill in or specialized knowledge of applied arts
+      and sciences
+  ili: i6092
+  members:
+  - teicniúil
+  partOfSpeech: a
+01113625-a:
+  definition:
+  - confidence: 0.0
+    text: protected by trademark or patent or copyright; made or produced or distributed
+      by one having exclusive rights
+  ili: i6097
+  members:
+  - dílsithe
+  partOfSpeech: a
+01114727-a:
+  definition:
+  - confidence: 0.0
+    text: willing to give and share unstintingly
+  ili: i6102
+  members:
+  - flaithiúil
+  partOfSpeech: a
+01119377-a:
+  definition:
+  - confidence: 0.0
+    text: not counterfeit or copied
+  ili: i6120
+  members:
+  - barántúil
+  partOfSpeech: a
+01122955-a:
+  definition:
+  - confidence: 0.0
+    text: endowed with talent or talents
+  ili: i6139
+  members:
+  - éirimiúil
+  partOfSpeech: a
+01126910-a:
+  definition:
+  - cáilíochtaí tarraingteacha nó deafacha a fháil, go háirithe cáilíochtaí a oireann
+    do rud sainithe
+  example:
+  - dea-scéala ón ospidéal
+  ili: i6163
+  members:
+  - maith
+  - breá
+  - dea-
+  partOfSpeech: a
+  similar:
+  - 01127641-s
+01127641-s:
+  definition:
+  - confidence: 0.0
+    text: excellent
+  ili: i6164
+  members:
+  - iontach
+  partOfSpeech: s
+  similar:
+  - 01126910-a
+01129296-a:
+  definition:
+  - tréithe neamh-inmhianaithe nó droch-tréithe ag an duine
+  example:
+  - drochthuairisc
+  ili: i6173
+  members:
+  - olc
+  partOfSpeech: a
+  similar:
+  - 01130122-s
+01130122-s:
+  definition:
+  - confidence: 0.0
+    text: exceptionally bad or displeasing
+  ili: i6174
+  members:
+  - uafásach
+  partOfSpeech: s
+  similar:
+  - 01129296-a
+01133477-a:
+  definition:
+  - confidence: 0.0
+    text: morally admirable
+  ili: i6195
+  members:
+  - maith
+  partOfSpeech: a
+01134543-a:
+  definition:
+  - confidence: 0.0
+    text: morally bad or wrong
+  ili: i6200
+  members:
+  - olc
+  partOfSpeech: a
+  similar:
+  - 01135435-s
+01135435-s:
+  definition:
+  - confidence: 0.0
+    text: stemming from evil characteristics or forces; wicked or dishonorable
+  ili: i6203
+  members:
+  - dubh
+  partOfSpeech: s
+  similar:
+  - 01134543-a
+01146764-a:
+  definition:
+  - confidence: 0.0
+    text: happening without warning or in a short space of time
+  ili: i6253
+  members:
+  - tobann
+  partOfSpeech: a
+  similar:
+  - 01147070-s
+01147070-s:
+  definition:
+  - confidence: 0.0
+    text: exceedingly sudden and unexpected
+  ili: i6254
+  members:
+  - tobann
+  partOfSpeech: s
+  similar:
+  - 01146764-a
+01149996-a:
+  definition:
+  - confidence: 0.0
+    text: feeling or showing gratitude
+  ili: i6273
+  members:
+  - buíoch
+  partOfSpeech: a
+01151786-a:
+  definition:
+  - ag baint sult as nó ag taispeáin nó a mharcáil le áthas nó le pléisiúir
+  example:
+  - meangadh sásta
+  ili: i6282
+  members:
+  - sásta
+  partOfSpeech: a
+01156249-a:
+  definition:
+  - confidence: 0.0
+    text: yielding readily to pressure or weight
+  ili: i6306
+  members:
+  - bog
+  partOfSpeech: a
+01162103-a:
+  definition:
+  - confidence: 0.0
+    text: characteristic of or containing alcohol
+  ili: i6338
+  members:
+  - alcólach
+  - meisciúil
+  partOfSpeech: a
+01163575-a:
+  definition:
+  - confidence: 0.0
+    text: causing or capable of causing harm
+  ili: i6347
+  members:
+  - dochrach
+  - díobhálach
+  partOfSpeech: a
+  similar:
+  - 01164603-s
+  - 01164777-s
+  - 01165179-s
+  - 01165421-s
+  - 01165528-s
+01164603-s:
+  definition:
+  - confidence: 0.0
+    text: harmful to living things
+  ili: i6351
+  members:
+  - díobhálach
+  partOfSpeech: s
+  similar:
+  - 01163575-a
+01164777-s:
+  definition:
+  - confidence: 0.0
+    text: (used of statements) harmful and often untrue; tending to discredit or malign
+  ili: i6352
+  members:
+  - clúmhillteach
+  partOfSpeech: s
+  similar:
+  - 01163575-a
+01165179-s:
+  definition:
+  - confidence: 0.0
+    text: extremely harmful; bringing physical or financial ruin
+  ili: i6353
+  members:
+  - turraingeach
+  partOfSpeech: s
+  similar:
+  - 01163575-a
+01165421-s:
+  definition:
+  - confidence: 0.0
+    text: tending to hinder the achievement of a goal
+  ili: i6354
+  members:
+  - fritorthúil
+  partOfSpeech: s
+  similar:
+  - 01163575-a
+01165528-s:
+  definition:
+  - confidence: 0.0
+    text: (sometimes followed by 'to') causing harm or injury
+  ili: i6355
+  members:
+  - dochrach
+  - díobhálach
+  partOfSpeech: s
+  similar:
+  - 01163575-a
+01169487-a:
+  definition:
+  - confidence: 0.0
+    text: tending to cure or restore to health
+  ili: i6376
+  members:
+  - teiripeach
+  - íceach
+  partOfSpeech: a
+01170419-a:
+  definition:
+  - confidence: 0.0
+    text: simple and healthful and close to nature
+  ili: i6380
+  members:
+  - orgánach
+  partOfSpeech: a
+01170813-a:
+  definition:
+  - confidence: 0.0
+    text: preventing or contributing to the prevention of disease
+  ili: i6382
+  members:
+  - próifiolacsach
+  partOfSpeech: a
+01173787-a:
+  definition:
+  - confidence: 0.0
+    text: having or indicating good health in body or mind; free from infirmity or
+      disease
+  ili: i6398
+  members:
+  - sláintiúil
+  partOfSpeech: a
+01179790-a:
+  definition:
+  - confidence: 0.0
+    text: caused by or altered by or manifesting disease or pathology
+  ili: i6429
+  members:
+  - paiteolaíoch
+  partOfSpeech: a
+01188475-a:
+  definition:
+  - de réir meáchain nó dlús coirp sách mór
+  example:
+  - ualach trom
+  ili: i6483
+  members:
+  - trom
+  partOfSpeech: a
+01189951-a:
+  definition:
+  - confidence: 0.0
+    text: of comparatively little physical weight or density
+  ili: i6491
+  members:
+  - éadrom
+  partOfSpeech: a
+01194226-a:
+  definition:
+  - confidence: 0.0
+    text: unusually great in degree or quantity or number
+  ili: i6512
+  members:
+  - mór
+  - trom
+  partOfSpeech: a
+01199079-a:
+  definition:
+  - confidence: 0.0
+    text: providing assistance or serving a useful function
+  ili: i6536
+  members:
+  - fóinteach
+  partOfSpeech: a
+01202280-a:
+  definition:
+  - confidence: 0.0
+    text: consisting of elements that are not of the same kind or nature
+  ili: i6555
+  members:
+  - ilchineálach
+  partOfSpeech: a
+  similar:
+  - 01202626-s
+01202626-s:
+  definition:
+  - confidence: 0.0
+    text: consisting of a haphazard assortment of different kinds
+  ili: i6556
+  members:
+  - ilchineálach
+  - ilghnéitheach
+  - measctha
+  partOfSpeech: s
+  similar:
+  - 01202280-a
+01203294-a:
+  definition:
+  - confidence: 0.0
+    text: all of the same or similar kind or nature
+  ili: i6559
+  members:
+  - aonchineálach
+  partOfSpeech: a
+01205665-a:
+  definition:
+  - confidence: 0.0
+    text: of or relating to or characterized by homosexual relations between woman
+  ili: i6572
+  members:
+  - leispiach
+  partOfSpeech: a
+01205960-a:
+  definition:
+  - confidence: 0.0
+    text: classified according to various criteria into successive levels or layers
+  ili: i6579
+  members:
+  - ordlathach
+  partOfSpeech: a
+01207229-a:
+  definition:
+  - (ciall litriúil) a bheith ag nó ingearchló sách mór nó sonrach nó síneadh aníos
+    aige (uaireanta a úsáidtear i dteaglaim cosúil le glúine-ard)
+  example:
+  - sliabh ard
+  ili: i6586
+  members:
+  - ard
+  partOfSpeech: a
+01209146-a:
+  definition:
+  - confidence: 0.0
+    text: being at or having a relatively small elevation or upward extension
+  ili: i6595
+  members:
+  - íseal
+  partOfSpeech: a
+01213526-a:
+  definition:
+  - níos airde ná mar is gnách ó thaobh cainníochta nó méid de
+  example:
+  - teocht ard
+  ili: i6627
+  members:
+  - ard
+  partOfSpeech: a
+01215141-a:
+  definition:
+  - níos lú ná an gnáth ó thaobh fairsinge nó déine nó méid de
+  example:
+  - phraghsanna ísle
+  ili: i6635
+  members:
+  - íseal
+  - beag
+  partOfSpeech: a
+01225031-a:
+  definition:
+  - confidence: 0.0
+    text: not disposed to cheat or defraud; not deceptive or fraudulent; marked by
+      truth
+  ili: i6695
+  members:
+  - macánta
+  partOfSpeech: a
+01226630-a:
+  definition:
+  - confidence: 0.0
+    text: involving deception
+  ili: i6700
+  members:
+  - calaoiseach
+  partOfSpeech: a
+01226942-a:
+  definition:
+  - confidence: 0.0
+    text: designed to deceive or mislead either deliberately or inadvertently
+  ili: i6701
+  members:
+  - míthreorach
+  partOfSpeech: a
+01232699-a:
+  definition:
+  - confidence: 0.0
+    text: arising from or marked by despair or loss of hope
+  ili: i6726
+  members:
+  - éadóchasach
+  partOfSpeech: a
+01235508-a:
+  definition:
+  - confidence: 0.0
+    text: parallel to or in the plane of the horizon or a base line
+  ili: i6743
+  members:
+  - cothrománach
+  partOfSpeech: a
+01249453-a:
+  definition:
+  - confidence: 0.0
+    text: characterized by friendship and good will
+  ili: i6821
+  members:
+  - cairdiúil
+  partOfSpeech: a
+01250274-a:
+  definition:
+  - úsáid teasa fisiceach; teocht ard nó níos airde ná an teocht inmhianaithe a bheith
+    aige nó teas a scaoileadh nó mothú nó mothú teasa nó dó a chur faoi deara
+  example:
+  - sorn teasa
+  ili: i6824
+  members:
+  - te
+  partOfSpeech: a
+01254201-a:
+  definition:
+  - teocht íseal nó neamhleor a bheith agat nó fuacht a mhothú nó a bheith déanta
+    mar gheall ar, mar shampla oighear nó cuisniú
+  example:
+  - aeráid fhuar
+  ili: i6846
+  members:
+  - fuar
+  partOfSpeech: a
+01260684-a:
+  definition:
+  - confidence: 0.0
+    text: extended meanings; especially of psychological coldness; without human warmth
+      or emotion
+  ili: i6881
+  members:
+  - fuar
+  partOfSpeech: a
+01266123-a:
+  definition:
+  - confidence: 0.0
+    text: (of persons or their actions) able or disposed to inflict pain or suffering
+  ili: i6906
+  members:
+  - brúidiúil
+  - cruálach
+  partOfSpeech: a
+01275507-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being identified
+  ili: i6946
+  members:
+  - inaitheanta
+  partOfSpeech: a
+  similar:
+  - 01276030-s
+01276030-s:
+  definition:
+  - confidence: 0.0
+    text: capable of being recognized
+  ili: i6950
+  members:
+  - inaitheanta
+  - so-aitheanta
+  partOfSpeech: s
+  similar:
+  - 01275507-a
+01278672-a:
+  definition:
+  - a bheith an-suntasach nó luachmhar
+  example:
+  - daoine tábhachtacha
+  ili: i6968
+  members:
+  - tábhachtach
+  - de thábhacht
+  - mór
+  partOfSpeech: a
+  similar:
+  - 01279982-s
+  - 01280207-s
+  - 01280536-s
+  - 01280863-s
+  - 01281928-s
+  - 01282138-s
+  - 01282845-s
+01279982-s:
+  definition:
+  - confidence: 0.0
+    text: significant
+  ili: i6972
+  members:
+  - mór
+  partOfSpeech: s
+  similar:
+  - 01278672-a
+01280207-s:
+  definition:
+  - ag fónamh mar chomhpháirt riachtanach
+  example:
+  - riail chairdinéalta
+  ili: i6974
+  members:
+  - príomhúil
+  - bunúsach
+  - cairdinéalta
+  - lárnach
+  - barrthábhachtach
+  partOfSpeech: s
+  similar:
+  - 01278672-a
+01280536-s:
+  definition:
+  - an ghné is tábhachtaí
+  example:
+  - príomhaidhm an tsaoil
+  ili: i6975
+  members:
+  - príomha
+  - príomh-
+  - ard-
+  - máistir-
+  partOfSpeech: s
+  similar:
+  - 01278672-a
+01280863-s:
+  definition:
+  - confidence: 0.0
+    text: having important issues or results
+  ili: i6976
+  members:
+  - iarmhartach
+  partOfSpeech: s
+  similar:
+  - 01278672-a
+01281928-s:
+  definition:
+  - de mhór-thábhacht
+  example:
+  - saothar ealaíne den scoth atá ann
+  ili: i6981
+  members:
+  - mór
+  - den scoth
+  - sár-
+  - iontach
+  partOfSpeech: s
+  similar:
+  - 01278672-a
+01282138-s:
+  definition:
+  - confidence: 0.0
+    text: important in history
+  ili: i6982
+  members:
+  - stairiúil
+  partOfSpeech: s
+  similar:
+  - 01278672-a
+01282845-s:
+  definition:
+  - confidence: 0.0
+    text: highly important to or an integral part of a strategy or plan of action
+      especially in war
+  ili: i6987
+  members:
+  - straitéiseach
+  partOfSpeech: s
+  similar:
+  - 01278672-a
+01284018-a:
+  definition:
+  - confidence: 0.0
+    text: (informal) small and of little importance
+  ili: i6991
+  members:
+  - beag
+  partOfSpeech: a
+01285602-a:
+  definition:
+  - confidence: 0.0
+    text: inspiring awe or admiration or wonder
+  ili: i6996
+  members:
+  - iontach
+  partOfSpeech: a
+01287304-a:
+  definition:
+  - iontach i gcuma nó an-chorraitheach i bhfeidhm
+  example:
+  - luí gréine drámatúil
+  ili: i7001
+  members:
+  - iontach
+  - suntasach
+  - drámatúil
+  partOfSpeech: a
+01288468-a:
+  definition:
+  - confidence: 0.0
+    text: characterized by grandeur
+  ili: i7005
+  members:
+  - iontach
+  partOfSpeech: a
+01305977-a:
+  definition:
+  - confidence: 0.0
+    text: (of disease) capable of being transmitted by infection
+  ili: i7099
+  members:
+  - teagmhálach
+  partOfSpeech: a
+01307737-a:
+  definition:
+  - confidence: 0.0
+    text: giving advice
+  ili: i7110
+  members:
+  - comhairleach
+  - comhchomhairleach
+  partOfSpeech: a
+01309228-a:
+  definition:
+  - confidence: 0.0
+    text: having much knowledge or education
+  ili: i7119
+  members:
+  - feasach
+  partOfSpeech: a
+01317491-a:
+  definition:
+  - confidence: 0.0
+    text: occurring among members of a family usually by heredity
+  ili: i7161
+  members:
+  - géiniteach
+  partOfSpeech: a
+01322826-a:
+  definition:
+  - confidence: 0.0
+    text: free from evil or guilt
+  ili: i7194
+  members:
+  - neamhchiontach
+  partOfSpeech: a
+01323940-a:
+  definition:
+  - confidence: 0.0
+    text: responsible for or chargeable with a reprehensible act
+  ili: i7198
+  members:
+  - ciontach
+  partOfSpeech: a
+  similar:
+  - 01325275-s
+01325275-s:
+  definition:
+  - confidence: 0.0
+    text: guilty of crime or serious offense
+  ili: i7204
+  members:
+  - coiriúil
+  partOfSpeech: s
+  similar:
+  - 01323940-a
+01327635-a:
+  definition:
+  - confidence: 0.0
+    text: serving or intended to explain or make clear
+  ili: i7220
+  members:
+  - mínitheach
+  partOfSpeech: a
+01338661-a:
+  definition:
+  - confidence: 0.0
+    text: being talented through inherited qualities
+  ili: i7283
+  members:
+  - nádúrtha
+  partOfSpeech: a
+01341128-a:
+  definition:
+  - confidence: 0.0
+    text: characterized by conscious design or purpose
+  ili: i7296
+  members:
+  - toiliúil
+  partOfSpeech: a
+01341768-a:
+  definition:
+  - confidence: 0.0
+    text: not deliberate
+  ili: i7298
+  members:
+  - neamhbheartaithe
+  partOfSpeech: a
+  similar:
+  - 01341947-s
+01341947-s:
+  definition:
+  - confidence: 0.0
+    text: happening by chance or unexpectedly or unintentionally
+  ili: i7299
+  members:
+  - timpisteach
+  - tionóisceach
+  partOfSpeech: s
+  similar:
+  - 01341768-a
+01344206-a:
+  definition:
+  - confidence: 0.0
+    text: moderating pain or sorrow by making it easier to bear
+  ili: i7311
+  members:
+  - maolaitheach
+  partOfSpeech: a
+01346766-a:
+  definition:
+  - ag dúiseacht nó ag coinneáil an aird
+  ili: i7324
+  members:
+  - suimiúil
+  - spéisiúil
+  partOfSpeech: a
+01349826-a:
+  definition:
+  - confidence: 0.0
+    text: occurring within an institution or community
+  ili: i7338
+  members:
+  - inmheánach
+  partOfSpeech: a
+01351106-a:
+  definition:
+  - confidence: 0.0
+    text: belonging to a thing by its very nature
+  ili: i7346
+  members:
+  - intreach
+  partOfSpeech: a
+  similar:
+  - 01351376-s
+01351376-s:
+  definition:
+  - confidence: 0.0
+    text: existing as an essential constituent or characteristic
+  ili: i7347
+  members:
+  - comhtháite
+  - riachtanach
+  partOfSpeech: s
+  similar:
+  - 01351106-a
+01353073-a:
+  definition:
+  - confidence: 0.0
+    text: coming from the outside
+  ili: i7353
+  members:
+  - seachtrach
+  partOfSpeech: a
+01364330-a:
+  definition:
+  - confidence: 0.0
+    text: showing or causing joy and pleasure; especially made happy
+  ili: i7421
+  members:
+  - sásta
+  partOfSpeech: a
+01364779-a:
+  definition:
+  - confidence: 0.0
+    text: experiencing or showing sorrow or unhappiness
+  ili: i7423
+  members:
+  - brónach
+  partOfSpeech: a
+01378100-a:
+  definition:
+  - gafa le cinnteacht
+  example:
+  - cainníocht aitheanta
+  ili: i7491
+  members:
+  - aitheanta
+  partOfSpeech: a
+  similar:
+  - 01378757-s
+01378757-s:
+  definition:
+  - ar eolas go forleathan agus meas
+  example:
+  - aisteoir clúiteach
+  ili: i7494
+  members:
+  - éirimiúil
+  - clúiteach
+  - iomráiteach
+  - cáiliúil
+  partOfSpeech: s
+  similar:
+  - 01378100-a
+01379820-a:
+  definition:
+  - confidence: 0.0
+    text: not known
+  ili: i7499
+  members:
+  - anaithnid
+  partOfSpeech: a
+01385012-a:
+  definition:
+  - os chionn an mheáin ó thaobh tomhais nó uimhreach nó cainníochta nó méid nó fairsinge
+    de
+  example:
+  - cathair mhór
+  ili: i7530
+  members:
+  - mór
+  - ollmhór
+  partOfSpeech: a
+  similar:
+  - 01388189-s
+  - 01388707-s
+  - 01389817-s
+  - 01390253-s
+  - 01392104-s
+  - 01386690-s
+01386690-s:
+  definition:
+  - mór i gcoibhneas le rud éigin eile
+  ili: i7534
+  members:
+  - níos mó
+  partOfSpeech: s
+  similar:
+  - 01385012-a
+01388189-s:
+  definition:
+  - thar a bheith mór i méid nó fairsinge nó méid nó cumhacht nó céim
+  example:
+  - bollán ollmhór
+  ili: i7544
+  members:
+  - as cuimse
+  - ollmhór
+  partOfSpeech: s
+  similar:
+  - 01385012-a
+01388707-s:
+  definition:
+  - confidence: 0.0
+    text: of great mass; huge and bulky
+  ili: i7546
+  members:
+  - ollmhór
+  partOfSpeech: s
+  similar:
+  - 01385012-a
+01389817-s:
+  definition:
+  - sách mór ó thaobh méid nó uimhreach nó fairsinge de; níos mó ná cinn eile dá leithéid
+  example:
+  - stéig shuánach mhór
+  ili: i7550
+  members:
+  - mór
+  partOfSpeech: s
+  similar:
+  - 01385012-a
+01390253-s:
+  definition:
+  - thar a bheith mór ó thaobh méide nó méid nó céim nó go háirithe méid nó raon feidhme
+  example:
+  - caiteachas rialtais ollmhóir
+  ili: i7552
+  members:
+  - ollmhór
+  - Brobdingnagian
+  partOfSpeech: s
+  similar:
+  - 01385012-a
+01392104-s:
+  definition:
+  - confidence: 0.0
+    text: imposing in size or bulk or solidity
+  ili: i7563
+  members:
+  - ollmhór
+  partOfSpeech: s
+  similar:
+  - 01385012-a
+01394303-a:
+  definition:
+  - a bheith teoranta nó faoi bhun an mheáin ó thaobh méid nó uimhreach nó cainníochta
+    nó fairsinge de
+  example:
+  - seomra bia beag
+  ili: i7579
+  members:
+  - beag
+  - mion-
+  partOfSpeech: a
+  similar:
+  - 01395201-s
+  - 01395585-s
+  - 01397927-s
+01395201-s:
+  definition:
+  - confidence: 0.0
+    text: very small
+  ili: i7582
+  members:
+  - bídeach
+  partOfSpeech: s
+  similar:
+  - 01394303-a
+01395585-s:
+  definition:
+  - confidence: 0.0
+    text: (used informally) little or tiny
+  ili: i7583
+  members:
+  - beag
+  partOfSpeech: s
+  similar:
+  - 01394303-a
+01397927-s:
+  definition:
+  - beag nó beag i gcoibhneas le rud éigin eile
+  ili: i7599
+  members:
+  - níos lú
+  partOfSpeech: s
+  similar:
+  - 01394303-a
+01398335-a:
+  definition:
+  - níos mó i méid nó tábhacht nó céim
+  example:
+  - ar son leas an phobail
+  ili: i7603
+  members:
+  - níos mó
+  partOfSpeech: a
+01403566-a:
+  definition:
+  - confidence: 0.0
+    text: established by or founded upon law or official or accepted rules
+  ili: i7638
+  members:
+  - dleathach
+  - dlíthiúil
+  partOfSpeech: a
+  similar:
+  - 01404228-s
+01404228-s:
+  definition:
+  - confidence: 0.0
+    text: authorized, sanctioned by, or in accordance with law
+  ili: i7642
+  members:
+  - dleathach
+  partOfSpeech: s
+  similar:
+  - 01403566-a
+01404858-a:
+  definition:
+  - confidence: 0.0
+    text: prohibited by law or by official or accepted rules
+  ili: i7646
+  members:
+  - mídhleathach
+  - neamhdhleathach
+  - neamhdhlíthiúil
+  partOfSpeech: a
+  similar:
+  - 01405767-s
+  - 01406764-s
+01405767-s:
+  definition:
+  - confidence: 0.0
+    text: involving or being or having the nature of a crime
+  ili: i7650
+  members:
+  - coiriúil
+  partOfSpeech: s
+  similar:
+  - 01404858-a
+01406764-s:
+  definition:
+  - confidence: 0.0
+    text: contrary to or forbidden by law
+  ili: i7656
+  members:
+  - aindleathach
+  - neamhcheadaithe
+  - neamhdhlisteanach
+  partOfSpeech: s
+  similar:
+  - 01404858-a
+01407728-a:
+  definition:
+  - confidence: 0.0
+    text: (of handwriting, print, etc.) capable of being read or deciphered
+  ili: i7662
+  members:
+  - inléite
+  - soléite
+  partOfSpeech: a
+01408240-a:
+  definition:
+  - confidence: 0.0
+    text: (of handwriting, print, etc.) not legible
+  ili: i7665
+  members:
+  - doléite
+  partOfSpeech: a
+01412553-a:
+  definition:
+  - cosúil nó a leithéid; a bhfuil na tréithe céanna nó cuid de na tréithe céanna
+    acu; úsáidtear go minic i dteannta a chéile
+  example:
+  - oireann dearadh cosúil
+  ili: i7691
+  members:
+  - cosúil
+  partOfSpeech: a
+01414308-a:
+  definition:
+  - le seans maith gur sin an cás nó go dtarlóidh rud
+  example:
+  - is dócha go mbeidh na seirbhísí seo ar fáil dúinn sula i bhfad
+  ili: i7700
+  members:
+  - is dócha
+  - dealraitheach
+  - dócha
+  - dóchúil
+  partOfSpeech: a
+01416084-a:
+  definition:
+  - confidence: 0.0
+    text: likely but not certain to be or become true or real
+  ili: i7708
+  members:
+  - dóchúil
+  partOfSpeech: a
+01417858-a:
+  definition:
+  - beag i raon nó scóip
+  example:
+  - cogadh teoranta
+  ili: i7721
+  members:
+  - teoranta
+  partOfSpeech: a
+01418456-a:
+  definition:
+  - confidence: 0.0
+    text: having no limits in range or scope
+  ili: i7724
+  members:
+  - neamhtheoranta
+  partOfSpeech: a
+01427929-a:
+  definition:
+  - confidence: 0.0
+    text: not charged with a bullet
+  ili: i7781
+  members:
+  - caoch
+  partOfSpeech: a
+01429146-a:
+  definition:
+  - confidence: 0.0
+    text: affecting an entire system
+  ili: i7789
+  members:
+  - sistéamach
+  partOfSpeech: a
+01433985-a:
+  definition:
+  - confidence: 0.0
+    text: inconsistent with reason or logic or common sense
+  ili: i7818
+  members:
+  - áiféiseach
+  partOfSpeech: a
+01436368-a:
+  definition:
+  - go príomha de réir brí spáis; de shíneadh spáis sách mór nó níos mó ná an meán
+    nó síneadh mar a sonraíodh
+  example:
+  - bóthar fada
+  ili: i7833
+  members:
+  - fada
+  partOfSpeech: a
+01438878-a:
+  definition:
+  - confidence: 0.0
+    text: (primarily spatial sense) having little length or lacking in length
+  ili: i7847
+  members:
+  - gearr
+  partOfSpeech: a
+01440837-a:
+  definition:
+  - go príomha de réir brí ama; ag cur in iúl achar fada nó achar níos faide ná an
+    meánachar nó imeacht ama nó achar mar a sonraíodh
+  example:
+  - saol fada
+  ili: i7859
+  members:
+  - fada
+  partOfSpeech: a
+  similar:
+  - 01442029-s
+01442029-s:
+  definition:
+  - confidence: 0.0
+    text: relatively long in duration; tediously protracted
+  ili: i7864
+  members:
+  - fada
+  - fadálach
+  partOfSpeech: s
+  similar:
+  - 01440837-a
+01445077-a:
+  definition:
+  - ciall ama go príomha, ag taispeáint nó go bhfuil nó cosúil le bheith teoranta
+    ó thaobh fad ama
+  example:
+  - saol gearr
+  ili: i7884
+  members:
+  - gearr
+  - gairid
+  partOfSpeech: a
+  similar:
+  - 01445717-s
+01445717-s:
+  definition:
+  - confidence: 0.0
+    text: of short duration or distance
+  ili: i7886
+  members:
+  - gearr
+  partOfSpeech: s
+  similar:
+  - 01445077-a
+01448808-a:
+  definition:
+  - confidence: 0.0
+    text: extending or lying across; in a crosswise direction; at right angles to
+      the long axis
+  ili: i7904
+  members:
+  - trasnach
+  partOfSpeech: a
+01474453-a:
+  definition:
+  - níos mó i raon feidhme nó éifeacht
+  example:
+  - ranníocaíocht mhór
+  ili: i8057
+  members:
+  - suntasach
+  partOfSpeech: a
+01474869-a:
+  definition:
+  - confidence: 0.0
+    text: not of legal age
+  ili: i8060
+  members:
+  - mionaoiseach
+  partOfSpeech: a
+01475771-a:
+  definition:
+  - tábhacht nó stádas nó céim níos mó
+  example:
+  - ceoltóir mór
+  ili: i8065
+  members:
+  - suntasach
+  - tábhachtach
+  partOfSpeech: a
+01490990-a:
+  definition:
+  - confidence: 0.0
+    text: directly relevant to a matter especially a law case
+  ili: i8159
+  members:
+  - tábhachtach
+  - ábhartha
+  partOfSpeech: a
+01491979-a:
+  definition:
+  - confidence: 0.0
+    text: (of animals) fully developed
+  ili: i8163
+  members:
+  - lánfhásta
+  partOfSpeech: a
+01493620-a:
+  definition:
+  - confidence: 0.0
+    text: of an organism prior to birth or hatching
+  ili: i8173
+  members:
+  - suthach
+  partOfSpeech: a
+01497421-a:
+  definition:
+  - confidence: 0.0
+    text: occurring at or dependent on a particular season
+  ili: i8195
+  members:
+  - séasúrach
+  partOfSpeech: a
+01498873-a:
+  definition:
+  - is mó nó is iomláine nó is fearr is féidir
+  example:
+  - leathnú uasta
+  ili: i8205
+  members:
+  - uas
+  - uasta
+  partOfSpeech: a
+01499316-a:
+  definition:
+  - an íos-féideartha
+  example:
+  - is gá chun caighdeáin íosta a chur i bhfeidhm
+  ili: i8207
+  members:
+  - íosta
+  partOfSpeech: a
+01500270-a:
+  definition:
+  - confidence: 0.0
+    text: having a meaning or purpose
+  ili: i8212
+  members:
+  - fiúntach
+  partOfSpeech: a
+01503365-a:
+  definition:
+  - confidence: 0.0
+    text: using (or as if using) mechanisms or tools or devices
+  ili: i8227
+  members:
+  - meicniúil
+  partOfSpeech: a
+01516027-a:
+  definition:
+  - confidence: 0.0
+    text: characterized by a high degree or intensity; often used as a combining form
+  ili: i8301
+  members:
+  - dian
+  partOfSpeech: a
+01518910-a:
+  definition:
+  - confidence: 0.0
+    text: connected by participation or association or use
+  ili: i8315
+  members:
+  - bainteach
+  partOfSpeech: a
+  similar:
+  - 01519363-s
+01519363-s:
+  definition:
+  - confidence: 0.0
+    text: taking part in an activity
+  ili: i8316
+  members:
+  - gníomhach
+  - páirteach
+  - rannpháirteach
+  partOfSpeech: s
+  similar:
+  - 01518910-a
+01522004-a:
+  definition:
+  - confidence: 0.0
+    text: associated with civil life or performed by persons who are not active members
+      of the military
+  ili: i8330
+  members:
+  - sibhialtach
+  partOfSpeech: a
+  similar:
+  - 01522244-s
+01522244-s:
+  definition:
+  - confidence: 0.0
+    text: applying to ordinary citizens as contrasted with the military
+  ili: i8331
+  members:
+  - sibhialta
+  partOfSpeech: s
+  similar:
+  - 01522004-a
+01526495-a:
+  definition:
+  - confidence: 0.0
+    text: moving or capable of moving readily (especially from place to place)
+  ili: i8356
+  members:
+  - móibíleach
+  partOfSpeech: a
+  similar:
+  - 01527843-s
+01527843-s:
+  definition:
+  - confidence: 0.0
+    text: capable of being moved or conveyed from one place to another
+  ili: i8363
+  members:
+  - inaistrithe
+  partOfSpeech: s
+  similar:
+  - 01526495-a
+01529439-a:
+  definition:
+  - confidence: 0.0
+    text: not able or intended to be moved
+  ili: i8374
+  members:
+  - dochorraithe
+  partOfSpeech: a
+01529895-a:
+  definition:
+  - confidence: 0.0
+    text: easily or conveniently transported
+  ili: i8377
+  members:
+  - inaistrithe
+  - iniompartha
+  partOfSpeech: a
+01530701-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being removed or taken away or dismissed
+  ili: i8382
+  members:
+  - inbhainte
+  partOfSpeech: a
+01531539-a:
+  definition:
+  - confidence: 0.0
+    text: containing or made of or resembling or characteristic of a metal
+  ili: i8387
+  members:
+  - miotalach
+  partOfSpeech: a
+  similar:
+  - 01532849-s
+01532849-s:
+  definition:
+  - confidence: 0.0
+    text: made from or covered with gold
+  ili: i8395
+  members:
+  - órga
+  partOfSpeech: s
+  similar:
+  - 01531539-a
+01535494-a:
+  definition:
+  - confidence: 0.0
+    text: being within reasonable or average limits; not excessive or extreme
+  ili: i8410
+  members:
+  - measartha
+  partOfSpeech: a
+  similar:
+  - 01536076-s
+  - 01536380-s
+01536076-s:
+  definition:
+  - confidence: 0.0
+    text: around the middle of a scale of evaluation
+  ili: i8411
+  members:
+  - meánach
+  partOfSpeech: s
+  similar:
+  - 01535494-a
+01536380-s:
+  definition:
+  - confidence: 0.0
+    text: not excessive or extreme
+  ili: i8413
+  members:
+  - réasúnta
+  partOfSpeech: s
+  similar:
+  - 01535494-a
+01538069-a:
+  definition:
+  - confidence: 0.0
+    text: beyond normal limits
+  ili: i8423
+  members:
+  - iomarcach
+  partOfSpeech: a
+01539365-a:
+  definition:
+  - confidence: 0.0
+    text: (used of opinions and actions) far beyond the norm
+  ili: i8428
+  members:
+  - radacach
+  partOfSpeech: a
+01539804-a:
+  definition:
+  - ag baint leis an ré comhaimseartha; ó na Meánaoiseanna
+  example:
+  - nua-ealaíon
+  ili: i8431
+  members:
+  - nua-aimseartha
+  - nua-aoiseach
+  - nua-
+  - comhaimseartha
+  partOfSpeech: a
+  similar:
+  - 01540189-s
+01540189-s:
+  definition:
+  - confidence: 0.0
+    text: characteristic of the present
+  ili: i8432
+  members:
+  - comhaimseartha
+  partOfSpeech: s
+  similar:
+  - 01539804-a
+01549738-a:
+  definition:
+  - confidence: 0.0
+    text: using or knowing more than one language
+  ili: i8488
+  members:
+  - ilteangach
+  partOfSpeech: a
+01552360-a:
+  definition:
+  - a bhaineann le prionsabail na ceart agus na héagóra nó a chomhlíonann caighdeáin
+    iompair agus carachtair atá bunaithe ar na prionsabail sin
+  example:
+  - ciall mhorálta
+  ili: i8503
+  members:
+  - morálta
+  partOfSpeech: a
+01555990-a:
+  definition:
+  - cainníochtóir a d'fhéadfadh a bheith úsáidte le ainmfhocal inchomhairthe; a dhéanann
+    tagairt d'uimhir mhór agus éiginnte; cainníochtóir, forainm iolra, forainm, iolra
+  example:
+  - go leor cathuithe
+  ili: i8520
+  members:
+  - go leor
+  - a lán
+  - mórán
+  - iomadúil
+  partOfSpeech: a
+  similar:
+  - 01556776-s
+  - 01556991-s
+01556776-s:
+  definition:
+  - confidence: 0.0
+    text: amounting to a large indefinite number
+  ili: i8523
+  members:
+  - iomadúil
+  - líonmhar
+  partOfSpeech: s
+  similar:
+  - 01555990-a
+01556991-s:
+  definition:
+  - sách go leor ach méid neamhshonraithe
+  example:
+  - bhí siad anseo ar feadh roinnte seachtaine
+  ili: i8524
+  members:
+  - roinnt
+  partOfSpeech: s
+  similar:
+  - 01555990-a
+01557242-a:
+  definition:
+  - cainníochtóir a d'fhéadfadh a bheith úsáidte le hainmfhocail inchomhairthe; uimhir
+    bheag ach éiginnte
+  example:
+  - cúpla seachtain ó shin
+  ili: i8526
+  members:
+  - cúpla
+  partOfSpeech: a
+  similar:
+  - 01557697-s
+01557697-s:
+  definition:
+  - níos mó ná amháin ach beag go deo ó thaobh uimhreach de
+  example:
+  - cúpla rós
+  ili: i8527
+  members:
+  - cúpla
+  - roinnt
+  partOfSpeech: s
+  similar:
+  - 01557242-a
+01557986-a:
+  definition:
+  - (cainníochtóir a úsáidtear le hainmfhocail mhaise) mór ó thaobh cainníochta nó
+    méid nó fairsinge de
+  example:
+  - gan an oiread sin báistí
+  ili: i8529
+  members:
+  - oiread
+  - go leor
+  - mórán
+  partOfSpeech: a
+  similar:
+  - 01558587-s
+01558587-s:
+  definition:
+  - ag méid as cuimse; taispeántach, forainm eile; cinntitheach taispeántach, cineál
+  example:
+  - an oiread sin olagóin
+  ili: i8532
+  members:
+  - a leithéid de
+  - chomh
+  - an oiread sin
+  partOfSpeech: s
+  similar:
+  - 01557986-a
+01558903-a:
+  definition:
+  - (cainníochtóir a úsáidtear le hainmfhocail mhaise) beag ó thaobh cainníochta nó
+    méid de; ní mórán nó beagnach ceann ar bith
+  example:
+  - ba bheag báisteach a thit i mí Bealtaine
+  ili: i8534
+  members:
+  - beag
+  partOfSpeech: a
+01559526-a:
+  definition:
+  - (breischéim 'mórán' a úsáidtear le hainmfhocail mhaise) cainníochtóir a chuireann
+    in iúl go bhfuil rud éigin níos mó ó thaobh tomhais nó méid nó fairsinge de; lastuas
+    de; níos mó ná
+  example:
+  - níos mó talaimh
+  ili: i8536
+  members:
+  - níos mó
+  - níos mó ná
+  partOfSpeech: a
+01559809-a:
+  definition:
+  - (comparáideach de 'beag' a úsáidtear de ghnáth le hainmfhocail mhaisithe)
+  example:
+  - ar lú tábhacht
+  ili: i8537
+  members:
+  - lúide
+  partOfSpeech: a
+01560125-a:
+  definition:
+  - an sárchéim 'mórán' ar féidir a úsáid le hainmfhocail mhaisigh agus cuirtear 'an'
+    roimhe de ghnáth; cainníochtóir a chiallaíonn an méid is mó ná fhairsinge ná chéim
+  example:
+  - rinne sé an t-airgead is mó a d'fhéadfadh sé
+  ili: i8538
+  members:
+  - is mó
+  partOfSpeech: a
+01560748-a:
+  definition:
+  - (breischéim de 'go leor' a bhíonn úsáidte le hainmfhocail inchomhairthe) cainníochtóir
+    a chiallaíonn 'níos mó' ó thaobh uimhreach de
+  example:
+  - halla le níos mó suíocháin
+  ili: i8540
+  members:
+  - níos mó
+  partOfSpeech: a
+01561513-a:
+  definition:
+  - (sárchéim 'mórán' atá úsáidte le hainmfhocail inchomhairthe) cainníochtóir a chuireann
+    in iúl an chainníocht is mó ó thaobh uimhreach de
+  example:
+  - cé leis an chuid is mó de na húlla?
+  ili: i8543
+  members:
+  - an chuid is mó de
+  - formhór
+  - bunús
+  partOfSpeech: a
+01572768-a:
+  definition:
+  - confidence: 0.0
+    text: concerning or belonging to all or at least two or more nations
+  ili: i8609
+  members:
+  - idirnáisiúnta
+  partOfSpeech: a
+  similar:
+  - 01573077-s
+  - 01573559-s
+01573077-s:
+  definition:
+  - confidence: 0.0
+    text: involving the entire earth; not limited or provincial in scope
+  ili: i8610
+  members:
+  - domhanda
+  partOfSpeech: s
+  similar:
+  - 01572768-a
+01573559-s:
+  definition:
+  - confidence: 0.0
+    text: involving or operating in several nations or nationalities
+  ili: i8612
+  members:
+  - ilnáisiúnta
+  - trasnáisiúnta
+  partOfSpeech: s
+  similar:
+  - 01572768-a
+01574358-a:
+  definition:
+  - confidence: 0.0
+    text: in accordance with nature; relating to or concerning nature
+  ili: i8616
+  members:
+  - nádúrtha
+  partOfSpeech: a
+01577961-a:
+  definition:
+  - confidence: 0.0
+    text: not of natural origin; prepared or made artificially
+  ili: i8633
+  members:
+  - sintéiseach
+  partOfSpeech: a
+01584261-a:
+  definition:
+  - confidence: 0.0
+    text: immediately before or after as in a chain of cause and effect
+  ili: i8661
+  members:
+  - láithreach
+  partOfSpeech: a
+01584458-a:
+  definition:
+  - ag teastáil
+  ili: i8662
+  members:
+  - riachtanach
+  partOfSpeech: a
+  similar:
+  - 01584714-s
+  - 01585183-s
+01584714-s:
+  definition:
+  - confidence: 0.0
+    text: absolutely necessary; vitally necessary
+  ili: i8663
+  members:
+  - bunriachtanach
+  - riachtanach
+  - sár-riachtanach
+  partOfSpeech: s
+  similar:
+  - 01584458-a
+01585183-s:
+  definition:
+  - riachtanach le haghaidh faoisimh nó soláthair
+  example:
+  - thug sí gach rud riachtanach dóibh
+  ili: i8665
+  members:
+  - riachtanach
+  - is gá
+  partOfSpeech: s
+  similar:
+  - 01584458-a
+01585523-a:
+  definition:
+  - confidence: 0.0
+    text: not necessary
+  ili: i8667
+  members:
+  - neamhriachtanach
+  partOfSpeech: a
+  similar:
+  - 01585713-s
+01585713-s:
+  definition:
+  - confidence: 0.0
+    text: more than is needed, desired, or required
+  ili: i8668
+  members:
+  - iomarcach
+  - spártha
+  partOfSpeech: s
+  similar:
+  - 01585523-a
+01587229-a:
+  definition:
+  - confidence: 0.0
+    text: before any deductions
+  ili: i8675
+  members:
+  - comhlán
+  partOfSpeech: a
+  similar:
+  - 01587354-s
+01587354-s:
+  definition:
+  - confidence: 0.0
+    text: including everything
+  ili: i8676
+  members:
+  - foriomlán
+  - iomlán
+  partOfSpeech: s
+  similar:
+  - 01587229-a
+01590750-a:
+  definition:
+  - confidence: 0.0
+    text: pleasant or pleasing or agreeable in nature or appearance
+  ili: i8695
+  members:
+  - deas
+  partOfSpeech: a
+01594522-a:
+  definition:
+  - confidence: 0.0
+    text: of or belonging to or constituting the hereditary aristocracy especially
+      as derived from feudal times
+  ili: i8711
+  members:
+  - uasal
+  partOfSpeech: a
+01598231-a:
+  definition:
+  - ag comhlíonadh le norm nó caighdeán nó leibhéal nó sórt nó norm sóisialta; gan
+    a bheith neamhghnách
+  example:
+  - riar an fhíona ag gnáththeocht an tseomra
+  ili: i8725
+  members:
+  - gnáth
+  - gnách
+  partOfSpeech: a
+  similar:
+  - 01598728-s
+  - 01599632-s
+01598728-s:
+  definition:
+  - timpeall an noirm staitistiúil nó an meáin nó an luacha a bhfuiltear ag súil leis
+  example:
+  - tá an meánioncam i New England níos ísle ná meánioncam an náisiúin
+  ili: i8726
+  members:
+  - meán
+  - meánach
+  partOfSpeech: s
+  similar:
+  - 01598231-a
+01599632-s:
+  definition:
+  - confidence: 0.0
+    text: functioning or occurring in a normal way; lacking abnormalities or deficiencies
+  ili: i8729
+  members:
+  - nádúrtha
+  partOfSpeech: s
+  similar:
+  - 01598231-a
+01600178-a:
+  definition:
+  - confidence: 0.0
+    text: not normal; not typical or usual or regular or conforming to a norm
+  ili: i8732
+  members:
+  - mínormálta
+  partOfSpeech: a
+  similar:
+  - 01601037-s
+01601037-s:
+  definition:
+  - confidence: 0.0
+    text: deviating from the general or common order or type
+  ili: i8734
+  members:
+  - aimhrialta
+  partOfSpeech: s
+  similar:
+  - 01600178-a
+01611230-a:
+  definition:
+  - i nó saintréith de réigiúin na Stát Aontaithe, ó dheisceart na líne Mason-Dixon
+  example:
+  - fáilte theas
+  ili: i8792
+  members:
+  - deisceartach
+  partOfSpeech: a
+01615012-a:
+  definition:
+  - confidence: 0.0
+    text: discovered or determined by scientific observation
+  ili: i8817
+  members:
+  - breathnaithe
+  partOfSpeech: a
+01619332-a:
+  definition:
+  - confidence: 0.0
+    text: undistorted by emotion or personal bias; based on observable phenomena
+  ili: i8838
+  members:
+  - oibiachtúil
+  partOfSpeech: a
+01620077-a:
+  definition:
+  - confidence: 0.0
+    text: taking place within the mind and modified by individual bias
+  ili: i8842
+  members:
+  - suibiachtúil
+  partOfSpeech: a
+01622205-a:
+  definition:
+  - éasca a bhrath agus a thuiscint
+  example:
+  - earráidí soiléirí
+  ili: i8857
+  members:
+  - soiléir
+  - follasach
+  partOfSpeech: a
+  similar:
+  - 01622528-s
+  - 01623870-s
+01622528-s:
+  definition:
+  - nochta go soiléir don intinn nó do na céadfaí nó do bhreithiúnas
+  example:
+  - tá éifeachtaí an triomach soiléir d'aon duine a fheiceann na páirceanna loiscthe
+  ili: i8858
+  members:
+  - inbhraite
+  - paitinn
+  - soiléir
+  - follasach
+  - léir
+  partOfSpeech: s
+  similar:
+  - 01622205-a
+01623870-s:
+  definition:
+  - confidence: 0.0
+    text: easily understood or seen through (because of a lack of subtlety)
+  ili: i8864
+  members:
+  - follasach
+  partOfSpeech: s
+  similar:
+  - 01622205-a
+01628191-a:
+  definition:
+  - confidence: 0.0
+    text: not occupied or in use
+  ili: i8888
+  members:
+  - saor
+  partOfSpeech: a
+01633007-a:
+  definition:
+  - confidence: 0.0
+    text: for the purpose of attack rather than defense
+  ili: i8913
+  members:
+  - ionsaitheach
+  partOfSpeech: a
+  similar:
+  - 01633742-s
+01633742-s:
+  definition:
+  - confidence: 0.0
+    text: involving invasion or aggressive attack
+  ili: i8917
+  members:
+  - ionrach
+  partOfSpeech: s
+  similar:
+  - 01633007-a
+01636580-a:
+  definition:
+  - confidence: 0.0
+    text: having official authority or sanction
+  ili: i8934
+  members:
+  - oifigiúil
+  partOfSpeech: a
+01637634-a:
+  definition:
+  - confidence: 0.0
+    text: not having official authority or sanction
+  ili: i8940
+  members:
+  - neamhoifigiúil
+  partOfSpeech: a
+01640266-a:
+  definition:
+  - confidence: 0.0
+    text: in accordance with recognized or accepted standards or principles
+  ili: i8953
+  members:
+  - dlisteanach
+  partOfSpeech: a
+01642580-a:
+  definition:
+  - d'achar fada; gan a bheith nua
+  example:
+  - seantraidisiún
+  ili: i8969
+  members:
+  - sean
+  partOfSpeech: a
+  similar:
+  - 01643588-s
+01643588-s:
+  definition:
+  - confidence: 0.0
+    text: made in or typical of earlier times and valued for its age
+  ili: i8972
+  members:
+  - ársa
+  partOfSpeech: s
+  similar:
+  - 01642580-a
+01645077-a:
+  definition:
+  - ní de thréimhse fhada; rud éigin atá díreach tar éis teacht ann nó a rinneadh
+    nó a fuarthas nó a aimsíodh
+  example:
+  - dlí nua
+  ili: i8983
+  members:
+  - nua
+  - úr
+  - úrnua
+  partOfSpeech: a
+  similar:
+  - 01647099-s
+  - 01646919-s
+01646919-s:
+  definition:
+  - nua
+  example:
+  - céimithe nuashealbhaithe
+  ili: i8991
+  members:
+  - úrnua
+  partOfSpeech: s
+  similar:
+  - 01645077-a
+01647099-s:
+  definition:
+  - confidence: 0.0
+    text: markedly new or introducing radical change
+  ili: i8992
+  members:
+  - réabhlóideach
+  partOfSpeech: s
+  similar:
+  - 01645077-a
+01648062-a:
+  definition:
+  - (úsáidte go háirithe le daoine) tar éis maireachtáil ar feadh tréimhse sách fhada
+    nó aois áirithe a shroicheadh
+  example:
+  - tá a mháthair an-sean
+  ili: i8999
+  members:
+  - sean
+  partOfSpeech: a
+01651383-a:
+  definition:
+  - (ag baint le dúil bheo, go háirithe daoine) i dtréimhse luath an tsaoil nó na
+    forbartha nó an fháis
+  example:
+  - daoine óga
+  ili: i9017
+  members:
+  - óg
+  - neamhaibí
+  partOfSpeech: a
+01656822-a:
+  definition:
+  - ag tabhairt bealaigh isteach agus amach gan bhac, ní dúnta ná druidte
+  example:
+  - doras oscailte
+  ili: i9053
+  members:
+  - oscailte
+  partOfSpeech: a
+01657224-a:
+  definition:
+  - confidence: 0.0
+    text: not open
+  ili: i9056
+  members:
+  - dúnta
+  partOfSpeech: a
+01665994-a:
+  definition:
+  - confidence: 0.0
+    text: done or happening at the appropriate or proper time
+  ili: i9112
+  members:
+  - tráthúil
+  partOfSpeech: a
+01671982-a:
+  definition:
+  - confidence: 0.0
+    text: in regular succession without gaps
+  ili: i9145
+  members:
+  - comhleanúnach
+  - leanúnach
+  - seicheamhach
+  partOfSpeech: a
+01677162-a:
+  definition:
+  - gan a bheith eisceachtúil ar bhealach ar bith go háirithe ó thaobh cáilíochta
+    nó cumais nó méide nó céime
+  example:
+  - gnáthrudaí laethúla
+  ili: i9172
+  members:
+  - gnáth-
+  partOfSpeech: a
+01679784-a:
+  definition:
+  - confidence: 0.0
+    text: beyond what is ordinary or usual; highly unusual or exceptional or remarkable;
+      special
+  ili: i9182
+  members:
+  - urghnách
+  partOfSpeech: a
+  similar:
+  - 01681111-s
+  - 01683076-s
+  - 01682025-s
+  - 01682215-s
+01681111-s:
+  definition:
+  - thar a bheith maith nó iontach, úsáidtear go háirithe mar dhianaitheoirí
+  example:
+  - turas iontach chuig an Orient
+  ili: i9186
+  members:
+  - iontach
+  - millteanach
+  - fíormhaith
+  - an-
+  - den scoth
+  - aoibhinn
+  - éachtach
+  - ar fheabhas
+  partOfSpeech: s
+  similar:
+  - 01679784-a
+01682025-s:
+  definition:
+  - géarchéim mhór
+  ili: i9189
+  members:
+  - mór
+  partOfSpeech: s
+  similar:
+  - 01679784-a
+01682215-s:
+  definition:
+  - (neamhfhoirmiúil) an-; úsáidte go neamhfhoirmiúil mar mhír threise
+  example:
+  - madra an-bhreá atá ann
+  ili: i9190
+  members:
+  - an-
+  - fíor-
+  partOfSpeech: s
+  similar:
+  - 01679784-a
+01683076-s:
+  definition:
+  - confidence: 0.0
+    text: unusual or striking
+  ili: i9194
+  members:
+  - suntasach
+  partOfSpeech: s
+  similar:
+  - 01679784-a
+01683714-a:
+  definition:
+  - confidence: 0.0
+    text: relating or belonging to the class of chemical compounds having a carbon
+      basis
+  ili: i9198
+  members:
+  - orgánach
+  partOfSpeech: a
+01683903-a:
+  definition:
+  - confidence: 0.0
+    text: relating or belonging to the class of compounds not having a carbon basis
+  ili: i9199
+  members:
+  - neamhorgánach
+  partOfSpeech: a
+01684118-a:
+  definition:
+  - confidence: 0.0
+    text: being or relating to or derived from or having properties characteristic
+      of living organisms
+  ili: i9200
+  members:
+  - orgánach
+  partOfSpeech: a
+01685218-a:
+  definition:
+  - confidence: 0.0
+    text: composed of matter other than plant or animal
+  ili: i9206
+  members:
+  - mianrach
+  partOfSpeech: a
+01685348-a:
+  definition:
+  - confidence: 0.0
+    text: emphasizing the organic or functional relation between parts and the whole
+  ili: i9207
+  members:
+  - iomlánaíoch
+  partOfSpeech: a
+01691809-a:
+  definition:
+  - bunaidh agus de chineál nach bhfacthas riamh cheana
+  example:
+  - tháirg an ríomhaire cruthúnas úrnua ar theoirim aitheanta
+  ili: i9239
+  members:
+  - úr
+  - nua
+  - núíosach
+  partOfSpeech: a
+01692228-a:
+  definition:
+  - confidence: 0.0
+    text: being or producing something like nothing done or experienced or created
+      before
+  ili: i9241
+  members:
+  - nuálach
+  partOfSpeech: a
+01710108-a:
+  definition:
+  - confidence: 0.0
+    text: secret or hidden; not openly practiced or engaged in or shown or avowed
+  ili: i9351
+  members:
+  - ceilte
+  partOfSpeech: a
+01714268-a:
+  definition:
+  - confidence: 0.0
+    text: not paid
+  ili: i9373
+  members:
+  - neamhíoctha
+  partOfSpeech: a
+  similar:
+  - 01714713-s
+01714713-s:
+  definition:
+  - confidence: 0.0
+    text: costing nothing
+  ili: i9375
+  members:
+  - saor
+  partOfSpeech: s
+  similar:
+  - 01714268-a
+01722394-a:
+  definition:
+  - confidence: 0.0
+    text: being everywhere equidistant and not intersecting
+  ili: i9424
+  members:
+  - comhthreomhar
+  partOfSpeech: a
+01724515-a:
+  definition:
+  - confidence: 0.0
+    text: intersecting at or forming right angles
+  ili: i9435
+  members:
+  - ingearach
+  partOfSpeech: a
+01726375-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being justified
+  ili: i9448
+  members:
+  - inchosanta
+  partOfSpeech: a
+01728582-a:
+  definition:
+  - confidence: 0.0
+    text: composed of distinct particles
+  ili: i9461
+  members:
+  - cáithníneach
+  partOfSpeech: a
+01728957-a:
+  definition:
+  - confidence: 0.0
+    text: able to be sailed on or through safely
+  ili: i9464
+  members:
+  - inseolta
+  partOfSpeech: a
+01732158-a:
+  definition:
+  - níos luaithe ná an t-am i láthair; a thuilleadh reatha
+  example:
+  - am thart
+  ili: i9483
+  members:
+  - thart
+  - caite
+  partOfSpeech: a
+  similar:
+  - 01732846-s
+  - 01733798-s
+  - 01734292-s
+  - 01734561-s
+01732846-s:
+  definition:
+  - confidence: 0.0
+    text: belonging to times long past especially of the historical period before
+      the fall of the Western Roman Empire
+  ili: i9485
+  members:
+  - ársa
+  partOfSpeech: s
+  similar:
+  - 01732158-a
+01733798-s:
+  definition:
+  - a bhaineann le tamall roimh ré
+  example:
+  - seanchara
+  ili: i9489
+  members:
+  - uair
+  - sean
+  - aon-uaire
+  - sean-
+  partOfSpeech: s
+  similar:
+  - 01732158-a
+01734292-s:
+  definition:
+  - confidence: 0.0
+    text: belonging to the past; of what is important or famous in the past
+  ili: i9491
+  members:
+  - stairiúil
+  partOfSpeech: s
+  similar:
+  - 01732158-a
+01734561-s:
+  definition:
+  - díreach thart
+  example:
+  - an Déardaoin seo caite
+  ili: i9492
+  members:
+  - deireanach
+  - deiridh
+  partOfSpeech: s
+  similar:
+  - 01732158-a
+01735600-a:
+  definition:
+  - de réir brí ama; idir an t-am atá thart agus an todhchaí; atá ann nó ag tarlú
+    nó mar chúiteamh
+  example:
+  - an ceannaire atá ann
+  ili: i9499
+  members:
+  - láithreach
+  - i láthair
+  - ann
+  partOfSpeech: a
+01739133-a:
+  definition:
+  - confidence: 0.0
+    text: characteristic of a mother
+  ili: i9523
+  members:
+  - máthartha
+  partOfSpeech: a
+01741490-a:
+  definition:
+  - confidence: 0.0
+    text: restless or short-tempered under delay or opposition
+  ili: i9535
+  members:
+  - mífhoighneach
+  partOfSpeech: a
+01745141-a:
+  definition:
+  - confidence: 0.0
+    text: not disturbed by strife or turmoil or war
+  ili: i9560
+  members:
+  - síochánta
+  partOfSpeech: a
+01753804-a:
+  definition:
+  - confidence: 0.0
+    text: being complete of its kind and without defect or blemish
+  ili: i9602
+  members:
+  - foirfe
+  partOfSpeech: a
+01757421-a:
+  definition:
+  - confidence: 0.0
+    text: having a defect
+  ili: i9622
+  members:
+  - fabhtach
+  - lochtach
+  partOfSpeech: a
+01757867-a:
+  definition:
+  - confidence: 0.0
+    text: liable to perish; subject to destruction or death or decay
+  ili: i9625
+  members:
+  - meatach
+  partOfSpeech: a
+  similar:
+  - 01758154-s
+01758154-s:
+  definition:
+  - confidence: 0.0
+    text: capable of being decomposed by e.g. bacteria
+  ili: i9626
+  members:
+  - in-bhithmhillte
+  partOfSpeech: s
+  similar:
+  - 01757867-a
+01758923-a:
+  definition:
+  - confidence: 0.0
+    text: continuing or enduring without marked change in status or condition or place
+  ili: i9631
+  members:
+  - buan
+  partOfSpeech: a
+01760139-a:
+  definition:
+  - confidence: 0.0
+    text: not permanent; not lasting
+  ili: i9636
+  members:
+  - sealadach
+  partOfSpeech: a
+  similar:
+  - 01761995-s
+01761995-s:
+  definition:
+  - confidence: 0.0
+    text: serving during an intermediate interval of time
+  ili: i9643
+  members:
+  - eatramhach
+  partOfSpeech: s
+  similar:
+  - 01760139-a
+01763874-a:
+  definition:
+  - confidence: 0.0
+    text: incapable of being reversed
+  ili: i9655
+  members:
+  - do-athraithe
+  partOfSpeech: a
+01765182-a:
+  definition:
+  - confidence: 0.0
+    text: incapable of being retracted or revoked
+  ili: i9663
+  members:
+  - neamh-inchúlghairthe
+  partOfSpeech: a
+01765456-a:
+  definition:
+  - confidence: 0.0
+    text: that may be permitted especially as according to rule
+  ili: i9665
+  members:
+  - ceadaithe
+  - ceadmhach
+  - incheadaithe
+  partOfSpeech: a
+01766383-a:
+  definition:
+  - confidence: 0.0
+    text: deserving to be admitted
+  ili: i9670
+  members:
+  - incheadaithe
+  - inghlactha
+  partOfSpeech: a
+01767094-a:
+  definition:
+  - confidence: 0.0
+    text: not deserving to be admitted
+  ili: i9674
+  members:
+  - neamh-inghlactha
+  partOfSpeech: a
+01769407-a:
+  definition:
+  - confidence: 0.0
+    text: taken in advance to protect against possible danger or failure
+  ili: i9686
+  members:
+  - réamhchúramach
+  partOfSpeech: a
+01771841-a:
+  definition:
+  - a bhaineann le nó a dtéann i bhfeidhm ar dhuine ar leith nó dá shaol príobháideach
+    agus pearsantacht
+  example:
+  - gar pearsanta
+  ili: i9698
+  members:
+  - pearsanta
+  partOfSpeech: a
+  similar:
+  - 01773236-s
+01773236-s:
+  definition:
+  - gur le duine áirithe a bhfuil rud éigin (go háirithe tú féin);
+  example:
+  - tá a lochtanna féin ag gach carr
+  ili: i9704
+  members:
+  - féin
+  partOfSpeech: s
+  similar:
+  - 01771841-a
+01775648-a:
+  definition:
+  - confidence: 0.0
+    text: serving to warn
+  ili: i9716
+  members:
+  - eiseamláireach
+  partOfSpeech: a
+01782757-a:
+  definition:
+  - a bhaineann leis an gcorp mar atá idirdhealú idir an intinn nó an spiorad
+  example:
+  - aclaíochta
+  ili: i9759
+  members:
+  - fisiciúil
+  - fisiceach
+  partOfSpeech: a
+  similar:
+  - 01783117-s
+01783117-s:
+  definition:
+  - confidence: 0.0
+    text: marked by the appetites and passions of the body
+  ili: i9760
+  members:
+  - ainmhíoch
+  partOfSpeech: s
+  similar:
+  - 01782757-a
+01785621-a:
+  definition:
+  - confidence: 0.0
+    text: mental or emotional as opposed to physical in nature
+  ili: i9771
+  members:
+  - síceolaíoch
+  partOfSpeech: a
+01803966-a:
+  definition:
+  - confidence: 0.0
+    text: apparently reasonable and credible, and therefore convincing
+  ili: i9887
+  members:
+  - inchreidte
+  - sochreidte
+  partOfSpeech: a
+01805299-a:
+  definition:
+  - confidence: 0.0
+    text: affording pleasure; being in harmony with your taste or likings
+  ili: i9892
+  members:
+  - taitneamhach
+  partOfSpeech: a
+01810406-a:
+  definition:
+  - confidence: 0.0
+    text: experiencing or manifesting pleasure
+  ili: i9912
+  members:
+  - sásta
+  partOfSpeech: a
+01819670-a:
+  definition:
+  - a bhaineann le polaitíocht nó le páirtithe nó le polaiteoirí nó sáintréith de
+    chuid na polaitaíochta
+  example:
+  - is gníomh polaitiúil ann féin é cruinniú a ghairm
+  ili: i9968
+  members:
+  - polaitiúil
+  partOfSpeech: a
+  similar:
+  - 01819996-s
+01819996-s:
+  definition:
+  - confidence: 0.0
+    text: relating to or dealing with the affairs or structure of government or politics
+      or the state
+  ili: i9969
+  members:
+  - rialtasach
+  partOfSpeech: s
+  similar:
+  - 01819670-a
+01822909-a:
+  definition:
+  - nach bhfuil i bhfabhar (aicsean nó moladh etc.)
+  ili: i9986
+  members:
+  - in aghaidh
+  partOfSpeech: a
+01823004-a:
+  definition:
+  - confidence: 0.0
+    text: characterized by or displaying affirmation or acceptance or certainty etc.
+  ili: i9987
+  members:
+  - dearfach
+  partOfSpeech: a
+01823738-a:
+  definition:
+  - confidence: 0.0
+    text: characterized by or displaying negation or denial or opposition or resistance;
+      having no positive features
+  ili: i9990
+  members:
+  - diúltach
+  partOfSpeech: a
+01826770-a:
+  definition:
+  - bheith ina fhéidearthacht tarlú
+  example:
+  - tá sé indéanta go mbeidh fionnachtain againn an bhliain seo chugainn
+  ili: i10007
+  members:
+  - indéanta
+  partOfSpeech: a
+  similar:
+  - 01827194-s
+  - 01828067-s
+01827194-s:
+  definition:
+  - confidence: 0.0
+    text: capable of existing or taking place or proving true; possible to do
+  ili: i10008
+  members:
+  - indéanta
+  partOfSpeech: s
+  similar:
+  - 01826770-a
+01828067-s:
+  definition:
+  - confidence: 0.0
+    text: capable of being done with means at hand and circumstances as they are
+  ili: i10012
+  members:
+  - féideartha
+  - indéanta
+  - inoibrithe
+  - praiticiúil
+  partOfSpeech: s
+  similar:
+  - 01826770-a
+01828578-a:
+  definition:
+  - nach bhfuil in ann tarlú nó a chur i gcrích nó déileáil le
+  example:
+  - aisling dhodhéanta
+  ili: i10014
+  members:
+  - dodhéanta
+  partOfSpeech: a
+01829730-a:
+  definition:
+  - confidence: 0.0
+    text: having a strong physiological or chemical effect
+  ili: i10019
+  members:
+  - láidir
+  partOfSpeech: a
+01832045-a:
+  definition:
+  - confidence: 0.0
+    text: serving or intended to coerce
+  ili: i10029
+  members:
+  - comhéigneach
+  partOfSpeech: a
+01833960-a:
+  definition:
+  - confidence: 0.0
+    text: not having authority, political strength, or governing power
+  ili: i10041
+  members:
+  - lag
+  partOfSpeech: a
+01839119-a:
+  definition:
+  - confidence: 0.0
+    text: left unplowed and unseeded during a growing season
+  ili: i10075
+  members:
+  - bán
+  partOfSpeech: a
+01841127-a:
+  definition:
+  - confidence: 0.0
+    text: concerned with practical matters
+  ili: i10086
+  members:
+  - pragmatach
+  partOfSpeech: a
+01841381-a:
+  definition:
+  - confidence: 0.0
+    text: usable for a specific purpose
+  ili: i10087
+  members:
+  - inoibrithe
+  partOfSpeech: a
+01842067-a:
+  definition:
+  - confidence: 0.0
+    text: not practical; not workable or not given to practical matters
+  ili: i10091
+  members:
+  - neamhphraiticiúil
+  partOfSpeech: a
+01843460-a:
+  definition:
+  - confidence: 0.0
+    text: sharply exact or accurate or delimited
+  ili: i10097
+  members:
+  - beacht
+  - cruinn
+  partOfSpeech: a
+01847210-a:
+  definition:
+  - confidence: 0.0
+    text: not as far along as normal in development
+  ili: i10115
+  members:
+  - moillithe
+  partOfSpeech: a
+01847459-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being foretold
+  ili: i10117
+  members:
+  - intuartha
+  partOfSpeech: a
+  similar:
+  - 01847614-s
+01847614-s:
+  definition:
+  - confidence: 0.0
+    text: capable of being anticipated
+  ili: i10118
+  members:
+  - intuartha
+  partOfSpeech: s
+  similar:
+  - 01847459-a
+01849304-a:
+  definition:
+  - confidence: 0.0
+    text: made ready or fit or suitable beforehand
+  ili: i10129
+  members:
+  - ullamh
+  partOfSpeech: a
+01852337-a:
+  definition:
+  - a bheith nó atá ann in áit shonraithe
+  example:
+  - tá an dúnmharfóir i láthair sa seomra seo
+  ili: i10145
+  members:
+  - láithreach
+  partOfSpeech: a
+01858102-a:
+  definition:
+  - confidence: 0.0
+    text: of first rank or importance or value; direct and immediate rather than secondary
+  ili: i10175
+  members:
+  - príomha
+  partOfSpeech: a
+01860057-a:
+  definition:
+  - confidence: 0.0
+    text: functioning in a supporting capacity
+  ili: i10184
+  members:
+  - cúntach
+  partOfSpeech: a
+01861659-a:
+  definition:
+  - a bhaineann le bonn nó a chomhdhéanann é
+  example:
+  - fíric bhunúsach
+  ili: i10194
+  members:
+  - bunrudaí
+  - bunata
+  - bunúsach
+  partOfSpeech: a
+  similar:
+  - 01862151-s
+01862151-s:
+  definition:
+  - confidence: 0.0
+    text: of or being the essential or basic part
+  ili: i10196
+  members:
+  - bunúsach
+  partOfSpeech: s
+  similar:
+  - 01861659-a
+01864034-a:
+  definition:
+  - teoranta do dhaoine nó grúpaí ar leith nó a sholáthraíonn príobháideacht
+  example:
+  - áit phríobháideach
+  ili: i10205
+  members:
+  - príobháideach
+  partOfSpeech: a
+01867145-a:
+  definition:
+  - gan a bheith príobháideach; a bheith oscailte do nó ag baint leis an bpobal
+  example:
+  - leas an phobail
+  ili: i10220
+  members:
+  - poiblí
+  partOfSpeech: a
+  similar:
+  - 01867850-s
+01867850-s:
+  definition:
+  - confidence: 0.0
+    text: open to or in view of all
+  ili: i10223
+  members:
+  - oscailte
+  partOfSpeech: s
+  similar:
+  - 01867145-a
+01869630-a:
+  definition:
+  - confidence: 0.0
+    text: including much or everything; and especially including stated limits
+  ili: i10233
+  members:
+  - cuimsitheach
+  - uilechuimsitheach
+  partOfSpeech: a
+01870073-a:
+  definition:
+  - confidence: 0.0
+    text: blessed with privileges
+  ili: i10235
+  members:
+  - pribhléideach
+  partOfSpeech: a
+01870616-a:
+  definition:
+  - confidence: 0.0
+    text: marked by deprivation especially of the necessities of life or healthful
+      environmental influences
+  ili: i10238
+  members:
+  - díothach
+  partOfSpeech: a
+01871147-a:
+  definition:
+  - confidence: 0.0
+    text: producing or capable of producing (especially abundantly)
+  ili: i10240
+  members:
+  - táirgiúil
+  partOfSpeech: a
+  similar:
+  - 01871757-s
+01871757-s:
+  definition:
+  - confidence: 0.0
+    text: (of farmland) capable of being farmed productively
+  ili: i10242
+  members:
+  - arúil
+  partOfSpeech: s
+  similar:
+  - 01871147-a
+01874674-a:
+  definition:
+  - confidence: 0.0
+    text: engaged in a profession or engaging in as a profession or means of livelihood
+  ili: i10260
+  members:
+  - gairmiúil
+  - proifisiúnta
+  partOfSpeech: a
+01876050-a:
+  definition:
+  - confidence: 0.0
+    text: characteristic of or befitting a profession or one engaged in a profession
+  ili: i10266
+  members:
+  - gairmiúil
+  - proifisiúnta
+  partOfSpeech: a
+01876839-a:
+  definition:
+  - confidence: 0.0
+    text: yielding material gain or profit
+  ili: i10269
+  members:
+  - brabúsach
+  partOfSpeech: a
+01879953-a:
+  definition:
+  - confidence: 0.0
+    text: appearing as such but not necessarily so
+  ili: i10284
+  members:
+  - dealraitheach
+  partOfSpeech: a
+01882105-a:
+  definition:
+  - confidence: 0.0
+    text: favoring or promoting progress
+  ili: i10295
+  members:
+  - forchéimnitheach
+  - forásach
+  partOfSpeech: a
+01884565-a:
+  definition:
+  - marcáilte ag oiriúnacht nó ceart nó oiriúnacht
+  example:
+  - cóireáil leighis cuí
+  ili: i10311
+  members:
+  - cuí
+  - ceart
+  partOfSpeech: a
+01889997-a:
+  definition:
+  - confidence: 0.0
+    text: of or concerned with or related to the future
+  ili: i10335
+  members:
+  - ionchasach
+  partOfSpeech: a
+01890843-a:
+  definition:
+  - confidence: 0.0
+    text: affecting things past
+  ili: i10339
+  members:
+  - aisghníomhach
+  partOfSpeech: a
+01893175-a:
+  definition:
+  - confidence: 0.0
+    text: intended or adapted to afford protection of some kind
+  ili: i10354
+  members:
+  - cosanta
+  - cosantach
+  partOfSpeech: a
+01895355-a:
+  definition:
+  - confidence: 0.0
+    text: feeling self-respect or pleasure in something by which you measure your
+      self-worth; or being a reason for pride
+  ili: i10365
+  members:
+  - bródúil
+  partOfSpeech: a
+01900483-a:
+  definition:
+  - confidence: 0.0
+    text: not proved
+  ili: i10387
+  members:
+  - neamhchruthaithe
+  partOfSpeech: a
+01904196-a:
+  definition:
+  - confidence: 0.0
+    text: careful and sensible; marked by sound judgment
+  ili: i10408
+  members:
+  - stuama
+  partOfSpeech: a
+01907298-a:
+  definition:
+  - confidence: 0.0
+    text: after the expected or usual time; delayed
+  ili: i10422
+  members:
+  - déanach
+  partOfSpeech: a
+01908580-a:
+  definition:
+  - confidence: 0.0
+    text: inflicting punishment
+  ili: i10429
+  members:
+  - pionósach
+  partOfSpeech: a
+01910664-a:
+  definition:
+  - confidence: 0.0
+    text: produced by crossbreeding
+  ili: i10440
+  members:
+  - hibrideach
+  partOfSpeech: a
+01911832-a:
+  definition:
+  - confidence: 0.0
+    text: free of extraneous elements of any kind
+  ili: i10448
+  members:
+  - íon
+  partOfSpeech: a
+01921311-a:
+  definition:
+  - confidence: 0.0
+    text: expressible as a quantity or relating to or susceptible of measurement
+  ili: i10502
+  members:
+  - cainníochtúil
+  partOfSpeech: a
+  similar:
+  - 01921734-s
+  - 01921967-s
+01921734-s:
+  definition:
+  - confidence: 0.0
+    text: numbered or proceeding by tens; based on ten
+  ili: i10503
+  members:
+  - deachúlach
+  partOfSpeech: s
+  similar:
+  - 01921311-a
+01921967-s:
+  definition:
+  - confidence: 0.0
+    text: measured or expressed in numbers
+  ili: i10505
+  members:
+  - uimhriúil
+  partOfSpeech: s
+  similar:
+  - 01921311-a
+01923975-a:
+  definition:
+  - confidence: 0.0
+    text: not as expected
+  ili: i10516
+  members:
+  - amhrasach
+  partOfSpeech: a
+01925383-a:
+  definition:
+  - confidence: 0.0
+    text: free of noise or uproar; or making little if any sound
+  ili: i10525
+  members:
+  - ciúin
+  partOfSpeech: a
+01931399-a:
+  definition:
+  - confidence: 0.0
+    text: being or having a random variable
+  ili: i10555
+  members:
+  - stocastach
+  partOfSpeech: a
+01931771-a:
+  definition:
+  - confidence: 0.0
+    text: consistent with or based on or using reason
+  ili: i10558
+  members:
+  - réasúnach
+  partOfSpeech: a
+01932775-a:
+  definition:
+  - confidence: 0.0
+    text: not consistent with or using reason
+  ili: i10563
+  members:
+  - neamhréasúnach
+  partOfSpeech: a
+01933678-a:
+  definition:
+  - confidence: 0.0
+    text: determined or actuated by emotion rather than reason
+  ili: i10568
+  members:
+  - mothúchánach
+  partOfSpeech: a
+01936403-a:
+  definition:
+  - confidence: 0.0
+    text: having only a limited ability to react chemically; chemically inactive
+  ili: i10584
+  members:
+  - neodrach
+  - támh
+  partOfSpeech: a
+01936911-a:
+  definition:
+  - a bheith go hiomlán ullmhaithe nó i gcoinníoll chun gnímh láithrigh nó úsáid nó
+    forás
+  example:
+  - bí réidh
+  ili: i10587
+  members:
+  - réidh
+  - ullamh
+  partOfSpeech: a
+01939402-a:
+  definition:
+  - a bheith i nó a bheith ag tarlú go dáiríre; le beithsine deimhnithe; gan a bheith
+    meabhlach
+  example:
+  - fíor-rudaí
+  ili: i10598
+  members:
+  - fíor
+  - réadúil
+  - réadach
+  partOfSpeech: a
+01946601-a:
+  definition:
+  - confidence: 0.0
+    text: aware or expressing awareness of things as they really are
+  ili: i10625
+  members:
+  - réadúil
+  - réalaíoch
+  partOfSpeech: a
+01950023-a:
+  definition:
+  - confidence: 0.0
+    text: showing reason or sound judgment
+  ili: i10639
+  members:
+  - réasúnta
+  partOfSpeech: a
+01951277-a:
+  definition:
+  - confidence: 0.0
+    text: not reasonable; not showing good judgment
+  ili: i10643
+  members:
+  - míréasúnta
+  partOfSpeech: a
+  similar:
+  - 01951967-s
+01951967-s:
+  definition:
+  - confidence: 0.0
+    text: lacking justification or authorization
+  ili: i10647
+  members:
+  - éagórach
+  partOfSpeech: s
+  similar:
+  - 01951277-a
+01952167-a:
+  definition:
+  - confidence: 0.0
+    text: concerning each of two or more persons or things; especially given or done
+      in return
+  ili: i10648
+  members:
+  - cómhalartach
+  - frithpháirteach
+  partOfSpeech: a
+  similar:
+  - 01953056-s
+01953056-s:
+  definition:
+  - confidence: 0.0
+    text: capable of acting on or influencing each other
+  ili: i10652
+  members:
+  - idirghníomhach
+  partOfSpeech: s
+  similar:
+  - 01952167-a
+01959465-a:
+  definition:
+  - confidence: 0.0
+    text: (used especially of commodities) being unprocessed or manufactured using
+      only simple or minimal processes
+  ili: i10687
+  members:
+  - amh
+  - nádúrtha
+  partOfSpeech: a
+01962882-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being recovered or regained
+  ili: i10708
+  members:
+  - inghnóthaithe
+  partOfSpeech: a
+01966104-a:
+  definition:
+  - confidence: 0.0
+    text: in accordance with fixed order or procedure or principle
+  ili: i10728
+  members:
+  - rialta
+  partOfSpeech: a
+01967466-a:
+  definition:
+  - confidence: 0.0
+    text: contrary to rule or accepted order or general practice
+  ili: i10737
+  members:
+  - mírialta
+  - neamhrialta
+  partOfSpeech: a
+01969807-a:
+  definition:
+  - confidence: 0.0
+    text: that can be renewed or extended
+  ili: i10749
+  members:
+  - in-athnuaite
+  partOfSpeech: a
+01971758-a:
+  definition:
+  - confidence: 0.0
+    text: fit for publication because free of material that is morally or legally
+      objectionable
+  ili: i10761
+  members:
+  - inphriontáilte
+  partOfSpeech: a
+01973553-a:
+  definition:
+  - confidence: 0.0
+    text: always the same; showing a single form or character in all occurrences
+  ili: i10771
+  members:
+  - aonfhoirmeach
+  - comhionann
+  partOfSpeech: a
+01974305-a:
+  definition:
+  - confidence: 0.0
+    text: happening or recurring at regular intervals
+  ili: i10775
+  members:
+  - tréimhsiúil
+  partOfSpeech: a
+  similar:
+  - 01975230-s
+  - 01975568-s
+  - 01976215-s
+  - 01976413-s
+  - 01976542-s
+  - 01976671-s
+  - 01976772-s
+01975230-s:
+  definition:
+  - confidence: 0.0
+    text: of or belonging to or occurring every day
+  ili: i10779
+  members:
+  - laethúil
+  partOfSpeech: s
+  similar:
+  - 01974305-a
+01975568-s:
+  definition:
+  - confidence: 0.0
+    text: of or occurring every seven days
+  ili: i10781
+  members:
+  - seachtainiúil
+  partOfSpeech: s
+  similar:
+  - 01974305-a
+01976215-s:
+  definition:
+  - ag tarlú nó iníoctha gach bliain
+  example:
+  - turas bliantúil go Páras
+  ili: i10786
+  members:
+  - bliantúil
+  partOfSpeech: s
+  similar:
+  - 01974305-a
+01976413-s:
+  definition:
+  - confidence: 0.0
+    text: occurring or payable twice each year
+  ili: i10787
+  members:
+  - leathbhliantúil
+  partOfSpeech: s
+  similar:
+  - 01974305-a
+01976542-s:
+  definition:
+  - confidence: 0.0
+    text: occurring every second year
+  ili: i10788
+  members:
+  - débhliantúil
+  partOfSpeech: s
+  similar:
+  - 01974305-a
+01976671-s:
+  definition:
+  - confidence: 0.0
+    text: occurring every third year or lasting 3 years
+  ili: i10789
+  members:
+  - tríbhliantúil
+  partOfSpeech: s
+  similar:
+  - 01974305-a
+01976772-s:
+  definition:
+  - confidence: 0.0
+    text: of or occurring or payable every month
+  ili: i10790
+  members:
+  - míosúil
+  partOfSpeech: s
+  similar:
+  - 01974305-a
+01979885-a:
+  definition:
+  - bheith nasctha go loighciúil nó go cúisíoch nó trí shaintréithe comhroinnte
+  example:
+  - péinteáil agus na healaíona gaolmhara
+  ili: i10811
+  members:
+  - ceangailte
+  - gaolmhar
+  partOfSpeech: a
+01981804-a:
+  definition:
+  - confidence: 0.0
+    text: lacking a logical or causal relation
+  ili: i10821
+  members:
+  - neamhghaolmhar
+  partOfSpeech: a
+01982202-a:
+  definition:
+  - confidence: 0.0
+    text: having a bearing on or connection with the subject at issue
+  ili: i10825
+  members:
+  - bainteach
+  - iomchuí
+  - ábhartha
+  partOfSpeech: a
+01983148-a:
+  definition:
+  - confidence: 0.0
+    text: having no bearing on or connection with the subject at issue
+  ili: i10829
+  members:
+  - neamhábhartha
+  partOfSpeech: a
+01985459-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being replaced
+  ili: i10839
+  members:
+  - in-athsholáthraithe
+  partOfSpeech: a
+  similar:
+  - 01985596-s
+01985596-s:
+  definition:
+  - confidence: 0.0
+    text: capable of replacing or changing places with something else; permitting
+      mutual substitution without loss of function or suitability
+  ili: i10840
+  members:
+  - inmhalartaithe
+  partOfSpeech: s
+  similar:
+  - 01985459-a
+01989251-a:
+  definition:
+  - confidence: 0.0
+    text: serving as a visible symbol for something abstract
+  ili: i10857
+  members:
+  - siombalach
+  partOfSpeech: a
+02000490-a:
+  definition:
+  - confidence: 0.0
+    text: socially or conventionally correct; refined or virtuous
+  ili: i10917
+  members:
+  - cuibhiúil
+  partOfSpeech: a
+02003975-a:
+  definition:
+  - confidence: 0.0
+    text: liable to account for one's actions
+  ili: i10933
+  members:
+  - cuntasach
+  - freagrach
+  partOfSpeech: a
+02011781-a:
+  definition:
+  - confidence: 0.0
+    text: restricting according to rules or principles
+  ili: i10975
+  members:
+  - rialaitheach
+  partOfSpeech: a
+02014978-a:
+  definition:
+  - confidence: 0.0
+    text: capable of physically reflecting light or sound
+  ili: i10995
+  members:
+  - frithchaiteach
+  partOfSpeech: a
+02030204-a:
+  definition:
+  - confidence: 0.0
+    text: having little money or few possessions
+  ili: i11083
+  members:
+  - bocht
+  partOfSpeech: a
+02031394-a:
+  definition:
+  - confidence: 0.0
+    text: having an abundant supply of desirable qualities or substances (especially
+      natural resources)
+  ili: i11089
+  members:
+  - saibhir
+  partOfSpeech: a
+02033690-a:
+  definition:
+  - confidence: 0.0
+    text: capable of meeting financial obligations
+  ili: i11100
+  members:
+  - sócmhainneach
+  partOfSpeech: a
+02033820-a:
+  definition:
+  - confidence: 0.0
+    text: unable to meet or discharge financial obligations
+  ili: i11101
+  members:
+  - dócmhainneach
+  partOfSpeech: a
+02039393-a:
+  definition:
+  - confidence: 0.0
+    text: being or located on or directed toward the side of the body to the east
+      when facing north
+  ili: i11136
+  members:
+  - deas
+  partOfSpeech: a
+02040360-a:
+  definition:
+  - bheith nó suite ar thaobh an choirp nó dírithe i dtreo an taobh thiar agus é ag
+    breathnú ó thuaidh
+  example:
+  - mo lámh chlé
+  ili: i11141
+  members:
+  - clé
+  partOfSpeech: a
+02042235-a:
+  definition:
+  - confidence: 0.0
+    text: in conformance with justice or law or morality
+  ili: i11153
+  members:
+  - ceart
+  partOfSpeech: a
+  similar:
+  - 02042493-s
+02042493-s:
+  definition:
+  - confidence: 0.0
+    text: adhering to ethical and moral principles
+  ili: i11154
+  members:
+  - eiticiúil
+  partOfSpeech: s
+  similar:
+  - 02042235-a
+02048059-a:
+  definition:
+  - confidence: 0.0
+    text: having the shape or form of a circle
+  ili: i11179
+  members:
+  - ciorclach
+  - cruinn
+  partOfSpeech: a
+02050637-a:
+  definition:
+  - confidence: 0.0
+    text: having four equal sides and four right angles or forming a right angle
+  ili: i11197
+  members:
+  - cearnach
+  - cearnógach
+  partOfSpeech: a
+02053143-a:
+  definition:
+  - confidence: 0.0
+    text: having the form of a cylinder
+  ili: i11212
+  members:
+  - sorcóireach
+  partOfSpeech: a
+02062466-a:
+  definition:
+  - confidence: 0.0
+    text: concerned with religion or religious purposes
+  ili: i11275
+  members:
+  - naofa
+  partOfSpeech: a
+  similar:
+  - 02063669-s
+02063669-s:
+  definition:
+  - a bheith bainteach le cúrsaí beannaithe nó reiligiún nó an eaglais
+  example:
+  - téacsanna reiligiúnacha
+  ili: i11282
+  members:
+  - spioradálta
+  - creidimh
+  - reiligiúnach
+  - reiligiúin
+  partOfSpeech: s
+  similar:
+  - 02062466-a
+02065233-a:
+  definition:
+  - saor ó contúirt nó baol dochair
+  example:
+  - turas sábháilte
+  ili: i11291
+  members:
+  - sábháilte
+  - slán
+  partOfSpeech: a
+02066198-a:
+  definition:
+  - confidence: 0.0
+    text: involving or causing danger or risk; liable to hurt or harm
+  ili: i11296
+  members:
+  - contúirteach
+  - dainséarach
+  partOfSpeech: a
+  similar:
+  - 02067215-s
+02067215-s:
+  definition:
+  - confidence: 0.0
+    text: involving risk or danger
+  ili: i11300
+  members:
+  - contúirteach
+  - guaiseach
+  partOfSpeech: s
+  similar:
+  - 02066198-a
+02071531-a:
+  definition:
+  - confidence: 0.0
+    text: exactly alike; incapable of being perceived as different
+  ili: i11322
+  members:
+  - comhionann
+  partOfSpeech: a
+02071831-a:
+  definition:
+  - den chineál nó den cháilíocht chéanna
+  example:
+  - dhá ainmhí de speiceas amháin
+  ili: i11323
+  members:
+  - amháin
+  partOfSpeech: a
+02072149-a:
+  definition:
+  - éagsúil ó thaobh slí nó cáilíochta nó crutha nó méid de
+  example:
+  - thóg sé dhá chur chuige chun an fhadhb a réiteach
+  ili: i11325
+  members:
+  - éagsúil
+  - difriúil
+  partOfSpeech: a
+  similar:
+  - 02073069-s
+  - 02073362-s
+  - 02074467-s
+02073069-s:
+  definition:
+  - go leor cineálacha éagsúla eagraithe go sainiúil ach gan aon aonfhoirmeacht
+  example:
+  - méideanna measctha
+  ili: i11327
+  members:
+  - measctha
+  - éagsúla
+  - éagsúil
+  partOfSpeech: s
+  similar:
+  - 02072149-a
+02073362-s:
+  definition:
+  - confidence: 0.0
+    text: very opposed in nature or character or purpose
+  ili: i11328
+  members:
+  - contrártha
+  partOfSpeech: s
+  similar:
+  - 02072149-a
+02074467-s:
+  definition:
+  - confidence: 0.0
+    text: (often followed by 'from') not alike; different in nature or quality
+  ili: i11333
+  members:
+  - leithleach
+  - éagsúil
+  partOfSpeech: s
+  similar:
+  - 02072149-a
+02075880-a:
+  definition:
+  - céanna ó thaobh féiniúlachta de
+  example:
+  - Sin an fear céanna a bhfaca mé inné
+  ili: i11339
+  members:
+  - céanna
+  partOfSpeech: a
+  similar:
+  - 02076134-s
+  - 02076350-s
+02076134-s:
+  definition:
+  - confidence: 0.0
+    text: being the one previously mentioned or spoken of
+  ili: i11340
+  members:
+  - réamhluaite
+  - thuasluaite
+  partOfSpeech: s
+  similar:
+  - 02075880-a
+02076350-s:
+  definition:
+  - confidence: 0.0
+    text: 'being the exact same one; not any other:'
+  ili: i11341
+  members:
+  - ionann
+  partOfSpeech: s
+  similar:
+  - 02075880-a
+02076759-a:
+  definition:
+  - ní an ceann nó cinn chéanna a luadh cheana féin nó a bhíothas tugtha le fios;
+    cainníochtóir, eile
+  example:
+  - níl an lá inniu cosúil le haon lá eile
+  ili: i11342
+  members:
+  - eile
+  partOfSpeech: a
+  similar:
+  - 02077592-s
+  - 02077434-s
+02077434-s:
+  definition:
+  - scaradh go soiléir ón chéad
+  example:
+  - sin ceist eile ar fad
+  ili: i11343
+  members:
+  - éagsúil
+  - difriúil
+  partOfSpeech: s
+  similar:
+  - 02076759-a
+02077592-s:
+  definition:
+  - aon cheann de na roghanna éagsúla; cuid eile; aonán, uatha, forainm eile, cainníochtaí,
+    uatha, eile
+  example:
+  - é a chur amach go lá eile (nó lá éigin eile)
+  ili: i11344
+  members:
+  - éigin eile
+  partOfSpeech: s
+  similar:
+  - 02076759-a
+02078824-a:
+  definition:
+  - ag déanamh tagairt do cheangal nó cosúlacht
+  example:
+  - bia comhchosúil ag praghsanna comhchosúla
+  ili: i11351
+  members:
+  - cosúil
+  partOfSpeech: a
+  similar:
+  - 02079377-s
+02079377-s:
+  definition:
+  - confidence: 0.0
+    text: similar or equivalent in some respects though otherwise dissimilar
+  ili: i11353
+  members:
+  - analógach
+  partOfSpeech: s
+  similar:
+  - 02078824-a
+02088253-a:
+  definition:
+  - confidence: 0.0
+    text: being satisfactory or in satisfactory condition
+  ili: i11402
+  members:
+  - breá
+  - ceart go leor
+  partOfSpeech: a
+02089364-a:
+  definition:
+  - confidence: 0.0
+    text: not giving satisfaction
+  ili: i11408
+  members:
+  - míshásúil
+  partOfSpeech: a
+02090368-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being scaled; possible to scale
+  ili: i11413
+  members:
+  - inscálaithe
+  partOfSpeech: a
+02091950-a:
+  definition:
+  - confidence: 0.0
+    text: conforming with the principles or methods used in science
+  ili: i11423
+  members:
+  - eolaíoch
+  partOfSpeech: a
+02097082-a:
+  definition:
+  - confidence: 0.0
+    text: not open or public; kept private or not revealed
+  ili: i11454
+  members:
+  - rúnda
+  - sicréideach
+  partOfSpeech: a
+02101168-a:
+  definition:
+  - confidence: 0.0
+    text: free from danger or risk
+  ili: i11474
+  members:
+  - slán
+  partOfSpeech: a
+02102473-a:
+  definition:
+  - confidence: 0.0
+    text: without financial security
+  ili: i11481
+  members:
+  - neamhurraithe
+  partOfSpeech: a
+02110761-a:
+  definition:
+  - confidence: 0.0
+    text: responsive to physical stimuli
+  ili: i11528
+  members:
+  - íogair
+  partOfSpeech: a
+  similar:
+  - 02112456-s
+02112456-s:
+  definition:
+  - confidence: 0.0
+    text: reacting to a stimulus
+  ili: i11537
+  members:
+  - frithghníomhach
+  partOfSpeech: s
+  similar:
+  - 02110761-a
+02113270-a:
+  definition:
+  - confidence: 0.0
+    text: being susceptible to the attitudes, feelings, or circumstances of others
+  ili: i11541
+  members:
+  - íogair
+  partOfSpeech: a
+02116958-a:
+  definition:
+  - confidence: 0.0
+    text: independent; not united or joint
+  ili: i11562
+  members:
+  - scartha
+  partOfSpeech: a
+02119388-a:
+  definition:
+  - confidence: 0.0
+    text: involving the joint activity of two or more
+  ili: i11573
+  members:
+  - comhbheartaithe
+  partOfSpeech: a
+02120256-a:
+  definition:
+  - confidence: 0.0
+    text: free from filth and pathogens
+  ili: i11577
+  members:
+  - sláintíoch
+  partOfSpeech: a
+02121107-a:
+  definition:
+  - confidence: 0.0
+    text: containing or resulting from disease-causing organisms
+  ili: i11581
+  members:
+  - seipteach
+  partOfSpeech: a
+  similar:
+  - 02122026-s
+02122026-s:
+  definition:
+  - confidence: 0.0
+    text: caused by infection or capable of causing infection
+  ili: i11586
+  members:
+  - ionfhabhtaíoch
+  - tógálach
+  partOfSpeech: s
+  similar:
+  - 02121107-a
+02125659-a:
+  definition:
+  - a bhaineann le hobair nó le nithe tábhachtacha seachas súgradh nó fánach
+  example:
+  - mac léinn dáiríre na staire
+  ili: i11605
+  members:
+  - dáiríre
+  partOfSpeech: a
+  similar:
+  - 02126493-s
+02126493-s:
+  definition:
+  - confidence: 0.0
+    text: dignified and somber in manner or character and committed to keeping promises
+  ili: i11607
+  members:
+  - sollúnta
+  partOfSpeech: s
+  similar:
+  - 02125659-a
+02132790-a:
+  definition:
+  - confidence: 0.0
+    text: living in a particular place
+  ili: i11639
+  members:
+  - cónaitheach
+  partOfSpeech: a
+02135196-a:
+  definition:
+  - confidence: 0.0
+    text: habitually moving from place to place especially in search of seasonal work
+  ili: i11651
+  members:
+  - imirceach
+  partOfSpeech: a
+02136387-a:
+  definition:
+  - confidence: 0.0
+    text: used of animals that move seasonally
+  ili: i11657
+  members:
+  - imirceach
+  partOfSpeech: a
+02137288-a:
+  definition:
+  - confidence: 0.0
+    text: determined or decided upon as by an authority
+  ili: i11662
+  members:
+  - socraithe
+  partOfSpeech: a
+02159252-a:
+  definition:
+  - confidence: 0.0
+    text: having no definite form or distinct shape
+  ili: i11814
+  members:
+  - éagruthach
+  partOfSpeech: a
+02159888-a:
+  definition:
+  - confidence: 0.0
+    text: common to or shared by two or more parties
+  ili: i11817
+  members:
+  - frithpháirteach
+  partOfSpeech: a
+02160400-a:
+  definition:
+  - confidence: 0.0
+    text: not divided or shared with others
+  ili: i11820
+  members:
+  - amháin
+  - eisiach
+  partOfSpeech: a
+02168847-a:
+  definition:
+  - confidence: 0.0
+    text: important in effect or meaning
+  ili: i11879
+  members:
+  - tábhachtach
+  partOfSpeech: a
+  similar:
+  - 02171017-s
+02171017-s:
+  definition:
+  - confidence: 0.0
+    text: worthy of attention
+  ili: i14354
+  members:
+  - suntasach
+  partOfSpeech: s
+  similar:
+  - 02168847-a
+02182456-a:
+  definition:
+  - le beagán comhpháirteanna; gan a bheith casta
+  example:
+  - fadhb shimplí
+  ili: i11962
+  members:
+  - simplí
+  partOfSpeech: a
+02183738-a:
+  definition:
+  - casta i struchtúr; comhdhéanta de chodanna idirnasctha
+  example:
+  - sraith chasta éagsúlachtaí bunaithe ar shéis shimplí tíre
+  ili: i11967
+  members:
+  - casta
+  - coimpléascach
+  partOfSpeech: a
+  similar:
+  - 02185144-s
+  - 02185375-s
+02185144-s:
+  definition:
+  - confidence: 0.0
+    text: difficult to analyze or understand
+  ili: i11971
+  members:
+  - casta
+  partOfSpeech: s
+  similar:
+  - 02183738-a
+02185375-s:
+  definition:
+  - confidence: 0.0
+    text: consisting of separate interconnected parts
+  ili: i11972
+  members:
+  - ilchodach
+  partOfSpeech: s
+  similar:
+  - 02183738-a
+02193977-a:
+  definition:
+  - aonad nó rud amháin, ní dhá nó níos mó
+  example:
+  - tá an t-aon ar iarraidh
+  ili: i12006
+  members:
+  - i
+  - '1'
+  - amháin
+  - aon
+  partOfSpeech: a
+02194109-a:
+  definition:
+  - a bheith níos mó ná a haon
+  example:
+  - Fuair sé dhá theachtaireacht
+  ili: i12007
+  members:
+  - ii
+  - '2'
+  - dhá
+  - beirt
+  partOfSpeech: a
+02194219-a:
+  definition:
+  - a bheith níos mó ná a dó
+  ili: i12008
+  members:
+  - iii
+  - '3'
+  - trí
+  - triúir
+  partOfSpeech: a
+02194304-a:
+  definition:
+  - a bheith níos mó ná trí
+  ili: i12009
+  members:
+  - iv
+  - '4'
+  - a ceathair
+  - ceithre
+  - ceathrar
+  partOfSpeech: a
+02194389-a:
+  definition:
+  - a bheith níos mó ná a ceathair
+  ili: i12010
+  members:
+  - '5'
+  - cúig
+  - v
+  - cúigear
+  partOfSpeech: a
+02194472-a:
+  definition:
+  - a bheith níos mó ná a cúig
+  ili: i12011
+  members:
+  - sé
+  - '6'
+  - leathdhosaen
+  - vi
+  - seisear
+  partOfSpeech: a
+02194609-a:
+  definition:
+  - a bheith níos mó ná a sé
+  ili: i12012
+  members:
+  - seacht
+  - '7'
+  - seachtar
+  partOfSpeech: a
+02194712-a:
+  definition:
+  - a bheith níos mó ná a seacht
+  ili: i12013
+  members:
+  - '8'
+  - viii
+  - ocht
+  - ochtar
+  partOfSpeech: a
+02194800-a:
+  definition:
+  - a bheith ceann amháin níos mó ná ocht
+  ili: i12014
+  members:
+  - naoi
+  partOfSpeech: a
+02194935-a:
+  definition:
+  - a bheith níos mó ná a naoi
+  ili: i12015
+  members:
+  - x
+  - '10'
+  - deich
+  - deichniúr
+  partOfSpeech: a
+02195104-a:
+  definition:
+  - a bheith ceann amháin níos mó ná a haon déag
+  ili: i12017
+  members:
+  - xii
+  - '12'
+  - dosaen
+  - dó dhéag
+  partOfSpeech: a
+02195338-a:
+  definition:
+  - a bheith ar cheann níos mó ná trí déag
+  ili: i12019
+  members:
+  - ceathair déag
+  partOfSpeech: a
+02195432-a:
+  definition:
+  - a bheith níos mó ná a ceathair déag
+  ili: i12020
+  members:
+  - xv
+  - '15'
+  - cúig déag
+  partOfSpeech: a
+02195747-a:
+  definition:
+  - a bheith ceann amháin níos mó ná seacht déag
+  ili: i12023
+  members:
+  - ocht déag
+  partOfSpeech: a
+02195956-a:
+  definition:
+  - a bheith níos mó ná a naoi déag
+  ili: i12025
+  members:
+  - xx
+  - '20'
+  - fiche
+  partOfSpeech: a
+02196359-a:
+  definition:
+  - a bheith ceithre níos mó ná fiche
+  ili: i12029
+  members:
+  - fiche a ceathair
+  partOfSpeech: a
+02196456-a:
+  definition:
+  - confidence: 0.0
+    text: being five more than twenty
+  ili: i12030
+  members:
+  - fiche a cúig
+  partOfSpeech: a
+02196945-a:
+  definition:
+  - a bheith níos mó ná fiche
+  ili: i12035
+  members:
+  - tríocha
+  partOfSpeech: a
+02197917-a:
+  definition:
+  - a bheith deich níos mó na tríocha
+  ili: i12045
+  members:
+  - daichead
+  partOfSpeech: a
+02198871-a:
+  definition:
+  - a bheith deich níos mó na daichead
+  ili: i12055
+  members:
+  - '50'
+  - caoga
+  partOfSpeech: a
+02199823-a:
+  definition:
+  - a bheith deich níos mó na caoga
+  ili: i12065
+  members:
+  - seasca
+  partOfSpeech: a
+02203776-a:
+  definition:
+  - a bheith deich níos mó na nócha
+  ili: i12105
+  members:
+  - céad
+  - '100'
+  partOfSpeech: a
+02206421-a:
+  definition:
+  - ag sainchiallú cainníocht atá comhdhéanamh atá 1000 earra nó aonad
+  ili: i12128
+  members:
+  - míle
+  partOfSpeech: a
+02206846-a:
+  definition:
+  - (i uimhreacha Rómánacha, M scríofa le macrón os a chionn) ag sonrú cainníochta
+    ina bhfuil 1,000,000 earra nó aonad
+  ili: i12131
+  members:
+  - milliún
+  partOfSpeech: a
+02209815-a:
+  definition:
+  - teacht i ndiaidh an chéad ó thaobh suímh nó spáis nó ama nó méid de
+  ili: i12141
+  members:
+  - dara
+  - dóú
+  - 2ú
+  partOfSpeech: a
+02209976-a:
+  definition:
+  - teacht i ndiaidh an dara agus díreach roimh an ceathrú i líne
+  ili: i12142
+  members:
+  - 3ú
+  - treasach
+  - tríú
+  partOfSpeech: a
+02210112-a:
+  definition:
+  - teacht i ndiaidh an tríú agus díreach roimh an gcúigiú in ionad nó in am nó céim
+    nó méid
+  example:
+  - leathnaíonn an tréimhse chearthartha den am geolaíoch ó dheireadh na tréimhse
+    treasach go dtí an t-am i láthair
+  ili: i12143
+  members:
+  - ceathartha
+  partOfSpeech: a
+02222405-a:
+  definition:
+  - a bheith an t-aon; singil agus scoite ó daoine nó rudaí eile
+  example:
+  - an t-aon dochtúir sa chontae ar fad
+  ili: i12239
+  members:
+  - aon
+  - aonair
+  - aonaránach
+  - aonarach
+  - uaigneach
+  - amháin
+  partOfSpeech: a
+02223646-a:
+  definition:
+  - confidence: 0.0
+    text: having or involving or consisting of more than one part or entity or individual
+  ili: i12244
+  members:
+  - iolrach
+  - iomadúil
+  partOfSpeech: a
+  similar:
+  - 02224928-s
+  - 02225139-s
+02224928-s:
+  definition:
+  - confidence: 0.0
+    text: twice as great or many
+  ili: i12248
+  members:
+  - dúbailte
+  partOfSpeech: s
+  similar:
+  - 02223646-a
+02225139-s:
+  definition:
+  - confidence: 0.0
+    text: consisting of or involving two parts or components usually in pairs
+  ili: i12249
+  members:
+  - déach
+  - dúbailte
+  partOfSpeech: s
+  similar:
+  - 02223646-a
+02239247-a:
+  definition:
+  - confidence: 0.0
+    text: composed of or covered with particles resembling meal in texture or consistency
+  ili: i12333
+  members:
+  - gráinneach
+  partOfSpeech: a
+02246206-a:
+  definition:
+  - confidence: 0.0
+    text: having or caused by an irregular surface
+  ili: i12374
+  members:
+  - garbh
+  partOfSpeech: a
+  similar:
+  - 02248234-s
+02248234-s:
+  definition:
+  - confidence: 0.0
+    text: having hills and crags
+  ili: i12384
+  members:
+  - sléibhtiúil
+  partOfSpeech: s
+  similar:
+  - 02246206-a
+02256437-a:
+  definition:
+  - confidence: 0.0
+    text: denoting or deriving from or distinctive of the ways of living built up
+      by a group of people
+  ili: i12439
+  members:
+  - ciníoch
+  - eitneach
+  partOfSpeech: a
+02256927-a:
+  definition:
+  - confidence: 0.0
+    text: occurring among or involving several people
+  ili: i12441
+  members:
+  - idirphearsanta
+  partOfSpeech: a
+02269142-a:
+  definition:
+  - confidence: 0.0
+    text: existing as or having characteristics of a liquid; especially tending to
+      flow
+  ili: i12517
+  members:
+  - leachtach
+  partOfSpeech: a
+  similar:
+  - 02269502-s
+02269502-s:
+  definition:
+  - confidence: 0.0
+    text: characteristic of a fluid; capable of flowing and easily changing shape
+  ili: i12518
+  members:
+  - sreabhach
+  partOfSpeech: s
+  similar:
+  - 02269142-a
+02270298-a:
+  definition:
+  - confidence: 0.0
+    text: existing as or having characteristics of a gas
+  ili: i12523
+  members:
+  - gásach
+  partOfSpeech: a
+02271436-a:
+  definition:
+  - confidence: 0.0
+    text: entirely of one substance with no holes inside
+  ili: i12530
+  members:
+  - soladach
+  partOfSpeech: a
+02272771-a:
+  definition:
+  - confidence: 0.0
+    text: (of a substance) capable of being dissolved in some solvent (usually water)
+  ili: i12537
+  members:
+  - intuaslagtha
+  partOfSpeech: a
+02273647-a:
+  definition:
+  - confidence: 0.0
+    text: (of a substance) incapable of being dissolved
+  ili: i12544
+  members:
+  - dothuaslagtha
+  partOfSpeech: a
+02275064-a:
+  definition:
+  - (cainníochtóir) úsáidte le hainmfhocail mhaise nó le hainmfhocail inchomhairthe
+    iolra chun uimhir nó cainníocht neamhshonraithe a chur in iúl
+  example:
+  - tóg braon bainne
+  ili: i12553
+  members:
+  - roinnt
+  - braon
+  partOfSpeech: a
+  similar:
+  - 02275443-s
+  - 02276025-s
+02275443-s:
+  definition:
+  - ceann amháin nó cuid nó gach ceann nó gan sonraíocht; eintiteas, forainm eiseach
+    roghnach; cainníochtaí, eiseach roghnach
+  example:
+  - tabhair dom péitseoga ar bith nach dteastaíonn uait
+  ili: i12554
+  members:
+  - ar bith
+  partOfSpeech: s
+  similar:
+  - 02275064-a
+02276025-s:
+  definition:
+  - (úsáidte le ainmfhocail inchomhairthe) ag baint le huimhir éiginnte atá níos mó
+    ná 2 nó 3 ach ní go leor
+  example:
+  - tháinig roinnt litreacha sa phost
+  ili: i12556
+  members:
+  - roinnt
+  partOfSpeech: s
+  similar:
+  - 02275064-a
+02276242-a:
+  definition:
+  - (cainníochtóir) úsáidte le hainmfhocail mhaise nó le hainmfhocail inchomhairthe
+    iolra chun easpa cainníochta nó cainníocht nach mór iomlán nó cainníocht ar bith
+    a chur in iúl
+  example:
+  - níl aon bhananaí againn
+  ili: i12557
+  members:
+  - ní
+  - níl
+  partOfSpeech: a
+02277044-a:
+  definition:
+  - cainníochtóir a úsáidtear le hainmfhocail mhaise nó ainmfhocail inchomhairthe
+    chun uimhir nó méid iomlán nó gach ball aicme a chur in iúl
+  example:
+  - Bhíomar inár suí ar feadh na hoíche ar fad
+  ili: i12561
+  members:
+  - ar fad
+  - uile
+  - uilig
+  - go léir
+  - gach
+  partOfSpeech: a
+  similar:
+  - 02277394-s
+  - 02277553-s
+02277394-s:
+  definition:
+  - (úsáidte le hainmfhocail inchomhairthe) síltear faoi gach ceann ar bhonn indibhidiúil;
+    cainníochtóir, uatha, forainm comhchoiteann;
+  example:
+  - is daonna gach uile duine
+  ili: i12562
+  members:
+  - gach uile
+  partOfSpeech: s
+  similar:
+  - 02277044-a
+02277553-s:
+  definition:
+  - (úsáidtear as ainmfhocail chomhairimh) gach ceann de na baill ghrúpa a mheas ina
+    n-aonar agus gan eisceacht
+  example:
+  - tá gach duine marfach
+  ili: i12563
+  members:
+  - gach
+  partOfSpeech: s
+  similar:
+  - 02277044-a
+02278101-a:
+  definition:
+  - confidence: 0.0
+    text: having or appealing to those having worldly knowledge and refinement and
+      savoir-faire
+  ili: i12566
+  members:
+  - sofaisticiúil
+  partOfSpeech: a
+02281838-a:
+  definition:
+  - confidence: 0.0
+    text: firm and dependable; subject to little fluctuation
+  ili: i12582
+  members:
+  - seasmhach
+  partOfSpeech: a
+02282286-a:
+  definition:
+  - confidence: 0.0
+    text: not financially safe or secure
+  ili: i12584
+  members:
+  - amhantrach
+  partOfSpeech: a
+02285356-a:
+  definition:
+  - confidence: 0.0
+    text: developed or designed for a special activity or function
+  ili: i12602
+  members:
+  - speisialaithe
+  partOfSpeech: a
+02290110-a:
+  definition:
+  - confidence: 0.0
+    text: happening or arising without apparent external cause
+  ili: i12630
+  members:
+  - spontáineach
+  partOfSpeech: a
+02293012-a:
+  definition:
+  - confidence: 0.0
+    text: written or drawn or engraved
+  ili: i12646
+  members:
+  - grafach
+  partOfSpeech: a
+02293141-a:
+  definition:
+  - confidence: 0.0
+    text: written by hand
+  ili: i12647
+  members:
+  - lámhscríofa
+  partOfSpeech: a
+02300962-a:
+  definition:
+  - confidence: 0.0
+    text: subject to or caused by an earthquake or earth vibration
+  ili: i12693
+  members:
+  - seismeach
+  partOfSpeech: a
+02303673-a:
+  definition:
+  - confidence: 0.0
+    text: conforming to or constituting a standard of measurement or value; or of
+      the usual or regularized or accepted kind
+  ili: i12710
+  members:
+  - caighdeánach
+  partOfSpeech: a
+  similar:
+  - 02304090-s
+02304090-s:
+  definition:
+  - confidence: 0.0
+    text: constructed with standardized units or dimensions allowing flexibility and
+      variety in use
+  ili: i12711
+  members:
+  - modúlach
+  partOfSpeech: s
+  similar:
+  - 02303673-a
+02316520-a:
+  definition:
+  - confidence: 0.0
+    text: inducing stupor or narcosis
+  ili: i12783
+  members:
+  - támhshuanach
+  partOfSpeech: a
+02318575-a:
+  definition:
+  - confidence: 0.0
+    text: having no deviations
+  ili: i12795
+  members:
+  - díreach
+  partOfSpeech: a
+02328781-a:
+  definition:
+  - níos mó nirt nó cumhachta ná an meán nó a bhfuiltear ag súil leis a bheith agat
+  example:
+  - comhartha raidió láidir
+  ili: i12857
+  members:
+  - láidir
+  partOfSpeech: a
+  similar:
+  - 02330284-s
+02330284-s:
+  definition:
+  - confidence: 0.0
+    text: very strong or vigorous
+  ili: i12864
+  members:
+  - dian
+  partOfSpeech: s
+  similar:
+  - 02328781-a
+02332106-a:
+  definition:
+  - confidence: 0.0
+    text: wanting in physical strength
+  ili: i12875
+  members:
+  - lag
+  partOfSpeech: a
+02339254-a:
+  definition:
+  - tar éis éirigh nó a bheith marcáilte le toradh fabhrach
+  example:
+  - ailtire rathúil
+  ili: i12911
+  members:
+  - rathúil
+  partOfSpeech: a
+02343832-a:
+  definition:
+  - de chainníocht a fhéadfaidh gá nó riachtanas a chomhlíonadh ach gan a bheith flúirseach
+  example:
+  - bia dóthanach
+  ili: i12937
+  members:
+  - dóthanach
+  - leordhóthanach
+  - leormhaith
+  partOfSpeech: a
+  similar:
+  - 02344113-s
+02344113-s:
+  definition:
+  - dóthanach chun críche
+  example:
+  - ioncam sásúil
+  ili: i12938
+  members:
+  - sásúil
+  - dóthanach
+  - leordhóthanach
+  - leormhaith
+  partOfSpeech: s
+  similar:
+  - 02343832-a
+02344427-a:
+  definition:
+  - confidence: 0.0
+    text: of a quantity not able to fulfill a need or requirement
+  ili: i12940
+  members:
+  - easnamhach
+  - easpach
+  partOfSpeech: a
+02349336-a:
+  definition:
+  - confidence: 0.0
+    text: of high or superior quality or performance
+  ili: i12968
+  members:
+  - uachtarach
+  partOfSpeech: a
+  similar:
+  - 02351216-s
+  - 02351683-s
+02351216-s:
+  definition:
+  - confidence: 0.0
+    text: very good; of the highest quality
+  ili: i12976
+  members:
+  - sármhaith
+  partOfSpeech: s
+  similar:
+  - 02349336-a
+02351683-s:
+  definition:
+  - is airde i gcáilíocht
+  ili: i12978
+  members:
+  - is mó
+  - den scoth
+  - iontach
+  partOfSpeech: s
+  similar:
+  - 02349336-a
+02363453-a:
+  definition:
+  - confidence: 0.0
+    text: furnishing added support
+  ili: i13047
+  members:
+  - coimhdeach
+  partOfSpeech: a
+02368344-a:
+  definition:
+  - confidence: 0.0
+    text: surprising greatly
+  ili: i13069
+  members:
+  - iontach
+  partOfSpeech: a
+02372182-a:
+  definition:
+  - confidence: 0.0
+    text: relating to or conferring immunity (to disease or infection)
+  ili: i13087
+  members:
+  - frithsheasmhach
+  partOfSpeech: a
+02373965-a:
+  definition:
+  - confidence: 0.0
+    text: (of persons) freed from or not subject to an obligation or liability (as
+      e.g. taxes) to which others or other things are subject
+  ili: i13099
+  members:
+  - díolmhaithe
+  partOfSpeech: a
+02380286-a:
+  definition:
+  - confidence: 0.0
+    text: having similarity in size, shape, and relative position of corresponding
+      parts
+  ili: i13140
+  members:
+  - siméadrach
+  partOfSpeech: a
+02382167-a:
+  definition:
+  - confidence: 0.0
+    text: characterized by asymmetry in the spatial arrangement or placement of parts
+      or components
+  ili: i13150
+  members:
+  - neamhshiméadrach
+  partOfSpeech: a
+02387064-a:
+  definition:
+  - confidence: 0.0
+    text: occurring or operating at the same time
+  ili: i13172
+  members:
+  - comhthráthach
+  - comhuaineach
+  partOfSpeech: a
+02387725-a:
+  definition:
+  - confidence: 0.0
+    text: of or relating to the simultaneous performance of multiple operations
+  ili: i13174
+  members:
+  - comhuaineach
+  partOfSpeech: a
+02391502-a:
+  definition:
+  - confidence: 0.0
+    text: characterized by order and planning
+  ili: i13195
+  members:
+  - córasach
+  - sistéamach
+  partOfSpeech: a
+02393240-a:
+  definition:
+  - confidence: 0.0
+    text: unobtrusively perceptive and sympathetic
+  ili: i13203
+  members:
+  - discréideach
+  partOfSpeech: a
+02393670-a:
+  definition:
+  - confidence: 0.0
+    text: great in vertical dimension; high in stature
+  ili: i13205
+  members:
+  - ard
+  partOfSpeech: a
+02395180-a:
+  definition:
+  - confidence: 0.0
+    text: low in stature; not tall; describing something or someone with a stature
+      less than normal
+  ili: i13214
+  members:
+  - beag
+  partOfSpeech: a
+02397788-a:
+  definition:
+  - confidence: 0.0
+    text: in a natural state; not tamed or domesticated or cultivated
+  ili: i13227
+  members:
+  - fiáin
+  partOfSpeech: a
+02400702-a:
+  definition:
+  - confidence: 0.0
+    text: (of especially business assets) having physical substance and intrinsic
+      monetary value
+  ili: i13242
+  members:
+  - inláimhsithe
+  partOfSpeech: a
+  similar:
+  - 02400973-s
+02400973-s:
+  definition:
+  - confidence: 0.0
+    text: (of property) fixed or immovable
+  ili: i13243
+  members:
+  - réadach
+  partOfSpeech: s
+  similar:
+  - 02400702-a
+02408942-a:
+  definition:
+  - confidence: 0.0
+    text: (of goods or funds) subject to taxation
+  ili: i13286
+  members:
+  - incháinithe
+  - inchánach
+  partOfSpeech: a
+02419189-a:
+  definition:
+  - ní tanaí de thiús sonrach nó sách mór ó dhromchla amháin go dtí an mhalairt de
+    ghnáth sa mhéid is lú de na trí thoise soladacha
+  example:
+  - orlach ar tiús
+  ili: i13343
+  members:
+  - ar tiús
+  partOfSpeech: a
+02428209-a:
+  definition:
+  - confidence: 0.0
+    text: deeply or seriously thoughtful
+  ili: i13393
+  members:
+  - machnamhach
+  partOfSpeech: a
+02440540-a:
+  definition:
+  - confidence: 0.0
+    text: depleted of strength or energy
+  ili: i13463
+  members:
+  - tuirseach
+  partOfSpeech: a
+02449153-a:
+  definition:
+  - confidence: 0.0
+    text: situated at the top or highest position
+  ili: i13514
+  members:
+  - uachtarach
+  partOfSpeech: a
+02452691-a:
+  definition:
+  - confidence: 0.0
+    text: of or existing at or near the geographic equator
+  ili: i13540
+  members:
+  - meánchiorclach
+  partOfSpeech: a
+02453543-a:
+  definition:
+  - confidence: 0.0
+    text: of or relating to the Arctic
+  ili: i13545
+  members:
+  - Artach
+  partOfSpeech: a
+02453695-a:
+  definition:
+  - confidence: 0.0
+    text: at or near the south pole
+  ili: i13546
+  members:
+  - Antartach
+  partOfSpeech: a
+02458503-a:
+  definition:
+  - confidence: 0.0
+    text: of or relating to or caused by a toxin or poison
+  ili: i13577
+  members:
+  - tocsaineach
+  partOfSpeech: a
+02466219-a:
+  definition:
+  - confidence: 0.0
+    text: afflicted with or marked by anxious uneasiness or trouble or grief
+  ili: i13620
+  members:
+  - buartha
+  partOfSpeech: a
+02469730-a:
+  definition:
+  - a bheith i gcomhréir le fíric nó fírinne; ní bréagach
+  example:
+  - tá an scéal fíor
+  ili: i13638
+  members:
+  - fíor
+  - ceart
+  - fírinneach
+  partOfSpeech: a
+02473505-a:
+  definition:
+  - confidence: 0.0
+    text: openly distrustful and unwilling to confide
+  ili: i13655
+  members:
+  - amhrasach
+  partOfSpeech: a
+02473921-a:
+  definition:
+  - confidence: 0.0
+    text: worthy of trust or belief
+  ili: i13658
+  members:
+  - iontaofa
+  partOfSpeech: a
+02477858-a:
+  definition:
+  - ag taispeáint na gcáilíochtaí nó na tréithe a aithníonn grúpa nó cineál nó catagóir
+  example:
+  - cailín tipiciúil Meiriceánach
+  ili: i13681
+  members:
+  - tipiciúil
+  partOfSpeech: a
+02485330-a:
+  definition:
+  - confidence: 0.0
+    text: characterized by unity; being or joined into a single entity
+  ili: i13723
+  members:
+  - aontaithe
+  partOfSpeech: a
+  similar:
+  - 02487032-s
+02487032-s:
+  definition:
+  - confidence: 0.0
+    text: formed or united into a whole
+  ili: i13732
+  members:
+  - comhtháite
+  partOfSpeech: s
+  similar:
+  - 02485330-a
+02505612-a:
+  definition:
+  - confidence: 0.0
+    text: being of use or service
+  ili: i13844
+  members:
+  - úsáideach
+  partOfSpeech: a
+  similar:
+  - 02506122-s
+  - 02506224-s
+  - 02506473-s
+02506122-s:
+  definition:
+  - confidence: 0.0
+    text: having multiple uses
+  ili: i13845
+  members:
+  - ilchuspóireach
+  partOfSpeech: s
+  similar:
+  - 02505612-a
+02506224-s:
+  definition:
+  - confidence: 0.0
+    text: capable of being used again
+  ili: i13846
+  members:
+  - in-athchúrsáilte
+  partOfSpeech: s
+  similar:
+  - 02505612-a
+02506473-s:
+  definition:
+  - confidence: 0.0
+    text: capable of being put to use
+  ili: i13848
+  members:
+  - inúsáidte
+  partOfSpeech: s
+  similar:
+  - 02505612-a
+02509324-a:
+  definition:
+  - confidence: 0.0
+    text: logically valid
+  ili: i13862
+  members:
+  - réasúnaithe
+  partOfSpeech: a
+02510833-a:
+  definition:
+  - confidence: 0.0
+    text: having great material or monetary value especially for use or exchange
+  ili: i13871
+  members:
+  - luachmhar
+  partOfSpeech: a
+  similar:
+  - 02511483-s
+02511483-s:
+  definition:
+  - confidence: 0.0
+    text: of high worth or cost
+  ili: i13874
+  members:
+  - luachmhar
+  - lómhar
+  partOfSpeech: s
+  similar:
+  - 02510833-a
+02516074-a:
+  definition:
+  - confidence: 0.0
+    text: unvarying in nature
+  ili: i13897
+  members:
+  - buan
+  - seasmhach
+  partOfSpeech: a
+02516600-a:
+  definition:
+  - confidence: 0.0
+    text: characterized by variety
+  ili: i13900
+  members:
+  - ilchineálach
+  - éagsúil
+  partOfSpeech: a
+02520120-a:
+  definition:
+  - confidence: 0.0
+    text: having a backbone or spinal column
+  ili: i13921
+  members:
+  - veirteabrach
+  partOfSpeech: a
+02520331-a:
+  definition:
+  - confidence: 0.0
+    text: lacking a backbone or spinal column
+  ili: i13922
+  members:
+  - inveirteabrach
+  partOfSpeech: a
+02520937-a:
+  definition:
+  - confidence: 0.0
+    text: acting with or marked by or resulting from great force or energy or emotional
+      intensity
+  ili: i13926
+  members:
+  - foréigneach
+  partOfSpeech: a
+02525399-a:
+  definition:
+  - confidence: 0.0
+    text: capable of being seen; or open to easy view
+  ili: i13949
+  members:
+  - infheicthe
+  - sofheicthe
+  partOfSpeech: a
+02527322-a:
+  definition:
+  - confidence: 0.0
+    text: impossible or nearly impossible to see; imperceptible by the eye
+  ili: i13960
+  members:
+  - dofheicthe
+  partOfSpeech: a
+  similar:
+  - 02528056-s
+02528056-s:
+  definition:
+  - confidence: 0.0
+    text: having or employing wavelengths longer than light but shorter than radio
+      waves; lying outside the visible spectrum at its red end
+  ili: i13963
+  members:
+  - infridhearg
+  partOfSpeech: s
+  similar:
+  - 02527322-a
+02530275-a:
+  definition:
+  - confidence: 0.0
+    text: of your own free will or design; done by choice; not forced or compelled
+  ili: i13977
+  members:
+  - deonach
+  - saorálach
+  partOfSpeech: a
+02539669-a:
+  definition:
+  - confidence: 0.0
+    text: having or producing a comfortable and agreeable degree of heat or imparting
+      or maintaining heat
+  ili: i14028
+  members:
+  - te
+  partOfSpeech: a
+02552072-a:
+  definition:
+  - confidence: 0.0
+    text: affected by an impairment of normal physical or mental function
+  ili: i14100
+  members:
+  - tinn
+  partOfSpeech: a
+  similar:
+  - 02553095-s
+02553095-s:
+  definition:
+  - confidence: 0.0
+    text: somewhat ill or prone to illness
+  ili: i14103
+  members:
+  - tinn
+  partOfSpeech: s
+  similar:
+  - 02552072-a
+02558087-a:
+  definition:
+  - confidence: 0.0
+    text: covered or soaked with a liquid such as water
+  ili: i14134
+  members:
+  - fliuch
+  partOfSpeech: a
+02562150-a:
+  definition:
+  - confidence: 0.0
+    text: free from liquid or moisture; lacking natural or normal moisture or depleted
+      of water; or no longer wet
+  ili: i14155
+  members:
+  - tirim
+  partOfSpeech: a
+02568489-a:
+  definition:
+  - confidence: 0.0
+    text: of or providing nourishment
+  ili: i14192
+  members:
+  - cothaitheach
+  partOfSpeech: a
+02569537-a:
+  definition:
+  - confidence: 0.0
+    text: of or relating to foodstuff grown or raised without synthetic fertilizers
+      or pesticides or hormones
+  ili: i14196
+  members:
+  - orgánach
+  partOfSpeech: a
+02571278-a:
+  definition:
+  - achar mór (nó achar áirithe) a bheith ó thaobh amháin go taobh eile
+  example:
+  - bóithre leathana
+  ili: i14204
+  members:
+  - leathan
+  - fairsing
+  - forleathan
+  partOfSpeech: a
+02572618-a:
+  definition:
+  - confidence: 0.0
+    text: not wide
+  ili: i14212
+  members:
+  - caol
+  partOfSpeech: a
+02575716-a:
+  definition:
+  - confidence: 0.0
+    text: disposed or inclined toward
+  ili: i14232
+  members:
+  - sásta
+  - toilteanach
+  - ullamh
+  partOfSpeech: a
+02585768-a:
+  definition:
+  - confidence: 0.0
+    text: made of or containing or resembling wood
+  ili: i14292
+  members:
+  - adhmadach
+  partOfSpeech: a
+02587233-a:
+  definition:
+  - confidence: 0.0
+    text: characteristic of a nonwoody herb or plant part
+  ili: i14302
+  members:
+  - luibheach
+  partOfSpeech: a
+02590887-a:
+  definition:
+  - confidence: 0.0
+    text: affected by wear; damaged by long use
+  ili: i14320
+  members:
+  - caite
+  partOfSpeech: a
+02596887-a:
+  definition:
+  - confidence: 0.0
+    text: worthy of imitation
+  ili: i14351
+  members:
+  - eiseamláireach
+  partOfSpeech: a

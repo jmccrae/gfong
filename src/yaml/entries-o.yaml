@@ -1,0 +1,756 @@
+Oireachtas:
+  n:
+    sense:
+    - id: 'oireachtas%1:14:01::'
+      synset: 08336707-n
+Oirísis:
+  n:
+    sense:
+    - id: 'oirísis%1:10:00::'
+      synset: 06983797-n
+Ollainnis:
+  n:
+    sense:
+    - id: 'ollainnis%1:10:00::'
+      synset: 06965334-n
+obair:
+  n:
+    sense:
+    - id: 'obair%1:04:00::'
+      synset: 00576778-n
+    - id: 'obair%1:04:01::'
+      synset: 00585404-n
+    - id: 'obair%1:04:02::'
+      synset: 00621992-n
+    - id: 'obair%1:04:03::'
+      synset: 00720957-n
+    - id: 'obair%1:06:04::'
+      synset: 04606723-n
+obair a dhéanamh:
+  v:
+    sense:
+    - id: 'obair_a_dhéanamh%2:41:00::'
+      synset: 02415985-v
+obair shóisialta:
+  n:
+    sense:
+    - id: 'obair_shóisialta%1:04:00::'
+      synset: 01211414-n
+ocht:
+  a:
+    sense:
+    - id: 'ocht%3:00:01::'
+      synset: 02194712-a
+  n:
+    sense:
+    - id: 'ocht%1:23:00::'
+      synset: 13767226-n
+ocht déag:
+  a:
+    sense:
+    - id: 'ocht_déag%3:00:00::'
+      synset: 02195747-a
+ochtagán:
+  n:
+    sense:
+    - id: 'ochtagán%1:25:00::'
+      synset: 13905220-n
+ochtar:
+  a:
+    sense:
+    - id: 'ochtar%3:00:00::'
+      synset: 02194712-a
+ocras:
+  n:
+    sense:
+    - id: 'ocras%1:26:00::'
+      synset: 14063016-n
+ocsaigin:
+  n:
+    sense:
+    - id: 'ocsaigin%1:27:00::'
+      synset: 14672278-n
+ocsaíd:
+  n:
+    sense:
+    - id: 'ocsaíd%1:27:00::'
+      synset: 14996078-n
+odaiméadar:
+  n:
+    sense:
+    - id: 'odaiméadar%1:06:00::'
+      synset: 03846663-n
+oftailmeolaí:
+  n:
+    sense:
+    - id: 'oftailmeolaí%1:18:00::'
+      synset: 10398772-n
+oftailmeolaíocht:
+  n:
+    sense:
+    - id: 'oftailmeolaíocht%1:09:00::'
+      synset: 06063977-n
+oibiachtúil:
+  a:
+    sense:
+    - id: 'oibiachtúil%3:00:00::'
+      synset: 01619332-a
+oibiachtúlacht:
+  n:
+    sense:
+    - id: 'oibiachtúlacht%1:07:00::'
+      synset: 04899539-n
+oibleagáid:
+  n:
+    sense:
+    - id: 'oibleagáid%1:04:00::'
+      synset: 01132241-n
+oibreoir:
+  n:
+    sense:
+    - id: 'oibreoir%1:24:00::'
+      synset: 13808625-n
+    - id: 'oibreoir%1:18:01::'
+      synset: 10398111-n
+oibreán:
+  n:
+    sense:
+    - id: 'oibreán%1:27:00::'
+      synset: 14802595-n
+oibrigh:
+  v:
+    sense:
+    - id: 'oibrigh%2:31:00::'
+      synset: 00636568-v
+    - id: 'oibrigh%2:35:01::'
+      synset: 01528454-v
+    - id: 'oibrigh%2:36:02::'
+      synset: 01632781-v
+    - id: 'oibrigh%2:41:03::'
+      synset: 02418610-v
+    - id: 'oibrigh%2:41:04::'
+      synset: 02448714-v
+    - id: 'oibrigh%2:41:05::'
+      synset: 02531113-v
+    - id: 'oibrigh%2:41:06::'
+      synset: 02415985-v
+oibrigh amach:
+  v:
+    sense:
+    - id: 'oibrigh_amach%2:31:00::'
+      synset: 00636568-v
+    - id: 'oibrigh_amach%2:31:01::'
+      synset: 00638921-v
+    - id: 'oibrigh_amach%2:31:02::'
+      synset: 00663742-v
+    - id: 'oibrigh_amach%2:36:03::'
+      synset: 01641910-v
+oibrigh ar:
+  v:
+    sense:
+    - id: 'oibrigh_ar%2:41:00::'
+      synset: 02420169-v
+oibrí:
+  n:
+    sense:
+    - id: 'oibrí%1:18:00::'
+      synset: 09655706-n
+    - id: 'oibrí%1:18:01::'
+      synset: 10260997-n
+oibríocht:
+  n:
+    sense:
+    - id: 'oibríocht%1:22:00::'
+      synset: 13546128-n
+    - id: 'oibríocht%1:04:01::'
+      synset: 00957171-n
+oibríochtúil:
+  a:
+    sense:
+    - id: 'oibríochtúil%3:01:00::'
+      synset: 03025801-a
+oide:
+  n:
+    sense:
+    - id: 'oide%1:18:00::'
+      synset: 09950876-n
+    - id: 'oide%1:18:01::'
+      synset: 10713754-n
+oideachas:
+  n:
+    sense:
+    - id: 'oideachas%1:04:00::'
+      synset: 00612720-n
+    - id: 'oideachas%1:09:01::'
+      synset: 05993172-n
+oideachas a chur ar:
+  v:
+    sense:
+    - id: 'oideachas_a_chur_ar%2:31:00::'
+      synset: 00604693-v
+oideachasúil:
+  a:
+    sense:
+    - id: 'oideachasúil%3:01:00::'
+      synset: 02957558-a
+oideas:
+  n:
+    sense:
+    - id: 'oideas%1:06:00::'
+      synset: 04005638-n
+    - id: 'oideas%1:10:01::'
+      synset: 06801642-n
+oideoir:
+  n:
+    sense:
+    - id: 'oideoir%1:18:00::'
+      synset: 10065521-n
+    - id: 'oideoir%1:18:01::'
+      synset: 10713754-n
+oidhreacht:
+  n:
+    sense:
+    - id: 'oidhreacht%1:21:00::'
+      synset: 13283812-n
+    - id: 'oidhreacht%1:21:01::'
+      synset: 13284678-n
+    - id: 'oidhreacht%1:07:02::'
+      synset: 04928188-n
+oifig:
+  n:
+    sense:
+    - id: 'oifig%1:04:00::'
+      synset: 00721817-n
+    - id: 'oifig%1:06:01::'
+      synset: 03847186-n
+    - id: 'oifig%1:14:02::'
+      synset: 08354251-n
+oifigeach:
+  n:
+    sense:
+    - id: 'oifigeach%1:18:00::'
+      synset: 10336665-n
+    - id: 'oifigeach%1:18:01::'
+      synset: 10391149-n
+    - id: 'oifigeach%1:18:02::'
+      synset: 10391440-n
+oifigiúil:
+  a:
+    sense:
+    - id: 'oifigiúil%3:00:00::'
+      synset: 01636580-a
+oigheann:
+  n:
+    sense:
+    - id: 'oigheann%1:06:00::'
+      synset: 03868196-n
+oighear:
+  n:
+    sense:
+    - id: 'oighear%1:27:00::'
+      synset: 14939335-n
+oighearaois:
+  n:
+    sense:
+    - id: 'oighearaois%1:28:00::'
+      synset: 15280006-n
+oighearshruth:
+  n:
+    sense:
+    - id: 'oighearshruth%1:17:00::'
+      synset: 09312237-n
+oil:
+  v:
+    sense:
+    - id: 'oil%2:31:00::'
+      synset: 00604693-v
+oileán:
+  n:
+    sense:
+    - id: 'oileán%1:17:00::'
+      synset: 09339360-n
+oileánach:
+  a:
+    sense:
+    - id: 'oileánach%3:01:00::'
+      synset: 02761255-a
+oileánachas:
+  n:
+    sense:
+    - id: 'oileánachas%1:26:00::'
+      synset: 14438922-n
+oilithreach:
+  n:
+    sense:
+    - id: 'oilithreach%1:18:00::'
+      synset: 10452296-n
+oiliúint:
+  n:
+    sense:
+    - id: 'oiliúint%1:04:00::'
+      synset: 00895653-n
+oiliúnaí:
+  n:
+    sense:
+    - id: 'oiliúnaí%1:18:00::'
+      synset: 10742034-n
+oiliúnóir:
+  n:
+    sense:
+    - id: 'oiliúnóir%1:18:00::'
+      synset: 10742224-n
+oilteacht:
+  n:
+    sense:
+    - id: 'oilteacht%1:09:00::'
+      synset: 05648574-n
+oinceolaíocht:
+  n:
+    sense:
+    - id: 'oinceolaíocht%1:09:00::'
+      synset: 06063797-n
+oinniún:
+  n:
+    sense:
+    - id: 'oinniún%1:20:00::'
+      synset: 12453313-n
+    - id: 'oinniún%1:13:01::'
+      synset: 07737962-n
+ointeolaíocht:
+  n:
+    sense:
+    - id: 'ointeolaíocht%1:09:00::'
+      synset: 06172563-n
+oir:
+  v:
+    sense:
+    - id: 'oir%2:42:00::'
+      synset: 02663315-v
+    - id: 'oir%2:42:01::'
+      synset: 02708690-v
+oir do:
+  v:
+    sense:
+    - id: 'oir_do%2:42:00::'
+      synset: 02708690-v
+oirchill:
+  n:
+    sense:
+    - id: 'oirchill%1:12:00::'
+      synset: 07526319-n
+oirdeanáire:
+  n:
+    sense:
+    - id: 'oirdeanáire%1:18:00::'
+      synset: 10402179-n
+oireachtas:
+  n:
+    sense:
+    - id: 'oireachtas%1:14:00::'
+      synset: 08180172-n
+oiread:
+  a:
+    sense:
+    - id: 'oiread%3:00:00::'
+      synset: 01557986-a
+oirfide:
+  n:
+    sense:
+    - id: 'oirfide%1:04:00::'
+      synset: 00430033-n
+oirfideach:
+  n:
+    sense:
+    - id: 'oirfideach%1:18:00::'
+      synset: 10435383-n
+oiriúint:
+  n:
+    sense:
+    - id: 'oiriúint%1:06:00::'
+      synset: 02674410-n
+oiriúnach:
+  a:
+    sense:
+    - id: 'oiriúnach%3:00:00::'
+      synset: 01024009-a
+    - id: 'oiriúnach%3:00:02::'
+      synset: 00135772-a
+  s:
+    sense:
+    - id: oiriúnach%5:00:01:oiriúnach:00
+      synset: 01024501-s
+  v:
+    sense:
+    - id: 'oiriúnach%2:34:03::'
+      synset: 01185870-v
+oiriúnacht:
+  n:
+    sense:
+    - id: 'oiriúnacht%1:07:00::'
+      synset: 04722763-n
+    - id: 'oiriúnacht%1:07:01::'
+      synset: 04724140-n
+oiriúnaigh:
+  v:
+    sense:
+    - id: 'oiriúnaigh%2:30:00::'
+      synset: 00300361-v
+oiriúnaitheach:
+  a:
+    sense:
+    - id: 'oiriúnaitheach%3:00:00::'
+      synset: 00046329-a
+oiriúnú:
+  n:
+    sense:
+    - id: 'oiriúnú%1:22:00::'
+      synset: 13448251-n
+    - id: 'oiriúnú%1:11:01::'
+      synset: 07384204-n
+oismiam:
+  n:
+    sense:
+    - id: 'oismiam%1:27:00::'
+      synset: 14672085-n
+oisre:
+  n:
+    sense:
+    - id: 'oisre%1:05:00::'
+      synset: 01963100-n
+oistéapat:
+  n:
+    sense:
+    - id: 'oistéapat%1:18:00::'
+      synset: 10405265-n
+ola:
+  n:
+    sense:
+    - id: 'ola%1:27:00::'
+      synset: 14991055-n
+ola ae troisc:
+  n:
+    sense:
+    - id: 'ola_ae_troisc%1:27:00::'
+      synset: 14840037-n
+ola rois:
+  n:
+    sense:
+    - id: 'ola_rois%1:27:00::'
+      synset: 15110919-n
+olagarcacht:
+  n:
+    sense:
+    - id: 'olagarcacht%1:14:00::'
+      synset: 08379382-n
+olann:
+  n:
+    sense:
+    - id: 'olann%1:06:00::'
+      synset: 04606562-n
+olc:
+  a:
+    sense:
+    - id: 'olc%3:00:01::'
+      synset: 01129296-a
+    - id: 'olc%3:00:02::'
+      synset: 01134543-a
+  n:
+    sense:
+    - id: 'olc%1:04:00::'
+      synset: 00746935-n
+ollamh:
+  n:
+    sense:
+    - id: 'ollamh%1:18:00::'
+      synset: 10500315-n
+ollamh cúnta:
+  n:
+    sense:
+    - id: 'ollamh_cúnta%1:18:00::'
+      synset: 09836059-n
+olldord:
+  n:
+    sense:
+    - id: 'olldord%1:06:00::'
+      synset: 02807100-n
+ollmhargadh:
+  n:
+    sense:
+    - id: 'ollmhargadh%1:06:00::'
+      synset: 04365794-n
+ollmhór:
+  a:
+    sense:
+    - id: 'ollmhór%3:00:01::'
+      synset: 01385012-a
+  s:
+    sense:
+    - id: ollmhór%5:00:00:cuimsitheach:02
+      synset: 00528239-s
+    - id: ollmhór%5:00:02:mór:06
+      synset: 01388189-s
+    - id: ollmhór%5:00:03:mór:06
+      synset: 01388707-s
+    - id: ollmhór%5:00:04:mór:06
+      synset: 01390253-s
+    - id: ollmhór%5:00:05:mór:06
+      synset: 01392104-s
+ollnóva:
+  n:
+    sense:
+    - id: 'ollnóva%1:17:00::'
+      synset: 09474367-n
+ollréalta:
+  n:
+    sense:
+    - id: 'ollréalta%1:17:00::'
+      synset: 09311675-n
+ollscartaire:
+  n:
+    sense:
+    - id: 'ollscartaire%1:06:00::'
+      synset: 02919525-n
+ológ:
+  n:
+    sense:
+    - id: 'ológ%1:13:00::'
+      synset: 07783320-n
+olúil:
+  s:
+    sense:
+    - id: olúil%5:00:00:sailleach:00
+      synset: 00995782-s
+omnabhóir:
+  n:
+    sense:
+    - id: 'omnabhóir%1:05:00::'
+      synset: 02078264-n
+onnmhaire:
+  n:
+    sense:
+    - id: 'onnmhaire%1:06:00::'
+      synset: 03311152-n
+onnmhaireoir:
+  n:
+    sense:
+    - id: 'onnmhaireoir%1:18:00::'
+      synset: 10093422-n
+onnmhairigh:
+  v:
+    sense:
+    - id: 'onnmhairigh%2:40:00::'
+      synset: 02351405-v
+onnmhairiúchán:
+  n:
+    sense:
+    - id: 'onnmhairiúchán%1:04:00::'
+      synset: 01113857-n
+onóir:
+  n:
+    sense:
+    - id: 'onóir%1:07:00::'
+      synset: 04876319-n
+    - id: 'onóir%1:10:01::'
+      synset: 06709228-n
+onóir a bhronnadh ar:
+  v:
+    sense:
+    - id: 'onóir_a_bhronnadh_ar%2:41:00::'
+      synset: 02551772-v
+optach:
+  a:
+    sense:
+    - id: 'optach%3:01:00::'
+      synset: 02880845-a
+optaic:
+  n:
+    sense:
+    - id: 'optaic%1:09:00::'
+      synset: 06110385-n
+optamach:
+  s:
+    sense:
+    - id: optamach%5:00:00:is_fearr:00
+      synset: 00230237-s
+optúil:
+  a:
+    sense:
+    - id: 'optúil%3:01:00::'
+      synset: 02872948-a
+oragán:
+  n:
+    sense:
+    - id: 'oragán%1:20:00::'
+      synset: 12874047-n
+ord:
+  n:
+    sense:
+    - id: 'ord%1:26:00::'
+      synset: 14520294-n
+    - id: 'ord%1:07:01::'
+      synset: 05098520-n
+    - id: 'ord%1:14:02::'
+      synset: 08123900-n
+ordaigh:
+  v:
+    sense:
+    - id: 'ordaigh%2:32:00::'
+      synset: 00747485-v
+    - id: 'ordaigh%2:32:01::'
+      synset: 00748704-v
+    - id: 'ordaigh%2:32:02::'
+      synset: 00749139-v
+    - id: 'ordaigh%2:32:03::'
+      synset: 00751969-v
+    - id: 'ordaigh%2:32:04::'
+      synset: 00753573-v
+ordaigh do:
+  v:
+    sense:
+    - id: 'ordaigh_do%2:32:00::'
+      synset: 00748704-v
+ordlathach:
+  a:
+    sense:
+    - id: 'ordlathach%3:00:00::'
+      synset: 01205960-a
+ordlathas:
+  n:
+    sense:
+    - id: 'ordlathas%1:14:00::'
+      synset: 08394537-n
+ordú:
+  n:
+    sense:
+    - id: 'ordú%1:10:00::'
+      synset: 06541210-n
+    - id: 'ordú%1:10:01::'
+      synset: 06551761-n
+    - id: 'ordú%1:10:02::'
+      synset: 07183274-n
+orgán:
+  n:
+    sense:
+    - id: 'orgán%1:08:00::'
+      synset: 05305022-n
+orgán béil:
+  n:
+    sense:
+    - id: 'orgán_béil%1:06:00::'
+      synset: 03499379-n
+orgánach:
+  a:
+    sense:
+    - id: 'orgánach%3:00:00::'
+      synset: 02569537-a
+    - id: 'orgánach%3:00:02::'
+      synset: 01170419-a
+    - id: 'orgánach%3:00:03::'
+      synset: 01683714-a
+    - id: 'orgánach%3:00:04::'
+      synset: 01684118-a
+  n:
+    sense:
+    - id: 'orgánach%1:03:01::'
+      synset: 00004475-n
+orgánaí:
+  n:
+    sense:
+    - id: 'orgánaí%1:18:00::'
+      synset: 10402524-n
+orlach:
+  n:
+    sense:
+    - id: 'orlach%1:23:00::'
+      synset: 13671409-n
+ornáid:
+  n:
+    sense:
+    - id: 'ornáid%1:06:00::'
+      synset: 03174056-n
+ornáideach:
+  a:
+    sense:
+    - id: 'ornáideach%3:00:00::'
+      synset: 01094927-a
+ortagrafaíocht:
+  n:
+    sense:
+    - id: 'ortagrafaíocht%1:10:00::'
+      synset: 06362609-n
+ortaipéide:
+  n:
+    sense:
+    - id: 'ortaipéide%1:09:00::'
+      synset: 06073656-n
+os cionn:
+  r:
+    sense:
+    - id: 'os_cionn%4:02:00::'
+      synset: 00080266-r
+os comhair:
+  r:
+    sense:
+    - id: 'os_comhair%4:02:00::'
+      synset: 00067181-r
+osalat:
+  n:
+    sense:
+    - id: 'osalat%1:05:00::'
+      synset: 02128146-n
+oscail:
+  v:
+    sense:
+    - id: 'oscail%2:35:00::'
+      synset: 01348685-v
+    - id: 'oscail%2:41:01::'
+      synset: 02431018-v
+oscailte:
+  a:
+    sense:
+    - id: 'oscailte%3:00:01::'
+      synset: 01656822-a
+  s:
+    sense:
+    - id: oscailte%5:00:00:poiblí:00
+      synset: 01867850-s
+oscar:
+  n:
+    sense:
+    - id: 'oscar%1:18:00::'
+      synset: 10788253-n
+ospidéal:
+  n:
+    sense:
+    - id: 'ospidéal%1:06:00::'
+      synset: 03545775-n
+ostarach:
+  a:
+    sense:
+    - id: 'ostarach%3:01:00::'
+      synset: 02972644-a
+ostrais:
+  n:
+    sense:
+    - id: 'ostrais%1:05:00::'
+      synset: 01521519-n
+othar:
+  n:
+    sense:
+    - id: 'othar%1:18:00::'
+      synset: 10425439-n
+otharcharr:
+  n:
+    sense:
+    - id: 'otharcharr%1:06:00::'
+      synset: 02703861-n
+otracht:
+  n:
+    sense:
+    - id: 'otracht%1:07:00::'
+      synset: 05007507-n
+oíche:
+  n:
+    sense:
+    - id: 'oíche%1:28:00::'
+      synset: 15192074-n

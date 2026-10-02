@@ -1,0 +1,979 @@
+01835473-v:
+  definition:
+  - bog ionas go n-athrófar suíomh, tairiscint neamhaistrithe a dhéanamh
+  example:
+  - Bhog sé a lámh beagán ar chlé
+  hypernym:
+  - 02372362-v
+  ili: i30886
+  members:
+  - bog
+  partOfSpeech: v
+01839438-v:
+  definition:
+  - láthair a athrú, bog, taisteal, nó lean, go meafarach freisin
+  example:
+  - Cé chomh tapa is a théann do charr nua?
+  hypernym:
+  - 02372362-v
+  ili: i30898
+  members:
+  - bog
+  - taisteal
+  - téigh
+  - gabh
+  - gluais
+  partOfSpeech: v
+01846632-v:
+  definition:
+  - taistil nó téigh trí chineál áirithe iompair, nó bealach áirithe
+  example:
+  - Tógann sé an bus ag obair
+  hypernym:
+  - 01161188-v
+  ili: i30924
+  members:
+  - tóg
+  partOfSpeech: v
+01847631-v:
+  definition:
+  - téigh go áiteanna áirithe mar do fhámaireacht
+  example:
+  - Ar thug tú cuairt ar Pháras riamh?
+  hypernym:
+  - 01839438-v
+  ili: i30929
+  members:
+  - cuairt a thabhairt ar
+  partOfSpeech: v
+01850600-v:
+  definition:
+  - confidence: 0.0
+    text: traverse or travel on (a body of water)
+  hypernym:
+  - 01839438-v
+  ili: i30943
+  members:
+  - seol
+  partOfSpeech: v
+01852660-v:
+  definition:
+  - bogadh ar shúil ó áit i dtreo eile
+  example:
+  - Bailigh leat sula thosaím ag gol
+  hypernym:
+  - 02019450-v
+  ili: i30954
+  members:
+  - téigh
+  - imigh
+  - bailigh le
+  - fág
+  partOfSpeech: v
+01853188-v:
+  definition:
+  - bog i dtreo, taisteal i dtreo ruda nó duine éigin nó tar i ngiorracht ruda nó
+    duine
+  example:
+  - Tháinig sé suas an bóthar agus é ag canadh
+  hypernym:
+  - 01839438-v
+  ili: i30956
+  members:
+  - tar
+  - tar aníos
+  - tar suas
+  partOfSpeech: v
+01854282-v:
+  definition:
+  - de réir brí nithiúla agus teibí, a chur faoi deara a bhogadh nó a aistriú go suíomh
+    nó áit nua
+  example:
+  - Bog na boscaí sin isteach sa chúinne, le do thoil
+  hypernym:
+  - 00126072-v
+  ili: i30960
+  members:
+  - bog
+  - cuir as áit
+  - aistrigh
+  - athraigh
+  - gluais
+  partOfSpeech: v
+01859141-v:
+  definition:
+  - confidence: 0.0
+    text: lift and reset in another soil or situation
+  hypernym:
+  - 01854282-v
+  ili: i30978
+  members:
+  - aistrigh
+  partOfSpeech: v
+01859592-v:
+  definition:
+  - confidence: 0.0
+    text: change residence, affiliation, or place of employment
+  hypernym:
+  - 00122978-v
+  ili: i30980
+  members:
+  - bog
+  partOfSpeech: v
+01860612-v:
+  definition:
+  - confidence: 0.0
+    text: move from one country or region to another and settle there
+  hypernym:
+  - 01859592-v
+  ili: i30986
+  members:
+  - imirc
+  partOfSpeech: v
+01861378-v:
+  definition:
+  - a bheith in áit áirithe agus gan a fhágáil
+  example:
+  - Táimid ag fanacht i nDetroit, nílimid ag bogadh go Cincinnati
+  hypernym:
+  - 02661230-v
+  ili: i30988
+  members:
+  - fan
+  partOfSpeech: v
+01861703-v:
+  definition:
+  - confidence: 0.0
+    text: get going or set in motion
+  hypernym:
+  - 02372362-v
+  ili: i30989
+  members:
+  - tosaigh
+  partOfSpeech: v
+01864781-v:
+  definition:
+  - stopadh, stopadh ag bogadh
+  example:
+  - stop an carr
+  hypernym:
+  - 00122978-v
+  ili: i31006
+  members:
+  - stop
+  - cuir stop le
+  - stad
+  partOfSpeech: v
+01870178-v:
+  definition:
+  - confidence: 0.0
+    text: move by turning over or rotating
+  hypernym:
+  - 01911251-v
+  ili: i31034
+  members:
+  - roll
+  partOfSpeech: v
+01875972-v:
+  definition:
+  - bogadh le fórsa
+  example:
+  - Bhrúigh sé an tábla isteach i gcúinne
+  hypernym:
+  - 01854282-v
+  ili: i31065
+  members:
+  - brúigh
+  - cuir brú ar
+  partOfSpeech: v
+01885173-v:
+  definition:
+  - bog thart gan aidhm nó gan aon cheann scríbe, go minic ar thóir bia nó fostaíochta
+  example:
+  - Chuaigh na giofóga ar shiúlóid tríd an choill
+  hypernym:
+  - 01839438-v
+  ili: i31113
+  members:
+  - caith
+  - caith amach
+  - scaip
+  - bheith ag fálróid thart
+  - téigh ar strae
+  - siúil
+  - trampáil
+  - téigh ar shiúlóid
+  - bheith ag fánaíocht
+  - fánaí
+  partOfSpeech: v
+01889838-v:
+  definition:
+  - bog go mall, i gcás daoine nó ainmhithe a bhfuil a corp in aice leis an talamh
+  example:
+  - Bhí an crogall ag bogadh go mall le taobh grinnill na habhann
+  hypernym:
+  - 01839438-v
+  ili: i31134
+  members:
+  - bog go mall
+  partOfSpeech: v
+01892288-v:
+  definition:
+  - confidence: 0.0
+    text: move stealthily
+  hypernym:
+  - 01835473-v
+  ili: i31147
+  members:
+  - sleamhnaigh
+  partOfSpeech: v
+01893603-v:
+  definition:
+  - bogadh nó a chur faoi deara bogadh anonn is anall
+  example:
+  - Chroith an poitigéir an fleascán go bríomhar
+  hypernym:
+  - 01835473-v
+  ili: i31153
+  members:
+  - croith
+  - corraigh
+  partOfSpeech: v
+01908923-v:
+  definition:
+  - úsáid na gcos chun bogadh chun tosaigh; gluais chun tosaigh faoi chéimeanna a
+    thógáil
+  example:
+  - Siúl, ná bí ag rith!
+  hypernym:
+  - 01839438-v
+  ili: i31244
+  members:
+  - siúl
+  - siúil
+  partOfSpeech: v
+01911251-v:
+  definition:
+  - treoshuíomh nó air a athrú
+  example:
+  - Cas i mo threo
+  hypernym:
+  - 01835473-v
+  ili: i31251
+  members:
+  - cas
+  - iompaigh
+  - tiontaigh
+  partOfSpeech: v
+01916152-v:
+  definition:
+  - taistil trasna nó téigh thar
+  example:
+  - Chlúdaigh an carbhán beagnach 100 míle gach uile lá
+  hypernym:
+  - 01839438-v
+  ili: i31275
+  members:
+  - clúdaigh
+  - cumhdaigh
+  - tar anonn
+  - trasnaigh
+  - téigh trasna
+  - gearr trasna
+  partOfSpeech: v
+01925957-v:
+  definition:
+  - dul in airde le dul chun cinn de réir a chéile nó leanúnach
+  example:
+  - Ar dhreap tú riamh suas an cnoc taobh thiar de do theach?
+  hypernym:
+  - 01972576-v
+  ili: i31325
+  members:
+  - méadaigh
+  - dreap
+  - téigh suas
+  partOfSpeech: v
+01930264-v:
+  definition:
+  - bogadh go tapa faoi úsáid na gcos, le cos amháin ar an talamh ag aon am amháin
+  example:
+  - Ná bí ag rith — bainfear d'anáil díot
+  hypernym:
+  - 02059573-v
+  ili: i31347
+  members:
+  - rith
+  partOfSpeech: v
+01934070-v:
+  definition:
+  - taisteal nó a iompar i bhfeithicil
+  example:
+  - Thiomáineamar go dtí an ollscoil gach maidin
+  hypernym:
+  - 01839438-v
+  - 01452567-v
+  ili: i31371
+  members:
+  - tiomáin
+  partOfSpeech: v
+01934845-v:
+  definition:
+  - feithicil a oibriú nó a stiúradh
+  example:
+  - carr nó bus a thiomáint
+  hypernym:
+  - 01227308-v
+  ili: i31374
+  members:
+  - tiomáin
+  partOfSpeech: v
+01935739-v:
+  definition:
+  - an cúrsa a stiúradh; an treo taistil a chinneadh
+  hypernym:
+  - 02445887-v
+  ili: i31378
+  members:
+  - treoraigh
+  - ionramháil
+  - ainligh
+  - stiúir
+  - bheith i gceannas ar
+  partOfSpeech: v
+01939092-v:
+  definition:
+  - dul nó taisteal i dtreo
+  example:
+  - cá bhfuil sí ag dul
+  hypernym:
+  - 01999581-v
+  ili: i31395
+  members:
+  - téigh
+  partOfSpeech: v
+01944262-v:
+  definition:
+  - taisteal tríd an aer, bí san aer
+  example:
+  - Ní féidir le fear eitilt
+  hypernym:
+  - 01839438-v
+  ili: i31423
+  members:
+  - eitil
+  partOfSpeech: v
+01944952-v:
+  definition:
+  - confidence: 0.0
+    text: operate an airplane
+  hypernym:
+  - 01227308-v
+  ili: i31427
+  members:
+  - eitil
+  partOfSpeech: v
+01954657-v:
+  definition:
+  - confidence: 0.0
+    text: transport commercially
+  hypernym:
+  - 01854282-v
+  ili: i31483
+  members:
+  - seol
+  partOfSpeech: v
+01955339-v:
+  definition:
+  - a chur faoi deara a dhul go háit éigin
+  example:
+  - Caitheadh san aer an carr de bharr na pléisce
+  hypernym:
+  - 01854282-v
+  ili: i31486
+  members:
+  - seol
+  - dírigh
+  - cuir
+  partOfSpeech: v
+01956757-v:
+  definition:
+  - confidence: 0.0
+    text: send or direct for treatment, information, or a decision
+  hypernym:
+  - 01955339-v
+  ili: i31492
+  members:
+  - tarchuir
+  partOfSpeech: v
+01958986-v:
+  definition:
+  - confidence: 0.0
+    text: send away towards a designated goal
+  hypernym:
+  - 01954657-v
+  ili: i31503
+  members:
+  - seol
+  partOfSpeech: v
+01959843-v:
+  definition:
+  - a iompar nó taisteal ar fheithicil nó i bhfeithicil
+  example:
+  - Taistealaím chuig obair i mbus
+  hypernym:
+  - 01839438-v
+  ili: i31508
+  members:
+  - taistil ar
+  partOfSpeech: v
+01961388-v:
+  definition:
+  - suí agus taistil ar droim ainmhí, agus a ghluaisne a smachtú, de ghnáth
+  example:
+  - Níor shuí sí ar capall!
+  hypernym:
+  - 01839438-v
+  ili: i31515
+  members:
+  - marcaíocht
+  - suí
+  partOfSpeech: v
+01967949-v:
+  definition:
+  - bog ar aghaidh as cuimse
+  example:
+  - Léim an capall trasna an mhóinéir
+  hypernym:
+  - 01835473-v
+  ili: i31550
+  members:
+  - léim
+  - pocléim a thabhairt
+  - leim
+  partOfSpeech: v
+01972576-v:
+  definition:
+  - bog aníos
+  example:
+  - Scaip an ceo
+  hypernym:
+  - 01839438-v
+  ili: i31575
+  members:
+  - éirigh
+  - éirigh amach
+  - ardaigh
+  - méadaigh
+  - tar aníos
+  - bog suas
+  partOfSpeech: v
+01974840-v:
+  definition:
+  - bogadh anuas agus níos ísle, ní i gcónaí an bealach ar fad
+  example:
+  - Tá an teocht ag ísliú
+  hypernym:
+  - 01839438-v
+  ili: i31585
+  members:
+  - tar anuas
+  - téigh síos
+  - tit
+  - ísligh
+  - laghdaigh
+  partOfSpeech: v
+01976312-v:
+  definition:
+  - téigh síos i dtitim gan choinne faoi thionchar domhantarraingthe
+  example:
+  - Thit an chraobh den chrann
+  hypernym:
+  - 01839438-v
+  ili: i31590
+  members:
+  - tit
+  partOfSpeech: v
+01977139-v:
+  definition:
+  - bog rud éigin nó duine éigin go dtí suíomh níos ísle
+  example:
+  - tóg an vása anuas ón tseilf
+  hypernym:
+  - 01854282-v
+  ili: i31595
+  members:
+  - téigh síos
+  - tóg anuas
+  - ísligh
+  - lig síos
+  partOfSpeech: v
+01978076-v:
+  definition:
+  - ardaigh ó shuíomh níos ísle go suíomh níos airde
+  example:
+  - Ardaigh na lámha s'agatsa
+  hypernym:
+  - 01854282-v
+  ili: i31600
+  members:
+  - éirigh
+  - ardaigh
+  - cuir in airde
+  - cuir ina sheasamh
+  - tóg suas
+  partOfSpeech: v
+01980103-v:
+  definition:
+  - tóg agus ardaigh
+  hypernym:
+  - 01978076-v
+  ili: i31608
+  members:
+  - pioc suas
+  - ardaigh
+  - bailigh
+  partOfSpeech: v
+01981715-v:
+  definition:
+  - lig don talamh
+  example:
+  - Ná scaoil na soithí
+  hypernym:
+  - 01854282-v
+  ili: i31618
+  members:
+  - scaoil
+  partOfSpeech: v
+01987278-v:
+  definition:
+  - a bheith ina sheasamh
+  example:
+  - Sheas an lucht féachana agus thosaigh siad ag bualadh bos
+  hypernym:
+  - 00109468-v
+  ili: i31652
+  members:
+  - éirigh
+  - seas
+  - seas suas
+  partOfSpeech: v
+01988916-v:
+  definition:
+  - bí i do shuí
+  hypernym:
+  - 00109468-v
+  ili: i31660
+  members:
+  - suigh
+  - suigh síos
+  partOfSpeech: v
+01995963-v:
+  definition:
+  - confidence: 0.0
+    text: travel along a certain course
+  hypernym:
+  - 01839438-v
+  ili: i31698
+  members:
+  - lean
+  partOfSpeech: v
+01996535-v:
+  definition:
+  - bog ar aghaidh, sa chiall meafarach freisin
+  example:
+  - Téann am ar aghaidh
+  hypernym:
+  - 01839438-v
+  ili: i31702
+  members:
+  - téigh ar aghaidh
+  - téigh chun cinn
+  - bog ar aghaidh
+  partOfSpeech: v
+01998474-v:
+  definition:
+  - tarraing siar nó bog ar shiúl nó ar gcúl
+  example:
+  - Tharraing an namhaid siar
+  hypernym:
+  - 01839438-v
+  ili: i31712
+  members:
+  - cúlaigh
+  - tarraing amach
+  - tarraing siar
+  - bog amach
+  partOfSpeech: v
+01999243-v:
+  definition:
+  - confidence: 0.0
+    text: bring, take, or pull out of a container or from under a cover
+  hypernym:
+  - 00173351-v
+  ili: i31716
+  members:
+  - tarraing
+  partOfSpeech: v
+01999581-v:
+  definition:
+  - confidence: 0.0
+    text: move ahead; travel onward in time or space
+  hypernym:
+  - 01839438-v
+  ili: i31717
+  members:
+  - téigh
+  partOfSpeech: v
+02002464-v:
+  definition:
+  - téigh taobh thiar de, téigh i ndiaidh, tar sa tóir ar
+  example:
+  - Lean na lachain a máthair timpeall an locháin
+  hypernym:
+  - 01839438-v
+  ili: i31731
+  members:
+  - lean
+  - bí
+  partOfSpeech: v
+02003830-v:
+  definition:
+  - tabhair duine éigin go dtí áit éigin
+  example:
+  - threoraíomar go dtí an ceannasaí é
+  hypernym:
+  - 02372362-v
+  ili: i31738
+  members:
+  - tóg
+  - treoraigh
+  - tabhair le
+  - tionlaic
+  - tabhair
+  partOfSpeech: v
+02008888-v:
+  definition:
+  - téigh nó tar ar ais go háit, staid, nó gníomhaíocht ina raibh té roimhe
+  example:
+  - fill ar ais go dtí do thír dhúchais
+  hypernym:
+  - 01839438-v
+  ili: i31761
+  members:
+  - fill
+  partOfSpeech: v
+02009962-v:
+  definition:
+  - sroich ar cheann scríbe; teacht ar láthair mar gheall ar ghluaiseacht nó forás
+  example:
+  - Tháinig sí abhaile ag a 7 a chlog
+  hypernym:
+  - 02024442-v
+  ili: i31766
+  members:
+  - tar
+  - sroich
+  - bain amach
+  partOfSpeech: v
+02010848-v:
+  definition:
+  - pointe amach a bhaint amach, nó staid nó leibhéal áirithe a bhaint amach
+  example:
+  - Bhuail an teirmiméadar 100 céim
+  hypernym:
+  - 02009962-v
+  ili: i31770
+  members:
+  - buail
+  - sroic
+  - bain amach
+  partOfSpeech: v
+02013448-v:
+  definition:
+  - imigh ó áit
+  example:
+  - Cén uair a fhágann do thraein?
+  hypernym:
+  - 01839438-v
+  ili: i31785
+  members:
+  - imigh
+  - bailigh leat
+  - fág
+  - téigh
+  partOfSpeech: v
+02018017-v:
+  definition:
+  - imigh go áit éigin
+  example:
+  - D'imigh an chlann go Florida
+  hypernym:
+  - 02013448-v
+  ili: i31809
+  members:
+  - éirí as
+  - leag amach
+  - tús
+  - tosú amach
+  - scar
+  - imigh
+  partOfSpeech: v
+02019450-v:
+  definition:
+  - bogadh amach nó imigh ó
+  example:
+  - fág an seomra
+  hypernym:
+  - 01835473-v
+  ili: i31816
+  members:
+  - téigh amach
+  - fág
+  - imigh
+  partOfSpeech: v
+02020375-v:
+  definition:
+  - tar nó téigh isteach
+  example:
+  - Chuaigh an bád isteach ar cheantar le bogaigh éadoimhne
+  hypernym:
+  - 01839438-v
+  ili: i31821
+  members:
+  - téigh isteach
+  - gabh isteach
+  - tar isteach
+  - bog isteach
+  - iontráil
+  partOfSpeech: v
+02024442-v:
+  definition:
+  - ceann scríbe a shroicheadh, de réir brí réadúla nó teibí
+  example:
+  - Tiocfaimid ar Detroit faoi mheán lae
+  hypernym:
+  - 02372362-v
+  ili: i31843
+  members:
+  - gnóthaigh
+  - déan
+  - sroich
+  - tar ar
+  - bain amach
+  partOfSpeech: v
+02026014-v:
+  definition:
+  - sprioc a bhaint amach
+  example:
+  - fuair sé áit ar an bhfoireann
+  hypernym:
+  - 02531751-v
+  ili: i31850
+  members:
+  - déan faigh
+  - téigh i bhfeidhm ar
+  - bain amach
+  - forchéimnigh
+  partOfSpeech: v
+02026953-v:
+  definition:
+  - teacht le chéile
+  example:
+  - Seans go bhfeicfidh mé ag an gcruinniú thú
+  hypernym:
+  - 02372362-v
+  ili: i31856
+  members:
+  - feic
+  - tar ar
+  - buail le
+  - cas ar
+  - cas le
+  partOfSpeech: v
+02028720-v:
+  definition:
+  - confidence: 0.0
+    text: be in session
+  hypernym:
+  - 02433771-v
+  ili: i31865
+  members:
+  - suigh
+  partOfSpeech: v
+02034269-v:
+  definition:
+  - confidence: 0.0
+    text: to cause to separate and go in different directions
+  hypernym:
+  - 02372362-v
+  ili: i31893
+  members:
+  - scaip
+  partOfSpeech: v
+02042202-v:
+  definition:
+  - claon nó lúb ó shuíomh ingearach
+  example:
+  - Chlaon sí thar an banastar
+  hypernym:
+  - 00109468-v
+  ili: i31934
+  members:
+  - claon
+  - tiontaigh
+  - crom
+  - fiar
+  partOfSpeech: v
+02055618-v:
+  definition:
+  - bogadh anuas
+  example:
+  - Chuaigh limisín dubh thart nuair a d'fhéach sí amach an fhuinneog
+  hypernym:
+  - 01839438-v
+  ili: i32002
+  members:
+  - téigh thar
+  - dul thar
+  - sáraigh
+  - dul anuas
+  - taisteal trí
+  - téigh thar bráid
+  partOfSpeech: v
+02057865-v:
+  definition:
+  - bog i dtreo
+  example:
+  - Bhí ár gceann scríbe ag druidim linn
+  hypernym:
+  - 01853188-v
+  ili: i32016
+  members:
+  - tar i dtreo
+  - tar i ngiorracht
+  - tar i bhfoisceacht
+  - tar chuig
+  - bí ag druidim
+  partOfSpeech: v
+02059573-v:
+  definition:
+  - bog an-tapa
+  example:
+  - Rop an reathaí tharainn ar luas lasrach
+  hypernym:
+  - 01839438-v
+  ili: i32024
+  members:
+  - brostaigh
+  - deifrigh
+  - rop
+  - taisteal go tapa
+  partOfSpeech: v
+02062918-v:
+  definition:
+  - bog anuas
+  example:
+  - Dheifrigh sé síos an halla chun a chuid aíonna a fháil
+  hypernym:
+  - 01839438-v
+  ili: i32041
+  members:
+  - brostaigh
+  - rásáil
+  - luas a ghéarú
+  - téigh ar luas
+  partOfSpeech: v
+02076777-v:
+  definition:
+  - le haghaidh ama chun bogadh ar aghaidh
+  example:
+  - d'imigh trí bliana thart
+  hypernym:
+  - 01996535-v
+  ili: i32112
+  members:
+  - caith
+  - imigh
+  - sleamhnaigh thart
+  - sleamhnaigh
+  partOfSpeech: v
+02078906-v:
+  definition:
+  - imigh ó ghéibheann
+  example:
+  - D'éalaigh an dúnmharfóir ciontaithe as príosún ardslándála
+  hypernym:
+  - 02079709-v
+  ili: i32120
+  members:
+  - bris scaoilte
+  - éalaigh
+  partOfSpeech: v
+02079296-v:
+  definition:
+  - teith, tabhairt do na boinn, na boinn a bhaint as
+  example:
+  - Má fheiceann tú an fear seo, rith!
+  hypernym:
+  - 02013448-v
+  ili: i32121
+  members:
+  - rith
+  - éalaigh
+  - bheith ar do theitheadh
+  - imigh de ruathar
+  - imigh
+  - éalaigh le
+  - tabhair aghaidh ar na sléibhte
+  - tabhair aghaidh ar na coillte
+  - iompaigh thart
+  - an nead a fhágáil
+  partOfSpeech: v
+02079709-v:
+  definition:
+  - confidence: 0.0
+    text: run away quickly
+  hypernym:
+  - 02079296-v
+  ili: i32122
+  members:
+  - teith
+  partOfSpeech: v
+02081903-v:
+  definition:
+  - rud nó duine a thógáil leat féin go háit éigin
+  example:
+  - Tabhair an bosca ón seomra eile chugam
+  hypernym:
+  - 01452567-v
+  ili: i32134
+  members:
+  - tóg
+  - tabhair le
+  - tabhair chuig
+  - beir le
+  - tabhair
+  partOfSpeech: v
+02082838-v:
+  definition:
+  - duine nó réad nua a thabhairt isteach i dtimpeallacht aithnidiúil
+  example:
+  - Thug sé breitheamh nua isteach
+  hypernym:
+  - 02372362-v
+  ili: i32137
+  members:
+  - tabhair isteach
+  partOfSpeech: v
+02092012-v:
+  definition:
+  - bog i gcuar nó stua, de ghnáth le hintinn bualadh
+  example:
+  - Tharraing sé a dhorn chlé
+  hypernym:
+  - 01854282-v
+  ili: i32189
+  members:
+  - tarraing
+  partOfSpeech: v

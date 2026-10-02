@@ -1,0 +1,21 @@
+02773074-v:
+  definition:
+  - confidence: 0.0
+    text: send out rays or waves
+  hypernym:
+  - 02773266-v
+  ili: i35515
+  members:
+  - radaigh
+  partOfSpeech: v
+02773266-v:
+  definition:
+  - confidence: 0.0
+    text: give off, send forth, or discharge; as of light, heat, or radiation, vapor,
+      etc.
+  hypernym:
+  - 01381221-v
+  ili: i35516
+  members:
+  - astaigh
+  partOfSpeech: v

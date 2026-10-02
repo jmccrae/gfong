@@ -1,0 +1,3726 @@
+14604877-n:
+  definition:
+  - confidence: 0.0
+    text: the tangible substance that goes into the makeup of a physical object
+  hypernym:
+  - 00019793-n
+  ili: i113651
+  members:
+  - ábhar
+  partOfSpeech: n
+14607850-n:
+  definition:
+  - confidence: 0.0
+    text: worthless or dangerous material that should be removed
+  hypernym:
+  - 14880414-n
+  ili: i113661
+  members:
+  - eisíontas
+  partOfSpeech: n
+14608440-n:
+  definition:
+  - confidence: 0.0
+    text: any substance that can cause an allergy
+  hypernym:
+  - 00021007-n
+  ili: i113665
+  members:
+  - ailléirgin
+  partOfSpeech: n
+14609699-n:
+  definition:
+  - confidence: 0.0
+    text: (nontechnical usage) a tiny piece of anything
+  hypernym:
+  - 14604877-n
+  ili: i113673
+  members:
+  - cáithne
+  - cáithnín
+  partOfSpeech: n
+14610949-n:
+  definition:
+  - confidence: 0.0
+    text: a mixture containing two or more metallic elements or metallic and nonmetallic
+      elements usually fused together or dissolving into each other when molten
+  hypernym:
+  - 00019793-n
+  ili: i113678
+  members:
+  - cóimhiotal
+  partOfSpeech: n
+14613403-n:
+  definition:
+  - confidence: 0.0
+    text: a homogeneous mixture of two or more substances; frequently (but not necessarily)
+      a liquid solution
+  hypernym:
+  - 00019793-n
+  ili: i113687
+  members:
+  - tuaslagán
+  partOfSpeech: n
+14616790-n:
+  definition:
+  - confidence: 0.0
+    text: generic name for certain synthetic or semisynthetic materials that can be
+      molded or extruded into objects or films or filaments or used for making e.g.
+      coatings and adhesives
+  hypernym:
+  - 15071467-n
+  ili: i113706
+  members:
+  - plaisteach
+  partOfSpeech: n
+14620880-n:
+  definition:
+  - confidence: 0.0
+    text: material suitable for manufacture or use or finishing
+  hypernym:
+  - 14604877-n
+  ili: i113729
+  members:
+  - amhábhar
+  - bunábhar
+  partOfSpeech: n
+14621938-n:
+  definition:
+  - confidence: 0.0
+    text: a porous mass of interlacing fibers that forms the internal skeleton of
+      various marine animals and usable to absorb water or any porous rubber or cellulose
+      product similarly used
+  hypernym:
+  - 14604877-n
+  ili: i113735
+  members:
+  - spúinse
+  partOfSpeech: n
+14623986-n:
+  definition:
+  - confidence: 0.0
+    text: a salt or ester of acetic acid
+  hypernym:
+  - 15035270-n
+  ili: i113746
+  members:
+  - aicéatáit
+  partOfSpeech: n
+14624920-n:
+  definition:
+  - confidence: 0.0
+    text: a colorless flammable gas used chiefly in welding and in organic synthesis
+  hypernym:
+  - 14842408-n
+  ili: i113752
+  members:
+  - aicéitiléin
+  partOfSpeech: n
+14631699-n:
+  definition:
+  - confidence: 0.0
+    text: any of various water-soluble compounds having a sour taste and capable of
+      turning litmus red and reacting with a base to form a salt
+  hypernym:
+  - 14842408-n
+  ili: i113790
+  members:
+  - aigéad
+  partOfSpeech: n
+14635699-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive isotope of hydrogen; atoms of tritium have three times the
+      mass of ordinary hydrogen atoms
+  hypernym:
+  - 14664612-n
+  ili: i113807
+  members:
+  - tritiam
+  partOfSpeech: n
+14642431-n:
+  definition:
+  - confidence: 0.0
+    text: any of various water-soluble compounds capable of turning litmus blue and
+      reacting with an acid to form a salt and water
+  hypernym:
+  - 14842408-n
+  ili: i113852
+  members:
+  - alcaile
+  partOfSpeech: n
+14643403-n:
+  definition:
+  - confidence: 0.0
+    text: (physics and chemistry) the smallest component of an element having the
+      chemical properties of the element
+  hypernym:
+  - 00019793-n
+  ili: i113856
+  members:
+  - adamh
+  partOfSpeech: n
+14643836-n:
+  definition:
+  - confidence: 0.0
+    text: one of two or more atoms with the same atomic number but with different
+      numbers of neutrons
+  hypernym:
+  - 14643403-n
+  ili: i113857
+  members:
+  - iseatóp
+  partOfSpeech: n
+14647071-n:
+  definition:
+  - confidence: 0.0
+    text: any of the more than 100 known substances (of which 92 occur naturally)
+      that cannot be separated into simpler substances and that singly or in combination
+      constitute all matter
+  hypernym:
+  - 00019793-n
+  ili: i113874
+  members:
+  - dúil
+  - eilimint
+  partOfSpeech: n
+14649636-n:
+  definition:
+  - confidence: 0.0
+    text: any of several chemical elements that are usually shiny solids that conduct
+      heat or electricity and can be formed into sheets etc.
+  hypernym:
+  - 14647071-n
+  ili: i113883
+  members:
+  - miotal
+  partOfSpeech: n
+14651833-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive element of the actinide series; found in uranium ores
+  hypernym:
+  - 14647071-n
+  ili: i113888
+  members:
+  - achtainiam
+  partOfSpeech: n
+14651998-n:
+  definition:
+  - confidence: 0.0
+    text: a silvery ductile metallic element found primarily in bauxite
+  hypernym:
+  - 14649636-n
+  ili: i113889
+  members:
+  - alúmanam
+  partOfSpeech: n
+14652672-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive transuranic metallic element; discovered by bombarding uranium
+      with helium atoms
+  hypernym:
+  - 14649636-n
+  ili: i113892
+  members:
+  - aimeiriciam
+  partOfSpeech: n
+14652846-n:
+  definition:
+  - confidence: 0.0
+    text: a metallic element having four allotropic forms; used in a wide variety
+      of alloys; found in stibnite
+  hypernym:
+  - 14649636-n
+  ili: i113893
+  members:
+  - antamón
+  partOfSpeech: n
+14653098-n:
+  definition:
+  - confidence: 0.0
+    text: a colorless and odorless inert gas; one of the six inert gases; comprises
+      approximately 1% of the earth's atmosphere
+  hypernym:
+  - 14647071-n
+  ili: i113894
+  members:
+  - argón
+  partOfSpeech: n
+14653327-n:
+  definition:
+  - confidence: 0.0
+    text: a very poisonous metallic element that has three allotropic forms; arsenic
+      and arsenic compounds are used as herbicides and insecticides and in various
+      alloys; found in arsenopyrite and orpiment and realgar
+  hypernym:
+  - 14647071-n
+  ili: i113895
+  members:
+  - arsanaic
+  partOfSpeech: n
+14653739-n:
+  definition:
+  - confidence: 0.0
+    text: a highly unstable radioactive element (the heaviest of the halogen series);
+      a decay product of uranium and thorium
+  hypernym:
+  - 14647071-n
+  - 14928812-n
+  ili: i113896
+  members:
+  - astaitín
+  partOfSpeech: n
+14654176-n:
+  definition:
+  - confidence: 0.0
+    text: a soft silvery metallic element of the alkali earth group; found in barite
+  hypernym:
+  - 14649636-n
+  ili: i113898
+  members:
+  - bairiam
+  partOfSpeech: n
+14655312-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive transuranic element; discovered by bombarding americium with
+      helium
+  hypernym:
+  - 14649636-n
+  ili: i113904
+  members:
+  - beircéiliam
+  partOfSpeech: n
+14655473-n:
+  definition:
+  - confidence: 0.0
+    text: a light strong brittle grey toxic bivalent metallic element
+  hypernym:
+  - 14649636-n
+  ili: i113905
+  members:
+  - beirilliam
+  partOfSpeech: n
+14655680-n:
+  definition:
+  - confidence: 0.0
+    text: a heavy brittle diamagnetic trivalent metallic element (resembles arsenic
+      and antimony chemically); usually recovered as a by-product from ores of other
+      metals
+  hypernym:
+  - 14649636-n
+  ili: i113906
+  members:
+  - biosmat
+  partOfSpeech: n
+14655935-n:
+  definition:
+  - confidence: 0.0
+    text: a transuranic element with atomic number 107
+  hypernym:
+  - 14647071-n
+  ili: i113907
+  members:
+  - bóiriam
+  partOfSpeech: n
+14656049-n:
+  definition:
+  - confidence: 0.0
+    text: a trivalent metalloid element; occurs both in a hard black crystal and in
+      the form of a yellow or brown powder
+  hypernym:
+  - 14647071-n
+  ili: i113908
+  members:
+  - bórón
+  partOfSpeech: n
+14656307-n:
+  definition:
+  - confidence: 0.0
+    text: a nonmetallic heavy volatile corrosive dark brown liquid element belonging
+      to the halogens; found in sea water
+  hypernym:
+  - 14647071-n
+  - 14928812-n
+  ili: i113909
+  members:
+  - bróimín
+  partOfSpeech: n
+14656622-n:
+  definition:
+  - confidence: 0.0
+    text: a soft bluish-white ductile malleable toxic bivalent metallic element; occurs
+      in association with zinc ores
+  hypernym:
+  - 14649636-n
+  ili: i113910
+  members:
+  - caidmiam
+  partOfSpeech: n
+14656826-n:
+  definition:
+  - confidence: 0.0
+    text: a white metallic element that burns with a brilliant light; the fifth most
+      abundant element in the earth's crust; an important component of most plants
+      and animals
+  hypernym:
+  - 14649636-n
+  ili: i113911
+  members:
+  - cailciam
+  partOfSpeech: n
+14657384-n:
+  definition:
+  - confidence: 0.0
+    text: 'an abundant nonmetallic tetravalent element occurring in three allotropic
+      forms: amorphous carbon and graphite and diamond; occurs in all organic compounds'
+  hypernym:
+  - 14647071-n
+  ili: i113913
+  members:
+  - carbón
+  partOfSpeech: n
+14658034-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive isotope of carbon
+  hypernym:
+  - 14657384-n
+  ili: i113915
+  members:
+  - radacarbón
+  partOfSpeech: n
+14658135-n:
+  definition:
+  - confidence: 0.0
+    text: a ductile grey metallic element of the lanthanide series; used in lighter
+      flints; the most abundant of the rare-earth group
+  hypernym:
+  - 14649636-n
+  ili: i113916
+  members:
+  - ceiriam
+  - ce
+  partOfSpeech: n
+14658410-n:
+  definition:
+  - confidence: 0.0
+    text: a soft silver-white ductile metallic element (liquid at normal temperatures);
+      the most electropositive and alkaline metal
+  hypernym:
+  - 14649636-n
+  ili: i113917
+  members:
+  - caeisiam
+  partOfSpeech: n
+14658769-n:
+  definition:
+  - confidence: 0.0
+    text: a common nonmetallic element belonging to the halogens; best known as a
+      heavy yellow irritating toxic gas; used to purify water and as a bleaching agent
+      and disinfectant; occurs naturally only as a salt (as in sea water)
+  hypernym:
+  - 14647071-n
+  - 14928812-n
+  ili: i113919
+  members:
+  - clóirín
+  partOfSpeech: n
+14659270-n:
+  definition:
+  - confidence: 0.0
+    text: a hard brittle multivalent metallic element; resistant to corrosion and
+      tarnishing
+  hypernym:
+  - 14649636-n
+  ili: i113921
+  members:
+  - cróimiam
+  partOfSpeech: n
+14659468-n:
+  definition:
+  - confidence: 0.0
+    text: a hard ferromagnetic silver-white bivalent or trivalent metallic element;
+      a trace element in plant and animal nutrition
+  hypernym:
+  - 14649636-n
+  ili: i113922
+  members:
+  - cóbalt
+  partOfSpeech: n
+14659900-n:
+  definition:
+  - confidence: 0.0
+    text: a ductile malleable reddish-brown corrosion-resistant diamagnetic metallic
+      element; occurs in various minerals but is the only metal that occurs abundantly
+      in large masses; used as an electrical and thermal conductor
+  hypernym:
+  - 14649636-n
+  - 14604877-n
+  ili: i113924
+  members:
+  - copar
+  partOfSpeech: n
+14660398-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive transuranic metallic element; produced by bombarding plutonium
+      with helium nuclei
+  hypernym:
+  - 14649636-n
+  ili: i113925
+  members:
+  - ciúiriam
+  partOfSpeech: n
+14660701-n:
+  definition:
+  - confidence: 0.0
+    text: a transuranic element with atomic number 105
+  hypernym:
+  - 14647071-n
+  ili: i113927
+  members:
+  - dúibniam
+  partOfSpeech: n
+14660825-n:
+  definition:
+  - confidence: 0.0
+    text: a trivalent metallic element of the rare earth group; forms compounds that
+      are highly magnetic
+  hypernym:
+  - 14649636-n
+  ili: i113928
+  members:
+  - diospróisiam
+  partOfSpeech: n
+14661000-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive transuranic element produced by bombarding plutonium with
+      neutrons
+  hypernym:
+  - 14649636-n
+  ili: i113929
+  members:
+  - éinstéiniam
+  partOfSpeech: n
+14661166-n:
+  definition:
+  - confidence: 0.0
+    text: a trivalent metallic element of the rare earth group; occurs with yttrium
+  hypernym:
+  - 14649636-n
+  ili: i113930
+  members:
+  - eirbiam
+  partOfSpeech: n
+14661354-n:
+  definition:
+  - confidence: 0.0
+    text: a bivalent and trivalent metallic element of the rare earth group
+  hypernym:
+  - 14649636-n
+  ili: i113931
+  members:
+  - eoraipiam
+  partOfSpeech: n
+14661517-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive transuranic metallic element produced by bombarding plutonium
+      with neutrons
+  hypernym:
+  - 14649636-n
+  ili: i113932
+  members:
+  - feirmiam
+  partOfSpeech: n
+14661685-n:
+  definition:
+  - confidence: 0.0
+    text: a nonmetallic univalent element belonging to the halogens; usually a yellow
+      irritating toxic flammable gas; a powerful oxidizing agent; recovered from fluorite
+      or cryolite or fluorapatite
+  hypernym:
+  - 14647071-n
+  - 14928812-n
+  ili: i113933
+  members:
+  - fluairín
+  partOfSpeech: n
+14662042-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive element of the alkali-metal group discovered as a disintegration
+      product of actinium
+  hypernym:
+  - 14649636-n
+  ili: i113934
+  members:
+  - frainciam
+  partOfSpeech: n
+14662219-n:
+  definition:
+  - confidence: 0.0
+    text: a ductile silvery-white ductile ferromagnetic trivalent metallic element
+      of the rare earth group
+  hypernym:
+  - 14649636-n
+  ili: i113935
+  members:
+  - gadailiniam
+  partOfSpeech: n
+14662434-n:
+  definition:
+  - confidence: 0.0
+    text: a rare silvery (usually trivalent) metallic element; brittle at low temperatures
+      but liquid above room temperature; occurs in trace amounts in bauxite and zinc
+      ores
+  hypernym:
+  - 14649636-n
+  ili: i113936
+  members:
+  - gailliam
+  partOfSpeech: n
+14662695-n:
+  definition:
+  - confidence: 0.0
+    text: a brittle grey crystalline element that is a semiconducting metalloid (resembling
+      silicon) used in transistors; occurs in germanite and argyrodite
+  hypernym:
+  - 14845418-n
+  ili: i113937
+  members:
+  - gearmáiniam
+  partOfSpeech: n
+14662977-n:
+  definition:
+  - confidence: 0.0
+    text: a soft yellow malleable ductile (trivalent and univalent) metallic element;
+      occurs mainly as nuggets in rocks and alluvial deposits; does not react with
+      most chemicals but is attacked by chlorine and aqua regia
+  hypernym:
+  - 14649636-n
+  ili: i113938
+  members:
+  - ór
+  partOfSpeech: n
+14663734-n:
+  definition:
+  - confidence: 0.0
+    text: a grey tetravalent metallic element that resembles zirconium chemically
+      and is found in zirconium minerals; used in filaments for its ready emission
+      of electrons
+  hypernym:
+  - 14649636-n
+  ili: i113942
+  members:
+  - haifniam
+  partOfSpeech: n
+14663973-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive transuranic element, with atomic number 108
+  hypernym:
+  - 14649636-n
+  ili: i113943
+  members:
+  - haisiam
+  partOfSpeech: n
+14664099-n:
+  definition:
+  - confidence: 0.0
+    text: a very light colorless element that is one of the six inert gasses; the
+      most difficult gas to liquefy; occurs in economically extractable amounts in
+      certain natural gases (as those found in Texas and Kansas)
+  hypernym:
+  - 14647071-n
+  ili: i113944
+  members:
+  - héiliam
+  partOfSpeech: n
+14664400-n:
+  definition:
+  - confidence: 0.0
+    text: a trivalent metallic element of the rare earth group; occurs together with
+      yttrium; forms highly magnetic compounds
+  hypernym:
+  - 14649636-n
+  ili: i113945
+  members:
+  - hoilmiam
+  partOfSpeech: n
+14664612-n:
+  definition:
+  - confidence: 0.0
+    text: a nonmetallic univalent element that is normally a colorless and odorless
+      highly flammable diatomic gas; the simplest and lightest and most abundant element
+      in the universe
+  hypernym:
+  - 14647071-n
+  ili: i113946
+  members:
+  - hidrigin
+  partOfSpeech: n
+14665224-n:
+  definition:
+  - confidence: 0.0
+    text: an isotope of hydrogen which has one neutron (as opposed to zero neutrons
+      in hydrogen)
+  hypernym:
+  - 14643836-n
+  ili: i113949
+  members:
+  - deoitéiriam
+  partOfSpeech: n
+14665401-n:
+  definition:
+  - confidence: 0.0
+    text: a rare soft silvery metallic element; occurs in small quantities in sphalerite
+  hypernym:
+  - 14649636-n
+  ili: i113950
+  members:
+  - indiam
+  partOfSpeech: n
+14665575-n:
+  definition:
+  - confidence: 0.0
+    text: a nonmetallic element belonging to the halogens; used especially in medicine
+      and photography and in dyes; occurs naturally only in combination in small quantities
+      (as in sea water or rocks)
+  hypernym:
+  - 14647071-n
+  - 14928812-n
+  ili: i113951
+  members:
+  - iaidín
+  partOfSpeech: n
+14666397-n:
+  definition:
+  - confidence: 0.0
+    text: a heavy brittle metallic element of the platinum group; used in alloys;
+      occurs in natural alloys with platinum or osmium
+  hypernym:
+  - 14649636-n
+  ili: i113954
+  members:
+  - iridiam
+  partOfSpeech: n
+14666595-n:
+  definition:
+  - confidence: 0.0
+    text: a heavy ductile magnetic metallic element; is silver-white in pure form
+      but readily rusts; used in construction and tools and armament; plays a role
+      in the transport of oxygen by the blood
+  hypernym:
+  - 14649636-n
+  ili: i113955
+  members:
+  - iarann
+  partOfSpeech: n
+14667094-n:
+  definition:
+  - confidence: 0.0
+    text: a colorless element that is one of the six inert gasses; occurs in trace
+      amounts in air
+  hypernym:
+  - 14647071-n
+  ili: i113956
+  members:
+  - crioptón
+  partOfSpeech: n
+14667296-n:
+  definition:
+  - confidence: 0.0
+    text: a white soft metallic element that tarnishes readily; occurs in rare earth
+      minerals and is usually classified as a rare earth
+  hypernym:
+  - 14649636-n
+  ili: i113957
+  members:
+  - lantanam
+  partOfSpeech: n
+14667501-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive transuranic element synthesized from californium
+  hypernym:
+  - 14647071-n
+  ili: i113958
+  members:
+  - láirinciam
+  partOfSpeech: n
+14667645-n:
+  definition:
+  - confidence: 0.0
+    text: a soft heavy toxic malleable metallic element; bluish white when freshly
+      cut but tarnishes readily to dull grey
+  hypernym:
+  - 14649636-n
+  ili: i113959
+  members:
+  - luaidhe
+  partOfSpeech: n
+14667971-n:
+  definition:
+  - confidence: 0.0
+    text: a soft silver-white univalent element of the alkali metal group; the lightest
+      metal known; occurs in several minerals
+  hypernym:
+  - 14649636-n
+  ili: i113960
+  members:
+  - litiam
+  partOfSpeech: n
+14668241-n:
+  definition:
+  - confidence: 0.0
+    text: a trivalent metallic element of the rare earth group; usually occurs in
+      association with yttrium
+  hypernym:
+  - 14649636-n
+  ili: i113961
+  members:
+  - lúitéitiam
+  partOfSpeech: n
+14668427-n:
+  definition:
+  - confidence: 0.0
+    text: a light silver-white ductile bivalent metallic element; in pure form it
+      burns with brilliant white flame; occurs naturally only in combination (as in
+      magnesite and dolomite and carnallite and spinel and olivine)
+  hypernym:
+  - 14649636-n
+  ili: i113962
+  members:
+  - maignéisiam
+  partOfSpeech: n
+14668832-n:
+  definition:
+  - confidence: 0.0
+    text: a hard brittle grey polyvalent metallic element that resembles iron but
+      is not magnetic; used in making steel; occurs in many minerals
+  hypernym:
+  - 14649636-n
+  ili: i113963
+  members:
+  - mangainéis
+  partOfSpeech: n
+14669141-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive transuranic element, with atomic number 109
+  hypernym:
+  - 14647071-n
+  ili: i113964
+  members:
+  - meitniriam
+  partOfSpeech: n
+14669270-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive transuranic element synthesized by bombarding einsteinium
+      with alpha particles (Md is the current symbol for mendelevium but Mv was formerly
+      the symbol)
+  hypernym:
+  - 14647071-n
+  ili: i113965
+  members:
+  - meindiléiviam
+  partOfSpeech: n
+14669524-n:
+  definition:
+  - confidence: 0.0
+    text: a heavy silvery toxic univalent and bivalent metallic element; the only
+      metal that is liquid at ordinary temperatures
+  hypernym:
+  - 14649636-n
+  ili: i113966
+  members:
+  - mearcair
+  partOfSpeech: n
+14669839-n:
+  definition:
+  - confidence: 0.0
+    text: a polyvalent metallic element that resembles chromium and tungsten in its
+      properties; used to strengthen and harden steel
+  hypernym:
+  - 14649636-n
+  ili: i113967
+  members:
+  - molaibdéineam
+  partOfSpeech: n
+14670060-n:
+  definition:
+  - confidence: 0.0
+    text: a yellow trivalent metallic element of the rare earth group; occurs in monazite
+      and bastnasite in association with cerium and lanthanum and praseodymium
+  hypernym:
+  - 14649636-n
+  ili: i113968
+  members:
+  - neoidimiam
+  partOfSpeech: n
+14670330-n:
+  definition:
+  - confidence: 0.0
+    text: a colorless odorless gaseous element that gives a red glow in a vacuum tube;
+      one of the six inert gasses; occurs in the air in small amounts
+  hypernym:
+  - 14647071-n
+  ili: i113969
+  members:
+  - neon
+  partOfSpeech: n
+14670581-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive transuranic metallic element; found in trace amounts in uranium
+      ores; a by-product of the production of plutonium
+  hypernym:
+  - 14649636-n
+  ili: i113970
+  members:
+  - neiptiúiniam
+  partOfSpeech: n
+14670788-n:
+  definition:
+  - confidence: 0.0
+    text: a hard malleable ductile silvery metallic element that is resistant to corrosion;
+      used in alloys; occurs in pentlandite and smaltite and garnierite and millerite
+  hypernym:
+  - 14649636-n
+  ili: i113971
+  members:
+  - nicil
+  partOfSpeech: n
+14671120-n:
+  definition:
+  - confidence: 0.0
+    text: a soft grey ductile metallic element used in alloys; occurs in niobite;
+      formerly called columbium
+  hypernym:
+  - 14649636-n
+  ili: i113972
+  members:
+  - niaibiam
+  partOfSpeech: n
+14671413-n:
+  definition:
+  - confidence: 0.0
+    text: a common nonmetallic element that is normally a colorless odorless tasteless
+      inert diatomic gas; constitutes 78 percent of the atmosphere by volume; a constituent
+      of all living tissues
+  hypernym:
+  - 14647071-n
+  ili: i113974
+  members:
+  - nítrigin
+  partOfSpeech: n
+14671900-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive transuranic element synthesized by bombarding curium with
+      carbon ions; 7 isotopes are known
+  hypernym:
+  - 14647071-n
+  ili: i113976
+  members:
+  - nóbailiam
+  partOfSpeech: n
+14672085-n:
+  definition:
+  - confidence: 0.0
+    text: a hard brittle blue-grey or blue-black metallic element that is one of the
+      platinum metals; the heaviest metal known
+  hypernym:
+  - 14649636-n
+  ili: i113977
+  members:
+  - oismiam
+  partOfSpeech: n
+14672278-n:
+  definition:
+  - confidence: 0.0
+    text: a nonmetallic bivalent element that is normally a colorless odorless tasteless
+      nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume;
+      the most abundant element in the earth's crust
+  hypernym:
+  - 14647071-n
+  ili: i113978
+  members:
+  - ocsaigin
+  partOfSpeech: n
+14672932-n:
+  definition:
+  - confidence: 0.0
+    text: a silver-white metallic element of the platinum group that resembles platinum;
+      occurs in some copper and nickel ores; does not tarnish at ordinary temperatures
+      and is used (alloyed with gold) in jewelry
+  hypernym:
+  - 14649636-n
+  ili: i113980
+  members:
+  - pallaidiam
+  - Pd
+  partOfSpeech: n
+14673375-n:
+  definition:
+  - confidence: 0.0
+    text: a multivalent nonmetallic element of the nitrogen family that occurs commonly
+      in inorganic phosphate rocks and as organic phosphates in all living cells;
+      is highly reactive and occurs in several allotropic forms
+  hypernym:
+  - 14647071-n
+  ili: i113982
+  members:
+  - fosfar
+  partOfSpeech: n
+14673721-n:
+  definition:
+  - confidence: 0.0
+    text: a heavy precious metallic element; grey-white and resistant to corroding;
+      occurs in some nickel and copper ores and is also found native in some deposits
+  hypernym:
+  - 14649636-n
+  ili: i113983
+  members:
+  - platanam
+  partOfSpeech: n
+14673953-n:
+  definition:
+  - confidence: 0.0
+    text: a solid silvery grey radioactive transuranic element whose atoms can be
+      split when bombarded with neutrons; found in minute quantities in uranium ores
+      but is usually synthesized in nuclear reactors; 13 isotopes are known with the
+      most important being plutonium 239
+  hypernym:
+  - 14647071-n
+  ili: i113984
+  members:
+  - plútóiniam
+  partOfSpeech: n
+14674735-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive metallic element that is similar to tellurium and bismuth;
+      occurs in uranium ores but can be produced by bombarding bismuth with neutrons
+      in a nuclear reactor
+  hypernym:
+  - 14649636-n
+  ili: i113987
+  members:
+  - polóiniam
+  partOfSpeech: n
+14674986-n:
+  definition:
+  - confidence: 0.0
+    text: a light soft silver-white metallic element of the alkali metal group; oxidizes
+      rapidly in air and reacts violently with water; is abundant in nature in combined
+      forms occurring in sea water and in carnallite and kainite and sylvite
+  hypernym:
+  - 14649636-n
+  ili: i113988
+  members:
+  - potaisiam
+  partOfSpeech: n
+14675391-n:
+  definition:
+  - confidence: 0.0
+    text: a soft yellowish-white trivalent metallic element of the rare earth group;
+      can be recovered from bastnasite or monazite by an ion-exchange process
+  hypernym:
+  - 14649636-n
+  ili: i113989
+  members:
+  - praiséidimiam
+  partOfSpeech: n
+14675658-n:
+  definition:
+  - confidence: 0.0
+    text: a soft silvery metallic element of the rare earth group having no stable
+      isotope; was discovered in radioactive form as a fission product of uranium
+  hypernym:
+  - 14649636-n
+  ili: i113990
+  members:
+  - próiméitiam
+  partOfSpeech: n
+14675887-n:
+  definition:
+  - confidence: 0.0
+    text: a short-lived radioactive metallic element formed from uranium and disintegrating
+      into actinium and then into lead
+  hypernym:
+  - 14649636-n
+  ili: i113991
+  members:
+  - prótachtainiam
+  partOfSpeech: n
+14676100-n:
+  definition:
+  - confidence: 0.0
+    text: an intensely radioactive metallic element that occurs in minute amounts
+      in uranium ores
+  hypernym:
+  - 14649636-n
+  ili: i113992
+  members:
+  - raidiam
+  partOfSpeech: n
+14676569-n:
+  definition:
+  - confidence: 0.0
+    text: a rare heavy polyvalent metallic element that resembles manganese chemically
+      and is used in some alloys; is obtained as a by-product in refining molybdenum
+  hypernym:
+  - 14649636-n
+  ili: i113994
+  members:
+  - réiniam
+  partOfSpeech: n
+14676802-n:
+  definition:
+  - confidence: 0.0
+    text: a white hard metallic element that is one of the platinum group and is found
+      in platinum ores; used in alloys with platinum
+  hypernym:
+  - 14649636-n
+  ili: i113995
+  members:
+  - róidiam
+  partOfSpeech: n
+14677003-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive transuranic element, with atomic number 111
+  hypernym:
+  - 14647071-n
+  ili: i113996
+  members:
+  - rointginiam
+  partOfSpeech: n
+14677421-n:
+  definition:
+  - confidence: 0.0
+    text: a rare polyvalent metallic element of the platinum group; it is found associated
+      with platinum
+  hypernym:
+  - 14649636-n
+  ili: i113998
+  members:
+  - ruitéiniam
+  partOfSpeech: n
+14677595-n:
+  definition:
+  - confidence: 0.0
+    text: a radioactive transuranic element which has been synthesized
+  hypernym:
+  - 14647071-n
+  ili: i113999
+  members:
+  - rutarfoirdiam
+  partOfSpeech: n
+14677775-n:
+  definition:
+  - confidence: 0.0
+    text: a grey lustrous metallic element of the rare earth group; is used in special
+      alloys; occurs in monazite and bastnasite
+  hypernym:
+  - 14649636-n
+  ili: i114000
+  members:
+  - samairiam
+  partOfSpeech: n
+14678010-n:
+  definition:
+  - confidence: 0.0
+    text: a white trivalent metallic element; sometimes classified in the rare earth
+      group; occurs in the Scandinavian mineral thortveitite
+  hypernym:
+  - 14649636-n
+  ili: i114001
+  members:
+  - scaindiam
+  partOfSpeech: n
+14678354-n:
+  definition:
+  - confidence: 0.0
+    text: a toxic nonmetallic element related to sulfur and tellurium; occurs in several
+      allotropic forms; a stable grey metallike allotrope conducts electricity better
+      in the light than in the dark and is used in photocells; occurs in sulfide ores
+      (as pyrite)
+  hypernym:
+  - 14647071-n
+  - 14748597-n
+  ili: i114003
+  members:
+  - seiléiniam
+  - se
+  partOfSpeech: n
+14678720-n:
+  definition:
+  - confidence: 0.0
+    text: a tetravalent nonmetallic element; next to oxygen it is the most abundant
+      element in the earth's crust; occurs in clay and feldspar and granite and quartz
+      and sand; used as a semiconductor in transistors
+  hypernym:
+  - 14845418-n
+  ili: i114004
+  members:
+  - sileacan
+  partOfSpeech: n
+14679133-n:
+  definition:
+  - confidence: 0.0
+    text: a soft white precious univalent metallic element having the highest electrical
+      and thermal conductivity of any metal; occurs in argentite and in free form;
+      used in coins and jewelry and tableware and photography
+  hypernym:
+  - 14649636-n
+  - 14604877-n
+  ili: i114005
+  members:
+  - airgead
+  partOfSpeech: n
+14679550-n:
+  definition:
+  - confidence: 0.0
+    text: a silvery soft waxy metallic element of the alkali metal group; occurs abundantly
+      in natural compounds (especially in salt water); burns with a yellow flame and
+      reacts violently in water; occurs in sea water and in the mineral halite (rock
+      salt)
+  hypernym:
+  - 14649636-n
+  ili: i114006
+  members:
+  - sóidiam
+  partOfSpeech: n
+14679910-n:
+  definition:
+  - confidence: 0.0
+    text: a soft silver-white or yellowish metallic element of the alkali metal group;
+      turns yellow in air; occurs in celestite and strontianite
+  hypernym:
+  - 14649636-n
+  ili: i114007
+  members:
+  - strointiam
+  partOfSpeech: n
+14680398-n:
+  definition:
+  - confidence: 0.0
+    text: an abundant tasteless odorless multivalent nonmetallic element; best known
+      in yellow crystals; occurs in many sulphide and sulphate minerals and even in
+      native form (especially in volcanic regions)
+  hypernym:
+  - 14647071-n
+  ili: i114009
+  members:
+  - sulfar
+  partOfSpeech: n
+14680845-n:
+  definition:
+  - confidence: 0.0
+    text: a hard grey lustrous metallic element that is highly resistant to corrosion;
+      occurs in niobite and fergusonite and tantalite
+  hypernym:
+  - 14649636-n
+  ili: i114010
+  members:
+  - tantalam
+  partOfSpeech: n
+14681226-n:
+  definition:
+  - confidence: 0.0
+    text: a crystalline metallic element not found in nature; occurs as one of the
+      fission products of uranium
+  hypernym:
+  - 14649636-n
+  ili: i114012
+  members:
+  - teicnéitiam
+  partOfSpeech: n
+14681407-n:
+  definition:
+  - confidence: 0.0
+    text: a brittle silver-white metalloid element that is related to selenium and
+      sulfur; it is used in alloys and as a semiconductor; occurs mainly as tellurides
+      in ores of copper and nickel and silver and gold
+  hypernym:
+  - 14647071-n
+  ili: i114013
+  members:
+  - teallúiriam
+  partOfSpeech: n
+14681745-n:
+  definition:
+  - confidence: 0.0
+    text: a metallic element of the rare earth group; used in lasers; occurs in apatite
+      and monazite and xenotime and ytterbite
+  hypernym:
+  - 14649636-n
+  ili: i114014
+  members:
+  - teirbiam
+  partOfSpeech: n
+14681997-n:
+  definition:
+  - confidence: 0.0
+    text: a soft grey malleable metallic element that resembles tin but discolors
+      on exposure to air; it is highly toxic and is used in rodent and insect poisons;
+      occurs in zinc blende and some iron ores
+  hypernym:
+  - 14649636-n
+  ili: i114015
+  members:
+  - tailliam
+  partOfSpeech: n
+14682288-n:
+  definition:
+  - confidence: 0.0
+    text: a soft silvery-white tetravalent radioactive metallic element; isotope 232
+      is used as a power source in nuclear reactors; occurs in thorite and in monazite
+      sands
+  hypernym:
+  - 14649636-n
+  ili: i114016
+  members:
+  - tóiriam
+  partOfSpeech: n
+14682725-n:
+  definition:
+  - confidence: 0.0
+    text: a soft silvery metallic element of the rare earth group; isotope 170 emits
+      X-rays and is used in small portable X-ray machines; it occurs in monazite and
+      apatite and xenotime
+  hypernym:
+  - 14649636-n
+  ili: i114018
+  members:
+  - túiliam
+  partOfSpeech: n
+14683034-n:
+  definition:
+  - confidence: 0.0
+    text: a silvery malleable metallic element that resists corrosion; used in many
+      alloys and to coat other metals to prevent corrosion; obtained chiefly from
+      cassiterite where it occurs as tin oxide
+  hypernym:
+  - 14649636-n
+  ili: i114019
+  members:
+  - stán
+  partOfSpeech: n
+14683390-n:
+  definition:
+  - confidence: 0.0
+    text: a light strong grey lustrous corrosion-resistant metallic element used in
+      strong lightweight alloys (as for airplane parts); the main sources are rutile
+      and ilmenite
+  hypernym:
+  - 14649636-n
+  ili: i114020
+  members:
+  - tíotáiniam
+  partOfSpeech: n
+14683691-n:
+  definition:
+  - confidence: 0.0
+    text: a heavy grey-white metallic element; the pure form is used mainly in electrical
+      applications; it is found in several ores including wolframite and scheelite
+  hypernym:
+  - 14649636-n
+  ili: i114021
+  members:
+  - tungstan
+  partOfSpeech: n
+14684622-n:
+  definition:
+  - confidence: 0.0
+    text: a heavy toxic silvery-white radioactive metallic element; occurs in many
+      isotopes; used for nuclear fuels and nuclear weapons
+  hypernym:
+  - 14649636-n
+  ili: i114027
+  members:
+  - úráiniam
+  partOfSpeech: n
+14685199-n:
+  definition:
+  - confidence: 0.0
+    text: a soft silvery white toxic metallic element used in steel alloys; it occurs
+      in several complex minerals including carnotite and vanadinite
+  hypernym:
+  - 14649636-n
+  ili: i114030
+  members:
+  - vanaidiam
+  partOfSpeech: n
+14685453-n:
+  definition:
+  - confidence: 0.0
+    text: a colorless odorless inert gaseous element occurring in the earth's atmosphere
+      in trace amounts
+  hypernym:
+  - 14647071-n
+  ili: i114031
+  members:
+  - xeanón
+  partOfSpeech: n
+14685661-n:
+  definition:
+  - confidence: 0.0
+    text: a soft silvery metallic element; a rare earth of the lanthanide series;
+      it occurs in gadolinite and monazite and xenotime
+  hypernym:
+  - 14649636-n
+  ili: i114032
+  members:
+  - itéirbiam
+  partOfSpeech: n
+14685919-n:
+  definition:
+  - confidence: 0.0
+    text: a silvery metallic element that is common in rare-earth minerals; used in
+      magnesium and aluminum alloys
+  hypernym:
+  - 14649636-n
+  ili: i114033
+  members:
+  - itriam
+  partOfSpeech: n
+14686156-n:
+  definition:
+  - confidence: 0.0
+    text: a bluish-white lustrous metallic element; brittle at ordinary temperatures
+      but malleable when heated; used in a wide variety of alloys and in galvanizing
+      iron; it occurs naturally as zinc sulphide in zinc blende
+  hypernym:
+  - 14649636-n
+  ili: i114034
+  members:
+  - sinc
+  partOfSpeech: n
+14686460-n:
+  definition:
+  - confidence: 0.0
+    text: a lustrous grey strong metallic element resembling titanium; it is used
+      in nuclear reactors as a neutron absorber; it occurs in baddeleyite but is obtained
+      chiefly from zircon
+  hypernym:
+  - 14649636-n
+  ili: i114035
+  members:
+  - siorcóiniam
+  partOfSpeech: n
+14686753-n:
+  definition:
+  - confidence: 0.0
+    text: solid homogeneous inorganic substances occurring in nature having a definite
+      chemical composition
+  hypernym:
+  - 14604877-n
+  ili: i114036
+  members:
+  - mianra
+  partOfSpeech: n
+14692438-n:
+  definition:
+  - confidence: 0.0
+    text: a clay-like mineral; the chief ore of aluminum; composed of aluminum oxides
+      and aluminum hydroxides; used as an abrasive and catalyst
+  hypernym:
+  - 14686753-n
+  ili: i114055
+  members:
+  - báicsít
+  partOfSpeech: n
+14693245-n:
+  definition:
+  - confidence: 0.0
+    text: an ore of boron consisting of hydrated sodium borate; used as a flux or
+      cleansing agent
+  hypernym:
+  - 14686753-n
+  ili: i114059
+  members:
+  - bórás
+  partOfSpeech: n
+14698569-n:
+  definition:
+  - confidence: 0.0
+    text: a surface-active agent that promotes the formation of an emulsion
+  hypernym:
+  - 14802595-n
+  ili: i114091
+  members:
+  - eiblitheoir
+  partOfSpeech: n
+14698745-n:
+  definition:
+  - confidence: 0.0
+    text: (chemistry) a colloid in which both phases are liquids
+  hypernym:
+  - 00019793-n
+  ili: i114092
+  members:
+  - eibleacht
+  partOfSpeech: n
+14705716-n:
+  definition:
+  - confidence: 0.0
+    text: any of various minerals consisting of hydrous silicates of aluminum or potassium
+      etc. that crystallize in forms that allow perfect cleavage into very thin leaves;
+      used as dielectrics because of their resistance to electricity
+  hypernym:
+  - 14686753-n
+  ili: i114132
+  members:
+  - míoca
+  partOfSpeech: n
+14706294-n:
+  definition:
+  - confidence: 0.0
+    text: (physics and chemistry) the simplest structural unit of an element or compound
+  hypernym:
+  - 00001740-n
+  ili: i114134
+  members:
+  - móilín
+  partOfSpeech: n
+14709178-n:
+  definition:
+  - confidence: 0.0
+    text: occurs in natural gas; used in the manufacture of rubber and fuels
+  hypernym:
+  - 14975516-n
+  - 14899228-n
+  ili: i114151
+  members:
+  - bútán
+  partOfSpeech: n
+14709457-n:
+  definition:
+  - confidence: 0.0
+    text: a carbonaceous material obtained by heating wood or other organic matter
+      in the absence of air
+  hypernym:
+  - 14899228-n
+  - 14657384-n
+  ili: i114153
+  members:
+  - fioghual
+  partOfSpeech: n
+14709929-n:
+  definition:
+  - confidence: 0.0
+    text: carbon fuel produced by distillation of coal
+  hypernym:
+  - 14899228-n
+  ili: i114156
+  members:
+  - cóc
+  partOfSpeech: n
+14710042-n:
+  definition:
+  - confidence: 0.0
+    text: a heavy mineral oil used as fuel in diesel engines
+  hypernym:
+  - 14899228-n
+  ili: i114157
+  members:
+  - díosal
+  partOfSpeech: n
+14711074-n:
+  definition:
+  - confidence: 0.0
+    text: a volatile flammable mixture of hydrocarbons (hexane and heptane and octane
+      etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines
+  hypernym:
+  - 14899228-n
+  - 14935208-n
+  ili: i114163
+  members:
+  - peitreal
+  partOfSpeech: n
+14711979-n:
+  definition:
+  - confidence: 0.0
+    text: a light volatile flammable poisonous liquid alcohol; used as an antifreeze
+      and solvent and fuel and as a denaturant for ethyl alcohol
+  hypernym:
+  - 14732881-n
+  - 14899228-n
+  ili: i114167
+  members:
+  - meatánól
+  partOfSpeech: n
+14712395-n:
+  definition:
+  - confidence: 0.0
+    text: a translucent mineral consisting of hydrated silica of variable color; some
+      varieties are used as gemstones
+  hypernym:
+  - 14686753-n
+  - 15071467-n
+  ili: i114169
+  members:
+  - ópal
+  partOfSpeech: n
+14713654-n:
+  definition:
+  - confidence: 0.0
+    text: partially carbonized vegetable matter saturated with water; can be used
+      as a fuel when dried
+  hypernym:
+  - 14604877-n
+  ili: i114176
+  members:
+  - móin
+  partOfSpeech: n
+14714768-n:
+  definition:
+  - confidence: 0.0
+    text: a white solid mineral that occurs naturally as periclase; a source of magnesium
+  hypernym:
+  - 14686753-n
+  ili: i114184
+  members:
+  - maignéis
+  partOfSpeech: n
+14715847-n:
+  definition:
+  - confidence: 0.0
+    text: colorless gas found in natural gas and petroleum; used as a fuel
+  hypernym:
+  - 14899228-n
+  ili: i114190
+  members:
+  - própán
+  partOfSpeech: n
+14715983-n:
+  definition:
+  - confidence: 0.0
+    text: any substance that propels
+  hypernym:
+  - 00021007-n
+  ili: i114191
+  members:
+  - tiomántán
+  partOfSpeech: n
+14719898-n:
+  definition:
+  - confidence: 0.0
+    text: the layer of soil on the surface
+  hypernym:
+  - 14868863-n
+  ili: i114216
+  members:
+  - barrithir
+  partOfSpeech: n
+14719999-n:
+  definition:
+  - confidence: 0.0
+    text: the layer of soil between the topsoil and bedrock
+  hypernym:
+  - 14868863-n
+  ili: i114217
+  members:
+  - fo-ithir
+  partOfSpeech: n
+14723370-n:
+  definition:
+  - confidence: 0.0
+    text: coarse gravel laid to form a bed for streets and railroads
+  hypernym:
+  - 14604877-n
+  ili: i114236
+  members:
+  - ballasta
+  partOfSpeech: n
+14724323-n:
+  definition:
+  - confidence: 0.0
+    text: a fine-grained metamorphic rock that can be split into thin layers
+  hypernym:
+  - 14604877-n
+  ili: i114242
+  members:
+  - slinn
+  partOfSpeech: n
+14724599-n:
+  definition:
+  - confidence: 0.0
+    text: a light glass formed on the surface of some lavas; used as an abrasive
+  hypernym:
+  - 14604877-n
+  ili: i114244
+  members:
+  - slíogart
+  partOfSpeech: n
+14726577-n:
+  definition:
+  - confidence: 0.0
+    text: a substance that unites or bonds surfaces together
+  hypernym:
+  - 14604877-n
+  ili: i114256
+  members:
+  - greamachán
+  partOfSpeech: n
+14727036-n:
+  definition:
+  - confidence: 0.0
+    text: cement consisting of a sticky substance that is used as an adhesive
+  hypernym:
+  - 14726577-n
+  ili: i114258
+  members:
+  - gliú
+  partOfSpeech: n
+14729012-n:
+  definition:
+  - confidence: 0.0
+    text: a pasty cement used as an adhesive or filler
+  hypernym:
+  - 14726577-n
+  ili: i114270
+  members:
+  - maisteog
+  partOfSpeech: n
+14729448-n:
+  definition:
+  - confidence: 0.0
+    text: any mixture of a soft and malleable consistency
+  hypernym:
+  - 00019793-n
+  ili: i114273
+  members:
+  - taos
+  partOfSpeech: n
+14732881-n:
+  definition:
+  - confidence: 0.0
+    text: any of a series of volatile hydroxyl compounds that are made from hydrocarbons
+      by distillation
+  hypernym:
+  - 14964524-n
+  ili: i114291
+  members:
+  - alcól
+  partOfSpeech: n
+14733426-n:
+  definition:
+  - confidence: 0.0
+    text: the intoxicating agent in fermented and distilled liquors; used pure or
+      denatured as a solvent or in medicines and colognes and cleaning solutions and
+      rocket fuel; proposed as a renewable clean-burning additive to gasoline
+  hypernym:
+  - 14732881-n
+  - 14604877-n
+  ili: i114293
+  members:
+  - eatánól
+  partOfSpeech: n
+14740711-n:
+  definition:
+  - confidence: 0.0
+    text: an alloy of mercury with another metal (usually silver) used by dentists
+      to fill cavities in teeth; except for iron and platinum all metals dissolve
+      in mercury and chemists refer to the resulting mercury mixtures as amalgams
+  hypernym:
+  - 14610949-n
+  ili: i114332
+  members:
+  - malgam
+  partOfSpeech: n
+14741158-n:
+  definition:
+  - confidence: 0.0
+    text: an alloy of copper and zinc
+  hypernym:
+  - 14610949-n
+  ili: i114334
+  members:
+  - prás
+  partOfSpeech: n
+14741436-n:
+  definition:
+  - confidence: 0.0
+    text: an alloy of copper and tin and sometimes other elements; also any copper-base
+      alloy containing other elements in place of tin
+  hypernym:
+  - 14610949-n
+  ili: i114335
+  members:
+  - cré-umha
+  partOfSpeech: n
+14742983-n:
+  definition:
+  - confidence: 0.0
+    text: an alloy (usually of lead and tin) used when melted to join two metal surfaces
+  hypernym:
+  - 14610949-n
+  ili: i114346
+  members:
+  - sádar
+  partOfSpeech: n
+14746750-n:
+  definition:
+  - confidence: 0.0
+    text: a transparent purple variety of quartz; used as a gemstone
+  hypernym:
+  - 14686753-n
+  - 15071467-n
+  ili: i114370
+  members:
+  - aimitis
+  partOfSpeech: n
+14747240-n:
+  definition:
+  - confidence: 0.0
+    text: (biology) any agency bringing about activation; a molecule that increases
+      the activity of an enzyme or a protein that increases the production of a gene
+      product in DNA transcription
+  hypernym:
+  - 00019793-n
+  ili: i114373
+  members:
+  - músclóir
+  partOfSpeech: n
+14747789-n:
+  definition:
+  - confidence: 0.0
+    text: (chemistry) a substance that initiates or accelerates a chemical reaction
+      without itself being affected
+  hypernym:
+  - 14747240-n
+  ili: i114375
+  members:
+  - catalaíoch
+  partOfSpeech: n
+14748597-n:
+  definition:
+  - confidence: 0.0
+    text: a substance that retards or stops an activity
+  hypernym:
+  - 00021007-n
+  ili: i114379
+  members:
+  - coscaire
+  partOfSpeech: n
+14749770-n:
+  definition:
+  - confidence: 0.0
+    text: a fibrous amphibole; used for making fireproof articles; inhaling fibers
+      can cause asbestosis or lung cancer
+  hypernym:
+  - 14686753-n
+  ili: i114386
+  members:
+  - aispeist
+  partOfSpeech: n
+14751534-n:
+  definition:
+  - confidence: 0.0
+    text: any substance used to slow down neutrons in nuclear reactors
+  hypernym:
+  - 14748597-n
+  ili: i114396
+  members:
+  - measraitheoir
+  partOfSpeech: n
+14752903-n:
+  definition:
+  - confidence: 0.0
+    text: any of a large group of nitrogenous organic compounds that are essential
+      constituents of living cells; consist of polymers of amino acids; essential
+      in the diet of animals for growth and for repair of tissues; can be obtained
+      from meat and eggs and milk and legumes
+  hypernym:
+  - 14706294-n
+  - 14842408-n
+  ili: i114399
+  members:
+  - próitéin
+  partOfSpeech: n
+14754732-n:
+  definition:
+  - confidence: 0.0
+    text: a colorless water-soluble glutinous protein obtained from animal tissues
+      such as bone and skin
+  hypernym:
+  - 14752903-n
+  ili: i114406
+  members:
+  - geilitín
+  partOfSpeech: n
+14755688-n:
+  definition:
+  - confidence: 0.0
+    text: a simple water-soluble protein found in many animal tissues and liquids
+  hypernym:
+  - 14752903-n
+  ili: i114411
+  members:
+  - albaimin
+  partOfSpeech: n
+14757125-n:
+  definition:
+  - confidence: 0.0
+    text: any of several complex proteins that are produced by cells and act as catalysts
+      in specific biochemical reactions
+  hypernym:
+  - 14752903-n
+  - 14747789-n
+  ili: i114419
+  members:
+  - einsím
+  partOfSpeech: n
+14764406-n:
+  definition:
+  - confidence: 0.0
+    text: any of a class of aliphatic monocarboxylic acids that form part of a lipid
+      molecule and can be derived from fat by hydrolysis; fatty acids are simple molecules
+      built around a series of carbon atoms linked together in a chain of 12 to 22
+      carbon atoms
+  hypernym:
+  - 14631699-n
+  ili: i114457
+  members:
+  - aigéad sailleach
+  partOfSpeech: n
+14767761-n:
+  definition:
+  - confidence: 0.0
+    text: a pungent gas compounded of nitrogen and hydrogen (NH3)
+  hypernym:
+  - 14842408-n
+  ili: i114472
+  members:
+  - amóinia
+  partOfSpeech: n
+14768299-n:
+  definition:
+  - confidence: 0.0
+    text: the ion NH4 derived from ammonia; behaves in many respects like an alkali
+      metal ion
+  hypernym:
+  - 14767761-n
+  ili: i114476
+  members:
+  - amóiniam
+  partOfSpeech: n
+14782715-n:
+  definition:
+  - confidence: 0.0
+    text: the material that forms the hard outer covering of many animals
+  hypernym:
+  - 14604877-n
+  ili: i114545
+  members:
+  - blaosc
+  partOfSpeech: n
+14783901-n:
+  definition:
+  - confidence: 0.0
+    text: an animal skin made smooth and flexible by removing the hair and then tanning
+  hypernym:
+  - 14604877-n
+  ili: i114554
+  members:
+  - leathar
+  partOfSpeech: n
+14785301-n:
+  definition:
+  - confidence: 0.0
+    text: a bitter alkaloid found in coffee and tea that is responsible for their
+      stimulating effects
+  hypernym:
+  - 14842408-n
+  ili: i114561
+  members:
+  - caiféin
+  partOfSpeech: n
+14788240-n:
+  definition:
+  - confidence: 0.0
+    text: the dressed hairy coat of a mammal
+  hypernym:
+  - 14604877-n
+  ili: i114584
+  members:
+  - fionnadh
+  partOfSpeech: n
+14790543-n:
+  definition:
+  - confidence: 0.0
+    text: a liquid added to the water in a cooling system to lower its freezing point
+  hypernym:
+  - 14964524-n
+  ili: i114605
+  members:
+  - frithreo
+  partOfSpeech: n
+14793339-n:
+  definition:
+  - confidence: 0.0
+    text: the residue that remains when something is burned
+  hypernym:
+  - 15029068-n
+  ili: i114622
+  members:
+  - luaithreach
+  partOfSpeech: n
+14796622-n:
+  definition:
+  - confidence: 0.0
+    text: any of various powdered mixtures used in baking as a substitute for yeast
+  hypernym:
+  - 00021007-n
+  ili: i114642
+  members:
+  - púdar bácála
+  partOfSpeech: n
+14802178-n:
+  definition:
+  - confidence: 0.0
+    text: an agent that counteracts or neutralizes acidity (especially in the stomach)
+  hypernym:
+  - 14802595-n
+  ili: i114682
+  members:
+  - frithaigéad
+  partOfSpeech: n
+14802595-n:
+  definition:
+  - confidence: 0.0
+    text: a substance that exerts some force or effect
+  hypernym:
+  - 00021007-n
+  ili: i114683
+  members:
+  - oibreán
+  partOfSpeech: n
+14803141-n:
+  definition:
+  - confidence: 0.0
+    text: a chemical agent for use in chemical reactions
+  hypernym:
+  - 14802595-n
+  ili: i114684
+  members:
+  - imoibreán
+  partOfSpeech: n
+14810100-n:
+  definition:
+  - confidence: 0.0
+    text: (chemistry) an ionic compound that resists changes in its pH
+  hypernym:
+  - 14842408-n
+  ili: i114729
+  members:
+  - maolán
+  partOfSpeech: n
+14814055-n:
+  definition:
+  - confidence: 0.0
+    text: a white crystalline oxide used in the production of calcium hydroxide
+  hypernym:
+  - 14996078-n
+  ili: i114753
+  members:
+  - aol
+  partOfSpeech: n
+14816720-n:
+  definition:
+  - confidence: 0.0
+    text: a binary compound of carbon with a more electropositive element
+  hypernym:
+  - 14842408-n
+  ili: i114770
+  members:
+  - cairbíd
+  partOfSpeech: n
+14816873-n:
+  definition:
+  - confidence: 0.0
+    text: an essential structural component of living cells and source of energy for
+      animals; includes simple sugars with small molecules as well as macromolecular
+      substances; are classified according to the number of monosaccharide groups
+      they contain
+  hypernym:
+  - 14706294-n
+  - 14842408-n
+  ili: i114771
+  members:
+  - carbaihiodráit
+  partOfSpeech: n
+14817703-n:
+  definition:
+  - confidence: 0.0
+    text: a black colloidal substance consisting wholly or principally of amorphous
+      carbon and used to make pigments and ink
+  hypernym:
+  - 14657384-n
+  ili: i114774
+  members:
+  - súiche
+  partOfSpeech: n
+14817982-n:
+  definition:
+  - confidence: 0.0
+    text: any substance that produces cancer
+  hypernym:
+  - 00021007-n
+  ili: i114775
+  members:
+  - carcanaigin
+  partOfSpeech: n
+14818091-n:
+  definition:
+  - confidence: 0.0
+    text: a polysaccharide that is the chief constituent of all plant tissues and
+      fibers
+  hypernym:
+  - 14816873-n
+  ili: i114776
+  members:
+  - ceallalós
+  partOfSpeech: n
+14820745-n:
+  definition:
+  - confidence: 0.0
+    text: used as a lubricant and as a moderator in nuclear reactors
+  hypernym:
+  - 14657384-n
+  ili: i114791
+  members:
+  - graifít
+  partOfSpeech: n
+14822620-n:
+  definition:
+  - confidence: 0.0
+    text: a salt or ester of carbonic acid (containing the anion CO3)
+  hypernym:
+  - 15035270-n
+  ili: i114800
+  members:
+  - carbónáit
+  partOfSpeech: n
+14823771-n:
+  definition:
+  - confidence: 0.0
+    text: a stiff moderately thick paper
+  hypernym:
+  - 14998823-n
+  - 15001007-n
+  ili: i114806
+  members:
+  - cairtchlár
+  partOfSpeech: n
+14826620-n:
+  definition:
+  - confidence: 0.0
+    text: an alloy of iron with small amounts of carbon; widely used in construction;
+      mechanical properties can be varied over a wide range
+  hypernym:
+  - 14610949-n
+  ili: i114826
+  members:
+  - cruach
+  partOfSpeech: n
+14828345-n:
+  definition:
+  - confidence: 0.0
+    text: a building material that is a powder made of a mixture of calcined limestone
+      and clay; used with water and sand or gravel to make concrete and mortar
+  hypernym:
+  - 00022119-n
+  ili: i114835
+  members:
+  - stroighin
+  partOfSpeech: n
+14830069-n:
+  definition:
+  - confidence: 0.0
+    text: material consisting of seed coverings and small pieces of stem or leaves
+      that have been separated from the seeds
+  hypernym:
+  - 14604877-n
+  ili: i114845
+  members:
+  - crotal
+  - cáithne
+  - mogall
+  partOfSpeech: n
+14831008-n:
+  definition:
+  - confidence: 0.0
+    text: material produced by or used in a reaction involving changes in atoms or
+      molecules
+  hypernym:
+  - 14604877-n
+  ili: i114850
+  members:
+  - ceimiceán
+  partOfSpeech: n
+14837352-n:
+  definition:
+  - confidence: 0.0
+    text: a very fine-grained soil that is plastic when moist but hard when fired
+  hypernym:
+  - 14868863-n
+  ili: i114890
+  members:
+  - cré
+  partOfSpeech: n
+14838786-n:
+  definition:
+  - confidence: 0.0
+    text: fossil fuel consisting of carbonized vegetable matter deposited in the Carboniferous
+      period
+  hypernym:
+  - 14899228-n
+  ili: i114899
+  members:
+  - gual
+  partOfSpeech: n
+14840037-n:
+  definition:
+  - confidence: 0.0
+    text: an oil obtained from the livers of cod and similar fishes; taken orally
+      as a source of vitamins A and D
+  hypernym:
+  - 14991055-n
+  ili: i114907
+  members:
+  - ola ae troisc
+  partOfSpeech: n
+14842271-n:
+  definition:
+  - confidence: 0.0
+    text: a mixture of decaying vegetation and manure; used as a fertilizer
+  hypernym:
+  - 00019793-n
+  ili: i114920
+  members:
+  - múirín
+  partOfSpeech: n
+14842408-n:
+  definition:
+  - confidence: 0.0
+    text: (chemistry) a substance formed by chemical union of two or more elements
+      or ingredients in definite proportion by weight
+  hypernym:
+  - 14831008-n
+  ili: i114921
+  members:
+  - comhdhúil
+  - cumasc
+  partOfSpeech: n
+14844350-n:
+  definition:
+  - confidence: 0.0
+    text: a strong hard building material composed of sand and gravel and cement and
+      water
+  hypernym:
+  - 15002063-n
+  ili: i114924
+  members:
+  - coincréit
+  partOfSpeech: n
+14845418-n:
+  definition:
+  - confidence: 0.0
+    text: a substance as germanium or silicon whose electrical conductivity is intermediate
+      between that of a metal and an insulator; its conductivity increases with temperature
+      and in the presence of impurities
+  hypernym:
+  - 14604877-n
+  ili: i114930
+  members:
+  - leathsheoltóir
+  partOfSpeech: n
+14845760-n:
+  definition:
+  - confidence: 0.0
+    text: a material such as glass or porcelain with negligible electrical or thermal
+      conductivity
+  hypernym:
+  - 14604877-n
+  ili: i114931
+  members:
+  - inslitheoir
+  partOfSpeech: n
+14846311-n:
+  definition:
+  - confidence: 0.0
+    text: a fluid agent (gas or liquid) that produces cooling; especially one used
+      to cool a system by transferring heat away from one part to another
+  hypernym:
+  - 14964038-n
+  - 14802595-n
+  ili: i114934
+  members:
+  - fuarthán
+  partOfSpeech: n
+14854534-n:
+  definition:
+  - confidence: 0.0
+    text: (biochemistry) a long linear polymer found in the nucleus of a cell and
+      formed from nucleotides and shaped like a double helix; associated with the
+      transmission of genetic information
+  hypernym:
+  - 15018895-n
+  ili: i114985
+  members:
+  - ADN
+  partOfSpeech: n
+14858302-n:
+  definition:
+  - confidence: 0.0
+    text: water that has condensed on a cool surface overnight from water vapor in
+      the air
+  hypernym:
+  - 00034512-n
+  ili: i115002
+  members:
+  - drúcht
+  partOfSpeech: n
+14859503-n:
+  definition:
+  - confidence: 0.0
+    text: a diluting agent
+  hypernym:
+  - 14802595-n
+  ili: i115011
+  members:
+  - caolaitheoir
+  partOfSpeech: n
+14860297-n:
+  definition:
+  - confidence: 0.0
+    text: an oxide containing two atoms of oxygen in the molecule
+  hypernym:
+  - 14996078-n
+  ili: i115017
+  members:
+  - dé-ocsaíd
+  partOfSpeech: n
+14864016-n:
+  definition:
+  - confidence: 0.0
+    text: fine powdery material such as dry earth or pollen that can be blown about
+      in the air
+  hypernym:
+  - 14604877-n
+  ili: i115039
+  members:
+  - deannach
+  partOfSpeech: n
+14865437-n:
+  definition:
+  - confidence: 0.0
+    text: a mixture of gases (especially oxygen) required for breathing; the stuff
+      that the wind consists of
+  hypernym:
+  - 00021007-n
+  ili: i115045
+  members:
+  - aer
+  partOfSpeech: n
+14867162-n:
+  definition:
+  - confidence: 0.0
+    text: the loose soft material that makes up a large part of the land surface
+  hypernym:
+  - 14604877-n
+  ili: i115055
+  members:
+  - talamh
+  partOfSpeech: n
+14868863-n:
+  definition:
+  - confidence: 0.0
+    text: the part of the earth's surface consisting of humus and disintegrated rock
+  hypernym:
+  - 14867162-n
+  ili: i115066
+  members:
+  - ithir
+  partOfSpeech: n
+14869913-n:
+  definition:
+  - confidence: 0.0
+    text: binary compound that occurs at room temperature as a clear colorless odorless
+      tasteless liquid; freezes into ice below 0 degrees centigrade and boils above
+      100 degrees centigrade; widely used as a solvent
+  hypernym:
+  - 14842408-n
+  ili: i115069
+  members:
+  - uisce
+  partOfSpeech: n
+14871060-n:
+  definition:
+  - confidence: 0.0
+    text: a chemical substance secreted externally by some animals (especially insects)
+      that influences the physiology or behavior of other animals of the same species
+  hypernym:
+  - 00019793-n
+  ili: i115073
+  members:
+  - fearamón
+  partOfSpeech: n
+14872955-n:
+  definition:
+  - confidence: 0.0
+    text: a solution obtained by steeping or soaking a substance (usually in water)
+  hypernym:
+  - 14613403-n
+  ili: i115084
+  members:
+  - eastóscán
+  - úsc
+  partOfSpeech: n
+14878998-n:
+  definition:
+  - confidence: 0.0
+    text: fecal matter of animals
+  hypernym:
+  - 14880414-n
+  ili: i115118
+  members:
+  - aoileach
+  partOfSpeech: n
+14879875-n:
+  definition:
+  - confidence: 0.0
+    text: liquid excretory product
+  hypernym:
+  - 14880414-n
+  ili: i115125
+  members:
+  - fual
+  - mún
+  partOfSpeech: n
+14880414-n:
+  definition:
+  - confidence: 0.0
+    text: any materials unused and rejected as worthless or unwanted
+  hypernym:
+  - 14604877-n
+  ili: i115128
+  members:
+  - bruscar
+  - dramhaíl
+  - truflais
+  partOfSpeech: n
+14881302-n:
+  definition:
+  - confidence: 0.0
+    text: food that is discarded (as from a kitchen)
+  hypernym:
+  - 14880414-n
+  ili: i115132
+  members:
+  - bruscar
+  - dramhaíl
+  partOfSpeech: n
+14881429-n:
+  definition:
+  - confidence: 0.0
+    text: waste matter that contaminates the water or air or soil
+  hypernym:
+  - 14880414-n
+  ili: i115133
+  members:
+  - truailleán
+  partOfSpeech: n
+14881648-n:
+  definition:
+  - confidence: 0.0
+    text: worthless material that is to be disposed of
+  hypernym:
+  - 14880414-n
+  ili: i115134
+  members:
+  - bruscar
+  partOfSpeech: n
+14882048-n:
+  definition:
+  - confidence: 0.0
+    text: the remains of something that has been destroyed or broken up
+  hypernym:
+  - 14881648-n
+  ili: i115136
+  members:
+  - bruscar
+  - smionagar
+  partOfSpeech: n
+14882443-n:
+  definition:
+  - confidence: 0.0
+    text: rubbish carelessly dropped or left about (especially in public places)
+  hypernym:
+  - 14881648-n
+  ili: i115138
+  members:
+  - bruscar
+  partOfSpeech: n
+14883495-n:
+  definition:
+  - confidence: 0.0
+    text: any substance such as manure or a mixture of nitrates used to make soil
+      more fertile
+  hypernym:
+  - 14831008-n
+  ili: i115145
+  members:
+  - leasachán
+  partOfSpeech: n
+14885506-n:
+  definition:
+  - confidence: 0.0
+    text: (KNO3) used especially as a fertilizer and explosive
+  hypernym:
+  - 15040068-n
+  ili: i115155
+  members:
+  - nítear
+  - sailpítear
+  partOfSpeech: n
+14887672-n:
+  definition:
+  - confidence: 0.0
+    text: any animal or plant material used to fertilize land especially animal excreta
+      usually with litter material
+  hypernym:
+  - 14883495-n
+  ili: i115168
+  members:
+  - aoileach
+  partOfSpeech: n
+14889112-n:
+  definition:
+  - confidence: 0.0
+    text: any of a group of hard crystalline minerals that consist of aluminum silicates
+      of potassium or sodium or calcium or barium
+  hypernym:
+  - 14686753-n
+  ili: i115178
+  members:
+  - iathchloch
+  partOfSpeech: n
+14890920-n:
+  definition:
+  - confidence: 0.0
+    text: a covering material made of glass fibers in resins
+  hypernym:
+  - 00022119-n
+  ili: i115190
+  members:
+  - snáithínghloine
+  partOfSpeech: n
+14891040-n:
+  definition:
+  - confidence: 0.0
+    text: a slender and greatly elongated substance capable of being spun into yarn
+  hypernym:
+  - 14604877-n
+  ili: i115191
+  members:
+  - snáithín
+  partOfSpeech: n
+14893980-n:
+  definition:
+  - confidence: 0.0
+    text: fiber of the flax plant that is made into thread and woven into linen fabric
+  hypernym:
+  - 14891040-n
+  ili: i115207
+  members:
+  - líon
+  partOfSpeech: n
+14896848-n:
+  definition:
+  - confidence: 0.0
+    text: a lightweight material in cellular form; made by introducing gas bubbles
+      during manufacture
+  hypernym:
+  - 14604877-n
+  ili: i115228
+  members:
+  - cúr
+  partOfSpeech: n
+14897347-n:
+  definition:
+  - confidence: 0.0
+    text: a colorless poisonous gas; made by the oxidation of methanol
+  hypernym:
+  - 14842408-n
+  ili: i115231
+  members:
+  - formaildéad
+  partOfSpeech: n
+14897792-n:
+  definition:
+  - confidence: 0.0
+    text: a substance prepared according to a formula
+  hypernym:
+  - 14842408-n
+  ili: i115233
+  members:
+  - ullmhóid
+  partOfSpeech: n
+14899083-n:
+  definition:
+  - confidence: 0.0
+    text: a simple sugar found in honey and in many ripe fruits
+  hypernym:
+  - 14816873-n
+  ili: i115238
+  members:
+  - fruchtós
+  partOfSpeech: n
+14899228-n:
+  definition:
+  - confidence: 0.0
+    text: a substance that can be consumed to produce energy
+  hypernym:
+  - 00021007-n
+  ili: i115239
+  members:
+  - breosla
+  partOfSpeech: n
+14903131-n:
+  definition:
+  - confidence: 0.0
+    text: strong wrapping paper made from pulp processed with a sulfur solution
+  hypernym:
+  - 14998823-n
+  ili: i115257
+  members:
+  - craift
+  partOfSpeech: n
+14905454-n:
+  definition:
+  - confidence: 0.0
+    text: a brittle transparent solid with irregular atomic structure
+  hypernym:
+  - 15071467-n
+  ili: i115274
+  members:
+  - gloine
+  partOfSpeech: n
+14908271-n:
+  definition:
+  - confidence: 0.0
+    text: a monosaccharide sugar that has several forms; an important source of physiological
+      energy
+  hypernym:
+  - 14816873-n
+  ili: i115290
+  members:
+  - glúcós
+  partOfSpeech: n
+14914437-n:
+  definition:
+  - confidence: 0.0
+    text: plutonic igneous rock having visibly crystalline texture; generally composed
+      of feldspar and mica and quartz
+  hypernym:
+  - 14604877-n
+  ili: i115326
+  members:
+  - eibhear
+  partOfSpeech: n
+14914810-n:
+  definition:
+  - confidence: 0.0
+    text: a substance capable of reducing friction by making surfaces smooth or slippery
+  hypernym:
+  - 00021007-n
+  ili: i115328
+  members:
+  - bealadh
+  partOfSpeech: n
+14916806-n:
+  definition:
+  - confidence: 0.0
+    text: an oil having the odor or flavor of the plant from which it comes; used
+      in perfume and flavorings
+  hypernym:
+  - 14991055-n
+  ili: i115341
+  members:
+  - bláthola
+  partOfSpeech: n
+14918291-n:
+  definition:
+  - confidence: 0.0
+    text: any of a class of solid or semisolid viscous substances obtained either
+      as exudations from certain plants or prepared by polymerization of simple molecules
+  hypernym:
+  - 14842408-n
+  ili: i115350
+  members:
+  - roisín
+  partOfSpeech: n
+14919031-n:
+  definition:
+  - confidence: 0.0
+    text: a hard yellowish to brownish translucent fossil resin; used for jewelry
+  hypernym:
+  - 14918291-n
+  ili: i115352
+  members:
+  - ómra
+  partOfSpeech: n
+14926884-n:
+  definition:
+  - confidence: 0.0
+    text: a thermosetting resin; used chiefly in strong adhesives and coatings and
+      laminates
+  hypernym:
+  - 14918291-n
+  - 15018895-n
+  ili: i115399
+  members:
+  - roisín eapocsach
+  partOfSpeech: n
+14927246-n:
+  definition:
+  - confidence: 0.0
+    text: any of various polymers containing the urethane radical; a wide variety
+      of synthetic forms are made and used as adhesives or plastics or paints or rubber
+  hypernym:
+  - 15018895-n
+  ili: i115401
+  members:
+  - polúireatán
+  partOfSpeech: n
+14928812-n:
+  definition:
+  - confidence: 0.0
+    text: any of five related nonmetallic elements (fluorine or chlorine or bromine
+      or iodine or astatine) that are all monovalent and readily form negative ions
+  hypernym:
+  - 00031563-n
+  ili: i115411
+  members:
+  - halaigin
+  partOfSpeech: n
+14931001-n:
+  definition:
+  - confidence: 0.0
+    text: a chemical agent that destroys plants or inhibits their growth
+  hypernym:
+  - 14831008-n
+  ili: i115424
+  members:
+  - luibhicíd
+  partOfSpeech: n
+14932973-n:
+  definition:
+  - confidence: 0.0
+    text: partially decomposed organic matter; the organic component of soil
+  hypernym:
+  - 14868863-n
+  ili: i115436
+  members:
+  - húmas
+  partOfSpeech: n
+14935208-n:
+  definition:
+  - confidence: 0.0
+    text: an organic compound containing only carbon and hydrogen
+  hypernym:
+  - 14842408-n
+  ili: i115449
+  members:
+  - hidreacarbón
+  partOfSpeech: n
+14935855-n:
+  definition:
+  - confidence: 0.0
+    text: any of various dark heavy viscid substances obtained as a residue
+  hypernym:
+  - 14935208-n
+  ili: i115451
+  members:
+  - tarra
+  partOfSpeech: n
+14936538-n:
+  definition:
+  - confidence: 0.0
+    text: an aqueous solution of hydrogen chloride; a strongly corrosive acid
+  hypernym:
+  - 14631699-n
+  ili: i115455
+  members:
+  - aigéad hidreaclórach
+  partOfSpeech: n
+14939335-n:
+  definition:
+  - confidence: 0.0
+    text: water frozen in the solid state
+  hypernym:
+  - 15071467-n
+  ili: i115475
+  members:
+  - oighear
+  partOfSpeech: n
+14939773-n:
+  definition:
+  - confidence: 0.0
+    text: ice crystals forming a white deposit (especially on objects outside)
+  hypernym:
+  - 14939335-n
+  ili: i115477
+  members:
+  - sioc
+  partOfSpeech: n
+14940079-n:
+  definition:
+  - confidence: 0.0
+    text: ice resembling a pendent spear, formed by the freezing of dripping water
+  hypernym:
+  - 14939335-n
+  ili: i115479
+  members:
+  - bior seaca
+  - coinlín reo
+  - coinneal reo
+  - reodóg
+  - spincín seaca
+  partOfSpeech: n
+14941786-n:
+  definition:
+  - confidence: 0.0
+    text: a liquid used for printing or writing or drawing
+  hypernym:
+  - 14964524-n
+  ili: i115490
+  members:
+  - dúch
+  partOfSpeech: n
+14943145-n:
+  definition:
+  - confidence: 0.0
+    text: a substance that produces a fragrant odor when burned
+  hypernym:
+  - 14842408-n
+  ili: i115500
+  members:
+  - túis
+  partOfSpeech: n
+14944099-n:
+  definition:
+  - confidence: 0.0
+    text: a chemical used to kill insects
+  hypernym:
+  - 15004774-n
+  ili: i115506
+  members:
+  - feithidicíd
+  partOfSpeech: n
+14949783-n:
+  definition:
+  - confidence: 0.0
+    text: a plant fiber used in making rope or sacks
+  hypernym:
+  - 14891040-n
+  ili: i115543
+  members:
+  - siúit
+  partOfSpeech: n
+14953600-n:
+  definition:
+  - confidence: 0.0
+    text: a sugar comprising one glucose molecule linked to a galactose molecule;
+      occurs only in milk
+  hypernym:
+  - 14816873-n
+  ili: i115566
+  members:
+  - lachtós
+  partOfSpeech: n
+14955127-n:
+  definition:
+  - confidence: 0.0
+    text: rock that in its molten form (as magma) issues from volcanoes; lava is what
+      magma is called when it reaches the surface
+  hypernym:
+  - 14604877-n
+  ili: i115576
+  members:
+  - laibhe
+  partOfSpeech: n
+14959693-n:
+  definition:
+  - confidence: 0.0
+    text: a compound of an oxide with water
+  hypernym:
+  - 14842408-n
+  ili: i115607
+  members:
+  - hiodrocsaíd
+  partOfSpeech: n
+14960364-n:
+  definition:
+  - confidence: 0.0
+    text: a sedimentary rock consisting mainly of calcium that was deposited by the
+      remains of marine animals
+  hypernym:
+  - 14604877-n
+  ili: i115610
+  members:
+  - aolchloch
+  partOfSpeech: n
+14963045-n:
+  definition:
+  - confidence: 0.0
+    text: an oily organic compound insoluble in water but soluble in organic solvents;
+      essential structural component of living cells (along with proteins and carbohydrates)
+  hypernym:
+  - 14706294-n
+  - 14842408-n
+  ili: i115627
+  members:
+  - lipid
+  partOfSpeech: n
+14964038-n:
+  definition:
+  - confidence: 0.0
+    text: a substance that is fluid at room temperature and pressure
+  hypernym:
+  - 00019793-n
+  ili: i115632
+  members:
+  - sreabhán
+  partOfSpeech: n
+14964524-n:
+  definition:
+  - confidence: 0.0
+    text: a substance that is liquid at room temperature and pressure
+  hypernym:
+  - 14964038-n
+  ili: i115634
+  members:
+  - leacht
+  partOfSpeech: n
+14965368-n:
+  definition:
+  - confidence: 0.0
+    text: a liquid substance that is a solution (or emulsion or suspension) used or
+      obtained in an industrial process
+  hypernym:
+  - 14964524-n
+  ili: i115639
+  members:
+  - liocáir
+  partOfSpeech: n
+14966361-n:
+  definition:
+  - confidence: 0.0
+    text: a rich soil consisting of a mixture of sand and clay and decaying organic
+      materials
+  hypernym:
+  - 14868863-n
+  ili: i115644
+  members:
+  - dúrabhán
+  partOfSpeech: n
+14966900-n:
+  definition:
+  - confidence: 0.0
+    text: a segment of the trunk of a tree when stripped of branches
+  hypernym:
+  - 15122728-n
+  ili: i115647
+  members:
+  - lomán
+  - spreota
+  partOfSpeech: n
+14970052-n:
+  definition:
+  - confidence: 0.0
+    text: an oxide of iron that is strongly attracted by magnets
+  hypernym:
+  - 14686753-n
+  ili: i115665
+  members:
+  - maighnéidít
+  partOfSpeech: n
+14971945-n:
+  definition:
+  - confidence: 0.0
+    text: a hard crystalline metamorphic rock that takes a high polish; used for sculpture
+      and as building material
+  hypernym:
+  - 14604877-n
+  ili: i115677
+  members:
+  - marmar
+  partOfSpeech: n
+14975368-n:
+  definition:
+  - confidence: 0.0
+    text: a colorless odorless gas used as a fuel
+  hypernym:
+  - 14975516-n
+  ili: i115699
+  members:
+  - meatán
+  partOfSpeech: n
+14975516-n:
+  definition:
+  - confidence: 0.0
+    text: a series of non-aromatic saturated hydrocarbons with the general formula
+      CnH(2n+2)
+  hypernym:
+  - 14842408-n
+  ili: i115700
+  members:
+  - pairifín
+  partOfSpeech: n
+14978740-n:
+  definition:
+  - confidence: 0.0
+    text: an oxide containing just one atom of oxygen in the molecule
+  hypernym:
+  - 14996078-n
+  ili: i115720
+  members:
+  - aonocsaíd
+  partOfSpeech: n
+14979169-n:
+  definition:
+  - confidence: 0.0
+    text: a substance used to treat leather or other materials before dyeing; aids
+      in dyeing process
+  hypernym:
+  - 14604877-n
+  ili: i115723
+  members:
+  - buanaitheoir
+  partOfSpeech: n
+14980464-n:
+  definition:
+  - confidence: 0.0
+    text: water soaked soil; soft wet earth
+  hypernym:
+  - 14868863-n
+  ili: i115732
+  members:
+  - láib
+  partOfSpeech: n
+14982544-n:
+  definition:
+  - confidence: 0.0
+    text: any of various volatile flammable liquid hydrocarbon mixtures; used chiefly
+      as solvents
+  hypernym:
+  - 14935208-n
+  - 15071880-n
+  ili: i115745
+  members:
+  - nafta
+  partOfSpeech: n
+14991055-n:
+  definition:
+  - confidence: 0.0
+    text: a slippery or viscous liquid or liquefiable substance not miscible with
+      water
+  hypernym:
+  - 14963045-n
+  ili: i115790
+  members:
+  - ola
+  partOfSpeech: n
+14996078-n:
+  definition:
+  - confidence: 0.0
+    text: any compound of oxygen with another element or a radical
+  hypernym:
+  - 14842408-n
+  ili: i115817
+  members:
+  - ocsaíd
+  partOfSpeech: n
+14997366-n:
+  definition:
+  - confidence: 0.0
+    text: a colorless gas (O3) soluble in alkalis and cold water; a strong oxidizing
+      agent; can be produced by electric discharge in oxygen or by the action of ultraviolet
+      radiation on oxygen in the stratosphere (where it acts as a screen for ultraviolet
+      radiation)
+  hypernym:
+  - 00021007-n
+  ili: i115824
+  members:
+  - ózón
+  partOfSpeech: n
+14998823-n:
+  definition:
+  - confidence: 0.0
+    text: a material made of cellulose pulp derived mainly from wood or rags or certain
+      grasses
+  hypernym:
+  - 14604877-n
+  ili: i115832
+  members:
+  - páipéar
+  partOfSpeech: n
+15001007-n:
+  definition:
+  - confidence: 0.0
+    text: any material used especially to protect something
+  hypernym:
+  - 14604877-n
+  ili: i115842
+  members:
+  - flocas
+  partOfSpeech: n
+15002063-n:
+  definition:
+  - confidence: 0.0
+    text: material used to pave an area
+  hypernym:
+  - 00022119-n
+  ili: i115849
+  members:
+  - pábháil
+  partOfSpeech: n
+15002791-n:
+  definition:
+  - confidence: 0.0
+    text: any of various water-soluble colloidal carbohydrates that occur in ripe
+      fruit and vegetables; used in making fruit jellies and jams
+  hypernym:
+  - 14818091-n
+  ili: i115853
+  members:
+  - peictin
+  partOfSpeech: n
+15004774-n:
+  definition:
+  - confidence: 0.0
+    text: a chemical used to kill pests (as rodents or insects)
+  hypernym:
+  - 14831008-n
+  ili: i115866
+  members:
+  - lotnaidicíd
+  partOfSpeech: n
+15005138-n:
+  definition:
+  - confidence: 0.0
+    text: a dark oil consisting mainly of hydrocarbons
+  hypernym:
+  - 14991055-n
+  - 14899228-n
+  ili: i115868
+  members:
+  - amhola
+  - peitriliam
+  partOfSpeech: n
+15005742-n:
+  definition:
+  - confidence: 0.0
+    text: (physical chemistry) a sample of matter in which substances in different
+      phases are in equilibrium
+  hypernym:
+  - 00021007-n
+  ili: i115871
+  members:
+  - córas
+  partOfSpeech: n
+15009942-n:
+  definition:
+  - confidence: 0.0
+    text: a usually soluble substance for staining or coloring e.g. fabrics or hair
+  hypernym:
+  - 14604877-n
+  ili: i115895
+  members:
+  - dath
+  - fis
+  - ruaim
+  partOfSpeech: n
+15014387-n:
+  definition:
+  - confidence: 0.0
+    text: dry coloring material (especially a powder to be mixed with a liquid to
+      produce paint, etc.)
+  hypernym:
+  - 14604877-n
+  ili: i115919
+  members:
+  - lí
+  partOfSpeech: n
+15016854-n:
+  definition:
+  - confidence: 0.0
+    text: a mixture of lime or gypsum with sand and water; hardens into a smooth solid;
+      used to cover walls and ceilings
+  hypernym:
+  - 00019793-n
+  - 00022119-n
+  ili: i115931
+  members:
+  - plástar
+  partOfSpeech: n
+15018126-n:
+  definition:
+  - confidence: 0.0
+    text: a complex ester used for making fibers or resins or plastics or as a plasticizer
+  hypernym:
+  - 14616790-n
+  - 14842408-n
+  ili: i115936
+  members:
+  - poileistear
+  partOfSpeech: n
+15018280-n:
+  definition:
+  - confidence: 0.0
+    text: any of numerous synthetic resins; they are light and strong and weather
+      resistant
+  hypernym:
+  - 14918291-n
+  - 15018895-n
+  ili: i115937
+  members:
+  - poileistear
+  partOfSpeech: n
+15018895-n:
+  definition:
+  - confidence: 0.0
+    text: a naturally occurring or synthetic compound consisting of large molecules
+      made up of a linked series of repeated simple monomers
+  hypernym:
+  - 14842408-n
+  ili: i115940
+  members:
+  - polaiméir
+  partOfSpeech: n
+15020108-n:
+  definition:
+  - confidence: 0.0
+    text: a sedimentary rock consisting of sand consolidated with some cement (clay
+      or quartz etc.)
+  hypernym:
+  - 14604877-n
+  ili: i115945
+  members:
+  - gaineamhchloch
+  partOfSpeech: n
+15021579-n:
+  definition:
+  - confidence: 0.0
+    text: a solid substance in the form of tiny loose particles; a solid that has
+      been pulverized
+  hypernym:
+  - 15071467-n
+  ili: i115955
+  members:
+  - púdar
+  partOfSpeech: n
+15028364-n:
+  definition:
+  - confidence: 0.0
+    text: any substance used to provide cooling (as in a refrigerator)
+  hypernym:
+  - 00021007-n
+  ili: i115998
+  members:
+  - cuisneán
+  partOfSpeech: n
+15029068-n:
+  definition:
+  - confidence: 0.0
+    text: matter that remains after something has been removed
+  hypernym:
+  - 00021007-n
+  ili: i116002
+  members:
+  - fuíoll
+  partOfSpeech: n
+15030825-n:
+  definition:
+  - confidence: 0.0
+    text: an elastic material obtained from the latex sap of trees (especially trees
+      of the genera Hevea and Ficus) that can be vulcanized and finished into a variety
+      of products
+  hypernym:
+  - 14604877-n
+  ili: i116012
+  members:
+  - rubar
+  partOfSpeech: n
+15032101-n:
+  definition:
+  - confidence: 0.0
+    text: a hard nonresilient rubber formed by vulcanizing natural rubber
+  hypernym:
+  - 15030825-n
+  ili: i116018
+  members:
+  - éabainnít
+  partOfSpeech: n
+15033893-n:
+  definition:
+  - confidence: 0.0
+    text: water that is not salty
+  hypernym:
+  - 14869913-n
+  ili: i116030
+  members:
+  - fionnuisce
+  partOfSpeech: n
+15035270-n:
+  definition:
+  - confidence: 0.0
+    text: a compound formed by replacing hydrogen in an acid by a metal (or a radical
+      that acts like a metal)
+  hypernym:
+  - 14842408-n
+  ili: i116037
+  members:
+  - salann
+  partOfSpeech: n
+15040068-n:
+  definition:
+  - confidence: 0.0
+    text: any compound containing the nitrate group (such as a salt or ester of nitric
+      acid)
+  hypernym:
+  - 14842408-n
+  ili: i116060
+  members:
+  - níotráit
+  partOfSpeech: n
+15040881-n:
+  definition:
+  - confidence: 0.0
+    text: a mixture of potassium nitrate, charcoal, and sulfur in a 75:15:10 ratio
+      which is used in gunnery, time fuses, and fireworks
+  hypernym:
+  - 03309675-n
+  ili: i116064
+  members:
+  - púdar
+  partOfSpeech: n
+15042171-n:
+  definition:
+  - confidence: 0.0
+    text: any compound containing a chlorine atom
+  hypernym:
+  - 14842408-n
+  ili: i116072
+  members:
+  - clóiríd
+  partOfSpeech: n
+15043456-n:
+  definition:
+  - confidence: 0.0
+    text: a commercial preparation of starch that is used to stiffen textile fabrics
+      in laundering
+  hypernym:
+  - 14897792-n
+  ili: i116080
+  members:
+  - stáirse
+  partOfSpeech: n
+15043597-n:
+  definition:
+  - confidence: 0.0
+    text: a loose material consisting of grains of rock or coral
+  hypernym:
+  - 14868863-n
+  ili: i116081
+  members:
+  - gaineamh
+  partOfSpeech: n
+15048807-n:
+  definition:
+  - confidence: 0.0
+    text: a hemoprotein composed of globin and heme that gives red blood cells their
+      characteristic color; function primarily to transport oxygen from the lungs
+      to the body tissues
+  hypernym:
+  - 14752903-n
+  ili: i116114
+  members:
+  - haemaglóibin
+  partOfSpeech: n
+15056943-n:
+  definition:
+  - confidence: 0.0
+    text: any substance that causes injury or illness or death of a living organism
+  hypernym:
+  - 00021007-n
+  ili: i116156
+  members:
+  - nimh
+  partOfSpeech: n
+15058641-n:
+  definition:
+  - confidence: 0.0
+    text: a poisonous substance produced during the metabolism and growth of certain
+      microorganisms and some higher plant and animal species
+  hypernym:
+  - 15056943-n
+  ili: i116164
+  members:
+  - tocsain
+  partOfSpeech: n
+15062694-n:
+  definition:
+  - confidence: 0.0
+    text: a watery solution of sugars, salts, and minerals that circulates through
+      the vascular system of a plant
+  hypernym:
+  - 14613403-n
+  ili: i116185
+  members:
+  - sú
+  partOfSpeech: n
+15063087-n:
+  definition:
+  - confidence: 0.0
+    text: a sedimentary rock formed by the deposition of successive layers of clay
+  hypernym:
+  - 14604877-n
+  ili: i116188
+  members:
+  - sceall
+  partOfSpeech: n
+15065060-n:
+  definition:
+  - confidence: 0.0
+    text: any of a large class of siloxanes that are unusually stable over a wide
+      range of temperatures; used in lubricants and adhesives and coatings and synthetic
+      rubber and electrical insulation
+  hypernym:
+  - 15018895-n
+  ili: i116203
+  members:
+  - sileacón
+  partOfSpeech: n
+15067423-n:
+  definition:
+  - confidence: 0.0
+    text: the scum formed by oxidation at the surface of molten metals
+  hypernym:
+  - 00002684-n
+  ili: i116219
+  members:
+  - slaig
+  partOfSpeech: n
+15071467-n:
+  definition:
+  - confidence: 0.0
+    text: matter that is solid at room temperature and pressure
+  hypernym:
+  - 00021007-n
+  ili: i116244
+  members:
+  - solad
+  partOfSpeech: n
+15071880-n:
+  definition:
+  - confidence: 0.0
+    text: a liquid substance capable of dissolving other substances
+  hypernym:
+  - 00019793-n
+  ili: i116246
+  members:
+  - tuaslagóir
+  partOfSpeech: n
+15077122-n:
+  definition:
+  - confidence: 0.0
+    text: a pesticide in suspension or solution; intended for spraying
+  hypernym:
+  - 15004774-n
+  ili: i116276
+  members:
+  - sprae
+  partOfSpeech: n
+15078434-n:
+  definition:
+  - confidence: 0.0
+    text: a complex carbohydrate found chiefly in seeds, fruits, tubers, roots and
+      stem pith of plants, notably in corn, potatoes, wheat, and rice; an important
+      foodstuff and used otherwise especially in adhesives and as fillers and stiffeners
+      for paper and textiles
+  hypernym:
+  - 14816873-n
+  ili: i116284
+  members:
+  - stáirse
+  partOfSpeech: n
+15079174-n:
+  definition:
+  - confidence: 0.0
+    text: powdery starch from certain sago palms; used in Asia as a food thickener
+      and textile stiffener
+  hypernym:
+  - 15078434-n
+  ili: i116287
+  members:
+  - ság
+  partOfSpeech: n
+15079748-n:
+  definition:
+  - confidence: 0.0
+    text: water at boiling temperature diffused in the atmosphere
+  hypernym:
+  - 15080200-n
+  ili: i116291
+  members:
+  - gal
+  partOfSpeech: n
+15080200-n:
+  definition:
+  - confidence: 0.0
+    text: a visible suspension in the air of particles of some substance
+  hypernym:
+  - 00019793-n
+  ili: i116294
+  members:
+  - gal
+  partOfSpeech: n
+15083111-n:
+  definition:
+  - confidence: 0.0
+    text: an animal sterol that is normally synthesized by the liver; the most abundant
+      steroid in animal tissues
+  hypernym:
+  - 14732881-n
+  - 14842408-n
+  ili: i116310
+  members:
+  - colaistéaról
+  partOfSpeech: n
+15086624-n:
+  definition:
+  - confidence: 0.0
+    text: a plaster now made mostly from Portland cement and sand and lime; applied
+      while soft to cover exterior walls or surfaces
+  hypernym:
+  - 15016854-n
+  ili: i116331
+  members:
+  - stucó
+  partOfSpeech: n
+15087035-n:
+  definition:
+  - confidence: 0.0
+    text: obtained from suet and used in making soap, candles and lubricants
+  hypernym:
+  - 14991055-n
+  ili: i116333
+  members:
+  - geir
+  partOfSpeech: n
+15087345-n:
+  definition:
+  - confidence: 0.0
+    text: a complex carbohydrate found in many plants and used as a sweetening agent
+  hypernym:
+  - 14816873-n
+  ili: i116335
+  members:
+  - siúcrós
+  partOfSpeech: n
+15091592-n:
+  definition:
+  - confidence: 0.0
+    text: any of various complex phenolic substances of plant origin; used in tanning
+      and in medicine
+  hypernym:
+  - 14842408-n
+  ili: i116359
+  members:
+  - tainnin
+  partOfSpeech: n
+15099708-n:
+  definition:
+  - confidence: 0.0
+    text: a soft thin absorbent paper for use in toilets
+  hypernym:
+  - 14998823-n
+  ili: i116408
+  members:
+  - páipéar leithris
+  partOfSpeech: n
+15110814-n:
+  definition:
+  - confidence: 0.0
+    text: the seed of flax used as a source of oil
+  hypernym:
+  - 13156591-n
+  ili: i116478
+  members:
+  - ros
+  partOfSpeech: n
+15110919-n:
+  definition:
+  - confidence: 0.0
+    text: a drying oil extracted from flax seed and used in making such things as
+      oil paints
+  hypernym:
+  - 14991055-n
+  ili: i116479
+  members:
+  - ola rois
+  partOfSpeech: n
+15112875-n:
+  definition:
+  - confidence: 0.0
+    text: a univalent chemical radical derived from ethylene
+  hypernym:
+  - 00001740-n
+  ili: i116492
+  members:
+  - vinil
+  partOfSpeech: n
+15113825-n:
+  definition:
+  - confidence: 0.0
+    text: any of a group of organic substances essential in small quantities to normal
+      metabolism
+  hypernym:
+  - 07586285-n
+  ili: i116497
+  members:
+  - vitimín
+  partOfSpeech: n
+15116626-n:
+  definition:
+  - confidence: 0.0
+    text: a B vitamin essential for the normal function of the nervous system and
+      the gastrointestinal tract
+  hypernym:
+  - 15113825-n
+  ili: i116511
+  members:
+  - niaicin
+  partOfSpeech: n
+15118620-n:
+  definition:
+  - confidence: 0.0
+    text: paper discarded after use
+  hypernym:
+  - 14998823-n
+  ili: i116523
+  members:
+  - dramhpháipéar
+  partOfSpeech: n
+15118861-n:
+  definition:
+  - confidence: 0.0
+    text: any of various substances of either mineral origin or plant or animal origin;
+      they are solid at normal temperatures and insoluble in water
+  hypernym:
+  - 14963045-n
+  ili: i116525
+  members:
+  - céir
+  partOfSpeech: n
+15119804-n:
+  definition:
+  - confidence: 0.0
+    text: from crude petroleum; used for candles and for preservative or waterproof
+      coatings
+  hypernym:
+  - 15118861-n
+  ili: i116529
+  members:
+  - céir phairifín
+  - pairifín
+  partOfSpeech: n
+15121584-n:
+  definition:
+  - confidence: 0.0
+    text: a surface-active chemical widely used in industry and laundering
+  hypernym:
+  - 14802595-n
+  ili: i116542
+  members:
+  - glantach
+  partOfSpeech: n
+15122728-n:
+  definition:
+  - confidence: 0.0
+    text: the hard fibrous lignified substance under the bark of trees
+  hypernym:
+  - 14604877-n
+  ili: i116549
+  members:
+  - adhmad
+  partOfSpeech: n
+15124679-n:
+  definition:
+  - confidence: 0.0
+    text: the wood of broad-leaved dicotyledonous trees (as distinguished from the
+      wood of conifers)
+  hypernym:
+  - 15122728-n
+  ili: i116551
+  members:
+  - crua-adhmad
+  partOfSpeech: n
+15124824-n:
+  definition:
+  - confidence: 0.0
+    text: wood that is easy to saw (from conifers such as pine or fir)
+  hypernym:
+  - 15122728-n
+  ili: i116552
+  members:
+  - bogadhmad
+  partOfSpeech: n
+15126421-n:
+  definition:
+  - confidence: 0.0
+    text: a stout length of sawn timber; made in a wide variety of sizes and used
+      for many purposes
+  hypernym:
+  - 00022119-n
+  ili: i116565
+  members:
+  - bord
+  - clár
+  partOfSpeech: n
+15130838-n:
+  definition:
+  - confidence: 0.0
+    text: a commercial leavening agent containing yeast cells; used to raise the dough
+      in making bread and for fermenting beer or whiskey
+  hypernym:
+  - 00021007-n
+  ili: i116594
+  members:
+  - giosta
+  partOfSpeech: n
+15134663-n:
+  definition:
+  - confidence: 0.0
+    text: any substance possessing to a high degree the predominant properties of
+      a plant or drug or other natural product from which it is extracted
+  hypernym:
+  - 00019793-n
+  ili: i116614
+  members:
+  - úscra
+  partOfSpeech: n

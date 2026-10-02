@@ -1,0 +1,6 @@
+database = "wordnet.db"
+wordnet_source = "src/yaml/"
+id_prefix = "gfong"
+project_name = "GréasánFocal Oscailte na Gaeilge"
+contact_email = "john@mccr.ae"
+source_url = "https://irishwn.teanga.io/"

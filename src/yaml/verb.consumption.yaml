@@ -1,0 +1,178 @@
+01159300-v:
+  definition:
+  - a thógáil ar bhonn rialta
+  example:
+  - Tóg babhla anraith sicín eile!
+  hypernym:
+  - 02372362-v
+  ili: i27410
+  members:
+  - tóg
+  - ionghabh
+  - slog
+  - caith
+  - ith
+  - tomhail
+  partOfSpeech: v
+01159815-v:
+  definition:
+  - confidence: 0.0
+    text: use up (resources or materials)
+  hypernym:
+  - 02271905-v
+  ili: i27412
+  members:
+  - ídigh
+  partOfSpeech: v
+01161188-v:
+  definition:
+  - leas a bhaint; úsáid a bhaint as chun críche ar leith nó chun a chríche dúchasaí
+  example:
+  - úsáid do cheann!
+  hypernym:
+  - 02372362-v
+  ili: i27417
+  members:
+  - úsáid
+  - cuir i bhfeidhm
+  - bain úsáid as
+  - bain feidhm as
+  partOfSpeech: v
+01164741-v:
+  definition:
+  - confidence: 0.0
+    text: use again after processing
+  hypernym:
+  - 01161188-v
+  ili: i27431
+  members:
+  - athchúrsáil
+  - athúsáid
+  partOfSpeech: v
+01165070-v:
+  definition:
+  - confidence: 0.0
+    text: use or manipulate to one's advantage
+  hypernym:
+  - 01161188-v
+  ili: i27433
+  members:
+  - saothraigh
+  partOfSpeech: v
+01168409-v:
+  definition:
+  - cuir in úsáid
+  example:
+  - do chumhacht nó do thionchar a chur i bhfeidhm
+  hypernym:
+  - 01161188-v
+  ili: i27448
+  members:
+  - feidhmigh
+  - cuir i bhfeidhm
+  partOfSpeech: v
+01170802-v:
+  definition:
+  - bia soladach a ghlacadh isteach
+  example:
+  - Bhí sé ag ithe banana
+  hypernym:
+  - 01159300-v
+  ili: i27459
+  members:
+  - ith
+  partOfSpeech: v
+01172332-v:
+  definition:
+  - glac isteach leachtanna
+  example:
+  - Caithfidh an t-othar cúpla lítear a ól gach lá
+  hypernym:
+  - 01159300-v
+  ili: i27466
+  members:
+  - ól
+  partOfSpeech: v
+01183463-v:
+  definition:
+  - confidence: 0.0
+    text: feed into; supply
+  hypernym:
+  - 02332196-v
+  ili: i27524
+  members:
+  - cothaigh
+  partOfSpeech: v
+01184318-v:
+  definition:
+  - cuir ar fáil mar bia
+  example:
+  - Tabhair na cnónna do na haíonna
+  hypernym:
+  - 01185006-v
+  ili: i27528
+  members:
+  - cothaigh
+  - beathaigh
+  partOfSpeech: v
+01185006-v:
+  definition:
+  - tabhair a bhfuil ag teastáil nó a theastaíonn, go háirithe tacaíocht, bia nó cothú
+  example:
+  - Chuir an banóstach lón ar fáil do na haíonna go léir
+  hypernym:
+  - 02204104-v
+  ili: i27532
+  members:
+  - soláthair
+  - freastail
+  partOfSpeech: v
+01185870-v:
+  definition:
+  - líon, sásaigh nó riachtanas nó coinníoll nó srian a chomhlíonadh
+  example:
+  - an gcomhlíonann an páipéar seo na riachtanais don chéim?
+  hypernym:
+  - 01185006-v
+  ili: i35005
+  members:
+  - líon
+  - oiriúnach
+  - cloí le
+  - le chéile
+  - sásaigh
+  - comhlíon
+  partOfSpeech: v
+01191258-v:
+  definition:
+  - gá a bheith ag
+  example:
+  - Teastaíonn aird tiúnóra chumasach ón bpianó seo
+  hypernym:
+  - 02609706-v
+  ili: i27561
+  members:
+  - teastaigh ó
+  partOfSpeech: v
+01191646-v:
+  definition:
+  - a bhfuil nó a bhraitheann go bhfuil gá le
+  example:
+  - ag teastáil ó chairde agus airgead i gcónaí
+  hypernym:
+  - 01191258-v
+  ili: i27563
+  members:
+  - riachtanas
+  partOfSpeech: v
+01195161-v:
+  definition:
+  - bheith in ann spáráil nó a thabhairt suas
+  example:
+  - Níl sé d'acmhainn agam dhá uair an chloig a chaitheamh leis an duine seo
+  hypernym:
+  - 02271905-v
+  ili: i27583
+  members:
+  - bheith ar acmhainn ag
+  partOfSpeech: v

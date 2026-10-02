@@ -1,0 +1,206 @@
+Heilléanach:
+  a:
+    sense:
+    - id: 'heilléanach%3:01:00::'
+      synset: 03027318-a
+Heilléinic:
+  n:
+    sense:
+    - id: 'heilléinic%1:10:00::'
+      synset: 06989052-n
+Hiondúis:
+  n:
+    sense:
+    - id: 'hiondúis%1:10:00::'
+      synset: 06982777-n
+Hitis:
+  n:
+    sense:
+    - id: 'hitis%1:10:00::'
+      synset: 06988562-n
+habhatsar:
+  n:
+    sense:
+    - id: 'habhatsar%1:06:00::'
+      synset: 03792248-n
+haca:
+  n:
+    sense:
+    - id: 'haca%1:04:00::'
+      synset: 00469063-n
+haca oighir:
+  n:
+    sense:
+    - id: 'haca_oighir%1:04:00::'
+      synset: 00464604-n
+haemaglóibin:
+  n:
+    sense:
+    - id: 'haemaglóibin%1:27:00::'
+      synset: 15048807-n
+haifniam:
+  n:
+    sense:
+    - id: 'haifniam%1:27:00::'
+      synset: 14663734-n
+haileabó:
+  n:
+    sense:
+    - id: 'haileabó%1:05:00::'
+      synset: 02662838-n
+haisiam:
+  n:
+    sense:
+    - id: 'haisiam%1:27:00::'
+      synset: 14663973-n
+haitéir:
+  n:
+    sense:
+    - id: 'haitéir%1:18:00::'
+      synset: 10181947-n
+halaigin:
+  n:
+    sense:
+    - id: 'halaigin%1:27:00::'
+      synset: 14928812-n
+halla:
+  n:
+    sense:
+    - id: 'halla%1:06:00::'
+      synset: 02718424-n
+    - id: 'halla%1:06:01::'
+      synset: 03483839-n
+    - id: 'halla%1:06:02::'
+      synset: 03483990-n
+    - id: 'halla%1:06:03::'
+      synset: 03485035-n
+harpún:
+  n:
+    sense:
+    - id: 'harpún%1:06:00::'
+      synset: 03500796-n
+hata:
+  n:
+    sense:
+    - id: 'hata%1:06:00::'
+      synset: 03502782-n
+heicseagán:
+  n:
+    sense:
+    - id: 'heicseagán%1:25:00::'
+      synset: 13904933-n
+heicteár:
+  n:
+    sense:
+    - id: 'heicteár%1:23:00::'
+      synset: 13635266-n
+heipteagán:
+  n:
+    sense:
+    - id: 'heipteagán%1:25:00::'
+      synset: 13905144-n
+heirbeabhóir:
+  n:
+    sense:
+    - id: 'heirbeabhóir%1:05:00::'
+      synset: 01327251-n
+heitrighnéasacht:
+  n:
+    sense:
+    - id: 'heitrighnéasacht%1:04:00::'
+      synset: 00859293-n
+hibrideach:
+  a:
+    sense:
+    - id: 'hibrideach%3:00:00::'
+      synset: 01910664-a
+hidreacarbón:
+  n:
+    sense:
+    - id: 'hidreacarbón%1:27:00::'
+      synset: 14935208-n
+hidrigin:
+  n:
+    sense:
+    - id: 'hidrigin%1:27:00::'
+      synset: 14664612-n
+hiodrachás:
+  n:
+    sense:
+    - id: 'hiodrachás%1:06:00::'
+      synset: 02940477-n
+hiodrocsaíd:
+  n:
+    sense:
+    - id: 'hiodrocsaíd%1:27:00::'
+      synset: 14959693-n
+hiodrálach:
+  a:
+    sense:
+    - id: 'hiodrálach%3:01:00::'
+      synset: 03085316-a
+hiodrálaic:
+  n:
+    sense:
+    - id: 'hiodrálaic%1:09:00::'
+      synset: 06122616-n
+hipearnasc:
+  n:
+    sense:
+    - id: 'hipearnasc%1:10:00::'
+      synset: 06598848-n
+hipitéis a thabhairt:
+  v:
+    sense:
+    - id: 'hipitéis_a_thabhairt%2:31:00::'
+      synset: 00635105-v
+hipitéiseach:
+  s:
+    sense:
+    - id: hipitéiseach%5:00:00:teoiriciúil:00
+      synset: 00864403-s
+hoilmiam:
+  n:
+    sense:
+    - id: 'hoilmiam%1:27:00::'
+      synset: 14664400-n
+hoiméapaite:
+  n:
+    sense:
+    - id: 'hoiméapaite%1:04:00::'
+      synset: 00712142-n
+hoiméapat:
+  n:
+    sense:
+    - id: 'hoiméapat%1:18:00::'
+      synset: 10202033-n
+hoiméapatach:
+  a:
+    sense:
+    - id: 'hoiméapatach%3:01:00::'
+      synset: 03084394-a
+holagram:
+  n:
+    sense:
+    - id: 'holagram%1:06:00::'
+      synset: 03532423-n
+hormónach:
+  a:
+    sense:
+    - id: 'hormónach%3:01:00::'
+      synset: 02946081-a
+héileacaptar:
+  n:
+    sense:
+    - id: 'héileacaptar%1:06:00::'
+      synset: 03517291-n
+héiliam:
+  n:
+    sense:
+    - id: 'héiliam%1:27:00::'
+      synset: 14664099-n
+húmas:
+  n:
+    sense:
+    - id: 'húmas%1:27:00::'
+      synset: 14932973-n

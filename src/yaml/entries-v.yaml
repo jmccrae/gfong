@@ -1,0 +1,155 @@
+Volaifis:
+  n:
+    sense:
+    - id: 'volaifis%1:10:00::'
+      synset: 07009554-n
+v:
+  a:
+    sense:
+    - id: 'v%3:00:00::'
+      synset: 02194389-a
+vacsaín:
+  n:
+    sense:
+    - id: 'vacsaín%1:06:00::'
+      synset: 04524830-n
+vaiféal:
+  n:
+    sense:
+    - id: 'vaiféal%1:13:00::'
+      synset: 07657308-n
+vaigín:
+  n:
+    sense:
+    - id: 'vaigín%1:06:00::'
+      synset: 04550444-n
+vaimpír:
+  n:
+    sense:
+    - id: 'vaimpír%1:05:00::'
+      synset: 02153134-n
+vanaidiam:
+  n:
+    sense:
+    - id: 'vanaidiam%1:27:00::'
+      synset: 14685199-n
+vata:
+  n:
+    sense:
+    - id: 'vata%1:23:00::'
+      synset: 13666001-n
+vatacht:
+  n:
+    sense:
+    - id: 'vatacht%1:19:00::'
+      synset: 11469756-n
+veain:
+  n:
+    sense:
+    - id: 'veain%1:06:00::'
+      synset: 04527465-n
+vearnais:
+  n:
+    sense:
+    - id: 'vearnais%1:06:00::'
+      synset: 04529282-n
+veicteoir:
+  n:
+    sense:
+    - id: 'veicteoir%1:17:00::'
+      synset: 09492415-n
+veidhleadóir:
+  n:
+    sense:
+    - id: 'veidhleadóir%1:18:00::'
+      synset: 10774246-n
+veidhlín:
+  n:
+    sense:
+    - id: 'veidhlín%1:06:00::'
+      synset: 04544161-n
+veirteabra:
+  n:
+    sense:
+    - id: 'veirteabra%1:08:00::'
+      synset: 05291832-n
+veirteabrach:
+  a:
+    sense:
+    - id: 'veirteabrach%3:00:00::'
+      synset: 02520120-a
+  n:
+    sense:
+    - id: 'veirteabrach%1:05:01::'
+      synset: 01474323-n
+vi:
+  a:
+    sense:
+    - id: 'vi%3:00:00::'
+      synset: 02194472-a
+viciúna:
+  n:
+    sense:
+    - id: 'viciúna%1:05:00::'
+      synset: 02441211-n
+viii:
+  a:
+    sense:
+    - id: 'viii%3:00:00::'
+      synset: 02194712-a
+vinil:
+  n:
+    sense:
+    - id: 'vinil%1:27:00::'
+      synset: 15112875-n
+vitimín:
+  n:
+    sense:
+    - id: 'vitimín%1:27:00::'
+      synset: 15113825-n
+vodca:
+  n:
+    sense:
+    - id: 'vodca%1:13:00::'
+      synset: 07922351-n
+voltas:
+  n:
+    sense:
+    - id: 'voltas%1:19:00::'
+      synset: 11543971-n
+víosa:
+  n:
+    sense:
+    - id: 'víosa%1:10:00::'
+      synset: 06700628-n
+víreas:
+  n:
+    sense:
+    - id: 'víreas%1:05:00::'
+      synset: 01331343-n
+víreasach:
+  a:
+    sense:
+    - id: 'víreasach%3:01:00::'
+      synset: 02891505-a
+vóta:
+  n:
+    sense:
+    - id: 'vóta%1:04:00::'
+      synset: 00183062-n
+    - id: 'vóta%1:04:01::'
+      synset: 00184354-n
+vótáil:
+  n:
+    sense:
+    - id: 'vótáil%1:04:01::'
+      synset: 00184354-n
+  v:
+    sense:
+    - id: 'vótáil%2:41:00::'
+      synset: 02466737-v
+vótálaí:
+  n:
+    sense:
+    - id: 'vótálaí%1:18:00::'
+      synset: 10780008-n

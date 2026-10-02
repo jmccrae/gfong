@@ -1,0 +1,2274 @@
+13950416-n:
+  definition:
+  - confidence: 0.0
+    text: the general state of things; the combination of circumstances at a given
+      time
+  hypernym:
+  - 00024900-n
+  ili: i110136
+  members:
+  - scéal
+  - staid
+  partOfSpeech: n
+13951421-n:
+  definition:
+  - confidence: 0.0
+    text: a state of connectedness between people (especially an emotional connection)
+  hypernym:
+  - 00024900-n
+  ili: i110138
+  members:
+  - caidreamh
+  partOfSpeech: n
+13952070-n:
+  definition:
+  - confidence: 0.0
+    text: a formal contractual relationship established to provide for regular banking
+      or brokerage or business services
+  hypernym:
+  - 00024900-n
+  ili: i110141
+  members:
+  - cuntas
+  partOfSpeech: n
+13954178-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being friends (or friendly)
+  hypernym:
+  - 00024900-n
+  ili: i110151
+  members:
+  - cairdeas
+  partOfSpeech: n
+13954660-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being a member
+  hypernym:
+  - 00024900-n
+  ili: i110154
+  members:
+  - ballraíocht
+  partOfSpeech: n
+13956593-n:
+  definition:
+  - confidence: 0.0
+    text: an unstable situation of extreme danger or difficulty
+  hypernym:
+  - 04716529-n
+  ili: i110165
+  members:
+  - géarchéim
+  - éigeandáil
+  partOfSpeech: n
+13957933-n:
+  definition:
+  - confidence: 0.0
+    text: a stable situation in which forces cancel one another
+  hypernym:
+  - 13950416-n
+  ili: i110171
+  members:
+  - cothromaíocht
+  partOfSpeech: n
+13960108-n:
+  definition:
+  - confidence: 0.0
+    text: a situation treated as an observable object
+  hypernym:
+  - 13950416-n
+  ili: i110185
+  members:
+  - pictiúr
+  partOfSpeech: n
+13964158-n:
+  definition:
+  - confidence: 0.0
+    text: the point or degree to which something extends
+  hypernym:
+  - 00024900-n
+  ili: i110203
+  members:
+  - méid
+  partOfSpeech: n
+13966452-n:
+  definition:
+  - confidence: 0.0
+    text: a special set of circumstances
+  hypernym:
+  - 00024900-n
+  ili: i110215
+  members:
+  - cás
+  partOfSpeech: n
+13968971-n:
+  definition:
+  - confidence: 0.0
+    text: the relative position or standing of things or especially persons in a society
+  hypernym:
+  - 00024900-n
+  ili: i110227
+  members:
+  - seasamh
+  partOfSpeech: n
+13971316-n:
+  definition:
+  - confidence: 0.0
+    text: social or financial or professional status or reputation
+  hypernym:
+  - 13968971-n
+  ili: i110236
+  members:
+  - gradam
+  - seasamh
+  partOfSpeech: n
+13972794-n:
+  definition:
+  - confidence: 0.0
+    text: higher rank than that of others especially by reason of longer service
+  hypernym:
+  - 13968971-n
+  ili: i110244
+  members:
+  - sinsearacht
+  partOfSpeech: n
+13973020-n:
+  definition:
+  - confidence: 0.0
+    text: status established in order of importance or urgency
+  hypernym:
+  - 13968971-n
+  ili: i110245
+  members:
+  - tosaíocht
+  partOfSpeech: n
+13976685-n:
+  definition:
+  - confidence: 0.0
+    text: the status of a citizen with rights and duties
+  hypernym:
+  - 13968971-n
+  ili: i110264
+  members:
+  - saoránacht
+  partOfSpeech: n
+13980887-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being present; current existence
+  hypernym:
+  - 00024900-n
+  ili: i110283
+  members:
+  - láithreacht
+  partOfSpeech: n
+13984260-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being absent
+  hypernym:
+  - 14472871-n
+  ili: i110301
+  members:
+  - ceal
+  - easpa
+  partOfSpeech: n
+13984978-n:
+  definition:
+  - confidence: 0.0
+    text: the condition of living or the state of being alive
+  hypernym:
+  - 00024900-n
+  ili: i110305
+  members:
+  - beatha
+  - saol
+  partOfSpeech: n
+13985502-n:
+  definition:
+  - confidence: 0.0
+    text: a state of surviving; remaining alive
+  hypernym:
+  - 13984978-n
+  ili: i110307
+  members:
+  - marthanas
+  partOfSpeech: n
+13985696-n:
+  definition:
+  - confidence: 0.0
+    text: a means of surviving
+  hypernym:
+  - 13985502-n
+  ili: i110308
+  members:
+  - maireachtáil
+  partOfSpeech: n
+13986528-n:
+  definition:
+  - confidence: 0.0
+    text: a characteristic state or mode of living
+  hypernym:
+  - 00024900-n
+  ili: i110312
+  members:
+  - beatha
+  - saol
+  partOfSpeech: n
+13987802-n:
+  definition:
+  - confidence: 0.0
+    text: the state of having two spouses at the same time
+  hypernym:
+  - 13968971-n
+  ili: i110317
+  members:
+  - biogamacht
+  - déchéileachas
+  - déphósadh
+  partOfSpeech: n
+13989356-n:
+  definition:
+  - confidence: 0.0
+    text: the practice or state of having only one spouse at a time
+  hypernym:
+  - 13968971-n
+  ili: i110326
+  members:
+  - monagamas
+  partOfSpeech: n
+13990322-n:
+  definition:
+  - confidence: 0.0
+    text: the condition or practice of having more than one spouse at a time
+  hypernym:
+  - 13968971-n
+  ili: i110332
+  members:
+  - polagamas
+  partOfSpeech: n
+13991539-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being employed or having a job
+  hypernym:
+  - 00024900-n
+  ili: i110340
+  members:
+  - fostaíocht
+  partOfSpeech: n
+13991755-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being unemployed or not having a job
+  hypernym:
+  - 00024900-n
+  ili: i110341
+  members:
+  - dífhostaíocht
+  partOfSpeech: n
+13993683-n:
+  definition:
+  - confidence: 0.0
+    text: the state prevailing during the absence of war
+  hypernym:
+  - 00024900-n
+  ili: i110351
+  members:
+  - síocháin
+  partOfSpeech: n
+13995348-n:
+  definition:
+  - confidence: 0.0
+    text: agreement in the judgment or opinion reached by a group as a whole
+  hypernym:
+  - 00024900-n
+  ili: i110360
+  members:
+  - comhaontú
+  - comhdhearcadh
+  - comhthoil
+  partOfSpeech: n
+13995834-n:
+  definition:
+  - confidence: 0.0
+    text: everyone being of one mind
+  hypernym:
+  - 00024900-n
+  ili: i110362
+  members:
+  - aontoilíocht
+  partOfSpeech: n
+14004081-n:
+  definition:
+  - confidence: 0.0
+    text: feelings of hostility that are not manifest
+  hypernym:
+  - 00024900-n
+  ili: i110405
+  members:
+  - teannas
+  partOfSpeech: n
+14004330-n:
+  definition:
+  - confidence: 0.0
+    text: a state of opposition between persons or ideas or interests
+  hypernym:
+  - 00024900-n
+  ili: i110406
+  members:
+  - coinbhleacht
+  partOfSpeech: n
+14004888-n:
+  definition:
+  - confidence: 0.0
+    text: a legal state created by a declaration of war and ended by official declaration
+      during which the international rules of war apply
+  hypernym:
+  - 00024900-n
+  ili: i110409
+  members:
+  - cogadh
+  partOfSpeech: n
+14006177-n:
+  definition:
+  - confidence: 0.0
+    text: a serious disagreement between two groups of people (typically producing
+      tension or hostility)
+  hypernym:
+  - 14004330-n
+  ili: i110416
+  members:
+  - scoilt
+  partOfSpeech: n
+14007000-n:
+  definition:
+  - confidence: 0.0
+    text: absence of light or illumination
+  hypernym:
+  - 00024900-n
+  ili: i110421
+  members:
+  - dorchadas
+  partOfSpeech: n
+14008098-n:
+  definition:
+  - confidence: 0.0
+    text: relative darkness caused by light rays being intercepted by an opaque body
+  hypernym:
+  - 14007000-n
+  ili: i110427
+  members:
+  - scáth
+  partOfSpeech: n
+14008429-n:
+  definition:
+  - confidence: 0.0
+    text: shade within clear boundaries
+  hypernym:
+  - 14008098-n
+  ili: i110428
+  members:
+  - scáth
+  partOfSpeech: n
+14010908-n:
+  definition:
+  - confidence: 0.0
+    text: state of well-being characterized by emotions ranging from contentment to
+      intense joy
+  hypernym:
+  - 00026390-n
+  ili: i110440
+  members:
+  - sonas
+  partOfSpeech: n
+14014160-n:
+  definition:
+  - confidence: 0.0
+    text: the state of having committed an offense
+  hypernym:
+  - 00024900-n
+  ili: i110456
+  members:
+  - ciontacht
+  partOfSpeech: n
+14014730-n:
+  definition:
+  - confidence: 0.0
+    text: guilt as an accomplice in a crime or offense
+  hypernym:
+  - 14014160-n
+  ili: i110459
+  members:
+  - comhpháirteachas
+  partOfSpeech: n
+14014831-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being a criminal
+  hypernym:
+  - 14014160-n
+  ili: i110460
+  members:
+  - coiriúlacht
+  partOfSpeech: n
+14015308-n:
+  definition:
+  - confidence: 0.0
+    text: the condition of being free; the power to act or speak or think without
+      externally imposed restraints
+  hypernym:
+  - 00024900-n
+  ili: i110463
+  members:
+  - saoirse
+  partOfSpeech: n
+14015999-n:
+  definition:
+  - confidence: 0.0
+    text: 'immunity from arbitrary exercise of authority: political independence'
+  hypernym:
+  - 14017633-n
+  ili: i110466
+  members:
+  - neamhspleáchas
+  - saoirse
+  - uathriail
+  partOfSpeech: n
+14017633-n:
+  definition:
+  - confidence: 0.0
+    text: freedom from control or influence of another or others
+  hypernym:
+  - 14015308-n
+  ili: i110476
+  members:
+  - neamhspleáchas
+  partOfSpeech: n
+14017941-n:
+  definition:
+  - confidence: 0.0
+    text: freedom of choice
+  hypernym:
+  - 14015308-n
+  ili: i110477
+  members:
+  - saoirse
+  partOfSpeech: n
+14020738-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being under the control of another person
+  hypernym:
+  - 00024900-n
+  ili: i110492
+  members:
+  - sclábhaíocht
+  partOfSpeech: n
+14021499-n:
+  definition:
+  - confidence: 0.0
+    text: state of subjection to an owner or master or forced labor imposed as punishment
+  hypernym:
+  - 14020738-n
+  ili: i110495
+  members:
+  - daoirse
+  partOfSpeech: n
+14022691-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being imprisoned
+  hypernym:
+  - 00024900-n
+  ili: i110503
+  members:
+  - braighdeanas
+  partOfSpeech: n
+14023148-n:
+  definition:
+  - confidence: 0.0
+    text: a state of being confined (usually for a short time)
+  hypernym:
+  - 00024900-n
+  ili: i110504
+  members:
+  - coimeád
+  - coinneáil
+  partOfSpeech: n
+14024833-n:
+  definition:
+  - confidence: 0.0
+    text: the state of relying on or being controlled by someone or something else
+  hypernym:
+  - 00024900-n
+  ili: i110514
+  members:
+  - cleithiúnas
+  - spleáchas
+  - tuilleamaí
+  partOfSpeech: n
+14025764-n:
+  definition:
+  - confidence: 0.0
+    text: a state of equilibrium
+  hypernym:
+  - 13957933-n
+  ili: i110520
+  members:
+  - cothromaíocht
+  partOfSpeech: n
+14030430-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being active
+  hypernym:
+  - 00024900-n
+  ili: i110542
+  members:
+  - gníomh
+  - gníomhaíocht
+  partOfSpeech: n
+14034107-n:
+  definition:
+  - confidence: 0.0
+    text: temporary cessation or suspension
+  hypernym:
+  - 00024900-n
+  ili: i110557
+  members:
+  - fionraíocht
+  partOfSpeech: n
+14039832-n:
+  definition:
+  - confidence: 0.0
+    text: temporary loss of strength and energy resulting from hard physical or mental
+      work
+  hypernym:
+  - 00024900-n
+  ili: i110590
+  members:
+  - tuirse
+  partOfSpeech: n
+14046962-n:
+  definition:
+  - confidence: 0.0
+    text: loss of bodily sensation with or without loss of consciousness
+  hypernym:
+  - 00024900-n
+  ili: i110630
+  members:
+  - ainéistéise
+  partOfSpeech: n
+14048353-n:
+  definition:
+  - confidence: 0.0
+    text: a natural and periodic state of rest during which consciousness of the world
+      is suspended
+  hypernym:
+  - 00024900-n
+  ili: i110638
+  members:
+  - codladh
+  partOfSpeech: n
+14053917-n:
+  definition:
+  - confidence: 0.0
+    text: a very sleepy state
+  hypernym:
+  - 00024900-n
+  ili: i110665
+  members:
+  - codladh
+  - codlatacht
+  partOfSpeech: n
+14054590-n:
+  definition:
+  - confidence: 0.0
+    text: the state of having been made ready or prepared for use or action (especially
+      military action)
+  hypernym:
+  - 00024900-n
+  ili: i110668
+  members:
+  - ullmhacht
+  partOfSpeech: n
+14061746-n:
+  definition:
+  - confidence: 0.0
+    text: 'applies to nonhuman mammals: a state or period of heightened sexual arousal
+      and activity'
+  hypernym:
+  - 00024900-n
+  ili: i110702
+  members:
+  - teas
+  partOfSpeech: n
+14063016-n:
+  definition:
+  - confidence: 0.0
+    text: a physiological need for food; the consequence of food deprivation
+  hypernym:
+  - 00024900-n
+  ili: i110708
+  members:
+  - ocras
+  partOfSpeech: n
+14065905-n:
+  definition:
+  - confidence: 0.0
+    text: a condition in which insufficient or no oxygen and carbon dioxide are exchanged
+      on a ventilatory basis; caused by choking or drowning or electric shock or poison
+      gas
+  hypernym:
+  - 00024900-n
+  ili: i110724
+  members:
+  - aisfisce
+  - lánmhúchadh
+  - plúchadh
+  partOfSpeech: n
+14069684-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being pregnant; the period from conception to birth when a
+      woman carries a developing fetus in her uterus
+  hypernym:
+  - 00024900-n
+  ili: i110746
+  members:
+  - toircheas
+  partOfSpeech: n
+14074976-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being fertile; capable of producing offspring
+  hypernym:
+  - 00024900-n
+  ili: i110773
+  members:
+  - torthúlacht
+  partOfSpeech: n
+14075885-n:
+  definition:
+  - confidence: 0.0
+    text: a physical condition in which there is a disturbance of normal functioning
+  hypernym:
+  - 00024900-n
+  ili: i110777
+  members:
+  - neamhord
+  partOfSpeech: n
+14078890-n:
+  definition:
+  - confidence: 0.0
+    text: an often persistent bodily disorder or disease; a cause for complaining
+  hypernym:
+  - 14075885-n
+  ili: i110789
+  members:
+  - gearán
+  partOfSpeech: n
+14079278-n:
+  definition:
+  - confidence: 0.0
+    text: a prolonged disorder of eating due to loss of appetite
+  hypernym:
+  - 14075885-n
+  ili: i110791
+  members:
+  - anoireicse
+  partOfSpeech: n
+14085287-n:
+  definition:
+  - confidence: 0.0
+    text: impairment of normal physiological function affecting part or all of an
+      organism
+  hypernym:
+  - 00024900-n
+  ili: i110826
+  members:
+  - breoiteacht
+  - tinneas
+  partOfSpeech: n
+14086207-n:
+  definition:
+  - confidence: 0.0
+    text: being abnormally tolerant to and dependent on something that is psychologically
+      or physically habit-forming (especially alcohol or narcotic drugs)
+  hypernym:
+  - 00024900-n
+  ili: i110830
+  members:
+  - andúil
+  - spleáchas
+  partOfSpeech: n
+14093842-n:
+  definition:
+  - confidence: 0.0
+    text: an impairment of health or a condition of abnormal functioning
+  hypernym:
+  - 14085287-n
+  ili: i110874
+  members:
+  - galar
+  partOfSpeech: n
+14101312-n:
+  definition:
+  - confidence: 0.0
+    text: an infective disease caused by sporozoan parasites that are transmitted
+      through the bite of an infected Anopheles mosquito; marked by paroxysms of chills
+      and fever
+  hypernym:
+  - 00024900-n
+  ili: i110910
+  members:
+  - maláire
+  partOfSpeech: n
+14105785-n:
+  definition:
+  - confidence: 0.0
+    text: a sudden loss of consciousness resulting when the rupture or occlusion of
+      a blood vessel leads to oxygen lack in the brain
+  hypernym:
+  - 07298313-n
+  ili: i110934
+  members:
+  - stróc
+  partOfSpeech: n
+14117550-n:
+  definition:
+  - confidence: 0.0
+    text: a chronic progressive nervous disorder involving loss of myelin sheath around
+      certain nerve fibers
+  hypernym:
+  - 14075885-n
+  - 14093842-n
+  ili: i110996
+  members:
+  - scléaróis iolrach
+  partOfSpeech: n
+14123125-n:
+  definition:
+  - confidence: 0.0
+    text: impaired ability to learn to read
+  hypernym:
+  - 14075885-n
+  ili: i111026
+  members:
+  - disléicse
+  partOfSpeech: n
+14145979-n:
+  definition:
+  - confidence: 0.0
+    text: an acute febrile highly contagious viral disease
+  hypernym:
+  - 14093842-n
+  ili: i111145
+  members:
+  - fliú
+  partOfSpeech: n
+14151511-n:
+  definition:
+  - confidence: 0.0
+    text: infectious bacterial disease of human beings transmitted by contact with
+      infected animals or infected meat or milk products; characterized by fever and
+      headache
+  hypernym:
+  - 14093842-n
+  ili: i111172
+  members:
+  - brúsalóis
+  partOfSpeech: n
+14153481-n:
+  definition:
+  - confidence: 0.0
+    text: an infection of the intestines marked by severe diarrhea
+  hypernym:
+  - 14093842-n
+  ili: i111181
+  members:
+  - dinnireacht
+  partOfSpeech: n
+14159669-n:
+  definition:
+  - confidence: 0.0
+    text: chronic granulomatous communicable disease occurring in tropical and subtropical
+      regions; characterized by inflamed nodules beneath the skin and wasting of body
+      parts; caused by the bacillus Mycobacterium leprae
+  hypernym:
+  - 14093842-n
+  ili: i111209
+  members:
+  - lobhra
+  partOfSpeech: n
+14162173-n:
+  definition:
+  - confidence: 0.0
+    text: a serious (sometimes fatal) infection of rodents caused by Yersinia pestis
+      and accidentally transmitted to humans by the bite of a flea that has bitten
+      an infected animal
+  hypernym:
+  - 14093842-n
+  ili: i111220
+  members:
+  - plá
+  partOfSpeech: n
+14164972-n:
+  definition:
+  - confidence: 0.0
+    text: any of several severe febrile diseases characterized by skin rashes or spots
+      on the skin
+  hypernym:
+  - 14093842-n
+  ili: i111232
+  members:
+  - fiabhras ballach
+  - fiabhras dubh
+  partOfSpeech: n
+14166897-n:
+  definition:
+  - confidence: 0.0
+    text: infection transmitted by inhalation or ingestion of tubercle bacilli and
+      manifested in fever and small lesions (usually in the lungs but in various other
+      parts of the body in acute stages)
+  hypernym:
+  - 14093842-n
+  ili: i111242
+  members:
+  - eitinn
+  partOfSpeech: n
+14168983-n:
+  definition:
+  - confidence: 0.0
+    text: a mild viral infection involving the nose and respiratory passages (but
+      not the lungs)
+  hypernym:
+  - 14093842-n
+  ili: i111251
+  members:
+  - slaghdán
+  partOfSpeech: n
+14170862-n:
+  definition:
+  - confidence: 0.0
+    text: an abnormal condition of the lungs marked by decreased respiratory function;
+      associated with smoking or chronic bronchitis or old age
+  hypernym:
+  - 14093842-n
+  ili: i111261
+  members:
+  - eimfiséime
+  partOfSpeech: n
+14196495-n:
+  definition:
+  - confidence: 0.0
+    text: inflammation of the pleura of the lungs (especially the parietal layer)
+  hypernym:
+  - 14093842-n
+  ili: i111375
+  members:
+  - pliúraisí
+  partOfSpeech: n
+14218797-n:
+  definition:
+  - confidence: 0.0
+    text: a deficiency of red blood cells
+  hypernym:
+  - 00024900-n
+  ili: i111493
+  members:
+  - anaemacht
+  partOfSpeech: n
+14223182-n:
+  definition:
+  - confidence: 0.0
+    text: a state of poor nutrition; can result from insufficient or excessive or
+      unbalanced diet or from inability to absorb foods
+  hypernym:
+  - 14093842-n
+  ili: i111517
+  members:
+  - míchothú
+  partOfSpeech: n
+14223580-n:
+  definition:
+  - confidence: 0.0
+    text: extreme malnutrition and emaciation (especially in children); can result
+      from inadequate intake of food or from malabsorption or metabolic disorders
+  hypernym:
+  - 14223182-n
+  ili: i111519
+  members:
+  - seargadh
+  partOfSpeech: n
+14224793-n:
+  definition:
+  - confidence: 0.0
+    text: childhood disease caused by deficiency of vitamin D and sunlight associated
+      with impaired metabolism of calcium and phosphorus
+  hypernym:
+  - 14223182-n
+  ili: i111525
+  members:
+  - raicíteas
+  partOfSpeech: n
+14226478-n:
+  definition:
+  - confidence: 0.0
+    text: a closed sac that develops abnormally in some body structure
+  hypernym:
+  - 00024900-n
+  ili: i111536
+  members:
+  - cist
+  partOfSpeech: n
+14236994-n:
+  definition:
+  - confidence: 0.0
+    text: an affliction in which some part of the body is misshapen or malformed
+  hypernym:
+  - 00024900-n
+  ili: i111592
+  members:
+  - míchuma
+  partOfSpeech: n
+14255276-n:
+  definition:
+  - confidence: 0.0
+    text: a chronic skin disease characterized by dry red patches covered with scales;
+      occurs especially on the scalp and ears and genitalia and the skin over bony
+      prominences
+  hypernym:
+  - 14093842-n
+  ili: i111704
+  members:
+  - soiriáis
+  partOfSpeech: n
+14257918-n:
+  definition:
+  - confidence: 0.0
+    text: a small vascular growth on the surface of a mucous membrane
+  hypernym:
+  - 14085287-n
+  ili: i111719
+  members:
+  - polaip
+  partOfSpeech: n
+14263400-n:
+  definition:
+  - confidence: 0.0
+    text: any malignant growth or tumor caused by abnormal and uncontrolled cell division;
+      it may spread to other parts of the body through the lymphatic system or the
+      blood stream
+  hypernym:
+  - 14093842-n
+  ili: i111750
+  members:
+  - ailse
+  partOfSpeech: n
+14276046-n:
+  definition:
+  - confidence: 0.0
+    text: any of several malignant neoplasms (usually of the skin) consisting of melanocytes
+  hypernym:
+  - 14263400-n
+  ili: i111825
+  members:
+  - meileanóma
+  partOfSpeech: n
+14283684-n:
+  definition:
+  - confidence: 0.0
+    text: a highly infectious animal disease (especially cattle and sheep); it can
+      be transmitted to people
+  hypernym:
+  - 14093842-n
+  ili: i111867
+  members:
+  - antrasc
+  partOfSpeech: n
+14288166-n:
+  definition:
+  - confidence: 0.0
+    text: acute contagious disease of cloven-footed animals marked by ulcers in the
+      mouth and around the hoofs
+  hypernym:
+  - 14093842-n
+  ili: i111896
+  members:
+  - galar crúibe is béil
+  partOfSpeech: n
+14309164-n:
+  definition:
+  - confidence: 0.0
+    text: any physical damage to the body caused by violence or accident or fracture
+      etc.; the condition of an injury
+  hypernym:
+  - 00024900-n
+  ili: i112025
+  members:
+  - díobháil
+  - gortú
+  partOfSpeech: n
+14310615-n:
+  definition:
+  - confidence: 0.0
+    text: a wound made by cutting
+  hypernym:
+  - 14322317-n
+  ili: i112031
+  members:
+  - gearradh
+  partOfSpeech: n
+14322317-n:
+  definition:
+  - confidence: 0.0
+    text: an injury to living tissue (especially an injury involving a cut or break
+      in the skin)
+  hypernym:
+  - 14309164-n
+  ili: i112105
+  members:
+  - créacht
+  partOfSpeech: n
+14323139-n:
+  definition:
+  - confidence: 0.0
+    text: (medicine) any sensation or change in bodily function that is experienced
+      by a patient and is associated with a particular disease
+  hypernym:
+  - 05832256-n
+  ili: i112109
+  members:
+  - airí
+  - comhartha
+  - siomptóm
+  partOfSpeech: n
+14327487-n:
+  definition:
+  - confidence: 0.0
+    text: a pattern of symptoms indicative of some disease
+  hypernym:
+  - 14323139-n
+  ili: i112122
+  members:
+  - siondróm
+  partOfSpeech: n
+14335599-n:
+  definition:
+  - confidence: 0.0
+    text: symptom consisting of a localized collection of pus surrounded by inflamed
+      tissue
+  hypernym:
+  - 14323139-n
+  ili: i112156
+  members:
+  - easpa
+  partOfSpeech: n
+14338277-n:
+  definition:
+  - confidence: 0.0
+    text: a symptom consisting of the involuntary expulsion of air from the nose
+  hypernym:
+  - 14323139-n
+  - 00860679-n
+  ili: i112172
+  members:
+  - sraoth
+  - sraothartach
+  partOfSpeech: n
+14346126-n:
+  definition:
+  - confidence: 0.0
+    text: a symptom of some physical hurt or disorder
+  hypernym:
+  - 14323139-n
+  ili: i112218
+  members:
+  - pian
+  partOfSpeech: n
+14349481-n:
+  definition:
+  - confidence: 0.0
+    text: extreme physical pain
+  hypernym:
+  - 14346126-n
+  ili: i112234
+  members:
+  - anacair
+  partOfSpeech: n
+14350016-n:
+  definition:
+  - confidence: 0.0
+    text: pain in the head caused by dilation of cerebral arteries or muscle contractions
+      or a reaction to drugs
+  hypernym:
+  - 14346126-n
+  ili: i112238
+  members:
+  - tinneas cinn
+  partOfSpeech: n
+14351112-n:
+  definition:
+  - confidence: 0.0
+    text: a severe recurring vascular headache; occurs more frequently in women than
+      men
+  hypernym:
+  - 14350016-n
+  ili: i112245
+  members:
+  - méigrim
+  partOfSpeech: n
+14352667-n:
+  definition:
+  - confidence: 0.0
+    text: acute spasmodic pain along the course of one or more nerves
+  hypernym:
+  - 14346126-n
+  ili: i112258
+  members:
+  - néarailge
+  partOfSpeech: n
+14364837-n:
+  definition:
+  - confidence: 0.0
+    text: inflammation of the conjunctiva of the eye
+  hypernym:
+  - 14323139-n
+  ili: i112327
+  members:
+  - toinníteas
+  partOfSpeech: n
+14369821-n:
+  definition:
+  - confidence: 0.0
+    text: inflammation of the lining of the stomach; nausea and loss of appetite and
+      discomfort after eating
+  hypernym:
+  - 14323139-n
+  ili: i112357
+  members:
+  - gaistríteas
+  partOfSpeech: n
+14378643-n:
+  definition:
+  - confidence: 0.0
+    text: inflammation of one of the paranasal sinuses
+  hypernym:
+  - 14323139-n
+  ili: i112424
+  members:
+  - cuaisíteas
+  partOfSpeech: n
+14382579-n:
+  definition:
+  - confidence: 0.0
+    text: a sudden noisy expulsion of air from the lungs that clears the air passages;
+      a common symptom of upper respiratory infection or bronchitis or pneumonia or
+      tuberculosis
+  hypernym:
+  - 14323139-n
+  ili: i112455
+  members:
+  - casacht
+  partOfSpeech: n
+14386888-n:
+  definition:
+  - confidence: 0.0
+    text: a mark left (usually on the skin) by the healing of injured tissue
+  hypernym:
+  - 14323139-n
+  ili: i112479
+  members:
+  - colm
+  - forba
+  - reang
+  partOfSpeech: n
+14388761-n:
+  definition:
+  - confidence: 0.0
+    text: a rise in the temperature of the body; frequently a symptom of infection
+  hypernym:
+  - 14323139-n
+  ili: i112490
+  members:
+  - fiabhras
+  partOfSpeech: n
+14394397-n:
+  definition:
+  - confidence: 0.0
+    text: bleeding from the nose
+  hypernym:
+  - 14309164-n
+  ili: i112523
+  members:
+  - fuil shróine
+  partOfSpeech: n
+14395918-n:
+  definition:
+  - confidence: 0.0
+    text: a reeling sensation; a feeling that you are about to fall
+  hypernym:
+  - 14323139-n
+  ili: i112532
+  members:
+  - meadhrán
+  partOfSpeech: n
+14399593-n:
+  definition:
+  - confidence: 0.0
+    text: (psychology) a state of mental or emotional strain or suspense
+  hypernym:
+  - 00024900-n
+  ili: i112549
+  members:
+  - strus
+  - teannas
+  partOfSpeech: n
+14404821-n:
+  definition:
+  - confidence: 0.0
+    text: an anxiety disorder characterized by extreme and irrational fear of simple
+      things or social situations
+  hypernym:
+  - 14075885-n
+  ili: i112576
+  members:
+  - fóibe
+  partOfSpeech: n
+14405245-n:
+  definition:
+  - confidence: 0.0
+    text: a morbid fear of open spaces (as fear of being caught alone in some public
+      place)
+  hypernym:
+  - 14404821-n
+  ili: i112578
+  members:
+  - agrafóibe
+  partOfSpeech: n
+14406657-n:
+  definition:
+  - confidence: 0.0
+    text: a morbid fear of being closed in a confined space
+  hypernym:
+  - 14404821-n
+  ili: i112588
+  members:
+  - clástrafóibe
+  partOfSpeech: n
+14409427-n:
+  definition:
+  - confidence: 0.0
+    text: a fear of foreigners or strangers
+  hypernym:
+  - 14404821-n
+  ili: i112614
+  members:
+  - seineafóibe
+  partOfSpeech: n
+14415065-n:
+  definition:
+  - confidence: 0.0
+    text: a mood disorder; an affective disorder in which the victim tends to respond
+      excessively and sometimes violently
+  hypernym:
+  - 14075885-n
+  ili: i112642
+  members:
+  - máine
+  partOfSpeech: n
+14421927-n:
+  definition:
+  - confidence: 0.0
+    text: any of several psychotic disorders characterized by distortions of reality
+      and disturbances of thought and language and withdrawal from social contact
+  hypernym:
+  - 00024900-n
+  ili: i112675
+  members:
+  - scitsifréine
+  partOfSpeech: n
+14427564-n:
+  definition:
+  - confidence: 0.0
+    text: a mental state characterized by a pessimistic sense of inadequacy and a
+      despondent lack of activity
+  hypernym:
+  - 00024900-n
+  ili: i112700
+  members:
+  - dúlagar
+  partOfSpeech: n
+14429335-n:
+  definition:
+  - confidence: 0.0
+    text: sudden mass fear and anxiety over anticipated events
+  hypernym:
+  - 00024900-n
+  ili: i112711
+  members:
+  - scaoll
+  partOfSpeech: n
+14435385-n:
+  definition:
+  - confidence: 0.0
+    text: the state or quality of being recognized or acknowledged
+  hypernym:
+  - 13950416-n
+  ili: i112742
+  members:
+  - aitheantas
+  - aithint
+  partOfSpeech: n
+14438119-n:
+  definition:
+  - confidence: 0.0
+    text: a state of separation between persons or groups
+  hypernym:
+  - 00024900-n
+  ili: i112756
+  members:
+  - iargúltacht
+  - leithlis
+  partOfSpeech: n
+14438739-n:
+  definition:
+  - confidence: 0.0
+    text: enforced isolation of patients suffering from a contagious disease in order
+      to prevent the spread of disease
+  hypernym:
+  - 14438119-n
+  ili: i112760
+  members:
+  - coraintín
+  partOfSpeech: n
+14438922-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being isolated or detached
+  hypernym:
+  - 14438119-n
+  ili: i112761
+  members:
+  - oileánachas
+  partOfSpeech: n
+14440955-n:
+  definition:
+  - confidence: 0.0
+    text: lack of connection or continuity
+  hypernym:
+  - 00024900-n
+  ili: i112771
+  members:
+  - neamhleanúnachas
+  partOfSpeech: n
+14442568-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being connected
+  hypernym:
+  - 00024900-n
+  ili: i112780
+  members:
+  - ceangal
+  - nasc
+  partOfSpeech: n
+14447018-n:
+  definition:
+  - confidence: 0.0
+    text: something that has been omitted
+  hypernym:
+  - 00024900-n
+  ili: i112800
+  members:
+  - easnamh
+  partOfSpeech: n
+14448184-n:
+  definition:
+  - confidence: 0.0
+    text: state of being mature; full development
+  hypernym:
+  - 00024900-n
+  ili: i112806
+  members:
+  - aibíocht
+  partOfSpeech: n
+14448818-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being a parent
+  hypernym:
+  - 14448184-n
+  ili: i112809
+  members:
+  - tuismíocht
+  partOfSpeech: n
+14451564-n:
+  definition:
+  - confidence: 0.0
+    text: a relative position or degree of value in a graded group
+  hypernym:
+  - 14453411-n
+  ili: i112825
+  members:
+  - cáilíocht
+  - grád
+  - leibhéal
+  partOfSpeech: n
+14453411-n:
+  definition:
+  - confidence: 0.0
+    text: relative status
+  hypernym:
+  - 13968971-n
+  ili: i112835
+  members:
+  - céim
+  - rang
+  partOfSpeech: n
+14457795-n:
+  definition:
+  - confidence: 0.0
+    text: degree of exposure to public notice
+  hypernym:
+  - 13971316-n
+  ili: i112861
+  members:
+  - infheictheacht
+  partOfSpeech: n
+14460852-n:
+  definition:
+  - confidence: 0.0
+    text: the state or quality of being widely honored and acclaimed
+  hypernym:
+  - 13971316-n
+  ili: i112877
+  members:
+  - cáil
+  partOfSpeech: n
+14461018-n:
+  definition:
+  - confidence: 0.0
+    text: the condition of being honored (esteemed or respected or well regarded)
+  hypernym:
+  - 13971316-n
+  ili: i112878
+  members:
+  - meas
+  - urraim
+  partOfSpeech: n
+14461591-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being held in high esteem and honor
+  hypernym:
+  - 13971316-n
+  ili: i112881
+  members:
+  - clú
+  partOfSpeech: n
+14465996-n:
+  definition:
+  - confidence: 0.0
+    text: power to dominate or defeat
+  hypernym:
+  - 00024900-n
+  ili: i112904
+  members:
+  - forlámhas
+  partOfSpeech: n
+14466399-n:
+  definition:
+  - confidence: 0.0
+    text: dominance or power through legal authority
+  hypernym:
+  - 00024900-n
+  ili: i112906
+  members:
+  - riail
+  - smacht
+  partOfSpeech: n
+14467580-n:
+  definition:
+  - confidence: 0.0
+    text: exclusive control or possession of something
+  hypernym:
+  - 00024900-n
+  ili: i112914
+  members:
+  - monaplacht
+  partOfSpeech: n
+14467792-n:
+  definition:
+  - confidence: 0.0
+    text: (economics) a market in which there are many buyers but only one seller
+  hypernym:
+  - 01099197-n
+  ili: i112915
+  members:
+  - monaplacht
+  partOfSpeech: n
+14468692-n:
+  definition:
+  - confidence: 0.0
+    text: something causing misery or death
+  hypernym:
+  - 07298313-n
+  ili: i112919
+  members:
+  - sciúirse
+  partOfSpeech: n
+14470485-n:
+  definition:
+  - confidence: 0.0
+    text: physical discomfort (as mild sickness or depression)
+  hypernym:
+  - 00024900-n
+  ili: i112928
+  members:
+  - míbhail
+  partOfSpeech: n
+14470991-n:
+  definition:
+  - confidence: 0.0
+    text: a contented state of being happy and healthy and prosperous
+  hypernym:
+  - 00024900-n
+  ili: i112931
+  members:
+  - leas
+  partOfSpeech: n
+14471374-n:
+  definition:
+  - confidence: 0.0
+    text: a healthy state of wellbeing free from disease
+  hypernym:
+  - 14470991-n
+  ili: i112933
+  members:
+  - sláinte
+  partOfSpeech: n
+14472592-n:
+  definition:
+  - confidence: 0.0
+    text: a condition requiring relief
+  hypernym:
+  - 00024900-n
+  ili: i112940
+  members:
+  - díth
+  - gá
+  - riachtanas
+  partOfSpeech: n
+14472871-n:
+  definition:
+  - confidence: 0.0
+    text: the state of needing something that is absent or unavailable
+  hypernym:
+  - 14472592-n
+  ili: i112941
+  members:
+  - ceal
+  - easnamh
+  - easpa
+  partOfSpeech: n
+14474157-n:
+  definition:
+  - confidence: 0.0
+    text: the condition of being essential or indispensable
+  hypernym:
+  - 14472592-n
+  ili: i112947
+  members:
+  - gá
+  - riachtanas
+  partOfSpeech: n
+14474486-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being urgent; an earnest and insistent necessity
+  hypernym:
+  - 14474157-n
+  ili: i112949
+  members:
+  - práinn
+  partOfSpeech: n
+14479502-n:
+  definition:
+  - confidence: 0.0
+    text: the absence of matter
+  hypernym:
+  - 00024900-n
+  ili: i112979
+  members:
+  - folús
+  partOfSpeech: n
+14479586-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being without clothing or covering of any kind
+  hypernym:
+  - 00024900-n
+  ili: i112980
+  members:
+  - lomnochtacht
+  - nochtacht
+  partOfSpeech: n
+14482870-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being without a flaw or defect
+  hypernym:
+  - 00024900-n
+  ili: i112999
+  members:
+  - foirfeacht
+  partOfSpeech: n
+14484149-n:
+  definition:
+  - confidence: 0.0
+    text: an undivided or unbroken completeness or totality with nothing wanting
+  hypernym:
+  - 00024900-n
+  ili: i113004
+  members:
+  - aontacht
+  partOfSpeech: n
+14484558-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being complete and entire; having everything that is needed
+  hypernym:
+  - 14484149-n
+  ili: i113005
+  members:
+  - iomláine
+  partOfSpeech: n
+14484815-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being total and complete
+  hypernym:
+  - 14484558-n
+  ili: i113006
+  members:
+  - iomláine
+  - iomlán
+  partOfSpeech: n
+14487260-n:
+  definition:
+  - confidence: 0.0
+    text: used of materials (especially metals) in a weakened state caused by long
+      stress
+  hypernym:
+  - 00024900-n
+  ili: i113017
+  members:
+  - strustuirse
+  partOfSpeech: n
+14487787-n:
+  definition:
+  - confidence: 0.0
+    text: an imperfection in an object or machine
+  hypernym:
+  - 00024900-n
+  ili: i113020
+  members:
+  - fabht
+  - locht
+  partOfSpeech: n
+14488259-n:
+  definition:
+  - confidence: 0.0
+    text: a fault or defect in a computer program, system, or machine
+  hypernym:
+  - 14487787-n
+  ili: i113022
+  members:
+  - fabht
+  partOfSpeech: n
+14499245-n:
+  definition:
+  - confidence: 0.0
+    text: a state of misfortune or affliction
+  hypernym:
+  - 00024900-n
+  ili: i113075
+  members:
+  - cruatan
+  partOfSpeech: n
+14500436-n:
+  definition:
+  - confidence: 0.0
+    text: a state of adversity (danger or affliction or need)
+  hypernym:
+  - 14499245-n
+  ili: i113081
+  members:
+  - guais
+  - éigeantas
+  partOfSpeech: n
+14501727-n:
+  definition:
+  - confidence: 0.0
+    text: the ability to meet maturing obligations as they come due
+  hypernym:
+  - 00024900-n
+  ili: i113088
+  members:
+  - sócmhainneacht
+  partOfSpeech: n
+14501875-n:
+  definition:
+  - confidence: 0.0
+    text: the lack of financial resources
+  hypernym:
+  - 00024900-n
+  ili: i113089
+  members:
+  - dócmhainneacht
+  partOfSpeech: n
+14502017-n:
+  definition:
+  - confidence: 0.0
+    text: inability to discharge all your debts as they come due
+  hypernym:
+  - 14501875-n
+  ili: i113090
+  members:
+  - féimheacht
+  partOfSpeech: n
+14503199-n:
+  definition:
+  - confidence: 0.0
+    text: (chemistry) the three traditional states of matter are solids (fixed shape
+      and volume) and liquids (fixed volume and shaped by the container) and gases
+      (filling the container)
+  hypernym:
+  - 00034512-n
+  ili: i113097
+  members:
+  - staid
+  partOfSpeech: n
+14503649-n:
+  definition:
+  - confidence: 0.0
+    text: (physical chemistry) a distinct state of matter in a system; matter that
+      is identical in chemical composition and physical state and separated from other
+      material by the phase boundary
+  hypernym:
+  - 14503199-n
+  ili: i113098
+  members:
+  - pas
+  partOfSpeech: n
+14504664-n:
+  definition:
+  - confidence: 0.0
+    text: 'the state of matter distinguished from the solid and liquid states by:
+      relatively low density and viscosity; relatively great expansion and contraction
+      with changes in pressure and temperature; the ability to diffuse readily; and
+      the spontaneous tendency to become distributed uniformly throughout any container'
+  hypernym:
+  - 14503199-n
+  ili: i113101
+  members:
+  - gás
+  partOfSpeech: n
+14505095-n:
+  definition:
+  - confidence: 0.0
+    text: (physical chemistry) a fourth state of matter distinct from solid or liquid
+      or gas and present in stars and fusion reactors; a gas becomes a plasma when
+      it is heated until the atoms lose all their electrons, leaving a highly electrified
+      collection of nuclei and free electrons
+  hypernym:
+  - 14503199-n
+  ili: i113102
+  members:
+  - plasma
+  partOfSpeech: n
+14506204-n:
+  definition:
+  - confidence: 0.0
+    text: the inherent capacity for coming into being
+  hypernym:
+  - 00024900-n
+  ili: i113106
+  members:
+  - acmhainn
+  - acmhainneacht
+  partOfSpeech: n
+14506552-n:
+  definition:
+  - confidence: 0.0
+    text: the possibility of future success
+  hypernym:
+  - 14506204-n
+  ili: i113108
+  members:
+  - seans
+  partOfSpeech: n
+14506710-n:
+  definition:
+  - confidence: 0.0
+    text: incapability of existing or occurring
+  hypernym:
+  - 00024900-n
+  ili: i113109
+  members:
+  - dodhéantacht
+  - neamhfhéidearthacht
+  partOfSpeech: n
+14507501-n:
+  definition:
+  - confidence: 0.0
+    text: a possibility due to a favorable combination of circumstances
+  hypernym:
+  - 00024900-n
+  ili: i113114
+  members:
+  - deis
+  - seans
+  partOfSpeech: n
+14508362-n:
+  definition:
+  - confidence: 0.0
+    text: an opportunity to state your case and be heard
+  hypernym:
+  - 14507501-n
+  ili: i113118
+  members:
+  - éisteacht
+  partOfSpeech: n
+14509858-n:
+  definition:
+  - confidence: 0.0
+    text: a state in which all hope is lost or absent
+  hypernym:
+  - 00024900-n
+  ili: i113128
+  members:
+  - éadóchas
+  partOfSpeech: n
+14510351-n:
+  definition:
+  - confidence: 0.0
+    text: being undiluted or unmixed with extraneous material
+  hypernym:
+  - 00024900-n
+  ili: i113131
+  members:
+  - íonacht
+  partOfSpeech: n
+14513107-n:
+  definition:
+  - confidence: 0.0
+    text: the economic condition when everyone who wishes to work at the going wage
+      rate for their type of labor is employed
+  hypernym:
+  - 00024900-n
+  ili: i113147
+  members:
+  - lánfhostaíocht
+  partOfSpeech: n
+14513283-n:
+  definition:
+  - confidence: 0.0
+    text: an economic state of growth with rising profits and full employment
+  hypernym:
+  - 00024900-n
+  ili: i113148
+  members:
+  - rathúnas
+  partOfSpeech: n
+14513903-n:
+  definition:
+  - confidence: 0.0
+    text: an obligation to pay money to another party
+  hypernym:
+  - 00024900-n
+  ili: i113151
+  members:
+  - dócmhainn
+  partOfSpeech: n
+14514855-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being rich and affluent; having a plentiful supply of material
+      goods and money
+  hypernym:
+  - 00024900-n
+  ili: i113157
+  members:
+  - rachmas
+  - saibhreas
+  partOfSpeech: n
+14516729-n:
+  definition:
+  - confidence: 0.0
+    text: the state of having little or no money and few or no material possessions
+  hypernym:
+  - 00024900-n
+  ili: i113166
+  members:
+  - bochtaineacht
+  partOfSpeech: n
+14517010-n:
+  definition:
+  - confidence: 0.0
+    text: a state of extreme poverty
+  hypernym:
+  - 14516729-n
+  ili: i113167
+  members:
+  - díothacht
+  - díth
+  partOfSpeech: n
+14517300-n:
+  definition:
+  - confidence: 0.0
+    text: a state of extreme poverty or destitution
+  hypernym:
+  - 14516729-n
+  ili: i113169
+  members:
+  - gátar
+  partOfSpeech: n
+14518664-n:
+  definition:
+  - confidence: 0.0
+    text: a condition promoting sanitary practices
+  hypernym:
+  - 00024900-n
+  ili: i113176
+  members:
+  - sláinteachas
+  partOfSpeech: n
+14520294-n:
+  definition:
+  - confidence: 0.0
+    text: a condition of regular or proper arrangement
+  hypernym:
+  - 00024900-n
+  ili: i113186
+  members:
+  - ord
+  partOfSpeech: n
+14521680-n:
+  definition:
+  - confidence: 0.0
+    text: anything regarded as making something unclean
+  hypernym:
+  - 00024900-n
+  ili: i113194
+  members:
+  - salachar
+  partOfSpeech: n
+14528966-n:
+  definition:
+  - confidence: 0.0
+    text: an abnormal lateral curve to the vertebral column
+  hypernym:
+  - 00024900-n
+  ili: i113228
+  members:
+  - scolóis
+  partOfSpeech: n
+14529423-n:
+  definition:
+  - confidence: 0.0
+    text: deviation from the normal or common order or form or rule
+  hypernym:
+  - 00024900-n
+  ili: i113231
+  members:
+  - aimhrialtacht
+  partOfSpeech: n
+14536419-n:
+  definition:
+  - confidence: 0.0
+    text: the set of facts or circumstances that surround a situation or event
+  hypernym:
+  - 13950416-n
+  ili: i113269
+  members:
+  - comhthéacs
+  partOfSpeech: n
+14537641-n:
+  definition:
+  - confidence: 0.0
+    text: a particular environment or walk of life
+  hypernym:
+  - 13950416-n
+  ili: i113275
+  members:
+  - raon
+  - réim
+  partOfSpeech: n
+14541014-n:
+  definition:
+  - confidence: 0.0
+    text: pollution of the atmosphere
+  hypernym:
+  - 00024900-n
+  ili: i113292
+  members:
+  - aerthruailliú
+  partOfSpeech: n
+14541231-n:
+  definition:
+  - confidence: 0.0
+    text: rain containing acids that form in the atmosphere when industrial gas emissions
+      (especially sulfur dioxide and nitrogen oxides) combine with water
+  hypernym:
+  - 14541014-n
+  ili: i113293
+  members:
+  - báisteach aigéadach
+  partOfSpeech: n
+14542968-n:
+  definition:
+  - confidence: 0.0
+    text: the weather in some location averaged over some long period of time
+  hypernym:
+  - 00024900-n
+  ili: i113304
+  members:
+  - aeráid
+  partOfSpeech: n
+14548263-n:
+  definition:
+  - confidence: 0.0
+    text: the prevailing psychological state
+  hypernym:
+  - 00024900-n
+  ili: i113332
+  members:
+  - timpeallacht
+  partOfSpeech: n
+14548451-n:
+  definition:
+  - confidence: 0.0
+    text: a particular environment or surrounding influence
+  hypernym:
+  - 00024900-n
+  ili: i113333
+  members:
+  - atmaisféar
+  partOfSpeech: n
+14549784-n:
+  definition:
+  - confidence: 0.0
+    text: the general atmosphere of a place or situation and the effect that it has
+      on people
+  hypernym:
+  - 14548451-n
+  ili: i113340
+  members:
+  - meon
+  - spiorad
+  partOfSpeech: n
+14552475-n:
+  definition:
+  - confidence: 0.0
+    text: immunity from an obligation or duty
+  hypernym:
+  - 00024900-n
+  ili: i113352
+  members:
+  - díolúine
+  partOfSpeech: n
+14553663-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being susceptible; easily affected
+  hypernym:
+  - 00024900-n
+  ili: i113359
+  members:
+  - leochaileacht
+  partOfSpeech: n
+14554005-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being legally obliged and responsible
+  hypernym:
+  - 14553663-n
+  ili: i113360
+  members:
+  - dliteanas
+  - freagracht
+  partOfSpeech: n
+14555374-n:
+  definition:
+  - confidence: 0.0
+    text: susceptibility to a pathogen
+  hypernym:
+  - 14553663-n
+  ili: i113368
+  members:
+  - togracht
+  partOfSpeech: n
+14556418-n:
+  definition:
+  - confidence: 0.0
+    text: hypersensitivity reaction to a particular allergen; symptoms can vary greatly
+      in intensity
+  hypernym:
+  - 14555374-n
+  ili: i113374
+  members:
+  - ailléirge
+  partOfSpeech: n
+14558059-n:
+  definition:
+  - confidence: 0.0
+    text: ready susceptibility to chemical change
+  hypernym:
+  - 14553663-n
+  ili: i113383
+  members:
+  - imoibríocht
+  partOfSpeech: n
+14559033-n:
+  definition:
+  - confidence: 0.0
+    text: wetness caused by water
+  hypernym:
+  - 00024900-n
+  ili: i113387
+  members:
+  - taisleach
+  partOfSpeech: n
+14559245-n:
+  definition:
+  - confidence: 0.0
+    text: wetness in the atmosphere
+  hypernym:
+  - 00024900-n
+  ili: i113388
+  members:
+  - bogthaise
+  partOfSpeech: n
+14560040-n:
+  definition:
+  - confidence: 0.0
+    text: the condition of not containing or being covered by a liquid (especially
+      water)
+  hypernym:
+  - 00024900-n
+  ili: i113394
+  members:
+  - triomacht
+  partOfSpeech: n
+14560656-n:
+  definition:
+  - confidence: 0.0
+    text: a shortage of rainfall
+  hypernym:
+  - 14560040-n
+  ili: i113396
+  members:
+  - triomach
+  partOfSpeech: n
+14562074-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being certain that adverse effects will not be caused by some
+      agent under defined conditions
+  hypernym:
+  - 00024900-n
+  ili: i113403
+  members:
+  - sábháilteacht
+  partOfSpeech: n
+14562870-n:
+  definition:
+  - confidence: 0.0
+    text: the state of being free from danger or injury
+  hypernym:
+  - 14562074-n
+  ili: i113408
+  members:
+  - slándáil
+  partOfSpeech: n
+14564367-n:
+  definition:
+  - confidence: 0.0
+    text: the condition of being susceptible to harm or injury
+  hypernym:
+  - 00024900-n
+  ili: i113417
+  members:
+  - baol
+  - contúirt
+  partOfSpeech: n
+14565454-n:
+  definition:
+  - confidence: 0.0
+    text: a source of danger; a possibility of incurring loss or misfortune
+  hypernym:
+  - 00001740-n
+  ili: i113422
+  members:
+  - baol
+  - priacal
+  - riosca
+  partOfSpeech: n
+14566833-n:
+  definition:
+  - confidence: 0.0
+    text: something that is a source of danger
+  hypernym:
+  - 00001740-n
+  ili: i113429
+  members:
+  - bagairt
+  partOfSpeech: n
+14571935-n:
+  definition:
+  - confidence: 0.0
+    text: the condition of being unable to perform as a consequence of physical or
+      mental unfitness
+  hypernym:
+  - 00024900-n
+  ili: i113455
+  members:
+  - mí-ábaltacht
+  - míchumas
+  partOfSpeech: n
+14575578-n:
+  definition:
+  - confidence: 0.0
+    text: the condition of being unable or unwilling to speak
+  hypernym:
+  - 00024900-n
+  ili: i113476
+  members:
+  - bailbhe
+  partOfSpeech: n
+14586275-n:
+  definition:
+  - confidence: 0.0
+    text: impairment resulting from long use
+  hypernym:
+  - 00024900-n
+  ili: i113539
+  members:
+  - caitheamh
+  partOfSpeech: n
+14591940-n:
+  definition:
+  - confidence: 0.0
+    text: a ringing or booming sensation in one or both ears; a symptom of an ear
+      infection or Meniere's disease
+  hypernym:
+  - 14323139-n
+  ili: i113572
+  members:
+  - tinniteas
+  partOfSpeech: n

@@ -1,0 +1,1386 @@
+02372362-v:
+  definition:
+  - gníomh a dhéanamh, nó oibriú amach nó déanamh (gníomh)
+  example:
+  - smaoineamh sula ngníomhóidh tú
+  ili: i33603
+  members:
+  - gníomhaigh
+  - bog
+  partOfSpeech: v
+02375741-v:
+  definition:
+  - gníomhaigh nó éifeacht ar bhealach sonraithe nó le héifeacht nó le toradh sonrach
+  example:
+  - Níor ghlac an toisc seo ach páirt bheag ina chinneadh
+  hypernym:
+  - 02372362-v
+  ili: i33611
+  members:
+  - imir
+  partOfSpeech: v
+02377696-v:
+  definition:
+  - cloígh le gnás nó cúrsa a dhéanamh
+  example:
+  - Ba cheart dúinn leanúint ar aghaidh leis an bhfiosrúchán seo
+  hypernym:
+  - 02372362-v
+  ili: i33621
+  members:
+  - téigh
+  - gabh ar aghaidh
+  - lean ar aghaidh
+  partOfSpeech: v
+02380222-v:
+  definition:
+  - gníomhaíocht a dhéanamh nó páirt a ghlacadh i ngníomhaíocht; bheith páirteach
+    i
+  example:
+  - Rinne sí go leor gníomhaíochtaí
+  hypernym:
+  - 02372362-v
+  ili: i33633
+  members:
+  - gabháil
+  - leanúint
+  - ionchúiseamh
+  - déan
+  partOfSpeech: v
+02382049-v:
+  definition:
+  - confidence: 0.0
+    text: act together or towards others or with others
+  hypernym:
+  - 02372362-v
+  ili: i33643
+  members:
+  - idirghníomhaigh
+  partOfSpeech: v
+02383544-v:
+  definition:
+  - caidreamh pearsanta nó caidreamh oibre a fháil le duine eile
+  example:
+  - tá iardhochtúireacht agam
+  hypernym:
+  - 02382049-v
+  ili: i33649
+  members:
+  - ag
+  - roimh
+  partOfSpeech: v
+02386868-v:
+  definition:
+  - teidil, oifigí, dualgais, freagrachtaí a ghlacadh
+  example:
+  - Cathain a ghlacfaidh an tUachtarán nua leis an oifig?
+  hypernym:
+  - 00346415-v
+  ili: i33665
+  members:
+  - glac le
+  - glac ar
+  - glac
+  - tar i gceannas
+  partOfSpeech: v
+02396945-v:
+  definition:
+  - confidence: 0.0
+    text: give an assignment to (a person) to a post, or assign a task to (a person)
+  hypernym:
+  - 02481345-v
+  ili: i33708
+  members:
+  - ainmnigh
+  - ceap
+  partOfSpeech: v
+02399325-v:
+  definition:
+  - glac le, mar phoist nó róil
+  example:
+  - Ghlac sí leis an post mar stiúrthóir forbartha
+  hypernym:
+  - 02415985-v
+  ili: i33719
+  members:
+  - tóg
+  - líon
+  - a bheith post ag
+  partOfSpeech: v
+02400924-v:
+  definition:
+  - confidence: 0.0
+    text: commence officially
+  hypernym:
+  - 00349400-v
+  ili: i33726
+  members:
+  - bunaigh
+  partOfSpeech: v
+02405902-v:
+  definition:
+  - confidence: 0.0
+    text: select by a vote for an office or membership
+  hypernym:
+  - 00676526-v
+  ili: i33750
+  members:
+  - roghnaigh
+  - togh
+  partOfSpeech: v
+02407967-v:
+  definition:
+  - confidence: 0.0
+    text: terminate the employment of; discharge from an office or position
+  hypernym:
+  - 02372362-v
+  ili: i33760
+  members:
+  - bris
+  - dífhostaigh
+  partOfSpeech: v
+02410532-v:
+  definition:
+  - cuir ar an áit nó bogadh isteach i suíomh na
+  example:
+  - Tháinig Smith in ionad Miller mar POF tar éis do Miller imeacht
+  hypernym:
+  - 02609706-v
+  ili: i33773
+  members:
+  - ionadaigh
+  - dul in aonad
+  - tar ar
+  - dul in áit ruda/duine
+  partOfSpeech: v
+02414542-v:
+  definition:
+  - fostaigh chun obair a dhéanamh
+  example:
+  - D'fhostaigh siad beirt rúnaithe nua sa roinn
+  hypernym:
+  - 02372362-v
+  ili: i33789
+  members:
+  - fostaigh
+  - fruiligh
+  partOfSpeech: v
+02415305-v:
+  definition:
+  - confidence: 0.0
+    text: allow to remain in a place or position or maintain a property or feature
+  hypernym:
+  - 02685709-v
+  ili: i33792
+  members:
+  - coinnigh
+  partOfSpeech: v
+02415985-v:
+  definition:
+  - a bheith fostaithe
+  example:
+  - An bhfuil d'fhear céile ag obair arís?
+  hypernym:
+  - 02372362-v
+  ili: i33794
+  members:
+  - oibrigh
+  - obair a dhéanamh
+  partOfSpeech: v
+02418610-v:
+  definition:
+  - dua a chur ar dhuine faoi obair mheabhrach nó fhisiceach a dhéanamh chun críche
+    nó de bharr riachtanais; oibrigh
+  example:
+  - Oibreoidh mé go dian chun mo chuid grád a fheabhsú
+  hypernym:
+  - 02372362-v
+  ili: i33807
+  members:
+  - oibrigh
+  - bí ag obair
+  partOfSpeech: v
+02420169-v:
+  definition:
+  - iarracht a chur i bhfeidhm chun rud nó éacht a dhéanamh
+  example:
+  - d'oibrigh an páiste ar an dtáblaí iolrúcháin go dtí go raibh sé ar an eolas aici
+  hypernym:
+  - 02418610-v
+  ili: i33812
+  members:
+  - oibrigh ar
+  partOfSpeech: v
+02421408-v:
+  definition:
+  - obair le chéile ar chomhfhiontar nó ar thionscadal coiteann
+  example:
+  - Níor tháinig an soprán agus an pianódóir le chéile go han-mhaith
+  hypernym:
+  - 02418610-v
+  ili: i33818
+  members:
+  - comhraic
+  - comhoibrigh
+  partOfSpeech: v
+02426474-v:
+  definition:
+  - confidence: 0.0
+    text: grant freedom to; free from confinement
+  hypernym:
+  - 00126072-v
+  ili: i33841
+  members:
+  - saor
+  - scaoil
+  partOfSpeech: v
+02427979-v:
+  definition:
+  - a chur faoi deara rud a bheith ina fhéidearthacht de bharr gnímh áirithe nó easpa
+    gnímh
+  example:
+  - Ligeann sé seo don uisce chun sileadh isteach
+  hypernym:
+  - 01620211-v
+  ili: i33850
+  members:
+  - lig
+  - ceadaigh
+  - tabhair cead
+  partOfSpeech: v
+02431018-v:
+  definition:
+  - tús a chur le oibriú nó feidhmiú nó a chur faoi deara tosú ag feidhmiú
+  example:
+  - oscail gnó
+  hypernym:
+  - 00346415-v
+  ili: i33864
+  members:
+  - oscail
+  partOfSpeech: v
+02431950-v:
+  definition:
+  - cuir tús le nó bunaigh
+  example:
+  - Bhunaigh sí clár litearthachta
+  hypernym:
+  - 02431018-v
+  ili: i33867
+  members:
+  - cuir ar bun
+  - bunaigh
+  - suigh
+  partOfSpeech: v
+02432181-v:
+  definition:
+  - confidence: 0.0
+    text: do away with
+  hypernym:
+  - 02372362-v
+  ili: i33868
+  members:
+  - díothaigh
+  partOfSpeech: v
+02433771-v:
+  definition:
+  - bailiú in áit amháin
+  example:
+  - Chruinnigh muid in íoslach an tséipéil
+  hypernym:
+  - 02382049-v
+  ili: i33876
+  members:
+  - cruinnigh
+  - buail le chéile
+  - bailigh le chéile
+  partOfSpeech: v
+02436818-v:
+  definition:
+  - confidence: 0.0
+    text: work in an administrative capacity; supervise or be in charge of
+  hypernym:
+  - 02441196-v
+  ili: i33888
+  members:
+  - riar
+  partOfSpeech: v
+02439823-v:
+  definition:
+  - a bheith páirteach; bain ballraíocht amach i ngrúpa nó i gcumann
+  example:
+  - Ghlac sé ballraíocht sa Pháirtí Cumannach mar ógánach
+  hypernym:
+  - 02372362-v
+  ili: i33902
+  members:
+  - téigh i
+  - téigh isteach
+  - téigh le
+  - ballraíocht a ghlacadh
+  - luigh isteach
+  partOfSpeech: v
+02441196-v:
+  definition:
+  - a bheith i gceannas de, gníomhaigh de réir, nó eagraigh
+  example:
+  - Is féidir liom déileáil leis an bhfoireann oibrithe seo
+  hypernym:
+  - 02445887-v
+  ili: i33908
+  members:
+  - déileáil le
+  - pléigh le
+  - láimhseáil
+  - bainistigh
+  partOfSpeech: v
+02443400-v:
+  definition:
+  - confidence: 0.0
+    text: deal with in a routine way
+  hypernym:
+  - 02441196-v
+  ili: i33917
+  members:
+  - próiseáil
+  partOfSpeech: v
+02445109-v:
+  definition:
+  - a bheith i gceannas ar
+  example:
+  - Cé atá i gceannas ar an tionscadal seo?
+  hypernym:
+  - 02441196-v
+  ili: i33926
+  members:
+  - ceannaireacht a thabhairt
+  partOfSpeech: v
+02445887-v:
+  definition:
+  - smacht údarásach nó cumhacht a bheith ag ar dhuine a fheidhmiú
+  example:
+  - an buiséad a rialú
+  hypernym:
+  - 00751211-v
+  ili: i33931
+  members:
+  - rialaigh
+  partOfSpeech: v
+02447914-v:
+  definition:
+  - confidence: 0.0
+    text: watch and direct
+  hypernym:
+  - 02436818-v
+  ili: i33940
+  members:
+  - maoirsigh
+  partOfSpeech: v
+02448714-v:
+  definition:
+  - stiúir nó rialaigh; tionscadail, gnólachtaí, srl.
+  example:
+  - Tá sí i mbun oibríochta faoisimh sa Súdáin
+  hypernym:
+  - 02441196-v
+  ili: i33943
+  members:
+  - rith
+  - reáchtáil
+  - bí i mbun
+  - oibrigh
+  partOfSpeech: v
+02449527-v:
+  definition:
+  - confidence: 0.0
+    text: authorize officially
+  hypernym:
+  - 00804987-v
+  ili: i33948
+  members:
+  - ceadúnaigh
+  partOfSpeech: v
+02450374-v:
+  definition:
+  - cúrsaí a stiúradh; bainistigh nó rialaigh
+  example:
+  - Ní féidir leat gnó a dhéanamh mar seo
+  hypernym:
+  - 02441196-v
+  ili: i33951
+  members:
+  - déan
+  - riar
+  - stiúir
+  - lean ar aghaidh
+  - lean le
+  partOfSpeech: v
+02450790-v:
+  definition:
+  - a bheith ag obair in áit áirithe, le hábhar áirithe, nó le feidhm áirithe
+  example:
+  - Is uaireolaí é
+  hypernym:
+  - 02415985-v
+  ili: i33953
+  members:
+  - lean
+  - bí
+  partOfSpeech: v
+02452944-v:
+  definition:
+  - confidence: 0.0
+    text: form a corporation
+  hypernym:
+  - 01620211-v
+  ili: i33965
+  members:
+  - corpraigh
+  partOfSpeech: v
+02453050-v:
+  definition:
+  - cruthaigh (mar aonán)
+  example:
+  - foirmíonn grúpaí sóisialta i ngach áit
+  hypernym:
+  - 01620211-v
+  ili: i33966
+  members:
+  - eagraigh
+  - bunaigh
+  partOfSpeech: v
+02455121-v:
+  definition:
+  - bheith páirteach i rud
+  hypernym:
+  - 02372362-v
+  ili: i33975
+  members:
+  - glac páirt
+  partOfSpeech: v
+02455370-v:
+  definition:
+  - stop a chur le (duine nó rud) rud éigin a dhéanamh nó a bheith i staid ar leith
+  example:
+  - Caithfimid leathnú na hailse a stopadh
+  hypernym:
+  - 02372362-v
+  ili: i33977
+  members:
+  - cosain
+  - coimeád
+  - cumhdaigh
+  - coisc
+  - stop
+  - cuir stop le
+  partOfSpeech: v
+02456614-v:
+  definition:
+  - confidence: 0.0
+    text: be a hindrance or obstacle to
+  hypernym:
+  - 02455370-v
+  ili: i33981
+  members:
+  - bac
+  partOfSpeech: v
+02457343-v:
+  definition:
+  - confidence: 0.0
+    text: come between so as to be hindrance or obstacle
+  hypernym:
+  - 02456614-v
+  ili: i33983
+  members:
+  - bac
+  - cuir isteach
+  partOfSpeech: v
+02458316-v:
+  definition:
+  - stop a chur ar rud a tharlú; a chur faoi deara a bheith dodhéanta
+  example:
+  - Cuireann mo chuid breithiúnais bac orm fíor-fhreagra a thabhairt
+  hypernym:
+  - 02372362-v
+  ili: i33989
+  members:
+  - coisc
+  - toirmisc
+  - cuir cosc ar
+  - foriaigh
+  - cuir bac ar
+  - tar roimh
+  partOfSpeech: v
+02458770-v:
+  definition:
+  - cosc a chur ar, cosc a chur ar tarlú, cosaint a thabhairt ó aon rud neamh-inmhianaithe
+    nó a choinneáil ar shiúl; cosc
+  example:
+  - Seachnóimid achrann
+  hypernym:
+  - 02458316-v
+  ili: i33990
+  members:
+  - toirmisc
+  - seachain
+  - sraon
+  - coisc
+  - tar roimh
+  - cosain
+  partOfSpeech: v
+02459338-v:
+  definition:
+  - bheith taobh thiar de, ceadaigh de
+  example:
+  - Roghnaigh sé an Páirtí an Lucht Oibre
+  hypernym:
+  - 00808164-v
+  ili: i33992
+  members:
+  - tacaigh le
+  - roghnaigh
+  partOfSpeech: v
+02460829-v:
+  definition:
+  - a leanúint leis na súile nó leis an intinn
+  example:
+  - Coinnigh súil ar an leanbh, le do thoil!
+  hypernym:
+  - 00663742-v
+  ili: i33999
+  members:
+  - lean
+  - fair
+  - féach ar
+  - coinnigh súil ar
+  - tabhair aire do
+  - amharc i ndiaidh
+  partOfSpeech: v
+02466737-v:
+  definition:
+  - rogha iarrthóra nó beart nó rún a chur in iúl; caith vóta
+  example:
+  - Vótáil sé ar son an tairiscint
+  hypernym:
+  - 00676526-v
+  ili: i34026
+  members:
+  - vótáil
+  partOfSpeech: v
+02470289-v:
+  definition:
+  - confidence: 0.0
+    text: approve and express assent, responsibility, or obligation
+  hypernym:
+  - 02484290-v
+  ili: i34045
+  members:
+  - daingnigh
+  partOfSpeech: v
+02472093-v:
+  definition:
+  - dlíthe, billí et cetera a dhéanamh nó a thabhairt in éifeacht le reachtaíocht
+  example:
+  - Cheadaigh siad an leasú
+  hypernym:
+  - 01012145-v
+  ili: i34053
+  members:
+  - ceadaigh
+  - reachtaigh
+  - rith
+  partOfSpeech: v
+02473085-v:
+  definition:
+  - scar ina gcodanna nó ina gcodanna
+  example:
+  - roinn an cáca i dtrí chuid chothroma
+  hypernym:
+  - 00109468-v
+  ili: i34058
+  members:
+  - scar
+  - scoilt
+  - roinn
+  - bris as a chéile
+  partOfSpeech: v
+02476750-v:
+  definition:
+  - clárú go foirmiúil mar rannpháirtí nó mar bhall
+  example:
+  - D'earcaigh an páirtí go leor ball nua
+  hypernym:
+  - 02477113-v
+  ili: i34076
+  members:
+  - ardaigh
+  - iontráil
+  - inscríobh
+  - earcaigh
+  - cláraigh
+  partOfSpeech: v
+02477113-v:
+  definition:
+  - confidence: 0.0
+    text: record in writing; enter into a book of names or events or transactions
+  hypernym:
+  - 01002259-v
+  ili: i34077
+  members:
+  - cláraigh
+  partOfSpeech: v
+02479404-v:
+  definition:
+  - confidence: 0.0
+    text: give or delegate power or authority to
+  hypernym:
+  - 02481345-v
+  ili: i34089
+  members:
+  - cumasaigh
+  - cumhachtaigh
+  partOfSpeech: v
+02480684-v:
+  definition:
+  - confidence: 0.0
+    text: charge with a task
+  hypernym:
+  - 00804987-v
+  ili: i34096
+  members:
+  - coimisiúnaigh
+  partOfSpeech: v
+02480958-v:
+  definition:
+  - confidence: 0.0
+    text: grant credentials to
+  hypernym:
+  - 02449527-v
+  ili: i34098
+  members:
+  - creidiúnaigh
+  partOfSpeech: v
+02481345-v:
+  definition:
+  - confidence: 0.0
+    text: assign a duty, responsibility or obligation to
+  hypernym:
+  - 02372362-v
+  ili: i34100
+  members:
+  - ceap
+  partOfSpeech: v
+02483178-v:
+  definition:
+  - confidence: 0.0
+    text: postpone indefinitely or annul something that was scheduled
+  hypernym:
+  - 02647547-v
+  ili: i34109
+  members:
+  - cealaigh
+  partOfSpeech: v
+02483482-v:
+  definition:
+  - confidence: 0.0
+    text: declare invalid
+  hypernym:
+  - 00824028-v
+  ili: i34110
+  members:
+  - neamhbhailigh
+  partOfSpeech: v
+02484173-v:
+  definition:
+  - confidence: 0.0
+    text: revoke formally
+  hypernym:
+  - 02432181-v
+  ili: i34112
+  members:
+  - aisghair
+  partOfSpeech: v
+02484290-v:
+  definition:
+  - confidence: 0.0
+    text: declare or make legally valid
+  hypernym:
+  - 00804987-v
+  ili: i34113
+  members:
+  - bailíochtaigh
+  partOfSpeech: v
+02484912-v:
+  definition:
+  - confidence: 0.0
+    text: circulate or distribute or equip with
+  hypernym:
+  - 00126072-v
+  ili: i34116
+  members:
+  - eisigh
+  partOfSpeech: v
+02488589-v:
+  definition:
+  - confidence: 0.0
+    text: murder; especially of socially prominent persons
+  hypernym:
+  - 01326622-v
+  ili: i34133
+  members:
+  - feallmharaigh
+  partOfSpeech: v
+02490159-v:
+  definition:
+  - maraigh le diúracán a lámhach
+  hypernym:
+  - 01326622-v
+  ili: i34141
+  members:
+  - caith
+  partOfSpeech: v
+02491069-v:
+  definition:
+  - confidence: 0.0
+    text: kill by hanging
+  hypernym:
+  - 01326622-v
+  - 02382049-v
+  ili: i34147
+  members:
+  - croch
+  partOfSpeech: v
+02492581-v:
+  definition:
+  - teacht le chéile go sóisialta nó chun críche ar leith
+  hypernym:
+  - 02372362-v
+  ili: i34156
+  members:
+  - buail le chéile
+  - teacht le chéile
+  partOfSpeech: v
+02493222-v:
+  definition:
+  - tabhair cuairt ghairid
+  example:
+  - Is maith leis an méara glaoch ar roinnt de na saoránaigh fheiceálach
+  hypernym:
+  - 02492581-v
+  ili: i34159
+  members:
+  - buail isteach
+  partOfSpeech: v
+02494483-v:
+  definition:
+  - a bheith pósta
+  hypernym:
+  - 02439823-v
+  ili: i34166
+  members:
+  - bí geallta le
+  - pós
+  partOfSpeech: v
+02497847-v:
+  definition:
+  - siamsaíocht a chur ar fáil do
+  hypernym:
+  - 02382049-v
+  ili: i34182
+  members:
+  - siamsaíocht a chur ar fáil do
+  partOfSpeech: v
+02498679-v:
+  definition:
+  - dul chun áit a fheiceáil, mar do siamsaíochta
+  example:
+  - Chuamar chun an Túr Eiffel a fheiceáil ar maidin
+  hypernym:
+  - 01839438-v
+  ili: i34186
+  members:
+  - cuairt
+  - féach
+  partOfSpeech: v
+02503235-v:
+  definition:
+  - confidence: 0.0
+    text: take a court case to a higher court for review
+  hypernym:
+  - 00754499-v
+  ili: i34207
+  members:
+  - achomharc
+  partOfSpeech: v
+02506927-v:
+  definition:
+  - confidence: 0.0
+    text: put on trial or hear a case and sit as the judge at the trial of
+  hypernym:
+  - 00699355-v
+  ili: i34225
+  members:
+  - triail
+  partOfSpeech: v
+02508185-v:
+  definition:
+  - confidence: 0.0
+    text: allow to enter; grant entry to
+  hypernym:
+  - 00803980-v
+  ili: i34230
+  members:
+  - lig isteach
+  partOfSpeech: v
+02509014-v:
+  definition:
+  - confidence: 0.0
+    text: hand over to the authorities of another country
+  hypernym:
+  - 01854282-v
+  ili: i34233
+  members:
+  - eiseachaid
+  partOfSpeech: v
+02510211-v:
+  definition:
+  - a chur faoi deara a dhéanamh de bharr brú nó riachtanais, de réir brí fisicí,
+    morálta nó intleachtúla
+  example:
+  - Chuir sí brú air an post sa chathair a ghlacadh
+  hypernym:
+  - 02512195-v
+  ili: i34239
+  members:
+  - fórsáil
+  - fáisc
+  - brúigh
+  - cuir brú ar
+  - cuir iallach ar
+  partOfSpeech: v
+02511007-v:
+  definition:
+  - confidence: 0.0
+    text: to compel or force or urge relentlessly or exert coercive pressure on, or
+      motivate strongly
+  hypernym:
+  - 02510211-v
+  ili: i34241
+  members:
+  - spreag
+  partOfSpeech: v
+02512195-v:
+  definition:
+  - confidence: 0.0
+    text: force somebody to do something
+  hypernym:
+  - 00772482-v
+  ili: i34247
+  members:
+  - tabhair ar
+  partOfSpeech: v
+02513113-v:
+  definition:
+  - confidence: 0.0
+    text: take the trouble to do something; concern oneself
+  hypernym:
+  - 02535833-v
+  ili: i34251
+  members:
+  - bac
+  partOfSpeech: v
+02516039-v:
+  definition:
+  - déine na meon, coinnigh faoi shrian, a shealbhú nó a choinneáil laistigh de theorainneacha
+  example:
+  - modhnaigh an méid alcóil a ólann tú
+  hypernym:
+  - 02372362-v
+  ili: i34266
+  members:
+  - coinnigh
+  - seiceáil
+  - smachtaigh
+  - modhnaigh
+  - rialaigh
+  - ceil
+  - srian
+  partOfSpeech: v
+02517217-v:
+  definition:
+  - confidence: 0.0
+    text: bring into conformity with rules or principles or usage; impose regulations
+  hypernym:
+  - 00699355-v
+  ili: i34271
+  members:
+  - rialaigh
+  - rialáil
+  partOfSpeech: v
+02519853-v:
+  definition:
+  - idirghníomhaigh ar bealach cinnte
+  example:
+  - an ceart a dhéanamh léi
+  hypernym:
+  - 02382049-v
+  ili: i34283
+  members:
+  - láimhseáil
+  partOfSpeech: v
+02528530-v:
+  definition:
+  - a bheith rathúil, sprioc a bhaint amach
+  example:
+  - D'éirigh liom an bosca a iompar thuas staighre
+  hypernym:
+  - 02529837-v
+  ili: i34324
+  members:
+  - buaigh
+  - eagraigh
+  - éirí de
+  - éirigh le
+  - cuir i gcrích
+  partOfSpeech: v
+02529837-v:
+  definition:
+  - rath a bhaint amach nó sprioc inmhianaithe a bhaint amach
+  example:
+  - D'éirigh leis an bhfiontar
+  hypernym:
+  - 02372362-v
+  ili: i34330
+  members:
+  - tar trí
+  - buaigh
+  - saothraigh
+  - éirigh le
+  - beart a dhéanamh de réir do bhriathair
+  partOfSpeech: v
+02531113-v:
+  definition:
+  - éifeacht nó toradh a bheith aige; go minic an ceann atá ag teastáil nó a bhfuiltear
+    ag súil leis
+  example:
+  - Ní oibríonn an próiseas vótála chomh maith agus a cheap daoine
+  hypernym:
+  - 02529837-v
+  ili: i34335
+  members:
+  - feidhmigh
+  - oibrigh
+  partOfSpeech: v
+02531751-v:
+  definition:
+  - gnóthaigh le hiarracht
+  example:
+  - d'ainneoin na buillí, bhain sí a sprioc amach
+  hypernym:
+  - 02529837-v
+  ili: i34338
+  members:
+  - bain amach
+  - sroich
+  - déan
+  - cuir i gcrích
+  - gnóthaigh
+  partOfSpeech: v
+02534046-v:
+  definition:
+  - bheith gan rath
+  example:
+  - Cá theipeann ar scoileanna poiblí sa lá atá inniu ann?
+  hypernym:
+  - 02372362-v
+  ili: i34346
+  members:
+  - caill
+  - clis
+  - teip
+  partOfSpeech: v
+02534950-v:
+  definition:
+  - teip ar rud éigin a dhéanamh; rud a fhágáil agus é neamhchríochnaithe
+  example:
+  - Theip uirthi a thabhairt faoi deara nach raibh a leanbh sa chliabhán ag an nóiméad
+    sin
+  hypernym:
+  - 02372362-v
+  ili: i34350
+  members:
+  - teip
+  - faillí a dhéanamh i
+  - neamart a dhéanamh
+  partOfSpeech: v
+02535833-v:
+  definition:
+  - iarracht nó iarraidh a dhéanamh
+  example:
+  - Rinne sé an-iarracht a eagla a shárú
+  hypernym:
+  - 02372362-v
+  ili: i34354
+  members:
+  - déan iarracht
+  - tabhair faoi
+  - triail
+  - bain triail as
+  - tabhair iarraidh ar
+  - féach
+  - iarr
+  partOfSpeech: v
+02537291-v:
+  definition:
+  - rud a thástáil, chun a cháilíocht a dheimhniú, nó chun úsáid trialach a thabhairt
+    do
+  example:
+  - Scrúdaíodh an cur chuige seo agus baineadh amach torthaí maithe
+  hypernym:
+  - 00630153-v
+  ili: i34360
+  members:
+  - tástáil
+  - triail
+  - cruthaigh
+  - scrúdaigh
+  - bain triail as
+  partOfSpeech: v
+02539728-v:
+  definition:
+  - confidence: 0.0
+    text: do without or cease to hold or adhere to
+  hypernym:
+  - 02372362-v
+  ili: i34372
+  members:
+  - tarscaoil
+  partOfSpeech: v
+02544431-v:
+  definition:
+  - confidence: 0.0
+    text: get involved, so as to alter or hinder an action, or through force or threat
+      of force
+  hypernym:
+  - 02382049-v
+  ili: i34395
+  members:
+  - cuir isteach
+  - idirghabh
+  partOfSpeech: v
+02545454-v:
+  definition:
+  - confidence: 0.0
+    text: look after a child until it is an adult
+  hypernym:
+  - 02553283-v
+  ili: i34399
+  members:
+  - tóg
+  partOfSpeech: v
+02546948-v:
+  definition:
+  - bheith úsáid faoi, mar fóntas
+  example:
+  - Rinne an t-ionad cóireála camrais freastal ar na pobail chomharsanachta
+  hypernym:
+  - 01528454-v
+  ili: i34407
+  members:
+  - seirbhís a dhéanamh
+  - déan freastal ar
+  partOfSpeech: v
+02547206-v:
+  definition:
+  - confidence: 0.0
+    text: be a delegate or spokesperson for; represent somebody's interest or be a
+      proxy or substitute for, as of politicians and office holders representing their
+      constituents, or of a tenant representing other tenants in a housing dispute
+  hypernym:
+  - 01097629-v
+  ili: i34408
+  members:
+  - déan ionadaíocht
+  - ionadaigh
+  partOfSpeech: v
+02547977-v:
+  definition:
+  - gníomhú de réir rialacha, orduithe nó mianta duine
+  example:
+  - Géill sé le mo threoracha
+  hypernym:
+  - 00109468-v
+  ili: i34411
+  members:
+  - lean
+  - cloígh le
+  - géill
+  - comhlíon
+  partOfSpeech: v
+02551772-v:
+  definition:
+  - onóir nó luaíochtaí a bhronnadh ar
+  example:
+  - Inniu tugaimid onóir dár saighdiúirí
+  hypernym:
+  - 00692380-v
+  ili: i34427
+  members:
+  - cúitigh
+  - onóir a bhronnadh ar
+  partOfSpeech: v
+02553283-v:
+  definition:
+  - cabhair a thabhairt; a bheith ar fónamh do dhuine/d'aonán
+  example:
+  - Chabhraigh gach duine le linn an chreatha talún
+  hypernym:
+  - 02561834-v
+  ili: i34433
+  members:
+  - cuidigh
+  - cabhraigh
+  - tabhair cúnamh do
+  partOfSpeech: v
+02556565-v:
+  definition:
+  - sábháil ó scrios, léirscios nó dochar
+  hypernym:
+  - 02372362-v
+  ili: i34449
+  members:
+  - sábháil
+  - faoiseamh
+  partOfSpeech: v
+02560130-v:
+  definition:
+  - confidence: 0.0
+    text: promote the growth of
+  hypernym:
+  - 02560630-v
+  ili: i34465
+  members:
+  - cothaigh
+  partOfSpeech: v
+02560630-v:
+  definition:
+  - cuir le forás nó fás de
+  example:
+  - Táim ag cur úsáid na ríomhairí chun cinn sa seomra ranga
+  hypernym:
+  - 02561834-v
+  ili: i34468
+  members:
+  - cuir chun cinn
+  - tabhair chun tosaigh
+  - cuir chun tosaigh
+  - cuir ar aghaidh
+  - spreag
+  - cothaigh
+  partOfSpeech: v
+02561834-v:
+  definition:
+  - tacaíocht mhorálta nó shíceolaíoch, cúnamh nó misneach a thabhairt do
+  example:
+  - Thacaigh sí leis i rith an tinnis
+  hypernym:
+  - 02372362-v
+  ili: i34473
+  members:
+  - seas le
+  - tacaigh le
+  partOfSpeech: v
+02565578-v:
+  definition:
+  - stop ó bheith ag tarlú nó ag forbairt
+  example:
+  - Coisc a thogadh
+  hypernym:
+  - 02458316-v
+  ili: i34489
+  members:
+  - stop
+  - coisc
+  - stad
+  - stop a chur le
+  partOfSpeech: v
+02565847-v:
+  definition:
+  - confidence: 0.0
+    text: stop a judicial process
+  hypernym:
+  - 02565578-v
+  ili: i34490
+  members:
+  - bac
+  partOfSpeech: v
+02566500-v:
+  definition:
+  - páirt a ghlacadh i nó rud éigin a dhéanamh
+  example:
+  - chuaigh sé i mbun comhraic
+  hypernym:
+  - 02372362-v
+  ili: i34493
+  members:
+  - déan
+  - bí i mbun
+  partOfSpeech: v
+02567910-v:
+  definition:
+  - (rud) a dhéanamh
+  example:
+  - Rinne mé mo chuid oibre
+  hypernym:
+  - 01644397-v
+  ili: i34500
+  members:
+  - déan
+  - cuir i gcrích
+  partOfSpeech: v
+02569639-v:
+  definition:
+  - confidence: 0.0
+    text: complete or carry out
+  hypernym:
+  - 01644397-v
+  ili: i34509
+  members:
+  - comhlíon
+  partOfSpeech: v
+02570061-v:
+  definition:
+  - confidence: 0.0
+    text: grant relief or an exemption from a rule or requirement to
+  hypernym:
+  - 00126072-v
+  ili: i34512
+  members:
+  - díolmhaigh
+  - saor
+  partOfSpeech: v
+02572443-v:
+  definition:
+  - confidence: 0.0
+    text: act in disregard of laws, rules, contracts, or promises
+  hypernym:
+  - 02382049-v
+  ili: i34525
+  members:
+  - sáraigh
+  partOfSpeech: v
+02573062-v:
+  definition:
+  - confidence: 0.0
+    text: go against, as of rules and laws
+  hypernym:
+  - 02572443-v
+  ili: i34526
+  members:
+  - sáraigh
+  partOfSpeech: v
+02574587-v:
+  definition:
+  - déan nó cleachtadh, mar de poist agus gairmeacha
+  example:
+  - dlí a chleachtadh
+  hypernym:
+  - 02372362-v
+  ili: i34533
+  members:
+  - déan
+  - aclaíocht a dhéanamh
+  - cleachtadh
+  - cleacht
+  partOfSpeech: v
+02584595-v:
+  definition:
+  - confidence: 0.0
+    text: behave as expected during holidays or rites
+  hypernym:
+  - 00010428-v
+  ili: i34578
+  members:
+  - ceiliúir
+  partOfSpeech: v
+02584957-v:
+  definition:
+  - confidence: 0.0
+    text: conform one's action or practice to
+  hypernym:
+  - 02547977-v
+  ili: i34579
+  members:
+  - coimeád
+  - coinnigh
+  - comhlíon
+  - urramaigh
+  partOfSpeech: v
+02587562-v:
+  definition:
+  - confidence: 0.0
+    text: bring a criminal action against (in a trial)
+  hypernym:
+  - 01620211-v
+  ili: i34590
+  members:
+  - ionchúisigh
+  partOfSpeech: v
+02588700-v:
+  definition:
+  - confidence: 0.0
+    text: perform an act, usually with a negative connotation
+  hypernym:
+  - 02372362-v
+  ili: i34595
+  members:
+  - déan
+  partOfSpeech: v
+02592711-v:
+  definition:
+  - confidence: 0.0
+    text: exercise authority over; as of nations
+  hypernym:
+  - 02445887-v
+  ili: i34616
+  members:
+  - rialaigh
+  partOfSpeech: v
+02593624-v:
+  definition:
+  - éirí le (rud éigin) a dhéanamh, a bhaint amach nó a tháirgeadh leis na hacmhainní
+    teoranta nó neamhleor atá ar fáil
+  example:
+  - Mhaireamar ar galún gáis amháin
+  hypernym:
+  - 02372362-v
+  ili: i34621
+  members:
+  - déan
+  - meabhair a bhaint as
+  - mair
+  - maígh
+  - sáraigh
+  - éirigh le
+  partOfSpeech: v
+02603759-v:
+  definition:
+  - confidence: 0.0
+    text: present oneself formally, as before a (judicial) authority
+  hypernym:
+  - 02009962-v
+  ili: i34677
+  members:
+  - láithrigh
+  partOfSpeech: v
+02605633-v:
+  definition:
+  - cuir i gcrích
+  example:
+  - rinneamar rud éigin ar an bpointe
+  hypernym:
+  - 02372362-v
+  ili: i34687
+  members:
+  - déan
+  partOfSpeech: v

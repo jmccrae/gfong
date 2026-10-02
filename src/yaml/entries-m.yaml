@@ -1,0 +1,2622 @@
+Manainnis:
+  n:
+    sense:
+    - id: 'manainnis%1:10:00::'
+      synset: 06973961-n
+Maorais:
+  n:
+    sense:
+    - id: 'maorais%1:10:00::'
+      synset: 06951163-n
+Marxachas:
+  n:
+    sense:
+    - id: 'marxachas%1:09:00::'
+      synset: 06225371-n
+Meiriceánach:
+  a:
+    sense:
+    - id: 'meiriceánach%3:01:00::'
+      synset: 02938825-a
+Meán Fómhair:
+  n:
+    sense:
+    - id: 'meán_fómhair%1:28:00::'
+      synset: 15237535-n
+Meán-Ard-Ghearmáinis:
+  n:
+    sense:
+    - id: 'meán-ard-ghearmáinis%1:10:00::'
+      synset: 06963735-n
+Meán-Ghaeilge:
+  n:
+    sense:
+    - id: 'meán-ghaeilge%1:10:00::'
+      synset: 06973773-n
+Modhachas:
+  n:
+    sense:
+    - id: 'modhachas%1:09:00::'
+      synset: 06241648-n
+Moslamach:
+  a:
+    sense:
+    - id: 'moslamach%3:01:00::'
+      synset: 02934823-a
+  n:
+    sense:
+    - id: 'moslamach%1:18:01::'
+      synset: 09701687-n
+Mí na Nollag:
+  n:
+    sense:
+    - id: 'mí_na_nollag%1:28:00::'
+      synset: 15238570-n
+m.s:
+  r:
+    sense:
+    - id: 'm.s%4:02:00::'
+      synset: 00160239-r
+mac:
+  n:
+    sense:
+    - id: 'mac%1:18:00::'
+      synset: 10643436-n
+macalla:
+  n:
+    sense:
+    - id: 'macalla%1:07:00::'
+      synset: 05017985-n
+macarón:
+  n:
+    sense:
+    - id: 'macarón%1:13:00::'
+      synset: 07716709-n
+macasamhail:
+  n:
+    sense:
+    - id: 'macasamhail%1:06:00::'
+      synset: 04083645-n
+    - id: 'macasamhail%1:09:01::'
+      synset: 05703771-n
+macasamhlú:
+  n:
+    sense:
+    - id: 'macasamhlú%1:04:00::'
+      synset: 01021466-n
+    - id: 'macasamhlú%1:04:01::'
+      synset: 01021843-n
+machnaigh:
+  v:
+    sense:
+    - id: 'machnaigh%2:31:00::'
+      synset: 00632042-v
+    - id: 'machnaigh%2:39:01::'
+      synset: 02141357-v
+machnaigh ar:
+  v:
+    sense:
+    - id: 'machnaigh_ar%2:31:00::'
+      synset: 00632042-v
+    - id: 'machnaigh_ar%2:31:01::'
+      synset: 00736077-v
+machnamh:
+  n:
+    sense:
+    - id: 'machnamh%1:09:00::'
+      synset: 05793513-n
+machnamhach:
+  a:
+    sense:
+    - id: 'machnamhach%3:00:00::'
+      synset: 02428209-a
+macraime:
+  n:
+    sense:
+    - id: 'macraime%1:06:00::'
+      synset: 03709269-n
+macánta:
+  a:
+    sense:
+    - id: 'macánta%3:00:00::'
+      synset: 01225031-a
+macántacht:
+  n:
+    sense:
+    - id: 'macántacht%1:07:00::'
+      synset: 04878569-n
+madar:
+  n:
+    sense:
+    - id: 'madar%1:20:00::'
+      synset: 12681988-n
+madra:
+  n:
+    sense:
+    - id: 'madra%1:05:00::'
+      synset: 02086723-n
+madra Pomaránach:
+  n:
+    sense:
+    - id: 'madra_pomaránach%1:05:00::'
+      synset: 02114670-n
+magadh:
+  v:
+    sense:
+    - id: 'magadh%2:42:00::'
+      synset: 02663315-v
+magairlín meidhreach:
+  n:
+    sense:
+    - id: 'magairlín_meidhreach%1:20:00::'
+      synset: 12064142-n
+maicreacnamaíoch:
+  a:
+    sense:
+    - id: 'maicreacnamaíoch%3:01:00::'
+      synset: 02769272-a
+maicréal:
+  n:
+    sense:
+    - id: 'maicréal%1:05:00::'
+      synset: 02626797-n
+maide:
+  n:
+    sense:
+    - id: 'maide%1:06:00::'
+      synset: 04324971-n
+maidhm shléibhe:
+  n:
+    sense:
+    - id: 'maidhm_shléibhe%1:11:00::'
+      synset: 07419737-n
+maidhmitheoir:
+  n:
+    sense:
+    - id: 'maidhmitheoir%1:06:00::'
+      synset: 03186898-n
+maidin:
+  n:
+    sense:
+    - id: 'maidin%1:28:00::'
+      synset: 15190336-n
+maighnéad:
+  n:
+    sense:
+    - id: 'maighnéad%1:06:00::'
+      synset: 03710918-n
+maighnéadach:
+  a:
+    sense:
+    - id: 'maighnéadach%3:01:00::'
+      synset: 02937501-a
+maighnéidít:
+  n:
+    sense:
+    - id: 'maighnéidít%1:27:00::'
+      synset: 14970052-n
+maignéis:
+  n:
+    sense:
+    - id: 'maignéis%1:27:00::'
+      synset: 14714768-n
+maignéisiam:
+  n:
+    sense:
+    - id: 'maignéisiam%1:27:00::'
+      synset: 14668427-n
+mailíseach:
+  a:
+    sense:
+    - id: 'mailíseach%3:00:00::'
+      synset: 00226323-a
+mainicín:
+  n:
+    sense:
+    - id: 'mainicín%1:06:00::'
+      synset: 03723460-n
+mainneachtain:
+  n:
+    sense:
+    - id: 'mainneachtain%1:21:00::'
+      synset: 13321434-n
+mainnitheoir:
+  n:
+    sense:
+    - id: 'mainnitheoir%1:18:00::'
+      synset: 10019052-n
+mainéar:
+  n:
+    sense:
+    - id: 'mainéar%1:06:00::'
+      synset: 03723997-n
+mair:
+  v:
+    sense:
+    - id: 'mair%2:41:00::'
+      synset: 02593624-v
+    - id: 'mair%2:42:01::'
+      synset: 02620422-v
+    - id: 'mair%2:42:02::'
+      synset: 02622766-v
+    - id: 'mair%2:42:03::'
+      synset: 02624202-v
+    - id: 'mair%2:42:04::'
+      synset: 02643286-v
+    - id: 'mair%2:42:05::'
+      synset: 02710788-v
+    - id: 'mair%2:42:06::'
+      synset: 02659476-v
+    - id: 'mair%2:31:07::'
+      synset: 00598039-v
+mair i:
+  v:
+    sense:
+    - id: 'mair_i%2:42:00::'
+      synset: 02655932-v
+maireachtáil:
+  n:
+    sense:
+    - id: 'maireachtáil%1:21:00::'
+      synset: 13386459-n
+    - id: 'maireachtáil%1:26:01::'
+      synset: 13985696-n
+    - id: 'maireachtáil%1:09:02::'
+      synset: 05818587-n
+mairimbe:
+  n:
+    sense:
+    - id: 'mairimbe%1:06:00::'
+      synset: 03726875-n
+mairnéalach:
+  n:
+    sense:
+    - id: 'mairnéalach%1:18:00::'
+      synset: 10566190-n
+mairnéalacht:
+  n:
+    sense:
+    - id: 'mairnéalacht%1:09:00::'
+      synset: 05647677-n
+mairteoil:
+  n:
+    sense:
+    - id: 'mairteoil%1:13:00::'
+      synset: 07679337-n
+mais:
+  n:
+    sense:
+    - id: 'mais%1:07:00::'
+      synset: 05031420-n
+maisiúchán:
+  n:
+    sense:
+    - id: 'maisiúchán%1:06:00::'
+      synset: 03174056-n
+maisteog:
+  n:
+    sense:
+    - id: 'maisteog%1:27:00::'
+      synset: 14729012-n
+maith:
+  a:
+    sense:
+    - id: 'maith%3:00:00::'
+      synset: 00065107-a
+    - id: 'maith%3:00:01::'
+      synset: 01126910-a
+    - id: 'maith%3:00:02::'
+      synset: 01133477-a
+  r:
+    sense:
+    - id: 'maith%4:02:03::'
+      synset: 00011555-r
+  v:
+    sense:
+    - id: 'maith%2:37:04::'
+      synset: 01828678-v
+maith do:
+  v:
+    sense:
+    - id: 'maith_do%2:32:00::'
+      synset: 00905339-v
+maitheas:
+  n:
+    sense:
+    - id: 'maitheas%1:07:00::'
+      synset: 05149427-n
+maitrís:
+  n:
+    sense:
+    - id: 'maitrís%1:08:00::'
+      synset: 05589955-n
+    - id: 'maitrís%1:14:01::'
+      synset: 08284561-n
+malairt:
+  n:
+    sense:
+    - id: 'malairt%1:04:00::'
+      synset: 01095009-n
+    - id: 'malairt%1:04:01::'
+      synset: 01168748-n
+    - id: 'malairt%1:09:02::'
+      synset: 05798949-n
+malartach:
+  a:
+    sense:
+    - id: 'malartach%3:00:00::'
+      synset: 00679196-a
+malartaigh:
+  v:
+    sense:
+    - id: 'malartaigh%2:40:00::'
+      synset: 02262178-v
+malartán:
+  n:
+    sense:
+    - id: 'malartán%1:06:00::'
+      synset: 03307432-n
+malartóir:
+  n:
+    sense:
+    - id: 'malartóir%1:18:00::'
+      synset: 10088927-n
+malartú:
+  n:
+    sense:
+    - id: 'malartú%1:04:00::'
+      synset: 01168748-n
+malgam:
+  n:
+    sense:
+    - id: 'malgam%1:27:00::'
+      synset: 14740711-n
+mall:
+  r:
+    sense:
+    - id: 'mall%4:02:00::'
+      synset: 00162829-r
+mallard:
+  n:
+    sense:
+    - id: 'mallard%1:05:00::'
+      synset: 01850447-n
+maláire:
+  n:
+    sense:
+    - id: 'maláire%1:26:00::'
+      synset: 14101312-n
+mam:
+  n:
+    sense:
+    - id: 'mam%1:18:00::'
+      synset: 10297825-n
+mamach:
+  n:
+    sense:
+    - id: 'mamach%1:05:00::'
+      synset: 01864419-n
+mamaí:
+  n:
+    sense:
+    - id: 'mamaí%1:18:00::'
+      synset: 10297825-n
+manach:
+  n:
+    sense:
+    - id: 'manach%1:18:00::'
+      synset: 10131898-n
+mandairín:
+  n:
+    sense:
+    - id: 'mandairín%1:20:00::'
+      synset: 12730661-n
+mangach:
+  n:
+    sense:
+    - id: 'mangach%1:05:00::'
+      synset: 02526833-n
+mangainéis:
+  n:
+    sense:
+    - id: 'mangainéis%1:27:00::'
+      synset: 14668832-n
+manglam:
+  n:
+    sense:
+    - id: 'manglam%1:13:00::'
+      synset: 07927917-n
+mangó:
+  n:
+    sense:
+    - id: 'mangó%1:13:00::'
+      synset: 07780131-n
+maoin:
+  n:
+    sense:
+    - id: 'maoin%1:21:00::'
+      synset: 13265007-n
+maoinigh:
+  v:
+    sense:
+    - id: 'maoinigh%2:40:00::'
+      synset: 02206050-v
+    - id: 'maoinigh%2:40:01::'
+      synset: 02222048-v
+maoirseacht:
+  n:
+    sense:
+    - id: 'maoirseacht%1:04:00::'
+      synset: 00605638-n
+    - id: 'maoirseacht%1:04:01::'
+      synset: 01137850-n
+maoirseoir:
+  n:
+    sense:
+    - id: 'maoirseoir%1:18:00::'
+      synset: 10696316-n
+maoirsigh:
+  v:
+    sense:
+    - id: 'maoirsigh%2:41:00::'
+      synset: 02447914-v
+maolaigh:
+  v:
+    sense:
+    - id: 'maolaigh%2:29:00::'
+      synset: 00063866-v
+    - id: 'maolaigh%2:32:01::'
+      synset: 00907990-v
+maolaire:
+  n:
+    sense:
+    - id: 'maolaire%1:06:00::'
+      synset: 03166116-n
+maolaisnéis:
+  n:
+    sense:
+    - id: 'maolaisnéis%1:10:00::'
+      synset: 06771774-n
+maolaitheach:
+  a:
+    sense:
+    - id: 'maolaitheach%3:00:00::'
+      synset: 01344206-a
+maolán:
+  n:
+    sense:
+    - id: 'maolán%1:27:00::'
+      synset: 14810100-n
+maor:
+  n:
+    sense:
+    - id: 'maor%1:18:00::'
+      synset: 10696316-n
+maorghinearál:
+  n:
+    sense:
+    - id: 'maorghinearál%1:18:00::'
+      synset: 10303360-n
+maorlathas:
+  n:
+    sense:
+    - id: 'maorlathas%1:14:00::'
+      synset: 08473738-n
+maorlathaí:
+  n:
+    sense:
+    - id: 'maorlathaí%1:18:00::'
+      synset: 09899893-n
+mapa:
+  n:
+    sense:
+    - id: 'mapa%1:06:00::'
+      synset: 03725654-n
+mapáil:
+  n:
+    sense:
+    - id: 'mapáil%1:04:00::'
+      synset: 00252887-n
+mar:
+  r:
+    sense:
+    - id: 'mar%4:02:00::'
+      synset: 00022585-r
+mar a chéile:
+  r:
+    sense:
+    - id: 'mar_a_chéile%4:02:00::'
+      synset: 00048072-r
+    - id: 'mar_a_chéile%4:02:01::'
+      synset: 00138870-r
+mar an gcéanna:
+  r:
+    sense:
+    - id: 'mar_an_gcéanna%4:02:00::'
+      synset: 00048072-r
+    - id: 'mar_an_gcéanna%4:02:01::'
+      synset: 00138870-r
+mar dhea:
+  r:
+    sense:
+    - id: 'mar_dhea%4:02:00::'
+      synset: 00040353-r
+mar gheall ar:
+  v:
+    sense:
+    - id: 'mar_gheall_ar%2:42:00::'
+      synset: 02640346-v
+mar shampla:
+  r:
+    sense:
+    - id: 'mar_shampla%4:02:00::'
+      synset: 00160239-r
+mar sin:
+  r:
+    sense:
+    - id: 'mar_sin%4:02:00::'
+      synset: 00038035-r
+    - id: 'mar_sin%4:02:01::'
+      synset: 00043413-r
+    - id: 'mar_sin%4:02:02::'
+      synset: 00118527-r
+    - id: 'mar_sin%4:02:03::'
+      synset: 00122019-r
+    - id: 'mar_sin%4:02:04::'
+      synset: 00147962-r
+    - id: 'mar_sin%4:02:05::'
+      synset: 00118928-r
+mar sin de:
+  r:
+    sense:
+    - id: 'mar_sin_de%4:02:00::'
+      synset: 00043413-r
+mar sin féin:
+  r:
+    sense:
+    - id: 'mar_sin_féin%4:02:00::'
+      synset: 00027761-r
+    - id: 'mar_sin_féin%4:02:01::'
+      synset: 00120034-r
+marachuan:
+  n:
+    sense:
+    - id: 'marachuan%1:06:00::'
+      synset: 02953127-n
+maraigh:
+  v:
+    sense:
+    - id: 'maraigh%2:35:00::'
+      synset: 01325518-v
+    - id: 'maraigh%2:35:01::'
+      synset: 01326622-v
+marascal:
+  n:
+    sense:
+    - id: 'marascal%1:18:00::'
+      synset: 10315837-n
+marascal machaire:
+  n:
+    sense:
+    - id: 'marascal_machaire%1:18:00::'
+      synset: 10106590-n
+maratón:
+  n:
+    sense:
+    - id: 'maratón%1:11:00::'
+      synset: 07475503-n
+maraí:
+  n:
+    sense:
+    - id: 'maraí%1:18:00::'
+      synset: 10314263-n
+marbh:
+  a:
+    sense:
+    - id: 'marbh%3:00:00::'
+      synset: 00096133-a
+marc:
+  n:
+    sense:
+    - id: 'marc%1:07:00::'
+      synset: 04701248-n
+    - id: 'marc%1:09:01::'
+      synset: 05745098-n
+    - id: 'marc%1:10:02::'
+      synset: 06811608-n
+marcach:
+  n:
+    sense:
+    - id: 'marcach%1:18:00::'
+      synset: 10205412-n
+    - id: 'marcach%1:18:01::'
+      synset: 10242847-n
+    - id: 'marcach%1:18:02::'
+      synset: 10549540-n
+marcas:
+  n:
+    sense:
+    - id: 'marcas%1:18:00::'
+      synset: 10315140-n
+marcaíocht:
+  v:
+    sense:
+    - id: 'marcaíocht%2:38:00::'
+      synset: 01961388-v
+marcra:
+  n:
+    sense:
+    - id: 'marcra%1:14:00::'
+      synset: 08414813-n
+marcshlua:
+  n:
+    sense:
+    - id: 'marcshlua%1:14:00::'
+      synset: 08414813-n
+marcáil:
+  n:
+    sense:
+    - id: 'marcáil%1:04:01::'
+      synset: 00264485-n
+  v:
+    sense:
+    - id: 'marcáil%2:32:00::'
+      synset: 00923709-v
+marcóir:
+  n:
+    sense:
+    - id: 'marcóir%1:06:00::'
+      synset: 03727498-n
+marfach:
+  a:
+    sense:
+    - id: 'marfach%3:00:00::'
+      synset: 00996879-a
+  s:
+    sense:
+    - id: marfach%5:00:01:marfach:00
+      synset: 00997017-s
+    - id: marfach%5:00:02:marfach:00
+      synset: 00997235-s
+margadh:
+  n:
+    sense:
+    - id: 'margadh%1:04:00::'
+      synset: 01099197-n
+    - id: 'margadh%1:06:01::'
+      synset: 03466317-n
+    - id: 'margadh%1:06:02::'
+      synset: 03727779-n
+    - id: 'margadh%1:10:03::'
+      synset: 06783960-n
+    - id: 'margadh%1:14:04::'
+      synset: 08089673-n
+margadhluach:
+  n:
+    sense:
+    - id: 'margadhluach%1:21:00::'
+      synset: 13358337-n
+margaigh:
+  v:
+    sense:
+    - id: 'margaigh%2:40:00::'
+      synset: 02303121-v
+margairín:
+  n:
+    sense:
+    - id: 'margairín%1:13:00::'
+      synset: 07688659-n
+margáil:
+  n:
+    sense:
+    - id: 'margáil%1:10:00::'
+      synset: 07162900-n
+    - id: 'margáil%1:10:01::'
+      synset: 07164544-n
+marmar:
+  n:
+    sense:
+    - id: 'marmar%1:27:00::'
+      synset: 14971945-n
+marsantachas:
+  n:
+    sense:
+    - id: 'marsantachas%1:14:00::'
+      synset: 08384266-n
+marsúipiach:
+  n:
+    sense:
+    - id: 'marsúipiach%1:05:00::'
+      synset: 01877075-n
+marthanacht:
+  n:
+    sense:
+    - id: 'marthanacht%1:07:00::'
+      synset: 05060839-n
+marthanas:
+  n:
+    sense:
+    - id: 'marthanas%1:26:00::'
+      synset: 13985502-n
+marthanóir:
+  n:
+    sense:
+    - id: 'marthanóir%1:18:00::'
+      synset: 10700641-n
+masc:
+  n:
+    sense:
+    - id: 'masc%1:06:00::'
+      synset: 03730361-n
+maslaigh:
+  v:
+    sense:
+    - id: 'maslaigh%2:32:00::'
+      synset: 00850100-v
+mata:
+  n:
+    sense:
+    - id: 'mata%1:06:00::'
+      synset: 03733328-n
+matamaitic:
+  n:
+    sense:
+    - id: 'matamaitic%1:09:00::'
+      synset: 06009822-n
+matamaiticeoir:
+  n:
+    sense:
+    - id: 'matamaiticeoir%1:18:00::'
+      synset: 10320928-n
+matamaiticiúil:
+  a:
+    sense:
+    - id: 'matamaiticiúil%3:01:00::'
+      synset: 02949213-a
+mathmharc:
+  n:
+    sense:
+    - id: 'mathmharc%1:18:00::'
+      synset: 09842689-n
+matán:
+  n:
+    sense:
+    - id: 'matán%1:08:00::'
+      synset: 05296796-n
+maígh:
+  v:
+    sense:
+    - id: 'maígh%2:32:00::'
+      synset: 00758383-v
+    - id: 'maígh%2:32:01::'
+      synset: 00758943-v
+    - id: 'maígh%2:32:02::'
+      synset: 01011267-v
+    - id: 'maígh%2:32:03::'
+      synset: 01018011-v
+    - id: 'maígh%2:33:04::'
+      synset: 01092746-v
+    - id: 'maígh%2:41:05::'
+      synset: 02593624-v
+meabhair a bhaint as:
+  v:
+    sense:
+    - id: 'meabhair_a_bhaint_as%2:41:00::'
+      synset: 02593624-v
+meabhraigh:
+  v:
+    sense:
+    - id: 'meabhraigh%2:31:00::'
+      synset: 00609334-v
+    - id: 'meabhraigh%2:31:01::'
+      synset: 00612092-v
+    - id: 'meabhraigh%2:31:02::'
+      synset: 00632042-v
+meabhrán:
+  n:
+    sense:
+    - id: 'meabhrán%1:10:00::'
+      synset: 06518182-n
+meabhrúchán:
+  n:
+    sense:
+    - id: 'meabhrúchán%1:10:00::'
+      synset: 06518748-n
+meacan bán:
+  n:
+    sense:
+    - id: 'meacan_bán%1:20:00::'
+      synset: 12962296-n
+meadhrán:
+  n:
+    sense:
+    - id: 'meadhrán%1:26:00::'
+      synset: 14395918-n
+meafar:
+  n:
+    sense:
+    - id: 'meafar%1:10:00::'
+      synset: 07121485-n
+meaisín:
+  n:
+    sense:
+    - id: 'meaisín%1:06:00::'
+      synset: 03705309-n
+meaisín níocháin:
+  n:
+    sense:
+    - id: 'meaisín_níocháin%1:06:00::'
+      synset: 04561970-n
+meaisínaistriúchán:
+  n:
+    sense:
+    - id: 'meaisínaistriúchán%1:09:00::'
+      synset: 06142954-n
+meaisíneoir:
+  n:
+    sense:
+    - id: 'meaisíneoir%1:18:00::'
+      synset: 10298715-n
+meaisínghunna:
+  n:
+    sense:
+    - id: 'meaisínghunna%1:06:00::'
+      synset: 03706725-n
+meaits:
+  n:
+    sense:
+    - id: 'meaits%1:06:00::'
+      synset: 03733928-n
+meaitseáil:
+  v:
+    sense:
+    - id: 'meaitseáil%2:42:00::'
+      synset: 02663315-v
+mealbhacán:
+  n:
+    sense:
+    - id: 'mealbhacán%1:20:00::'
+      synset: 12957890-n
+    - id: 'mealbhacán%1:13:01::'
+      synset: 07771387-n
+mealbhacán uisce:
+  n:
+    sense:
+    - id: 'mealbhacán_uisce%1:13:00::'
+      synset: 07772927-n
+meall:
+  v:
+    sense:
+    - id: 'meall%2:35:00::'
+      synset: 01507886-v
+    - id: 'meall%2:37:01::'
+      synset: 01763170-v
+    - id: 'meall%2:42:02::'
+      synset: 02684248-v
+mealltóir:
+  n:
+    sense:
+    - id: 'mealltóir%1:18:00::'
+      synset: 10221154-n
+meamram:
+  n:
+    sense:
+    - id: 'meamram%1:10:00::'
+      synset: 06518182-n
+meandrach:
+  s:
+    sense:
+    - id: meandrach%5:00:00:gasta:00
+      synset: 00982222-s
+mear:
+  a:
+    sense:
+    - id: 'mear%3:00:00::'
+      synset: 00979699-a
+  s:
+    sense:
+    - id: mear%5:00:01:gasta:00
+      synset: 00982888-s
+mearbhall:
+  n:
+    sense:
+    - id: 'mearbhall%1:09:00::'
+      synset: 05691387-n
+mearbhia:
+  n:
+    sense:
+    - id: 'mearbhia%1:13:00::'
+      synset: 07575758-n
+mearcair:
+  n:
+    sense:
+    - id: 'mearcair%1:27:00::'
+      synset: 14669524-n
+meas:
+  n:
+    sense:
+    - id: 'meas%1:26:00::'
+      synset: 14461018-n
+    - id: 'meas%1:09:14::'
+      synset: 05811387-n
+    - id: 'meas%1:09:15::'
+      synset: 06216535-n
+  v:
+    sense:
+    - id: 'meas%2:31:01::'
+      synset: 00633399-v
+    - id: 'meas%2:31:02::'
+      synset: 00633898-v
+    - id: 'meas%2:31:03::'
+      synset: 00638921-v
+    - id: 'meas%2:31:04::'
+      synset: 00674352-v
+    - id: 'meas%2:31:05::'
+      synset: 00683348-v
+    - id: 'meas%2:31:06::'
+      synset: 00691086-v
+    - id: 'meas%2:31:07::'
+      synset: 00692380-v
+    - id: 'meas%2:31:08::'
+      synset: 00695546-v
+    - id: 'meas%2:31:09::'
+      synset: 00710367-v
+    - id: 'meas%2:31:10::'
+      synset: 00713964-v
+    - id: 'meas%2:31:11::'
+      synset: 00717144-v
+    - id: 'meas%2:32:12::'
+      synset: 00952463-v
+    - id: 'meas%2:39:13::'
+      synset: 02170904-v
+meas a bheith ag ar:
+  v:
+    sense:
+    - id: 'meas_a_bheith_ag_ar%2:31:00::'
+      synset: 00691692-v
+measartha:
+  a:
+    sense:
+    - id: 'measartha%3:00:02::'
+      synset: 01535494-a
+  r:
+    sense:
+    - id: 'measartha%4:02:00::'
+      synset: 00036138-r
+    - id: 'measartha%4:02:01::'
+      synset: 00162033-r
+measc:
+  v:
+    sense:
+    - id: 'measc%2:30:00::'
+      synset: 00395719-v
+    - id: 'measc%2:31:01::'
+      synset: 00621282-v
+    - id: 'measc%2:35:02::'
+      synset: 01464634-v
+measctha:
+  s:
+    sense:
+    - id: measctha%5:00:00:éagsúil:03
+      synset: 02073069-s
+    - id: measctha%5:00:01:ilchineálach:01
+      synset: 01202626-s
+meascthóir:
+  n:
+    sense:
+    - id: 'meascthóir%1:06:00::'
+      synset: 03780732-n
+    - id: 'meascthóir%1:06:01::'
+      synset: 03780921-n
+    - id: 'meascthóir%1:06:02::'
+      synset: 04328009-n
+meascán:
+  n:
+    sense:
+    - id: 'meascán%1:11:00::'
+      synset: 07389356-n
+    - id: 'meascán%1:14:01::'
+      synset: 08415730-n
+measraitheoir:
+  n:
+    sense:
+    - id: 'measraitheoir%1:27:00::'
+      synset: 14751534-n
+meastachán:
+  n:
+    sense:
+    - id: 'meastachán%1:09:00::'
+      synset: 05811387-n
+meastóir:
+  n:
+    sense:
+    - id: 'meastóir%1:18:00::'
+      synset: 09906486-n
+    - id: 'meastóir%1:18:01::'
+      synset: 10086539-n
+measán Máltach:
+  n:
+    sense:
+    - id: 'measán_máltach%1:05:00::'
+      synset: 02088588-n
+measúnacht:
+  n:
+    sense:
+    - id: 'measúnacht%1:09:00::'
+      synset: 05741528-n
+measúnaigh:
+  v:
+    sense:
+    - id: 'measúnaigh%2:31:00::'
+      synset: 00683348-v
+measúnóir:
+  n:
+    sense:
+    - id: 'measúnóir%1:18:00::'
+      synset: 10712379-n
+measúnú:
+  n:
+    sense:
+    - id: 'measúnú%1:09:00::'
+      synset: 05741528-n
+meatach:
+  a:
+    sense:
+    - id: 'meatach%3:00:00::'
+      synset: 01757867-a
+meatán:
+  n:
+    sense:
+    - id: 'meatán%1:27:00::'
+      synset: 14975368-n
+meatánól:
+  n:
+    sense:
+    - id: 'meatánól%1:27:00::'
+      synset: 14711979-n
+meicnic chandamach:
+  n:
+    sense:
+    - id: 'meicnic_chandamach%1:09:00::'
+      synset: 06121568-n
+meicniúil:
+  a:
+    sense:
+    - id: 'meicniúil%3:00:00::'
+      synset: 01503365-a
+meicníocht:
+  n:
+    sense:
+    - id: 'meicníocht%1:22:00::'
+      synset: 13533709-n
+    - id: 'meicníocht%1:06:01::'
+      synset: 03743963-n
+meigilit:
+  n:
+    sense:
+    - id: 'meigilit%1:06:00::'
+      synset: 03748507-n
+meileanóma:
+  n:
+    sense:
+    - id: 'meileanóma%1:26:00::'
+      synset: 14276046-n
+meilt:
+  n:
+    sense:
+    - id: 'meilt%1:04:00::'
+      synset: 00359116-n
+    - id: 'meilt%1:06:01::'
+      synset: 03772135-n
+meindiléiviam:
+  n:
+    sense:
+    - id: 'meindiléiviam%1:27:00::'
+      synset: 14669270-n
+meirdreachas:
+  n:
+    sense:
+    - id: 'meirdreachas%1:04:00::'
+      synset: 00749453-n
+meirliún:
+  n:
+    sense:
+    - id: 'meirliún%1:05:00::'
+      synset: 01614916-n
+meirse:
+  n:
+    sense:
+    - id: 'meirse%1:20:00::'
+      synset: 12954034-n
+meisciúil:
+  a:
+    sense:
+    - id: 'meisciúil%3:00:00::'
+      synset: 01162103-a
+meiteashonraí:
+  n:
+    sense:
+    - id: 'meiteashonraí%1:14:00::'
+      synset: 08479732-n
+meitheal:
+  n:
+    sense:
+    - id: 'meitheal%1:14:00::'
+      synset: 08259720-n
+    - id: 'meitheal%1:14:01::'
+      synset: 08425857-n
+meitibileacht:
+  n:
+    sense:
+    - id: 'meitibileacht%1:22:00::'
+      synset: 13535517-n
+meitniriam:
+  n:
+    sense:
+    - id: 'meitniriam%1:27:00::'
+      synset: 14669141-n
+meitéareolaí:
+  n:
+    sense:
+    - id: 'meitéareolaí%1:18:00::'
+      synset: 10331945-n
+meitéareolaíoch:
+  a:
+    sense:
+    - id: 'meitéareolaíoch%3:01:00::'
+      synset: 02876761-a
+meitéareolaíocht:
+  n:
+    sense:
+    - id: 'meitéareolaíocht%1:09:00::'
+      synset: 06128170-n
+meon:
+  n:
+    sense:
+    - id: 'meon%1:26:00::'
+      synset: 14549784-n
+    - id: 'meon%1:09:01::'
+      synset: 06205574-n
+meá:
+  n:
+    sense:
+    - id: 'meá%1:06:00::'
+      synset: 02780105-n
+meáchan:
+  n:
+    sense:
+    - id: 'meáchan%1:06:00::'
+      synset: 04578374-n
+    - id: 'meáchan%1:07:01::'
+      synset: 05034009-n
+meáigh:
+  v:
+    sense:
+    - id: 'meáigh%2:32:00::'
+      synset: 00952463-v
+meán:
+  n:
+    sense:
+    - id: 'meán%1:09:00::'
+      synset: 06031110-n
+    - id: 'meán%1:09:01::'
+      synset: 06033377-n
+    - id: 'meán%1:10:02::'
+      synset: 06264799-n
+    - id: 'meán%1:15:03::'
+      synset: 08585671-n
+  s:
+    sense:
+    - id: meán%5:00:04:gnáth:01
+      synset: 01598728-s
+meán lae:
+  n:
+    sense:
+    - id: 'meán_lae%1:28:00::'
+      synset: 15190537-n
+meán oíche:
+  n:
+    sense:
+    - id: 'meán_oíche%1:28:00::'
+      synset: 15193232-n
+meánach:
+  s:
+    sense:
+    - id: meánach%5:00:00:lárnach:00
+      synset: 00331928-s
+    - id: meánach%5:00:01:measartha:02
+      synset: 01536076-s
+    - id: meánach%5:00:02:gnáth:01
+      synset: 01598728-s
+meánchiorclach:
+  a:
+    sense:
+    - id: 'meánchiorclach%3:00:00::'
+      synset: 02452691-a
+meánchostas:
+  n:
+    sense:
+    - id: 'meánchostas%1:07:00::'
+      synset: 05152820-n
+mian:
+  v:
+    sense:
+    - id: 'mian%2:37:00::'
+      synset: 01828678-v
+    - id: 'mian%2:37:01::'
+      synset: 01830665-v
+mianach:
+  n:
+    sense:
+    - id: 'mianach%1:06:00::'
+      synset: 03773881-n
+    - id: 'mianach%1:07:01::'
+      synset: 04731092-n
+mianadóir:
+  n:
+    sense:
+    - id: 'mianadóir%1:18:00::'
+      synset: 10339454-n
+mianadóireacht:
+  n:
+    sense:
+    - id: 'mianadóireacht%1:04:00::'
+      synset: 00924141-n
+mianra:
+  n:
+    sense:
+    - id: 'mianra%1:27:00::'
+      synset: 14686753-n
+mianrach:
+  a:
+    sense:
+    - id: 'mianrach%3:01:00::'
+      synset: 03098402-a
+    - id: 'mianrach%3:00:01::'
+      synset: 01685218-a
+mianreolaí:
+  n:
+    sense:
+    - id: 'mianreolaí%1:18:00::'
+      synset: 10339654-n
+mianreolaíocht:
+  n:
+    sense:
+    - id: 'mianreolaíocht%1:09:00::'
+      synset: 06130720-n
+mias:
+  n:
+    sense:
+    - id: 'mias%1:06:00::'
+      synset: 03211629-n
+    - id: 'mias%1:13:01::'
+      synset: 07572999-n
+miasniteoir:
+  n:
+    sense:
+    - id: 'miasniteoir%1:06:00::'
+      synset: 03212662-n
+micreaphróiseálaí:
+  n:
+    sense:
+    - id: 'micreaphróiseálaí%1:06:00::'
+      synset: 03765845-n
+micreascópach:
+  a:
+    sense:
+    - id: 'micreascópach%3:01:00::'
+      synset: 02930157-a
+micreathonnán:
+  n:
+    sense:
+    - id: 'micreathonnán%1:06:00::'
+      synset: 03766619-n
+micribhitheolaíocht:
+  n:
+    sense:
+    - id: 'micribhitheolaíocht%1:09:00::'
+      synset: 06087198-n
+mil:
+  n:
+    sense:
+    - id: 'mil%1:13:00::'
+      synset: 07874954-n
+milleagram:
+  n:
+    sense:
+    - id: 'milleagram%1:23:00::'
+      synset: 13745171-n
+milliméadar:
+  n:
+    sense:
+    - id: 'milliméadar%1:23:00::'
+      synset: 13680427-n
+milliún:
+  a:
+    sense:
+    - id: 'milliún%3:00:01::'
+      synset: 02206846-a
+  n:
+    sense:
+    - id: 'milliún%1:23:00::'
+      synset: 13773673-n
+millteanach:
+  s:
+    sense:
+    - id: millteanach%5:00:00:urghnách:00
+      synset: 01681111-s
+milléad:
+  n:
+    sense:
+    - id: 'milléad%1:05:00::'
+      synset: 02603974-n
+milléad dearg:
+  n:
+    sense:
+    - id: 'milléad_dearg%1:05:00::'
+      synset: 02602928-n
+millín:
+  n:
+    sense:
+    - id: 'millín%1:25:00::'
+      synset: 13924116-n
+    - id: 'millín%1:06:01::'
+      synset: 04212826-n
+milseog:
+  n:
+    sense:
+    - id: 'milseog%1:13:00::'
+      synset: 07625449-n
+milsigh:
+  v:
+    sense:
+    - id: 'milsigh%2:39:00::'
+      synset: 02199916-v
+minicíocht:
+  n:
+    sense:
+    - id: 'minicíocht%1:24:00::'
+      synset: 13849172-n
+    - id: 'minicíocht%1:28:01::'
+      synset: 15303267-n
+ministir:
+  n:
+    sense:
+    - id: 'ministir%1:18:00::'
+      synset: 10003102-n
+miocrorgánach:
+  n:
+    sense:
+    - id: 'miocrorgánach%1:05:00::'
+      synset: 01328932-n
+miocrón:
+  n:
+    sense:
+    - id: 'miocrón%1:23:00::'
+      synset: 13680266-n
+mion-:
+  a:
+    sense:
+    - id: 'mion-%3:00:00::'
+      synset: 01394303-a
+mionaoiseach:
+  a:
+    sense:
+    - id: 'mionaoiseach%3:00:00::'
+      synset: 01474869-a
+  n:
+    sense:
+    - id: 'mionaoiseach%1:18:01::'
+      synset: 09937051-n
+mionathraigh:
+  v:
+    sense:
+    - id: 'mionathraigh%2:30:00::'
+      synset: 00126072-v
+miondíol:
+  n:
+    sense:
+    - id: 'miondíol%1:04:00::'
+      synset: 01116568-n
+miondíoltóir:
+  n:
+    sense:
+    - id: 'miondíoltóir%1:18:00::'
+      synset: 10545011-n
+miongháire:
+  n:
+    sense:
+    - id: 'miongháire%1:10:00::'
+      synset: 06891121-n
+mionlach:
+  n:
+    sense:
+    - id: 'mionlach%1:07:00::'
+      synset: 05130115-n
+    - id: 'mionlach%1:14:01::'
+      synset: 07983184-n
+mionn:
+  n:
+    sense:
+    - id: 'mionn%1:10:00::'
+      synset: 06697317-n
+mionnscríbhinn:
+  n:
+    sense:
+    - id: 'mionnscríbhinn%1:10:00::'
+      synset: 06749278-n
+mionphléigh:
+  v:
+    sense:
+    - id: 'mionphléigh%2:32:00::'
+      synset: 00815640-v
+mionsonrach:
+  s:
+    sense:
+    - id: mionsonrach%5:00:00:cúramach:00
+      synset: 00311231-s
+mionsonraithe:
+  s:
+    sense:
+    - id: mionsonraithe%5:00:00:cúramach:00
+      synset: 00311231-s
+mionsonraí:
+  n:
+    sense:
+    - id: 'mionsonraí%1:10:00::'
+      synset: 06648469-n
+mionta:
+  n:
+    sense:
+    - id: 'mionta%1:06:00::'
+      synset: 03777802-n
+miotal:
+  n:
+    sense:
+    - id: 'miotal%1:27:00::'
+      synset: 14649636-n
+miotalach:
+  a:
+    sense:
+    - id: 'miotalach%3:00:00::'
+      synset: 01531539-a
+miotalóireacht:
+  n:
+    sense:
+    - id: 'miotalóireacht%1:09:00::'
+      synset: 06135149-n
+miotas:
+  n:
+    sense:
+    - id: 'miotas%1:10:00::'
+      synset: 06384303-n
+miotaseolaíocht na Gréige:
+  n:
+    sense:
+    - id: 'miotaseolaíocht_na_gréige%1:14:00::'
+      synset: 07995848-n
+misean:
+  n:
+    sense:
+    - id: 'misean%1:04:00::'
+      synset: 00732520-n
+    - id: 'misean%1:14:01::'
+      synset: 08420182-n
+misinéir:
+  n:
+    sense:
+    - id: 'misinéir%1:18:00::'
+      synset: 10342840-n
+misneach:
+  n:
+    sense:
+    - id: 'misneach%1:07:00::'
+      synset: 04864314-n
+misteachas:
+  n:
+    sense:
+    - id: 'misteachas%1:09:00::'
+      synset: 05957724-n
+mitín:
+  n:
+    sense:
+    - id: 'mitín%1:06:00::'
+      synset: 03780604-n
+miúil:
+  n:
+    sense:
+    - id: 'miúil%1:05:00::'
+      synset: 02392753-n
+mocaisín:
+  n:
+    sense:
+    - id: 'mocaisín%1:06:00::'
+      synset: 03782410-n
+modh:
+  n:
+    sense:
+    - id: 'modh%1:07:00::'
+      synset: 04936080-n
+    - id: 'modh%1:09:01::'
+      synset: 05668113-n
+modheolaíocht:
+  n:
+    sense:
+    - id: 'modheolaíocht%1:09:00::'
+      synset: 05669245-n
+modhnaigh:
+  v:
+    sense:
+    - id: 'modhnaigh%2:30:00::'
+      synset: 00300122-v
+    - id: 'modhnaigh%2:41:01::'
+      synset: 02516039-v
+modhnú:
+  n:
+    sense:
+    - id: 'modhnú%1:04:00::'
+      synset: 00200556-n
+modúl:
+  n:
+    sense:
+    - id: 'modúl%1:06:00::'
+      synset: 03784133-n
+    - id: 'modúl%1:06:01::'
+      synset: 03784350-n
+modúlach:
+  s:
+    sense:
+    - id: modúlach%5:00:00:caighdeánach:00
+      synset: 02304090-s
+mogall:
+  n:
+    sense:
+    - id: 'mogall%1:27:00::'
+      synset: 14830069-n
+moileasc:
+  n:
+    sense:
+    - id: 'moileasc%1:05:00::'
+      synset: 01943377-n
+moill:
+  n:
+    sense:
+    - id: 'moill%1:04:00::'
+      synset: 01068087-n
+moillithe:
+  a:
+    sense:
+    - id: 'moillithe%3:00:00::'
+      synset: 01847210-a
+moing mhear:
+  n:
+    sense:
+    - id: 'moing_mhear%1:20:00::'
+      synset: 12956369-n
+moinsíneoir:
+  n:
+    sense:
+    - id: 'moinsíneoir%1:18:00::'
+      synset: 10349502-n
+moirfeolaíocht:
+  n:
+    sense:
+    - id: 'moirfeolaíocht%1:09:00::'
+      synset: 06087877-n
+moirt:
+  n:
+    sense:
+    - id: 'moirt%1:17:00::'
+      synset: 09360312-n
+moirtiúlacht:
+  n:
+    sense:
+    - id: 'moirtiúlacht%1:07:00::'
+      synset: 04711280-n
+moirtéar:
+  n:
+    sense:
+    - id: 'moirtéar%1:06:00::'
+      synset: 03792248-n
+mol:
+  n:
+    sense:
+    - id: 'mol%1:06:05::'
+      synset: 03552838-n
+  v:
+    sense:
+    - id: 'mol%2:32:00::'
+      synset: 00858506-v
+    - id: 'mol%2:32:01::'
+      synset: 00874568-v
+    - id: 'mol%2:32:02::'
+      synset: 00876672-v
+    - id: 'mol%2:32:03::'
+      synset: 00876925-v
+    - id: 'mol%2:32:04::'
+      synset: 00883916-v
+    - id: 'mol%2:31:06::'
+      synset: 00734247-v
+moladh:
+  n:
+    sense:
+    - id: 'moladh%1:10:00::'
+      synset: 07177331-n
+molaibdéineam:
+  n:
+    sense:
+    - id: 'molaibdéineam%1:27:00::'
+      synset: 14669839-n
+moltóir:
+  n:
+    sense:
+    - id: 'moltóir%1:18:00::'
+      synset: 10534022-n
+monagamas:
+  n:
+    sense:
+    - id: 'monagamas%1:26:00::'
+      synset: 13989356-n
+monagraf:
+  n:
+    sense:
+    - id: 'monagraf%1:10:00::'
+      synset: 06421091-n
+monaplacht:
+  n:
+    sense:
+    - id: 'monaplacht%1:26:00::'
+      synset: 14467580-n
+    - id: 'monaplacht%1:26:01::'
+      synset: 14467792-n
+monaraigh:
+  v:
+    sense:
+    - id: 'monaraigh%2:36:00::'
+      synset: 01656984-v
+monaraíocht:
+  n:
+    sense:
+    - id: 'monaraíocht%1:04:00::'
+      synset: 00926639-n
+monarc:
+  n:
+    sense:
+    - id: 'monarc%1:18:00::'
+      synset: 10648006-n
+monarcacht:
+  n:
+    sense:
+    - id: 'monarcacht%1:14:00::'
+      synset: 08380739-n
+monarcha:
+  n:
+    sense:
+    - id: 'monarcha%1:06:00::'
+      synset: 03321351-n
+monaróir:
+  n:
+    sense:
+    - id: 'monaróir%1:14:00::'
+      synset: 08077282-n
+monatóir:
+  n:
+    sense:
+    - id: 'monatóir%1:06:00::'
+      synset: 03787723-n
+    - id: 'monatóir%1:18:01::'
+      synset: 10498545-n
+monatóireacht:
+  n:
+    sense:
+    - id: 'monatóireacht%1:04:00::'
+      synset: 00881724-n
+morgadh:
+  n:
+    sense:
+    - id: 'morgadh%1:19:00::'
+      synset: 11507108-n
+morgáiste:
+  n:
+    sense:
+    - id: 'morgáiste%1:21:00::'
+      synset: 13373153-n
+mortlaíocht:
+  n:
+    sense:
+    - id: 'mortlaíocht%1:28:00::'
+      synset: 15302104-n
+morálta:
+  a:
+    sense:
+    - id: 'morálta%3:00:00::'
+      synset: 01552360-a
+mosc:
+  n:
+    sense:
+    - id: 'mosc%1:06:00::'
+      synset: 03793728-n
+mothaigh:
+  v:
+    sense:
+    - id: 'mothaigh%2:31:00::'
+      synset: 00717144-v
+    - id: 'mothaigh%2:37:01::'
+      synset: 01775456-v
+    - id: 'mothaigh%2:39:02::'
+      synset: 02110460-v
+    - id: 'mothaigh%2:29:03::'
+      synset: 00105712-v
+    - id: 'mothaigh%2:31:04::'
+      synset: 00692071-v
+mothúchán:
+  n:
+    sense:
+    - id: 'mothúchán%1:03:00::'
+      synset: 00026390-n
+mothúchánach:
+  a:
+    sense:
+    - id: 'mothúchánach%3:00:00::'
+      synset: 01933678-a
+muc:
+  n:
+    sense:
+    - id: 'muc%1:05:00::'
+      synset: 02397655-n
+    - id: 'muc%1:05:01::'
+      synset: 02398058-n
+muileann:
+  n:
+    sense:
+    - id: 'muileann%1:06:00::'
+      synset: 03321351-n
+    - id: 'muileann%1:06:01::'
+      synset: 03771096-n
+muileann gaoithe:
+  n:
+    sense:
+    - id: 'muileann_gaoithe%1:06:00::'
+      synset: 04594862-n
+muilleoir:
+  n:
+    sense:
+    - id: 'muilleoir%1:18:00::'
+      synset: 10337745-n
+muilleoireacht:
+  n:
+    sense:
+    - id: 'muilleoireacht%1:06:00::'
+      synset: 03772135-n
+muilleáil:
+  n:
+    sense:
+    - id: 'muilleáil%1:06:00::'
+      synset: 03772135-n
+muinchille:
+  n:
+    sense:
+    - id: 'muinchille%1:06:00::'
+      synset: 04243483-n
+muineál:
+  n:
+    sense:
+    - id: 'muineál%1:08:00::'
+      synset: 05554173-n
+muinteartha:
+  a:
+    sense:
+    - id: 'muinteartha%3:00:00::'
+      synset: 01078338-a
+muintir:
+  n:
+    sense:
+    - id: 'muintir%1:14:00::'
+      synset: 07958392-n
+    - id: 'muintir%1:14:01::'
+      synset: 08177175-n
+muinín:
+  n:
+    sense:
+    - id: 'muinín%1:09:00::'
+      synset: 05705328-n
+    - id: 'muinín%1:09:01::'
+      synset: 05951915-n
+  v:
+    sense:
+    - id: 'muinín%2:31:02::'
+      synset: 00723022-v
+muir:
+  n:
+    sense:
+    - id: 'muir%1:17:00::'
+      synset: 09449666-n
+muirear:
+  n:
+    sense:
+    - id: 'muirear%1:04:00::'
+      synset: 00732520-n
+muireolaí:
+  n:
+    sense:
+    - id: 'muireolaí%1:18:00::'
+      synset: 10389821-n
+muireolaíocht:
+  n:
+    sense:
+    - id: 'muireolaíocht%1:09:00::'
+      synset: 06129511-n
+muirmhíle:
+  n:
+    sense:
+    - id: 'muirmhíle%1:23:00::'
+      synset: 13682449-n
+muirí:
+  n:
+    sense:
+    - id: 'muirí%1:18:00::'
+      synset: 10313979-n
+muisiriún:
+  n:
+    sense:
+    - id: 'muisiriún%1:20:00::'
+      synset: 13021651-n
+murascaill:
+  n:
+    sense:
+    - id: 'murascaill%1:17:00::'
+      synset: 09319027-n
+murtall:
+  n:
+    sense:
+    - id: 'murtall%1:07:00::'
+      synset: 05007507-n
+muscfhrancach:
+  n:
+    sense:
+    - id: 'muscfhrancach%1:05:00::'
+      synset: 02340797-n
+musclacha:
+  n:
+    sense:
+    - id: 'musclacha%1:05:00::'
+      synset: 01855312-n
+mustairt:
+  n:
+    sense:
+    - id: 'mustairt%1:06:00::'
+      synset: 04612679-n
+mustard:
+  n:
+    sense:
+    - id: 'mustard%1:13:00::'
+      synset: 07835456-n
+máilín domlais:
+  n:
+    sense:
+    - id: 'máilín_domlais%1:08:00::'
+      synset: 05392504-n
+máine:
+  n:
+    sense:
+    - id: 'máine%1:26:00::'
+      synset: 14415065-n
+máinlia:
+  n:
+    sense:
+    - id: 'máinlia%1:18:00::'
+      synset: 10698621-n
+máinliacht:
+  n:
+    sense:
+    - id: 'máinliacht%1:04:00::'
+      synset: 00672594-n
+máirseáil:
+  n:
+    sense:
+    - id: 'máirseáil%1:04:00::'
+      synset: 00291423-n
+máisiúnachas:
+  n:
+    sense:
+    - id: 'máisiúnachas%1:14:00::'
+      synset: 08252434-n
+máistir:
+  n:
+    sense:
+    - id: 'máistir%1:18:00::'
+      synset: 10183826-n
+    - id: 'máistir%1:18:01::'
+      synset: 10299827-n
+    - id: 'máistir%1:18:02::'
+      synset: 10318579-n
+    - id: 'máistir%1:18:03::'
+      synset: 10408139-n
+máistir poist:
+  n:
+    sense:
+    - id: 'máistir_poist%1:18:00::'
+      synset: 10479141-n
+máistir-:
+  s:
+    sense:
+    - id: máistir-%5:00:00:tábhachtach:01
+      synset: 01280536-s
+máistirphlean:
+  n:
+    sense:
+    - id: 'máistirphlean%1:09:00::'
+      synset: 05908049-n
+máistreás:
+  n:
+    sense:
+    - id: 'máistreás%1:18:00::'
+      synset: 10159689-n
+    - id: 'máistreás%1:18:01::'
+      synset: 10579268-n
+mál:
+  n:
+    sense:
+    - id: 'mál%1:21:00::'
+      synset: 13337354-n
+mála:
+  n:
+    sense:
+    - id: 'mála%1:06:00::'
+      synset: 02776042-n
+mála droma:
+  n:
+    sense:
+    - id: 'mála_droma%1:06:00::'
+      synset: 02772753-n
+mála láimhe:
+  n:
+    sense:
+    - id: 'mála_láimhe%1:06:00::'
+      synset: 02777157-n
+máltach:
+  a:
+    sense:
+    - id: 'máltach%3:01:00::'
+      synset: 03095270-a
+másailéam:
+  n:
+    sense:
+    - id: 'másailéam%1:06:00::'
+      synset: 03737605-n
+máthair:
+  n:
+    sense:
+    - id: 'máthair%1:18:00::'
+      synset: 10352098-n
+máthairthír:
+  n:
+    sense:
+    - id: 'máthairthír%1:15:00::'
+      synset: 08527190-n
+máthartha:
+  a:
+    sense:
+    - id: 'máthartha%3:00:00::'
+      synset: 01739133-a
+mátrún:
+  n:
+    sense:
+    - id: 'mátrún%1:18:00::'
+      synset: 10322853-n
+méadaigh:
+  v:
+    sense:
+    - id: 'méadaigh%2:30:00::'
+      synset: 00153083-v
+    - id: 'méadaigh%2:30:01::'
+      synset: 00154586-v
+    - id: 'méadaigh%2:30:02::'
+      synset: 00154951-v
+    - id: 'méadaigh%2:30:03::'
+      synset: 00156409-v
+    - id: 'méadaigh%2:30:04::'
+      synset: 00230031-v
+    - id: 'méadaigh%2:30:05::'
+      synset: 00231172-v
+    - id: 'méadaigh%2:30:06::'
+      synset: 00429536-v
+    - id: 'méadaigh%2:38:07::'
+      synset: 01925957-v
+    - id: 'méadaigh%2:38:08::'
+      synset: 01972576-v
+méadaithe:
+  a:
+    sense:
+    - id: 'méadaithe%3:00:00::'
+      synset: 00883449-a
+méadar:
+  n:
+    sense:
+    - id: 'méadar%1:23:00::'
+      synset: 13681046-n
+    - id: 'méadar%1:06:01::'
+      synset: 03758568-n
+méadrach:
+  a:
+    sense:
+    - id: 'méadrach%3:01:00::'
+      synset: 03007144-a
+méadreolaíocht:
+  n:
+    sense:
+    - id: 'méadreolaíocht%1:09:00::'
+      synset: 06145257-n
+méadú:
+  n:
+    sense:
+    - id: 'méadú%1:22:00::'
+      synset: 13518338-n
+    - id: 'méadú%1:23:01::'
+      synset: 13776433-n
+    - id: 'méadú%1:04:02::'
+      synset: 00366535-n
+méar:
+  n:
+    sense:
+    - id: 'méar%1:08:00::'
+      synset: 05574137-n
+méar coise:
+  n:
+    sense:
+    - id: 'méar_coise%1:08:00::'
+      synset: 05585041-n
+méara:
+  n:
+    sense:
+    - id: 'méara%1:18:00::'
+      synset: 10323481-n
+méara Muire:
+  n:
+    sense:
+    - id: 'méara_muire%1:20:00::'
+      synset: 12527496-n
+méaracán gorm:
+  n:
+    sense:
+    - id: 'méaracán_gorm%1:20:00::'
+      synset: 12057797-n
+méarchlár:
+  n:
+    sense:
+    - id: 'méarchlár%1:06:00::'
+      synset: 03619216-n
+méarlorg:
+  n:
+    sense:
+    - id: 'méarlorg%1:10:00::'
+      synset: 06657156-n
+méid:
+  n:
+    sense:
+    - id: 'méid%1:23:00::'
+      synset: 13801244-n
+    - id: 'méid%1:26:01::'
+      synset: 13964158-n
+    - id: 'méid%1:03:03::'
+      synset: 00033914-n
+    - id: 'méid%1:07:04::'
+      synset: 05097645-n
+    - id: 'méid%1:07:05::'
+      synset: 05101152-n
+    - id: 'méid%1:07:06::'
+      synset: 05106204-n
+    - id: 'méid%1:07:07::'
+      synset: 05106651-n
+    - id: 'méid%1:07:08::'
+      synset: 05115065-n
+  v:
+    sense:
+    - id: 'méid%2:42:02::'
+      synset: 02651091-v
+    - id: 'méid%2:42:09::'
+      synset: 02640648-v
+méigrim:
+  n:
+    sense:
+    - id: 'méigrim%1:26:00::'
+      synset: 14351112-n
+méim:
+  n:
+    sense:
+    - id: 'méim%1:09:00::'
+      synset: 05994011-n
+mí:
+  n:
+    sense:
+    - id: 'mí%1:28:00::'
+      synset: 15234209-n
+    - id: 'mí%1:28:01::'
+      synset: 15231092-n
+mí-oiriúnach:
+  a:
+    sense:
+    - id: 'mí-oiriúnach%3:00:00::'
+      synset: 01024917-a
+    - id: 'mí-oiriúnach%3:00:02::'
+      synset: 00136789-a
+  s:
+    sense:
+    - id: mí-oiriúnach%5:00:01:mí-oiriúnach:00
+      synset: 01025223-s
+mí-ábaltacht:
+  n:
+    sense:
+    - id: 'mí-ábaltacht%1:26:00::'
+      synset: 14571935-n
+mí-éifeachtach:
+  a:
+    sense:
+    - id: 'mí-éifeachtach%3:00:00::'
+      synset: 00513664-a
+mí-úsáid:
+  n:
+    sense:
+    - id: 'mí-úsáid%1:04:00::'
+      synset: 00420921-n
+    - id: 'mí-úsáid%1:04:01::'
+      synset: 00949535-n
+míbhail:
+  n:
+    sense:
+    - id: 'míbhail%1:26:00::'
+      synset: 14470485-n
+míbhuntáiste:
+  n:
+    sense:
+    - id: 'míbhuntáiste%1:07:00::'
+      synset: 05169087-n
+míceolaíocht:
+  n:
+    sense:
+    - id: 'míceolaíocht%1:09:00::'
+      synset: 06079297-n
+míchaoithiúlacht:
+  n:
+    sense:
+    - id: 'míchaoithiúlacht%1:07:00::'
+      synset: 04729991-n
+mícheart:
+  a:
+    sense:
+    - id: 'mícheart%3:00:00::'
+      synset: 00635278-a
+míchothrom:
+  a:
+    sense:
+    - id: 'míchothrom%3:00:00::'
+      synset: 00895672-a
+    - id: 'míchothrom%3:00:01::'
+      synset: 00960366-a
+míchothú:
+  n:
+    sense:
+    - id: 'míchothú%1:26:00::'
+      synset: 14223182-n
+míchruinneas:
+  n:
+    sense:
+    - id: 'míchruinneas%1:07:00::'
+      synset: 04811700-n
+míchuma:
+  n:
+    sense:
+    - id: 'míchuma%1:26:00::'
+      synset: 14236994-n
+míchumas:
+  n:
+    sense:
+    - id: 'míchumas%1:26:00::'
+      synset: 14571935-n
+míchuí:
+  a:
+    sense:
+    - id: 'míchuí%3:00:00::'
+      synset: 00136789-a
+  s:
+    sense:
+    - id: míchuí%5:00:01:mí-oiriúnach:02
+      synset: 00137256-s
+míchóir:
+  a:
+    sense:
+    - id: 'míchóir%3:00:00::'
+      synset: 00960366-a
+mídhleathach:
+  a:
+    sense:
+    - id: 'mídhleathach%3:00:00::'
+      synset: 01404858-a
+mídhílsigh:
+  v:
+    sense:
+    - id: 'mídhílsigh%2:40:00::'
+      synset: 02297496-v
+mífhaisnéis:
+  n:
+    sense:
+    - id: 'mífhaisnéis%1:10:00::'
+      synset: 06770936-n
+mífhearúlacht:
+  n:
+    sense:
+    - id: 'mífhearúlacht%1:07:00::'
+      synset: 04675496-n
+mífheidhm:
+  n:
+    sense:
+    - id: 'mífheidhm%1:11:00::'
+      synset: 07333076-n
+mífhoighneach:
+  a:
+    sense:
+    - id: 'mífhoighneach%3:00:00::'
+      synset: 01741490-a
+míle:
+  a:
+    sense:
+    - id: 'míle%3:00:01::'
+      synset: 02206421-a
+  n:
+    sense:
+    - id: 'míle%1:23:00::'
+      synset: 13772984-n
+míleata:
+  a:
+    sense:
+    - id: 'míleata%3:01:00::'
+      synset: 02775023-a
+míleatachas:
+  n:
+    sense:
+    - id: 'míleatachas%1:09:00::'
+      synset: 06231919-n
+míleáiste:
+  n:
+    sense:
+    - id: 'míleáiste%1:07:00::'
+      synset: 05138459-n
+mílíste:
+  n:
+    sense:
+    - id: 'mílíste%1:14:00::'
+      synset: 08407468-n
+mínigh:
+  v:
+    sense:
+    - id: 'mínigh%2:32:00::'
+      synset: 00941308-v
+mínitheach:
+  a:
+    sense:
+    - id: 'mínitheach%3:00:00::'
+      synset: 01327635-a
+mínormálta:
+  a:
+    sense:
+    - id: 'mínormálta%3:00:00::'
+      synset: 01600178-a
+mínscoth:
+  n:
+    sense:
+    - id: 'mínscoth%1:20:00::'
+      synset: 11969125-n
+míoca:
+  n:
+    sense:
+    - id: 'míoca%1:27:00::'
+      synset: 14705716-n
+míochaine:
+  n:
+    sense:
+    - id: 'míochaine%1:04:00::'
+      synset: 00613447-n
+míol:
+  n:
+    sense:
+    - id: 'míol%1:05:00::'
+      synset: 02186509-n
+míol crúbach:
+  n:
+    sense:
+    - id: 'míol_crúbach%1:05:00::'
+      synset: 02187819-n
+míol leapa:
+  n:
+    sense:
+    - id: 'míol_leapa%1:05:00::'
+      synset: 02243169-n
+míol mór:
+  n:
+    sense:
+    - id: 'míol_mór%1:05:00::'
+      synset: 02065397-n
+míoleolaí:
+  n:
+    sense:
+    - id: 'míoleolaí%1:18:00::'
+      synset: 10825826-n
+míoránach:
+  n:
+    sense:
+    - id: 'míoránach%1:05:00::'
+      synset: 01407748-n
+míostrú:
+  n:
+    sense:
+    - id: 'míostrú%1:22:00::'
+      synset: 13534950-n
+míosúil:
+  s:
+    sense:
+    - id: míosúil%5:00:00:tréimhsiúil:00
+      synset: 01976772-s
+mír:
+  n:
+    sense:
+    - id: 'mír%1:10:00::'
+      synset: 06411638-n
+    - id: 'mír%1:10:01::'
+      synset: 06494090-n
+mírialta:
+  a:
+    sense:
+    - id: 'mírialta%3:00:00::'
+      synset: 01967466-a
+mírialtacht:
+  n:
+    sense:
+    - id: 'mírialtacht%1:04:00::'
+      synset: 00738486-n
+míréasúnta:
+  a:
+    sense:
+    - id: 'míréasúnta%3:00:00::'
+      synset: 01951277-a
+míshástacht:
+  n:
+    sense:
+    - id: 'míshástacht%1:12:00::'
+      synset: 07554899-n
+míshásúil:
+  a:
+    sense:
+    - id: 'míshásúil%3:00:00::'
+      synset: 02089364-a
+míthreorach:
+  a:
+    sense:
+    - id: 'míthreorach%3:00:00::'
+      synset: 01226942-a
+móibíleach:
+  a:
+    sense:
+    - id: 'móibíleach%3:00:00::'
+      synset: 01526495-a
+móideim:
+  n:
+    sense:
+    - id: 'móideim%1:06:00::'
+      synset: 03783287-n
+móilín:
+  n:
+    sense:
+    - id: 'móilín%1:27:00::'
+      synset: 14706294-n
+móilíneach:
+  a:
+    sense:
+    - id: 'móilíneach%3:01:00::'
+      synset: 02911952-a
+móimint:
+  n:
+    sense:
+    - id: 'móimint%1:19:00::'
+      synset: 11503385-n
+móin:
+  n:
+    sense:
+    - id: 'móin%1:27:00::'
+      synset: 14713654-n
+móinéar:
+  n:
+    sense:
+    - id: 'móinéar%1:15:00::'
+      synset: 08588163-n
+móipéid:
+  n:
+    sense:
+    - id: 'móipéid%1:06:00::'
+      synset: 03790549-n
+móitíf:
+  n:
+    sense:
+    - id: 'móitíf%1:06:00::'
+      synset: 03794547-n
+mór:
+  a:
+    sense:
+    - id: 'mór%3:00:00::'
+      synset: 00626700-a
+    - id: 'mór%3:00:02::'
+      synset: 01194226-a
+    - id: 'mór%3:00:03::'
+      synset: 01278672-a
+    - id: 'mór%3:00:06::'
+      synset: 01385012-a
+  s:
+    sense:
+    - id: mór%5:00:01:bunúsach:02
+      synset: 00905143-s
+    - id: mór%5:00:04:tábhachtach:01
+      synset: 01279982-s
+    - id: mór%5:00:05:tábhachtach:01
+      synset: 01281928-s
+    - id: mór%5:00:07:mór:06
+      synset: 01389817-s
+    - id: mór%5:00:08:urghnách:00
+      synset: 01682025-s
+mór-roinn:
+  n:
+    sense:
+    - id: 'mór-roinn%1:17:00::'
+      synset: 09277520-n
+mórchiorcal:
+  n:
+    sense:
+    - id: 'mórchiorcal%1:15:00::'
+      synset: 08597015-n
+mórdhíol:
+  n:
+    sense:
+    - id: 'mórdhíol%1:04:00::'
+      synset: 01116756-n
+mórdhíoltóir:
+  n:
+    sense:
+    - id: 'mórdhíoltóir%1:18:00::'
+      synset: 10242167-n
+mórleabhar:
+  n:
+    sense:
+    - id: 'mórleabhar%1:21:00::'
+      synset: 13425421-n
+mórshiúl:
+  n:
+    sense:
+    - id: 'mórshiúl%1:14:00::'
+      synset: 08445442-n
+mórthír:
+  n:
+    sense:
+    - id: 'mórthír%1:17:00::'
+      synset: 09369017-n
+móráireamh:
+  n:
+    sense:
+    - id: 'móráireamh%1:04:00::'
+      synset: 00654631-n
+mórán:
+  a:
+    sense:
+    - id: 'mórán%3:00:00::'
+      synset: 01555990-a
+    - id: 'mórán%3:00:01::'
+      synset: 01557986-a
+mós:
+  r:
+    sense:
+    - id: 'mós%4:02:00::'
+      synset: 00018764-r
+mósáic:
+  n:
+    sense:
+    - id: 'mósáic%1:06:00::'
+      synset: 03793292-n
+móta:
+  n:
+    sense:
+    - id: 'móta%1:06:00::'
+      synset: 03781583-n
+mótar:
+  n:
+    sense:
+    - id: 'mótar%1:06:00::'
+      synset: 03795479-n
+mótarbhealach:
+  n:
+    sense:
+    - id: 'mótarbhealach%1:06:00::'
+      synset: 03311555-n
+mótarfheithicil:
+  n:
+    sense:
+    - id: 'mótarfheithicil%1:06:00::'
+      synset: 03796768-n
+mú:
+  n:
+    sense:
+    - id: 'mú%1:10:00::'
+      synset: 06848365-n
+múch:
+  v:
+    sense:
+    - id: 'múch%2:30:00::'
+      synset: 00472642-v
+múchán:
+  n:
+    sense:
+    - id: 'múchán%1:06:00::'
+      synset: 03373724-n
+múin:
+  v:
+    sense:
+    - id: 'múin%2:32:00::'
+      synset: 00830768-v
+múinteoir:
+  n:
+    sense:
+    - id: 'múinteoir%1:18:00::'
+      synset: 10065521-n
+    - id: 'múinteoir%1:18:01::'
+      synset: 10713754-n
+múinteoireacht:
+  n:
+    sense:
+    - id: 'múinteoireacht%1:04:00::'
+      synset: 00888759-n
+múirín:
+  n:
+    sense:
+    - id: 'múirín%1:27:00::'
+      synset: 14842271-n
+múitseáil:
+  n:
+    sense:
+    - id: 'múitseáil%1:04:00::'
+      synset: 01237177-n
+mún:
+  n:
+    sense:
+    - id: 'mún%1:27:00::'
+      synset: 14879875-n
+múnlaigh:
+  v:
+    sense:
+    - id: 'múnlaigh%2:31:00::'
+      synset: 00702806-v
+múnláil:
+  n:
+    sense:
+    - id: 'múnláil%1:06:00::'
+      synset: 03785780-n
+múrmhaisiú:
+  n:
+    sense:
+    - id: 'múrmhaisiú%1:06:00::'
+      synset: 03805232-n
+mús:
+  n:
+    sense:
+    - id: 'mús%1:05:00::'
+      synset: 02435629-n
+músaem:
+  n:
+    sense:
+    - id: 'músaem%1:06:00::'
+      synset: 03806085-n
+múscail:
+  v:
+    sense:
+    - id: 'múscail%2:37:00::'
+      synset: 01763170-v
+músclóir:
+  n:
+    sense:
+    - id: 'músclóir%1:27:00::'
+      synset: 14747240-n

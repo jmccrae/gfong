@@ -1,0 +1,1045 @@
+08514304-n:
+  definition:
+  - confidence: 0.0
+    text: a particular geographical region of indefinite boundary (usually serving
+      some special purpose or distinguished by its people or culture or geography)
+  hypernym:
+  - 00027365-n
+  ili: i81710
+  members:
+  - achar
+  - ceantar
+  - limistéar
+  partOfSpeech: n
+08516085-n:
+  definition:
+  - confidence: 0.0
+    text: the mass of air surrounding the Earth
+  hypernym:
+  - 00027365-n
+  ili: i81717
+  members:
+  - atmaisféar
+  partOfSpeech: n
+08516868-n:
+  definition:
+  - confidence: 0.0
+    text: a geographical area politically controlled by a distant country
+  hypernym:
+  - 08591861-n
+  ili: i81721
+  members:
+  - spleáchríoch
+  partOfSpeech: n
+08518135-n:
+  definition:
+  - confidence: 0.0
+    text: an international boundary or the area (often fortified) immediately inside
+      the boundary
+  hypernym:
+  - 08529331-n
+  ili: i81727
+  members:
+  - teorainn
+  partOfSpeech: n
+08519192-n:
+  definition:
+  - confidence: 0.0
+    text: the atmosphere and outer space considered as a whole
+  hypernym:
+  - 00027365-n
+  ili: i81733
+  members:
+  - aeraspás
+  partOfSpeech: n
+08519338-n:
+  definition:
+  - confidence: 0.0
+    text: the atmosphere above a nation that is deemed to be under its jurisdiction
+  hypernym:
+  - 08516085-n
+  ili: i81734
+  members:
+  - aerspás
+  partOfSpeech: n
+08519693-n:
+  definition:
+  - confidence: 0.0
+    text: a remote and undeveloped area
+  hypernym:
+  - 08662297-n
+  ili: i81736
+  members:
+  - cúlchríoch
+  partOfSpeech: n
+08522594-n:
+  definition:
+  - confidence: 0.0
+    text: arid land with little or no vegetation
+  hypernym:
+  - 08691133-n
+  - 00031563-n
+  ili: i81751
+  members:
+  - díthreabh
+  - fásach
+  - gaineamhlach
+  partOfSpeech: n
+08524579-n:
+  definition:
+  - confidence: 0.0
+    text: the place where something begins, where it springs into being
+  hypernym:
+  - 08637636-n
+  ili: i81759
+  members:
+  - bunús
+  - foinse
+  - tionscnamh
+  partOfSpeech: n
+08526463-n:
+  definition:
+  - confidence: 0.0
+    text: an area or region distinguished from adjacent parts by a distinctive feature
+      or characteristic
+  hypernym:
+  - 00027365-n
+  ili: i81768
+  members:
+  - crios
+  partOfSpeech: n
+08527190-n:
+  definition:
+  - confidence: 0.0
+    text: the country where you were born
+  hypernym:
+  - 08569713-n
+  ili: i81771
+  members:
+  - máthairthír
+  partOfSpeech: n
+08527687-n:
+  definition:
+  - confidence: 0.0
+    text: a surface forming part of the outside of an object
+  hypernym:
+  - 08529331-n
+  ili: i81774
+  members:
+  - taobh
+  partOfSpeech: n
+08528313-n:
+  definition:
+  - confidence: 0.0
+    text: the lower side of anything
+  hypernym:
+  - 08527687-n
+  ili: i81776
+  members:
+  - bun
+  - íochtar
+  partOfSpeech: n
+08529331-n:
+  definition:
+  - confidence: 0.0
+    text: the line or plane indicating the limit or extent of something
+  hypernym:
+  - 00027365-n
+  ili: i81782
+  members:
+  - teorainn
+  partOfSpeech: n
+08529808-n:
+  definition:
+  - confidence: 0.0
+    text: a line that indicates a boundary
+  hypernym:
+  - 08529331-n
+  ili: i81783
+  members:
+  - teorainn
+  partOfSpeech: n
+08534832-n:
+  definition:
+  - confidence: 0.0
+    text: the route regularly followed by a passenger bus
+  hypernym:
+  - 00027365-n
+  ili: i81813
+  members:
+  - busbhealach
+  partOfSpeech: n
+08534954-n:
+  definition:
+  - confidence: 0.0
+    text: a place on a bus route where buses stop to discharge and take on passengers
+  hypernym:
+  - 08682181-n
+  ili: i81814
+  members:
+  - stad bus
+  partOfSpeech: n
+08535103-n:
+  definition:
+  - confidence: 0.0
+    text: a place (as at a frontier) where travellers are stopped for inspection and
+      clearance
+  hypernym:
+  - 08682181-n
+  ili: i81815
+  members:
+  - seicphointe
+  partOfSpeech: n
+08535652-n:
+  definition:
+  - confidence: 0.0
+    text: a field on which the buildings of a university are situated
+  hypernym:
+  - 08587527-n
+  ili: i81818
+  members:
+  - campas
+  partOfSpeech: n
+08535783-n:
+  definition:
+  - confidence: 0.0
+    text: a seat of government
+  hypernym:
+  - 08540894-n
+  ili: i81819
+  members:
+  - príomhchathair
+  partOfSpeech: n
+08536123-n:
+  definition:
+  - confidence: 0.0
+    text: the entire geographical area drained by a river and its tributaries; an
+      area characterized by all runoff being conveyed to the same outlet
+  hypernym:
+  - 08591861-n
+  ili: i81821
+  members:
+  - abhantrach
+  - dobharcheantar
+  - imchuach
+  partOfSpeech: n
+08538806-n:
+  definition:
+  - confidence: 0.0
+    text: a tract of land used for burials
+  hypernym:
+  - 08668822-n
+  ili: i81832
+  members:
+  - cill
+  - reilig
+  partOfSpeech: n
+08540894-n:
+  definition:
+  - confidence: 0.0
+    text: an area that is approximately central within some larger region
+  hypernym:
+  - 08514304-n
+  ili: i81841
+  members:
+  - croílár
+  - lár
+  partOfSpeech: n
+08542298-n:
+  definition:
+  - confidence: 0.0
+    text: a large and densely populated urban area; may include several independent
+      administrative districts
+  hypernym:
+  - 08643858-n
+  ili: i81847
+  members:
+  - ardchathair
+  - cathair
+  partOfSpeech: n
+08559172-n:
+  definition:
+  - confidence: 0.0
+    text: the smallest administrative district of several European countries
+  hypernym:
+  - 08569713-n
+  ili: i81870
+  members:
+  - común
+  partOfSpeech: n
+08559966-n:
+  definition:
+  - confidence: 0.0
+    text: the official name of some states in the United States (Massachusetts and
+      Pennsylvania and Virginia and Kentucky) and associated territories (Puerto Rico)
+  hypernym:
+  - 08671935-n
+  ili: i81874
+  members:
+  - comhlathas
+  partOfSpeech: n
+08563758-n:
+  definition:
+  - confidence: 0.0
+    text: (United Kingdom) a region created by territorial division for the purpose
+      of local government
+  hypernym:
+  - 00027365-n
+  ili: i81889
+  members:
+  - contae
+  partOfSpeech: n
+08565230-n:
+  definition:
+  - confidence: 0.0
+    text: line marking the upper limit of tree growth in mountains or northern latitudes
+  hypernym:
+  - 00027365-n
+  ili: i81896
+  members:
+  - crannteorainn
+  partOfSpeech: n
+08568437-n:
+  definition:
+  - confidence: 0.0
+    text: the diocese of an archbishop
+  hypernym:
+  - 08569713-n
+  ili: i81916
+  members:
+  - ard-deoise
+  partOfSpeech: n
+08569713-n:
+  definition:
+  - confidence: 0.0
+    text: a region marked off for administrative or other purposes
+  hypernym:
+  - 00027365-n
+  ili: i81923
+  members:
+  - ceantar
+  - críoch
+  - limistéar
+  partOfSpeech: n
+08571977-n:
+  definition:
+  - confidence: 0.0
+    text: a residential district located on the outskirts of a city
+  hypernym:
+  - 08569713-n
+  ili: i81932
+  members:
+  - bruachbhaile
+  partOfSpeech: n
+08574028-n:
+  definition:
+  - confidence: 0.0
+    text: territory over which rule or control is exercised
+  hypernym:
+  - 00027365-n
+  ili: i81945
+  members:
+  - fearann
+  partOfSpeech: n
+08574668-n:
+  definition:
+  - confidence: 0.0
+    text: the domain controlled by a duke or duchess
+  hypernym:
+  - 08574028-n
+  ili: i81948
+  members:
+  - diúcacht
+  partOfSpeech: n
+08575019-n:
+  definition:
+  - confidence: 0.0
+    text: the domain ruled by an emperor or empress; the region over which imperial
+      dominion is exercised
+  hypernym:
+  - 08574028-n
+  ili: i81951
+  members:
+  - impireacht
+  partOfSpeech: n
+08575692-n:
+  definition:
+  - confidence: 0.0
+    text: the domain ruled by a king or queen
+  hypernym:
+  - 08574028-n
+  ili: i81956
+  members:
+  - ríocht
+  partOfSpeech: n
+08576025-n:
+  definition:
+  - confidence: 0.0
+    text: territory ruled by a prince
+  hypernym:
+  - 08574028-n
+  ili: i81958
+  members:
+  - prionsacht
+  partOfSpeech: n
+08576692-n:
+  definition:
+  - confidence: 0.0
+    text: (law) the residence where you have your permanent home or principal establishment
+      and to where, whenever you are absent, you intend to return; every person is
+      compelled to have one and only one domicile at a time
+  hypernym:
+  - 08637636-n
+  ili: i81963
+  members:
+  - sainchónaí
+  partOfSpeech: n
+08582743-n:
+  definition:
+  - confidence: 0.0
+    text: the great circle representing the apparent annual path of the sun; the plane
+      of the Earth's orbit around the sun; makes an angle of about 23 degrees with
+      the equator
+  hypernym:
+  - 08597015-n
+  ili: i81996
+  members:
+  - éiclipteach
+  partOfSpeech: n
+08583230-n:
+  definition:
+  - confidence: 0.0
+    text: the boundary of a surface
+  hypernym:
+  - 08529331-n
+  ili: i81998
+  members:
+  - ciumhais
+  - imeall
+  - teorainn
+  partOfSpeech: n
+08583557-n:
+  definition:
+  - confidence: 0.0
+    text: either extremity of something that has length
+  hypernym:
+  - 00027365-n
+  ili: i82000
+  members:
+  - ceann
+  - deireadh
+  - foirceann
+  partOfSpeech: n
+08585671-n:
+  definition:
+  - confidence: 0.0
+    text: the surrounding environment
+  hypernym:
+  - 08591861-n
+  ili: i82008
+  members:
+  - meán
+  partOfSpeech: n
+08585785-n:
+  definition:
+  - confidence: 0.0
+    text: the context and environment in which something is set
+  hypernym:
+  - 08591861-n
+  ili: i82009
+  members:
+  - suíomh
+  partOfSpeech: n
+08587527-n:
+  definition:
+  - confidence: 0.0
+    text: a piece of land cleared of trees and usually enclosed
+  hypernym:
+  - 08691133-n
+  ili: i82019
+  members:
+  - blár
+  - gort
+  - páirc
+  partOfSpeech: n
+08588163-n:
+  definition:
+  - confidence: 0.0
+    text: a piece of land covered or mostly covered with grass; a field where grass
+      or alfalfa are grown to be made into hay
+  hypernym:
+  - 08615857-n
+  ili: i82023
+  members:
+  - móinéar
+  partOfSpeech: n
+08591019-n:
+  definition:
+  - confidence: 0.0
+    text: the side that is forward or prominent
+  hypernym:
+  - 08527687-n
+  ili: i82040
+  members:
+  - aghaidh
+  - tosach
+  partOfSpeech: n
+08591861-n:
+  definition:
+  - confidence: 0.0
+    text: a demarcated area of the Earth
+  hypernym:
+  - 00027365-n
+  ili: i82045
+  members:
+  - limistéar geografach
+  partOfSpeech: n
+08597015-n:
+  definition:
+  - confidence: 0.0
+    text: a circular line on the surface of a sphere formed by intersecting it with
+      a plane passing through the center
+  hypernym:
+  - 00027365-n
+  ili: i82055
+  members:
+  - mórchiorcal
+  partOfSpeech: n
+08598111-n:
+  definition:
+  - confidence: 0.0
+    text: the type of environment in which an organism or group normally lives or
+      occurs
+  hypernym:
+  - 08591861-n
+  ili: i82061
+  members:
+  - gnáthóg
+  partOfSpeech: n
+08598827-n:
+  definition:
+  - confidence: 0.0
+    text: a place where eggs are hatched under artificial conditions (especially fish
+      eggs)
+  hypernym:
+  - 08591861-n
+  ili: i82065
+  members:
+  - gorlann
+  partOfSpeech: n
+08603184-n:
+  definition:
+  - confidence: 0.0
+    text: the line at which the sky and Earth appear to meet
+  hypernym:
+  - 00027365-n
+  ili: i82092
+  members:
+  - léaslíne
+  partOfSpeech: n
+08605264-n:
+  definition:
+  - confidence: 0.0
+    text: a district whose public schools are administered together
+  hypernym:
+  - 08569713-n
+  ili: i82106
+  members:
+  - scoilcheantar
+  partOfSpeech: n
+08605849-n:
+  definition:
+  - confidence: 0.0
+    text: the region that is inside of something
+  hypernym:
+  - 00027365-n
+  ili: i82110
+  members:
+  - taobh istigh
+  partOfSpeech: n
+08606472-n:
+  definition:
+  - confidence: 0.0
+    text: the outer region of the Earth's atmosphere; contains a high concentration
+      of free electrons
+  hypernym:
+  - 00027365-n
+  ili: i82115
+  members:
+  - ianaisféar
+  partOfSpeech: n
+08609148-n:
+  definition:
+  - confidence: 0.0
+    text: a field of cultivated and mowed grass
+  hypernym:
+  - 08587527-n
+  ili: i82129
+  members:
+  - faiche
+  partOfSpeech: n
+08610212-n:
+  definition:
+  - confidence: 0.0
+    text: the boundary of a specific area
+  hypernym:
+  - 08529331-n
+  ili: i82134
+  members:
+  - teorainn
+  partOfSpeech: n
+08613087-n:
+  definition:
+  - confidence: 0.0
+    text: the angular distance between an imaginary line around a heavenly body parallel
+      to its equator and the equator itself
+  hypernym:
+  - 13910202-n
+  ili: i82148
+  members:
+  - domhanleithead
+  partOfSpeech: n
+08614224-n:
+  definition:
+  - confidence: 0.0
+    text: the angular distance between a point on any meridian and the prime meridian
+      at Greenwich
+  hypernym:
+  - 13910202-n
+  ili: i82155
+  members:
+  - domhanfhad
+  partOfSpeech: n
+08615857-n:
+  definition:
+  - confidence: 0.0
+    text: land where grass or grasslike vegetation grows and is the dominant form
+      of plant life
+  hypernym:
+  - 08691133-n
+  - 00031563-n
+  ili: i82164
+  members:
+  - féarthalamh
+  partOfSpeech: n
+08618316-n:
+  definition:
+  - confidence: 0.0
+    text: the point below the observer that is directly opposite the zenith on the
+      imaginary sphere against which celestial bodies appear to be projected
+  hypernym:
+  - 08637636-n
+  ili: i82178
+  members:
+  - nadair
+  partOfSpeech: n
+08629606-n:
+  definition:
+  - confidence: 0.0
+    text: the (usually elliptical) path described by one celestial body in its revolution
+      about another
+  hypernym:
+  - 00027365-n
+  ili: i82238
+  members:
+  - fithis
+  partOfSpeech: n
+08630343-n:
+  definition:
+  - confidence: 0.0
+    text: the line that appears to bound an object
+  hypernym:
+  - 08529331-n
+  ili: i82242
+  members:
+  - imlíne
+  partOfSpeech: n
+08630575-n:
+  definition:
+  - confidence: 0.0
+    text: the outline of a coast
+  hypernym:
+  - 08630343-n
+  ili: i82243
+  members:
+  - imeallbhord
+  partOfSpeech: n
+08631168-n:
+  definition:
+  - confidence: 0.0
+    text: the region that is outside of something
+  hypernym:
+  - 00027365-n
+  ili: i82248
+  members:
+  - taobh amuigh
+  partOfSpeech: n
+08632724-n:
+  definition:
+  - confidence: 0.0
+    text: a large area of land preserved in its natural state as public property
+  hypernym:
+  - 08691133-n
+  ili: i82259
+  members:
+  - páirc
+  partOfSpeech: n
+08632949-n:
+  definition:
+  - confidence: 0.0
+    text: a piece of open land for recreational use in an urban area
+  hypernym:
+  - 08691133-n
+  ili: i82260
+  members:
+  - coiteann
+  partOfSpeech: n
+08633213-n:
+  definition:
+  - confidence: 0.0
+    text: a lot where cars are parked
+  hypernym:
+  - 08691133-n
+  ili: i82261
+  members:
+  - carrchlós
+  partOfSpeech: n
+08633625-n:
+  definition:
+  - confidence: 0.0
+    text: a field covered with grass or herbage and suitable for grazing by livestock
+  hypernym:
+  - 08615857-n
+  ili: i82264
+  members:
+  - féarach
+  partOfSpeech: n
+08637636-n:
+  definition:
+  - confidence: 0.0
+    text: the precise location of something; a spatially limited location
+  hypernym:
+  - 00027365-n
+  ili: i82287
+  members:
+  - pointe
+  partOfSpeech: n
+08639173-n:
+  definition:
+  - confidence: 0.0
+    text: the particular portion of space occupied by something
+  hypernym:
+  - 08637636-n
+  ili: i82294
+  members:
+  - ionad
+  - suíomh
+  partOfSpeech: n
+08642466-n:
+  definition:
+  - confidence: 0.0
+    text: the position of a prominent or well-known object in a particular landscape
+  hypernym:
+  - 08639173-n
+  ili: i82310
+  members:
+  - sainchomhartha tíre
+  partOfSpeech: n
+08642648-n:
+  definition:
+  - confidence: 0.0
+    text: location near or direction toward the right side; i.e. the side to the south
+      when a person or object faces east
+  hypernym:
+  - 08639173-n
+  ili: i82311
+  members:
+  - deis
+  partOfSpeech: n
+08643037-n:
+  definition:
+  - confidence: 0.0
+    text: location near or direction toward the left side; i.e. the side to the north
+      when a person or object faces east
+  hypernym:
+  - 08639173-n
+  ili: i82313
+  members:
+  - clé
+  partOfSpeech: n
+08643858-n:
+  definition:
+  - confidence: 0.0
+    text: an urban district having corporate status and powers of self-government
+  hypernym:
+  - 08591861-n
+  - 08569713-n
+  ili: i82317
+  members:
+  - bardasacht
+  partOfSpeech: n
+08651532-n:
+  definition:
+  - confidence: 0.0
+    text: a place (seaport or airport) where people and merchandise can enter or leave
+      a country
+  hypernym:
+  - 08637636-n
+  ili: i82351
+  members:
+  - calafort
+  - port
+  partOfSpeech: n
+08656633-n:
+  definition:
+  - confidence: 0.0
+    text: a sheltered port where ships can take on or discharge cargo
+  hypernym:
+  - 08651532-n
+  ili: i82357
+  members:
+  - calafort
+  - cuan
+  partOfSpeech: n
+08657686-n:
+  definition:
+  - confidence: 0.0
+    text: a place where a craft can be made fast
+  hypernym:
+  - 08514304-n
+  ili: i82363
+  members:
+  - beart
+  partOfSpeech: n
+08658688-n:
+  definition:
+  - confidence: 0.0
+    text: a surrounding or nearby region
+  hypernym:
+  - 08514304-n
+  ili: i82369
+  members:
+  - ceantar
+  - comharsanacht
+  - dúiche
+  partOfSpeech: n
+08659720-n:
+  definition:
+  - confidence: 0.0
+    text: a rectangular area in a city surrounded by streets and usually containing
+      several buildings
+  hypernym:
+  - 08514304-n
+  ili: i82373
+  members:
+  - bloc
+  partOfSpeech: n
+08662297-n:
+  definition:
+  - confidence: 0.0
+    text: an area outside of cities and towns
+  hypernym:
+  - 08591861-n
+  ili: i82391
+  members:
+  - tuath
+  - tír
+  partOfSpeech: n
+08662608-n:
+  definition:
+  - confidence: 0.0
+    text: rural regions
+  hypernym:
+  - 08662297-n
+  ili: i82392
+  members:
+  - tuath
+  partOfSpeech: n
+08663422-n:
+  definition:
+  - confidence: 0.0
+    text: a flat grassland in tropical or subtropical regions
+  hypernym:
+  - 08615857-n
+  ili: i82399
+  members:
+  - sabhána
+  partOfSpeech: n
+08666920-n:
+  definition:
+  - confidence: 0.0
+    text: a place within a region identified relative to a center or reference location
+  hypernym:
+  - 00027365-n
+  ili: i82421
+  members:
+  - taobh
+  partOfSpeech: n
+08668822-n:
+  definition:
+  - confidence: 0.0
+    text: the piece of land on which something is located (or is to be located)
+  hypernym:
+  - 08691133-n
+  ili: i82434
+  members:
+  - láithreán
+  - suíomh
+  partOfSpeech: n
+08671935-n:
+  definition:
+  - confidence: 0.0
+    text: the territory occupied by one of the constituent administrative districts
+      of a nation
+  hypernym:
+  - 08569713-n
+  ili: i82454
+  members:
+  - cúige
+  - stát
+  partOfSpeech: n
+08677294-n:
+  definition:
+  - confidence: 0.0
+    text: a region where there is coal underground
+  hypernym:
+  - 08591861-n
+  ili: i82474
+  members:
+  - gualcheantar
+  partOfSpeech: n
+08680894-n:
+  definition:
+  - confidence: 0.0
+    text: the extreme end of something; especially something pointed
+  hypernym:
+  - 08583557-n
+  ili: i82494
+  members:
+  - barr
+  partOfSpeech: n
+08681598-n:
+  definition:
+  - confidence: 0.0
+    text: the upper part of anything
+  hypernym:
+  - 00027365-n
+  ili: i82498
+  members:
+  - barr
+  partOfSpeech: n
+08681922-n:
+  definition:
+  - confidence: 0.0
+    text: the top of something
+  hypernym:
+  - 08681598-n
+  ili: i82499
+  members:
+  - ceann
+  partOfSpeech: n
+08682181-n:
+  definition:
+  - confidence: 0.0
+    text: a point located with respect to surface features of some region
+  hypernym:
+  - 08637636-n
+  ili: i82501
+  members:
+  - ionad
+  - áit
+  partOfSpeech: n
+08683242-n:
+  definition:
+  - confidence: 0.0
+    text: an urban area with a fixed boundary that is smaller than a city
+  hypernym:
+  - 08643858-n
+  ili: i82504
+  members:
+  - baile
+  partOfSpeech: n
+08689937-n:
+  definition:
+  - confidence: 0.0
+    text: an administrative division of a county
+  hypernym:
+  - 08569713-n
+  ili: i82512
+  members:
+  - bailecheantar
+  partOfSpeech: n
+08691133-n:
+  definition:
+  - confidence: 0.0
+    text: an extended area of land
+  hypernym:
+  - 08591861-n
+  ili: i82519
+  members:
+  - dáileacht
+  - fearann
+  partOfSpeech: n
+08692301-n:
+  definition:
+  - confidence: 0.0
+    text: a piece of ground having specific characteristics or military potential
+  hypernym:
+  - 08691133-n
+  ili: i82523
+  members:
+  - tír-raon
+  partOfSpeech: n
+08692477-n:
+  definition:
+  - confidence: 0.0
+    text: a small area of ground covered by specific vegetation
+  hypernym:
+  - 08691133-n
+  ili: i82524
+  members:
+  - gabháltas
+  partOfSpeech: n
+08695366-n:
+  definition:
+  - confidence: 0.0
+    text: the scene of any event or action (especially the place of a meeting)
+  hypernym:
+  - 08514304-n
+  ili: i82541
+  members:
+  - ionad
+  partOfSpeech: n
+08697710-n:
+  definition:
+  - confidence: 0.0
+    text: a line leading to a place or point
+  hypernym:
+  - 00027365-n
+  ili: i82556
+  members:
+  - bealach
+  - treo
+  partOfSpeech: n
+08699515-n:
+  definition:
+  - confidence: 0.0
+    text: a general direction in which something tends to move
+  hypernym:
+  - 08697710-n
+  ili: i82566
+  members:
+  - treo
+  - treocht
+  partOfSpeech: n
+08702507-n:
+  definition:
+  - confidence: 0.0
+    text: the point above the observer that is directly opposite the nadir on the
+      imaginary sphere against which celestial bodies appear to be projected
+  hypernym:
+  - 08637636-n
+  ili: i82583
+  members:
+  - buaic
+  partOfSpeech: n
