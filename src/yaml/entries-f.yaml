@@ -1518,6 +1518,11 @@ foirceann:
     sense:
     - id: 'foirceann%2:30:00::'
       synset: 00353480-v
+foirceannadh:
+  n:
+    sense:
+    - id: 'foirceannadh%1:04:00::'
+      synset: 00210792-n
 foireann:
   n:
     sense:
@@ -1695,11 +1700,6 @@ fonóta:
     sense:
     - id: 'fonóta%1:10:00::'
       synset: 06776955-n
-for-rochtain:
-  n:
-    sense:
-    - id: 'for-rochtain%1:04:00::'
-      synset: 00349779-n
 foraois:
   n:
     sense:

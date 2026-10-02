@@ -627,8 +627,9 @@
   partOfSpeech: v
 02292634-v:
   definition:
-  - confidence: 0.0
-    text: fail to keep or maintain (of a state)
+  - teip ar a choimeád nó a chothabháil; gan a bheith ag, de réir brí teibí nó fisicí
+  example:
+  - Chaill sí a sparán nuair a d’fhág sí é ar a cathaoir gan aon duine á fhaire.
   hypernym:
   - 02372362-v
   ili: i33171

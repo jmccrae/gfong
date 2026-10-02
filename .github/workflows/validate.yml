@@ -1,0 +1,45 @@
+name: Validate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Find the latest EWE
+        id: ewe
+        run: echo "sha=$(git ls-remote https://github.com/jmccrae/ewe refs/heads/main | cut -f1)" >> "$GITHUB_OUTPUT"
+
+      - name: Cache EWE
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: ~/ewe-bin
+          key: ewe-cli-${{ steps.ewe.outputs.sha }}
+
+      - name: Build EWE
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          git clone https://github.com/jmccrae/ewe "$RUNNER_TEMP/ewe"
+          git -C "$RUNNER_TEMP/ewe" checkout ${{ steps.ewe.outputs.sha }}
+          cargo build --release --manifest-path "$RUNNER_TEMP/ewe/Cargo.toml" -p ewe-cli
+          mkdir -p ~/ewe-bin
+          cp "$RUNNER_TEMP/ewe/target/release/ewe-cli" ~/ewe-bin/
+
+      - name: Validate with EWE
+        run: |
+          echo "- validate" > "$RUNNER_TEMP/validate.yaml"
+          # ewe-cli exits 0 even when validation fails, and asks whether to
+          # save anyway: answer no, and check its report instead.
+          echo n | ~/ewe-bin/ewe-cli automaton "$RUNNER_TEMP/validate.yaml" --wordnet . | tee "$RUNNER_TEMP/validate.log"
+          grep -q "^No validation errors!$" "$RUNNER_TEMP/validate.log"
+
+      - name: Check the YAML is as EWE writes it
+        run: |
+          # A valid wordnet is saved back to src/yaml/; any difference means
+          # the files were edited by hand rather than through EWE.
+          git diff --exit-code || { echo "::error::src/yaml/ is not in EWE's format - edit it with EWE"; exit 1; }

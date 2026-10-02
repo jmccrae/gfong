@@ -876,6 +876,17 @@
   - beartaigh
   - cinn
   partOfSpeech: v
+00700338-v:
+  definition:
+  - rud éigin a phleanáil do ról nó cuspóir nó éifeacht ar leith
+  example:
+  - Níl an seomra seo deartha le haghaidh oibre
+  hypernym:
+  - 00710367-v
+  ili: i25200
+  members:
+  - dear
+  partOfSpeech: v
 00700621-v:
   definition:
   - confidence: 0.0

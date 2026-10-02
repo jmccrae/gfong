@@ -257,6 +257,11 @@
       synset: 00587299-n
     - id: 'áit%1:15:01::'
       synset: 08682181-n
+áit pháirceála:
+  n:
+    sense:
+    - id: 'áit_pháirceála%1:23:00::'
+      synset: 13800883-n
 áit éigin:
   r:
     sense:

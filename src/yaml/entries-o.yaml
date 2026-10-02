@@ -333,11 +333,6 @@ oir do:
     sense:
     - id: 'oir_do%2:42:00::'
       synset: 02708690-v
-oirchill:
-  n:
-    sense:
-    - id: 'oirchill%1:12:00::'
-      synset: 07526319-n
 oirdeanáire:
   n:
     sense:

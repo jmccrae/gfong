@@ -3393,6 +3393,11 @@ sroich:
       synset: 02024442-v
     - id: 'sroich%2:41:03::'
       synset: 02531751-v
+sroicheadh amach:
+  n:
+    sense:
+    - id: 'sroicheadh_amach%1:04:00::'
+      synset: 00349779-n
 sruth:
   n:
     sense:
@@ -4664,6 +4669,8 @@ súil:
       synset: 05318579-n
     - id: 'súil%1:09:01::'
       synset: 05953807-n
+    - id: 'súil%1:12:02::'
+      synset: 07526319-n
 súil a bheith ag:
   v:
     sense:

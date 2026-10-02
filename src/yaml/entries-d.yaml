@@ -346,6 +346,8 @@ dear:
     sense:
     - id: 'dear%2:36:00::'
       synset: 01641910-v
+    - id: 'dear%2:31:01::'
+      synset: 00700338-v
 dearadh:
   n:
     sense:
