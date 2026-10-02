@@ -43,6 +43,8 @@ Fáiltítear roimh gach cabhair: ceartúcháin, focail nua, sainmhínithe agus s
 
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Tá an acmhainn bunaithe go páirteach ar [Líonra Séimeantach na Gaeilge](http://borel.slu.edu/lsg/) (Kevin P. Scannell), ar an [Open English Wordnet](https://github.com/globalwordnet/english-wordnet) agus ar [Wikidata](https://www.wikidata.org/).
 
+Tá na habairtí sa chorpas ([`corpus/`](corpus/)) tógtha ó [DGT-TM](https://joint-research-centre.ec.europa.eu/language-technology-resources/dgt-translation-memory_en) (an Coimisiún Eorpach), ó EU Bookshop agus ó [OpenSubtitles](https://www.opensubtitles.org/), trí [OPUS](https://opus.nlpl.eu/) (Tiedemann, 2012).
+
 ---
 
 ## English
@@ -81,3 +83,5 @@ All help is welcome: corrections, new words, and Irish definitions and examples.
 ### Licence
 
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Based in part on [Líonra Séimeantach na Gaeilge](http://borel.slu.edu/lsg/) (Kevin P. Scannell), the [Open English Wordnet](https://github.com/globalwordnet/english-wordnet) and [Wikidata](https://www.wikidata.org/).
+
+The sentences in the corpus ([`corpus/`](corpus/)) come from [DGT-TM](https://joint-research-centre.ec.europa.eu/language-technology-resources/dgt-translation-memory_en) (European Commission), EU Bookshop and [OpenSubtitles](https://www.opensubtitles.org/), via [OPUS](https://opus.nlpl.eu/) (Tiedemann, 2012).
