@@ -4,3 +4,10 @@ id_prefix = "gfong"
 project_name = "GréasánFocal Oscailte na Gaeilge"
 contact_email = "john@mccr.ae"
 source_url = "https://irishwn.teanga.io/"
+logo = "logo.svg"
+
+# Irish-flag green and orange, darkened from the logo's #169b62/#ff883e so text
+# in these colours has WCAG AA contrast (about 5:1) on white.
+[theme]
+primary = "#12804f"
+accent = "#b85310"
