@@ -23,7 +23,6 @@ cargo build --release              # cruthaíonn sé seo target/release/ewe-cli
 
 - **Líne na n-orduithe:** rith `ewe-cli --wordnet .` san fhillteán seo chun roghchlár eagarthóireachta a oscailt. Is féidir baisc athruithe a scríobh mar chomhad YAML freisin agus é a rith le `ewe-cli automaton athruithe.yaml --wordnet .`.
 - **Eagarthóir gréasáin nó deisce:** léann eagarthóir grafach EWE an comhad [`settings.toml`](settings.toml) san fhillteán seo (lógó, dathanna, srl.). Féach [cáipéisíocht EWE](https://github.com/jmccrae/ewe/tree/main/ewe_dioxus).
-- **Easpórtáil:** cruthaíonn `make xml` comhad WN-LMF XML in `build/gfong.xml`.
 
 ### Cur leis an tionscadal
 
@@ -63,7 +62,6 @@ cargo build --release              # builds target/release/ewe-cli
 
 - **Command line:** run `ewe-cli --wordnet .` in this folder to open an editing menu. You can also script a batch of changes as a YAML file and run it with `ewe-cli automaton changes.yaml --wordnet .`.
 - **Web or desktop editor:** EWE's graphical editor reads this folder's [`settings.toml`](settings.toml) (logo, colours, etc.). See the [EWE documentation](https://github.com/jmccrae/ewe/tree/main/ewe_dioxus).
-- **Export:** `make xml` writes a WN-LMF XML file to `build/gfong.xml`.
 
 ### Contributing
 
