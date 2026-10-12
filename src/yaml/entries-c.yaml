@@ -276,10 +276,6 @@ cailif:
     - id: 'cailif%1:18:00::'
       synset: 09906948-n
 caill:
-  n:
-    sense:
-    - id: 'caill%1:21:00::'
-      synset: 13348698-n
   v:
     sense:
     - id: 'caill%2:33:01::'

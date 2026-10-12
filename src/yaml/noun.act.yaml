@@ -2783,9 +2783,10 @@
   - 00627233-n
   ili: i38717
   members:
-  - glan
+  - ardú glan go gualainn
+  - ardú glan
   partOfSpeech: n
-  source: 'LSG, Wisteria: glan'
+  source: 'review: ardú glan go gualainn, ardú glan'
 00632621-n:
   definition:
   - confidence: 0.0
@@ -5087,10 +5088,10 @@
   - 00030657-n
   ili: i41082
   members:
-  - dáil
+  - dáileadh
   - dáileachán
   partOfSpeech: n
-  source: 'LSG, Wisteria: dáil, dáileachán'
+  source: 'review: dáileadh; LSG, Wisteria: dáileachán'
 01085274-n:
   definition:
   - confidence: 0.0
@@ -6716,9 +6717,9 @@
   - 01255647-n
   ili: i41969
   members:
-  - sceith
+  - sceitheadh
   partOfSpeech: n
-  source: 'LSG, Wisteria: sceith'
+  source: 'review: sceitheadh'
 01259004-n:
   definition:
   - confidence: 0.0

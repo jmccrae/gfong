@@ -1700,10 +1700,6 @@ dá réir sin:
     - id: 'dá_réir_sin%4:02:01::'
       synset: 00063395-r
 dáil:
-  n:
-    sense:
-    - id: 'dáil%1:04:02::'
-      synset: 01085001-n
   v:
     sense:
     - id: 'dáil%2:40:00::'
@@ -1719,6 +1715,11 @@ dáileachán:
   n:
     sense:
     - id: 'dáileachán%1:04:00::'
+      synset: 01085001-n
+dáileadh:
+  n:
+    sense:
+    - id: 'dáileadh%1:04:00::'
       synset: 01085001-n
 dáileamh:
   n:

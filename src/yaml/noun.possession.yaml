@@ -775,11 +775,10 @@
   - 00032220-n
   ili: i106744
   members:
-  - caill
-  - cailliúint
   - caillteanas
+  - cailliúint
   partOfSpeech: n
-  source: 'LSG, Wisteria: caill, cailliúint, caillteanas'
+  source: 'LSG, Wisteria: caillteanas, cailliúint'
 13354252-n:
   definition:
   - confidence: 0.0

@@ -2523,6 +2523,16 @@ ardán:
       synset: 03968233-n
     - id: 'ardán%1:06:01::'
       synset: 03968979-n
+ardú glan:
+  n:
+    sense:
+    - id: 'ardú_glan%1:04:00::'
+      synset: 00628078-n
+ardú glan go gualainn:
+  n:
+    sense:
+    - id: 'ardú_glan_go_gualainn%1:04:00::'
+      synset: 00628078-n
 argóint:
   n:
     sense:

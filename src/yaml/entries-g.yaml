@@ -1100,10 +1100,6 @@ glan:
     sense:
     - id: 'glan%3:00:01::'
       synset: 00418932-a
-  n:
-    sense:
-    - id: 'glan%1:04:02::'
-      synset: 00628078-n
   v:
     sense:
     - id: 'glan%2:29:00::'

@@ -875,14 +875,15 @@ sceir:
     - id: 'sceir%1:17:00::'
       synset: 09429671-n
 sceith:
-  n:
-    sense:
-    - id: 'sceith%1:04:01::'
-      synset: 01255864-n
   v:
     sense:
     - id: 'sceith%2:32:00::'
       synset: 00935783-v
+sceitheadh:
+  n:
+    sense:
+    - id: 'sceitheadh%1:04:00::'
+      synset: 01255864-n
 sceithire:
   n:
     sense:
