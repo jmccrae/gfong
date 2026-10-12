@@ -946,9 +946,8 @@
   ili: i36510
   members:
   - foirceannadh
-  - foirceann
   partOfSpeech: n
-  source: 'review: foirceannadh; LSG, Wisteria: foirceann'
+  source: 'review: foirceannadh'
 00211959-n:
   definition:
   - confidence: 0.0

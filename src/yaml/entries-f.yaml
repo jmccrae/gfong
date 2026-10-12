@@ -1510,8 +1510,6 @@ foinse:
 foirceann:
   n:
     sense:
-    - id: 'foirceann%1:04:01::'
-      synset: 00210792-n
     - id: 'foirceann%1:15:02::'
       synset: 08583557-n
   v:
