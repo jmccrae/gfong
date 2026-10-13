@@ -880,6 +880,17 @@
   - éagsúlú
   partOfSpeech: n
   source: 'LSG, Wisteria: éagsúlú'
+00196933-n:
+  definition:
+  - confidence: 0.0
+    text: the act of changing one thing or position for another
+  hypernym:
+  - 00038116-n
+  ili: i36441
+  members:
+  - malartú
+  partOfSpeech: n
+  source: 'review: malartú'
 00200556-n:
   definition:
   - confidence: 0.0
@@ -2460,6 +2471,18 @@
   - blocáil
   partOfSpeech: n
   source: 'LSG, Wisteria: blocáil'
+00572097-n:
+  definition:
+  - confidence: 0.0
+    text: a swimming stroke; the arms are extended together in front of the head and
+      swept back on either side accompanied by a frog kick
+  hypernym:
+  - 00280679-n
+  ili: i38396
+  members:
+  - bang brollaigh
+  partOfSpeech: n
+  source: 'LSG: bang brollaigh'
 00576778-n:
   definition:
   - confidence: 0.0
@@ -2958,8 +2981,9 @@
   members:
   - aire
   - cúram
+  - friotháil
   partOfSpeech: n
-  source: 'LSG, Wisteria: aire, cúram'
+  source: 'LSG, Wisteria: aire, cúram; LSG: friotháil'
 00659325-n:
   definition:
   - confidence: 0.0
@@ -3858,8 +3882,9 @@
   ili: i39992
   members:
   - rátáil
+  - meastóireacht
   partOfSpeech: n
-  source: 'LSG, Wisteria: rátáil'
+  source: 'LSG, Wisteria: rátáil; Wisteria: meastóireacht'
 00879303-n:
   definition:
   - confidence: 0.0
@@ -4043,6 +4068,17 @@
   - tógáil
   partOfSpeech: n
   source: 'LSG, Wisteria: foirgníocht, tógáil'
+00913583-n:
+  definition:
+  - confidence: 0.0
+    text: the act of building or putting up
+  hypernym:
+  - 00912746-n
+  ili: i40197
+  members:
+  - tógáil
+  partOfSpeech: n
+  source: 'LSG: tógáil'
 00913832-n:
   definition:
   - confidence: 0.0
@@ -6718,8 +6754,9 @@
   ili: i41969
   members:
   - sceitheadh
+  - urscaoileadh
   partOfSpeech: n
-  source: 'review: sceitheadh'
+  source: 'review: sceitheadh, urscaoileadh'
 01259004-n:
   definition:
   - confidence: 0.0

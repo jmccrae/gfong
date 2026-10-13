@@ -64,6 +64,15 @@
   similar:
   - 00013179-a
   source: 'LSG, Wisteria: inláimhsithe'
+00017062-a:
+  definition:
+  - confidence: 0.0
+    text: not widely distributed
+  ili: i79
+  members:
+  - neamhchoitianta
+  partOfSpeech: a
+  source: 'Wisteria: neamhchoitianta'
 00017820-a:
   definition:
   - confidence: 0.0
@@ -1797,6 +1806,16 @@
   - infhorghníomhaithe
   partOfSpeech: a
   source: 'LSG, Wisteria: infhorghníomhaithe'
+00560039-a:
+  definition:
+  - confidence: 0.0
+    text: having the quality or power of conducting heat or electricity or sound;
+      exhibiting conductivity
+  ili: i3112
+  members:
+  - conduchtach
+  partOfSpeech: a
+  source: 'LSG: conduchtach'
 00568607-a:
   definition:
   - confidence: 0.0
@@ -3614,7 +3633,20 @@
   - cairdiúil
   - muinteartha
   partOfSpeech: a
+  similar:
+  - 01078866-s
   source: 'Horizon, LSG, Wisteria: cairdiúil; LSG, Wisteria: muinteartha'
+01078866-s:
+  definition:
+  - confidence: 0.0
+    text: diffusing warmth and friendliness
+  ili: i5898
+  members:
+  - soghrách
+  partOfSpeech: s
+  similar:
+  - 01078338-a
+  source: 'LSG: soghrách'
 01085280-a:
   definition:
   - confidence: 0.0
@@ -3969,6 +4001,15 @@
   similar:
   - 01134543-a
   source: 'LSG, Wisteria: dubh'
+01140500-a:
+  definition:
+  - confidence: 0.0
+    text: brusque and surly and forbidding
+  ili: i6220
+  members:
+  - droch-araíonach
+  partOfSpeech: a
+  source: 'LSG: droch-araíonach'
 01146764-a:
   definition:
   - confidence: 0.0
@@ -9131,8 +9172,9 @@
   members:
   - comhthráthach
   - comhuaineach
+  - san am céanna
   partOfSpeech: a
-  source: 'LSG, Wisteria: comhthráthach, comhuaineach'
+  source: 'LSG, Wisteria: comhthráthach, comhuaineach; LSG: san am céanna'
 02387725-a:
   definition:
   - confidence: 0.0
@@ -9441,10 +9483,11 @@
   members:
   - luachmhar
   - lómhar
+  - cuanna
   partOfSpeech: s
   similar:
   - 02510833-a
-  source: 'LSG, Wisteria: luachmhar, lómhar'
+  source: 'LSG, Wisteria: luachmhar, lómhar; LSG: cuanna'
 02516074-a:
   definition:
   - confidence: 0.0
@@ -9546,6 +9589,15 @@
   - te
   partOfSpeech: a
   source: 'LSG, Wisteria: te'
+02551782-a:
+  definition:
+  - confidence: 0.0
+    text: freed from illness or injury
+  ili: i14099
+  members:
+  - ar do sheanléim
+  partOfSpeech: a
+  source: 'LSG: ar do sheanléim'
 02552072-a:
   definition:
   - confidence: 0.0
@@ -9576,7 +9628,20 @@
   members:
   - fliuch
   partOfSpeech: a
+  similar:
+  - 02561103-s
   source: 'LSG, Wisteria: fliuch'
+02561103-s:
+  definition:
+  - confidence: 0.0
+    text: (of weather) wet by periods of rain
+  ili: i14148
+  members:
+  - frasach
+  partOfSpeech: s
+  similar:
+  - 02558087-a
+  source: 'LSG: frasach'
 02562150-a:
   definition:
   - confidence: 0.0

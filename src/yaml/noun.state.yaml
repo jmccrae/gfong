@@ -101,6 +101,17 @@
   - méid
   partOfSpeech: n
   source: 'LSG, Wisteria: méid'
+13965795-n:
+  definition:
+  - confidence: 0.0
+    text: the expected or commonplace condition or situation
+  hypernym:
+  - 00024900-n
+  ili: i110211
+  members:
+  - gnáth
+  partOfSpeech: n
+  source: 'LSG: gnáth'
 13966452-n:
   definition:
   - confidence: 0.0

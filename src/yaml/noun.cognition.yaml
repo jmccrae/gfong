@@ -350,8 +350,9 @@
   members:
   - spéis
   - suim
+  - leas
   partOfSpeech: n
-  source: 'LSG, Wisteria: spéis, suim'
+  source: 'LSG, Wisteria: spéis, suim; Wisteria: leas'
 05691387-n:
   definition:
   - confidence: 0.0
@@ -482,6 +483,17 @@
   - ionad
   partOfSpeech: n
   source: 'LSG, Wisteria: athsholáthar, ionad'
+05704768-n:
+  definition:
+  - confidence: 0.0
+    text: a thing or person that immediately replaces something or someone
+  hypernym:
+  - 05704390-n
+  ili: i66851
+  members:
+  - comharba
+  partOfSpeech: n
+  source: 'Wisteria: comharba'
 05705100-n:
   definition:
   - confidence: 0.0
@@ -778,8 +790,9 @@
   ili: i67107
   members:
   - athmheasúnú
+  - athmheas
   partOfSpeech: n
-  source: 'LSG, Wisteria: athmheasúnú'
+  source: 'LSG, Wisteria: athmheasúnú; LSG: athmheas'
 05756230-n:
   definition:
   - confidence: 0.0
@@ -861,12 +874,24 @@
   - cuimhne
   partOfSpeech: n
   source: 'LSG, Wikidata: cuimhne'
+05769556-n:
+  definition:
+  - confidence: 0.0
+    text: the process of remembering (especially the process of recovering information
+      by mental effort)
+  hypernym:
+  - 05768199-n
+  ili: i67177
+  members:
+  - aisghlaoch
+  partOfSpeech: n
+  source: 'Wisteria: aisghlaoch'
 05770146-n:
   definition:
   - confidence: 0.0
     text: recall or remembrance
   hypernym:
-  - 05768199-n
+  - 05769556-n
   ili: i67179
   members:
   - cuimhne
@@ -987,6 +1012,17 @@
   - astralaíocht
   partOfSpeech: n
   source: 'LSG, Wikidata: astralaíocht'
+05788560-n:
+  definition:
+  - confidence: 0.0
+    text: (logic) an inference that follows directly from the proof of another proposition
+  hypernym:
+  - 05780353-n
+  ili: i67265
+  members:
+  - atoradh
+  partOfSpeech: n
+  source: 'LSG: atoradh'
 05788882-n:
   definition:
   - confidence: 0.0
@@ -3445,6 +3481,18 @@
   - Airiasachas
   partOfSpeech: n
   source: 'LSG, Wikidata: Airiasachas'
+06204144-n:
+  definition:
+  - confidence: 0.0
+    text: the attitudes and behavior that are characteristic of a particular social
+      group or organization
+  hypernym:
+  - 00023451-n
+  ili: i69084
+  members:
+  - cultúr
+  partOfSpeech: n
+  source: 'Wisteria: cultúr'
 06205574-n:
   definition:
   - confidence: 0.0

@@ -366,6 +366,8 @@ malartú:
     sense:
     - id: 'malartú%1:04:00::'
       synset: 01168748-n
+    - id: 'malartú%1:04:01::'
+      synset: 00196933-n
 malgam:
   n:
     sense:
@@ -1034,6 +1036,11 @@ meastóir:
       synset: 09906486-n
     - id: 'meastóir%1:18:01::'
       synset: 10086539-n
+meastóireacht:
+  n:
+    sense:
+    - id: 'meastóireacht%1:04:00::'
+      synset: 00876484-n
 measán Máltach:
   n:
     sense:
@@ -1252,6 +1259,11 @@ mianach:
       synset: 03773881-n
     - id: 'mianach%1:07:01::'
       synset: 04731092-n
+mianach talún:
+  n:
+    sense:
+    - id: 'mianach_talún%1:06:00::'
+      synset: 03644989-n
 mianadóir:
   n:
     sense:
@@ -1379,6 +1391,11 @@ minicíocht:
       synset: 13849172-n
     - id: 'minicíocht%1:28:01::'
       synset: 15303267-n
+minim:
+  n:
+    sense:
+    - id: 'minim%1:10:00::'
+      synset: 06883894-n
 ministir:
   n:
     sense:

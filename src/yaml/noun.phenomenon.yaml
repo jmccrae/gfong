@@ -190,6 +190,17 @@
   - vatacht
   partOfSpeech: n
   source: 'LSG, Wisteria: vatacht'
+11469898-n:
+  definition:
+  - confidence: 0.0
+    text: the power output of a generator or power plant
+  hypernym:
+  - 11469756-n
+  ili: i97760
+  members:
+  - ualach
+  partOfSpeech: n
+  source: 'Wisteria: ualach'
 11470244-n:
   definition:
   - confidence: 0.0
@@ -527,6 +538,17 @@
   - cúltarraingt
   partOfSpeech: n
   source: 'LSG, Wisteria: cúltarraingt'
+11525964-n:
+  definition:
+  - confidence: 0.0
+    text: the phenomenon of vitality and freshness being restored
+  hypernym:
+  - 00034512-n
+  ili: i98057
+  members:
+  - glasú
+  partOfSpeech: n
+  source: 'review: glasú'
 11528510-n:
   definition:
   - confidence: 0.0

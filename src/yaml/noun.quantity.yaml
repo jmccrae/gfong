@@ -31,6 +31,18 @@
   - aonad
   partOfSpeech: n
   source: 'LSG, Wisteria: aonad'
+13606330-n:
+  definition:
+  - confidence: 0.0
+    text: the unit of measurement for the proportion of gold in an alloy; 18-karat
+      gold is 75% gold; 24-karat gold is pure gold
+  hypernym:
+  - 13604927-n
+  ili: i108089
+  members:
+  - kt
+  partOfSpeech: n
+  source: 'Wisteria: kt'
 13607325-n:
   definition:
   - confidence: 0.0

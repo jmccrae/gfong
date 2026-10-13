@@ -3,3 +3,8 @@ kV:
     sense:
     - id: 'kv%1:23:00::'
       synset: 13665249-n
+kt:
+  n:
+    sense:
+    - id: 'kt%1:23:00::'
+      synset: 13606330-n

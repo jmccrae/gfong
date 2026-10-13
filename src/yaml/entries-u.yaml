@@ -145,6 +145,8 @@ ualach:
       synset: 03685312-n
     - id: 'ualach%1:09:01::'
       synset: 05841069-n
+    - id: 'ualach%1:19:02::'
+      synset: 11469898-n
 ualaithe:
   s:
     sense:
@@ -592,3 +594,8 @@ urrús:
       synset: 05705328-n
     - id: 'urrús%1:10:03::'
       synset: 06698499-n
+urscaoileadh:
+  n:
+    sense:
+    - id: 'urscaoileadh%1:04:00::'
+      synset: 01255864-n

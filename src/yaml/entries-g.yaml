@@ -1201,6 +1201,11 @@ glasáil:
     sense:
     - id: 'glasáil%1:04:00::'
       synset: 00829299-n
+glasú:
+  n:
+    sense:
+    - id: 'glasú%1:19:00::'
+      synset: 11525964-n
 gleann:
   n:
     sense:
@@ -1342,6 +1347,8 @@ gnáth:
     sense:
     - id: 'gnáth%1:09:00::'
       synset: 05675457-n
+    - id: 'gnáth%1:26:02::'
+      synset: 13965795-n
 gnáth-:
   a:
     sense:
@@ -1811,6 +1818,11 @@ goill ar:
     sense:
     - id: 'goill_ar%2:37:00::'
       synset: 01771801-v
+goin:
+  n:
+    sense:
+    - id: 'goin%1:17:00::'
+      synset: 09244958-n
 goirmín searraigh:
   n:
     sense:

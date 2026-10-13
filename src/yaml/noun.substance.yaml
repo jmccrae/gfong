@@ -2767,6 +2767,17 @@
   - snáithín
   partOfSpeech: n
   source: 'LSG, Wisteria: snáithín'
+14892009-n:
+  definition:
+  - confidence: 0.0
+    text: a very slender natural or synthetic fiber
+  hypernym:
+  - 14891040-n
+  ili: i115195
+  members:
+  - filiméad
+  partOfSpeech: n
+  source: 'Wisteria: filiméad'
 14893980-n:
   definition:
   - confidence: 0.0

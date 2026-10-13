@@ -65,6 +65,11 @@ radaighníomhaíocht:
     sense:
     - id: 'radaighníomhaíocht%1:22:00::'
       synset: 13566387-n
+radamandádaíocht:
+  n:
+    sense:
+    - id: 'radamandádaíocht%1:10:00::'
+      synset: 07244749-n
 radar:
   n:
     sense:
@@ -554,6 +559,11 @@ ridire:
       synset: 03629976-n
     - id: 'ridire%1:18:01::'
       synset: 10258072-n
+righneas:
+  n:
+    sense:
+    - id: 'righneas%1:07:00::'
+      synset: 05028701-n
 rilíf:
   n:
     sense:
@@ -1543,3 +1553,8 @@ rúndacht:
     sense:
     - id: 'rúndacht%1:07:00::'
       synset: 04659534-n
+rúscaire:
+  n:
+    sense:
+    - id: 'rúscaire%1:18:00::'
+      synset: 09898763-n

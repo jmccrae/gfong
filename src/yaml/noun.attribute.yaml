@@ -1017,6 +1017,17 @@
   - daonnacht
   partOfSpeech: n
   source: 'LSG, Wisteria: daonnacht'
+04839947-n:
+  definition:
+  - confidence: 0.0
+    text: liberality in bestowing gifts; extremely liberal and generous of spirit
+  hypernym:
+  - 04731092-n
+  ili: i62389
+  members:
+  - fialmhaireacht
+  partOfSpeech: n
+  source: 'LSG: fialmhaireacht'
 04842491-n:
   definition:
   - confidence: 0.0
@@ -1737,6 +1748,18 @@
   - athléimneacht
   partOfSpeech: n
   source: 'LSG, Wisteria: athléimneacht'
+05028701-n:
+  definition:
+  - confidence: 0.0
+    text: the elasticity and hardness of a metal object; its ability to absorb considerable
+      energy before cracking
+  hypernym:
+  - 04923519-n
+  ili: i63388
+  members:
+  - righneas
+  partOfSpeech: n
+  source: 'LSG: righneas'
 05029623-n:
   definition:
   - confidence: 0.0
@@ -2647,6 +2670,17 @@
   - inúsáidteacht
   partOfSpeech: n
   source: 'LSG, Wisteria: inúsáidteacht'
+05157835-n:
+  definition:
+  - confidence: 0.0
+    text: the quality of having no practical use
+  hypernym:
+  - 04731092-n
+  ili: i64048
+  members:
+  - neamhúsáid
+  partOfSpeech: n
+  source: 'LSG: neamhúsáid'
 05158335-n:
   definition:
   - confidence: 0.0

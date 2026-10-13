@@ -3721,8 +3721,9 @@
   ili: i72162
   members:
   - oideas
+  - foirmle
   partOfSpeech: n
-  source: 'LSG, Wisteria: oideas'
+  source: 'review: foirmle; LSG, Wisteria: oideas'
 06804229-n:
   definition:
   - confidence: 0.0
@@ -3768,8 +3769,9 @@
   ili: i72212
   members:
   - marc
+  - comhartha
   partOfSpeech: n
-  source: 'LSG, Wisteria: marc'
+  source: 'LSG, Wisteria: marc; LSG: comhartha'
 06812755-n:
   definition:
   - confidence: 0.0
@@ -3871,6 +3873,18 @@
   - carachtar
   partOfSpeech: n
   source: 'LSG, Wisteria: carachtar'
+06835982-n:
+  definition:
+  - confidence: 0.0
+    text: a diacritical mark (^) placed above a vowel in some languages to indicate
+      a special phonetic quality
+  hypernym:
+  - 06819327-n
+  ili: i72350
+  members:
+  - cuairín
+  partOfSpeech: n
+  source: 'LSG: cuairín'
 06837277-n:
   definition:
   - confidence: 0.0
@@ -4333,6 +4347,17 @@
   - nóta
   partOfSpeech: n
   source: 'LSG, Wisteria: nóta'
+06883894-n:
+  definition:
+  - confidence: 0.0
+    text: a musical note having the time value of half a whole note
+  hypernym:
+  - 06878395-n
+  ili: i72595
+  members:
+  - minim
+  partOfSpeech: n
+  source: 'LSG: minim'
 06890899-n:
   definition:
   - confidence: 0.0
@@ -5994,6 +6019,17 @@
   - teileachomhdháil
   partOfSpeech: n
   source: 'LSG, Wisteria: teileachomhdháil'
+07160898-n:
+  definition:
+  - confidence: 0.0
+    text: a session as of a legislature or court
+  hypernym:
+  - 07160216-n
+  ili: i74216
+  members:
+  - cruinniú
+  partOfSpeech: n
+  source: 'review: cruinniú'
 07162900-n:
   definition:
   - confidence: 0.0
@@ -6428,6 +6464,18 @@
   - gearán
   partOfSpeech: n
   source: 'LSG, Wisteria: gearán'
+07227272-n:
+  definition:
+  - confidence: 0.0
+    text: advance notification (usually written) of the intention to withdraw from
+      an arrangement of contract
+  hypernym:
+  - 00030657-n
+  ili: i74561
+  members:
+  - fógra
+  partOfSpeech: n
+  source: 'Wisteria: fógra'
 07232442-n:
   definition:
   - confidence: 0.0
@@ -6560,6 +6608,17 @@
   - buíochas
   partOfSpeech: n
   source: 'LSG, Wisteria: buí, buíochas'
+07244749-n:
+  definition:
+  - confidence: 0.0
+    text: vain and empty boasting
+  hypernym:
+  - 00030657-n
+  ili: i74658
+  members:
+  - radamandádaíocht
+  partOfSpeech: n
+  source: 'LSG: radamandádaíocht'
 07248890-n:
   definition:
   - confidence: 0.0

@@ -118,6 +118,17 @@
   - póraigh
   partOfSpeech: v
   source: 'LSG, Wisteria: póraigh'
+00063495-v:
+  definition:
+  - confidence: 0.0
+    text: cause inflammation in
+  hypernym:
+  - 00126072-v
+  ili: i22096
+  members:
+  - athlas
+  partOfSpeech: v
+  source: 'LSG: athlas'
 00063866-v:
   definition:
   - confidence: 0.0

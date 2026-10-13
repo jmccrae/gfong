@@ -612,6 +612,8 @@ leas:
       synset: 05163204-n
     - id: 'leas%1:07:04::'
       synset: 05167108-n
+    - id: 'leas%1:09:05::'
+      synset: 05690773-n
 leas a bhaint as:
   v:
     sense:
@@ -780,6 +782,11 @@ leibhéal:
       synset: 05101152-n
     - id: 'leibhéal%1:07:02::'
       synset: 05139167-n
+leiceadar:
+  n:
+    sense:
+    - id: 'leiceadar%1:11:00::'
+      synset: 07425345-n
 leictreach:
   a:
     sense:
@@ -1276,6 +1283,11 @@ lochtach:
     sense:
     - id: lochtach%5:00:00:mícheart:00
       synset: 00635789-s
+lodar:
+  n:
+    sense:
+    - id: 'lodar%1:17:00::'
+      synset: 09461116-n
 log:
   n:
     sense:

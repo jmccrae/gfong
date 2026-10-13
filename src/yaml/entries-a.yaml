@@ -1129,6 +1129,8 @@ aisghlaoch:
     sense:
     - id: 'aisghlaoch%1:10:00::'
       synset: 07294777-n
+    - id: 'aisghlaoch%1:09:01::'
+      synset: 05769556-n
 aisghníomhach:
   a:
     sense:
@@ -2282,6 +2284,11 @@ ar deireadh thiar thall:
     sense:
     - id: 'ar_deireadh_thiar_thall%4:02:00::'
       synset: 00048441-r
+ar do sheanléim:
+  a:
+    sense:
+    - id: 'ar_do_sheanléim%3:00:00::'
+      synset: 02551782-a
 ar dtús:
   r:
     sense:
@@ -2839,6 +2846,11 @@ athinsint:
     sense:
     - id: 'athinsint%2:32:00::'
       synset: 00960366-v
+athlas:
+  v:
+    sense:
+    - id: 'athlas%2:29:00::'
+      synset: 00063495-v
 athlua:
   n:
     sense:
@@ -2859,6 +2871,11 @@ athlódáil:
     sense:
     - id: 'athlódáil%2:35:00::'
       synset: 01493229-v
+athmheas:
+  n:
+    sense:
+    - id: 'athmheas%1:09:00::'
+      synset: 05755527-n
 athmheasúnú:
   n:
     sense:
@@ -2995,6 +3012,11 @@ atmaisféarach:
     sense:
     - id: 'atmaisféarach%3:01:00::'
       synset: 02842621-a
+atoradh:
+  n:
+    sense:
+    - id: 'atoradh%1:09:00::'
+      synset: 05788560-n
 atosaigh:
   v:
     sense:

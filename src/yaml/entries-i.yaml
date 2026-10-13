@@ -1513,6 +1513,11 @@ inseachanta:
     sense:
     - id: 'inseachanta%3:00:00::'
       synset: 00344599-a
+insealbhóir:
+  n:
+    sense:
+    - id: 'insealbhóir%1:18:00::'
+      synset: 10235776-n
 inseolta:
   a:
     sense:

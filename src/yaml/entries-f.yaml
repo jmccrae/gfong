@@ -934,6 +934,11 @@ fial:
     sense:
     - id: 'fial%1:06:00::'
       synset: 03929501-n
+fialmhaireacht:
+  n:
+    sense:
+    - id: 'fialmhaireacht%1:07:00::'
+      synset: 04839947-n
 fianaigh:
   v:
     sense:
@@ -1026,6 +1031,8 @@ filiméad:
     sense:
     - id: 'filiméad%1:06:00::'
       synset: 03341520-n
+    - id: 'filiméad%1:27:01::'
+      synset: 14892009-n
 filiméala:
   n:
     sense:
@@ -1592,6 +1599,8 @@ foirmle:
       synset: 06744551-n
     - id: 'foirmle%1:10:01::'
       synset: 06829793-n
+    - id: 'foirmle%1:10:02::'
+      synset: 06801642-n
 foirnéis:
   n:
     sense:
@@ -2095,6 +2104,11 @@ fraoch:
     sense:
     - id: 'fraoch%1:20:00::'
       synset: 12254046-n
+frasach:
+  s:
+    sense:
+    - id: frasach%5:00:00:fliuch:00
+      synset: 02561103-s
 frasaíocht:
   n:
     sense:
@@ -2210,6 +2224,11 @@ friotaíocht:
       synset: 11524062-n
     - id: 'friotaíocht%1:19:01::'
       synset: 11524386-n
+friotháil:
+  n:
+    sense:
+    - id: 'friotháil%1:04:00::'
+      synset: 00656128-n
 friotóir:
   n:
     sense:
@@ -2452,6 +2471,11 @@ fuirseoir:
     sense:
     - id: 'fuirseoir%1:18:00::'
       synset: 09959604-n
+fuirsigh:
+  v:
+    sense:
+    - id: 'fuirsigh%2:36:00::'
+      synset: 01746296-v
 fuisce:
   n:
     sense:
@@ -3011,6 +3035,8 @@ fógra:
       synset: 06760383-n
     - id: 'fógra%1:10:01::'
       synset: 07263469-n
+    - id: 'fógra%1:10:02::'
+      synset: 07227272-n
 fógraíocht:
   n:
     sense:

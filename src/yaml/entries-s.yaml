@@ -228,6 +228,11 @@ saighean:
     sense:
     - id: 'saighean%1:06:00::'
       synset: 04175602-n
+sail chnis:
+  n:
+    sense:
+    - id: 'sail_chnis%1:17:00::'
+      synset: 09285861-n
 sailchearnach:
   n:
     sense:
@@ -465,6 +470,11 @@ samúraí:
     sense:
     - id: 'samúraí%1:18:00::'
       synset: 10569320-n
+san am céanna:
+  a:
+    sense:
+    - id: 'san_am_céanna%3:00:00::'
+      synset: 02387064-a
 san am i láthair:
   r:
     sense:
@@ -680,6 +690,11 @@ scaip:
       synset: 01885173-v
     - id: 'scaip%2:38:04::'
       synset: 02034269-v
+scaiptheoir:
+  n:
+    sense:
+    - id: 'scaiptheoir%1:18:00::'
+      synset: 10499146-n
 scair:
   n:
     sense:
@@ -1007,6 +1022,8 @@ scoilt:
       synset: 00387484-n
     - id: 'scoilt%1:11:03::'
       synset: 07328414-n
+    - id: 'scoilt%1:08:04::'
+      synset: 05263841-n
   v:
     sense:
     - id: 'scoilt%2:41:01::'
@@ -2756,6 +2773,11 @@ soghluaisteacht:
     sense:
     - id: 'soghluaisteacht%1:07:00::'
       synset: 04780590-n
+soghrách:
+  s:
+    sense:
+    - id: soghrách%5:00:00:cairdiúil:00
+      synset: 01078866-s
 soicind:
   n:
     sense:

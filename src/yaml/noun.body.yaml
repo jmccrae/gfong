@@ -70,6 +70,18 @@
   - gruaig
   partOfSpeech: n
   source: 'LSG, Wisteria: gruaig'
+05263841-n:
+  definition:
+  - confidence: 0.0
+    text: a line of scalp that can be seen when sections of hair are combed in opposite
+      directions
+  hypernym:
+  - 00027365-n
+  ili: i64575
+  members:
+  - scoilt
+  partOfSpeech: n
+  source: 'LSG: scoilt'
 05264345-n:
   definition:
   - confidence: 0.0

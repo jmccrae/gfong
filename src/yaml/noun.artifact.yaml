@@ -1203,6 +1203,18 @@
   - cabhail
   partOfSpeech: n
   source: 'LSG, Wisteria: cabhail'
+02866766-n:
+  definition:
+  - confidence: 0.0
+    text: the exterior body of a motor vehicle
+  hypernym:
+  - 02865226-n
+  ili: i50913
+  members:
+  - cabhail
+  - cabhailobair
+  partOfSpeech: n
+  source: 'review: cabhailobair; Wisteria: cabhail'
 02867090-n:
   definition:
   - confidence: 0.0
@@ -4293,7 +4305,7 @@
   - confidence: 0.0
     text: the shell (metal casing) in which a train of gears is sealed
   hypernym:
-  - 03551946-n
+  - 04197790-n
   ili: i54259
   members:
   - giarbhosca
@@ -4863,6 +4875,17 @@
   - fáinne
   partOfSpeech: n
   source: 'LSG, Wisteria: fonsa, fáinne'
+03539760-n:
+  definition:
+  - confidence: 0.0
+    text: a skirt stiffened with hoops
+  hypernym:
+  - 04237870-n
+  ili: i54895
+  members:
+  - crinilín
+  partOfSpeech: n
+  source: 'LSG: crinilín'
 03545055-n:
   definition:
   - confidence: 0.0
@@ -5315,6 +5338,17 @@
   - rí
   partOfSpeech: n
   source: 'LSG, Wikidata: rí'
+03624605-n:
+  definition:
+  - confidence: 0.0
+    text: gear consisting of a set of articles or tools for a specified purpose
+  hypernym:
+  - 03435869-n
+  ili: i55394
+  members:
+  - trealamh
+  partOfSpeech: n
+  source: 'LSG: trealamh'
 03624859-n:
   definition:
   - confidence: 0.0
@@ -5440,6 +5474,18 @@
   - lampa
   partOfSpeech: n
   source: 'LSG, Wisteria: lampa'
+03644989-n:
+  definition:
+  - confidence: 0.0
+    text: an explosive mine hidden underground; explodes when stepped on or driven
+      over
+  hypernym:
+  - 03187746-n
+  ili: i55519
+  members:
+  - mianach talún
+  partOfSpeech: n
+  source: 'LSG: mianach talún'
 03648120-n:
   definition:
   - confidence: 0.0
@@ -7648,6 +7694,18 @@
   - tiúnóir
   partOfSpeech: n
   source: 'LSG, Wisteria: raidió, tiúnóir'
+04053034-n:
+  definition:
+  - confidence: 0.0
+    text: a small piece of cloth
+  hypernym:
+  - 03938441-n
+  - 03314753-n
+  ili: i57916
+  members:
+  - bratóg
+  partOfSpeech: n
+  source: 'LSG: bratóg'
 04053903-n:
   definition:
   - confidence: 0.0
@@ -8351,6 +8409,17 @@
   - seilf
   partOfSpeech: n
   source: 'LSG, Wisteria: seilf'
+04197790-n:
+  definition:
+  - confidence: 0.0
+    text: the housing or outer covering of something
+  hypernym:
+  - 03551946-n
+  ili: i58778
+  members:
+  - cásáil
+  partOfSpeech: n
+  source: 'review: cásáil'
 04199741-n:
   definition:
   - confidence: 0.0
@@ -9878,8 +9947,9 @@
   ili: i60480
   members:
   - traiseoladh
+  - tras-seoladh
   partOfSpeech: n
-  source: 'LSG, Wisteria: traiseoladh'
+  source: 'review: tras-seoladh; LSG, Wisteria: traiseoladh'
 04479961-n:
   definition:
   - confidence: 0.0

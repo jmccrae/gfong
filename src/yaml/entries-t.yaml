@@ -1479,6 +1479,8 @@ teilg:
     sense:
     - id: 'teilg%2:36:00::'
       synset: 01666666-v
+    - id: 'teilg%2:36:01::'
+      synset: 01636439-v
 teilgcheárta:
   n:
     sense:
@@ -2600,6 +2602,11 @@ tras-scríbhinn:
     sense:
     - id: 'tras-scríbhinn%1:10:00::'
       synset: 07292089-n
+tras-seoladh:
+  n:
+    sense:
+    - id: 'tras-seoladh%1:06:00::'
+      synset: 04479478-n
 trasduchtóir:
   n:
     sense:
@@ -2677,6 +2684,8 @@ trealamh:
       synset: 03298959-n
     - id: 'trealamh%1:06:01::'
       synset: 03435869-n
+    - id: 'trealamh%1:06:02::'
+      synset: 03624605-n
 treallach:
   a:
     sense:
@@ -4050,6 +4059,8 @@ tógáil:
       synset: 00912746-n
     - id: 'tógáil%1:04:02::'
       synset: 01131853-n
+    - id: 'tógáil%1:04:03::'
+      synset: 00913583-n
 tógálach:
   s:
     sense:

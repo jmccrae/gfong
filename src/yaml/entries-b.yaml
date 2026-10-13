@@ -489,6 +489,11 @@ bandiúc:
     sense:
     - id: 'bandiúc%1:18:00::'
       synset: 10058134-n
+bang brollaigh:
+  n:
+    sense:
+    - id: 'bang_brollaigh%1:04:00::'
+      synset: 00572097-n
 banna:
   n:
     sense:
@@ -1726,6 +1731,11 @@ brathadóir:
     sense:
     - id: 'brathadóir%1:06:00::'
       synset: 03185635-n
+bratóg:
+  n:
+    sense:
+    - id: 'bratóg%1:06:00::'
+      synset: 04053034-n
 breab:
   n:
     sense:

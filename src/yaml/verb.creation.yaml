@@ -136,8 +136,9 @@
   ili: i29912
   members:
   - caith
+  - teilg
   partOfSpeech: v
-  source: 'LSG, Wisteria: caith'
+  source: 'LSG, Wisteria: caith; LSG: teilg'
 01636885-v:
   definition:
   - confidence: 0.0
@@ -597,6 +598,17 @@
   - saothraigh
   partOfSpeech: v
   source: 'LSG, Wisteria: saothraigh'
+01746296-v:
+  definition:
+  - confidence: 0.0
+    text: draw a harrow over (land)
+  hypernym:
+  - 00383306-v
+  ili: i30446
+  members:
+  - fuirsigh
+  partOfSpeech: v
+  source: 'LSG: fuirsigh'
 01749530-v:
   definition:
   - a chur i gcló

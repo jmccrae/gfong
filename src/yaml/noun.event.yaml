@@ -587,6 +587,17 @@
   - tadhall
   partOfSpeech: n
   source: 'LSG, Wisteria: tadhall'
+07425345-n:
+  definition:
+  - confidence: 0.0
+    text: a blow from a flat object (as an open hand)
+  hypernym:
+  - 07353152-n
+  ili: i75654
+  members:
+  - leiceadar
+  partOfSpeech: n
+  source: 'LSG: leiceadar'
 07429340-n:
   definition:
   - confidence: 0.0

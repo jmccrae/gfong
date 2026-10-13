@@ -111,6 +111,13 @@ cabhail:
       synset: 03553806-n
     - id: 'cabhail%1:08:02::'
       synset: 05223633-n
+    - id: 'cabhail%1:06:03::'
+      synset: 02866766-n
+cabhailobair:
+  n:
+    sense:
+    - id: 'cabhailobair%1:06:00::'
+      synset: 02866766-n
 cabhair:
   n:
     sense:
@@ -1957,6 +1964,8 @@ cigire:
     sense:
     - id: 'cigire%1:18:00::'
       synset: 10087775-n
+    - id: 'cigire%1:18:01::'
+      synset: 10228448-n
 cigireacht:
   n:
     sense:
@@ -3076,6 +3085,11 @@ coimeádaí:
       synset: 10003419-n
     - id: 'coimeádaí%1:18:01::'
       synset: 10003828-n
+coimeádaí síochána:
+  n:
+    sense:
+    - id: 'coimeádaí_síochána%1:18:00::'
+      synset: 10429870-n
 coimeádán:
   n:
     sense:
@@ -3673,6 +3687,11 @@ comharaíocht:
     sense:
     - id: 'comharaíocht%1:24:00::'
       synset: 13863412-n
+comharba:
+  n:
+    sense:
+    - id: 'comharba%1:09:00::'
+      synset: 05704768-n
 comharbas:
   n:
     sense:
@@ -3704,6 +3723,8 @@ comhartha:
       synset: 06659006-n
     - id: 'comhartha%1:10:02::'
       synset: 06804229-n
+    - id: 'comhartha%1:10:03::'
+      synset: 06811608-n
 comhartha athfhriotail:
   n:
     sense:
@@ -4318,6 +4339,11 @@ conclúidigh:
     sense:
     - id: 'conclúidigh%2:31:00::'
       synset: 00636134-v
+conduchtach:
+  a:
+    sense:
+    - id: 'conduchtach%3:00:00::'
+      synset: 00560039-a
 conradh:
   n:
     sense:
@@ -4924,6 +4950,11 @@ criathar:
     sense:
     - id: 'criathar%1:06:00::'
       synset: 04223701-n
+crinilín:
+  n:
+    sense:
+    - id: 'crinilín%1:06:00::'
+      synset: 03539760-n
 crioptón:
   n:
     sense:
@@ -5166,6 +5197,8 @@ cruinniú:
       synset: 07991473-n
     - id: 'cruinniú%1:14:01::'
       synset: 08324519-n
+    - id: 'cruinniú%1:10:02::'
+      synset: 07160898-n
 cruitchorda:
   n:
     sense:
@@ -5409,6 +5442,11 @@ cuairteoir:
     sense:
     - id: 'cuairteoir%1:18:00::'
       synset: 10776861-n
+cuairín:
+  n:
+    sense:
+    - id: 'cuairín%1:10:00::'
+      synset: 06835982-n
 cuaisíteas:
   n:
     sense:
@@ -5419,6 +5457,11 @@ cuan:
     sense:
     - id: 'cuan%1:15:00::'
       synset: 08656633-n
+cuanna:
+  s:
+    sense:
+    - id: cuanna%5:00:00:luachmhar:00
+      synset: 02511483-s
 cuardach:
   n:
     sense:
@@ -5993,6 +6036,8 @@ cultúr:
     sense:
     - id: 'cultúr%1:14:00::'
       synset: 08304765-n
+    - id: 'cultúr%1:09:01::'
+      synset: 06204144-n
 cum:
   v:
     sense:
@@ -6462,6 +6507,8 @@ cásáil:
     sense:
     - id: 'cásáil%1:06:00::'
       synset: 03551946-n
+    - id: 'cásáil%1:06:01::'
+      synset: 04197790-n
 cé:
   n:
     sense:

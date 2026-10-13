@@ -87,8 +87,9 @@
   ili: i85088
   members:
   - slis
+  - goin
   partOfSpeech: n
-  source: 'LSG, Wisteria: slis'
+  source: 'LSG, Wisteria: slis; LSG: goin'
 09248053-n:
   definition:
   - confidence: 0.0
@@ -214,6 +215,17 @@
   - cumalas
   partOfSpeech: n
   source: 'LSG, Wikidata: cumalas'
+09285861-n:
+  definition:
+  - confidence: 0.0
+    text: loose scales shed from the scalp
+  hypernym:
+  - 09244958-n
+  ili: i85300
+  members:
+  - sail chnis
+  partOfSpeech: n
+  source: 'LSG: sail chnis'
 09294810-n:
   definition:
   - confidence: 0.0
@@ -918,6 +930,17 @@
   - fána
   partOfSpeech: n
   source: 'LSG, Wisteria: fána'
+09461116-n:
+  definition:
+  - confidence: 0.0
+    text: a stagnant swamp (especially as part of a bayou)
+  hypernym:
+  - 09501020-n
+  ili: i86206
+  members:
+  - lodar
+  partOfSpeech: n
+  source: 'LSG: lodar'
 09466657-n:
   definition:
   - confidence: 0.0

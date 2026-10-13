@@ -1454,6 +1454,17 @@
   - tógálaí
   partOfSpeech: n
   source: 'LSG, Wisteria: tógálaí'
+09898763-n:
+  definition:
+  - confidence: 0.0
+    text: a cruel and brutal fellow
+  hypernym:
+  - 09840655-n
+  ili: i88725
+  members:
+  - rúscaire
+  partOfSpeech: n
+  source: 'LSG: rúscaire'
 09899893-n:
   definition:
   - confidence: 0.0
@@ -3938,6 +3949,17 @@
   - ceistitheoir
   partOfSpeech: n
   source: 'LSG, Wisteria: ceistitheoir'
+10228448-n:
+  definition:
+  - confidence: 0.0
+    text: a high ranking police officer
+  hypernym:
+  - 10468557-n
+  ili: i90712
+  members:
+  - cigire
+  partOfSpeech: n
+  source: 'Wisteria: cigire'
 10232171-n:
   definition:
   - confidence: 0.0
@@ -4003,8 +4025,9 @@
   ili: i90747
   members:
   - infheisteoir
+  - insealbhóir
   partOfSpeech: n
-  source: 'LSG, Wikidata, Wisteria: infheisteoir'
+  source: 'LSG, Wikidata, Wisteria: infheisteoir; LSG: insealbhóir'
 10236598-n:
   definition:
   - confidence: 0.0
@@ -5304,6 +5327,17 @@
   - íocóir
   partOfSpeech: n
   source: 'LSG, Wisteria: íocóir'
+10429870-n:
+  definition:
+  - confidence: 0.0
+    text: someone who keeps peace
+  hypernym:
+  - 09637714-n
+  ili: i91920
+  members:
+  - coimeádaí síochána
+  partOfSpeech: n
+  source: 'review: coimeádaí síochána'
 10431800-n:
   definition:
   - confidence: 0.0
@@ -5828,6 +5862,17 @@
   - prócadóir
   partOfSpeech: n
   source: 'LSG, Wikidata: prócadóir'
+10499146-n:
+  definition:
+  - confidence: 0.0
+    text: a recklessly extravagant consumer
+  hypernym:
+  - 09635878-n
+  ili: i92278
+  members:
+  - scaiptheoir
+  partOfSpeech: n
+  source: 'LSG: scaiptheoir'
 10499603-n:
   definition:
   - confidence: 0.0

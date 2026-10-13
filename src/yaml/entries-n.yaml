@@ -231,6 +231,8 @@ neamhchoitianta:
     sense:
     - id: 'neamhchoitianta%3:00:00::'
       synset: 00489640-a
+    - id: 'neamhchoitianta%3:00:01::'
+      synset: 00017062-a
 neamhchruthaithe:
   a:
     sense:
@@ -445,6 +447,11 @@ neamhúdaraithe:
     sense:
     - id: 'neamhúdaraithe%3:00:00::'
       synset: 00180786-a
+neamhúsáid:
+  n:
+    sense:
+    - id: 'neamhúsáid%1:07:00::'
+      synset: 05157835-n
 neart:
   n:
     sense:
