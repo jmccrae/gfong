@@ -1,0 +1,24 @@
+# Configuration for the EWE Wordnet Editor's Downloads page (see
+# ewe_dioxus/downloads.toml.example in https://github.com/jmccrae/ewe).
+#
+# Each [[release]] also pins the `commit` it is built from, which EWE
+# ignores. The files themselves are generated into `downloads_dir`
+# (git-ignored) by scripts/build_downloads.py:
+#
+#   python3 scripts/build_downloads.py add VERSION [--commit REV]
+#   EWE=/path/to/ewe python3 scripts/build_downloads.py build [VERSION ...]
+#
+# Releases are listed newest first.
+
+downloads_dir = "downloads"
+
+[[release]]
+version = "0.1"
+commit = "9206b1741ad51dba97a001285ad7d4f504e809f6"
+date = "2026-10-13"
+description = "GréasánFocal Oscailte na Gaeilge 0.1"
+files = [
+    { filename = "gfong-0.1.zip", format = "YAML source", description = "Full source in YAML format" },
+    { filename = "gfong-0.1.xml.gz", format = "WN-LMF XML", description = "WordNet LMF XML dump (gzipped)" },
+    { filename = "gfong-0.1.ttl.gz", format = "RDF/Turtle", description = "RDF Turtle dump (gzipped)" },
+]

@@ -39,6 +39,15 @@ Fáiltítear roimh gach cabhair: ceartúcháin, focail nua, sainmhínithe agus s
 - set_confidence: {synset: 01316879-n, definition: 1}   # gan scór = muinín iomlán
 ```
 
+### Eisiúintí
+
+Cumraíonn [`downloads.toml`](downloads.toml) leathanach Íoslódálacha EWE. Socraíonn gach `[[release]]` ann an `commit` as a dtógtar é. Tógann `scripts/build_downloads.py` an zip YAML, an XML WN-LMF agus an RDF/Turtle isteach in `downloads/` (nach bhfuil sa git).
+
+```bash
+python3 scripts/build_downloads.py add 0.2 --commit <sha>  # HEAD de réir réamhshocraithe
+EWE=~/p/jmccrae/ewe python3 scripts/build_downloads.py build
+```
+
 ### Ceadúnas
 
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Tá an acmhainn bunaithe go páirteach ar [Líonra Séimeantach na Gaeilge](http://borel.slu.edu/lsg/) (Kevin P. Scannell), ar an [Open English Wordnet](https://github.com/globalwordnet/english-wordnet) agus ar [Wikidata](https://www.wikidata.org/).
@@ -78,6 +87,15 @@ All help is welcome: corrections, new words, and Irish definitions and examples.
 ```yaml
 - change_definition: {synset: 01316879-n, definition: "ainmhí nó feithid a dhéanann damáiste do bharra nó do bheostoc"}
 - set_confidence: {synset: 01316879-n, definition: 1}   # no score = full confidence
+```
+
+### Releases
+
+[`downloads.toml`](downloads.toml) configures EWE's Downloads page. Each `[[release]]` pins the `commit` it is built from. `scripts/build_downloads.py` builds the YAML source zip, WN-LMF XML and RDF/Turtle into `downloads/` (git-ignored). Set `EWE` to the `ewe-cli` binary or an EWE checkout with a release build.
+
+```bash
+python3 scripts/build_downloads.py add 0.2 --commit <sha>  # defaults to HEAD
+EWE=~/p/jmccrae/ewe python3 scripts/build_downloads.py build
 ```
 
 ### Licence
