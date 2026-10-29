@@ -1,6 +1,7 @@
 *
 !settings.toml
 !downloads.toml
+!downloads
 !logo.svg
 !src/yaml
 !corpus
